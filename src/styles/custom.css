@@ -1,0 +1,24 @@
+:root {
+  --sl-color-accent-low: #e8efe7;
+  --sl-color-accent: #2f6b4f;
+  --sl-color-accent-high: #173a2b;
+}
+
+.content-panel blockquote {
+  border-inline-start: 4px solid var(--sl-color-accent);
+  background: color-mix(in srgb, var(--sl-color-accent) 7%, white);
+  border-radius: 0.75rem;
+  padding: 1rem 1.25rem;
+}
+
+.content-panel h2 {
+  scroll-margin-top: 6rem;
+}
+
+.content-panel strong {
+  color: var(--sl-color-text-accent);
+}
+
+.sl-markdown-content ul li + li {
+  margin-top: 0.45rem;
+}

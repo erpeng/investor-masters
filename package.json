@@ -1,0 +1,20 @@
+{
+  "name": "investors-site",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "check": "astro check",
+    "compile": "python3 scripts/compile_site.py"
+  },
+  "dependencies": {
+    "astro": "latest",
+    "@astrojs/starlight": "latest"
+  },
+  "devDependencies": {
+    "@astrojs/check": "latest",
+    "typescript": "latest"
+  }
+}
