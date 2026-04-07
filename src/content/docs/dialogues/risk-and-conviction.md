@@ -4,7 +4,7 @@ slug: "dialogues/risk-and-conviction"
 description: "霍华德·马克斯和德鲁肯米勒都懂风险，但他们使用风险的方式完全不同。"
 ---
 
-[霍华德·马克斯](/investor-master/investors/howard-marks/) 的语言总是先落在赔率、周期、风险控制和不确定性上。他最擅长做的事情，是在别人过度自信时提醒“你其实没那么知道”。[斯坦利·德鲁肯米勒](/investor-master/investors/stanley-druckenmiller/) 则不同，他同样理解不确定性，但会在少数时刻把仓位显著放大。
+[霍华德·马克斯](/investor-masters/investors/howard-marks/) 的语言总是先落在赔率、周期、风险控制和不确定性上。他最擅长做的事情，是在别人过度自信时提醒“你其实没那么知道”。[斯坦利·德鲁肯米勒](/investor-masters/investors/stanley-druckenmiller/) 则不同，他同样理解不确定性，但会在少数时刻把仓位显著放大。
 
 所以这两人不是“懂风险”和“不懂风险”的区别，而是一个把风险当作约束，一个把风险当作筛选后仍可重仓利用的机会。
 

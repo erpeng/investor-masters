@@ -11,16 +11,16 @@ description: "护城河 在这批资料 里的最佳入口。"
 
 ## 谁最深刻地讨论了这个概念
 
-[查理·芒格](/investor-master/investors/charlie-munger/) 和 [特里·史密斯](/investor-master/investors/terry-smith/) 对这个概念最接近。芒格更强调高质量企业背后的经济现实，史密斯则更直接地用资本回报、行业结构和管理层质量来筛掉“坏公司”。[沃伦·巴菲特](/investor-master/investors/warren-buffett/) 则把护城河和资本配置、管理层自治连在一起。
+[查理·芒格](/investor-masters/investors/charlie-munger/) 和 [特里·史密斯](/investor-masters/investors/terry-smith/) 对这个概念最接近。芒格更强调高质量企业背后的经济现实，史密斯则更直接地用资本回报、行业结构和管理层质量来筛掉“坏公司”。[沃伦·巴菲特](/investor-masters/investors/warren-buffett/) 则把护城河和资本配置、管理层自治连在一起。
 
 ## 相关概念
 
-- [能力圈](/investor-master/concepts/circle-of-competence/)
-- [共享规模经济](/investor-master/concepts/scale-economies-shared/)
-- [超级赢家](/investor-master/concepts/super-winners/)
+- [能力圈](/investor-masters/concepts/circle-of-competence/)
+- [共享规模经济](/investor-masters/concepts/scale-economies-shared/)
+- [超级赢家](/investor-masters/concepts/super-winners/)
 
 ## 主要来源
 
-- [2万字｜2008年芒格在加州理工与物理学家的罕见对谈，全程都是智慧四溅](/investor-master/sources/source-04/)
-- [4万字对话｜72岁传奇投资人特里·史密斯详述一生，如何塑造自己的投资风格](/investor-master/sources/source-06/)
-- [巴菲特亲自教授的一堂价值百万的MBA课程：如何在股市里赚大钱](/investor-master/sources/source-20/)
+- [2万字｜2008年芒格在加州理工与物理学家的罕见对谈，全程都是智慧四溅](/investor-masters/sources/source-04/)
+- [4万字对话｜72岁传奇投资人特里·史密斯详述一生，如何塑造自己的投资风格](/investor-masters/sources/source-06/)
+- [巴菲特亲自教授的一堂价值百万的MBA课程：如何在股市里赚大钱](/investor-masters/sources/source-20/)

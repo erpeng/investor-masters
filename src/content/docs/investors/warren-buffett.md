@@ -7,15 +7,15 @@ description: "把投资变成企业所有者游戏的人。"
 > **一句话定义**  
 > 把投资变成企业所有者游戏的人。
 
-> “right business，right people，right price。” 该句被段永平直接引用为核心原则。来源：[段永平：抄捷径是阴沟里翻船最快的方法](/investor-master/sources/source-25/)
+> “right business，right people，right price。” 该句被段永平直接引用为核心原则。来源：[段永平：抄捷径是阴沟里翻船最快的方法](/investor-masters/sources/source-25/)
 
-**所属机构**: [Berkshire Hathaway](/investor-master/institutions/berkshire-hathaway/)  
+**所属机构**: [Berkshire Hathaway](/investor-masters/institutions/berkshire-hathaway/)  
 **代表性持仓**: 可口可乐、美国运通  
 **核心方法**: 企业所有者 / 护城河 / 资本配置
 
 ## 简介
 
-沃伦·巴菲特是这个语料库里几乎所有投资语言的参照系。所属机构是 [伯克希尔·哈撒韦](/investor-master/companies/berkshire-hathaway/)。在现有资料 中，他不仅是长期资本配置与企业所有者视角的总源头，也是一种人格标准: 理性、清晰、长期、诚实。
+沃伦·巴菲特是这个语料库里几乎所有投资语言的参照系。所属机构是 [伯克希尔·哈撒韦](/investor-masters/companies/berkshire-hathaway/)。在现有资料 中，他不仅是长期资本配置与企业所有者视角的总源头，也是一种人格标准: 理性、清晰、长期、诚实。
 
 他的鲜活感不一定来自本库中的直接长访谈，而更来自后辈投资人如何反复引用他。有人从他那里学资本配置，有人学股东沟通，有人学能力圈，还有人只是反复重申“逻辑顺得像音乐一样”。
 ## 投资思想
@@ -36,8 +36,8 @@ description: "把投资变成企业所有者游戏的人。"
 
 ## 标志性语录
 
-- “right business，right people，right price。” 该句被段永平直接引用为核心原则。来源：[段永平：抄捷径是阴沟里翻船最快的方法](/investor-master/sources/source-25/)
-- “你不会那么容易甩掉我们的！” 这是 Nick Sleep / Qais Zakaria 卖掉伯克希尔后写信给巴菲特时的经典表态，也侧面反映巴菲特作为股东对象的特殊地位。来源：[一家低调的传奇机构，“黏住”亚马逊、开市客、伯克希尔大赚特赚](/investor-master/sources/source-12/)
+- “right business，right people，right price。” 该句被段永平直接引用为核心原则。来源：[段永平：抄捷径是阴沟里翻船最快的方法](/investor-masters/sources/source-25/)
+- “你不会那么容易甩掉我们的！” 这是 Nick Sleep / Qais Zakaria 卖掉伯克希尔后写信给巴菲特时的经典表态，也侧面反映巴菲特作为股东对象的特殊地位。来源：[一家低调的传奇机构，“黏住”亚马逊、开市客、伯克希尔大赚特赚](/investor-masters/sources/source-12/)
 
 ## 核心失误
 
@@ -45,9 +45,9 @@ description: "把投资变成企业所有者游戏的人。"
 
 ## 与其他人的差异
 
-与 [查理·芒格](/investor-master/investors/charlie-munger/) 相比，巴菲特更像资本配置与股东沟通的落地者，而芒格更像思维系统的升级器。
+与 [查理·芒格](/investor-masters/investors/charlie-munger/) 相比，巴菲特更像资本配置与股东沟通的落地者，而芒格更像思维系统的升级器。
 
-与 [比尔·米勒](/investor-master/investors/bill-miller/) 相比，巴菲特更稳健、更注重商业确定性，也更少依赖对未来极远处想象的显性押注。
+与 [比尔·米勒](/investor-masters/investors/bill-miller/) 相比，巴菲特更稳健、更注重商业确定性，也更少依赖对未来极远处想象的显性押注。
 
 ## 投资业绩
 
@@ -55,13 +55,13 @@ description: "把投资变成企业所有者游戏的人。"
 
 ## 投资风格相近的人
 
-- [查理·芒格](/investor-master/investors/charlie-munger/): 共同构成伯克希尔思维体系。
-- [段永平](/investor-master/investors/duan-yongping/): 在中文语境里最明显吸收了巴菲特式长期所有者视角。
-- [托德·库姆斯](/investor-master/investors/todd-combs/): 伯克希尔体系里的下一代简化版实践者。
+- [查理·芒格](/investor-masters/investors/charlie-munger/): 共同构成伯克希尔思维体系。
+- [段永平](/investor-masters/investors/duan-yongping/): 在中文语境里最明显吸收了巴菲特式长期所有者视角。
+- [托德·库姆斯](/investor-masters/investors/todd-combs/): 伯克希尔体系里的下一代简化版实践者。
 
 ## 主要来源
 
-- [巴菲特亲自教授的一堂价值百万的MBA课程：如何在股市里赚大钱](/investor-master/sources/source-20/)
-- [一家低调的传奇机构，“黏住”亚马逊、开市客、伯克希尔大赚特赚](/investor-master/sources/source-12/)
-- [莫尼什·帕伯莱：芒格会将简单的想法认真执行](/investor-master/sources/source-27/)
-- [“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-master/sources/source-09/)
+- [巴菲特亲自教授的一堂价值百万的MBA课程：如何在股市里赚大钱](/investor-masters/sources/source-20/)
+- [一家低调的传奇机构，“黏住”亚马逊、开市客、伯克希尔大赚特赚](/investor-masters/sources/source-12/)
+- [莫尼什·帕伯莱：芒格会将简单的想法认真执行](/investor-masters/sources/source-27/)
+- [“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-masters/sources/source-09/)

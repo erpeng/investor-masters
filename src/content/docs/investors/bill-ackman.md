@@ -7,7 +7,7 @@ description: "把投资做成公开战役的人。"
 > **一句话定义**  
 > 把投资做成公开战役的人。
 
-> “我是从阅读伯克希尔·哈撒韦的年度报告开始的。” 来源：[3.2万字｜潘兴广场比尔·阿克曼最有价值的一场对话，深谈价值投资、核心战役以及如何从人生谷底“爬坑”……](/investor-master/sources/source-05/)
+> “我是从阅读伯克希尔·哈撒韦的年度报告开始的。” 来源：[3.2万字｜潘兴广场比尔·阿克曼最有价值的一场对话，深谈价值投资、核心战役以及如何从人生谷底“爬坑”……](/investor-masters/sources/source-05/)
 
 **所属机构**: Pershing Square  
 **代表性持仓**: 集中持仓、事件驱动  
@@ -36,8 +36,8 @@ description: "把投资做成公开战役的人。"
 
 ## 标志性语录
 
-- “我是从阅读伯克希尔·哈撒韦的年度报告开始的。” 来源：[3.2万字｜潘兴广场比尔·阿克曼最有价值的一场对话，深谈价值投资、核心战役以及如何从人生谷底“爬坑”……](/investor-master/sources/source-05/)
-- “职业生涯的终极王牌。” 这是 现有资料对他打造 Howard Hughes 为“迷你伯克希尔”计划的概括。来源：[3.2万字｜潘兴广场比尔·阿克曼最有价值的一场对话，深谈价值投资、核心战役以及如何从人生谷底“爬坑”……](/investor-master/sources/source-05/)
+- “我是从阅读伯克希尔·哈撒韦的年度报告开始的。” 来源：[3.2万字｜潘兴广场比尔·阿克曼最有价值的一场对话，深谈价值投资、核心战役以及如何从人生谷底“爬坑”……](/investor-masters/sources/source-05/)
+- “职业生涯的终极王牌。” 这是 现有资料对他打造 Howard Hughes 为“迷你伯克希尔”计划的概括。来源：[3.2万字｜潘兴广场比尔·阿克曼最有价值的一场对话，深谈价值投资、核心战役以及如何从人生谷底“爬坑”……](/investor-masters/sources/source-05/)
 
 ## 核心失误
 
@@ -45,9 +45,9 @@ description: "把投资做成公开战役的人。"
 
 ## 与其他人的差异
 
-与 [霍华德·马克斯](/investor-master/investors/howard-marks/) 相比，阿克曼更公开、更进攻，也更依赖行动来放大判断。马克斯更像风险框架提供者，阿克曼更像战役执行者。
+与 [霍华德·马克斯](/investor-masters/investors/howard-marks/) 相比，阿克曼更公开、更进攻，也更依赖行动来放大判断。马克斯更像风险框架提供者，阿克曼更像战役执行者。
 
-与 [段永平](/investor-master/investors/duan-yongping/) 相比，差异也非常大。段永平几乎从不把投资做成公共事件，而阿克曼很多时候正是在公共事件中形成影响力。
+与 [段永平](/investor-masters/investors/duan-yongping/) 相比，差异也非常大。段永平几乎从不把投资做成公共事件，而阿克曼很多时候正是在公共事件中形成影响力。
 
 ## 投资业绩
 
@@ -57,9 +57,9 @@ description: "把投资做成公开战役的人。"
 
 ## 投资风格相近的人
 
-- [斯坦利·德鲁肯米勒](/investor-master/investors/stanley-druckenmiller/): 都会在高确信度下重仓，但阿克曼更主动介入公司。
-- [沃伦·巴菲特](/investor-master/investors/warren-buffett/): 都重视资本配置，但行动方式完全不同。
+- [斯坦利·德鲁肯米勒](/investor-masters/investors/stanley-druckenmiller/): 都会在高确信度下重仓，但阿克曼更主动介入公司。
+- [沃伦·巴菲特](/investor-masters/investors/warren-buffett/): 都重视资本配置，但行动方式完全不同。
 
 ## 主要来源
 
-- [3.2万字｜潘兴广场比尔·阿克曼最有价值的一场对话，深谈价值投资、核心战役以及如何从人生谷底“爬坑”……](/investor-master/sources/source-05/)
+- [3.2万字｜潘兴广场比尔·阿克曼最有价值的一场对话，深谈价值投资、核心战役以及如何从人生谷底“爬坑”……](/investor-masters/sources/source-05/)

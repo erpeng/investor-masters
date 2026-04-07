@@ -7,9 +7,9 @@ description: "沿着整条技术价值链去布局成长资产的人。"
 > **一句话定义**  
 > 沿着整条技术价值链去布局成长资产的人。
 
-> “在 AI 这个主题里，我们的布局是沿着整条价值链展开的。” 来源：[近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-master/sources/source-29/)
+> “在 AI 这个主题里，我们的布局是沿着整条价值链展开的。” 来源：[近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-masters/sources/source-29/)
 
-**所属机构**: [Baillie Gifford](/investor-master/institutions/baillie-gifford/)  
+**所属机构**: [Baillie Gifford](/investor-masters/institutions/baillie-gifford/)  
 **代表性持仓**: SpaceX、MiniMax  
 **核心方法**: 价值链布局 / AI / 未上市成长
 
@@ -36,9 +36,9 @@ description: "沿着整条技术价值链去布局成长资产的人。"
 
 ## 标志性语录
 
-- “在 AI 这个主题里，我们的布局是沿着整条价值链展开的。” 来源：[近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-master/sources/source-29/)
-- “我们做得很重要的一点，就是不会把 AI 押成一笔单一赌注。” 来源：[近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-master/sources/source-29/)
-- “企业愿意为 AI 付费这件事，我觉得比消费端更清晰，也更有规模。” 来源：[近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-master/sources/source-29/)
+- “在 AI 这个主题里，我们的布局是沿着整条价值链展开的。” 来源：[近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-masters/sources/source-29/)
+- “我们做得很重要的一点，就是不会把 AI 押成一笔单一赌注。” 来源：[近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-masters/sources/source-29/)
+- “企业愿意为 AI 付费这件事，我觉得比消费端更清晰，也更有规模。” 来源：[近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-masters/sources/source-29/)
 
 ## 核心失误
 
@@ -46,9 +46,9 @@ description: "沿着整条技术价值链去布局成长资产的人。"
 
 ## 与其他人的差异
 
-与 [汤姆·斯莱特](/investor-master/investors/tom-slater/) 相比，伯恩斯更偏组合结构与商业化路径分析。汤姆更多在谈约束迁移，伯恩斯更多在谈如何把这个判断转成可投资组合。
+与 [汤姆·斯莱特](/investor-masters/investors/tom-slater/) 相比，伯恩斯更偏组合结构与商业化路径分析。汤姆更多在谈约束迁移，伯恩斯更多在谈如何把这个判断转成可投资组合。
 
-与 [特里·史密斯](/investor-master/investors/terry-smith/) 相比，他能接受的估值波动和技术不确定性明显高得多。
+与 [特里·史密斯](/investor-masters/investors/terry-smith/) 相比，他能接受的估值波动和技术不确定性明显高得多。
 
 ## 投资业绩
 
@@ -56,9 +56,9 @@ description: "沿着整条技术价值链去布局成长资产的人。"
 
 ## 投资风格相近的人
 
-- [汤姆·斯莱特](/investor-master/investors/tom-slater/): 同一产品共同管理者。
-- [詹姆斯·安德森](/investor-master/investors/james-anderson/): 共享 Baillie Gifford 的长期成长精神。
+- [汤姆·斯莱特](/investor-masters/investors/tom-slater/): 同一产品共同管理者。
+- [詹姆斯·安德森](/investor-masters/investors/james-anderson/): 共享 Baillie Gifford 的长期成长精神。
 
 ## 主要来源
 
-- [近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-master/sources/source-29/)
+- [近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-masters/sources/source-29/)

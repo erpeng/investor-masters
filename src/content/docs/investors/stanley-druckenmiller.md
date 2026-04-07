@@ -7,7 +7,7 @@ description: "知道什么时候该把仓位做大的人。"
 > **一句话定义**  
 > 知道什么时候该把仓位做大的人。
 
-> “I couldn't stand success.” 来源：[Druckenmiller深度解析（附中英对照）](/investor-master/sources/source-07/)
+> “I couldn't stand success.” 来源：[Druckenmiller深度解析（附中英对照）](/investor-masters/sources/source-07/)
 
 **所属机构**: Duquesne  
 **代表性持仓**: 宏观趋势、成长拐点  
@@ -36,10 +36,10 @@ description: "知道什么时候该把仓位做大的人。"
 
 ## 标志性语录
 
-- “I couldn't stand success.” 来源：[Druckenmiller深度解析（附中英对照）](/investor-master/sources/source-07/)
-- “永远不要投资于现在——想象18个月后的世界。” 来源：[Druckenmiller深度解析（附中英对照）](/investor-master/sources/source-07/)
-- “I think contrarianism is overrated.” 来源：[Druckenmiller深度解析（附中英对照）](/investor-master/sources/source-07/)
-- “When they're really enthusiastic, that's as important to me as the actual data.” 来源：[Druckenmiller深度解析（附中英对照）](/investor-master/sources/source-07/)
+- “I couldn't stand success.” 来源：[Druckenmiller深度解析（附中英对照）](/investor-masters/sources/source-07/)
+- “永远不要投资于现在——想象18个月后的世界。” 来源：[Druckenmiller深度解析（附中英对照）](/investor-masters/sources/source-07/)
+- “I think contrarianism is overrated.” 来源：[Druckenmiller深度解析（附中英对照）](/investor-masters/sources/source-07/)
+- “When they're really enthusiastic, that's as important to me as the actual data.” 来源：[Druckenmiller深度解析（附中英对照）](/investor-masters/sources/source-07/)
 
 ## 核心失误
 
@@ -49,9 +49,9 @@ description: "知道什么时候该把仓位做大的人。"
 
 ## 与其他人的差异
 
-与 [霍华德·马克斯](/investor-master/investors/howard-marks/) 相比，德鲁肯米勒更快、更敢，也更依赖时机感。马克斯更像赔率守门员，德鲁肯米勒更像趋势指挥官。
+与 [霍华德·马克斯](/investor-masters/investors/howard-marks/) 相比，德鲁肯米勒更快、更敢，也更依赖时机感。马克斯更像赔率守门员，德鲁肯米勒更像趋势指挥官。
 
-与 [比尔·米勒](/investor-master/investors/bill-miller/) 相比，他没有那么企业分析导向。即使买个股，他下注的往往仍是一段更大的时代变化和再定价过程。
+与 [比尔·米勒](/investor-masters/investors/bill-miller/) 相比，他没有那么企业分析导向。即使买个股，他下注的往往仍是一段更大的时代变化和再定价过程。
 
 ## 投资业绩
 
@@ -61,10 +61,10 @@ description: "知道什么时候该把仓位做大的人。"
 
 ## 投资风格相近的人
 
-- [霍华德·马克斯](/investor-master/investors/howard-marks/): 都重视风险，但交易节奏不同。
-- [比尔·阿克曼](/investor-master/investors/bill-ackman/): 都会在高确信度下做大。
-- [比尔·米勒](/investor-master/investors/bill-miller/): 都愿意为非共识未来下注，但路径不同。
+- [霍华德·马克斯](/investor-masters/investors/howard-marks/): 都重视风险，但交易节奏不同。
+- [比尔·阿克曼](/investor-masters/investors/bill-ackman/): 都会在高确信度下做大。
+- [比尔·米勒](/investor-masters/investors/bill-miller/): 都愿意为非共识未来下注，但路径不同。
 
 ## 主要来源
 
-- [Druckenmiller深度解析（附中英对照）](/investor-master/sources/source-07/)
+- [Druckenmiller深度解析（附中英对照）](/investor-masters/sources/source-07/)

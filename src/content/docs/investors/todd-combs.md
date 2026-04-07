@@ -7,9 +7,9 @@ description: "把复杂商业问题压缩成可执行单元的人。"
 > **一句话定义**  
 > 把复杂商业问题压缩成可执行单元的人。
 
-> “如今，我身兼两职，既是GEICO首席执行官，又掌管着伯克希尔庞大的资金池。” 来源：[“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-master/sources/source-09/)
+> “如今，我身兼两职，既是GEICO首席执行官，又掌管着伯克希尔庞大的资金池。” 来源：[“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-masters/sources/source-09/)
 
-**所属机构**: [Berkshire Hathaway](/investor-master/institutions/berkshire-hathaway/)  
+**所属机构**: [Berkshire Hathaway](/investor-masters/institutions/berkshire-hathaway/)  
 **代表性持仓**: GEICO、伯克希尔资金池  
 **核心方法**: 简化 / 单店经济学 / 资本配置
 
@@ -36,8 +36,8 @@ description: "把复杂商业问题压缩成可执行单元的人。"
 
 ## 标志性语录
 
-- “如今，我身兼两职，既是GEICO首席执行官，又掌管着伯克希尔庞大的资金池。” 来源：[“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-master/sources/source-09/)
-- “单店模型往往比整体财报更能揭示商业本质。” 来源：[“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-master/sources/source-09/)
+- “如今，我身兼两职，既是GEICO首席执行官，又掌管着伯克希尔庞大的资金池。” 来源：[“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-masters/sources/source-09/)
+- “单店模型往往比整体财报更能揭示商业本质。” 来源：[“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-masters/sources/source-09/)
 
 ## 核心失误
 
@@ -45,9 +45,9 @@ description: "把复杂商业问题压缩成可执行单元的人。"
 
 ## 与其他人的差异
 
-与 [沃伦·巴菲特](/investor-master/investors/warren-buffett/) 相比，托德的表达更偏经营工程学，更少历史传奇气质。
+与 [沃伦·巴菲特](/investor-masters/investors/warren-buffett/) 相比，托德的表达更偏经营工程学，更少历史传奇气质。
 
-与 [段永平](/investor-master/investors/duan-yongping/) 相比，他更偏单店模型、公开数据和运营细节，而段永平更偏文化、直觉与“看懂”。
+与 [段永平](/investor-masters/investors/duan-yongping/) 相比，他更偏单店模型、公开数据和运营细节，而段永平更偏文化、直觉与“看懂”。
 
 ## 投资业绩
 
@@ -55,10 +55,10 @@ description: "把复杂商业问题压缩成可执行单元的人。"
 
 ## 投资风格相近的人
 
-- [沃伦·巴菲特](/investor-master/investors/warren-buffett/): 伯克希尔体系。
-- [查理·芒格](/investor-master/investors/charlie-munger/): 都强调避免复杂化。
-- [段永平](/investor-master/investors/duan-yongping/): 都在用极简框架抓商业本质。
+- [沃伦·巴菲特](/investor-masters/investors/warren-buffett/): 伯克希尔体系。
+- [查理·芒格](/investor-masters/investors/charlie-munger/): 都强调避免复杂化。
+- [段永平](/investor-masters/investors/duan-yongping/): 都在用极简框架抓商业本质。
 
 ## 主要来源
 
-- [“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-master/sources/source-09/)
+- [“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-masters/sources/source-09/)

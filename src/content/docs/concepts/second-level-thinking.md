@@ -11,14 +11,14 @@ description: "第二层思维 在这批资料 里的最佳入口。"
 
 ## 谁最深刻地讨论了这个概念
 
-[霍华德·马克斯](/investor-master/investors/howard-marks/) 是这个概念的核心代表。他的重点不在炫耀复杂，而在于提醒投资不是判断题，而是赔率题、位置题和行为题。
+[霍华德·马克斯](/investor-masters/investors/howard-marks/) 是这个概念的核心代表。他的重点不在炫耀复杂，而在于提醒投资不是判断题，而是赔率题、位置题和行为题。
 
 ## 相关概念
 
-- [反脆弱与仓位管理](/investor-master/concepts/antifragility-and-position-sizing/)
-- [时间套利](/investor-master/concepts/time-arbitrage/)
+- [反脆弱与仓位管理](/investor-masters/concepts/antifragility-and-position-sizing/)
+- [时间套利](/investor-masters/concepts/time-arbitrage/)
 
 ## 主要来源
 
-- [最新对话！霍华德·马克斯vs最大主权基金掌门：如何判断决策的质量](/investor-master/sources/source-23/)
-- [关于耐心与杠杆！霍华德与摩根的最新对话：历史不会重演，但人类的行为却总是重复](/investor-master/sources/source-16/)
+- [最新对话！霍华德·马克斯vs最大主权基金掌门：如何判断决策的质量](/investor-masters/sources/source-23/)
+- [关于耐心与杠杆！霍华德与摩根的最新对话：历史不会重演，但人类的行为却总是重复](/investor-masters/sources/source-16/)

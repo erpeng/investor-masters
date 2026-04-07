@@ -7,15 +7,15 @@ description: "用多学科框架压缩复杂世界的人。"
 > **一句话定义**  
 > 用多学科框架压缩复杂世界的人。
 
-> “把一个简单的想法认真对待。” 来源：[莫尼什·帕伯莱：芒格会将简单的想法认真执行](/investor-master/sources/source-27/)
+> “把一个简单的想法认真对待。” 来源：[莫尼什·帕伯莱：芒格会将简单的想法认真执行](/investor-masters/sources/source-27/)
 
-**所属机构**: [Berkshire Hathaway](/investor-master/institutions/berkshire-hathaway/)  
+**所属机构**: [Berkshire Hathaway](/investor-masters/institutions/berkshire-hathaway/)  
 **代表性持仓**: 伯克希尔、好企业筛选  
 **核心方法**: 多学科 / 反愚蠢 / 高质量企业
 
 ## 简介
 
-查理·芒格在这个库里不只是巴菲特的搭档，更像一个“思维操作系统”。主要关联机构是 [伯克希尔·哈撒韦](/investor-master/companies/berkshire-hathaway/)，但他的影响明显超出了伯克希尔本身，几乎渗透进质量投资、长期主义和多学科判断的整个语义系统。
+查理·芒格在这个库里不只是巴菲特的搭档，更像一个“思维操作系统”。主要关联机构是 [伯克希尔·哈撒韦](/investor-masters/companies/berkshire-hathaway/)，但他的影响明显超出了伯克希尔本身，几乎渗透进质量投资、长期主义和多学科判断的整个语义系统。
 
 他的鲜活感并不来自夸张的人设，而来自思维密度。很多后辈提到芒格时，不是在说“他教了我一个技巧”，而是在说“他改变了我理解问题的方式”。
 ## 投资思想
@@ -36,9 +36,9 @@ description: "用多学科框架压缩复杂世界的人。"
 
 ## 标志性语录
 
-- “把一个简单的想法认真对待。” 来源：[莫尼什·帕伯莱：芒格会将简单的想法认真执行](/investor-master/sources/source-27/)
-- “我努力成为一个有用的人。” 来源：[莫尼什·帕伯莱：芒格会将简单的想法认真执行](/investor-master/sources/source-27/)
-- “别做蠢事。” 该句被特里·史密斯视作对芒格思维方式的完美总结。来源：[4万字对话｜72岁传奇投资人特里·史密斯详述一生，如何塑造自己的投资风格](/investor-master/sources/source-06/)
+- “把一个简单的想法认真对待。” 来源：[莫尼什·帕伯莱：芒格会将简单的想法认真执行](/investor-masters/sources/source-27/)
+- “我努力成为一个有用的人。” 来源：[莫尼什·帕伯莱：芒格会将简单的想法认真执行](/investor-masters/sources/source-27/)
+- “别做蠢事。” 该句被特里·史密斯视作对芒格思维方式的完美总结。来源：[4万字对话｜72岁传奇投资人特里·史密斯详述一生，如何塑造自己的投资风格](/investor-masters/sources/source-06/)
 
 ## 核心失误
 
@@ -46,9 +46,9 @@ description: "用多学科框架压缩复杂世界的人。"
 
 ## 与其他人的差异
 
-与 [沃伦·巴菲特](/investor-master/investors/warren-buffett/) 相比，芒格在本语料里更像“观念升级器”。巴菲特更像资本配置与企业所有者视角的落地者，而芒格更像改变对方问题定义方式的人。
+与 [沃伦·巴菲特](/investor-masters/investors/warren-buffett/) 相比，芒格在本语料里更像“观念升级器”。巴菲特更像资本配置与企业所有者视角的落地者，而芒格更像改变对方问题定义方式的人。
 
-与 [特里·史密斯](/investor-master/investors/terry-smith/) 相比，芒格更抽象、更强调心智结构；史密斯则把这些原则压缩成更具体的行业与企业过滤器。
+与 [特里·史密斯](/investor-masters/investors/terry-smith/) 相比，芒格更抽象、更强调心智结构；史密斯则把这些原则压缩成更具体的行业与企业过滤器。
 
 ## 投资业绩
 
@@ -58,13 +58,13 @@ description: "用多学科框架压缩复杂世界的人。"
 
 ## 投资风格相近的人
 
-- [沃伦·巴菲特](/investor-master/investors/warren-buffett/): 共同构成伯克希尔思维体系。
-- [特里·史密斯](/investor-master/investors/terry-smith/): 都强调高资本回报、少犯错、长期持有。
-- [莫尼什·帕伯莱](/investor-master/investors/monish-pabrai/): 明确把自己定位为巴芒学习者。
+- [沃伦·巴菲特](/investor-masters/investors/warren-buffett/): 共同构成伯克希尔思维体系。
+- [特里·史密斯](/investor-masters/investors/terry-smith/): 都强调高资本回报、少犯错、长期持有。
+- [莫尼什·帕伯莱](/investor-masters/investors/monish-pabrai/): 明确把自己定位为巴芒学习者。
 
 ## 主要来源
 
-- [2万字｜2008年芒格在加州理工与物理学家的罕见对谈，全程都是智慧四溅](/investor-master/sources/source-04/)
-- [莫尼什·帕伯莱：芒格会将简单的想法认真执行](/investor-master/sources/source-27/)
-- [4万字对话｜72岁传奇投资人特里·史密斯详述一生，如何塑造自己的投资风格](/investor-master/sources/source-06/)
-- [一家低调的传奇机构，“黏住”亚马逊、开市客、伯克希尔大赚特赚](/investor-master/sources/source-12/)
+- [2万字｜2008年芒格在加州理工与物理学家的罕见对谈，全程都是智慧四溅](/investor-masters/sources/source-04/)
+- [莫尼什·帕伯莱：芒格会将简单的想法认真执行](/investor-masters/sources/source-27/)
+- [4万字对话｜72岁传奇投资人特里·史密斯详述一生，如何塑造自己的投资风格](/investor-masters/sources/source-06/)
+- [一家低调的传奇机构，“黏住”亚马逊、开市客、伯克希尔大赚特赚](/investor-masters/sources/source-12/)

@@ -7,9 +7,9 @@ description: "把安德森式成长哲学继续执行下去的人。"
 > **一句话定义**  
 > 把安德森式成长哲学继续执行下去的人。
 
-> “我们真正想做的，是找到少数几家真正卓越的企业。” 来源：[近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-master/sources/source-29/)
+> “我们真正想做的，是找到少数几家真正卓越的企业。” 来源：[近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-masters/sources/source-29/)
 
-**所属机构**: [Baillie Gifford](/investor-master/institutions/baillie-gifford/)  
+**所属机构**: [Baillie Gifford](/investor-masters/institutions/baillie-gifford/)  
 **代表性持仓**: SpaceX、软件资产  
 **核心方法**: 成长分布 / 长持 / 约束迁移
 
@@ -36,9 +36,9 @@ description: "把安德森式成长哲学继续执行下去的人。"
 
 ## 标志性语录
 
-- “我们真正想做的，是找到少数几家真正卓越的企业。” 来源：[近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-master/sources/source-29/)
-- “如果真正的约束就在于，能不能以足够低的成本进入太空，那么 SpaceX掌握的，就是那个最关键的瓶颈。” 来源：[近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-master/sources/source-29/)
-- “过去几个月，我们在中国新增了两个持仓，一个是小红书一个是 MiniMax。” 来源：[近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-master/sources/source-29/)
+- “我们真正想做的，是找到少数几家真正卓越的企业。” 来源：[近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-masters/sources/source-29/)
+- “如果真正的约束就在于，能不能以足够低的成本进入太空，那么 SpaceX掌握的，就是那个最关键的瓶颈。” 来源：[近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-masters/sources/source-29/)
+- “过去几个月，我们在中国新增了两个持仓，一个是小红书一个是 MiniMax。” 来源：[近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-masters/sources/source-29/)
 
 ## 核心失误
 
@@ -46,9 +46,9 @@ description: "把安德森式成长哲学继续执行下去的人。"
 
 ## 与其他人的差异
 
-与 [詹姆斯·安德森](/investor-master/investors/james-anderson/) 相比，汤姆更像体系继承者和执行者，少一些宏大方法论宣言，多一些约束与价值链分析。
+与 [詹姆斯·安德森](/investor-masters/investors/james-anderson/) 相比，汤姆更像体系继承者和执行者，少一些宏大方法论宣言，多一些约束与价值链分析。
 
-与 [特里·史密斯](/investor-master/investors/terry-smith/) 相比，汤姆更愿意承受未上市资产和前沿技术的不确定性。
+与 [特里·史密斯](/investor-masters/investors/terry-smith/) 相比，汤姆更愿意承受未上市资产和前沿技术的不确定性。
 
 ## 投资业绩
 
@@ -56,10 +56,10 @@ description: "把安德森式成长哲学继续执行下去的人。"
 
 ## 投资风格相近的人
 
-- [詹姆斯·安德森](/investor-master/investors/james-anderson/): 同一成长体系。
-- [劳伦斯·伯恩斯](/investor-master/investors/lawrence-burns/): 同一产品共同管理者。
-- [比尔·米勒](/investor-master/investors/bill-miller/): 都重视未来价值创造，而不是只看历史倍数。
+- [詹姆斯·安德森](/investor-masters/investors/james-anderson/): 同一成长体系。
+- [劳伦斯·伯恩斯](/investor-masters/investors/lawrence-burns/): 同一产品共同管理者。
+- [比尔·米勒](/investor-masters/investors/bill-miller/): 都重视未来价值创造，而不是只看历史倍数。
 
 ## 主要来源
 
-- [近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-master/sources/source-29/)
+- [近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-masters/sources/source-29/)

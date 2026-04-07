@@ -13,10 +13,10 @@ description: "把分散的投资访谈、合伙人信和机构材料，编译成
 
 ## 从哪里开始
 
-- **我想了解价值投资**: [沃伦·巴菲特](/investor-master/investors/warren-buffett/)、[查理·芒格](/investor-master/investors/charlie-munger/)、[特里·史密斯](/investor-master/investors/terry-smith/)
-- **我想了解成长投资**: [詹姆斯·安德森](/investor-master/investors/james-anderson/)、[汤姆·斯莱特](/investor-master/investors/tom-slater/)、[劳伦斯·伯恩斯](/investor-master/investors/lawrence-burns/)
-- **我想了解宏观与风险**: [霍华德·马克斯](/investor-master/investors/howard-marks/)、[斯坦利·德鲁肯米勒](/investor-master/investors/stanley-druckenmiller/)、[格雷格·詹森](/investor-master/investors/greg-jensen/)
-- **我想看最不寻常的思维**: [尼克·斯利普](/investor-master/investors/nick-sleep/)、[尼科莱·坦根](/investor-master/investors/nicolai-tangen/)
+- **我想了解价值投资**: [沃伦·巴菲特](/investor-masters/investors/warren-buffett/)、[查理·芒格](/investor-masters/investors/charlie-munger/)、[特里·史密斯](/investor-masters/investors/terry-smith/)
+- **我想了解成长投资**: [詹姆斯·安德森](/investor-masters/investors/james-anderson/)、[汤姆·斯莱特](/investor-masters/investors/tom-slater/)、[劳伦斯·伯恩斯](/investor-masters/investors/lawrence-burns/)
+- **我想了解宏观与风险**: [霍华德·马克斯](/investor-masters/investors/howard-marks/)、[斯坦利·德鲁肯米勒](/investor-masters/investors/stanley-druckenmiller/)、[格雷格·詹森](/investor-masters/investors/greg-jensen/)
+- **我想看最不寻常的思维**: [尼克·斯利普](/investor-masters/investors/nick-sleep/)、[尼科莱·坦根](/investor-masters/investors/nicolai-tangen/)
 
 ## 精选语录墙
 
@@ -30,9 +30,9 @@ description: "把分散的投资访谈、合伙人信和机构材料，编译成
 
 ## 对话与争议
 
-- [质量价值 vs 成长非共识](/investor-master/dialogues/quality-vs-growth/)
-- [保守的风险语言 vs 激进的仓位语言](/investor-master/dialogues/risk-and-conviction/)
-- [不懂不碰 vs 未来信息才重要](/investor-master/dialogues/certainty-vs-future/)
+- [质量价值 vs 成长非共识](/investor-masters/dialogues/quality-vs-growth/)
+- [保守的风险语言 vs 激进的仓位语言](/investor-masters/dialogues/risk-and-conviction/)
+- [不懂不碰 vs 未来信息才重要](/investor-masters/dialogues/certainty-vs-future/)
 
 ## 最近更新
 

@@ -7,7 +7,7 @@ description: "Oaktree Capital 的机构级哲学、文化与传承。"
 
 Oaktree Capital 由霍华德·马克斯等人于 1995 年创立，是一家以另类资产尤其是信贷投资见长的全球资产管理机构。根据其官方 `About` 页面，截到 2025 年 12 月 31 日，管理资产约为 `$223bn`。[官方页面](https://www.oaktreecapital.com/about)
 
-它在这批资料中重要，不只是因为 [霍华德·马克斯](/investor-master/investors/howard-marks/) 个人影响力大，更因为 Oaktree 几乎是少数把“机构级哲学”写得非常清楚、持续并公开输出的公司。很多人通过 Marks 的备忘录认识他，但这些备忘录本质上也是 Oaktree 的知识资产。
+它在这批资料中重要，不只是因为 [霍华德·马克斯](/investor-masters/investors/howard-marks/) 个人影响力大，更因为 Oaktree 几乎是少数把“机构级哲学”写得非常清楚、持续并公开输出的公司。很多人通过 Marks 的备忘录认识他，但这些备忘录本质上也是 Oaktree 的知识资产。
 
 ## 投资哲学（机构级）
 
@@ -23,14 +23,14 @@ Oaktree 的机构哲学在现有资料里有极高一致性。霍华德在与坦
 
 ## 代表性投资人
 
-- [霍华德·马克斯](/investor-master/investors/howard-marks/): Oaktree 机构哲学的最主要公开表达者，也是备忘录系统的核心作者。
+- [霍华德·马克斯](/investor-masters/investors/howard-marks/): Oaktree 机构哲学的最主要公开表达者，也是备忘录系统的核心作者。
 
 这批资料 里 Oaktree 主要通过霍华德这一个人被观察到，但这不意味着它是单人机构。相反，正是因为霍华德能反复把机构原则讲到六点框架、备忘录谱系和风控边界，才更说明 Oaktree 已经形成了较强的组织共识。
 
 ## 标志性公开材料
 
-- [最新对话！霍华德·马克斯vs最大主权基金掌门：如何判断决策的质量](/investor-master/sources/source-23/)：六点哲学、决策质量与周期位置判断。
-- [关于耐心与杠杆！霍华德与摩根的最新对话：历史不会重演，但人类的行为却总是重复](/investor-master/sources/source-16/)：备忘录如何进入公共讨论，以及 Oaktree 如何围绕耐心、杠杆与风险控制表达自己。
+- [最新对话！霍华德·马克斯vs最大主权基金掌门：如何判断决策的质量](/investor-masters/sources/source-23/)：六点哲学、决策质量与周期位置判断。
+- [关于耐心与杠杆！霍华德与摩根的最新对话：历史不会重演，但人类的行为却总是重复](/investor-masters/sources/source-16/)：备忘录如何进入公共讨论，以及 Oaktree 如何围绕耐心、杠杆与风险控制表达自己。
 - `Oaktree memos`：如《钟摆》《波动+杠杆=炸药》《知识的幻觉》《测量温度》等，都是机构思想的直接载体。
 - [Oaktree About](https://www.oaktreecapital.com/about)：官方层面对规模、资产类别与机构定位的介绍。
 

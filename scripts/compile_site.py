@@ -11,7 +11,7 @@ VAULT = Path(os.environ.get("INVESTORS_VAULT", ROOT / "vault")).expanduser()
 WIKI_DIR = VAULT / "wiki"
 RAW_DIR = VAULT / "raw"
 DOCS_DIR = ROOT / "src" / "content" / "docs"
-SITE_BASE = "/investor-master"
+SITE_BASE = "/investor-masters"
 
 if not VAULT.exists():
     raise SystemExit(

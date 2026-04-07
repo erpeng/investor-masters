@@ -7,9 +7,9 @@ description: "把风险语言写得比大多数人更清楚的人。"
 > **一句话定义**  
 > 把风险语言写得比大多数人更清楚的人。
 
-> “历史不会重演，但人类的行为却总是重复。” 来源：[关于耐心与杠杆！霍华德与摩根的最新对话：历史不会重演，但人类的行为却总是重复](/investor-master/sources/source-16/)
+> “历史不会重演，但人类的行为却总是重复。” 来源：[关于耐心与杠杆！霍华德与摩根的最新对话：历史不会重演，但人类的行为却总是重复](/investor-masters/sources/source-16/)
 
-**所属机构**: [Oaktree Capital](/investor-master/institutions/oaktree-capital/)  
+**所属机构**: [Oaktree Capital](/investor-masters/institutions/oaktree-capital/)  
 **代表性持仓**: 信贷、困境资产  
 **核心方法**: 周期 / 赔率 / 风险控制
 
@@ -36,9 +36,9 @@ description: "把风险语言写得比大多数人更清楚的人。"
 
 ## 标志性语录
 
-- “历史不会重演，但人类的行为却总是重复。” 来源：[关于耐心与杠杆！霍华德与摩根的最新对话：历史不会重演，但人类的行为却总是重复](/investor-master/sources/source-16/)
-- “如何判断决策的质量。” 这是他在与主权基金掌门对谈中持续围绕的核心问题。来源：[最新对话！霍华德·马克斯vs最大主权基金掌门：如何判断决策的质量](/investor-master/sources/source-23/)
-- “我们的业绩并不取决于我们的买卖行为，而是取决于我们的持有行为。” 该句为他高度认同并在语境中引用。来源：[关于耐心与杠杆！霍华德与摩根的最新对话：历史不会重演，但人类的行为却总是重复](/investor-master/sources/source-16/)
+- “历史不会重演，但人类的行为却总是重复。” 来源：[关于耐心与杠杆！霍华德与摩根的最新对话：历史不会重演，但人类的行为却总是重复](/investor-masters/sources/source-16/)
+- “如何判断决策的质量。” 这是他在与主权基金掌门对谈中持续围绕的核心问题。来源：[最新对话！霍华德·马克斯vs最大主权基金掌门：如何判断决策的质量](/investor-masters/sources/source-23/)
+- “我们的业绩并不取决于我们的买卖行为，而是取决于我们的持有行为。” 该句为他高度认同并在语境中引用。来源：[关于耐心与杠杆！霍华德与摩根的最新对话：历史不会重演，但人类的行为却总是重复](/investor-masters/sources/source-16/)
 
 ## 核心失误
 
@@ -48,9 +48,9 @@ description: "把风险语言写得比大多数人更清楚的人。"
 
 ## 与其他人的差异
 
-和 [斯坦利·德鲁肯米勒](/investor-master/investors/stanley-druckenmiller/) 相比，马克斯更重视赔率和风险边界，而不是在看对时迅速做大。德鲁肯米勒更像进攻型将军，马克斯更像风暴预报员。
+和 [斯坦利·德鲁肯米勒](/investor-masters/investors/stanley-druckenmiller/) 相比，马克斯更重视赔率和风险边界，而不是在看对时迅速做大。德鲁肯米勒更像进攻型将军，马克斯更像风暴预报员。
 
-和 [比尔·阿克曼](/investor-master/investors/bill-ackman/) 相比，差异也非常明显。阿克曼更依赖高确信度战役和公开施压，马克斯则几乎不靠戏剧性动作塑造回报，而是靠慢变量和风险纪律。
+和 [比尔·阿克曼](/investor-masters/investors/bill-ackman/) 相比，差异也非常明显。阿克曼更依赖高确信度战役和公开施压，马克斯则几乎不靠戏剧性动作塑造回报，而是靠慢变量和风险纪律。
 
 ## 投资业绩
 
@@ -60,11 +60,11 @@ description: "把风险语言写得比大多数人更清楚的人。"
 
 ## 投资风格相近的人
 
-- [斯坦利·德鲁肯米勒](/investor-master/investors/stanley-druckenmiller/): 都重视宏观与仓位，但节奏不同。
-- [沃伦·巴菲特](/investor-master/investors/warren-buffett/): 都强调不要因结构性错误而永久损失资本。
-- [特里·史密斯](/investor-master/investors/terry-smith/): 都有很强的“少犯大错”意识，但资产类型不同。
+- [斯坦利·德鲁肯米勒](/investor-masters/investors/stanley-druckenmiller/): 都重视宏观与仓位，但节奏不同。
+- [沃伦·巴菲特](/investor-masters/investors/warren-buffett/): 都强调不要因结构性错误而永久损失资本。
+- [特里·史密斯](/investor-masters/investors/terry-smith/): 都有很强的“少犯大错”意识，但资产类型不同。
 
 ## 主要来源
 
-- [最新对话！霍华德·马克斯vs最大主权基金掌门：如何判断决策的质量](/investor-master/sources/source-23/)
-- [关于耐心与杠杆！霍华德与摩根的最新对话：历史不会重演，但人类的行为却总是重复](/investor-master/sources/source-16/)
+- [最新对话！霍华德·马克斯vs最大主权基金掌门：如何判断决策的质量](/investor-masters/sources/source-23/)
+- [关于耐心与杠杆！霍华德与摩根的最新对话：历史不会重演，但人类的行为却总是重复](/investor-masters/sources/source-16/)

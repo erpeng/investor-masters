@@ -7,7 +7,7 @@ description: "把复制优秀先例当成正式方法的人。"
 > **一句话定义**  
 > 把复制优秀先例当成正式方法的人。
 
-> “我很早就了解到克隆和复制的力量。” 来源：[莫尼什·帕伯莱：芒格会将简单的想法认真执行](/investor-master/sources/source-27/)
+> “我很早就了解到克隆和复制的力量。” 来源：[莫尼什·帕伯莱：芒格会将简单的想法认真执行](/investor-masters/sources/source-27/)
 
 **所属机构**: Pabrai Funds  
 **代表性持仓**: 巴菲特学派、集中投资  
@@ -36,9 +36,9 @@ description: "把复制优秀先例当成正式方法的人。"
 
 ## 标志性语录
 
-- “我很早就了解到克隆和复制的力量。” 来源：[莫尼什·帕伯莱：芒格会将简单的想法认真执行](/investor-master/sources/source-27/)
-- “极少数人是克隆高手，而这些人拥有了整个世界。” 来源：[莫尼什·帕伯莱：芒格会将简单的想法认真执行](/investor-master/sources/source-27/)
-- “一旦下定决心，坚持不懈地追求简单的想法，就会有很多好的结果。” 来源：[莫尼什·帕伯莱：芒格会将简单的想法认真执行](/investor-master/sources/source-27/)
+- “我很早就了解到克隆和复制的力量。” 来源：[莫尼什·帕伯莱：芒格会将简单的想法认真执行](/investor-masters/sources/source-27/)
+- “极少数人是克隆高手，而这些人拥有了整个世界。” 来源：[莫尼什·帕伯莱：芒格会将简单的想法认真执行](/investor-masters/sources/source-27/)
+- “一旦下定决心，坚持不懈地追求简单的想法，就会有很多好的结果。” 来源：[莫尼什·帕伯莱：芒格会将简单的想法认真执行](/investor-masters/sources/source-27/)
 
 ## 核心失误
 
@@ -46,9 +46,9 @@ description: "把复制优秀先例当成正式方法的人。"
 
 ## 与其他人的差异
 
-与 [比尔·米勒](/investor-master/investors/bill-miller/) 相比，帕伯莱更明显地把“复制高手”作为方法论核心。米勒更强调自己对未来和时间维度的独立判断，帕伯莱则更愿意从大师验证过的路径直接出发。
+与 [比尔·米勒](/investor-masters/investors/bill-miller/) 相比，帕伯莱更明显地把“复制高手”作为方法论核心。米勒更强调自己对未来和时间维度的独立判断，帕伯莱则更愿意从大师验证过的路径直接出发。
 
-与 [段永平](/investor-master/investors/duan-yongping/) 相比，帕伯莱也更显性地强调学习对象和模仿源头。段永平虽然也深受巴芒影响，但在表达上更像“悟出来的”，帕伯莱更像“学出来的”。
+与 [段永平](/investor-masters/investors/duan-yongping/) 相比，帕伯莱也更显性地强调学习对象和模仿源头。段永平虽然也深受巴芒影响，但在表达上更像“悟出来的”，帕伯莱更像“学出来的”。
 
 ## 投资业绩
 
@@ -58,10 +58,10 @@ description: "把复制优秀先例当成正式方法的人。"
 
 ## 投资风格相近的人
 
-- [查理·芒格](/investor-master/investors/charlie-munger/): 学习来源。
-- [沃伦·巴菲特](/investor-master/investors/warren-buffett/): 学习来源。
-- [段永平](/investor-master/investors/duan-yongping/): 都有明显的巴菲特式长期主义。
+- [查理·芒格](/investor-masters/investors/charlie-munger/): 学习来源。
+- [沃伦·巴菲特](/investor-masters/investors/warren-buffett/): 学习来源。
+- [段永平](/investor-masters/investors/duan-yongping/): 都有明显的巴菲特式长期主义。
 
 ## 主要来源
 
-- [莫尼什·帕伯莱：芒格会将简单的想法认真执行](/investor-master/sources/source-27/)
+- [莫尼什·帕伯莱：芒格会将简单的想法认真执行](/investor-masters/sources/source-27/)

@@ -40,11 +40,12 @@ npm run dev
 
 - 当前 `astro.config.mjs` 预设：
   - `site: https://erpeng.github.io`
-  - `base: /investor-master`
+  - `base: /investor-masters`
 - 如果仓库名变化，需要同步修改 `base`
 
 线上地址：
 
 - `https://erpeng.github.io/investor-master`
+ - `https://erpeng.github.io/investor-masters`
 
 部署工作流在 `.github/workflows/deploy.yml`。

@@ -7,9 +7,9 @@ description: "与 Sleep 一起把漫长而简单的游戏做成实验的人。"
 > **一句话定义**  
 > 与 Sleep 一起把漫长而简单的游戏做成实验的人。
 
-> “漫长而简单的游戏。” 来源：[一家低调的传奇机构，“黏住”亚马逊、开市客、伯克希尔大赚特赚](/investor-master/sources/source-12/)
+> “漫长而简单的游戏。” 来源：[一家低调的传奇机构，“黏住”亚马逊、开市客、伯克希尔大赚特赚](/investor-masters/sources/source-12/)
 
-**所属机构**: [Nomad Investment Partnership](/investor-master/institutions/nomad-investment-partnership/)  
+**所属机构**: [Nomad Investment Partnership](/investor-masters/institutions/nomad-investment-partnership/)  
 **代表性持仓**: Amazon、Costco  
 **核心方法**: 长期集中 / 自我约束 / 共享规模经济
 
@@ -34,8 +34,8 @@ description: "与 Sleep 一起把漫长而简单的游戏做成实验的人。"
 
 ## 标志性语录
 
-- “漫长而简单的游戏。” 来源：[一家低调的传奇机构，“黏住”亚马逊、开市客、伯克希尔大赚特赚](/investor-master/sources/source-12/)
-- “他们的‘实验’目标，就是把游牧人的资产净值提高10倍。” 来源：[一家低调的传奇机构，“黏住”亚马逊、开市客、伯克希尔大赚特赚](/investor-master/sources/source-12/)
+- “漫长而简单的游戏。” 来源：[一家低调的传奇机构，“黏住”亚马逊、开市客、伯克希尔大赚特赚](/investor-masters/sources/source-12/)
+- “他们的‘实验’目标，就是把游牧人的资产净值提高10倍。” 来源：[一家低调的传奇机构，“黏住”亚马逊、开市客、伯克希尔大赚特赚](/investor-masters/sources/source-12/)
 
 ## 核心失误
 
@@ -43,7 +43,7 @@ description: "与 Sleep 一起把漫长而简单的游戏做成实验的人。"
 
 ## 与其他人的差异
 
-与 [尼克·斯利普](/investor-master/investors/nick-sleep/) 相比，扎卡里亚当前在 现有资料中的人物细节更少，但其作用更像研究与执行搭档，而不是单纯的共同署名者。
+与 [尼克·斯利普](/investor-masters/investors/nick-sleep/) 相比，扎卡里亚当前在 现有资料中的人物细节更少，但其作用更像研究与执行搭档，而不是单纯的共同署名者。
 
 ## 投资业绩
 
@@ -51,9 +51,9 @@ description: "与 Sleep 一起把漫长而简单的游戏做成实验的人。"
 
 ## 投资风格相近的人
 
-- [尼克·斯利普](/investor-master/investors/nick-sleep/): Nomad 双核。
-- [特里·史密斯](/investor-master/investors/terry-smith/): 都对长期持有少数优秀公司有高度信念。
+- [尼克·斯利普](/investor-masters/investors/nick-sleep/): Nomad 双核。
+- [特里·史密斯](/investor-masters/investors/terry-smith/): 都对长期持有少数优秀公司有高度信念。
 
 ## 主要来源
 
-- [一家低调的传奇机构，“黏住”亚马逊、开市客、伯克希尔大赚特赚](/investor-master/sources/source-12/)
+- [一家低调的传奇机构，“黏住”亚马逊、开市客、伯克希尔大赚特赚](/investor-masters/sources/source-12/)

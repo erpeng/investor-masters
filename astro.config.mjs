@@ -3,7 +3,7 @@ import starlight from '@astrojs/starlight';
 
 export default defineConfig({
   site: 'https://erpeng.github.io',
-  base: '/investor-master',
+  base: '/investor-masters',
   integrations: [
     starlight({
       title: 'Investors Wiki',

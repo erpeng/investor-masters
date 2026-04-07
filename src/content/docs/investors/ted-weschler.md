@@ -7,9 +7,9 @@ description: "低调但长期业绩极扎实的伯克希尔传承者。"
 > **一句话定义**  
 > 低调但长期业绩极扎实的伯克希尔传承者。
 
-> “我从 1979 年开始读巴菲特写的东西，读着读着就觉得: 哇，他说的话非常清晰，而且很有道理。” 来源：[Ted Weschler-2022-Q&A-Podcast（NFM）](/investor-master/sources/source-08/)
+> “我从 1979 年开始读巴菲特写的东西，读着读着就觉得: 哇，他说的话非常清晰，而且很有道理。” 来源：[Ted Weschler-2022-Q&A-Podcast（NFM）](/investor-masters/sources/source-08/)
 
-**所属机构**: [Berkshire Hathaway](/investor-master/institutions/berkshire-hathaway/)  
+**所属机构**: [Berkshire Hathaway](/investor-masters/institutions/berkshire-hathaway/)  
 **代表性持仓**: Peninsula、伯克希尔证券投资  
 **核心方法**: 长期关系 / 清晰判断 / 低噪音
 
@@ -36,10 +36,10 @@ description: "低调但长期业绩极扎实的伯克希尔传承者。"
 
 ## 标志性语录
 
-- “我从 1979 年开始读巴菲特写的东西，读着读着就觉得: 哇，他说的话非常清晰，而且很有道理。” 来源：[Ted Weschler-2022-Q&A-Podcast（NFM）](/investor-master/sources/source-08/)
-- “你在哪儿管钱都行，对我来说你在月球上也没问题。” 来源：[Ted Weschler-2022-Q&A-Podcast（NFM）](/investor-master/sources/source-08/)
-- “有时候你会想把盘子整个刮干净，开始做一件新的事。” 来源：[Ted Weschler-2022-Q&A-Podcast（NFM）](/investor-master/sources/source-08/)
-- “运气、运气、还是运气。” 来源：[Ted Weschler-2022-Q&A-Podcast（NFM）](/investor-master/sources/source-08/)
+- “我从 1979 年开始读巴菲特写的东西，读着读着就觉得: 哇，他说的话非常清晰，而且很有道理。” 来源：[Ted Weschler-2022-Q&A-Podcast（NFM）](/investor-masters/sources/source-08/)
+- “你在哪儿管钱都行，对我来说你在月球上也没问题。” 来源：[Ted Weschler-2022-Q&A-Podcast（NFM）](/investor-masters/sources/source-08/)
+- “有时候你会想把盘子整个刮干净，开始做一件新的事。” 来源：[Ted Weschler-2022-Q&A-Podcast（NFM）](/investor-masters/sources/source-08/)
+- “运气、运气、还是运气。” 来源：[Ted Weschler-2022-Q&A-Podcast（NFM）](/investor-masters/sources/source-08/)
 
 ## 核心失误
 
@@ -49,9 +49,9 @@ description: "低调但长期业绩极扎实的伯克希尔传承者。"
 
 ## 与其他人的差异
 
-和 [托德·库姆斯](/investor-master/investors/todd-combs/) 相比，韦施勒的公开表达更少、更温和，也更带有人际关系和长期信任导向。托德更像工程化的简化者，泰德则更像低调而稳定的资本配置手。
+和 [托德·库姆斯](/investor-masters/investors/todd-combs/) 相比，韦施勒的公开表达更少、更温和，也更带有人际关系和长期信任导向。托德更像工程化的简化者，泰德则更像低调而稳定的资本配置手。
 
-和 [沃伦·巴菲特](/investor-master/investors/warren-buffett/) 相比，韦施勒当然少了创始人格局与时代源头的位置，但他和巴菲特共享一个很强的特征: 对清晰表达、长期关系和资本配置纪律的偏好。某种意义上，他更像伯克希尔风格的优秀继承者，而不是另起炉灶的风格型人物。
+和 [沃伦·巴菲特](/investor-masters/investors/warren-buffett/) 相比，韦施勒当然少了创始人格局与时代源头的位置，但他和巴菲特共享一个很强的特征: 对清晰表达、长期关系和资本配置纪律的偏好。某种意义上，他更像伯克希尔风格的优秀继承者，而不是另起炉灶的风格型人物。
 
 ## 投资业绩
 
@@ -61,10 +61,10 @@ description: "低调但长期业绩极扎实的伯克希尔传承者。"
 
 ## 投资风格相近的人
 
-- [沃伦·巴菲特](/investor-master/investors/warren-buffett/): 都强调清晰、长期和资本配置。
-- [托德·库姆斯](/investor-master/investors/todd-combs/): 都属于后巴菲特时代伯克希尔证券投资核心人物。
-- [段永平](/investor-master/investors/duan-yongping/): 都重长期关系、简单原则和低噪音判断。
+- [沃伦·巴菲特](/investor-masters/investors/warren-buffett/): 都强调清晰、长期和资本配置。
+- [托德·库姆斯](/investor-masters/investors/todd-combs/): 都属于后巴菲特时代伯克希尔证券投资核心人物。
+- [段永平](/investor-masters/investors/duan-yongping/): 都重长期关系、简单原则和低噪音判断。
 
 ## 主要来源
 
-- [Ted Weschler-2022-Q&A-Podcast（NFM）](/investor-master/sources/source-08/)
+- [Ted Weschler-2022-Q&A-Podcast（NFM）](/investor-masters/sources/source-08/)

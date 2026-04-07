@@ -7,9 +7,9 @@ description: "愿意为超级赢家承担长时间误解的人。"
 > **一句话定义**  
 > 愿意为超级赢家承担长时间误解的人。
 
-> “伟大的公司各有各的独特，平庸的公司却都差不多。” 来源：[2.5万字｜柏基“传奇基金经理”安德森的罕见深访：伟大公司各有各的独特，平庸公司却都差不多……](/investor-master/sources/source-01/)
+> “伟大的公司各有各的独特，平庸的公司却都差不多。” 来源：[2.5万字｜柏基“传奇基金经理”安德森的罕见深访：伟大公司各有各的独特，平庸公司却都差不多……](/investor-masters/sources/source-01/)
 
-**所属机构**: [Baillie Gifford](/investor-master/institutions/baillie-gifford/)  
+**所属机构**: [Baillie Gifford](/investor-masters/institutions/baillie-gifford/)  
 **代表性持仓**: Tesla、Amazon  
 **核心方法**: 超级赢家 / 非共识成长 / 长期主义
 
@@ -36,10 +36,10 @@ description: "愿意为超级赢家承担长时间误解的人。"
 
 ## 标志性语录
 
-- “伟大的公司各有各的独特，平庸的公司却都差不多。” 来源：[2.5万字｜柏基“传奇基金经理”安德森的罕见深访：伟大公司各有各的独特，平庸公司却都差不多……](/investor-master/sources/source-01/)
-- “我们需要更清晰地阐释‘高成长投资’的底层逻辑。” 来源：[如何看待高成长与经典价值？柏基“传奇基金经理”詹姆斯·安德森2019年深度撰文](/investor-master/sources/source-18/)
-- “仅仅承认‘未来回报存在高度不确定性’，或许就已足够重要。” 来源：[如何看待高成长与经典价值？柏基“传奇基金经理”詹姆斯·安德森2019年深度撰文](/investor-master/sources/source-18/)
-- “我不知道这会把我带到哪里，但我觉得一定会非常令人兴奋。” 该句是他引用贝佐斯、并高度认同的管理层精神。来源：[2.5万字｜柏基“传奇基金经理”安德森的罕见深访：伟大公司各有各的独特，平庸公司却都差不多……](/investor-master/sources/source-01/)
+- “伟大的公司各有各的独特，平庸的公司却都差不多。” 来源：[2.5万字｜柏基“传奇基金经理”安德森的罕见深访：伟大公司各有各的独特，平庸公司却都差不多……](/investor-masters/sources/source-01/)
+- “我们需要更清晰地阐释‘高成长投资’的底层逻辑。” 来源：[如何看待高成长与经典价值？柏基“传奇基金经理”詹姆斯·安德森2019年深度撰文](/investor-masters/sources/source-18/)
+- “仅仅承认‘未来回报存在高度不确定性’，或许就已足够重要。” 来源：[如何看待高成长与经典价值？柏基“传奇基金经理”詹姆斯·安德森2019年深度撰文](/investor-masters/sources/source-18/)
+- “我不知道这会把我带到哪里，但我觉得一定会非常令人兴奋。” 该句是他引用贝佐斯、并高度认同的管理层精神。来源：[2.5万字｜柏基“传奇基金经理”安德森的罕见深访：伟大公司各有各的独特，平庸公司却都差不多……](/investor-masters/sources/source-01/)
 
 ## 核心失误
 
@@ -49,9 +49,9 @@ description: "愿意为超级赢家承担长时间误解的人。"
 
 ## 与其他人的差异
 
-和 [特里·史密斯](/investor-master/investors/terry-smith/) 相比，安德森明显更愿意承受未来的不确定性。史密斯更相信已经被验证过的高质量复利，安德森则愿意为“未来可能非常大”的例外下注。
+和 [特里·史密斯](/investor-masters/investors/terry-smith/) 相比，安德森明显更愿意承受未来的不确定性。史密斯更相信已经被验证过的高质量复利，安德森则愿意为“未来可能非常大”的例外下注。
 
-和 [霍华德·马克斯](/investor-master/investors/howard-marks/) 相比，安德森几乎不把周期位置当成第一问题。他更在意的是结构性变迁、技术扩散和管理层对未知的拥抱程度。这让他在风格上更像长期冒险家，而不是周期导航员。
+和 [霍华德·马克斯](/investor-masters/investors/howard-marks/) 相比，安德森几乎不把周期位置当成第一问题。他更在意的是结构性变迁、技术扩散和管理层对未知的拥抱程度。这让他在风格上更像长期冒险家，而不是周期导航员。
 
 ## 投资业绩
 
@@ -61,11 +61,11 @@ description: "愿意为超级赢家承担长时间误解的人。"
 
 ## 投资风格相近的人
 
-- [汤姆·斯莱特](/investor-master/investors/tom-slater/): 直接继承并延续 Baillie Gifford 的成长分布观。
-- [劳伦斯·伯恩斯](/investor-master/investors/lawrence-burns/): 同一体系下的新一代执行者。
-- [比尔·米勒](/investor-master/investors/bill-miller/): 都更重视未来价值创造，而不是简单地从历史估值出发。
+- [汤姆·斯莱特](/investor-masters/investors/tom-slater/): 直接继承并延续 Baillie Gifford 的成长分布观。
+- [劳伦斯·伯恩斯](/investor-masters/investors/lawrence-burns/): 同一体系下的新一代执行者。
+- [比尔·米勒](/investor-masters/investors/bill-miller/): 都更重视未来价值创造，而不是简单地从历史估值出发。
 
 ## 主要来源
 
-- [如何看待高成长与经典价值？柏基“传奇基金经理”詹姆斯·安德森2019年深度撰文](/investor-master/sources/source-18/)
-- [2.5万字｜柏基“传奇基金经理”安德森的罕见深访：伟大公司各有各的独特，平庸公司却都差不多……](/investor-master/sources/source-01/)
+- [如何看待高成长与经典价值？柏基“传奇基金经理”詹姆斯·安德森2019年深度撰文](/investor-masters/sources/source-18/)
+- [2.5万字｜柏基“传奇基金经理”安德森的罕见深访：伟大公司各有各的独特，平庸公司却都差不多……](/investor-masters/sources/source-01/)

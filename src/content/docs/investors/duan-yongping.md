@@ -7,7 +7,7 @@ description: "把“不懂不碰”执行到生活方式里的投资人。"
 > **一句话定义**  
 > 把“不懂不碰”执行到生活方式里的投资人。
 
-> “所有的成功，都来自于本分+平常心。” 来源：[段永平：抄捷径是阴沟里翻船最快的方法](/investor-master/sources/source-25/)
+> “所有的成功，都来自于本分+平常心。” 来源：[段永平：抄捷径是阴沟里翻船最快的方法](/investor-masters/sources/source-25/)
 
 **所属机构**: 独立  
 **代表性持仓**: 苹果、腾讯  
@@ -36,11 +36,11 @@ description: "把“不懂不碰”执行到生活方式里的投资人。"
 
 ## 标志性语录
 
-- “所有的成功，都来自于本分+平常心。” 来源：[段永平：抄捷径是阴沟里翻船最快的方法](/investor-master/sources/source-25/)
-- “Stop Doing List没有short cut（捷径）。” 来源：[段永平：抄捷径是阴沟里翻船最快的方法](/investor-master/sources/source-25/)
-- “在我眼里，特斯拉是一家价值为零为zero的公司，迟早要完。” 来源：[段永平：抄捷径是阴沟里翻船最快的方法](/investor-master/sources/source-25/)
-- “right business，right people，right price。” 来源：[段永平：抄捷径是阴沟里翻船最快的方法](/investor-master/sources/source-25/)
-- “我一般跟大家讲，我就三只股票：苹果、腾讯、茅台，差不多真是这样。” 来源：[“打孔机”只打了不到10个孔！段永平与方三文最新对话，详解“投资中如何真正算看懂”……](/investor-master/sources/source-10/)
+- “所有的成功，都来自于本分+平常心。” 来源：[段永平：抄捷径是阴沟里翻船最快的方法](/investor-masters/sources/source-25/)
+- “Stop Doing List没有short cut（捷径）。” 来源：[段永平：抄捷径是阴沟里翻船最快的方法](/investor-masters/sources/source-25/)
+- “在我眼里，特斯拉是一家价值为零为zero的公司，迟早要完。” 来源：[段永平：抄捷径是阴沟里翻船最快的方法](/investor-masters/sources/source-25/)
+- “right business，right people，right price。” 来源：[段永平：抄捷径是阴沟里翻船最快的方法](/investor-masters/sources/source-25/)
+- “我一般跟大家讲，我就三只股票：苹果、腾讯、茅台，差不多真是这样。” 来源：[“打孔机”只打了不到10个孔！段永平与方三文最新对话，详解“投资中如何真正算看懂”……](/investor-masters/sources/source-10/)
 
 ## 核心失误
 
@@ -50,9 +50,9 @@ description: "把“不懂不碰”执行到生活方式里的投资人。"
 
 ## 与其他人的差异
 
-与 [比尔·阿克曼](/investor-master/investors/bill-ackman/) 相比，段永平几乎在另一个极端。阿克曼依赖公开战役和催化剂，段永平依赖不折腾、不解释、长期持有。
+与 [比尔·阿克曼](/investor-masters/investors/bill-ackman/) 相比，段永平几乎在另一个极端。阿克曼依赖公开战役和催化剂，段永平依赖不折腾、不解释、长期持有。
 
-与 [詹姆斯·安德森](/investor-master/investors/james-anderson/) 相比，段永平也更偏成熟商业模式和已被验证的高质量企业，而不是未来可能极大的创新分布。
+与 [詹姆斯·安德森](/investor-masters/investors/james-anderson/) 相比，段永平也更偏成熟商业模式和已被验证的高质量企业，而不是未来可能极大的创新分布。
 
 ## 投资业绩
 
@@ -62,11 +62,11 @@ description: "把“不懂不碰”执行到生活方式里的投资人。"
 
 ## 投资风格相近的人
 
-- [沃伦·巴菲特](/investor-master/investors/warren-buffett/): 长期所有者视角非常接近。
-- [查理·芒格](/investor-master/investors/charlie-munger/): 都强调少犯错和认知边界。
-- [托德·库姆斯](/investor-master/investors/todd-combs/): 都把商业本质看得比市场噪音更重。
+- [沃伦·巴菲特](/investor-masters/investors/warren-buffett/): 长期所有者视角非常接近。
+- [查理·芒格](/investor-masters/investors/charlie-munger/): 都强调少犯错和认知边界。
+- [托德·库姆斯](/investor-masters/investors/todd-combs/): 都把商业本质看得比市场噪音更重。
 
 ## 主要来源
 
-- [段永平：抄捷径是阴沟里翻船最快的方法](/investor-master/sources/source-25/)
-- [“打孔机”只打了不到10个孔！段永平与方三文最新对话，详解“投资中如何真正算看懂”……](/investor-master/sources/source-10/)
+- [段永平：抄捷径是阴沟里翻船最快的方法](/investor-masters/sources/source-25/)
+- [“打孔机”只打了不到10个孔！段永平与方三文最新对话，详解“投资中如何真正算看懂”……](/investor-masters/sources/source-10/)
