@@ -45,7 +45,6 @@ npm run dev
 
 线上地址：
 
-- `https://erpeng.github.io/investor-master`
- - `https://erpeng.github.io/investor-masters`
+- `https://erpeng.github.io/investor-masters`
 
 部署工作流在 `.github/workflows/deploy.yml`。
