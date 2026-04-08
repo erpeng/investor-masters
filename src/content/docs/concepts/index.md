@@ -10,6 +10,7 @@ description: "跨人物阅读时，最容易反复出现的那几根骨架。"
 - [能力圈](/investor-masters/concepts/circle-of-competence/)
 - [第二层思维](/investor-masters/concepts/second-level-thinking/)
 - [共享规模经济](/investor-masters/concepts/scale-economies-shared/)
+- [判断力](/investor-masters/concepts/judgment/)
 
 ## 全部概念
 
@@ -21,3 +22,4 @@ description: "跨人物阅读时，最容易反复出现的那几根骨架。"
 - [超级赢家](/investor-masters/concepts/super-winners/)
 - [反脆弱与仓位管理](/investor-masters/concepts/antifragility-and-position-sizing/)
 - [克隆策略](/investor-masters/concepts/cloning/)
+- [判断力](/investor-masters/concepts/judgment/)

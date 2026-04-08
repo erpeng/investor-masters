@@ -11,7 +11,7 @@ description: "从思维方式切入，而不是从履历切入。"
 - **价值投资**: [沃伦·巴菲特](/investor-masters/investors/warren-buffett/)、[查理·芒格](/investor-masters/investors/charlie-munger/)、[特里·史密斯](/investor-masters/investors/terry-smith/)
 - **成长投资**: [詹姆斯·安德森](/investor-masters/investors/james-anderson/)、[汤姆·斯莱特](/investor-masters/investors/tom-slater/)、[劳伦斯·伯恩斯](/investor-masters/investors/lawrence-burns/)
 - **宏观与风险**: [霍华德·马克斯](/investor-masters/investors/howard-marks/)、[斯坦利·德鲁肯米勒](/investor-masters/investors/stanley-druckenmiller/)、[格雷格·詹森](/investor-masters/investors/greg-jensen/)
-- **最不寻常的思维**: [尼克·斯利普](/investor-masters/investors/nick-sleep/)、[尼科莱·坦根](/investor-masters/investors/nicolai-tangen/)
+- **最不寻常的思维**: [尼克·斯利普](/investor-masters/investors/nick-sleep/)、[尼科莱·坦根](/investor-masters/investors/nicolai-tangen/)、[纳瓦尔·拉维坎特](/investor-masters/investors/naval-ravikant/)
 
 ## 比较视图
 
@@ -38,3 +38,4 @@ description: "从思维方式切入，而不是从履历切入。"
 - [格雷格·詹森](/investor-masters/investors/greg-jensen/)
 - [尼科莱·坦根](/investor-masters/investors/nicolai-tangen/)
 - [特蕾西·布里特·库尔](/investor-masters/investors/tracy-britt-cool/)
+- [纳瓦尔·拉维坎特](/investor-masters/investors/naval-ravikant/)

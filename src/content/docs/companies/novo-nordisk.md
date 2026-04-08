@@ -9,7 +9,7 @@ description: "诺和诺德的价值不在于它是一家好公司，而在于它
 
 ## 哪些投资人提到过
 
-- [特里·史密斯](/investor-masters/investors/terry-smith/): “要足够重视糟糕管理的影响！” 这篇持有人信专门围绕诺和诺德投资反思展开。来源：[要足够重视糟糕管理的影响！“英国巴菲特”特里·史密斯最新持有人信，反思诺和诺德的投资](/investor-masters/sources/source-28/)
+- [特里·史密斯](/investor-masters/investors/terry-smith/): “要足够重视糟糕管理的影响！” 这篇持有人信专门围绕诺和诺德投资反思展开。来源：[要足够重视糟糕管理的影响！“英国巴菲特”特里·史密斯最新持有人信，反思诺和诺德的投资](/investor-masters/sources/source-30/)
 
 ## 当前观察
 

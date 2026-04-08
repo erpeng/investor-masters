@@ -22,4 +22,4 @@ description: "超级赢家 在这批资料 里的最佳入口。"
 
 - [如何看待高成长与经典价值？柏基“传奇基金经理”詹姆斯·安德森2019年深度撰文](/investor-masters/sources/source-18/)
 - [2.5万字｜柏基“传奇基金经理”安德森的罕见深访：伟大公司各有各的独特，平庸公司却都差不多……](/investor-masters/sources/source-01/)
-- [近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-masters/sources/source-29/)
+- [近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-masters/sources/source-31/)

@@ -1,8 +1,9 @@
 ---
 title: "不懂不碰 vs 未来信息才重要"
 slug: "dialogues/certainty-vs-future"
-description: "段永平和比尔·米勒这组对照，最能暴露投资人对“理解”二字的不同定义。"
+description: "把方法冲突显性化的对照页。"
 ---
+# 不懂不碰 vs 未来信息才重要
 
 [段永平](/investor-masters/investors/duan-yongping/) 的方法起点是“看懂”。如果商业模式、管理层、长期边界没有进入能力圈，他宁可不碰。[比尔·米勒](/investor-masters/investors/bill-miller/) 的起点则更靠近“未来”，他会提醒你：任何公司 100% 的已知信息都来自过去，而价值却取决于未来。
 

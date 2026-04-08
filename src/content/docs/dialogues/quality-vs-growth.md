@@ -1,8 +1,9 @@
 ---
 title: "质量价值 vs 成长非共识"
 slug: "dialogues/quality-vs-growth"
-description: "特里·史密斯与詹姆斯·安德森这组对照，最适合拿来校准自己的成长观。"
+description: "把方法冲突显性化的对照页。"
 ---
+# 质量价值 vs 成长非共识
 
 [特里·史密斯](/investor-masters/investors/terry-smith/) 和 [詹姆斯·安德森](/investor-masters/investors/james-anderson/) 的冲突，并不是“一个保守一个激进”这么简单。更深的区别是：前者要求企业的优秀已经在经济现实里被证明，后者愿意为了极少数超级赢家承受长时间的不确定性。
 

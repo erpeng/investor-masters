@@ -3,6 +3,7 @@ from __future__ import annotations
 import os
 import re
 import shutil
+from datetime import date
 from pathlib import Path
 
 
@@ -153,6 +154,13 @@ INVESTOR_META = {
         "holdings": "Kanbrick、中型企业长期持有",
         "methods": "经营型投资 / 文化优先 / 资本配置",
     },
+    "纳瓦尔·拉维坎特": {
+        "slug": "naval-ravikant",
+        "tagline": "把财富、判断力、知识与品味压缩成个人操作系统的人。",
+        "institution": ("独立 / 创业者投资人", None),
+        "holdings": "创业投资、知识杠杆、个人项目",
+        "methods": "知识 / 判断力 / 品味",
+    },
 }
 
 INVESTOR_INFO_SOURCES = {
@@ -175,6 +183,7 @@ INVESTOR_INFO_SOURCES = {
     "格雷格·詹森": "詹森的信息来源更接近一台组织化研究机器。他不仅看宏观和市场数据，也非常在意新研究怎样被系统吸收、怎样在尚未完全模型化时先进入组合测试。对他来说，来源价值不只在信息本身，还在组织能否快速把新认知转成决策。",
     "尼科莱·坦根": "坦根的信息来源非常像高质量传感器系统。他高度重视访谈、提问方式、语言细节和人在压力下暴露出来的真实特征，同时也会训练团队像顶级运动员一样提升研究与复盘能力。换句话说，他获取信息不只靠数据，还靠从人与对话里捕捉真实信号。",
     "特蕾西·布里特·库尔": "特蕾西的信息来源更偏一线经营现场。现有资料里，她的方法明显依赖对创始人、组织文化、资本配置方式和管理行为的近距离观察，而不是纯粹靠财务筛选。她的信息优势更像长期陪伴式理解，而不是二级市场上的标准化研究。",
+    "纳瓦尔·拉维坎特": "纳瓦尔的信息来源有很强的混合特征：一端是 AI、机器人、自动驾驶这类前沿技术与现代知识，另一端是哲学、宗教、古典文本这类长期稳定的人性材料；中间再由他自己的实践经验、识人直觉和反思把它们缝起来。对他来说，真正的边际优势不是某个独家渠道，而是能否把变化中的知识和不变的人性压缩成可行动的判断。",
 }
 
 COMPANY_META = {
@@ -207,6 +216,7 @@ CONCEPT_META = {
     "超级赢家": {"slug": "super-winners"},
     "反脆弱与仓位管理": {"slug": "antifragility-and-position-sizing"},
     "克隆策略": {"slug": "cloning"},
+    "判断力": {"slug": "judgment"},
 }
 
 
@@ -367,6 +377,31 @@ def first_quote(section_text: str) -> str:
     return ""
 
 
+def collect_featured_quotes(limit: int = 4) -> list[str]:
+    quotes: list[str] = []
+    seen: set[str] = set()
+    for source_path in sorted((WIKI_DIR / "investors").glob("*.md")):
+        if source_path.name in {"index.md", "比较矩阵.md"}:
+            continue
+        _, body = parse_frontmatter(source_path.read_text(encoding="utf-8"))
+        sections = parse_sections(body)
+        for line in sections.get("标志性语录", "").splitlines():
+            stripped = line.strip()
+            if not stripped.startswith("- "):
+                continue
+            quote = stripped[2:]
+            if "来源：" in quote:
+                quote = quote.split("来源：", 1)[0].strip()
+            if quote and quote not in seen:
+                seen.add(quote)
+                quotes.append(quote)
+    if not quotes:
+        return []
+    rotation = date.today().toordinal() % len(quotes)
+    rotated = quotes[rotation:] + quotes[:rotation]
+    return rotated[:limit]
+
+
 def rel_link(from_doc: Path, target_doc: Path) -> str:
     return str(Path(os_relpath(target_doc, from_doc.parent))).replace("\\", "/")
 
@@ -402,6 +437,11 @@ def build_link_maps():
         key = f"concepts/{name}"
         page_map[key] = f"concepts/{meta['slug']}"
         type_map[key] = name
+    page_map["dialogues/index"] = "dialogues"
+    page_map["dialogues/质量价值 vs 成长非共识"] = "dialogues/quality-vs-growth"
+    page_map["dialogues/保守的风险语言 vs 激进的仓位语言"] = "dialogues/risk-and-conviction"
+    page_map["dialogues/不懂不碰 vs 未来信息才重要"] = "dialogues/certainty-vs-future"
+    page_map["dialogues/看懂边界 vs 品味判断"] = "dialogues/boundary-vs-taste"
     page_map["investors/index"] = "investors/index"
     page_map["companies/index"] = "companies/index"
     page_map["institutions/index"] = "institutions/index"
@@ -551,7 +591,7 @@ def compile_investors():
             institution_md = institution_name
         output = DOCS_DIR / "investors" / f"{meta['slug']}.md"
         quote = convert_wikilinks(first_quote(sections.get("标志性语录", "")), output)
-        info_sources = INVESTOR_INFO_SOURCES.get(name, "现有资料更偏观点与案例呈现，尚未把这位投资人的信息来源系统单独展开。")
+        info_sources = sections.get("投资信息来源") or INVESTOR_INFO_SOURCES.get(name, "现有资料更偏观点与案例呈现，尚未把这位投资人的信息来源系统单独展开。")
         pieces = [
             render_frontmatter(name, f"investors/{meta['slug']}", meta["tagline"]),
             "> **一句话定义**  ",
@@ -562,12 +602,12 @@ def compile_investors():
             f"**核心方法**: {meta['methods']}\n",
             "## 简介\n",
             convert_wikilinks(sections.get("简介", "现有资料暂未涉及。"), output),
-            "## 投资思想\n",
+            "\n## 投资信息来源\n",
+            convert_wikilinks(info_sources, output),
+            "\n## 投资思想\n",
             convert_wikilinks(sections.get("投资思想", "当前语料未涉及。"), output),
             "\n## 投资策略\n",
             convert_wikilinks(sections.get("投资策略", "当前语料未涉及。"), output),
-            "\n## 投资信息来源\n",
-            info_sources,
             "\n## 标志性语录\n",
             convert_wikilinks(sections.get("标志性语录", "当前语料未涉及。"), output),
             "\n## 核心失误\n",
@@ -591,7 +631,7 @@ def compile_investors():
         f"- **价值投资**: [沃伦·巴菲特]({doc_url('investors/warren-buffett')})、[查理·芒格]({doc_url('investors/charlie-munger')})、[特里·史密斯]({doc_url('investors/terry-smith')})",
         f"- **成长投资**: [詹姆斯·安德森]({doc_url('investors/james-anderson')})、[汤姆·斯莱特]({doc_url('investors/tom-slater')})、[劳伦斯·伯恩斯]({doc_url('investors/lawrence-burns')})",
         f"- **宏观与风险**: [霍华德·马克斯]({doc_url('investors/howard-marks')})、[斯坦利·德鲁肯米勒]({doc_url('investors/stanley-druckenmiller')})、[格雷格·詹森]({doc_url('investors/greg-jensen')})",
-        f"- **最不寻常的思维**: [尼克·斯利普]({doc_url('investors/nick-sleep')})、[尼科莱·坦根]({doc_url('investors/nicolai-tangen')})\n",
+        f"- **最不寻常的思维**: [尼克·斯利普]({doc_url('investors/nick-sleep')})、[尼科莱·坦根]({doc_url('investors/nicolai-tangen')})、[纳瓦尔·拉维坎特]({doc_url('investors/naval-ravikant')})\n",
         "## 比较视图\n",
         f"- [投资人比较矩阵]({doc_url('investors/comparison-matrix')})",
         "\n## 全部投资人\n",
@@ -696,6 +736,7 @@ def compile_concepts():
         f"- [能力圈]({doc_url('concepts/circle-of-competence')})",
         f"- [第二层思维]({doc_url('concepts/second-level-thinking')})",
         f"- [共享规模经济]({doc_url('concepts/scale-economies-shared')})",
+        f"- [判断力]({doc_url('concepts/judgment')})",
         "\n## 全部概念\n",
     ]
     for name, meta in CONCEPT_META.items():
@@ -731,96 +772,162 @@ def compile_sources():
 
 
 def compile_dialogues():
-    dialogues_index = render_frontmatter("对话与争议", "dialogues", "对比会逼迫读者形成自己的判断。") + f"""
-这里最值得加的一层，不是更多摘要，而是把本来分散在不同人物页中的张力显性化。
+    dialogues_dir = WIKI_DIR / "dialogues"
+    index_src = dialogues_dir / "index.md"
+    if not index_src.exists():
+        return
 
-## 推荐先读
+    _, body = parse_frontmatter(index_src.read_text(encoding="utf-8"))
+    index_out = DOCS_DIR / "dialogues" / "index.md"
+    write(
+        index_out,
+        render_frontmatter("对话与争议", "dialogues", "对比会逼迫读者形成自己的判断。")
+        + convert_wikilinks(body, index_out),
+    )
 
-- [质量价值 vs 成长非共识]({doc_url('dialogues/quality-vs-growth')})
-- [保守的风险语言 vs 激进的仓位语言]({doc_url('dialogues/risk-and-conviction')})
-- [不懂不碰 vs 未来信息才重要]({doc_url('dialogues/certainty-vs-future')})
-"""
-    write(DOCS_DIR / "dialogues" / "index.md", dialogues_index)
+    slug_map = {
+        "质量价值 vs 成长非共识": "quality-vs-growth",
+        "保守的风险语言 vs 激进的仓位语言": "risk-and-conviction",
+        "不懂不碰 vs 未来信息才重要": "certainty-vs-future",
+        "看懂边界 vs 品味判断": "boundary-vs-taste",
+    }
+    for src in sorted(dialogues_dir.glob("*.md")):
+        if src.name == "index.md":
+            continue
+        _, body = parse_frontmatter(src.read_text(encoding="utf-8"))
+        slug = slug_map.get(src.stem, src.stem)
+        out = DOCS_DIR / "dialogues" / f"{slug}.md"
+        write(
+            out,
+            render_frontmatter(src.stem, f"dialogues/{slug}", "把方法冲突显性化的对照页。")
+            + convert_wikilinks(body, out),
+        )
 
-    quality = render_frontmatter("质量价值 vs 成长非共识", "dialogues/quality-vs-growth", "特里·史密斯与詹姆斯·安德森这组对照，最适合拿来校准自己的成长观。")
-    quality += """
-[[investors/特里·史密斯]] 和 [[investors/詹姆斯·安德森]] 的冲突，并不是“一个保守一个激进”这么简单。更深的区别是：前者要求企业的优秀已经在经济现实里被证明，后者愿意为了极少数超级赢家承受长时间的不确定性。
 
-如果你拿 [[companies/特斯拉]] 来读，这种冲突会特别清楚。特里·史密斯式框架会追问资本回报、管理层约束和可验证的商业质地；安德森式框架则更在意这家公司是否可能改变整个行业分布，并因此把传统估值框架甩在身后。
+def parse_log_entries(log_text: str) -> list[dict[str, str]]:
+    pattern = re.compile(
+        r"## \[(?P<date>[^\]]+)\] (?P<title>[^\n]+)\n(?P<body>.*?)(?=\n## \[|\Z)",
+        re.S,
+    )
+    return [match.groupdict() for match in pattern.finditer(log_text)]
 
-真正值得读者问自己的，不是哪一派“更对”，而是你能承受哪一种错误。你更怕错过超级赢家，还是更怕高估一家公司未来二十年的例外性？
-"""
-    quality_path = DOCS_DIR / "dialogues" / "quality-vs-growth.md"
-    write(quality_path, convert_wikilinks(quality, quality_path))
 
-    risk = render_frontmatter("保守的风险语言 vs 激进的仓位语言", "dialogues/risk-and-conviction", "霍华德·马克斯和德鲁肯米勒都懂风险，但他们使用风险的方式完全不同。")
-    risk += """
-[[investors/霍华德·马克斯]] 的语言总是先落在赔率、周期、风险控制和不确定性上。他最擅长做的事情，是在别人过度自信时提醒“你其实没那么知道”。[[investors/斯坦利·德鲁肯米勒]] 则不同，他同样理解不确定性，但会在少数时刻把仓位显著放大。
+def clean_backtick_item(item: str) -> str:
+    item = item.strip()
+    if item.startswith("[[") and item.endswith("]]"):
+        item = item[2:-2]
+    if "/" in item:
+        item = item.split("/")[-1]
+    return item
 
-所以这两人不是“懂风险”和“不懂风险”的区别，而是一个把风险当作约束，一个把风险当作筛选后仍可重仓利用的机会。
 
-这组对照最适合用来回答一个很现实的问题：当你真看对了，你敢不敢下重注？而在你没有充分优势的时候，你又有没有能力什么都不做？
-"""
-    risk_path = DOCS_DIR / "dialogues" / "risk-and-conviction.md"
-    write(risk_path, convert_wikilinks(risk, risk_path))
+def unique_keep_order(items: list[str]) -> list[str]:
+    seen: set[str] = set()
+    ordered: list[str] = []
+    for item in items:
+        if item in seen:
+            continue
+        seen.add(item)
+        ordered.append(item)
+    return ordered
 
-    certainty = render_frontmatter("不懂不碰 vs 未来信息才重要", "dialogues/certainty-vs-future", "段永平和比尔·米勒这组对照，最能暴露投资人对“理解”二字的不同定义。")
-    certainty += """
-[[investors/段永平]] 的方法起点是“看懂”。如果商业模式、管理层、长期边界没有进入能力圈，他宁可不碰。[[investors/比尔·米勒]] 的起点则更靠近“未来”，他会提醒你：任何公司 100% 的已知信息都来自过去，而价值却取决于未来。
 
-这并不是说一个重确定性、一个重想象力这么简单。更深的差别是，段永平相信边界感本身就是优势；比尔·米勒则相信，市场经常因为无法承受未来的不确定而低估了真正的长期价值。
+def summarize_log_entry(entry: dict[str, str]) -> list[str]:
+    title = entry["title"]
+    body = entry["body"]
 
-如果你常常在“是不是我没看懂”与“是不是市场太短视”之间摇摆，这一组最值得反复读。
-"""
-    certainty_path = DOCS_DIR / "dialogues" / "certainty-vs-future.md"
-    write(certainty_path, convert_wikilinks(certainty, certainty_path))
+    if title.startswith("seed |"):
+        return ["首批内容上线：建立人物页、公司页和来源索引。"]
 
+    if title.startswith("schema-upgrade |"):
+        return ["阅读结构升级：人物页更完整了，也新增了概念层和比较矩阵。"]
+
+    if title.startswith("refinement |"):
+        added_line = next((line for line in body.splitlines() if "新增 `[[investors/" in line), "")
+        names = [clean_backtick_item(item) for item in re.findall(r"`([^`]+)`", added_line)]
+        people = unique_keep_order(names)
+        if people:
+            return [f"新增人物：{'、'.join(people)}。"]
+        return ["新增人物：补齐先前匿名人物并进入索引导航。"]
+
+    if title.startswith("institutions |"):
+        names = [clean_backtick_item(item) for item in re.findall(r"`([^`]+)`", body)]
+        institutions = [
+            name for name in names
+            if name in {"Baillie Gifford", "Berkshire Hathaway", "Nomad Investment Partnership", "Oaktree Capital", "Fundsmith"}
+        ]
+        if institutions:
+            return [f"新增机构：{'、'.join(institutions)}；机构页现在能单独看长期持有、激励结构和传承。"]
+        return ["新增机构页：现在能单独看长期持有、激励结构和传承。"]
+
+    if title == "source-first sync":
+        return []
+
+    if title == "source parity fix":
+        return ["新增入口：对话与争议页上线，人物、公司、机构、概念首页也补齐了。"]
+
+    if title.startswith("naval ingest |"):
+        return ["新增人物：纳瓦尔·拉维坎特；新增概念：判断力。"]
+
+    if title.startswith("naval backfill |"):
+        return ["更新公司：苹果、SpaceX；新增对话：看懂边界 vs 品味判断。"]
+
+    if title.startswith("naval quote refinement |"):
+        return ["更新公司：苹果、SpaceX，两页的纳瓦尔引言重写。"]
+
+    fallback = title.split("|", 1)[-1].strip() if "|" in title else title.strip()
+    return [fallback]
+
+
+def build_recent_updates(log_text: str) -> list[str]:
+    items: list[str] = []
+    for entry in reversed(parse_log_entries(log_text)):
+        if entry["title"] in {"source-first sync"}:
+            continue
+        date_text = f"`{entry['date']}` "
+        summaries = summarize_log_entry(entry)
+        for idx, summary in enumerate(summaries):
+            if any(token in summary for token in ["源 wiki", "编译站点", "源站对齐", "source", "canonical"]):
+                continue
+            prefix = date_text if idx == 0 else " " * len(date_text)
+            items.append(f"- {prefix}{summary}")
+    return items
 
 def compile_home():
+    index_src = WIKI_DIR / "index.md"
+    _, index_body = parse_frontmatter(index_src.read_text(encoding="utf-8"))
+    sections = parse_sections(index_body)
     log_text = (WIKI_DIR / "log.md").read_text(encoding="utf-8")
-    updates = re.findall(r"## \[(.*?)\] (.*)", log_text)
-    recent = updates[-3:]
-    recent_lines = [f"- `{date}` {title}" for date, title in reversed(recent)]
+    recent_lines = build_recent_updates(log_text)
+    featured_quotes = collect_featured_quotes()
+    featured_block = "\n\n".join(f"> {quote}" for quote in featured_quotes) if featured_quotes else "> 现有资料暂未提取到可用语录。"
+    lead_text = sections.get("_lead", "")
+    if lead_text.startswith("# "):
+        lead_lines = lead_text.splitlines()
+        lead_text = "\n".join(lead_lines[1:]).lstrip()
+    filtered_lead_lines = []
+    for line in lead_text.splitlines():
+        if any(token in line for token in ["canonical", "下游展示层", "重新编译站点", "code/investors", "`wiki/`"]):
+            continue
+        filtered_lead_lines.append(line)
+    lead_text = "\n".join(filtered_lead_lines).strip()
     home = render_frontmatter(
         "Investors Wiki",
         "",
         "把分散的投资访谈、合伙人信和机构材料，编译成一个可以持续更新的外部阅读入口。",
-    ) + f"""
-这不是一份投资百科，而是一份**投资判断档案**。它以来源中的访谈、对话、股东信和原始材料为输入，不是只摘结论，而是尽量保留投资大师原本的判断语境、信息来源和思考路径。
-
-这份 wiki 的一个核心价值，是把不同投资人的关联和差异放到同一张桌子上看。你可以看到他们如何研究、如何下注、如何分歧，也能看到价值、成长、宏观、集中、长期持有这些方法为什么会并存，从而更直观地理解投资世界的多样性。
-
-它也不是静态成品，而是一份会持续更新的工作档案。随着新的访谈、材料和持仓变化进入，这里会继续补充新人物、新公司、新概念，也会尽量捕捉同一位投资人在不同时期的方法变化。
-
-如果你想快速知道“我为什么要读这个人”，从人物页开始；如果你想知道“为什么同一家公司会被不同方法反复提到”，去公司页；如果你想理解“为什么有的人能长期持有，有的人根本做不到”，读机构页。
-
-## 从哪里开始
-
-- **我想了解价值投资**: [沃伦·巴菲特]({doc_url('investors/warren-buffett')})、[查理·芒格]({doc_url('investors/charlie-munger')})、[特里·史密斯]({doc_url('investors/terry-smith')})
-- **我想了解成长投资**: [詹姆斯·安德森]({doc_url('investors/james-anderson')})、[汤姆·斯莱特]({doc_url('investors/tom-slater')})、[劳伦斯·伯恩斯]({doc_url('investors/lawrence-burns')})
-- **我想了解宏观与风险**: [霍华德·马克斯]({doc_url('investors/howard-marks')})、[斯坦利·德鲁肯米勒]({doc_url('investors/stanley-druckenmiller')})、[格雷格·詹森]({doc_url('investors/greg-jensen')})
-- **我想看最不寻常的思维**: [尼克·斯利普]({doc_url('investors/nick-sleep')})、[尼科莱·坦根]({doc_url('investors/nicolai-tangen')})
-
-## 精选语录墙
-
-> “你所掌握的关于任何企业的100%信息都来自过去，而该企业的100%价值却取决于未来。”
-
-> “如果一个你对市场的认识，没有被‘写进系统’，那它就等于不存在。”
-
-> “长期主义不是口号，而是看一个人或一家公司的结构是否允许长期。”
-
-> “我们只需要专注于挑选优质股，其他一切都无关紧要。”
-
-## 对话与争议
-
-- [质量价值 vs 成长非共识]({doc_url('dialogues/quality-vs-growth')})
-- [保守的风险语言 vs 激进的仓位语言]({doc_url('dialogues/risk-and-conviction')})
-- [不懂不碰 vs 未来信息才重要]({doc_url('dialogues/certainty-vs-future')})
-
-## 最近更新
-
-{chr(10).join(recent_lines)}
-"""
+    ) + "\n".join(
+        [
+            convert_wikilinks(lead_text, DOCS_DIR / "index.md"),
+            "\n## 从哪里开始\n",
+            convert_wikilinks(sections.get("从哪里开始", ""), DOCS_DIR / "index.md"),
+            "\n## 精选语录墙\n",
+            featured_block,
+            "\n## 对话与争议\n",
+            convert_wikilinks(sections.get("对话与争议", ""), DOCS_DIR / "index.md"),
+            "\n## 最近更新\n",
+            "\n".join(recent_lines),
+        ]
+    )
     write(DOCS_DIR / "index.md", home)
 
 

@@ -9,7 +9,7 @@ description: "这家公司最好从争议开始读。它同时是成长投资者
 
 ## 哪些投资人提到过
 
-- [汤姆·斯莱特](/investor-masters/investors/tom-slater/): “某种程度上，我反而觉得，我们在特斯拉和马斯克身上的敞口可能还不够。” 来源：[近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-masters/sources/source-29/)
+- [汤姆·斯莱特](/investor-masters/investors/tom-slater/): “某种程度上，我反而觉得，我们在特斯拉和马斯克身上的敞口可能还不够。” 来源：[近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-masters/sources/source-31/)
 - [特里·史密斯](/investor-masters/investors/terry-smith/): “所有汽车公司都是坏公司，没有例外。” 来源：[4万字对话｜72岁传奇投资人特里·史密斯详述一生，如何塑造自己的投资风格](/investor-masters/sources/source-06/)
 - [特里·史密斯](/investor-masters/investors/terry-smith/): “而特斯拉呢？市盈率 99 倍。” 来源：[4万字对话｜72岁传奇投资人特里·史密斯详述一生，如何塑造自己的投资风格](/investor-masters/sources/source-06/)
 

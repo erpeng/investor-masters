@@ -10,7 +10,7 @@ description: "对很多长期投资人来说，开市客不是零售股，而是
 ## 哪些投资人提到过
 
 - [尼克·斯利普](/investor-masters/investors/nick-sleep/) / [凯斯·扎卡里亚](/investor-masters/investors/qais-zakaria/): “开市客与消费者分享了规模经济的好处。” 来源：[一家低调的传奇机构，“黏住”亚马逊、开市客、伯克希尔大赚特赚](/investor-masters/sources/source-12/)
-- [莫尼什·帕伯莱](/investor-masters/investors/monish-pabrai/): “开市客不是零售商，而是客户的采购代理。” 来源：[莫尼什·帕伯莱：芒格会将简单的想法认真执行](/investor-masters/sources/source-27/)
+- [莫尼什·帕伯莱](/investor-masters/investors/monish-pabrai/): “开市客不是零售商，而是客户的采购代理。” 来源：[莫尼什·帕伯莱：芒格会将简单的想法认真执行](/investor-masters/sources/source-29/)
 - [托德·库姆斯](/investor-masters/investors/todd-combs/): “他以开市客（Costco）为例：单店模型往往比整体财报更能揭示商业本质。” 来源：[“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-masters/sources/source-09/)
 - [特里·史密斯](/investor-masters/investors/terry-smith/): “Nick Sleep 和 Qais Zakaria 这样的投资人……后来他们在开市客（Costco）和亚马逊身上也看到了同样的模式。” 来源：[4万字对话｜72岁传奇投资人特里·史密斯详述一生，如何塑造自己的投资风格](/investor-masters/sources/source-06/)
 

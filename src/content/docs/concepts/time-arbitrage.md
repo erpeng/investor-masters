@@ -20,4 +20,4 @@ description: "时间套利 在这批资料 里的最佳入口。"
 
 ## 主要来源
 
-- [经典｜比尔·米勒的投资“大师课”：你所掌握的企业信息完全来自过去，而企业价值却取决于未来](/investor-masters/sources/source-26/)
+- [经典｜比尔·米勒的投资“大师课”：你所掌握的企业信息完全来自过去，而企业价值却取决于未来](/investor-masters/sources/source-28/)
