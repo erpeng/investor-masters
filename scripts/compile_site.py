@@ -442,6 +442,14 @@ def first_quote(section_text: str) -> str:
     return ""
 
 
+def first_blockquote(section_text: str) -> str:
+    for line in section_text.splitlines():
+        stripped = line.strip()
+        if stripped.startswith(">"):
+            return stripped.lstrip(">").strip()
+    return ""
+
+
 def collect_featured_quotes(limit: int = 4) -> list[str]:
     quotes: list[str] = []
     seen: set[str] = set()
@@ -450,16 +458,23 @@ def collect_featured_quotes(limit: int = 4) -> list[str]:
             continue
         _, body = parse_frontmatter(source_path.read_text(encoding="utf-8"))
         sections = parse_sections(body)
-        for line in (sections.get("人物气味语录", "") or sections.get("标志性语录", "")).splitlines():
-            stripped = line.strip()
-            if not stripped.startswith("- "):
-                continue
-            quote = stripped[2:]
-            if "来源：" in quote:
-                quote = quote.split("来源：", 1)[0].strip()
-            if quote and quote not in seen:
-                seen.add(quote)
-                quotes.append(quote)
+        for section_name in ["人物分析", "简介", "来时路", "失误、边界与失效条件"]:
+            section_text = sections.get(section_name, "")
+            for line in section_text.splitlines():
+                stripped = line.strip()
+                if not stripped.startswith(">"):
+                    continue
+                quote = stripped.lstrip(">").strip()
+                if (
+                    not quote
+                    or quote.startswith("——")
+                    or quote.startswith("来源")
+                    or quote.startswith("验证卡")
+                ):
+                    continue
+                if quote not in seen:
+                    seen.add(quote)
+                    quotes.append(quote)
     if not quotes:
         return []
     rotation = date.today().toordinal() % len(quotes)
@@ -512,6 +527,9 @@ def build_link_maps():
     page_map["dialogues/保守的风险语言 vs 激进的仓位语言"] = "dialogues/risk-and-conviction"
     page_map["dialogues/不懂不碰 vs 未来信息才重要"] = "dialogues/certainty-vs-future"
     page_map["dialogues/看懂边界 vs 品味判断"] = "dialogues/boundary-vs-taste"
+    page_map["dialogues/制度保护时间 vs 性格保护时间"] = "dialogues/institution-vs-temperament"
+    page_map["dialogues/复制优秀模式 vs 寻找超级赢家"] = "dialogues/cloning-vs-super-winners"
+    page_map["dialogues/提问式判断 vs 仓位式判断"] = "dialogues/questioning-vs-positioning"
     page_map["investors/index"] = "investors/index"
     page_map["companies/index"] = "companies/index"
     page_map["institutions/index"] = "institutions/index"
@@ -661,7 +679,10 @@ def compile_investors():
         else:
             institution_md = institution_name
         output = DOCS_DIR / "investors" / f"{meta['slug']}.md"
-        quote = convert_wikilinks(first_quote(sections.get("人物气味语录", "") or sections.get("标志性语录", "")), output)
+        quote = convert_wikilinks(
+            first_blockquote(sections.get("人物分析", "")) or first_quote(sections.get("标志性语录", "")),
+            output,
+        )
         pieces = [
             render_frontmatter(name, f"investors/{meta['slug']}", meta["tagline"]),
             "> **一句话定义**  ",
@@ -672,18 +693,16 @@ def compile_investors():
             f"**核心方法**: {meta['methods']}\n",
             "## 简介\n",
             convert_wikilinks(sections.get("简介", "现有资料暂未涉及。"), output),
+            "\n## 来时路\n",
+            convert_wikilinks(sections.get("来时路", "") or sections.get("来时路与关键转折", "当前语料未涉及。"), output),
             "\n## 人物分析\n",
             convert_wikilinks(sections.get("人物分析", "当前语料未涉及。"), output),
-            "\n## 来时路与关键转折\n",
-            convert_wikilinks(sections.get("来时路与关键转折", "当前语料未涉及。"), output),
             "\n## 失误、边界与失效条件\n",
             convert_wikilinks(sections.get("失误、边界与失效条件", "当前语料未涉及。"), output),
             "\n## 对我有什么启发\n",
             convert_wikilinks(sections.get("对我有什么启发", "当前语料未涉及。"), output),
-            "\n## 最像谁 / 最不像谁 / 关键差异\n",
-            convert_wikilinks(sections.get("最像谁 / 最不像谁 / 关键差异", "当前语料未涉及。"), output),
-            "\n## 人物气味语录\n",
-            convert_wikilinks(sections.get("人物气味语录", "当前语料未涉及。"), output),
+            "\n## 横向定位\n",
+            convert_wikilinks(sections.get("横向定位", "当前语料未涉及。"), output),
             "\n## 主要来源\n",
             convert_wikilinks(sections.get("主要来源", "当前语料未涉及。"), output),
         ]
@@ -799,10 +818,11 @@ def compile_concepts():
         source_path = WIKI_DIR / "concepts" / f"{name}.md"
         _, body = parse_frontmatter(source_path.read_text(encoding="utf-8"))
         output = DOCS_DIR / "concepts" / f"{meta['slug']}.md"
+        cleaned_body = re.sub(r"^# .+\n+", "", body, count=1)
         write(
             output,
             render_frontmatter(name, f"concepts/{meta['slug']}", f"{name} 在这个 corpus 里的最佳入口。")
-            + convert_wikilinks(body, output),
+            + convert_wikilinks(cleaned_body, output),
         )
 
     index_lines = [
@@ -892,6 +912,9 @@ def compile_dialogues():
         "保守的风险语言 vs 激进的仓位语言": "risk-and-conviction",
         "不懂不碰 vs 未来信息才重要": "certainty-vs-future",
         "看懂边界 vs 品味判断": "boundary-vs-taste",
+        "制度保护时间 vs 性格保护时间": "institution-vs-temperament",
+        "复制优秀模式 vs 寻找超级赢家": "cloning-vs-super-winners",
+        "提问式判断 vs 仓位式判断": "questioning-vs-positioning",
     }
     for src in sorted(dialogues_dir.glob("*.md")):
         if src.name == "index.md":
@@ -899,10 +922,11 @@ def compile_dialogues():
         _, body = parse_frontmatter(src.read_text(encoding="utf-8"))
         slug = slug_map.get(src.stem, src.stem)
         out = DOCS_DIR / "dialogues" / f"{slug}.md"
+        cleaned_body = re.sub(r"^# .+\n+", "", body, count=1)
         write(
             out,
             render_frontmatter(src.stem, f"dialogues/{slug}", "把方法冲突显性化的对照页。")
-            + convert_wikilinks(body, out),
+            + convert_wikilinks(cleaned_body, out),
         )
 
 
