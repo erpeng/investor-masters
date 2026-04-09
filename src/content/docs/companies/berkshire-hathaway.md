@@ -7,28 +7,34 @@ description: "读者反复回到伯克希尔，不是因为它只有一条投资
 > **争议与共识**  
 > 读者反复回到伯克希尔，不是因为它只有一条投资逻辑，而是因为它同时是公司、机构和方法论母本。公司页看资产机器，机构页看文化与接班。
 
-## 哪些投资人提到过
+## 简介
 
-- [尼克·斯利普](/investor-masters/investors/nick-sleep/) / [凯斯·扎卡里亚](/investor-masters/investors/qais-zakaria/): “你不会那么容易甩掉我们的！” 这是他们卖掉持仓后写给巴菲特的信中关于回购伯克希尔的表态。来源：[一家低调的传奇机构，“黏住”亚马逊、开市客、伯克希尔大赚特赚](/investor-masters/sources/source-12/)
-- [段永平](/investor-masters/investors/duan-yongping/): “后来差不多就到苹果了，伯克希尔哈撒韦我的比重也不大。” 来源：[“打孔机”只打了不到10个孔！段永平与方三文最新对话，详解“投资中如何真正算看懂”……](/investor-masters/sources/source-10/)
-- [托德·库姆斯](/investor-masters/investors/todd-combs/): “如今，我身兼两职，既是GEICO首席执行官，又掌管着伯克希尔庞大的资金池。” 来源：[“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-masters/sources/source-09/)
-- [泰德·韦施勒](/investor-masters/investors/ted-weschler/): 在谈及加入伯克希尔的决定时，他回忆巴菲特对自己说“你在哪儿管钱都行，对我来说你在月球上也没问题。” 来源：[Ted Weschler-2022-Q&A-Podcast（NFM）](/investor-masters/sources/source-08/)
-- [霍华德·马克斯](/investor-masters/investors/howard-marks/): “这批股票就是伯克希尔哈撒韦，出售价格为每股40美元。” 来源：[关于耐心与杠杆！霍华德与摩根的最新对话：历史不会重演，但人类的行为却总是重复](/investor-masters/sources/source-16/)
-- [比尔·阿克曼](/investor-masters/investors/bill-ackman/): “我是从阅读伯克希尔·哈撒韦的年度报告开始的。” 来源：[3.2万字｜潘兴广场比尔·阿克曼最有价值的一场对话，深谈价值投资、核心战役以及如何从人生谷底“爬坑”……](/investor-masters/sources/source-05/)
+伯克希尔·哈撒韦在这批资料里同时以股票、组织和资本配置机器三种身份出现。它不只是一个投资标的，更像很多投资人心中的默认答案。
 
-## 当前观察
+## 公司点评
 
-伯克希尔在这里经常不是“标的”而是“方法论的母本”。有人把它当持仓，有人把它当学习对象，有人把它当资本配置的终极模板。也因此，这家公司在本库里承担双重角色: 它既是一个企业实体，也是一套投资语言的起点。
+### [段永平](/investor-masters/investors/duan-yongping/)
+> “至于说这个接班人的水平怎么样，老巴有犯错误的时候，但老巴找的人也不会说差到哪里去，它这个文化是不会变的，它们不会是一家投机的公司，你拿着伯克希尔哈撒韦，肯定比随便买一个共同基金要好。” ——来源：[“打孔机”只打了不到10个孔！段永平与方三文最新对话，详解“投资中如何真正算看懂”……](/investor-masters/sources/source-10/)
 
-从引用方式看，后辈投资人真正想从伯克希尔学的，往往不是某一笔买卖，而是如何把企业、资本、股东沟通和时间维度变成一个完整系统。
+在段永平这里，伯克希尔是把文化、纪律和资本配置封装在一起的默认持有物。
 
-如果要看组织文化、激励结构和接班框架，应转到 [Berkshire Hathaway](/investor-masters/institutions/berkshire-hathaway/)；本页仍以“资本配置机器”作为公司视角。
+### [尼克·斯利普](/investor-masters/investors/nick-sleep/) / [凯斯·扎卡里亚](/investor-masters/investors/qais-zakaria/)
+> “2013年清盘前，游牧人美股持仓仅四家：66.3%的亚马逊，14.7%的开市客，10.7%的自由环球公司（Liberty Global，一家英国电视和宽带公司），以及8.3%的伯克希尔。” ——来源：[一家低调的传奇机构，“黏住”亚马逊、开市客、伯克希尔大赚特赚](/investor-masters/sources/source-12/)
+
+对他们而言，伯克希尔是与亚马逊、开市客并列的长期复利机器。
+
+### [沃伦·巴菲特](/investor-masters/investors/warren-buffett/)
+> “我们伯克希尔从不开会。每年只有一次董事会会议，在股东大会之后的午餐上，开完我就说：“明年见。” ——来源：[巴菲特亲自教授的一堂价值百万的MBA课程：如何在股市里赚大钱](/investor-masters/sources/source-20/)
+
+这句话背后是伯克希尔极端去中心化的组织方式。
+
+## 分歧与共识
+
+共识在于：伯克希尔本身就是一种稀缺的资本配置结构。分歧不大，更多只是切入角度不同，有人把它当成股票，有人把它当成制度化长期主义。
 
 ## 相关页面
 
-- [沃伦·巴菲特](/investor-masters/investors/warren-buffett/)
-- [查理·芒格](/investor-masters/investors/charlie-munger/)
-- [托德·库姆斯](/investor-masters/investors/todd-combs/)
-- [泰德·韦施勒](/investor-masters/investors/ted-weschler/)
 - [段永平](/investor-masters/investors/duan-yongping/)
-- [Berkshire Hathaway](/investor-masters/institutions/berkshire-hathaway/)
+- [沃伦·巴菲特](/investor-masters/investors/warren-buffett/)
+- [尼克·斯利普](/investor-masters/investors/nick-sleep/)
+- [凯斯·扎卡里亚](/investor-masters/investors/qais-zakaria/)

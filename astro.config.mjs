@@ -21,6 +21,7 @@ export default defineConfig({
           label: '开始阅读',
           items: [
             { label: '首页', slug: '' },
+            { label: '投资十问', slug: 'ten-questions/index' },
             { label: '对话与争议', slug: 'dialogues' }
           ]
         },

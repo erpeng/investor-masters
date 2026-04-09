@@ -1,10 +1,10 @@
 ---
 title: "投资人"
 slug: "investors"
-description: "从思维方式切入，而不是从履历切入。"
+description: "从人物、约束和边界切入理解不同投资方法。"
 ---
 
-这里不是投资人物百科，而是按“值得花十分钟读谁”来组织的入口。
+这里不是投资人物百科，而是按“这个人为什么会这样投、这套方法在什么边界下成立”来组织的入口。
 
 ## 从哪里开始
 
@@ -16,6 +16,7 @@ description: "从思维方式切入，而不是从履历切入。"
 ## 比较视图
 
 - [投资人比较矩阵](/investor-masters/investors/comparison-matrix/)
+- [投资十问](/investor-masters/ten-questions/index/)
 
 ## 全部投资人
 

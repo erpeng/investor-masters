@@ -219,6 +219,71 @@ CONCEPT_META = {
     "判断力": {"slug": "judgment"},
 }
 
+COMPANY_SLUG_OVERRIDES = {
+    "亚马逊": "amazon",
+    "开市客": "costco",
+    "伯克希尔·哈撒韦": "berkshire-hathaway",
+    "SpaceX": "spacex",
+    "特斯拉": "tesla",
+    "诺和诺德": "novo-nordisk",
+    "苹果": "apple",
+    "腾讯": "tencent",
+    "小红书": "xiaohongshu",
+    "MiniMax": "minimax",
+    "微软": "microsoft",
+    "可口可乐": "coca-cola",
+    "美团": "meituan",
+    "拼多多": "pdd",
+    "百度": "baidu",
+    "英伟达": "nvidia",
+    "阿里巴巴": "alibaba",
+    "台积电": "tsmc",
+    "丹纳赫": "danaher",
+    "ASML": "asml",
+    "Alphabet": "alphabet",
+    "BlackBerry": "blackberry",
+    "Coinbase": "coinbase",
+    "GEICO": "geico",
+    "Howard Hughes": "howard-hughes",
+    "Meta": "meta",
+    "Palantir": "palantir",
+    "Silvergate Capital": "silvergate-capital",
+    "Teva": "teva",
+    "Visa": "visa",
+    "ADP": "adp",
+}
+
+
+def simple_slug(name: str) -> str:
+    slug = name.lower().strip()
+    slug = slug.replace('·', '-')
+    slug = re.sub(r'[^a-z0-9\-\s]+', '', slug)
+    slug = re.sub(r'\s+', '-', slug)
+    slug = re.sub(r'-{2,}', '-', slug).strip('-')
+    return slug or name
+
+
+def company_slug(name: str) -> str:
+    return COMPANY_SLUG_OVERRIDES.get(name, simple_slug(name))
+
+
+def question_slug(name: str) -> str:
+    slug = name.strip()
+    slug = slug.replace('：', '-')
+    slug = re.sub(r'\s+', '-', slug)
+    return simple_slug(slug)
+
+
+def all_company_names() -> list[str]:
+    companies_dir = WIKI_DIR / 'companies'
+    return sorted(p.stem for p in companies_dir.glob('*.md') if p.name != 'index.md')
+
+
+def all_question_names() -> list[str]:
+    questions_dir = WIKI_DIR / 'ten-questions'
+    return sorted(p.stem for p in questions_dir.glob('*.md') if p.name != 'index.md')
+
+
 
 def parse_frontmatter(text: str) -> tuple[dict[str, str], str]:
     if not text.startswith("---\n"):
@@ -385,7 +450,7 @@ def collect_featured_quotes(limit: int = 4) -> list[str]:
             continue
         _, body = parse_frontmatter(source_path.read_text(encoding="utf-8"))
         sections = parse_sections(body)
-        for line in sections.get("标志性语录", "").splitlines():
+        for line in (sections.get("人物气味语录", "") or sections.get("标志性语录", "")).splitlines():
             stripped = line.strip()
             if not stripped.startswith("- "):
                 continue
@@ -425,9 +490,10 @@ def build_link_maps():
         key = f"investors/{name}"
         page_map[key] = f"investors/{meta['slug']}"
         type_map[key] = name
-    for name, meta in COMPANY_META.items():
+    for name in all_company_names():
+        slug = company_slug(name)
         key = f"companies/{name}"
-        page_map[key] = f"companies/{meta['slug']}"
+        page_map[key] = f"companies/{slug}"
         type_map[key] = name
     for name, meta in INSTITUTION_META.items():
         key = f"institutions/{name}"
@@ -436,6 +502,10 @@ def build_link_maps():
     for name, meta in CONCEPT_META.items():
         key = f"concepts/{name}"
         page_map[key] = f"concepts/{meta['slug']}"
+        type_map[key] = name
+    for name in all_question_names():
+        key = f"ten-questions/{name}"
+        page_map[key] = f"ten-questions/{question_slug(name)}"
         type_map[key] = name
     page_map["dialogues/index"] = "dialogues"
     page_map["dialogues/质量价值 vs 成长非共识"] = "dialogues/quality-vs-growth"
@@ -446,6 +516,7 @@ def build_link_maps():
     page_map["companies/index"] = "companies/index"
     page_map["institutions/index"] = "institutions/index"
     page_map["concepts/index"] = "concepts/index"
+    page_map["ten-questions/index"] = "ten-questions/index"
     page_map["log"] = "index"
     return page_map, type_map
 
@@ -554,7 +625,7 @@ def normalize_reader_facing_terms(text: str) -> str:
 def ensure_clean_docs():
     if DOCS_DIR.exists():
         shutil.rmtree(DOCS_DIR)
-    for folder in ["investors", "companies", "institutions", "concepts", "sources", "dialogues"]:
+    for folder in ["investors", "companies", "institutions", "concepts", "sources", "dialogues", "ten-questions"]:
         (DOCS_DIR / folder).mkdir(parents=True, exist_ok=True)
 
 
@@ -590,8 +661,7 @@ def compile_investors():
         else:
             institution_md = institution_name
         output = DOCS_DIR / "investors" / f"{meta['slug']}.md"
-        quote = convert_wikilinks(first_quote(sections.get("标志性语录", "")), output)
-        info_sources = sections.get("投资信息来源") or INVESTOR_INFO_SOURCES.get(name, "现有资料更偏观点与案例呈现，尚未把这位投资人的信息来源系统单独展开。")
+        quote = convert_wikilinks(first_quote(sections.get("人物气味语录", "") or sections.get("标志性语录", "")), output)
         pieces = [
             render_frontmatter(name, f"investors/{meta['slug']}", meta["tagline"]),
             "> **一句话定义**  ",
@@ -602,22 +672,18 @@ def compile_investors():
             f"**核心方法**: {meta['methods']}\n",
             "## 简介\n",
             convert_wikilinks(sections.get("简介", "现有资料暂未涉及。"), output),
-            "\n## 投资信息来源\n",
-            convert_wikilinks(info_sources, output),
-            "\n## 投资思想\n",
-            convert_wikilinks(sections.get("投资思想", "当前语料未涉及。"), output),
-            "\n## 投资策略\n",
-            convert_wikilinks(sections.get("投资策略", "当前语料未涉及。"), output),
-            "\n## 标志性语录\n",
-            convert_wikilinks(sections.get("标志性语录", "当前语料未涉及。"), output),
-            "\n## 核心失误\n",
-            convert_wikilinks(sections.get("核心失误", "当前语料未涉及。"), output),
-            "\n## 与其他人的差异\n",
-            convert_wikilinks(sections.get("投资风格与其他人的差异", "当前语料未涉及。"), output),
-            "\n## 投资业绩\n",
-            convert_wikilinks(sections.get("投资业绩", "当前语料未涉及。"), output),
-            "\n## 投资风格相近的人\n",
-            convert_wikilinks(sections.get("投资风格相近的人", "当前语料未涉及。"), output),
+            "\n## 人物分析\n",
+            convert_wikilinks(sections.get("人物分析", "当前语料未涉及。"), output),
+            "\n## 来时路与关键转折\n",
+            convert_wikilinks(sections.get("来时路与关键转折", "当前语料未涉及。"), output),
+            "\n## 失误、边界与失效条件\n",
+            convert_wikilinks(sections.get("失误、边界与失效条件", "当前语料未涉及。"), output),
+            "\n## 对我有什么启发\n",
+            convert_wikilinks(sections.get("对我有什么启发", "当前语料未涉及。"), output),
+            "\n## 最像谁 / 最不像谁 / 关键差异\n",
+            convert_wikilinks(sections.get("最像谁 / 最不像谁 / 关键差异", "当前语料未涉及。"), output),
+            "\n## 人物气味语录\n",
+            convert_wikilinks(sections.get("人物气味语录", "当前语料未涉及。"), output),
             "\n## 主要来源\n",
             convert_wikilinks(sections.get("主要来源", "当前语料未涉及。"), output),
         ]
@@ -625,8 +691,8 @@ def compile_investors():
 
     index_output = DOCS_DIR / "investors" / "index.md"
     lines = [
-        render_frontmatter("投资人", "investors", "从思维方式切入，而不是从履历切入。"),
-        "这里不是投资人物百科，而是按“值得花十分钟读谁”来组织的入口。\n",
+        render_frontmatter("投资人", "investors", "从人物、约束和边界切入理解不同投资方法。"),
+        "这里不是投资人物百科，而是按“这个人为什么会这样投、这套方法在什么边界下成立”来组织的入口。\n",
         "## 从哪里开始\n",
         f"- **价值投资**: [沃伦·巴菲特]({doc_url('investors/warren-buffett')})、[查理·芒格]({doc_url('investors/charlie-munger')})、[特里·史密斯]({doc_url('investors/terry-smith')})",
         f"- **成长投资**: [詹姆斯·安德森]({doc_url('investors/james-anderson')})、[汤姆·斯莱特]({doc_url('investors/tom-slater')})、[劳伦斯·伯恩斯]({doc_url('investors/lawrence-burns')})",
@@ -634,7 +700,8 @@ def compile_investors():
         f"- **最不寻常的思维**: [尼克·斯利普]({doc_url('investors/nick-sleep')})、[尼科莱·坦根]({doc_url('investors/nicolai-tangen')})、[纳瓦尔·拉维坎特]({doc_url('investors/naval-ravikant')})\n",
         "## 比较视图\n",
         f"- [投资人比较矩阵]({doc_url('investors/comparison-matrix')})",
-        "\n## 全部投资人\n",
+        f"- [投资十问]({doc_url('ten-questions/index')})\n",
+        "## 全部投资人\n",
     ]
     for name, meta in INVESTOR_META.items():
         lines.append(f"- [{name}]({doc_url('investors/' + meta['slug'])})")
@@ -650,40 +717,49 @@ def compile_investors():
 
 
 def compile_companies():
-    for name, meta in COMPANY_META.items():
+    company_names = all_company_names()
+    highlights: list[str] = []
+
+    for name in company_names:
+        slug = company_slug(name)
         source_path = WIKI_DIR / "companies" / f"{name}.md"
-        _, body = parse_frontmatter(source_path.read_text(encoding="utf-8"))
+        fm, body = parse_frontmatter(source_path.read_text(encoding="utf-8"))
         sections = parse_sections(body)
-        output = DOCS_DIR / "companies" / f"{meta['slug']}.md"
+        intro = sections.get("简介", "现有资料暂未涉及。").strip()
+        consensus = COMPANY_META.get(name, {}).get("consensus") or intro.split("\n\n", 1)[0].strip()
+        output = DOCS_DIR / "companies" / f"{slug}.md"
         content = [
-            render_frontmatter(name, f"companies/{meta['slug']}", meta["consensus"]),
-            f"> **争议与共识**  \n> {meta['consensus']}\n",
-            "## 哪些投资人提到过\n",
-            convert_wikilinks(sections.get("哪些投资人提到过", "当前语料未涉及。"), output),
-            "\n## 当前观察\n",
-            convert_wikilinks(sections.get("当前观察", "当前语料未涉及。"), output),
-            "\n## 相关页面\n",
-            convert_wikilinks(sections.get("相关页面", "当前语料未涉及。"), output),
+            render_frontmatter(name, f"companies/{slug}", consensus),
+            f"> **争议与共识**  \n> {consensus}\n",
+            "## 简介\n",
+            convert_wikilinks(intro or "现有资料暂未涉及。", output),
+            "\n## 公司点评\n",
+            convert_wikilinks(sections.get("公司点评", "现有资料暂未涉及。"), output),
         ]
+        if sections.get("分歧与共识"):
+            content.extend(["\n## 分歧与共识\n", convert_wikilinks(sections.get("分歧与共识", ""), output)])
+        content.extend(["\n## 相关页面\n", convert_wikilinks(sections.get("相关页面", "现有资料暂未涉及。"), output)])
         write(output, "\n".join(content))
 
-    write(
-        DOCS_DIR / "companies" / "index.md",
-        render_frontmatter("公司", "companies", "不是公司百科，而是“为什么顶级投资人反复提到它们”。")
-        + "\n".join(
-            [
-                "这些页面最值得看的不是引言列表，而是同一家公司如何被不同投资人用不同方法读取。\n",
-                f"- [亚马逊]({doc_url('companies/amazon')}): 同一家公司，三种完全不同的读法。",
-                f"- [特斯拉]({doc_url('companies/tesla')}): 质量价值与成长非共识的正面碰撞。",
-                f"- [伯克希尔·哈撒韦]({doc_url('companies/berkshire-hathaway')}): 同时是公司、机构和方法论母本。",
-                "\n## 全部公司\n",
-            ]
-        ),
-    )
-    companies_index = DOCS_DIR / "companies" / "index.md"
-    with companies_index.open("a", encoding="utf-8") as f:
-        for name, meta in COMPANY_META.items():
-            f.write(f"- [{name}]({doc_url('companies/' + meta['slug'])})\n")
+        if len(highlights) < 6 and intro and intro != "现有资料暂未涉及。":
+            summary = intro.split("。", 1)[0].strip()
+            if summary:
+                highlights.append(f"- [{name}]({doc_url('companies/' + slug)}): {summary}。")
+
+    index_src = WIKI_DIR / "companies" / "index.md"
+    _, body = parse_frontmatter(index_src.read_text(encoding="utf-8"))
+    index_output = DOCS_DIR / "companies" / "index.md"
+    pieces = [
+        render_frontmatter("公司", "companies", "不是公司百科，而是“为什么顶级投资人反复提到它们”。"),
+        convert_wikilinks(body, index_output),
+        "\n## 全部公司\n",
+    ]
+    if highlights:
+        pieces.insert(2, "\n" + "\n".join(highlights) + "\n")
+    write(index_output, "".join(pieces))
+    with index_output.open("a", encoding="utf-8") as f:
+        for name in company_names:
+            f.write(f"- [{name}]({doc_url('companies/' + company_slug(name))})\n")
 
 
 def compile_institutions():
@@ -743,6 +819,32 @@ def compile_concepts():
         index_lines.append(f"- [{name}]({doc_url('concepts/' + meta['slug'])})")
     write(DOCS_DIR / "concepts" / "index.md", "\n".join(index_lines))
 
+
+
+def compile_ten_questions():
+    questions_dir = WIKI_DIR / "ten-questions"
+    index_src = questions_dir / "index.md"
+    _, body = parse_frontmatter(index_src.read_text(encoding="utf-8"))
+    index_out = DOCS_DIR / "ten-questions" / "index.md"
+    write(
+        index_out,
+        render_frontmatter("投资十问", "ten-questions/index", "把同一个问题横向放到不同投资人身上读。")
+        + convert_wikilinks(body, index_out),
+    )
+
+    for src in sorted(questions_dir.glob("*.md")):
+        if src.name == "index.md":
+            continue
+        fm, body = parse_frontmatter(src.read_text(encoding="utf-8"))
+        title = fm.get("title", src.stem)
+        slug = question_slug(src.stem)
+        out = DOCS_DIR / "ten-questions" / f"{slug}.md"
+        cleaned_body = re.sub(r"^# .+\n+", "", body, count=1)
+        write(
+            out,
+            render_frontmatter(title, f"ten-questions/{slug}", title)
+            + convert_wikilinks(cleaned_body, out),
+        )
 
 def compile_sources():
     index_lines = [
@@ -875,6 +977,30 @@ def summarize_log_entry(entry: dict[str, str]) -> list[str]:
     if title.startswith("naval quote refinement |"):
         return ["更新公司：苹果、SpaceX，两页的纳瓦尔引言重写。"]
 
+    if title.startswith("schema-finalization |"):
+        return ["新增投资十问，并把公司页扩到更完整的一批。"]
+
+    if title.startswith("evidence-tightening |"):
+        return ["投资十问和公司页一起收紧了，现在答案和引言更贴原始材料。"]
+
+    if title.startswith("investor-evidence-backfill |"):
+        return []
+
+    if title.startswith("investor-section-evidence |"):
+        return []
+
+    if title.startswith("extraction-quality-gate |"):
+        return ["投资十问更新：一些答案被重写得更锋利，也更能看出彼此差异。"]
+
+    if title.startswith("q1-tightening |"):
+        return ["投资十问更新：优势问题下的关键答案重新收紧了。"]
+
+    if title.startswith("q8-q10-tightening |"):
+        return ["投资十问更新：组合构建和系统性误判两组答案被补强了。"]
+
+    if title.startswith("investor-why-refactor |"):
+        return ["阅读结构升级：人物页现在更回答“为什么这样投”，投资十问则专门负责横向审问。"]
+
     fallback = title.split("|", 1)[-1].strip() if "|" in title else title.strip()
     return [fallback]
 
@@ -887,11 +1013,13 @@ def build_recent_updates(log_text: str) -> list[str]:
         date_text = f"`{entry['date']}` "
         summaries = summarize_log_entry(entry)
         for idx, summary in enumerate(summaries):
+            if not summary:
+                continue
             if any(token in summary for token in ["源 wiki", "编译站点", "源站对齐", "source", "canonical"]):
                 continue
             prefix = date_text if idx == 0 else " " * len(date_text)
             items.append(f"- {prefix}{summary}")
-    return items
+    return items[:8]
 
 def compile_home():
     index_src = WIKI_DIR / "index.md"
@@ -937,6 +1065,7 @@ def main():
     compile_companies()
     compile_institutions()
     compile_concepts()
+    compile_ten_questions()
     compile_sources()
     compile_dialogues()
     compile_home()
