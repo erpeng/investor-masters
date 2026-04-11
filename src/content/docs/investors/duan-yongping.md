@@ -55,7 +55,7 @@ description: "把“不懂不碰”执行到生活方式里的投资人。"
   > 
   > “Stop Doing List没有short cut（捷径）。”
   >
-  > ——来源：[段永平：抄捷径是阴沟里翻船最快的方法](/investor-masters/sources/source-25/)
+  > ——来源：[段永平：抄捷径是阴沟里翻船最快的方法](/investor-masters/sources/source-34/)
 
 - `最爱把问题压回哪一层`: 他几乎总是把问题压回生意、人和文化，而不是市场和价格。
 
@@ -63,7 +63,7 @@ description: "把“不懂不碰”执行到生活方式里的投资人。"
   > 
   > “先看商业模式，理解企业怎么挣钱。95%的人投资都是focus在市场上的，这就是不懂投资。一定要focus在生意上。”
   >
-  > ——来源：[“打孔机”只打了不到10个孔！段永平与方三文最新对话，详解“投资中如何真正算看懂”……](/investor-masters/sources/source-10/)、[段永平：抄捷径是阴沟里翻船最快的方法](/investor-masters/sources/source-25/)
+  > ——来源：[“打孔机”只打了不到10个孔！段永平与方三文最新对话，详解“投资中如何真正算看懂”……](/investor-masters/sources/source-11/)、[段永平：抄捷径是阴沟里翻船最快的方法](/investor-masters/sources/source-34/)
 
 - `在哪类问题上更兴奋、更具体`: 一谈到产品、用户价值、企业文化和管理层取向，他就会立刻具体起来；一谈市场行情，语言会明显收窄。
 
@@ -71,7 +71,7 @@ description: "把“不懂不碰”执行到生活方式里的投资人。"
   > 
   > “所以给用户提供不了价值的东西，或者提供不了足够价值的产品，再热门他们也不会做。”
   >
-  > ——来源：[段永平：抄捷径是阴沟里翻船最快的方法](/investor-masters/sources/source-25/)、[“打孔机”只打了不到10个孔！段永平与方三文最新对话，详解“投资中如何真正算看懂”……](/investor-masters/sources/source-10/)
+  > ——来源：[段永平：抄捷径是阴沟里翻船最快的方法](/investor-masters/sources/source-34/)、[“打孔机”只打了不到10个孔！段永平与方三文最新对话，详解“投资中如何真正算看懂”……](/investor-masters/sources/source-11/)
 
 - `怎么处理不确定性`: 不是扩大赔率想象，而是缩小边界，把不确定性转成“想不通就不碰”。
 
@@ -79,37 +79,37 @@ description: "把“不懂不碰”执行到生活方式里的投资人。"
   > 
   > “安全边际指的是你对公司有多懂，这是我的理解。”
   >
-  > ——来源：[段永平：抄捷径是阴沟里翻船最快的方法](/investor-masters/sources/source-25/)、[“打孔机”只打了不到10个孔！段永平与方三文最新对话，详解“投资中如何真正算看懂”……](/investor-masters/sources/source-10/)
+  > ——来源：[段永平：抄捷径是阴沟里翻船最快的方法](/investor-masters/sources/source-34/)、[“打孔机”只打了不到10个孔！段永平与方三文最新对话，详解“投资中如何真正算看懂”……](/investor-masters/sources/source-11/)
 
 - `怎么谈错误`: 谈错误很短，不修饰，更像一句到此为止的判断。
 
   > “投机百度的时候被short squeeze（夹空）了，亏了1亿~2亿美金。”
   >
-  > ——来源：[段永平：抄捷径是阴沟里翻船最快的方法](/investor-masters/sources/source-25/)
+  > ——来源：[段永平：抄捷径是阴沟里翻船最快的方法](/investor-masters/sources/source-34/)
 
 - `怎么谈人`: 谈人很重，甚至愿意为“人不对”提前卖掉。
 
   > “因为丁磊就是个大孩子，那么多钱放他手里不放心，虽然股价证明我可能卖错了。”
   >
-  > ——来源：[段永平：抄捷径是阴沟里翻船最快的方法](/investor-masters/sources/source-25/)
+  > ——来源：[段永平：抄捷径是阴沟里翻船最快的方法](/investor-masters/sources/source-34/)
 
 - `怎么谈时间`: 时间在他的语言里天然是长周期和低频出手，而不是追下一段波动。
 
   > “我一般跟大家讲，我就三只股票：苹果、腾讯、茅台，差不多真是这样。”
   >
-  > ——来源：[“打孔机”只打了不到10个孔！段永平与方三文最新对话，详解“投资中如何真正算看懂”……](/investor-masters/sources/source-10/)
+  > ——来源：[“打孔机”只打了不到10个孔！段永平与方三文最新对话，详解“投资中如何真正算看懂”……](/investor-masters/sources/source-11/)
 
 - `先讲原则、案例还是边界`: 往往先给原则，但很快就落到边界，最后回到一个具体案例验证。
 
   > “在我眼里，特斯拉是一家价值为零为zero的公司，迟早要完。”
   >
-  > ——来源：[段永平：抄捷径是阴沟里翻船最快的方法](/investor-masters/sources/source-25/)
+  > ——来源：[段永平：抄捷径是阴沟里翻船最快的方法](/investor-masters/sources/source-34/)
 
 - `回答姿态`: 更像裁决 + 教学，而不是建模或辩论。他不是在和市场斗嘴，而是在划线。
 
   > “你一定要看懂生意，你也要看懂未来的现金流。”
   >
-  > ——来源：[“打孔机”只打了不到10个孔！段永平与方三文最新对话，详解“投资中如何真正算看懂”……](/investor-masters/sources/source-10/)
+  > ——来源：[“打孔机”只打了不到10个孔！段永平与方三文最新对话，详解“投资中如何真正算看懂”……](/investor-masters/sources/source-11/)
 
 **画像判断**
 
@@ -139,8 +139,8 @@ description: "把“不懂不碰”执行到生活方式里的投资人。"
 
 ## 主要来源
 
-- [段永平：抄捷径是阴沟里翻船最快的方法](/investor-masters/sources/source-25/)
-- [“打孔机”只打了不到10个孔！段永平与方三文最新对话，详解“投资中如何真正算看懂”……](/investor-masters/sources/source-10/)
+- [段永平：抄捷径是阴沟里翻船最快的方法](/investor-masters/sources/source-34/)
+- [“打孔机”只打了不到10个孔！段永平与方三文最新对话，详解“投资中如何真正算看懂”……](/investor-masters/sources/source-11/)
 - [Duan Yongping - Wikipedia](https://en.wikipedia.org/wiki/Duan_Yongping)
 - [段永平 - 维基百科](https://zh.wikipedia.org/wiki/%E6%AE%B5%E6%B0%B8%E5%B9%B3)
 - [Forbes: Buffett’s eBay Lunch](https://www.forbes.com/2006/06/30/buffett-ebay-lunch-cx_gl_0630autofacescan03.html)

@@ -19,7 +19,7 @@ description: "台积电在这批资料里主要是“稀缺制造能力”的样
 安德森关注的是组织与能力的不可复制性。
 
 ### [劳伦斯·伯恩斯](/investor-masters/investors/lawrence-burns/)
-> “在 AI这个主题里，我们的布局是沿着整条价值链展开的。 比如在硬件层面，我们持有英伟达、阿斯麦和台积电。” ——来源：[近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-masters/sources/source-31/)
+> “在 AI这个主题里，我们的布局是沿着整条价值链展开的。 比如在硬件层面，我们持有英伟达、阿斯麦和台积电。” ——来源：[近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-masters/sources/source-42/)
 
 这是把台积电放进系统性配置框架的说法。
 

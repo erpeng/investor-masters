@@ -14,12 +14,12 @@ description: "美团在这批资料里是中国本地生活平台的竞争韧性
 ## 公司点评
 
 ### [劳伦斯·伯恩斯](/investor-masters/investors/lawrence-burns/)
-> “劳伦斯 美团本质上其实就是日常本地生活的基础设施。” ——来源：[近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-masters/sources/source-31/)
+> “劳伦斯 美团本质上其实就是日常本地生活的基础设施。” ——来源：[近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-masters/sources/source-42/)
 
 这句话决定了整页的阅读方式。
 
 ### [劳伦斯·伯恩斯](/investor-masters/investors/lawrence-burns/)
-> “我的回答是，这种局面对美团管理层来说，并不陌生。它本来就是在这种极端竞争中长出来的。当年和它用类似模式竞争的公司大概有 3000家，它就是从那样的环境里杀出来的。” ——来源：[近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-masters/sources/source-31/)
+> “我的回答是，这种局面对美团管理层来说，并不陌生。它本来就是在这种极端竞争中长出来的。当年和它用类似模式竞争的公司大概有 3000家，它就是从那样的环境里杀出来的。” ——来源：[近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-masters/sources/source-42/)
 
 这不是静态护城河，而是残酷竞争筛出来的组织能力。
 

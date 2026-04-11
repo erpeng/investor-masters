@@ -29,8 +29,8 @@ Oaktree 的机构哲学在现有资料里有极高一致性。霍华德在与坦
 
 ## 标志性公开材料
 
-- [最新对话！霍华德·马克斯vs最大主权基金掌门：如何判断决策的质量](/investor-masters/sources/source-23/)：六点哲学、决策质量与周期位置判断。
-- [关于耐心与杠杆！霍华德与摩根的最新对话：历史不会重演，但人类的行为却总是重复](/investor-masters/sources/source-16/)：备忘录如何进入公共讨论，以及 Oaktree 如何围绕耐心、杠杆与风险控制表达自己。
+- [最新对话！霍华德·马克斯vs最大主权基金掌门：如何判断决策的质量](/investor-masters/sources/source-30/)：六点哲学、决策质量与周期位置判断。
+- [关于耐心与杠杆！霍华德与摩根的最新对话：历史不会重演，但人类的行为却总是重复](/investor-masters/sources/source-17/)：备忘录如何进入公共讨论，以及 Oaktree 如何围绕耐心、杠杆与风险控制表达自己。
 - `Oaktree memos`：如《钟摆》《波动+杠杆=炸药》《知识的幻觉》《测量温度》等，都是机构思想的直接载体。
 - [Oaktree About](https://www.oaktreecapital.com/about)：官方层面对规模、资产类别与机构定位的介绍。
 

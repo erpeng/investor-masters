@@ -140,12 +140,33 @@ INVESTOR_META = {
         "holdings": "Pure Alpha、OpenAI 早期个人投资",
         "methods": "制度拐点 / 分散 / 系统化研究",
     },
+    "格雷格·阿贝尔": {
+        "slug": "greg-abel",
+        "tagline": "把经营接口和资本配置接口接在一起的伯克希尔继任 allocator。",
+        "institution": ("Berkshire Hathaway", "institutions/berkshire-hathaway"),
+        "holdings": "伯克希尔、Kraft Heinz",
+        "methods": "资本桶排序 / owner alignment / 经营现实",
+    },
+    "凯茜·伍德": {
+        "slug": "cathie-wood",
+        "tagline": "把一级市场技术地图搬进二级市场组合的人。",
+        "institution": ("ARK Invest", "institutions/ark-invest"),
+        "holdings": "Tesla、SpaceX、Palantir",
+        "methods": "平台收敛 / 生产率跃迁 / 公开市场风投",
+    },
     "尼科莱·坦根": {
         "slug": "nicolai-tangen",
         "tagline": "把投资理解成情报学与组织训练的人。",
         "institution": ("挪威主权财富基金", None),
         "holdings": "AKO、主权基金配置",
         "methods": "提问 / 情报学 / 组织训练",
+    },
+    "肯·格里芬": {
+        "slug": "ken-griffin",
+        "tagline": "把财政纪律、政策副作用和 market plumbing 放在一起看的人。",
+        "institution": ("Citadel", "institutions/citadel"),
+        "holdings": "多策略交易、制度裂缝",
+        "methods": "财政现实 / 制度敏感度 / plumbing 风险",
     },
     "特蕾西·布里特·库尔": {
         "slug": "tracy-britt-cool",
@@ -200,10 +221,14 @@ COMPANY_META = {
 }
 
 INSTITUTION_META = {
+    "ARK Invest": {"slug": "ark-invest"},
     "Baillie Gifford": {"slug": "baillie-gifford"},
     "Berkshire Hathaway": {"slug": "berkshire-hathaway"},
+    "Bridgewater Associates": {"slug": "bridgewater-associates"},
+    "Citadel": {"slug": "citadel"},
     "Nomad Investment Partnership": {"slug": "nomad-investment-partnership"},
     "Oaktree Capital": {"slug": "oaktree-capital"},
+    "Pershing Square": {"slug": "pershing-square"},
     "Fundsmith": {"slug": "fundsmith"},
 }
 
@@ -251,6 +276,23 @@ COMPANY_SLUG_OVERRIDES = {
     "Teva": "teva",
     "Visa": "visa",
     "ADP": "adp",
+}
+
+DIALOGUE_SLUG_OVERRIDES = {
+    "质量价值 vs 成长非共识": "quality-vs-growth",
+    "保守的风险语言 vs 激进的仓位语言": "risk-and-conviction",
+    "不懂不碰 vs 未来信息才重要": "certainty-vs-future",
+    "看懂边界 vs 品味判断": "boundary-vs-taste",
+    "制度保护时间 vs 性格保护时间": "institution-vs-temperament",
+    "复制优秀模式 vs 寻找超级赢家": "cloning-vs-super-winners",
+    "提问式判断 vs 仓位式判断": "questioning-vs-positioning",
+    "安静持有 vs 战役推动": "quiet-holding-vs-campaign-push",
+    "方向判断正确 vs 交易结构正确": "direction-right-vs-structure-right",
+    "静态能力圈 vs 可审计能力圈": "static-vs-auditable-circle",
+    "交易型反脆弱 vs 资本结构型反脆弱": "trading-vs-capital-structure-antifragility",
+    "可验证现金流 vs 站在变化的一边": "verifiable-cashflow-vs-stand-with-change",
+    "周期位置 vs 制度裂缝": "cycle-position-vs-structural-fracture",
+    "平台收敛赢家 vs 价值链瓶颈赢家": "platform-winners-vs-bottleneck-winners",
 }
 
 
@@ -523,13 +565,13 @@ def build_link_maps():
         page_map[key] = f"ten-questions/{question_slug(name)}"
         type_map[key] = name
     page_map["dialogues/index"] = "dialogues"
-    page_map["dialogues/质量价值 vs 成长非共识"] = "dialogues/quality-vs-growth"
-    page_map["dialogues/保守的风险语言 vs 激进的仓位语言"] = "dialogues/risk-and-conviction"
-    page_map["dialogues/不懂不碰 vs 未来信息才重要"] = "dialogues/certainty-vs-future"
-    page_map["dialogues/看懂边界 vs 品味判断"] = "dialogues/boundary-vs-taste"
-    page_map["dialogues/制度保护时间 vs 性格保护时间"] = "dialogues/institution-vs-temperament"
-    page_map["dialogues/复制优秀模式 vs 寻找超级赢家"] = "dialogues/cloning-vs-super-winners"
-    page_map["dialogues/提问式判断 vs 仓位式判断"] = "dialogues/questioning-vs-positioning"
+    dialogues_dir = WIKI_DIR / "dialogues"
+    for src in dialogues_dir.glob("*.md"):
+        if src.name == "index.md":
+            continue
+        slug = DIALOGUE_SLUG_OVERRIDES.get(src.stem, src.stem)
+        page_map[f"dialogues/{src.stem}"] = f"dialogues/{slug}"
+        type_map[f"dialogues/{src.stem}"] = src.stem
     page_map["investors/index"] = "investors/index"
     page_map["companies/index"] = "companies/index"
     page_map["institutions/index"] = "institutions/index"
@@ -716,6 +758,7 @@ def compile_investors():
         f"- **价值投资**: [沃伦·巴菲特]({doc_url('investors/warren-buffett')})、[查理·芒格]({doc_url('investors/charlie-munger')})、[特里·史密斯]({doc_url('investors/terry-smith')})",
         f"- **成长投资**: [詹姆斯·安德森]({doc_url('investors/james-anderson')})、[汤姆·斯莱特]({doc_url('investors/tom-slater')})、[劳伦斯·伯恩斯]({doc_url('investors/lawrence-burns')})",
         f"- **宏观与风险**: [霍华德·马克斯]({doc_url('investors/howard-marks')})、[斯坦利·德鲁肯米勒]({doc_url('investors/stanley-druckenmiller')})、[格雷格·詹森]({doc_url('investors/greg-jensen')})",
+        f"- **新增材料重点**: [格雷格·阿贝尔]({doc_url('investors/greg-abel')})、[凯茜·伍德]({doc_url('investors/cathie-wood')})、[肯·格里芬]({doc_url('investors/ken-griffin')})",
         f"- **最不寻常的思维**: [尼克·斯利普]({doc_url('investors/nick-sleep')})、[尼科莱·坦根]({doc_url('investors/nicolai-tangen')})、[纳瓦尔·拉维坎特]({doc_url('investors/naval-ravikant')})\n",
         "## 比较视图\n",
         f"- [投资人比较矩阵]({doc_url('investors/comparison-matrix')})",
@@ -803,6 +846,8 @@ def compile_institutions():
                 f"- [Nomad Investment Partnership]({doc_url('institutions/nomad-investment-partnership')}): 为什么 Sleep 能拿亚马逊二十年。",
                 f"- [Berkshire Hathaway]({doc_url('institutions/berkshire-hathaway')}): 为什么永久资本和保险 float 能形成独特制度优势。",
                 f"- [Oaktree Capital]({doc_url('institutions/oaktree-capital')}): 为什么备忘录不只是写作，而是组织知识资产。",
+                f"- [ARK Invest]({doc_url('institutions/ark-invest')}): 为什么公开市场也能被当成技术平台地图来下注。",
+                f"- [Citadel]({doc_url('institutions/citadel')}): 为什么制度裂缝和 market plumbing 会进入机构方法本身。",
                 "\n## 全部机构\n",
             ]
         ),
@@ -907,20 +952,11 @@ def compile_dialogues():
         + convert_wikilinks(body, index_out),
     )
 
-    slug_map = {
-        "质量价值 vs 成长非共识": "quality-vs-growth",
-        "保守的风险语言 vs 激进的仓位语言": "risk-and-conviction",
-        "不懂不碰 vs 未来信息才重要": "certainty-vs-future",
-        "看懂边界 vs 品味判断": "boundary-vs-taste",
-        "制度保护时间 vs 性格保护时间": "institution-vs-temperament",
-        "复制优秀模式 vs 寻找超级赢家": "cloning-vs-super-winners",
-        "提问式判断 vs 仓位式判断": "questioning-vs-positioning",
-    }
     for src in sorted(dialogues_dir.glob("*.md")):
         if src.name == "index.md":
             continue
         _, body = parse_frontmatter(src.read_text(encoding="utf-8"))
-        slug = slug_map.get(src.stem, src.stem)
+        slug = DIALOGUE_SLUG_OVERRIDES.get(src.stem, src.stem)
         out = DOCS_DIR / "dialogues" / f"{slug}.md"
         cleaned_body = re.sub(r"^# .+\n+", "", body, count=1)
         write(

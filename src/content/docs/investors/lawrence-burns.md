@@ -23,7 +23,7 @@ description: "沿着整条技术价值链去布局成长资产的人。"
 
 > “在 AI 这个主题里，我们的布局是沿着整条价值链展开的。”
 >
-> ——来源：[近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-masters/sources/source-31/)
+> ——来源：[近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-masters/sources/source-42/)
 
 > 验证卡：现有资料中业绩表述以 SMT 整体为准，未单独拆解管理人贡献。但这并不影响伯恩斯在人物类型学里的位置：他代表的是成长投资者如何进入 AI 时代后，把单点叙事改写成价值链组合。
 
@@ -45,7 +45,7 @@ description: "沿着整条技术价值链去布局成长资产的人。"
 
 > “我们做得很重要的一点，就是不会把 AI 押成一笔单一赌注。”
 >
-> ——来源：[近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-masters/sources/source-31/)
+> ——来源：[近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-masters/sources/source-42/)
 
 **形成的结论**
 
@@ -59,25 +59,25 @@ description: "沿着整条技术价值链去布局成长资产的人。"
 
   > “在 AI 这个主题里，我们的布局是沿着整条价值链展开的。”
   >
-  > ——来源：[近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-masters/sources/source-31/)
+  > ——来源：[近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-masters/sources/source-42/)
 
 - `最爱把问题压回哪一层`: 他总把问题压回价值链位置，而不是只谈哪个赛道最热。
 
   > “我们做得很重要的一点，就是不会把 AI 押成一笔单一赌注。”
   >
-  > ——来源：[近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-masters/sources/source-31/)
+  > ——来源：[近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-masters/sources/source-42/)
 
 - `怎么处理不确定性`: 不是通过回避主题，而是通过把主题拆成多层结构来分散误判风险。
 
   > “在 AI 这个主题里，我们的布局是沿着整条价值链展开的。”
   >
-  > ——来源：[近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-masters/sources/source-31/)
+  > ——来源：[近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-masters/sources/source-42/)
 
 - `回答姿态`: 更像安静的结构讲解者，而不是主题鼓吹者。
 
   > “我们做得很重要的一点，就是不会把 AI 押成一笔单一赌注。”
   >
-  > ——来源：[近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-masters/sources/source-31/)
+  > ——来源：[近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-masters/sources/source-42/)
 
 **画像判断**
 
@@ -113,4 +113,4 @@ description: "沿着整条技术价值链去布局成长资产的人。"
 
 ## 主要来源
 
-- [近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-masters/sources/source-31/)
+- [近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-masters/sources/source-42/)

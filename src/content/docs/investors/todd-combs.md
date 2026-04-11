@@ -23,7 +23,7 @@ description: "把复杂商业问题压缩成可执行单元的人。"
 
 > “如今，我身兼两职，既是GEICO首席执行官，又掌管着伯克希尔庞大的资金池。”
 >
-> ——来源：[“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-masters/sources/source-09/)
+> ——来源：[“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-masters/sources/source-10/)
 
 > 验证卡：现有资料 没有给出托德独立的完整业绩表，更多呈现其伯克希尔体系中的位置和方法论。但这一点本身就很有价值，因为他代表的是“伯克希尔思维如何被下一代实践者继续执行”。
 
@@ -37,7 +37,7 @@ description: "把复杂商业问题压缩成可执行单元的人。"
 
 **关键影响**
 
-第一个关键影响来自保险行业和金融分析训练，这决定了他天然偏好可量化、可拆解、可反复验证的单位经济视角。第二个关键影响来自伯克希尔: 2010 年被巴菲特选中加入体系后，他不再只是管理一只基金，而是把保险经营、证券投资和企业资本配置看成同一件事。依据：[“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-masters/sources/source-09/)、[Todd Combs - Wikipedia](https://en.wikipedia.org/wiki/Todd_Combs)。
+第一个关键影响来自保险行业和金融分析训练，这决定了他天然偏好可量化、可拆解、可反复验证的单位经济视角。第二个关键影响来自伯克希尔: 2010 年被巴菲特选中加入体系后，他不再只是管理一只基金，而是把保险经营、证券投资和企业资本配置看成同一件事。依据：[“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-masters/sources/source-10/)、[Todd Combs - Wikipedia](https://en.wikipedia.org/wiki/Todd_Combs)。
 
 **重大事件与转折**
 
@@ -47,7 +47,7 @@ description: "把复杂商业问题压缩成可执行单元的人。"
 
 > “单店模型往往比整体财报更能揭示商业本质。”
 >
-> ——来源：[“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-masters/sources/source-09/)
+> ——来源：[“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-masters/sources/source-10/)
 
 **形成的结论**
 
@@ -61,13 +61,13 @@ description: "把复杂商业问题压缩成可执行单元的人。"
 
 > “如今，我身兼两职，既是GEICO首席执行官，又掌管着伯克希尔庞大的资金池。”
 >
-> ——来源：[“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-masters/sources/source-09/)
+> ——来源：[“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-masters/sources/source-10/)
 
 - `最爱把问题压回哪一层`: 他总把问题压回单位经济和经营现实，而不是停在宏观判断或市场语言。
 
 > “单店模型往往比整体财报更能揭示商业本质。”
 >
-> ——来源：[“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-masters/sources/source-09/)
+> ——来源：[“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-masters/sources/source-10/)
 
 - `怎么处理不确定性`: 不是先靠观点覆盖不确定性，而是先把判断拆小，缩回能直接验证的经营事实里。
 
@@ -109,7 +109,7 @@ description: "把复杂商业问题压缩成可执行单元的人。"
 
 ## 主要来源
 
-- [“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-masters/sources/source-09/)
+- [“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-masters/sources/source-10/)
 - [Todd Combs - Wikipedia](https://en.wikipedia.org/wiki/Todd_Combs)
 - [GEICO 官方公告](https://www.geico.com/about/pressreleases/2025/20251208/)
 - [Berkshire Hathaway](https://www.berkshirehathaway.com/)

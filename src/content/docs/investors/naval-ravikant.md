@@ -23,7 +23,7 @@ description: "把财富、判断力、知识与品味压缩成个人操作系统
 
 > “我当时对财富的定义是：那些能在你睡觉时依然为你赚钱的资产。”
 >
-> ——来源：[深度翻译  与纳瓦尔的长篇对话（1）财富的创造](/investor-masters/sources/source-26/)
+> ——来源：[深度翻译  与纳瓦尔的长篇对话（1）财富的创造](/investor-masters/sources/source-36/)
 
 > 验证卡：现有资料并没有提供纳瓦尔完整的收益率、代表性投资清单或职业阶段回报表，因此这一节暂时不能写成传统意义上的“业绩档案”。更清楚的信息是，他自己明确说，现在的赚钱能力比过去更强，而这份能力不只来自已积累的资本，也来自声誉、知识、搭团队的能力，以及知道什么值得做、什么人值得合作。
 
@@ -47,7 +47,7 @@ description: "把财富、判断力、知识与品味压缩成个人操作系统
 
 > “真正巨大的乘数因子是知识，不是资本。”
 >
-> ——来源：[深度翻译  与纳瓦尔的长篇对话（1）财富的创造](/investor-masters/sources/source-26/)
+> ——来源：[深度翻译  与纳瓦尔的长篇对话（1）财富的创造](/investor-masters/sources/source-36/)
 
 **形成的结论**
 
@@ -63,7 +63,7 @@ description: "把财富、判断力、知识与品味压缩成个人操作系统
   > 
   > “真正巨大的乘数因子是知识，不是资本。”
   >
-  > ——来源：[深度翻译  与纳瓦尔的长篇对话（1）财富的创造](/investor-masters/sources/source-26/)
+  > ——来源：[深度翻译  与纳瓦尔的长篇对话（1）财富的创造](/investor-masters/sources/source-36/)
 
 - `最爱把问题压回哪一层`: 他总把问题压回可复制的底层结构，而不是停留在表面的赚钱技巧。
 
@@ -71,25 +71,25 @@ description: "把财富、判断力、知识与品味压缩成个人操作系统
   > 
   > “到了某个阶段，你的判断力已经强到你根本解释不出来了。那时候，它就叫‘品味’。”
   >
-  > ——来源：[深度翻译  与纳瓦尔的长篇对话（2）培养判断力](/investor-masters/sources/source-27/)
+  > ——来源：[深度翻译  与纳瓦尔的长篇对话（2）培养判断力](/investor-masters/sources/source-37/)
 
 - `怎么处理不确定性`: 不是靠更细的财务预测，而是靠长期实践、跨领域输入和最后形成的品味压缩。
 
   > “好的产品也是同样的道理。比如说 iPhone，你很难在不破坏其伟大之处的前提下，去更改它的核心特征。”
   >
-  > ——来源：[深度翻译  与纳瓦尔的长篇对话（1）财富的创造](/investor-masters/sources/source-26/)
+  > ——来源：[深度翻译  与纳瓦尔的长篇对话（1）财富的创造](/investor-masters/sources/source-36/)
 
 - `怎么谈时间`: 他的时间单位天然是长期复利和人生尺度，而不是交易周期。
 
   > “我甚至会说，现代时代最伟大的产品，依然是 iPhone。”
   >
-  > ——来源：[深度翻译  与纳瓦尔的长篇对话（2）培养判断力](/investor-masters/sources/source-27/)
+  > ——来源：[深度翻译  与纳瓦尔的长篇对话（2）培养判断力](/investor-masters/sources/source-37/)
 
 - `回答姿态`: 更像一个在搭个人操作系统的人，而不是只给你投资建议的人。
 
   > “我当时对财富的定义是：那些能在你睡觉时依然为你赚钱的资产。”
   >
-  > ——来源：[深度翻译  与纳瓦尔的长篇对话（1）财富的创造](/investor-masters/sources/source-26/)
+  > ——来源：[深度翻译  与纳瓦尔的长篇对话（1）财富的创造](/investor-masters/sources/source-36/)
 
 **画像判断**
 
@@ -125,7 +125,7 @@ description: "把财富、判断力、知识与品味压缩成个人操作系统
 
 ## 主要来源
 
-- [深度翻译  与纳瓦尔的长篇对话（1）财富的创造](/investor-masters/sources/source-26/)
-- [深度翻译  与纳瓦尔的长篇对话（2）培养判断力](/investor-masters/sources/source-27/)
+- [深度翻译  与纳瓦尔的长篇对话（1）财富的创造](/investor-masters/sources/source-36/)
+- [深度翻译  与纳瓦尔的长篇对话（2）培养判断力](/investor-masters/sources/source-37/)
 - [Naval Ravikant - Wikipedia](https://en.wikipedia.org/wiki/Naval_Ravikant)
 - [AngelList 官方介绍](https://angel.co/company/angellist)

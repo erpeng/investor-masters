@@ -23,5 +23,5 @@ description: "第二层思维 在这批资料 里的最佳入口。"
 
 ## 主要来源
 
-- [最新对话！霍华德·马克斯vs最大主权基金掌门：如何判断决策的质量](/investor-masters/sources/source-23/)
-- [关于耐心与杠杆！霍华德与摩根的最新对话：历史不会重演，但人类的行为却总是重复](/investor-masters/sources/source-16/)
+- [最新对话！霍华德·马克斯vs最大主权基金掌门：如何判断决策的质量](/investor-masters/sources/source-30/)
+- [关于耐心与杠杆！霍华德与摩根的最新对话：历史不会重演，但人类的行为却总是重复](/investor-masters/sources/source-17/)

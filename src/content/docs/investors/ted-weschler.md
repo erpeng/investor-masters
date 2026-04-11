@@ -23,7 +23,7 @@ description: "低调但长期业绩极扎实的伯克希尔传承者。"
 
 > “我从 1979 年开始读巴菲特写的东西，读着读着就觉得: 哇，他说的话非常清晰，而且很有道理。”
 >
-> ——来源：[Ted Weschler-2022-Q&A-Podcast（NFM）](/investor-masters/sources/source-08/)
+> ——来源：[Ted Weschler-2022-Q&A-Podcast（NFM）](/investor-masters/sources/source-09/)
 
 > 验证卡：根据现有资料，在 2011 年加入伯克希尔之前，韦施勒管理的 Peninsula Capital Advisors 为投资人带来了 1236% 的回报，基金规模在关闭前约为 20 亿美元。这是目前语料里最重要的一条硬业绩记录，也足以解释为什么巴菲特会把他视为真正值得邀请进体系的人。
 
@@ -37,17 +37,17 @@ description: "低调但长期业绩极扎实的伯克希尔传承者。"
 
 **关键影响**
 
-第一个关键影响，是他从 1979 年起长期阅读巴菲特的文字，把“清晰、合理、所有者视角”内化为自己的句法。第二个关键影响，则是他在 Quad-C 与 Peninsula 的职业经历: 私募股权教他看资本配置和激励，公开市场基金则逼着他把这种判断兑现为长期回报。依据：[Ted Weschler-2022-Q&A-Podcast（NFM）](/investor-masters/sources/source-08/)、[Ted Weschler - Wikipedia](https://en.wikipedia.org/wiki/Ted_Weschler)。
+第一个关键影响，是他从 1979 年起长期阅读巴菲特的文字，把“清晰、合理、所有者视角”内化为自己的句法。第二个关键影响，则是他在 Quad-C 与 Peninsula 的职业经历: 私募股权教他看资本配置和激励，公开市场基金则逼着他把这种判断兑现为长期回报。依据：[Ted Weschler-2022-Q&A-Podcast（NFM）](/investor-masters/sources/source-09/)、[Ted Weschler - Wikipedia](https://en.wikipedia.org/wiki/Ted_Weschler)。
 
 **重大事件与转折**
 
-最大的转折，是 1999 年创立 Peninsula Capital Advisors，并把一只高度集中的公开市场基金长期做到 1236% 总回报。第二个转折，则是 2010 与 2011 连续两次匿名高价拍下巴菲特午餐，最终在 2012 年加入伯克希尔。第一步证明了他不是“伯克希尔体系包装出来的人”；第二步则说明他的能力、文化和节奏，已经被巴菲特视为可以放进体系延续的人。依据：[Ted Weschler-2022-Q&A-Podcast（NFM）](/investor-masters/sources/source-08/)、[Ted Weschler - Wikipedia](https://en.wikipedia.org/wiki/Ted_Weschler)、[Berkshire Hathaway](https://www.berkshirehathaway.com/)。
+最大的转折，是 1999 年创立 Peninsula Capital Advisors，并把一只高度集中的公开市场基金长期做到 1236% 总回报。第二个转折，则是 2010 与 2011 连续两次匿名高价拍下巴菲特午餐，最终在 2012 年加入伯克希尔。第一步证明了他不是“伯克希尔体系包装出来的人”；第二步则说明他的能力、文化和节奏，已经被巴菲特视为可以放进体系延续的人。依据：[Ted Weschler-2022-Q&A-Podcast（NFM）](/investor-masters/sources/source-09/)、[Ted Weschler - Wikipedia](https://en.wikipedia.org/wiki/Ted_Weschler)、[Berkshire Hathaway](https://www.berkshirehathaway.com/)。
 
 原文锚点：
 
 > “你在哪儿管钱都行，对我来说你在月球上也没问题。”
 >
-> ——来源：[Ted Weschler-2022-Q&A-Podcast（NFM）](/investor-masters/sources/source-08/)
+> ——来源：[Ted Weschler-2022-Q&A-Podcast（NFM）](/investor-masters/sources/source-09/)
 
 **形成的结论**
 
@@ -61,7 +61,7 @@ description: "低调但长期业绩极扎实的伯克希尔传承者。"
 
 > “我从 1979 年开始读巴菲特写的东西，读着读着就觉得: 哇，他说的话非常清晰，而且很有道理。”
 >
-> ——来源：[Ted Weschler-2022-Q&A-Podcast（NFM）](/investor-masters/sources/source-08/)
+> ——来源：[Ted Weschler-2022-Q&A-Podcast（NFM）](/investor-masters/sources/source-09/)
 
 - `最爱把问题压回哪一层`: 他最爱压回“这件事是否足够清楚、是否值得长期相信”，而不是先去追求戏剧性的 market call。
 
@@ -71,7 +71,7 @@ description: "低调但长期业绩极扎实的伯克希尔传承者。"
 
 > “你在哪儿管钱都行，对我来说你在月球上也没问题。”
 >
-> ——来源：[Ted Weschler-2022-Q&A-Podcast（NFM）](/investor-masters/sources/source-08/)
+> ——来源：[Ted Weschler-2022-Q&A-Podcast（NFM）](/investor-masters/sources/source-09/)
 
 - `回答姿态`: 更像极低噪音的长期合伙人，而不是自我解释型明星投资人。
 
@@ -109,6 +109,6 @@ description: "低调但长期业绩极扎实的伯克希尔传承者。"
 
 ## 主要来源
 
-- [Ted Weschler-2022-Q&A-Podcast（NFM）](/investor-masters/sources/source-08/)
+- [Ted Weschler-2022-Q&A-Podcast（NFM）](/investor-masters/sources/source-09/)
 - [Ted Weschler - Wikipedia](https://en.wikipedia.org/wiki/Ted_Weschler)
 - [Berkshire Hathaway](https://www.berkshirehathaway.com/)

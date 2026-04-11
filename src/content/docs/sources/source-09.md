@@ -1,19 +1,19 @@
 ---
-title: "“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则"
+title: "Ted Weschler-2022-Q&A-Podcast（NFM）"
 slug: "sources/source-09"
-description: "在普通股中寻找价值"
+description: "Greg Abel（实体业务-大方向资本配置）、Ajt Jain（保险业务）、Ted Weschler（证券投资）的三剑客组合已正式确立"
 ---
 
-**原文件名**: `“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则.md`  
-**外部来源**: https://mp.weixin.qq.com/s/Rltex4fozpUHwk-d29Trng
+**原文件名**: `Ted Weschler-2022-Q&A-Podcast（NFM）.md`  
+**外部来源**: https://mp.weixin.qq.com/s/kd-BqzgbpG8D21VCwFIRiQ
 
-**作者**: 原创 聪明投资者  
-**时间**: 2025年7月8日 15:01
+**作者**: 原创 臧文浩  
+**时间**: 2025年12月9日 12:29
 
 ## 摘要
 
-在普通股中寻找价值
+Greg Abel（实体业务-大方向资本配置）、Ajt Jain（保险业务）、Ted Weschler（证券投资）的三剑客组合已正式确立
 
 ## 节选
 
-担任首席执行官的经历让我更加深刻地体会到企业领导者所面临的关键挑战，那便是如何在短期需求与长期目标之间找到平衡点。
+BRK昨日官宣人事调整，引人注目的是Todd Combs（2011-2025）离开加入JPMorgan，原因众说纷纭。但结果是清晰明朗的：

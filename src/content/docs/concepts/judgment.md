@@ -26,5 +26,5 @@ description: "判断力 在这批资料 里的最佳入口。"
 
 ## 主要来源
 
-- [深度翻译  与纳瓦尔的长篇对话（1）财富的创造](/investor-masters/sources/source-26/)
-- [深度翻译  与纳瓦尔的长篇对话（2）培养判断力](/investor-masters/sources/source-27/)
+- [深度翻译  与纳瓦尔的长篇对话（1）财富的创造](/investor-masters/sources/source-36/)
+- [深度翻译  与纳瓦尔的长篇对话（2）培养判断力](/investor-masters/sources/source-37/)
