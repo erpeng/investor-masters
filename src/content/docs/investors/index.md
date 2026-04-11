@@ -17,7 +17,7 @@ description: "从人物、约束和边界切入理解不同投资方法。"
 ## 比较视图
 
 - [投资人比较矩阵](/investor-masters/investors/comparison-matrix/)
-- [投资十问](/investor-masters/ten-questions/index/)
+- [投资十问](/investor-masters/ten-questions/)
 
 ## 全部投资人
 

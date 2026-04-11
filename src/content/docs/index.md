@@ -8,7 +8,7 @@ description: "把分散的投资访谈、合伙人信和机构材料，编译成
 
 它也不是静态成品，而是一份会持续更新的工作档案。随着新的访谈、材料和持仓变化进入，这里会继续补充新人物、新公司、新概念，也会尽量捕捉同一位投资人在不同时期的方法变化。
 
-如果你想快速知道“我为什么要读这个人”，从人物页开始；如果你想知道“为什么同一家公司会被不同方法反复提到”，去公司页；如果你想理解“为什么有的人能长期持有，有的人根本做不到”，读机构页。如果你已经带着一个明确问题来，比如“优势从哪里来”“什么坚决不碰”“怎样判断管理层”，就直接从 [投资十问](/investor-masters/ten-questions/index/) 开始。最近更值得直接利用的入口，是那些已经被拉到台面上的关键分歧：`减少动作 vs 重写描述`、`方向正确 vs 路径正确`、`静态质量 vs 动态维护`、`平台赢家 vs 瓶颈赢家`。从这些地方切进去，会比先平铺地看“谁说过什么”更快。
+如果你想快速知道“我为什么要读这个人”，从人物页开始；如果你想知道“为什么同一家公司会被不同方法反复提到”，去公司页；如果你想理解“为什么有的人能长期持有，有的人根本做不到”，读机构页。如果你已经带着一个明确问题来，比如“优势从哪里来”“什么坚决不碰”“怎样判断管理层”，就直接从 [投资十问](/investor-masters/ten-questions/) 开始。最近更值得直接利用的入口，是那些已经被拉到台面上的关键分歧：`减少动作 vs 重写描述`、`方向正确 vs 路径正确`、`静态质量 vs 动态维护`、`平台赢家 vs 瓶颈赢家`。从这些地方切进去，会比先平铺地看“谁说过什么”更快。
 
 ## 从哪里开始
 
@@ -19,7 +19,7 @@ description: "把分散的投资访谈、合伙人信和机构材料，编译成
 - **我想直接从方法分歧读进去**: [不懂不碰 vs 未来信息才重要](/investor-masters/dialogues/certainty-vs-future/)、[方向判断正确 vs 交易结构正确](/investor-masters/dialogues/direction-right-vs-structure-right/)、[质量价值 vs 成长非共识](/investor-masters/dialogues/quality-vs-growth/)、[保守的风险语言 vs 激进的仓位语言](/investor-masters/dialogues/risk-and-conviction/)
 - **我想沿 Berkshire 这一支往下读**: [Berkshire Hathaway](/investor-masters/institutions/berkshire-hathaway/) → [伯克希尔·哈撒韦](/investor-masters/companies/berkshire-hathaway/) / [GEICO](/investor-masters/companies/geico/) → [护城河](/investor-masters/concepts/moat/) / [能力圈](/investor-masters/concepts/circle-of-competence/) / [反脆弱与仓位管理](/investor-masters/concepts/antifragility-and-position-sizing/) → [静态能力圈 vs 可审计能力圈](/investor-masters/dialogues/static-vs-auditable-circle/) / [交易型反脆弱 vs 资本结构型反脆弱](/investor-masters/dialogues/trading-vs-capital-structure-antifragility/)
 - **我想直接从最近提纯过的公司样本读**: [Alphabet](/investor-masters/companies/alphabet/)、[Universal Music Group](/investor-masters/companies/universal-music-group/)、[亚马逊](/investor-masters/companies/amazon/)、[可口可乐](/investor-masters/companies/coca-cola/)、[Herbalife](/investor-masters/companies/herbalife/)、[Valeant](/investor-masters/companies/valeant/)
-- **我带着一个具体问题来**: [投资十问](/investor-masters/ten-questions/index/)
+- **我带着一个具体问题来**: [投资十问](/investor-masters/ten-questions/)
 
 ## 精选语录墙
 

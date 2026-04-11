@@ -1,6 +1,6 @@
 ---
 title: "投资十问"
-slug: "ten-questions/index"
+slug: "ten-questions"
 description: "把同一个问题横向放到不同投资人身上读。"
 ---
 # 投资十问

@@ -572,12 +572,12 @@ def build_link_maps():
         slug = DIALOGUE_SLUG_OVERRIDES.get(src.stem, src.stem)
         page_map[f"dialogues/{src.stem}"] = f"dialogues/{slug}"
         type_map[f"dialogues/{src.stem}"] = src.stem
-    page_map["investors/index"] = "investors/index"
-    page_map["companies/index"] = "companies/index"
-    page_map["institutions/index"] = "institutions/index"
-    page_map["concepts/index"] = "concepts/index"
-    page_map["ten-questions/index"] = "ten-questions/index"
-    page_map["log"] = "index"
+    page_map["investors/index"] = "investors"
+    page_map["companies/index"] = "companies"
+    page_map["institutions/index"] = "institutions"
+    page_map["concepts/index"] = "concepts"
+    page_map["ten-questions/index"] = "ten-questions"
+    page_map["log"] = ""
     return page_map, type_map
 
 
@@ -695,7 +695,12 @@ def write(path: Path, content: str):
 
 
 def doc_url(path: str) -> str:
-    return f"{SITE_BASE}/{path.strip('/')}/"
+    normalized = path.strip("/")
+    if normalized == "index":
+        normalized = ""
+    elif normalized.endswith("/index"):
+        normalized = normalized[:-len("/index")]
+    return f"{SITE_BASE}/{normalized}/" if normalized else f"{SITE_BASE}/"
 
 
 def render_frontmatter(title: str, slug: str, description: str) -> str:
@@ -893,7 +898,7 @@ def compile_ten_questions():
     index_out = DOCS_DIR / "ten-questions" / "index.md"
     write(
         index_out,
-        render_frontmatter("投资十问", "ten-questions/index", "把同一个问题横向放到不同投资人身上读。")
+        render_frontmatter("投资十问", "ten-questions", "把同一个问题横向放到不同投资人身上读。")
         + convert_wikilinks(body, index_out),
     )
 
