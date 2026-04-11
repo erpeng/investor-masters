@@ -41,6 +41,7 @@ description: "从人物、约束和边界切入理解不同投资方法。"
 - [格雷格·阿贝尔](/investor-masters/investors/greg-abel/)
 - [凯茜·伍德](/investor-masters/investors/cathie-wood/)
 - [尼科莱·坦根](/investor-masters/investors/nicolai-tangen/)
+- [李录](/investor-masters/investors/li-lu/)
 - [肯·格里芬](/investor-masters/investors/ken-griffin/)
 - [特蕾西·布里特·库尔](/investor-masters/investors/tracy-britt-cool/)
 - [纳瓦尔·拉维坎特](/investor-masters/investors/naval-ravikant/)

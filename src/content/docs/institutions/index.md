@@ -21,3 +21,4 @@ description: "激励结构决定投资人能做什么，而不只是想做什么
 - [Oaktree Capital](/investor-masters/institutions/oaktree-capital/)
 - [Pershing Square](/investor-masters/institutions/pershing-square/)
 - [Fundsmith](/investor-masters/institutions/fundsmith/)
+- [Himalaya Capital](/investor-masters/institutions/himalaya-capital/)

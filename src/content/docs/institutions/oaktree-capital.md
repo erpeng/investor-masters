@@ -34,6 +34,80 @@ Oaktree 的机构哲学在现有资料里有极高一致性。霍华德在与坦
 - `Oaktree memos`：如《钟摆》《波动+杠杆=炸药》《知识的幻觉》《测量温度》等，都是机构思想的直接载体。
 - [Oaktree About](https://www.oaktreecapital.com/about)：官方层面对规模、资产类别与机构定位的介绍。
 
+## 13F 持仓（近四个季度）
+
+### 怎么看这组披露
+
+13F 只覆盖美国公开股票多头及部分期权披露，且有季度滞后，不代表机构完整组合。
+对 Oaktree 来说，13F 只展示美国公开股票和部分期权头寸；它看不到真正更核心的信贷、困境和私募资产，所以这里只能当行为切片读。
+
+### 近四个已披露季度前 10 大持仓
+
+#### Q4 2025
+
+- `CHK` Expand Energy：美国天然气与页岩资产运营商。 `13F 占比 7.9%`
+- `TRMD-A.CO` TORM：成品油轮航运公司。 `13F 占比 7.5%`
+- `AU` AngloGold Ashanti：黄金矿业与资源资产平台。 `13F 占比 4.7%`
+- `SMH` VanEck Semiconductor ETF（PUT）：覆盖半导体龙头的行业 ETF。 `13F 占比 4.4%`
+- `GTX` Garrett Motion：汽车涡轮与运动控制零部件供应商。 `13F 占比 4.2%`
+- `SPY` SPDR S&P 500 ETF Trust（PUT）：跟踪标普 500 指数的大型 ETF。 `13F 占比 3.7%`
+- `INDV.L` Indivior：成瘾治疗药物公司。 `13F 占比 3.6%`
+- `VNOM` Viper Energy：油气矿权与特许权收益平台。 `13F 占比 3.5%`
+- `TDS` Telephone and Data Systems：美国电信与通信服务运营商。 `13F 占比 2.2%`
+- `B` Barrick Mining：黄金与铜矿资源平台。 `13F 占比 1.8%`
+
+#### Q3 2025
+
+- `TRMD-A.CO` TORM：成品油轮航运公司。 `13F 占比 12.9%`
+- `CHK` Expand Energy：美国天然气与页岩资产运营商。 `13F 占比 8.3%`
+- `GTX` Garrett Motion：汽车涡轮与运动控制零部件供应商。 `13F 占比 6.7%`
+- `AU` AngloGold Ashanti：黄金矿业与资源资产平台。 `13F 占比 4.5%`
+- `VNOM` Viper Energy：油气矿权与特许权收益平台。 `13F 占比 3.7%`
+- `SPY` SPDR S&P 500 ETF Trust（PUT）：跟踪标普 500 指数的大型 ETF。 `13F 占比 3.4%`
+- `TDS` Telephone and Data Systems：美国电信与通信服务运营商。 `13F 占比 2.2%`
+- `ORCL` Oracle（PUT）：数据库、企业软件与云服务平台。 `13F 占比 2.2%`
+- `TLNE` Talen Energy：电力与发电资产运营商。 `13F 占比 1.9%`
+- `STKL` SunOpta：植物基原料与健康食品供应商。 `13F 占比 1.9%`
+
+#### Q2 2025
+
+- `TRMD-A.CO` TORM：成品油轮航运公司。 `13F 占比 11.7%`
+- `SPY` SPDR S&P 500 ETF Trust（PUT）：跟踪标普 500 指数的大型 ETF。 `13F 占比 10.8%`
+- `CHK` Expand Energy：美国天然气与页岩资产运营商。 `13F 占比 10.2%`
+- `GTX` Garrett Motion：汽车涡轮与运动控制零部件供应商。 `13F 占比 6.7%`
+- `STR` Sitio Royalties：油气特许权与资源分成平台。 `13F 占比 4.1%`
+- `AU` AngloGold Ashanti：黄金矿业与资源资产平台。 `13F 占比 3.9%`
+- `INDV.L` Indivior：成瘾治疗药物公司。 `13F 占比 2.8%`
+- `STKL` SunOpta：植物基原料与健康食品供应商。 `13F 占比 2.1%`
+- `RWAY` Runway Growth Finance：成长型企业放贷与 BDC 平台。 `13F 占比 1.8%`
+- `151290889` Cemex：水泥、建材与基础设施材料集团。 `13F 占比 1.8%`
+
+#### Q1 2025
+
+- `TRMD-A.CO` TORM：成品油轮航运公司。 `13F 占比 12.8%`
+- `CHK` Expand Energy：美国天然气与页岩资产运营商。 `13F 占比 12.0%`
+- `GTX` Garrett Motion：汽车涡轮与运动控制零部件供应商。 `13F 占比 7.1%`
+- `STR` Sitio Royalties：油气特许权与资源分成平台。 `13F 占比 5.0%`
+- `AU` AngloGold Ashanti：黄金矿业与资源资产平台。 `13F 占比 3.9%`
+- `SPY` SPDR S&P 500 ETF Trust（PUT）：跟踪标普 500 指数的大型 ETF。 `13F 占比 3.7%`
+- `RWAY` Runway Growth Finance：成长型企业放贷与 BDC 平台。 `13F 占比 2.2%`
+- `151290889` Cemex：水泥、建材与基础设施材料集团。 `13F 占比 2.1%`
+- `INDV.L` Indivior：成瘾治疗药物公司。 `13F 占比 2.0%`
+- `VIST` Vista Energy：拉美油气勘探与生产公司。 `13F 占比 2.0%`
+
+### 变化摘要（Q4 2025 vs Q3 2025）
+
+- 新进前 10：SMH VanEck Semiconductor ETF（PUT）、INDV.L Indivior、B Barrick Mining
+- 退出前 10：ORCL Oracle（PUT）、TLNE Talen Energy、STKL SunOpta
+- 显著加仓：无明显加仓
+- 显著减仓：TRMD-A.CO TORM（-5.4 pct）、GTX Garrett Motion（-2.5 pct）
+- 过去一年最稳定的核心：CHK Expand Energy、TRMD-A.CO TORM、AU AngloGold Ashanti、GTX Garrett Motion、SPY SPDR S&P 500 ETF Trust（PUT）
+
+### 数据来源
+
+- [13f.info manager page](https://13f.info/manager/0000949509-oaktree-capital-management-lp)：用于读取近四个已披露季度的结构化 13F 持仓表。
+- [SEC EDGAR 13F filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=949509&type=13F-HR&owner=exclude&count=40)：原始 filing 查询入口。
+
 ## 机构传承
 
 这批资料 还不足以完整写出 Oaktree 的管理层代际更替细节，但已有一个很清楚的事实: Oaktree 的可传承性很大程度上依赖于“备忘录化的哲学”。也就是说，它比很多靠创始人直觉运转的机构更容易把方法写下来、传下去。

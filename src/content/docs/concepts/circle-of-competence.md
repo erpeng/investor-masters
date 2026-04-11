@@ -23,14 +23,18 @@ description: "能力圈 在这批资料 里的最佳入口。"
 
 [泰德·韦施勒](/investor-masters/investors/ted-weschler/) 则说明，能力圈也不等于只看自己最熟的老材料。他会故意去读别人懒得读的行业刊物和随机信息，但最后真正出手仍然要满足两个条件：这些“点”能不能被连成一个非共识判断，以及这个判断能不能落到 Berkshire 体量下仍有意义的机会。也就是说，能力圈不是输入越少越安全，而是 `可以广泛吸收，但只能在真正能综合、能承受、能重仓的地方出手。`
 
+[李录](/investor-masters/investors/li-lu/) 则把这件事说得更硬一点。对他来说，能力圈首先不是“这个行业我看过很多年”，而是你是否真的诚实地区分了 `知道什么 / 不知道什么`，以及一旦决定投资，是否愿意把自己变成那家公司的专才。他的版本因此既不是段永平式纯边界纪律，也不是 Todd/Ted 式完全工程化研究链，而是 `广泛商业好奇心 + 公司层专才 + 对知识边界的持续诚实`。这让能力圈在他这里带有很强的 owner 味道：你不是在挑一张票，而是在决定自己是否真的配得上长期拥有这门生意。
+
 ## 相关概念
 
 - [护城河](/investor-masters/concepts/moat/)
 - [克隆策略](/investor-masters/concepts/cloning/)
 - [判断力](/investor-masters/concepts/judgment/)
 - [不懂不碰 vs 未来信息才重要](/investor-masters/dialogues/certainty-vs-future/)
+- [静态能力圈 vs 可审计能力圈](/investor-masters/dialogues/static-vs-auditable-circle/)
 - [方向判断正确 vs 交易结构正确](/investor-masters/dialogues/direction-right-vs-structure-right/)
 - [Berkshire Hathaway](/investor-masters/institutions/berkshire-hathaway/)
+- [Himalaya Capital](/investor-masters/institutions/himalaya-capital/)
 
 ## 主要来源
 
@@ -40,3 +44,4 @@ description: "能力圈 在这批资料 里的最佳入口。"
 - [3.2万字｜潘兴广场比尔·阿克曼最有价值的一场对话，深谈价值投资、核心战役以及如何从人生谷底“爬坑”……](/investor-masters/sources/source-06/)
 - [“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-masters/sources/source-10/)
 - [Ted Weschler-2022-Q&A-Podcast（NFM）](/investor-masters/sources/source-09/)
+- [2021年李录与格林沃尔德深度对话：我们想投资的是那些可以在巨大不确定性中泰然处之的公司……](/investor-masters/sources/source-04/)

@@ -161,6 +161,13 @@ INVESTOR_META = {
         "holdings": "AKO、主权基金配置",
         "methods": "提问 / 情报学 / 组织训练",
     },
+    "李录": {
+        "slug": "li-lu",
+        "tagline": "把知识诚实、公司专才和长期所有者逻辑绑在一起的人。",
+        "institution": ("Himalaya Capital", "institutions/himalaya-capital"),
+        "holdings": "比亚迪、长期所有权",
+        "methods": "知识诚实 / 专才研究 / 长持 / 制度红利",
+    },
     "肯·格里芬": {
         "slug": "ken-griffin",
         "tagline": "把财政纪律、政策副作用和 market plumbing 放在一起看的人。",
@@ -203,6 +210,7 @@ INVESTOR_INFO_SOURCES = {
     "凯斯·扎卡里亚": "扎卡里亚的信息来源与斯利普高度耦合，但更偏研究补位。现有资料明确提到，他对亚太市场和跨区域机会的理解是 Nomad 研究系统的重要组成部分。这意味着他更像是把局部市场经验、深度研究和组合执行连接起来的人。",
     "格雷格·詹森": "詹森的信息来源更接近一台组织化研究机器。他不仅看宏观和市场数据，也非常在意新研究怎样被系统吸收、怎样在尚未完全模型化时先进入组合测试。对他来说，来源价值不只在信息本身，还在组织能否快速把新认知转成决策。",
     "尼科莱·坦根": "坦根的信息来源非常像高质量传感器系统。他高度重视访谈、提问方式、语言细节和人在压力下暴露出来的真实特征，同时也会训练团队像顶级运动员一样提升研究与复盘能力。换句话说，他获取信息不只靠数据，还靠从人与对话里捕捉真实信号。",
+    "李录": "李录的信息来源分成两层：底层是公司原始材料、长期经营事实和把自己变成公司专才的研究过程；上层则是制度、资本市场和文明尺度的长期判断。对他来说，来源不是越多越好，而是能否帮助自己诚实地区分“知道什么、不知道什么”，并在少数 fat pitch 上真正建立长期所有者级别的理解。",
     "特蕾西·布里特·库尔": "特蕾西的信息来源更偏一线经营现场。现有资料里，她的方法明显依赖对创始人、组织文化、资本配置方式和管理行为的近距离观察，而不是纯粹靠财务筛选。她的信息优势更像长期陪伴式理解，而不是二级市场上的标准化研究。",
     "纳瓦尔·拉维坎特": "纳瓦尔的信息来源有很强的混合特征：一端是 AI、机器人、自动驾驶这类前沿技术与现代知识，另一端是哲学、宗教、古典文本这类长期稳定的人性材料；中间再由他自己的实践经验、识人直觉和反思把它们缝起来。对他来说，真正的边际优势不是某个独家渠道，而是能否把变化中的知识和不变的人性压缩成可行动的判断。",
 }
@@ -218,6 +226,7 @@ COMPANY_META = {
     "腾讯": {"slug": "tencent", "consensus": "腾讯是中国互联网质量资产的代表样本，也是中文语境里长期主义投资最容易落地的案例之一。"},
     "小红书": {"slug": "xiaohongshu", "consensus": "它的意义主要在于让读者看到 Baillie Gifford 如何把全球成长框架继续延伸到中国新平台。"},
     "MiniMax": {"slug": "minimax", "consensus": "它不是成熟公司样本，而是新一代 AI 资产如何进入成长机构视野的一个窗口。"},
+    "比亚迪": {"slug": "byd", "consensus": "比亚迪在这里不是普通新能源公司介绍，而是李录方法最完整的一次长持样本：工程师文化、第一性思维、受托人精神，以及当市场把价格和真实能力拉开时，长期资本如何反人性地加仓。"},
 }
 
 INSTITUTION_META = {
@@ -230,6 +239,7 @@ INSTITUTION_META = {
     "Oaktree Capital": {"slug": "oaktree-capital"},
     "Pershing Square": {"slug": "pershing-square"},
     "Fundsmith": {"slug": "fundsmith"},
+    "Himalaya Capital": {"slug": "himalaya-capital"},
 }
 
 CONCEPT_META = {
@@ -255,6 +265,7 @@ COMPANY_SLUG_OVERRIDES = {
     "腾讯": "tencent",
     "小红书": "xiaohongshu",
     "MiniMax": "minimax",
+    "比亚迪": "byd",
     "微软": "microsoft",
     "可口可乐": "coca-cola",
     "美团": "meituan",
@@ -292,6 +303,7 @@ DIALOGUE_SLUG_OVERRIDES = {
     "交易型反脆弱 vs 资本结构型反脆弱": "trading-vs-capital-structure-antifragility",
     "可验证现金流 vs 站在变化的一边": "verifiable-cashflow-vs-stand-with-change",
     "周期位置 vs 制度裂缝": "cycle-position-vs-structural-fracture",
+    "制度裂缝 vs 制度红利": "structural-fracture-vs-reform-dividend",
     "平台收敛赢家 vs 价值链瓶颈赢家": "platform-winners-vs-bottleneck-winners",
 }
 

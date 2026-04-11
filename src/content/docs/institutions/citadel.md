@@ -32,6 +32,80 @@ Citadel 在这套资料里最重要的身份，不是“Ken Griffin 的大基金
 - [日本“特拉斯时刻”算轻量版！城堡投资格里芬最新交流，犀利点评美国债务、移民、美联储、AI等热门话题](/investor-masters/sources/source-28/)：当前这套 wiki 里理解 Citadel 的关键入口，能看清这家机构为什么会天然更在意财政现实、监管摩擦和市场 plumbing。
 - [肯·格里芬](/investor-masters/investors/ken-griffin/)：如果想先从人物层理解 Citadel，这一页是最好的入口。
 
+## 13F 持仓（近四个季度）
+
+### 怎么看这组披露
+
+13F 只覆盖美国公开股票多头及部分期权披露，且有季度滞后，不代表机构完整组合。
+对 Citadel 这类多策略平台，13F 的解释力最弱，因为公开表里会同时出现 ETF、股票与期权覆盖；它更适合作为公开账面轨迹，而不是完整风险暴露。
+
+### 近四个已披露季度前 10 大持仓
+
+#### Q4 2025
+
+- `QQQ` Invesco QQQ Trust（PUT）：跟踪纳斯达克 100 指数的大型 ETF。 `13F 占比 3.3%`
+- `SPY` SPDR S&P 500 ETF Trust（PUT）：跟踪标普 500 指数的大型 ETF。 `13F 占比 3.0%`
+- `TSLA` Tesla（CALL）：电动车、储能与自动驾驶平台。 `13F 占比 3.0%`
+- `SPY` SPDR S&P 500 ETF Trust（CALL）：跟踪标普 500 指数的大型 ETF。 `13F 占比 2.7%`
+- `NVDA` Nvidia（CALL）：AI 芯片与算力平台核心承接者。 `13F 占比 2.2%`
+- `TSLA` Tesla（PUT）：电动车、储能与自动驾驶平台。 `13F 占比 2.2%`
+- `QQQ` Invesco QQQ Trust（CALL）：跟踪纳斯达克 100 指数的大型 ETF。 `13F 占比 2.1%`
+- `NVDA` Nvidia（PUT）：AI 芯片与算力平台核心承接者。 `13F 占比 1.5%`
+- `META` Meta Platforms（CALL）：社交广告与 AI 分发平台。 `13F 占比 1.5%`
+- `AAPL` Apple Inc.（CALL）：iPhone、服务与硬件生态平台。 `13F 占比 1.3%`
+
+#### Q3 2025
+
+- `SPY` SPDR S&P 500 ETF Trust（PUT）：跟踪标普 500 指数的大型 ETF。 `13F 占比 4.2%`
+- `QQQ` Invesco QQQ Trust（PUT）：跟踪纳斯达克 100 指数的大型 ETF。 `13F 占比 4.0%`
+- `SPY` SPDR S&P 500 ETF Trust（CALL）：跟踪标普 500 指数的大型 ETF。 `13F 占比 2.8%`
+- `TSLA` Tesla（CALL）：电动车、储能与自动驾驶平台。 `13F 占比 2.5%`
+- `QQQ` Invesco QQQ Trust（CALL）：跟踪纳斯达克 100 指数的大型 ETF。 `13F 占比 2.5%`
+- `TSLA` Tesla（PUT）：电动车、储能与自动驾驶平台。 `13F 占比 2.3%`
+- `NVDA` Nvidia（CALL）：AI 芯片与算力平台核心承接者。 `13F 占比 2.2%`
+- `NVDA` Nvidia（PUT）：AI 芯片与算力平台核心承接者。 `13F 占比 1.9%`
+- `META` Meta Platforms（CALL）：社交广告与 AI 分发平台。 `13F 占比 1.3%`
+- `AAPL` Apple Inc.（CALL）：iPhone、服务与硬件生态平台。 `13F 占比 1.3%`
+
+#### Q2 2025
+
+- `SPY` SPDR S&P 500 ETF Trust（PUT）：跟踪标普 500 指数的大型 ETF。 `13F 占比 5.8%`
+- `SPY` SPDR S&P 500 ETF Trust（CALL）：跟踪标普 500 指数的大型 ETF。 `13F 占比 4.2%`
+- `QQQ` Invesco QQQ Trust（PUT）：跟踪纳斯达克 100 指数的大型 ETF。 `13F 占比 3.5%`
+- `QQQ` Invesco QQQ Trust（CALL）：跟踪纳斯达克 100 指数的大型 ETF。 `13F 占比 3.0%`
+- `NVDA` Nvidia（CALL）：AI 芯片与算力平台核心承接者。 `13F 占比 2.2%`
+- `NVDA` Nvidia（PUT）：AI 芯片与算力平台核心承接者。 `13F 占比 1.9%`
+- `TSLA` Tesla（CALL）：电动车、储能与自动驾驶平台。 `13F 占比 1.9%`
+- `TSLA` Tesla（PUT）：电动车、储能与自动驾驶平台。 `13F 占比 1.8%`
+- `META` Meta Platforms（CALL）：社交广告与 AI 分发平台。 `13F 占比 1.5%`
+- `IWM` iShares Russell 2000 ETF（PUT）：跟踪罗素 2000 指数的小盘股 ETF。 `13F 占比 1.2%`
+
+#### Q1 2025
+
+- `SPY` SPDR S&P 500 ETF Trust（PUT）：跟踪标普 500 指数的大型 ETF。 `13F 占比 8.2%`
+- `SPY` SPDR S&P 500 ETF Trust（CALL）：跟踪标普 500 指数的大型 ETF。 `13F 占比 6.2%`
+- `QQQ` Invesco QQQ Trust（CALL）：跟踪纳斯达克 100 指数的大型 ETF。 `13F 占比 3.8%`
+- `QQQ` Invesco QQQ Trust（PUT）：跟踪纳斯达克 100 指数的大型 ETF。 `13F 占比 3.2%`
+- `TSLA` Tesla（PUT）：电动车、储能与自动驾驶平台。 `13F 占比 2.1%`
+- `TSLA` Tesla（CALL）：电动车、储能与自动驾驶平台。 `13F 占比 1.8%`
+- `NVDA` Nvidia（CALL）：AI 芯片与算力平台核心承接者。 `13F 占比 1.8%`
+- `NVDA` Nvidia（PUT）：AI 芯片与算力平台核心承接者。 `13F 占比 1.6%`
+- `META` Meta Platforms（CALL）：社交广告与 AI 分发平台。 `13F 占比 1.5%`
+- `IWM` iShares Russell 2000 ETF（PUT）：跟踪罗素 2000 指数的小盘股 ETF。 `13F 占比 1.4%`
+
+### 变化摘要（Q4 2025 vs Q3 2025）
+
+- 新进前 10：无
+- 退出前 10：无
+- 显著加仓：TSLA Tesla（CALL）（+0.5 pct）
+- 显著减仓：SPY SPDR S&P 500 ETF Trust（PUT）（-1.2 pct）、QQQ Invesco QQQ Trust（PUT）（-0.7 pct）
+- 过去一年最稳定的核心：QQQ Invesco QQQ Trust（PUT）、SPY SPDR S&P 500 ETF Trust（PUT）、TSLA Tesla（CALL）、SPY SPDR S&P 500 ETF Trust（CALL）、NVDA Nvidia（CALL）、TSLA Tesla（PUT）、QQQ Invesco QQQ Trust（CALL）、NVDA Nvidia（PUT）、META Meta Platforms（CALL）
+
+### 数据来源
+
+- [13f.info manager page](https://13f.info/manager/0001423053-citadel-advisors-llc)：用于读取近四个已披露季度的结构化 13F 持仓表。
+- [SEC EDGAR 13F filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1423053&type=13F-HR&owner=exclude&count=40)：原始 filing 查询入口。
+
 ## 机构传承
 
 这批资料 还不足以严谨写出 Citadel 的传承结构、各策略线分工或内部交易流程，所以这一节必须收住。但现有材料已经足够提出一个硬问题: 当 Ken 这类极强的制度直觉不在场时，这家机构的 edge 还能不能继续被组织化复制？

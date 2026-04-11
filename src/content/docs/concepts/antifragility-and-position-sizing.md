@@ -29,6 +29,8 @@ description: "反脆弱与仓位管理 在这批资料 里的最佳入口。"
 
 [肯·格里芬](/investor-masters/investors/ken-griffin/) 和 [Citadel](/investor-masters/institutions/citadel/) 则补了另一种经常被忽略的反脆弱: `制度与 plumbing 层的反脆弱`。在他那里，真正会先把你打死的，不一定是价格本身，而可能是财政纪律恶化、持有人结构变脆、政策主线反复横跳、监管突然加码，或者市场把制度性松动误读成平静。也就是说，反脆弱不只是“杠杆别太高”，还包括你有没有在制度和流动性接口已经开始坏掉时，继续把自己暴露在会被迫犯错的位置上。
 
+[李录](/investor-masters/investors/li-lu/) 则给了这个概念一个很少见的 owner 版本。对他来说，真正看懂一家公司时，价格大跌并不自动意味着风险变大，反而可能是对理解深度的一次测试：如果企业真实能力没坏、市场只是放大了认知偏差，那么 `下跌 50%-60% 时更大规模增持` 才是反脆弱的动作。也因此，李录把反脆弱从“别被打死”推进到了“当别人被价格吓退时，你是否有资格利用波动”。这比纯仓位技术更难，因为它要求前面的理解深度和管理层判断都已经成立。
+
 ## 相关概念
 
 - [第二层思维](/investor-masters/concepts/second-level-thinking/)
@@ -36,9 +38,11 @@ description: "反脆弱与仓位管理 在这批资料 里的最佳入口。"
 - [保守的风险语言 vs 激进的仓位语言](/investor-masters/dialogues/risk-and-conviction/)
 - [周期位置 vs 制度裂缝](/investor-masters/dialogues/cycle-position-vs-structural-fracture/)
 - [方向判断正确 vs 交易结构正确](/investor-masters/dialogues/direction-right-vs-structure-right/)
+- [比亚迪](/investor-masters/companies/byd/)
 - [Bridgewater Associates](/investor-masters/institutions/bridgewater-associates/)
 - [Berkshire Hathaway](/investor-masters/institutions/berkshire-hathaway/)
 - [Citadel](/investor-masters/institutions/citadel/)
+- [Himalaya Capital](/investor-masters/institutions/himalaya-capital/)
 - [GEICO](/investor-masters/companies/geico/)
 
 ## 主要来源
@@ -51,3 +55,4 @@ description: "反脆弱与仓位管理 在这批资料 里的最佳入口。"
 - [“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-masters/sources/source-10/)
 - [2.7万字｜ “巴菲特女弟子”深度对话：真正懂资本配置的CEO，往往做决策更理性，也更能创造长期价值](/investor-masters/sources/source-02/)
 - [日本“特拉斯时刻”算轻量版！城堡投资格里芬最新交流，犀利点评美国债务、移民、美联储、AI等热门话题](/investor-masters/sources/source-28/)
+- [李录亲述：为什么能拿住比亚迪23年？](/investor-masters/sources/source-32/)

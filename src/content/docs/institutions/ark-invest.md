@@ -32,6 +32,80 @@ ARK 的机构哲学可以压成一句话：`先判断哪些技术平台正在同
 - [要站在变化的一边！70岁“木头姐”兴奋盘点2026大机会：现在就是黄金时间](/investor-masters/sources/source-40/)：当前这套 wiki 里理解 ARK 最关键的一手材料，足以看清它为何更像公开市场风险投资平台，而不是传统成长基金。
 - [凯茜·伍德](/investor-masters/investors/cathie-wood/)：如果想先从人物层理解 ARK，这一页是最好的入口。
 
+## 13F 持仓（近四个季度）
+
+### 怎么看这组披露
+
+13F 只覆盖美国公开股票多头及部分期权披露，且有季度滞后，不代表机构完整组合。
+ARK 的 13F 更像公开市场风投组合的季度快照，能看平台押注落在哪些上市承接层，但看不到其研究系统的全部深度。
+
+### 近四个已披露季度前 10 大持仓
+
+#### Q4 2025
+
+- `TSLA` Tesla：电动车、储能与自动驾驶平台。 `13F 占比 8.7%`
+- `SHOP` Shopify：商家电商基础设施与支付平台。 `13F 占比 4.3%`
+- `ROKU` Roku：智能电视操作系统与流媒体广告平台。 `13F 占比 4.2%`
+- `COIN` Coinbase：加密交易、托管与基础设施平台。 `13F 占比 3.8%`
+- `PLTR` Palantir：政府与企业数据/AI 操作系统。 `13F 占比 3.8%`
+- `CRSP` CRISPR Therapeutics：基因编辑疗法公司。 `13F 占比 3.7%`
+- `AMD` AMD：CPU、GPU 与加速芯片设计公司。 `13F 占比 3.7%`
+- `HOOD` Robinhood：零售券商与交易分发平台。 `13F 占比 3.6%`
+- `TER` Teradyne：半导体测试设备与自动化平台。 `13F 占比 3.0%`
+- `TEM` Tempus AI：医疗数据、诊断与 AI 平台。 `13F 占比 3.0%`
+
+#### Q3 2025
+
+- `TSLA` Tesla：电动车、储能与自动驾驶平台。 `13F 占比 9.5%`
+- `COIN` Coinbase：加密交易、托管与基础设施平台。 `13F 占比 4.8%`
+- `ROKU` Roku：智能电视操作系统与流媒体广告平台。 `13F 占比 4.4%`
+- `PLTR` Palantir：政府与企业数据/AI 操作系统。 `13F 占比 4.4%`
+- `RBLX` Roblox：UGC 游戏与虚拟社交平台。 `13F 占比 4.4%`
+- `HOOD` Robinhood：零售券商与交易分发平台。 `13F 占比 4.3%`
+- `SHOP` Shopify：商家电商基础设施与支付平台。 `13F 占比 4.3%`
+- `CRSP` CRISPR Therapeutics：基因编辑疗法公司。 `13F 占比 3.8%`
+- `TEM` Tempus AI：医疗数据、诊断与 AI 平台。 `13F 占比 3.4%`
+- `AMD` AMD：CPU、GPU 与加速芯片设计公司。 `13F 占比 2.9%`
+
+#### Q2 2025
+
+- `TSLA` Tesla：电动车、储能与自动驾驶平台。 `13F 占比 7.2%`
+- `COIN` Coinbase：加密交易、托管与基础设施平台。 `13F 占比 6.7%`
+- `ROKU` Roku：智能电视操作系统与流媒体广告平台。 `13F 占比 5.5%`
+- `HOOD` Robinhood：零售券商与交易分发平台。 `13F 占比 5.3%`
+- `RBLX` Roblox：UGC 游戏与虚拟社交平台。 `13F 占比 5.2%`
+- `SHOP` Shopify：商家电商基础设施与支付平台。 `13F 占比 4.3%`
+- `PLTR` Palantir：政府与企业数据/AI 操作系统。 `13F 占比 4.1%`
+- `CRCL` Circle：稳定币发行与加密支付平台。 `13F 占比 3.9%`
+- `CRSP` CRISPR Therapeutics：基因编辑疗法公司。 `13F 占比 3.6%`
+- `TEM` Tempus AI：医疗数据、诊断与 AI 平台。 `13F 占比 3.5%`
+
+#### Q1 2025
+
+- `TSLA` Tesla：电动车、储能与自动驾驶平台。 `13F 占比 8.5%`
+- `ROKU` Roku：智能电视操作系统与流媒体广告平台。 `13F 占比 6.1%`
+- `PLTR` Palantir：政府与企业数据/AI 操作系统。 `13F 占比 5.3%`
+- `RBLX` Roblox：UGC 游戏与虚拟社交平台。 `13F 占比 5.3%`
+- `COIN` Coinbase：加密交易、托管与基础设施平台。 `13F 占比 5.3%`
+- `HOOD` Robinhood：零售券商与交易分发平台。 `13F 占比 4.3%`
+- `SHOP` Shopify：商家电商基础设施与支付平台。 `13F 占比 4.2%`
+- `TEM` Tempus AI：医疗数据、诊断与 AI 平台。 `13F 占比 3.6%`
+- `CRSP` CRISPR Therapeutics：基因编辑疗法公司。 `13F 占比 3.5%`
+- `TWST` Twist Bioscience：合成生物学与 DNA 制造平台。 `13F 占比 2.5%`
+
+### 变化摘要（Q4 2025 vs Q3 2025）
+
+- 新进前 10：TER Teradyne
+- 退出前 10：RBLX Roblox
+- 显著加仓：AMD AMD（+0.8 pct）
+- 显著减仓：COIN Coinbase（-1.0 pct）、TSLA Tesla（-0.8 pct）、HOOD Robinhood（-0.7 pct）
+- 过去一年最稳定的核心：TSLA Tesla、SHOP Shopify、ROKU Roku、COIN Coinbase、PLTR Palantir、CRSP CRISPR Therapeutics、HOOD Robinhood、TEM Tempus AI
+
+### 数据来源
+
+- [13f.info manager page](https://13f.info/manager/0001697748-ark-investment-management-llc)：用于读取近四个已披露季度的结构化 13F 持仓表。
+- [SEC EDGAR 13F filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1697748&type=13F-HR&owner=exclude&count=40)：原始 filing 查询入口。
+
 ## 机构传承
 
 这批资料 还不足以严谨写出 ARK 的管理层传承和正式组织分工，所以这里不能装作已知很多。但现有材料已经足够说明一个真正值得观察的问题: 如果 Cathie 不是唯一的公共符号，这家机构的 edge 还能不能被保留下来？

@@ -5,11 +5,11 @@ description: "把同一个问题横向放到不同投资人身上读。"
 ---
 # 投资十问
 
-这里不是人物传记层，而是把同一个问题横着放到不同投资人身上看。真正有价值的，不是某一个人的单独答案，而是同一个问题下，谁在什么地方给出了完全不同的回答。这一轮新增了 [格雷格·阿贝尔](/investor-masters/investors/greg-abel/)、[凯茜·伍德](/investor-masters/investors/cathie-wood/)、[肯·格里芬](/investor-masters/investors/ken-griffin/) 三位投资人，因此当前覆盖统计的口径已经从 `20` 扩到 `23`。
+这里不是人物传记层，而是把同一个问题横着放到不同投资人身上看。真正有价值的，不是某一个人的单独答案，而是同一个问题下，谁在什么地方给出了完全不同的回答。这一轮把 [李录](/investor-masters/investors/li-lu/) 接入主线后，当前覆盖统计的口径已经从 `23` 扩到 `24`。
 
 ## 怎么读这页
 
-- 这里的 `x/23` 表示“当前有多少位核心投资人，在现有资料里能被有依据地回答这个问题”。
+- 这里的 `x/24` 表示“当前有多少位核心投资人，在现有资料里能被有依据地回答这个问题”。
 - 如果你想看边界与反例，优先读 `Q02 / Q09`。
 - 如果你想看风险、路径和活下来，优先读 `Q05 / Q07 / Q08`。
 - 如果你想看研究方法与世界观，优先读 `Q01 / Q03 / Q10`。
@@ -23,13 +23,13 @@ description: "把同一个问题横向放到不同投资人身上读。"
 
 ## 全部问题
 
-- [Q1：你的优势从哪里来](/investor-masters/ten-questions/q01/): 18/23
-- [Q2：什么样的东西你坚决不碰](/investor-masters/ten-questions/q02/): 6/23
-- [Q3：你如何研究并建立确信](/investor-masters/ten-questions/q03/): 19/23
-- [Q4：你如何判断管理层](/investor-masters/ten-questions/q04/): 13/23
-- [Q5：你如何定义和管理风险](/investor-masters/ten-questions/q05/): 17/23
-- [Q6：买入时机与价格权重如何平衡](/investor-masters/ten-questions/q06/): 8/23
-- [Q7：你会在什么时候卖出](/investor-masters/ten-questions/q07/): 10/23
-- [Q8：你如何构建和管理组合](/investor-masters/ten-questions/q08/): 16/23
-- [Q9：哪类错误最致命](/investor-masters/ten-questions/q09/): 10/23
-- [Q10：你认为市场最常出现的系统性误判是什么](/investor-masters/ten-questions/q10/): 14/23
+- [Q1：你的优势从哪里来](/investor-masters/ten-questions/q01/): 19/24
+- [Q2：什么样的东西你坚决不碰](/investor-masters/ten-questions/q02/): 6/24
+- [Q3：你如何研究并建立确信](/investor-masters/ten-questions/q03/): 20/24
+- [Q4：你如何判断管理层](/investor-masters/ten-questions/q04/): 14/24
+- [Q5：你如何定义和管理风险](/investor-masters/ten-questions/q05/): 18/24
+- [Q6：买入时机与价格权重如何平衡](/investor-masters/ten-questions/q06/): 9/24
+- [Q7：你会在什么时候卖出](/investor-masters/ten-questions/q07/): 10/24
+- [Q8：你如何构建和管理组合](/investor-masters/ten-questions/q08/): 17/24
+- [Q9：哪类错误最致命](/investor-masters/ten-questions/q09/): 10/24
+- [Q10：你认为市场最常出现的系统性误判是什么](/investor-masters/ten-questions/q10/): 15/24

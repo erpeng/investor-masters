@@ -16,6 +16,7 @@ description: "不是公司百科，而是“为什么顶级投资人反复提到
 - [微软](/investor-masters/companies/microsoft/): 高质量老平台如何重新进入增长曲线。
 - [可口可乐](/investor-masters/companies/coca-cola/): `超级企业 / 动态护城河 / 成熟公司里的长期成长逻辑` 如何汇到一起。
 - [Alphabet](/investor-masters/companies/alphabet/): AI 恐慌下被错误重描述的平台样本。
+- [比亚迪](/investor-masters/companies/byd/): 工程师文化、第一性思维和长期资本陪伴合在一起的长持样本。
 - [Herbalife](/investor-masters/companies/herbalife/): `方向也许没错，但路径和工具错了` 的样本。
 - [Valeant](/investor-masters/companies/valeant/): `反能力圈` 与战役型高确信度失效条件的样本。
 - [美团](/investor-masters/companies/meituan/): 中国平台在极端竞争中长出的韧性。
@@ -29,6 +30,7 @@ description: "不是公司百科，而是“为什么顶级投资人反复提到
 - **战役与治理修复样本**: [Chipotle](/investor-masters/companies/chipotle/)、[General Growth](/investor-masters/companies/general-growth/)、[Canadian Pacific](/investor-masters/companies/canadian-pacific/)、[Wendy's](/investor-masters/companies/wendys/)、[Tim Hortons](/investor-masters/companies/tim-hortons/)
 - **阿克曼式长期资产样本**: [Universal Music Group](/investor-masters/companies/universal-music-group/)、[Alphabet](/investor-masters/companies/alphabet/)、[Howard Hughes](/investor-masters/companies/howard-hughes/)
 - **中国与新一代平台**: [阿里巴巴](/investor-masters/companies/alibaba/)、[美团](/investor-masters/companies/meituan/)、[拼多多](/investor-masters/companies/pdd/)、[小红书](/investor-masters/companies/xiaohongshu/)、[MiniMax](/investor-masters/companies/minimax/)、[百度](/investor-masters/companies/baidu/)
+- **中国全球制造与工程师文化**: [比亚迪](/investor-masters/companies/byd/)
 - **边界与反例**: [诺和诺德](/investor-masters/companies/novo-nordisk/)、[Teva](/investor-masters/companies/teva/)、[Coinbase](/investor-masters/companies/coinbase/)、[Silvergate Capital](/investor-masters/companies/silvergate-capital/)、[BlackBerry](/investor-masters/companies/blackberry/)、[Valeant](/investor-masters/companies/valeant/)、[Herbalife](/investor-masters/companies/herbalife/)
 
 ## 按最近提纯后的分歧读
@@ -39,6 +41,7 @@ description: "不是公司百科，而是“为什么顶级投资人反复提到
 - **如果你关心“Robotaxi 的价值到底落在平台、第二名还是导流入口”**: 先看 [特斯拉](/investor-masters/companies/tesla/)、[Waymo](/investor-masters/companies/waymo/)、[Uber](/investor-masters/companies/uber/)
 - **如果你关心“好资产模板靠什么成立”**: 先看 [Universal Music Group](/investor-masters/companies/universal-music-group/)、[Howard Hughes](/investor-masters/companies/howard-hughes/)、[Chipotle](/investor-masters/companies/chipotle/)
 - **如果你关心“业务没修好时该不该先拆结构”**: 先看 [Kraft Heinz](/investor-masters/companies/kraft-heinz/)、[Chipotle](/investor-masters/companies/chipotle/)
+- **如果你关心“工程师文化怎样变成长期持有资格”**: 先看 [比亚迪](/investor-masters/companies/byd/)
 - **如果你关心“方法在哪些地方会失效”**: 先看 [Herbalife](/investor-masters/companies/herbalife/)、[Valeant](/investor-masters/companies/valeant/)、[诺和诺德](/investor-masters/companies/novo-nordisk/)
 
 ## 全部公司
@@ -58,6 +61,7 @@ description: "不是公司百科，而是“为什么顶级投资人反复提到
 - [美团](/investor-masters/companies/meituan/)
 - [拼多多](/investor-masters/companies/pdd/)
 - [百度](/investor-masters/companies/baidu/)
+- [比亚迪](/investor-masters/companies/byd/)
 - [英伟达](/investor-masters/companies/nvidia/)
 - [微软](/investor-masters/companies/microsoft/)
 - [Meta](/investor-masters/companies/meta/)
@@ -129,6 +133,7 @@ description: "不是公司百科，而是“为什么顶级投资人反复提到
 - [开市客](/investor-masters/companies/costco/)
 - [微软](/investor-masters/companies/microsoft/)
 - [拼多多](/investor-masters/companies/pdd/)
+- [比亚迪](/investor-masters/companies/byd/)
 - [特斯拉](/investor-masters/companies/tesla/)
 - [百度](/investor-masters/companies/baidu/)
 - [美团](/investor-masters/companies/meituan/)

@@ -12,7 +12,7 @@ description: "把分散的投资访谈、合伙人信和机构材料，编译成
 
 ## 从哪里开始
 
-- **我想了解价值投资**: [沃伦·巴菲特](/investor-masters/investors/warren-buffett/)、[查理·芒格](/investor-masters/investors/charlie-munger/)、[特里·史密斯](/investor-masters/investors/terry-smith/)
+- **我想了解价值投资**: [沃伦·巴菲特](/investor-masters/investors/warren-buffett/)、[查理·芒格](/investor-masters/investors/charlie-munger/)、[特里·史密斯](/investor-masters/investors/terry-smith/)、[李录](/investor-masters/investors/li-lu/)
 - **我想了解成长投资**: [詹姆斯·安德森](/investor-masters/investors/james-anderson/)、[汤姆·斯莱特](/investor-masters/investors/tom-slater/)、[劳伦斯·伯恩斯](/investor-masters/investors/lawrence-burns/)
 - **我想了解宏观与风险**: [霍华德·马克斯](/investor-masters/investors/howard-marks/)、[斯坦利·德鲁肯米勒](/investor-masters/investors/stanley-druckenmiller/)、[格雷格·詹森](/investor-masters/investors/greg-jensen/)
 - **我想看最不寻常的思维**: [尼克·斯利普](/investor-masters/investors/nick-sleep/)、[尼科莱·坦根](/investor-masters/investors/nicolai-tangen/)、[纳瓦尔·拉维坎特](/investor-masters/investors/naval-ravikant/)
@@ -23,13 +23,13 @@ description: "把分散的投资访谈、合伙人信和机构材料，编译成
 
 ## 精选语录墙
 
-> “我自己是一个情感丰富的人。但在投资这件事上，我完全是另外一种状态。”
+> “也正是在这样的理论基础上，我在公司内部开发了一个‘投资模拟器’，帮助团队从过去的错误中持续学习。”
 
-> “价格是你付出的，价值是你得到的。”
+> “在资产管理中，从错误中学习是比寻找完美策略更重要的能力。”
 
-> “我是从阅读伯克希尔·哈撒韦的年度报告开始的。”
+> “如今，我身兼两职，既是GEICO首席执行官，又掌管着伯克希尔庞大的资金池。”
 
-> “我们真正想做的，是找到少数几家真正卓越的企业。”
+> “单店模型往往比整体财报更能揭示商业本质。”
 
 ## 对话与争议
 
@@ -38,6 +38,7 @@ description: "把分散的投资访谈、合伙人信和机构材料，编译成
 - [保守的风险语言 vs 激进的仓位语言](/investor-masters/dialogues/risk-and-conviction/): `先活下来` 与 `看对以后结果要足够大` 之间的分歧。
 - [安静持有 vs 战役推动](/investor-masters/dialogues/quiet-holding-vs-campaign-push/): 尼克·斯利普与阿克曼对催化剂来源的分歧。
 - [方向判断正确 vs 交易结构正确](/investor-masters/dialogues/direction-right-vs-structure-right/): `真相可能太慢，先被路径淘汰` 这件事如何改变你对“正确”的理解。
+- [制度裂缝 vs 制度红利](/investor-masters/dialogues/structural-fracture-vs-reform-dividend/): 同样看制度，有人先看裂缝，有人先看疏通后的制度红利。
 - [不懂不碰 vs 未来信息才重要](/investor-masters/dialogues/certainty-vs-future/): `减少动作` 与 `重写世界描述` 之间的认识论分歧。
 - [看懂边界 vs 品味判断](/investor-masters/dialogues/boundary-vs-taste/): 段永平与纳瓦尔关于判断从哪里来的分歧。
 - [制度保护时间 vs 性格保护时间](/investor-masters/dialogues/institution-vs-temperament/): Sleep 与 Terry 关于长期主义靠制度还是靠性格的分歧。
@@ -46,6 +47,7 @@ description: "把分散的投资访谈、合伙人信和机构材料，编译成
 
 ## 最近更新
 
+- `2026-04-11` 为机构页统一补入近四个季度 13F 持仓
 - `2026-04-11` 用权威公开履历补齐新增投资人的来时路
 - `2026-04-11` 继续补新材料真正缺的公司页
 - `2026-04-11` 修正新增投资人页模板不齐的问题
@@ -53,4 +55,3 @@ description: "把分散的投资访谈、合伙人信和机构材料，编译成
 - `2026-04-11` 继续补 ARK 的平台承接层公司页
 - `2026-04-11` 把 ARK 继续推进到公司层样本
 - `2026-04-11` 把 ARK / Citadel 推进到共享概念层
-- `2026-04-11` 补完入口，并为 Cathie / Ken 新建 ARK / Citadel 机构页
