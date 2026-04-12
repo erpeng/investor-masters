@@ -17,6 +17,7 @@ description: "激励结构决定投资人能做什么，而不只是想做什么
 - [Berkshire Hathaway](/investor-masters/institutions/berkshire-hathaway/)
 - [Bridgewater Associates](/investor-masters/institutions/bridgewater-associates/)
 - [Citadel](/investor-masters/institutions/citadel/)
+- [Duquesne Family Office](/investor-masters/institutions/duquesne-family-office/)
 - [Nomad Investment Partnership](/investor-masters/institutions/nomad-investment-partnership/)
 - [Oaktree Capital](/investor-masters/institutions/oaktree-capital/)
 - [Pershing Square](/investor-masters/institutions/pershing-square/)

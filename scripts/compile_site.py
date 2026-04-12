@@ -101,7 +101,7 @@ INVESTOR_META = {
     "斯坦利·德鲁肯米勒": {
         "slug": "stanley-druckenmiller",
         "tagline": "知道什么时候该把仓位做大的人。",
-        "institution": ("Duquesne", None),
+        "institution": ("Duquesne Family Office", "institutions/duquesne-family-office"),
         "holdings": "宏观趋势、成长拐点",
         "methods": "仓位 / 趋势 / 快速修正",
     },
@@ -235,6 +235,7 @@ INSTITUTION_META = {
     "Berkshire Hathaway": {"slug": "berkshire-hathaway"},
     "Bridgewater Associates": {"slug": "bridgewater-associates"},
     "Citadel": {"slug": "citadel"},
+    "Duquesne Family Office": {"slug": "duquesne-family-office"},
     "Nomad Investment Partnership": {"slug": "nomad-investment-partnership"},
     "Oaktree Capital": {"slug": "oaktree-capital"},
     "Pershing Square": {"slug": "pershing-square"},
