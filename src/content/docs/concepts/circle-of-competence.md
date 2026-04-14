@@ -38,10 +38,10 @@ description: "能力圈 在这批资料 里的最佳入口。"
 
 ## 主要来源
 
-- [段永平：抄捷径是阴沟里翻船最快的方法](/investor-masters/sources/source-34/)
-- [巴菲特亲自教授的一堂价值百万的MBA课程：如何在股市里赚大钱](/investor-masters/sources/source-24/)
+- [段永平：抄捷径是阴沟里翻船最快的方法](/investor-masters/sources/source-36/)
+- [巴菲特亲自教授的一堂价值百万的MBA课程：如何在股市里赚大钱](/investor-masters/sources/source-26/)
 - [2万字｜2008年芒格在加州理工与物理学家的罕见对谈，全程都是智慧四溅](/investor-masters/sources/source-05/)
 - [3.2万字｜潘兴广场比尔·阿克曼最有价值的一场对话，深谈价值投资、核心战役以及如何从人生谷底“爬坑”……](/investor-masters/sources/source-06/)
-- [“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-masters/sources/source-10/)
-- [Ted Weschler-2022-Q&A-Podcast（NFM）](/investor-masters/sources/source-09/)
+- [“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-masters/sources/source-12/)
+- [Ted Weschler-2022-Q&A-Podcast（NFM）](/investor-masters/sources/source-11/)
 - [2021年李录与格林沃尔德深度对话：我们想投资的是那些可以在巨大不确定性中泰然处之的公司……](/investor-masters/sources/source-04/)

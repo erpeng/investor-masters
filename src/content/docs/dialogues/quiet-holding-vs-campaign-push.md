@@ -32,5 +32,5 @@ Sleep 的世界里，最好的投资结果往往来自“少做”。如果公�
 
 ## 主要来源
 
-- [一家低调的传奇机构，“黏住”亚马逊、开市客、伯克希尔大赚特赚](/investor-masters/sources/source-13/)
+- [一家低调的传奇机构，“黏住”亚马逊、开市客、伯克希尔大赚特赚](/investor-masters/sources/source-15/)
 - [3.2万字｜潘兴广场比尔·阿克曼最有价值的一场对话，深谈价值投资、核心战役以及如何从人生谷底“爬坑”……](/investor-masters/sources/source-06/)

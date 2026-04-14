@@ -1,18 +1,19 @@
 ---
-title: "“打孔机”只打了不到10个孔！段永平与方三文最新对话，详解“投资中如何真正算看懂”……"
+title: "Ted Weschler-2022-Q&A-Podcast（NFM）"
 slug: "sources/source-11"
-description: "畅聊苹果、英伟达、伯克希尔、拼多多……"
+description: "Greg Abel（实体业务-大方向资本配置）、Ajt Jain（保险业务）、Ted Weschler（证券投资）的三剑客组合已正式确立"
 ---
 
-**原文件名**: `“打孔机”只打了不到10个孔！段永平与方三文最新对话，详解“投资中如何真正算看懂”…….md`  
-**外部来源**: https://mp.weixin.qq.com/s/yREiBYnmeWhn5kuOtQZn3w
+**原文件名**: `Ted Weschler-2022-Q&A-Podcast（NFM）.md`  
+**外部来源**: https://mp.weixin.qq.com/s/kd-BqzgbpG8D21VCwFIRiQ
 
-**时间**: 2025年11月11日 19:10
+**作者**: 原创 臧文浩  
+**时间**: 2025年12月9日 12:29
 
 ## 摘要
 
-畅聊苹果、英伟达、伯克希尔、拼多多……
+Greg Abel（实体业务-大方向资本配置）、Ajt Jain（保险业务）、Ted Weschler（证券投资）的三剑客组合已正式确立
 
 ## 节选
 
-“人们关心的是我们做过什么，其实 我们之所以成为我们，很大的原因是因为我们不做的那些事情。”
+BRK昨日官宣人事调整，引人注目的是Todd Combs（2011-2025）离开加入JPMorgan，原因众说纷纭。但结果是清晰明朗的：

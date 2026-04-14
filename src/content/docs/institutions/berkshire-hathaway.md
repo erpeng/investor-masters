@@ -38,11 +38,11 @@ Berkshire 最关键的激励结构不是管理费，而是根本没有基金式�
 
 ## 标志性公开材料
 
-- [巴菲特亲自教授的一堂价值百万的MBA课程：如何在股市里赚大钱](/investor-masters/sources/source-24/)：理解伯克希尔看待好生意、好管理和资本配置的核心入口。
-- [Ted Weschler-2022-Q&A-Podcast（NFM）](/investor-masters/sources/source-09/)：理解后伯克希尔时代文化、内部权力结构和组织气质的重要材料。
-- [“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-masters/sources/source-10/)：从下一代投资经理视角观察伯克希尔如何把复杂问题简化。
+- [巴菲特亲自教授的一堂价值百万的MBA课程：如何在股市里赚大钱](/investor-masters/sources/source-26/)：理解伯克希尔看待好生意、好管理和资本配置的核心入口。
+- [Ted Weschler-2022-Q&A-Podcast（NFM）](/investor-masters/sources/source-11/)：理解后伯克希尔时代文化、内部权力结构和组织气质的重要材料。
+- [“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-masters/sources/source-12/)：从下一代投资经理视角观察伯克希尔如何把复杂问题简化。
 - [2.7万字｜ “巴菲特女弟子”深度对话：真正懂资本配置的CEO，往往做决策更理性，也更能创造长期价值](/investor-masters/sources/source-02/)：理解伯克希尔原则如何被翻译成经营结构、文化与资本配置训练的最好补充。
-- [时隔近两年伯克希尔再次回购！格雷格·阿贝尔上任后首次访谈：税后年薪全部购买伯克希尔，以后每一年都会如此……](/investor-masters/sources/source-29/)：看后巴菲特时代如何把三只资本桶、回购纪律和 owner alignment 说成明确制度语言。
+- [时隔近两年伯克希尔再次回购！格雷格·阿贝尔上任后首次访谈：税后年薪全部购买伯克希尔，以后每一年都会如此……](/investor-masters/sources/source-31/)：看后巴菲特时代如何把三只资本桶、回购纪律和 owner alignment 说成明确制度语言。
 - [Berkshire Hathaway 2025 Annual Report](https://berkshirehathaway.com/2025ar/2025ar.pdf)：机构最重要的公开知识资产之一。
 
 ## 13F 持仓（近四个季度）

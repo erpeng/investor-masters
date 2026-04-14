@@ -35,4 +35,4 @@ Tracy 和 Berkshire 代表的则是资本结构型反脆弱。这里的第一原
 
 - [3.2万字｜潘兴广场比尔·阿克曼最有价值的一场对话，深谈价值投资、核心战役以及如何从人生谷底“爬坑”……](/investor-masters/sources/source-06/)
 - [2.7万字｜ “巴菲特女弟子”深度对话：真正懂资本配置的CEO，往往做决策更理性，也更能创造长期价值](/investor-masters/sources/source-02/)
-- [“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-masters/sources/source-10/)
+- [“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-masters/sources/source-12/)

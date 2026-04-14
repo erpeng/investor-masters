@@ -231,6 +231,7 @@ COMPANY_META = {
 
 INSTITUTION_META = {
     "ARK Invest": {"slug": "ark-invest"},
+    "AKO Capital": {"slug": "ako-capital"},
     "Baillie Gifford": {"slug": "baillie-gifford"},
     "Berkshire Hathaway": {"slug": "berkshire-hathaway"},
     "Bridgewater Associates": {"slug": "bridgewater-associates"},
@@ -862,6 +863,7 @@ def compile_institutions():
             [
                 "读机构页的重点，不是规模大小，而是看清楚：一家机构靠什么保护时间维度、靠什么把理念写进制度。\n",
                 f"- [Nomad Investment Partnership]({doc_url('institutions/nomad-investment-partnership')}): 为什么 Sleep 能拿亚马逊二十年。",
+                f"- [AKO Capital]({doc_url('institutions/ako-capital')}): 为什么 quality investing 只有在 specialist teams 和反馈闭环里才真正制度化。",
                 f"- [Berkshire Hathaway]({doc_url('institutions/berkshire-hathaway')}): 为什么永久资本和保险 float 能形成独特制度优势。",
                 f"- [Oaktree Capital]({doc_url('institutions/oaktree-capital')}): 为什么备忘录不只是写作，而是组织知识资产。",
                 f"- [ARK Invest]({doc_url('institutions/ark-invest')}): 为什么公开市场也能被当成技术平台地图来下注。",
@@ -1016,6 +1018,9 @@ def summarize_log_entry(entry: dict[str, str]) -> list[str]:
     title = entry["title"]
     body = entry["body"]
 
+    if title.startswith("tangen-ako-pass |"):
+        return ["新增 Nicolai / AKO 两篇关键材料，并补出 AKO Capital 机构页与坦根人物线。"]
+
     if title.startswith("seed |"):
         return ["首批内容上线：建立人物页、公司页和来源索引。"]
 
@@ -1085,7 +1090,26 @@ def summarize_log_entry(entry: dict[str, str]) -> list[str]:
 
 def build_recent_updates(log_text: str) -> list[str]:
     items: list[str] = []
-    for entry in reversed(parse_log_entries(log_text)):
+    entries = parse_log_entries(log_text)
+    pinned_titles: set[str] = set()
+
+    for entry in entries[:1]:
+        date_text = f"`{entry['date']}` "
+        summaries = summarize_log_entry(entry)
+        if not summaries:
+            continue
+        pinned_titles.add(entry["title"])
+        for idx, summary in enumerate(summaries):
+            if not summary:
+                continue
+            if any(token in summary for token in ["源 wiki", "编译站点", "源站对齐", "source", "canonical"]):
+                continue
+            prefix = date_text if idx == 0 else " " * len(date_text)
+            items.append(f"- {prefix}{summary}")
+
+    for entry in reversed(entries):
+        if entry["title"] in pinned_titles:
+            continue
         if entry["title"] in {"source-first sync"}:
             continue
         date_text = f"`{entry['date']}` "
