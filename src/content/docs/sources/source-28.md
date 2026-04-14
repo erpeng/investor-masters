@@ -1,18 +1,18 @@
 ---
-title: "持续把简单的事做对！“超级投资者”沃尔特·施洛斯的一生"
+title: "执掌1.3万亿美元的尼古拉·坦根最新对话，揭秘全球最大主权财富基金的运营与理念"
 slug: "sources/source-28"
-description: "普通人如何用原则跑赢市场"
+description: "高质量的投资很重要"
 ---
 
-**原文件名**: `持续把简单的事做对！“超级投资者”沃尔特·施洛斯的一生.md`  
-**外部来源**: https://mp.weixin.qq.com/s/8UDQ-S6rV4933fNjbuYh1A
+**原文件名**: `执掌1.3万亿美元的尼古拉·坦根最新对话，揭秘全球最大主权财富基金的运营与理念.md`  
+**外部来源**: https://mp.weixin.qq.com/s?__biz=MzA4NTQ1MzEyNQ==&mid=2663487870&idx=1&sn=1846695e91bcf27d3f36e9081cbe80bc&scene=21&poc_token=HKUR2WmjxPQ_CzhXZZS1g9a55J0bOIxCA7QSK9ic
 
-**时间**: 2026年1月27日 11:32
+**时间**: 2023年12月27日 15:00
 
 ## 摘要
 
-普通人如何用原则跑赢市场
+高质量的投资很重要
 
 ## 节选
 
-沃尔特 ·施洛斯是美国最杰出的价值投资者之一，他被同门师兄、好友沃伦·巴菲特称为“超级投资者”。
+尼古拉·坦根（Nicolai Tangen）是挪威央行投资管理公司（Norges Bank Investment Management）的首席执行官，负责管理运营全球最大的主权财富基金—— 规模1.3万亿美元的挪威主权财富基金 。

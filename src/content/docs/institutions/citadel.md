@@ -29,7 +29,7 @@ Citadel 在这套资料里最重要的身份，不是“Ken Griffin 的大基金
 
 ## 标志性公开材料
 
-- [日本“特拉斯时刻”算轻量版！城堡投资格里芬最新交流，犀利点评美国债务、移民、美联储、AI等热门话题](/investor-masters/sources/source-30/)：当前这套 wiki 里理解 Citadel 的关键入口，能看清这家机构为什么会天然更在意财政现实、监管摩擦和市场 plumbing。
+- [日本“特拉斯时刻”算轻量版！城堡投资格里芬最新交流，犀利点评美国债务、移民、美联储、AI等热门话题](/investor-masters/sources/source-31/)：当前这套 wiki 里理解 Citadel 的关键入口，能看清这家机构为什么会天然更在意财政现实、监管摩擦和市场 plumbing。
 - [肯·格里芬](/investor-masters/investors/ken-griffin/)：如果想先从人物层理解 Citadel，这一页是最好的入口。
 
 ## 13F 持仓（近四个季度）

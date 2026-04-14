@@ -21,6 +21,8 @@ description: "能力圈 在这批资料 里的最佳入口。"
 
 但 Berkshire 这一支又把能力圈往前推进了一步。[托德·库姆斯](/investor-masters/investors/todd-combs/) 的版本不是“这个行业我熟”，而是“你能不能靠原始文件、长周期数据和渠道验证，真的回答出这家公司五年后最重要的问题”。在他这里，能力圈更像一种可审计的理解深度，而不是主观熟悉感。
 
+更特别的是，Todd 这一支还要求你保留 [空头视角](/investor-masters/concepts/short-perspective/)。也就是说，能力圈不只体现在“我知道为什么它值得拥有”，还体现在“我知道它会先从哪里坏掉，我也持续保留反面的证据链”。这样一来，能力圈就不再只是边界纪律，而变成一种能持续反向审问 thesis 的研究纪律。
+
 [泰德·韦施勒](/investor-masters/investors/ted-weschler/) 则说明，能力圈也不等于只看自己最熟的老材料。他会故意去读别人懒得读的行业刊物和随机信息，但最后真正出手仍然要满足两个条件：这些“点”能不能被连成一个非共识判断，以及这个判断能不能落到 Berkshire 体量下仍有意义的机会。也就是说，能力圈不是输入越少越安全，而是 `可以广泛吸收，但只能在真正能综合、能承受、能重仓的地方出手。`
 
 [李录](/investor-masters/investors/li-lu/) 则把这件事说得更硬一点。对他来说，能力圈首先不是“这个行业我看过很多年”，而是你是否真的诚实地区分了 `知道什么 / 不知道什么`，以及一旦决定投资，是否愿意把自己变成那家公司的专才。他的版本因此既不是段永平式纯边界纪律，也不是 Todd/Ted 式完全工程化研究链，而是 `广泛商业好奇心 + 公司层专才 + 对知识边界的持续诚实`。这让能力圈在他这里带有很强的 owner 味道：你不是在挑一张票，而是在决定自己是否真的配得上长期拥有这门生意。
@@ -30,6 +32,7 @@ description: "能力圈 在这批资料 里的最佳入口。"
 - [护城河](/investor-masters/concepts/moat/)
 - [克隆策略](/investor-masters/concepts/cloning/)
 - [判断力](/investor-masters/concepts/judgment/)
+- [空头视角](/investor-masters/concepts/short-perspective/)
 - [不懂不碰 vs 未来信息才重要](/investor-masters/dialogues/certainty-vs-future/)
 - [静态能力圈 vs 可审计能力圈](/investor-masters/dialogues/static-vs-auditable-circle/)
 - [方向判断正确 vs 交易结构正确](/investor-masters/dialogues/direction-right-vs-structure-right/)
@@ -38,10 +41,10 @@ description: "能力圈 在这批资料 里的最佳入口。"
 
 ## 主要来源
 
-- [段永平：抄捷径是阴沟里翻船最快的方法](/investor-masters/sources/source-36/)
-- [巴菲特亲自教授的一堂价值百万的MBA课程：如何在股市里赚大钱](/investor-masters/sources/source-26/)
-- [2万字｜2008年芒格在加州理工与物理学家的罕见对谈，全程都是智慧四溅](/investor-masters/sources/source-05/)
-- [3.2万字｜潘兴广场比尔·阿克曼最有价值的一场对话，深谈价值投资、核心战役以及如何从人生谷底“爬坑”……](/investor-masters/sources/source-06/)
-- [“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-masters/sources/source-12/)
-- [Ted Weschler-2022-Q&A-Podcast（NFM）](/investor-masters/sources/source-11/)
-- [2021年李录与格林沃尔德深度对话：我们想投资的是那些可以在巨大不确定性中泰然处之的公司……](/investor-masters/sources/source-04/)
+- [段永平：抄捷径是阴沟里翻船最快的方法](/investor-masters/sources/source-37/)
+- [巴菲特亲自教授的一堂价值百万的MBA课程：如何在股市里赚大钱](/investor-masters/sources/source-27/)
+- [2万字｜2008年芒格在加州理工与物理学家的罕见对谈，全程都是智慧四溅](/investor-masters/sources/source-06/)
+- [3.2万字｜潘兴广场比尔·阿克曼最有价值的一场对话，深谈价值投资、核心战役以及如何从人生谷底“爬坑”……](/investor-masters/sources/source-07/)
+- [“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-masters/sources/source-13/)
+- [Ted Weschler-2022-Q&A-Podcast（NFM）](/investor-masters/sources/source-12/)
+- [2021年李录与格林沃尔德深度对话：我们想投资的是那些可以在巨大不确定性中泰然处之的公司……](/investor-masters/sources/source-05/)

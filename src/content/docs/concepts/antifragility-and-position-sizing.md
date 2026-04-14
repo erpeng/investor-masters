@@ -25,6 +25,8 @@ description: "反脆弱与仓位管理 在这批资料 里的最佳入口。"
 
 而 Berkshire 这一支给出的答案，更多是“资本结构上的反脆弱”。[Berkshire Hathaway](/investor-masters/institutions/berkshire-hathaway/) 没有基金赎回压力，手里又有 float、子公司现金流和去中心化授权，所以它天然比普通资管机构更不容易被短期市场逼到错误动作。到了 [托德·库姆斯](/investor-masters/investors/todd-combs/) 这里，这种制度优势又被翻成更具体的语言: 完美信息不存在，所以必须接受可信区间、安全边际和负债结构约束；否则你会在还没等到正确兑现前，先被资本结构拖死。
 
+但 Todd 这条线还有一个容易被漏掉的补充：`空头交易结构` 和 `空头视角` 不是一回事。前者往往不反脆弱，因为时间、路径和损失上限都会先惩罚你；后者却可能提升研究层的反脆弱，因为它逼你在下重仓前先把脆弱性、错配和失败路径问清楚。也就是说，[空头视角](/investor-masters/concepts/short-perspective/) 真正值钱的地方，不一定是让你去做空，而是让你别在做多时只看半张资产负债表。
+
 [特蕾西·布里特·库尔](/investor-masters/investors/tracy-britt-cool/) 则把同一个问题翻译成经营者语言。她反复强调“结构允许长期”、低杠杆和 margin of safety，本质上也是在做同一件事: 不让企业为了短期偿债或季度压力去做伤害长期价值的决策。如果说阿克曼提醒的是“错误结构会把人打死”，那 Berkshire / Tracy 这一支提醒的是“正确结构会让你有资格熬过波动，并把时间变成朋友”。
 
 [肯·格里芬](/investor-masters/investors/ken-griffin/) 和 [Citadel](/investor-masters/institutions/citadel/) 则补了另一种经常被忽略的反脆弱: `制度与 plumbing 层的反脆弱`。在他那里，真正会先把你打死的，不一定是价格本身，而可能是财政纪律恶化、持有人结构变脆、政策主线反复横跳、监管突然加码，或者市场把制度性松动误读成平静。也就是说，反脆弱不只是“杠杆别太高”，还包括你有没有在制度和流动性接口已经开始坏掉时，继续把自己暴露在会被迫犯错的位置上。
@@ -35,6 +37,7 @@ description: "反脆弱与仓位管理 在这批资料 里的最佳入口。"
 
 - [第二层思维](/investor-masters/concepts/second-level-thinking/)
 - [时间套利](/investor-masters/concepts/time-arbitrage/)
+- [空头视角](/investor-masters/concepts/short-perspective/)
 - [保守的风险语言 vs 激进的仓位语言](/investor-masters/dialogues/risk-and-conviction/)
 - [周期位置 vs 制度裂缝](/investor-masters/dialogues/cycle-position-vs-structural-fracture/)
 - [方向判断正确 vs 交易结构正确](/investor-masters/dialogues/direction-right-vs-structure-right/)
@@ -47,12 +50,12 @@ description: "反脆弱与仓位管理 在这批资料 里的最佳入口。"
 
 ## 主要来源
 
-- [Druckenmiller深度解析（附中英对照）](/investor-masters/sources/source-09/)
-- [关于耐心与杠杆！霍华德与摩根的最新对话：历史不会重演，但人类的行为却总是重复](/investor-masters/sources/source-19/)
-- [3.2万字｜潘兴广场比尔·阿克曼最有价值的一场对话，深谈价值投资、核心战役以及如何从人生谷底“爬坑”……](/investor-masters/sources/source-06/)
-- [小心！过去15年的“陷阱”，让我们遗忘了“分散投资”——看桥水“务实派”如何警示未来（上）   泉果探照灯](/investor-masters/sources/source-25/)
-- [全世界最懂AI的金融人，是怎么管理投资的？——看桥水“务实派”如何警示未来 （下）  泉果探照灯](/investor-masters/sources/source-18/)
-- [“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-masters/sources/source-12/)
-- [2.7万字｜ “巴菲特女弟子”深度对话：真正懂资本配置的CEO，往往做决策更理性，也更能创造长期价值](/investor-masters/sources/source-02/)
-- [日本“特拉斯时刻”算轻量版！城堡投资格里芬最新交流，犀利点评美国债务、移民、美联储、AI等热门话题](/investor-masters/sources/source-30/)
-- [李录亲述：为什么能拿住比亚迪23年？](/investor-masters/sources/source-34/)
+- [Druckenmiller深度解析（附中英对照）](/investor-masters/sources/source-10/)
+- [关于耐心与杠杆！霍华德与摩根的最新对话：历史不会重演，但人类的行为却总是重复](/investor-masters/sources/source-20/)
+- [3.2万字｜潘兴广场比尔·阿克曼最有价值的一场对话，深谈价值投资、核心战役以及如何从人生谷底“爬坑”……](/investor-masters/sources/source-07/)
+- [小心！过去15年的“陷阱”，让我们遗忘了“分散投资”——看桥水“务实派”如何警示未来（上）   泉果探照灯](/investor-masters/sources/source-26/)
+- [全世界最懂AI的金融人，是怎么管理投资的？——看桥水“务实派”如何警示未来 （下）  泉果探照灯](/investor-masters/sources/source-19/)
+- [“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-masters/sources/source-13/)
+- [2.7万字｜ “巴菲特女弟子”深度对话：真正懂资本配置的CEO，往往做决策更理性，也更能创造长期价值](/investor-masters/sources/source-03/)
+- [日本“特拉斯时刻”算轻量版！城堡投资格里芬最新交流，犀利点评美国债务、移民、美联储、AI等热门话题](/investor-masters/sources/source-31/)
+- [李录亲述：为什么能拿住比亚迪23年？](/investor-masters/sources/source-35/)

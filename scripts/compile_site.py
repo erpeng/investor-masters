@@ -252,6 +252,7 @@ CONCEPT_META = {
     "时间套利": {"slug": "time-arbitrage"},
     "超级赢家": {"slug": "super-winners"},
     "反脆弱与仓位管理": {"slug": "antifragility-and-position-sizing"},
+    "空头视角": {"slug": "short-perspective"},
     "克隆策略": {"slug": "cloning"},
     "判断力": {"slug": "judgment"},
 }
@@ -307,6 +308,8 @@ DIALOGUE_SLUG_OVERRIDES = {
     "周期位置 vs 制度裂缝": "cycle-position-vs-structural-fracture",
     "制度裂缝 vs 制度红利": "structural-fracture-vs-reform-dividend",
     "平台收敛赢家 vs 价值链瓶颈赢家": "platform-winners-vs-bottleneck-winners",
+    "未来分布 vs 负债端现实": "future-distribution-vs-liability-reality",
+    "放弃做空 vs 保留空头脑": "stop-shorting-vs-keep-a-short-mind",
 }
 
 
@@ -898,6 +901,7 @@ def compile_concepts():
         f"- [第二层思维]({doc_url('concepts/second-level-thinking')})",
         f"- [共享规模经济]({doc_url('concepts/scale-economies-shared')})",
         f"- [判断力]({doc_url('concepts/judgment')})",
+        f"- [空头视角]({doc_url('concepts/short-perspective')})",
         "\n## 全部概念\n",
     ]
     for name, meta in CONCEPT_META.items():

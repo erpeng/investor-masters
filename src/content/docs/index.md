@@ -23,18 +23,20 @@ description: "把分散的投资访谈、合伙人信和机构材料，编译成
 
 ## 精选语录墙
 
-> “真正懂资本配置的CEO，往往做决策更理性，也更能创造长期价值。”
+> “当定价错误的企业回升到合理估值时，价格便不再便宜。”
 
-> “我不是在打造伯克希尔2.0。我是在利用一些原则，去打造一种不同的东西。”
+> “他们就不得不卖出，再去寻找新的廉价股。”
 
-> “经济现实是关键。”
+> “如果你能问得好，问得准，做好准备，你就能从对方那里获取别人得不到的信息。”
 
-> “我们寻找高资本回报率、高毛利率、良好现金转换率和持续增长的企业。”
+> “好公司……总会做出一些了不起的事，总能变出点出人意料的东西。”
 
 ## 对话与争议
 
 - [对话与争议总览](/investor-masters/dialogues/): 把分散在人物页里的张力显性化，逼你回答自己更接近哪一种方法。
 - [质量价值 vs 成长非共识](/investor-masters/dialogues/quality-vs-growth/): `动态护城河` 与 `反平均值的超级赢家` 之间的分歧。
+- [放弃做空 vs 保留空头脑](/investor-masters/dialogues/stop-shorting-vs-keep-a-short-mind/): `不再下空单` 与 `继续保留空头脑` 之间的分歧。
+- [未来分布 vs 负债端现实](/investor-masters/dialogues/future-distribution-vs-liability-reality/): `先找例外赢家` 与 `先审负债端脆弱性` 之间的分歧。
 - [保守的风险语言 vs 激进的仓位语言](/investor-masters/dialogues/risk-and-conviction/): `先活下来` 与 `看对以后结果要足够大` 之间的分歧。
 - [安静持有 vs 战役推动](/investor-masters/dialogues/quiet-holding-vs-campaign-push/): 尼克·斯利普与阿克曼对催化剂来源的分歧。
 - [方向判断正确 vs 交易结构正确](/investor-masters/dialogues/direction-right-vs-structure-right/): `真相可能太慢，先被路径淘汰` 这件事如何改变你对“正确”的理解。
@@ -47,7 +49,7 @@ description: "把分散的投资访谈、合伙人信和机构材料，编译成
 
 ## 最近更新
 
-- `2026-04-14` 新增 Nicolai / AKO 两篇关键材料，并补出 AKO Capital 机构页与坦根人物线。
+- `2026-04-15` 把托德做空思维推进到概念层
 - `2026-04-12` 新增 Duquesne Family Office 机构页
 - `2026-04-11` 为机构页统一补入近四个季度 13F 持仓
 - `2026-04-11` 用权威公开履历补齐新增投资人的来时路

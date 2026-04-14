@@ -11,6 +11,7 @@ description: "跨人物阅读时，最容易反复出现的那几根骨架。"
 - [第二层思维](/investor-masters/concepts/second-level-thinking/)
 - [共享规模经济](/investor-masters/concepts/scale-economies-shared/)
 - [判断力](/investor-masters/concepts/judgment/)
+- [空头视角](/investor-masters/concepts/short-perspective/)
 
 ## 全部概念
 
@@ -21,5 +22,6 @@ description: "跨人物阅读时，最容易反复出现的那几根骨架。"
 - [时间套利](/investor-masters/concepts/time-arbitrage/)
 - [超级赢家](/investor-masters/concepts/super-winners/)
 - [反脆弱与仓位管理](/investor-masters/concepts/antifragility-and-position-sizing/)
+- [空头视角](/investor-masters/concepts/short-perspective/)
 - [克隆策略](/investor-masters/concepts/cloning/)
 - [判断力](/investor-masters/concepts/judgment/)
