@@ -1,19 +1,19 @@
 ---
-title: "一家低调的传奇机构，“黏住”亚马逊、开市客、伯克希尔大赚特赚"
+title: "Ted Weschler-2022-Q&A-Podcast（NFM）"
 slug: "sources/source-16"
-description: "游牧人基金的历史，也是一部美妙的投资史"
+description: "Greg Abel（实体业务-大方向资本配置）、Ajt Jain（保险业务）、Ted Weschler（证券投资）的三剑客组合已正式确立"
 ---
 
-**原文件名**: `一家低调的传奇机构，“黏住”亚马逊、开市客、伯克希尔大赚特赚.md`  
-**外部来源**: https://mp.weixin.qq.com/s/r8dgjM1KrUtT9yC9L5fZUg
+**原文件名**: `Ted Weschler-2022-Q&A-Podcast（NFM）.md`  
+**外部来源**: https://mp.weixin.qq.com/s/kd-BqzgbpG8D21VCwFIRiQ
 
-**作者**: 原创 伊娜  
-**时间**: 2023年8月14日 15:01
+**作者**: 原创 臧文浩  
+**时间**: 2025年12月9日 12:29
 
 ## 摘要
 
-游牧人基金的历史，也是一部美妙的投资史
+Greg Abel（实体业务-大方向资本配置）、Ajt Jain（保险业务）、Ted Weschler（证券投资）的三剑客组合已正式确立
 
 ## 节选
 
-二季度亚马逊业绩大超预期。8月3日，亚马逊交出了FAAMG中最亮眼的二季报：期内营收1344亿美元，增长近11%，扭转过去一年持续个位数增长颓势；净利润同比扭亏为盈，达67.5亿美元，创下2021年四季度以来新高，而上年同期净亏损是20.28亿美元。
+BRK昨日官宣人事调整，引人注目的是Todd Combs（2011-2025）离开加入JPMorgan，原因众说纷纭。但结果是清晰明朗的：

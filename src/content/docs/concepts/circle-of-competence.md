@@ -23,13 +23,19 @@ description: "能力圈 在这批资料 里的最佳入口。"
 
 更特别的是，Todd 这一支还要求你保留 [空头视角](/investor-masters/concepts/short-perspective/)。也就是说，能力圈不只体现在“我知道为什么它值得拥有”，还体现在“我知道它会先从哪里坏掉，我也持续保留反面的证据链”。这样一来，能力圈就不再只是边界纪律，而变成一种能持续反向审问 thesis 的研究纪律。
 
+[AKO Capital](/investor-masters/institutions/ako-capital/) 则把能力圈翻译成另一种更适合研究机构的语言：你不只是“懂某个行业”，还要能识别这家公司究竟属于哪类 [质量模式](/investor-masters/concepts/quality-patterns/)，并知道该用什么反证去验证它。换句话说，AKO 版本的能力圈不是主观熟悉感，而是对 pattern、证据和反证路径的清楚掌握。
+
 [泰德·韦施勒](/investor-masters/investors/ted-weschler/) 则说明，能力圈也不等于只看自己最熟的老材料。他会故意去读别人懒得读的行业刊物和随机信息，但最后真正出手仍然要满足两个条件：这些“点”能不能被连成一个非共识判断，以及这个判断能不能落到 Berkshire 体量下仍有意义的机会。也就是说，能力圈不是输入越少越安全，而是 `可以广泛吸收，但只能在真正能综合、能承受、能重仓的地方出手。`
 
 [李录](/investor-masters/investors/li-lu/) 则把这件事说得更硬一点。对他来说，能力圈首先不是“这个行业我看过很多年”，而是你是否真的诚实地区分了 `知道什么 / 不知道什么`，以及一旦决定投资，是否愿意把自己变成那家公司的专才。他的版本因此既不是段永平式纯边界纪律，也不是 Todd/Ted 式完全工程化研究链，而是 `广泛商业好奇心 + 公司层专才 + 对知识边界的持续诚实`。这让能力圈在他这里带有很强的 owner 味道：你不是在挑一张票，而是在决定自己是否真的配得上长期拥有这门生意。
 
+Tiger Cub 这一支也给能力圈补了两种非常实用的版本。[李·安斯利](/investor-masters/investors/lee-ainslie/) 的版本，是 `行业专家制`：能力圈不是“我大概熟悉这个行业”，而是机构里真的有人长期只做这一块，对竞争格局、管理层和资本配置理解到接近非内幕人极限。[史蒂芬·曼德尔](/investor-masters/investors/stephen-mandel/) 的版本，则是 `变化驱动能力圈`：你不只要理解行业今天怎么运转，还要知道哪几类变化会真正改写结果，以及这家公司是否有能力顺着变化继续变强。
+
 ## 相关概念
 
 - [护城河](/investor-masters/concepts/moat/)
+- [质量模式](/investor-masters/concepts/quality-patterns/)
+- [变化驱动投资](/investor-masters/concepts/investing-behind-change/)
 - [克隆策略](/investor-masters/concepts/cloning/)
 - [判断力](/investor-masters/concepts/judgment/)
 - [空头视角](/investor-masters/concepts/short-perspective/)
@@ -41,10 +47,12 @@ description: "能力圈 在这批资料 里的最佳入口。"
 
 ## 主要来源
 
-- [段永平：抄捷径是阴沟里翻船最快的方法](/investor-masters/sources/source-37/)
-- [巴菲特亲自教授的一堂价值百万的MBA课程：如何在股市里赚大钱](/investor-masters/sources/source-27/)
+- [段永平：抄捷径是阴沟里翻船最快的方法](/investor-masters/sources/source-41/)
+- [巴菲特亲自教授的一堂价值百万的MBA课程：如何在股市里赚大钱](/investor-masters/sources/source-31/)
 - [2万字｜2008年芒格在加州理工与物理学家的罕见对谈，全程都是智慧四溅](/investor-masters/sources/source-06/)
 - [3.2万字｜潘兴广场比尔·阿克曼最有价值的一场对话，深谈价值投资、核心战役以及如何从人生谷底“爬坑”……](/investor-masters/sources/source-07/)
-- [“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-masters/sources/source-13/)
-- [Ted Weschler-2022-Q&A-Podcast（NFM）](/investor-masters/sources/source-12/)
+- [“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-masters/sources/source-17/)
+- [Ted Weschler-2022-Q&A-Podcast（NFM）](/investor-masters/sources/source-16/)
 - [2021年李录与格林沃尔德深度对话：我们想投资的是那些可以在巨大不确定性中泰然处之的公司……](/investor-masters/sources/source-05/)
+- [McKinsey｜李·安斯利：走进 Maverick Capital，传统多空基金如何研究企业](/investor-masters/sources/source-15/)
+- [Colossus｜史蒂芬·曼德尔：顺着变化下注](/investor-masters/sources/source-11/)

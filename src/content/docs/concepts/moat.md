@@ -19,6 +19,8 @@ description: "护城河 在这批资料 里的最佳入口。"
 
 把这几个人放在一起看，会发现护城河并不是单一尺度。芒格和巴菲特更强调经济现实与所有权回报，史密斯更强调可筛选的质量特征，阿克曼则更敏感于抗颠覆性和品牌进入日常语言之后形成的心智垄断。对今天的信息密度来说，阿克曼这层提醒尤其重要：如果一个优势在技术变迁面前很脆，它就未必配得上“护城河”三个字。
 
+[AKO Capital](/investor-masters/institutions/ako-capital/) 则把护城河进一步拆成了一组更细的 [质量模式](/investor-masters/concepts/quality-patterns/)。在 AKO 的语言里，护城河不是一句总评，而是可以继续拆成 `定价权 / 品牌强度 / 创新主导 / 前向整合 / 全球能力与领导地位 / 复制成本` 等不同形状。也就是说，AKO 不是另造了一套和护城河无关的术语，而是把“为什么这家公司能长期维持高回报”拆得更像一套研究清单。
+
 [托德·库姆斯](/investor-masters/investors/todd-combs/) 则把护城河拉成了一套更工程化的检查表。在他这里，护城河不只是“看起来有优势”，而是你能不能回答：未来五年最脆弱的环节是什么、企业有没有真正的定价权、复制这门生意需要什么条件、下一轮衰退里它是脆弱还是反脆弱。也就是说，到了 Berkshire 这一支，护城河不只是结果描述，而是进入研究流程的问题清单。
 
 [特蕾西·布里特·库尔](/investor-masters/investors/tracy-britt-cool/) 让这个概念再多出一层经营味。她反复强调，护城河很多时候来自 `低成本 + 渠道 + 组织系统` 的联动，而不是某个静态标签。放到 [GEICO](/investor-masters/companies/geico/) 和 [伯克希尔·哈撒韦](/investor-masters/companies/berkshire-hathaway/) 这类样本上看，就更清楚了：低成本如果能持续转成客户价值，并被文化、流程和资本配置守住，它才会越挖越深；否则再漂亮的优势也可能只是阶段性顺风。
@@ -28,7 +30,12 @@ description: "护城河 在这批资料 里的最佳入口。"
 ## 相关概念
 
 - [能力圈](/investor-masters/concepts/circle-of-competence/)
+- [质量模式](/investor-masters/concepts/quality-patterns/)
 - [共享规模经济](/investor-masters/concepts/scale-economies-shared/)
+- [经常性收入](/investor-masters/concepts/recurring-revenues/)
+- [友好中介](/investor-masters/concepts/friendly-middlemen/)
+- [收费站型生意](/investor-masters/concepts/toll-roads/)
+- [企业文化](/investor-masters/concepts/corporate-culture/)
 - [超级赢家](/investor-masters/concepts/super-winners/)
 - [可口可乐](/investor-masters/companies/coca-cola/)
 - [开市客](/investor-masters/companies/costco/)
@@ -43,9 +50,9 @@ description: "护城河 在这批资料 里的最佳入口。"
 
 - [2万字｜2008年芒格在加州理工与物理学家的罕见对谈，全程都是智慧四溅](/investor-masters/sources/source-06/)
 - [4万字对话｜72岁传奇投资人特里·史密斯详述一生，如何塑造自己的投资风格](/investor-masters/sources/source-08/)
-- [巴菲特亲自教授的一堂价值百万的MBA课程：如何在股市里赚大钱](/investor-masters/sources/source-27/)
+- [巴菲特亲自教授的一堂价值百万的MBA课程：如何在股市里赚大钱](/investor-masters/sources/source-31/)
 - [3.2万字｜潘兴广场比尔·阿克曼最有价值的一场对话，深谈价值投资、核心战役以及如何从人生谷底“爬坑”……](/investor-masters/sources/source-07/)
-- [“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-masters/sources/source-13/)
+- [“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-masters/sources/source-17/)
 - [2.7万字｜ “巴菲特女弟子”深度对话：真正懂资本配置的CEO，往往做决策更理性，也更能创造长期价值](/investor-masters/sources/source-03/)
 - [2021年李录与格林沃尔德深度对话：我们想投资的是那些可以在巨大不确定性中泰然处之的公司……](/investor-masters/sources/source-05/)
-- [李录亲述：为什么能拿住比亚迪23年？](/investor-masters/sources/source-35/)
+- [李录亲述：为什么能拿住比亚迪23年？](/investor-masters/sources/source-39/)

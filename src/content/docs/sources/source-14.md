@@ -1,18 +1,17 @@
 ---
-title: "“打孔机”只打了不到10个孔！段永平与方三文最新对话，详解“投资中如何真正算看懂”……"
+title: "Joys of Compounding｜史蒂芬·曼德尔：来自 Lone Pine 的经验课"
 slug: "sources/source-14"
-description: "畅聊苹果、英伟达、伯克希尔、拼多多……"
+description: "史蒂芬·曼德尔回顾 Lone Pine 的创立、文化、领导力、人才培养与长期 alpha 的来源。"
 ---
 
-**原文件名**: `“打孔机”只打了不到10个孔！段永平与方三文最新对话，详解“投资中如何真正算看懂”…….md`  
-**外部来源**: https://mp.weixin.qq.com/s/yREiBYnmeWhn5kuOtQZn3w
+**原文件名**: `Joys of Compounding｜史蒂芬·曼德尔：来自 Lone Pine 的经验课.md`  
+**外部来源**: https://colossus.com/episode/lessons-from-steve-mandel/
 
-**时间**: 2025年11月11日 19:10
 
 ## 摘要
 
-畅聊苹果、英伟达、伯克希尔、拼多多……
+史蒂芬·曼德尔回顾 Lone Pine 的创立、文化、领导力、人才培养与长期 alpha 的来源。
 
 ## 节选
 
-“人们关心的是我们做过什么，其实 我们之所以成为我们，很大的原因是因为我们不做的那些事情。”
+> 整理说明： > 本页依据 Colossus 官方节目页、Apple Podcasts 官方页面与公开可见 show notes 整理而成。 > 官方完整 transcript 当前需要登录可见，因此本页不是官方完整逐字稿，而是基于官方音频元信息、官方 show notes 与公开简介的审校整理版。

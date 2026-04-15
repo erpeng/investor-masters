@@ -49,6 +49,13 @@ INVESTOR_META = {
         "holdings": "亚马逊、比特币",
         "methods": "时间套利 / 非传统价值 / 未来现金流",
     },
+    "李·安斯利": {
+        "slug": "lee-ainslie",
+        "tagline": "把 Tiger 学徒制压成行业专家制的人。",
+        "institution": ("Maverick Capital", "institutions/maverick-capital"),
+        "holdings": "行业 long/short、管理层研究",
+        "methods": "行业专家制 / 长短仓 / 资本配置判断",
+    },
     "特里·史密斯": {
         "slug": "terry-smith",
         "tagline": "相信挑对公司之后几乎不需要再做什么的人。",
@@ -126,6 +133,13 @@ INVESTOR_META = {
         "holdings": "Amazon、Costco",
         "methods": "共享规模经济 / 长期集中 / 反噪音",
     },
+    "史蒂芬·曼德尔": {
+        "slug": "stephen-mandel",
+        "tagline": "围绕关键变化下注、同时坚持深企业研究的人。",
+        "institution": ("Lone Pine Capital", "institutions/lone-pine-capital"),
+        "holdings": "高质量成长、结构变化受益者",
+        "methods": "变化驱动投资 / 深企业研究 / 组织传承",
+    },
     "凯斯·扎卡里亚": {
         "slug": "qais-zakaria",
         "tagline": "与 Sleep 一起把漫长而简单的游戏做成实验的人。",
@@ -196,6 +210,7 @@ INVESTOR_INFO_SOURCES = {
     "查理·芒格": "芒格的信息来源极少是单一渠道，而更像多学科交叉验证。他会把企业经营事实、心理学偏差、行业结构和历史案例放在一起看，尤其擅长从反常识现象和人性弱点里找到判断锚点。对他而言，来源本身不神秘，关键是有没有经过足够严格的交叉检查。",
     "霍华德·马克斯": "马克斯的信息来源更偏市场温度计，而不是单个公司故事。他高度关注信用利差、融资条件、投资者情绪、风险偏好和市场行为的摆动，通过这些指标判断周期走到了哪里。换句话说，他靠的是赔率环境和情绪环境，而不只是资产本身的静态价值。",
     "比尔·米勒": "米勒对信息来源的定义最宽。他明确认为，只要你理解一个信息渠道的优点和盲点，几乎任何来源都可以有用。这使他既愿意读传统财报，也愿意重视市场忽视的新技术、新资产类别和非主流叙事，关键是把这些信息放回未来现金流和长期价值的框架里。",
+    "李·安斯利": "李·安斯利的信息来源带有非常强的 Tiger 味道：少而深的行业覆盖、长期关系网络、对管理层和 CFO 的持续交叉验证，以及对资本配置和透明度的反复追问。对他来说，信息优势不是拿到一条神秘消息，而是比别人更持续、更立体地理解一个行业和其中的赢家、输家。",
     "特里·史密斯": "特里·史密斯的信息来源偏向企业基本面本身，而不是外部故事。他反复盯收入质量、资本回报率、现金流、管理层纪律和竞争地位，核心是从企业长期报表里提炼出“这是不是一台高质量复利机器”。他不太依赖宏观预测，也不太依赖复杂渠道优势。",
     "段永平": "段永平的信息来源很克制，几乎都围绕“我能不能真正看懂”展开。他更看重产品体验、企业常识、管理层取向和长期商业逻辑，而不是市场上铺天盖地的信息流。对他来说，来源不是越多越好，而是能不能帮助自己建立足够清楚的能力圈边界。",
     "詹姆斯·安德森": "安德森的信息来源更像变化探测器。他会持续跟踪技术、创业公司、创始人、产业结构变化和极少数可能变成超级赢家的企业，把这些信息组合成对未来分布的判断。相比看静态指标，他更看谁正在真正改变世界，以及这种改变会不会被市场长期低估。",
@@ -207,6 +222,7 @@ INVESTOR_INFO_SOURCES = {
     "托德·库姆斯": "托德·库姆斯的信息来源偏经营化而非市场化。现有资料显示，他会从单店模型、回本周期、投资回报率这类非常具体的经营指标切入，把复杂企业先拆成可验证的小单元，再决定是否值得下注。这让他的信息入口更像运营视角，而不是交易视角。",
     "泰德·韦施勒": "韦施勒的信息来源看起来低噪音、重关系、重清晰表达。现有资料里，他更像那种通过长期跟踪企业、管理层和少数高质量机会来形成判断的投资人，而不是靠频繁切换信息渠道。他依赖的不是花哨的情报优势，而是持续积累的商业理解和人与人的判断。",
     "尼克·斯利普": "斯利普的信息来源天然反短期化。他更看重年报、长期经营记录、实地调研和少数高质量企业多年如一日的行为模式，而不是短保质期市场信息。对他来说，真正有价值的信息往往来自那些能解释企业十年后为什么更强的材料，而不是明天的股价催化剂。",
+    "史蒂芬·曼德尔": "史蒂芬·曼德尔的信息来源更像变化雷达和企业内部研究的结合。他既关心行业与技术变化会怎样改写结果，又坚持把这些变化压回企业内部，继续看经营驱动、管理层和组织质量。对他来说，变化本身不值钱，能把变化翻译成长期 alpha 的研究系统才值钱。",
     "凯斯·扎卡里亚": "扎卡里亚的信息来源与斯利普高度耦合，但更偏研究补位。现有资料明确提到，他对亚太市场和跨区域机会的理解是 Nomad 研究系统的重要组成部分。这意味着他更像是把局部市场经验、深度研究和组合执行连接起来的人。",
     "格雷格·詹森": "詹森的信息来源更接近一台组织化研究机器。他不仅看宏观和市场数据，也非常在意新研究怎样被系统吸收、怎样在尚未完全模型化时先进入组合测试。对他来说，来源价值不只在信息本身，还在组织能否快速把新认知转成决策。",
     "尼科莱·坦根": "坦根的信息来源非常像高质量传感器系统。他高度重视访谈、提问方式、语言细节和人在压力下暴露出来的真实特征，同时也会训练团队像顶级运动员一样提升研究与复盘能力。换句话说，他获取信息不只靠数据，还靠从人与对话里捕捉真实信号。",
@@ -242,17 +258,25 @@ INSTITUTION_META = {
     "Pershing Square": {"slug": "pershing-square"},
     "Fundsmith": {"slug": "fundsmith"},
     "Himalaya Capital": {"slug": "himalaya-capital"},
+    "Lone Pine Capital": {"slug": "lone-pine-capital"},
+    "Maverick Capital": {"slug": "maverick-capital"},
 }
 
 CONCEPT_META = {
     "护城河": {"slug": "moat"},
+    "质量模式": {"slug": "quality-patterns"},
     "能力圈": {"slug": "circle-of-competence"},
     "第二层思维": {"slug": "second-level-thinking"},
     "共享规模经济": {"slug": "scale-economies-shared"},
+    "经常性收入": {"slug": "recurring-revenues"},
+    "友好中介": {"slug": "friendly-middlemen"},
+    "收费站型生意": {"slug": "toll-roads"},
+    "变化驱动投资": {"slug": "investing-behind-change"},
     "时间套利": {"slug": "time-arbitrage"},
     "超级赢家": {"slug": "super-winners"},
     "反脆弱与仓位管理": {"slug": "antifragility-and-position-sizing"},
     "空头视角": {"slug": "short-perspective"},
+    "企业文化": {"slug": "corporate-culture"},
     "克隆策略": {"slug": "cloning"},
     "判断力": {"slug": "judgment"},
 }
@@ -867,6 +891,8 @@ def compile_institutions():
                 "读机构页的重点，不是规模大小，而是看清楚：一家机构靠什么保护时间维度、靠什么把理念写进制度。\n",
                 f"- [Nomad Investment Partnership]({doc_url('institutions/nomad-investment-partnership')}): 为什么 Sleep 能拿亚马逊二十年。",
                 f"- [AKO Capital]({doc_url('institutions/ako-capital')}): 为什么 quality investing 只有在 specialist teams 和反馈闭环里才真正制度化。",
+                f"- [Maverick Capital]({doc_url('institutions/maverick-capital')}): 为什么 Tiger 学徒制会长成行业专家制和建设性 long/short。",
+                f"- [Lone Pine Capital]({doc_url('institutions/lone-pine-capital')}): 为什么变化驱动投资最终会变成组织与文化问题。",
                 f"- [Berkshire Hathaway]({doc_url('institutions/berkshire-hathaway')}): 为什么永久资本和保险 float 能形成独特制度优势。",
                 f"- [Oaktree Capital]({doc_url('institutions/oaktree-capital')}): 为什么备忘录不只是写作，而是组织知识资产。",
                 f"- [ARK Invest]({doc_url('institutions/ark-invest')}): 为什么公开市场也能被当成技术平台地图来下注。",
@@ -897,10 +923,15 @@ def compile_concepts():
         render_frontmatter("概念", "concepts", "跨人物阅读时，最容易反复出现的那几根骨架。"),
         "如果你不想先读人物，可以先读概念。概念页最适合当作跨投资人的公共词典。\n",
         f"- [护城河]({doc_url('concepts/moat')})",
+        f"- [质量模式]({doc_url('concepts/quality-patterns')})",
         f"- [能力圈]({doc_url('concepts/circle-of-competence')})",
         f"- [第二层思维]({doc_url('concepts/second-level-thinking')})",
         f"- [共享规模经济]({doc_url('concepts/scale-economies-shared')})",
+        f"- [经常性收入]({doc_url('concepts/recurring-revenues')})",
+        f"- [收费站型生意]({doc_url('concepts/toll-roads')})",
+        f"- [变化驱动投资]({doc_url('concepts/investing-behind-change')})",
         f"- [判断力]({doc_url('concepts/judgment')})",
+        f"- [企业文化]({doc_url('concepts/corporate-culture')})",
         f"- [空头视角]({doc_url('concepts/short-perspective')})",
         "\n## 全部概念\n",
     ]
@@ -909,18 +940,58 @@ def compile_concepts():
     write(DOCS_DIR / "concepts" / "index.md", "\n".join(index_lines))
 
 
+def count_answered_investors(body: str) -> int:
+    lines = body.splitlines()
+    count = 0
+    for i, line in enumerate(lines):
+        if not line.startswith("## [[investors/"):
+            continue
+        block: list[str] = []
+        for next_line in lines[i + 1:]:
+            if next_line.startswith("## [[investors/"):
+                break
+            block.append(next_line)
+        block_text = "\n".join(block)
+        if "当前语料未涉及，已有素材不足以产生有价值的答案。" not in block_text:
+            count += 1
+    return count
+
+
+def build_ten_questions_index() -> str:
+    denominator = len(INVESTOR_META)
+    stats: list[tuple[str, str, int]] = []
+    for src in sorted((WIKI_DIR / "ten-questions").glob("Q*.md")):
+        fm, body = parse_frontmatter(src.read_text(encoding="utf-8"))
+        title = fm.get("title", src.stem)
+        stats.append((src.stem, title, count_answered_investors(body)))
+
+    lines = [
+        render_frontmatter("投资十问", "ten-questions", "把同一个问题横向放到不同投资人身上读。"),
+        "# 投资十问\n",
+        f"这里不是人物传记层，而是把同一个问题横着放到不同投资人身上看。真正有价值的，不是某一个人的单独答案，而是同一个问题下，谁在什么地方给出了完全不同的回答。当前覆盖统计的口径已经扩到 `{denominator}`。\n",
+        "## 怎么读这页\n",
+        f"- 这里的 `x/{denominator}` 表示“当前有多少位核心投资人，在现有资料里能被有依据地回答这个问题”。",
+        "- 如果你想看边界与反例，优先读 `Q02 / Q09`。",
+        "- 如果你想看风险、路径和活下来，优先读 `Q05 / Q07 / Q08`。",
+        "- 如果你想看研究方法与世界观，优先读 `Q01 / Q03 / Q10`。\n",
+        "## 按最近提纯后的问题读\n",
+        f"- **边界从哪里来**: [Q2]({doc_url('ten-questions/q02')})，最适合接 Buffett / Duan / Ackman 这几条线，看 `不碰什么` 到底是所有者纪律、反能力圈，还是结构性排雷。",
+        f"- **风险是不是先于观点**: [Q5]({doc_url('ten-questions/q05')}) 与 [Q7]({doc_url('ten-questions/q07')})，最适合接 Howard / Druckenmiller / Ackman，看 `先活下来`、`路径正确`、`被迫卖出` 这些语言怎样分开。",
+        f"- **组合怎么体现方法**: [Q8]({doc_url('ten-questions/q08')})，最适合接 Ted / Todd / Tracy / Druckenmiller，看集中、sizing、结构约束和能力边界怎样真正落到仓位。",
+        f"- **错误暴露了什么**: [Q9]({doc_url('ten-questions/q09')})，最适合接 Terry / Tracy / Ackman / Anderson，看错误到底暴露的是管理层、资本结构、路径设计还是分布判断。\n",
+        "## 全部问题\n",
+    ]
+    for stem, title, answered in stats:
+        lines.append(f"- [{title}]({doc_url('ten-questions/' + question_slug(stem))}): {answered}/{denominator}")
+    return "\n".join(lines)
+
+
 
 def compile_ten_questions():
-    questions_dir = WIKI_DIR / "ten-questions"
-    index_src = questions_dir / "index.md"
-    _, body = parse_frontmatter(index_src.read_text(encoding="utf-8"))
     index_out = DOCS_DIR / "ten-questions" / "index.md"
-    write(
-        index_out,
-        render_frontmatter("投资十问", "ten-questions", "把同一个问题横向放到不同投资人身上读。")
-        + convert_wikilinks(body, index_out),
-    )
+    write(index_out, build_ten_questions_index())
 
+    questions_dir = WIKI_DIR / "ten-questions"
     for src in sorted(questions_dir.glob("*.md")):
         if src.name == "index.md":
             continue
@@ -1024,6 +1095,9 @@ def summarize_log_entry(entry: dict[str, str]) -> list[str]:
 
     if title.startswith("tangen-ako-pass |"):
         return ["新增 Nicolai / AKO 两篇关键材料，并补出 AKO Capital 机构页与坦根人物线。"]
+
+    if title.startswith("tiger-cubs-lee-stephen-pass |"):
+        return ["新增 Lee Ainslie / Stephen Mandel 四篇关键材料，并补出 Maverick / Lone Pine 两条 Tiger Cub 主线。"]
 
     if title.startswith("seed |"):
         return ["首批内容上线：建立人物页、公司页和来源索引。"]

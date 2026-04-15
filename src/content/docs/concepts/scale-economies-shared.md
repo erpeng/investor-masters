@@ -15,14 +15,17 @@ description: "共享规模经济 在这批资料 里的最佳入口。"
 
 [莫尼什·帕伯莱](/investor-masters/investors/monish-pabrai/) 在谈开市客时也给出了接近表达，但 Sleep 最特别的地方在于，他不是把它当成单一公司的优点，而是把它看成一种可复制的生意结构语言。也因此，这个概念和 [护城河](/investor-masters/concepts/moat/) 有关，却比护城河更动态: 它关注的是护城河如何被持续加深。
 
+[AKO Capital](/investor-masters/institutions/ako-capital/) 的一些质量模式，也可以自然并回这条线。像 `低价加成` 和 `市场份额提升`，本质上都在说同一件事：有些公司不是先榨干利润，而是通过更低价格、更高效率和更好的服务不断扩大份额，最后把优势越做越深。和 Sleep 相比，AKO 更少把它写成价值返还哲学，更多把它写成高质量公司持续给出正惊喜的一种经营模式。
+
 ## 相关概念
 
 - [护城河](/investor-masters/concepts/moat/)
+- [质量模式](/investor-masters/concepts/quality-patterns/)
 - [超级赢家](/investor-masters/concepts/super-winners/)
 - [开市客](/investor-masters/companies/costco/)
 - [亚马逊](/investor-masters/companies/amazon/)
 
 ## 主要来源
 
-- [一家低调的传奇机构，“黏住”亚马逊、开市客、伯克希尔大赚特赚](/investor-masters/sources/source-16/)
-- [莫尼什·帕伯莱：芒格会将简单的想法认真执行](/investor-masters/sources/source-42/)
+- [一家低调的传奇机构，“黏住”亚马逊、开市客、伯克希尔大赚特赚](/investor-masters/sources/source-20/)
+- [莫尼什·帕伯莱：芒格会将简单的想法认真执行](/investor-masters/sources/source-46/)

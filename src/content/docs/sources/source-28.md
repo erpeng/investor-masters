@@ -1,18 +1,18 @@
 ---
-title: "执掌1.3万亿美元的尼古拉·坦根最新对话，揭秘全球最大主权财富基金的运营与理念"
+title: "宏观判断主要来自公司经营本身！“对冲大神”德鲁肯米勒：机会大到一定程度时先参与再说，看好贝森特和沃什的“财政+货币”组合"
 slug: "sources/source-28"
-description: "高质量的投资很重要"
+description: "用更开放心态去看待AI带来的演变"
 ---
 
-**原文件名**: `执掌1.3万亿美元的尼古拉·坦根最新对话，揭秘全球最大主权财富基金的运营与理念.md`  
-**外部来源**: https://mp.weixin.qq.com/s?__biz=MzA4NTQ1MzEyNQ==&mid=2663487870&idx=1&sn=1846695e91bcf27d3f36e9081cbe80bc&scene=21&poc_token=HKUR2WmjxPQ_CzhXZZS1g9a55J0bOIxCA7QSK9ic
+**原文件名**: `宏观判断主要来自公司经营本身！“对冲大神”德鲁肯米勒：机会大到一定程度时先参与再说，看好贝森特和沃什的“财政+货币”组合.md`  
+**外部来源**: https://mp.weixin.qq.com/s/K1AN8LBbdFAiuP9gRoYUfQ
 
-**时间**: 2023年12月27日 15:00
+**时间**: 2026年4月9日 15:02
 
 ## 摘要
 
-高质量的投资很重要
+用更开放心态去看待AI带来的演变
 
 ## 节选
 
-尼古拉·坦根（Nicolai Tangen）是挪威央行投资管理公司（Norges Bank Investment Management）的首席执行官，负责管理运营全球最大的主权财富基金—— 规模1.3万亿美元的挪威主权财富基金 。
+传奇宏观投资人斯坦·德鲁肯米勒（Stanley Druckenmiller）友情出现在摩根士丹利《Hard Lessons》节目中，讲述了很多未曾公开的投资细节，包括自己犯的错以及近些年怎么做决策。

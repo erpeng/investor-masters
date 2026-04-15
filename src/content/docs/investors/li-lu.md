@@ -67,7 +67,7 @@ description: "把知识诚实、公司专才和长期所有者逻辑绑在一起
   >
   > “消费不足的第二个堵点就在于资本市场没有发挥它应该发挥的作用。”
   >
-  > ——来源：[2021年李录与格林沃尔德深度对话：我们想投资的是那些可以在巨大不确定性中泰然处之的公司……](/investor-masters/sources/source-05/)、[李录最新交流剖析新秩序：通过“四两拨千斤”，中国还可以释放很多改革红利……](/investor-masters/sources/source-36/)
+  > ——来源：[2021年李录与格林沃尔德深度对话：我们想投资的是那些可以在巨大不确定性中泰然处之的公司……](/investor-masters/sources/source-05/)、[李录最新交流剖析新秩序：通过“四两拨千斤”，中国还可以释放很多改革红利……](/investor-masters/sources/source-40/)
 
 - `在哪类问题上更兴奋、更具体`: 一谈真正优秀的企业家、一谈如何把公司研究到极深、一谈市场把价值和价格拉开时的机会，他就明显更具体。
 
@@ -75,7 +75,7 @@ description: "把知识诚实、公司专才和长期所有者逻辑绑在一起
   >
   > “这种企业家是在任何一个时代都是凤毛麟角，一旦发现之后要值得终身珍惜。”
   >
-  > ——来源：[2021年李录与格林沃尔德深度对话：我们想投资的是那些可以在巨大不确定性中泰然处之的公司……](/investor-masters/sources/source-05/)、[李录亲述：为什么能拿住比亚迪23年？](/investor-masters/sources/source-35/)
+  > ——来源：[2021年李录与格林沃尔德深度对话：我们想投资的是那些可以在巨大不确定性中泰然处之的公司……](/investor-masters/sources/source-05/)、[李录亲述：为什么能拿住比亚迪23年？](/investor-masters/sources/source-39/)
 
 - `怎么处理不确定性`: 不是靠假装知道更多，而是先把知道和不知道分开，再只在真正能承受巨大不确定性的公司上出手。
 
@@ -89,7 +89,7 @@ description: "把知识诚实、公司专才和长期所有者逻辑绑在一起
 
   > “犯了错误，从中学习，面对现实，然后永不言败，继续往前走，这是一个企业能够走下去根本的要求。”
   >
-  > ——来源：[李录亲述：为什么能拿住比亚迪23年？](/investor-masters/sources/source-35/)
+  > ——来源：[李录亲述：为什么能拿住比亚迪23年？](/investor-masters/sources/source-39/)
 
 - `怎么谈人`: 他最看重的不是明星气场，而是第一性思维、工程师式执行和受托人精神。
 
@@ -97,7 +97,7 @@ description: "把知识诚实、公司专才和长期所有者逻辑绑在一起
   >
   > “他对于商业的利益攸关者，始终抱有受托人的精神。”
   >
-  > ——来源：[李录亲述：为什么能拿住比亚迪23年？](/investor-masters/sources/source-35/)
+  > ——来源：[李录亲述：为什么能拿住比亚迪23年？](/investor-masters/sources/source-39/)
 
 - `怎么谈时间`: 时间在他这里不是拖延器，而是理解和价值兑现的必要条件。
 
@@ -105,7 +105,7 @@ description: "把知识诚实、公司专才和长期所有者逻辑绑在一起
   >
   > “这些股份都还在。”
   >
-  > ——来源：[2021年李录与格林沃尔德深度对话：我们想投资的是那些可以在巨大不确定性中泰然处之的公司……](/investor-masters/sources/source-05/)、[李录亲述：为什么能拿住比亚迪23年？](/investor-masters/sources/source-35/)
+  > ——来源：[2021年李录与格林沃尔德深度对话：我们想投资的是那些可以在巨大不确定性中泰然处之的公司……](/investor-masters/sources/source-05/)、[李录亲述：为什么能拿住比亚迪23年？](/investor-masters/sources/source-39/)
 
 - `先讲原则、案例还是边界`: 通常先讲原则和边界，再给案例；他非常明显地不想把讨论降格成“给个股票代码”。
 
@@ -142,9 +142,9 @@ description: "把知识诚实、公司专才和长期所有者逻辑绑在一起
 ## 主要来源
 
 - [2021年李录与格林沃尔德深度对话：我们想投资的是那些可以在巨大不确定性中泰然处之的公司……](/investor-masters/sources/source-05/)
-- [李录亲述：为什么能拿住比亚迪23年？](/investor-masters/sources/source-35/)
-- [李录最新交流剖析新秩序：通过“四两拨千斤”，中国还可以释放很多改革红利……](/investor-masters/sources/source-36/)
-- [比亚迪，巴菲特的例外，李录口中的“非卖品”](/investor-masters/sources/source-38/)
+- [李录亲述：为什么能拿住比亚迪23年？](/investor-masters/sources/source-39/)
+- [李录最新交流剖析新秩序：通过“四两拨千斤”，中国还可以释放很多改革红利……](/investor-masters/sources/source-40/)
+- [比亚迪，巴菲特的例外，李录口中的“非卖品”](/investor-masters/sources/source-42/)
 - [Himalaya Capital 官方简介](https://www.himcap.com/)
 - [Columbia News: Alexander Navab and Li Lu Elected to Columbia Board of Trustees](https://news.columbia.edu/node/1649)
 - [Li Lu - Wikipedia](https://en.wikipedia.org/wiki/Li_Lu)

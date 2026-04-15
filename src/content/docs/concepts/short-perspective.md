@@ -17,16 +17,24 @@ description: "空头视角 在这批资料 里的最佳入口。"
 
 [比尔·阿克曼](/investor-masters/investors/bill-ackman/) 则提醒这页的边界在哪里。方向判断、道德判断甚至事实判断都可能没错，但空头交易结构仍然会先把人打死。也就是说，空头视角本身可以提升研究质量，但这不等于空头工具天然适合长期资本。把这两件事分开，才不会把“反向审问的价值”和“实际做空的风险结构”混成一件事。
 
+[李·安斯利](/investor-masters/investors/lee-ainslie/) 与 [史蒂芬·曼德尔](/investor-masters/investors/stephen-mandel/) 则补上了 Tiger Cub 世界更制度化的一层。Lee 的版本提醒你，短仓不一定意味着和公司永久敌对，相反，空头有时反而是唯一“确定会回来买”的一类投资者；Stephen 的版本则进一步说明，今天通过做空稳定创造 alpha 已经比二十年前困难得多。因此，在他们这条线上，最值得保留的往往不是做空动作本身，而是空头研究带来的反向审问能力。
+
 ## 相关概念
 
 - [能力圈](/investor-masters/concepts/circle-of-competence/)
 - [判断力](/investor-masters/concepts/judgment/)
 - [反脆弱与仓位管理](/investor-masters/concepts/antifragility-and-position-sizing/)
+- [变化驱动投资](/investor-masters/concepts/investing-behind-change/)
 - [放弃做空 vs 保留空头脑](/investor-masters/dialogues/stop-shorting-vs-keep-a-short-mind/)
 - [托德·库姆斯](/investor-masters/investors/todd-combs/)
+- [李·安斯利](/investor-masters/investors/lee-ainslie/)
+- [史蒂芬·曼德尔](/investor-masters/investors/stephen-mandel/)
 - [Berkshire Hathaway](/investor-masters/institutions/berkshire-hathaway/)
 
 ## 主要来源
 
 - [2.5万字｜巴菲特投资接班人托德·库姆斯首度揭秘，如何获得这份梦想工作：有四个获取人生长期复利的要素，好奇心和毅力永远不嫌多](/investor-masters/sources/source-01/)
-- [“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-masters/sources/source-13/)
+- [“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-masters/sources/source-17/)
+- [McKinsey｜李·安斯利：走进 Maverick Capital，传统多空基金如何研究企业](/investor-masters/sources/source-15/)
+- [CFO｜李·安斯利：对冲不是目的，理解企业才是](/investor-masters/sources/source-09/)
+- [Colossus｜史蒂芬·曼德尔：顺着变化下注](/investor-masters/sources/source-11/)

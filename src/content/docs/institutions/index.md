@@ -7,6 +7,8 @@ description: "激励结构决定投资人能做什么，而不只是想做什么
 
 - [Nomad Investment Partnership](/investor-masters/institutions/nomad-investment-partnership/): 为什么 Sleep 能拿亚马逊二十年。
 - [AKO Capital](/investor-masters/institutions/ako-capital/): 为什么 quality investing 只有在 specialist teams 和反馈闭环里才真正制度化。
+- [Maverick Capital](/investor-masters/institutions/maverick-capital/): 为什么 Tiger 学徒制会长成行业专家制和建设性 long/short。
+- [Lone Pine Capital](/investor-masters/institutions/lone-pine-capital/): 为什么变化驱动投资最终会变成组织与文化问题。
 - [Berkshire Hathaway](/investor-masters/institutions/berkshire-hathaway/): 为什么永久资本和保险 float 能形成独特制度优势。
 - [Oaktree Capital](/investor-masters/institutions/oaktree-capital/): 为什么备忘录不只是写作，而是组织知识资产。
 - [ARK Invest](/investor-masters/institutions/ark-invest/): 为什么公开市场也能被当成技术平台地图来下注。
@@ -25,3 +27,5 @@ description: "激励结构决定投资人能做什么，而不只是想做什么
 - [Pershing Square](/investor-masters/institutions/pershing-square/)
 - [Fundsmith](/investor-masters/institutions/fundsmith/)
 - [Himalaya Capital](/investor-masters/institutions/himalaya-capital/)
+- [Lone Pine Capital](/investor-masters/institutions/lone-pine-capital/)
+- [Maverick Capital](/investor-masters/institutions/maverick-capital/)

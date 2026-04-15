@@ -47,7 +47,7 @@ Cathie Wood 在这批资料里代表的不是“传统成长股经理”，而�
 >
 > “要站在变化的一边。”
 >
-> ——来源：[要站在变化的一边！70岁“木头姐”兴奋盘点2026大机会：现在就是黄金时间](/investor-masters/sources/source-43/)
+> ——来源：[要站在变化的一边！70岁“木头姐”兴奋盘点2026大机会：现在就是黄金时间](/investor-masters/sources/source-47/)
 
 **形成的结论**
 
@@ -63,7 +63,7 @@ Cathie Wood 在这批资料里代表的不是“传统成长股经理”，而�
   >
   > “五个创新平台同时演进，并且正在加速融合：机器人、储能、人工智能、多重测序与区块链。”
   >
-  > ——来源：[要站在变化的一边！70岁“木头姐”兴奋盘点2026大机会：现在就是黄金时间](/investor-masters/sources/source-43/)
+  > ——来源：[要站在变化的一边！70岁“木头姐”兴奋盘点2026大机会：现在就是黄金时间](/investor-masters/sources/source-47/)
 
 - `怎么建立确信`: 她靠的不是单点验证，而是长镜头里的资本开支、生产率和平台收敛逻辑。
 
@@ -71,7 +71,7 @@ Cathie Wood 在这批资料里代表的不是“传统成长股经理”，而�
   >
   > “核心只有一个词：生产率。”
   >
-  > ——来源：[要站在变化的一边！70岁“木头姐”兴奋盘点2026大机会：现在就是黄金时间](/investor-masters/sources/source-43/)
+  > ——来源：[要站在变化的一边！70岁“木头姐”兴奋盘点2026大机会：现在就是黄金时间](/investor-masters/sources/source-47/)
 
 - `如何把主题落到公司`: 她不是平均撒网，而是偏好能承接平台级价值汇聚的资产。
 
@@ -79,13 +79,13 @@ Cathie Wood 在这批资料里代表的不是“传统成长股经理”，而�
   >
   > “我们现在认为 [特斯拉的] 成本结构会比Waymo低50%。”
   >
-  > ——来源：[要站在变化的一边！70岁“木头姐”兴奋盘点2026大机会：现在就是黄金时间](/investor-masters/sources/source-43/)
+  > ——来源：[要站在变化的一边！70岁“木头姐”兴奋盘点2026大机会：现在就是黄金时间](/investor-masters/sources/source-47/)
 
 - `最有辨识度的一句`: 她最核心的要求，是别站错变化的一边。
 
   > “要站在变化的一边。”
   >
-  > ——来源：[要站在变化的一边！70岁“木头姐”兴奋盘点2026大机会：现在就是黄金时间](/investor-masters/sources/source-43/)
+  > ——来源：[要站在变化的一边！70岁“木头姐”兴奋盘点2026大机会：现在就是黄金时间](/investor-masters/sources/source-47/)
 
 **画像判断**
 
@@ -121,6 +121,6 @@ Cathie Wood 在这批资料里代表的不是“传统成长股经理”，而�
 
 ## 主要来源
 
-- [要站在变化的一边！70岁“木头姐”兴奋盘点2026大机会：现在就是黄金时间](/investor-masters/sources/source-43/)
+- [要站在变化的一边！70岁“木头姐”兴奋盘点2026大机会：现在就是黄金时间](/investor-masters/sources/source-47/)
 - [Cathie Wood - Wikipedia](https://en.wikipedia.org/wiki/Cathie_Wood)
 - [Cathie Wood | ARK Invest](https://ark-invest.com/about/team/cathie-wood/)

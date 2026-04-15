@@ -1,17 +1,17 @@
 ---
-title: "J.P. Morgan｜AKO Capital：数据如何进入主观投资流程"
+title: "Colossus｜史蒂芬·曼德尔：顺着变化下注"
 slug: "sources/source-11"
-description: "帕特里克·哈格里夫斯解释 AKO 的质量投资框架、五个专业团队、行为语言分析、数据反馈闭环与大语言模型使用边界。"
+description: "史蒂芬·曼德尔谈投资行业如何变化、为什么做空更难、为什么仍要深入企业内部，以及 Lone Pine 如何围绕变化建立研究优势。"
 ---
 
-**原文件名**: `J.P. Morgan｜AKO Capital：数据如何进入主观投资流程.md`  
-**外部来源**: https://www.jpmorgan.com/insights/podcast-hub/market-matters/trading-insights-ako-capital
+**原文件名**: `Colossus｜史蒂芬·曼德尔：顺着变化下注.md`  
+**外部来源**: https://joincolossus.com/episode/mandel-investing-behind-change/
 
 
 ## 摘要
 
-帕特里克·哈格里夫斯解释 AKO 的质量投资框架、五个专业团队、行为语言分析、数据反馈闭环与大语言模型使用边界。
+史蒂芬·曼德尔谈投资行业如何变化、为什么做空更难、为什么仍要深入企业内部，以及 Lone Pine 如何围绕变化建立研究优势。
 
 ## 节选
 
-> 整理说明： > 本页依据 J.P. Morgan 页面公开逐字稿清理整理。 > 重点保留对 AKO 机构哲学、组织流程、研究工具与判断边界最有价值的内容，不追求逐字还原全部口语重复。
+> 整理说明： > 本页依据 Colossus 节目页、公开节目简介、可见 transcript 开头与公开 show notes 整理而成。 > 这不是官方完整逐字稿，但核心主题与判断均来自官方节目页和公开可核验摘要。

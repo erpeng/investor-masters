@@ -17,9 +17,12 @@ description: "超级赢家 在这批资料 里的最佳入口。"
 
 [凯茜·伍德](/investor-masters/investors/cathie-wood/) 和 [ARK Invest](/investor-masters/institutions/ark-invest/) 则把这件事又往前推了一步。她的超级赢家版本，不只是“少数公司特别厉害”，而是 `少数技术平台会先发生收敛，然后把赢家分布整体往平台提供者和关键承接者集中`。在她那里，真正值得下注的，不一定是已经被验证为赢家的公司，而是站在五个创新平台交汇点上的资产与生态位。也因此，Cathie 的世界观更像“平台级超级赢家”，而不是安德森那种更聚焦单个企业例外性的超级赢家。
 
+如果从 [AKO Capital](/investor-masters/institutions/ako-capital/) 的角度看，`创新主导` 也会接近这页，但它的语气不同。AKO 不会像安德森那样把创新直接推成极端分布押注，而更像把创新当成高质量企业维持高回报和持续给出正惊喜的一种来源。也就是说，同样看创新，安德森更像在找例外赢家，AKO 更像在确认质量公司为何还能继续强下去。
+
 ## 相关概念
 
 - [共享规模经济](/investor-masters/concepts/scale-economies-shared/)
+- [质量模式](/investor-masters/concepts/quality-patterns/)
 - [时间套利](/investor-masters/concepts/time-arbitrage/)
 - [ARK Invest](/investor-masters/institutions/ark-invest/)
 - [特斯拉](/investor-masters/companies/tesla/)
@@ -29,7 +32,7 @@ description: "超级赢家 在这批资料 里的最佳入口。"
 
 ## 主要来源
 
-- [如何看待高成长与经典价值？柏基“传奇基金经理”詹姆斯·安德森2019年深度撰文](/investor-masters/sources/source-23/)
+- [如何看待高成长与经典价值？柏基“传奇基金经理”詹姆斯·安德森2019年深度撰文](/investor-masters/sources/source-27/)
 - [2.5万字｜柏基“传奇基金经理”安德森的罕见深访：伟大公司各有各的独特，平庸公司却都差不多……](/investor-masters/sources/source-02/)
-- [近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-masters/sources/source-45/)
-- [要站在变化的一边！70岁“木头姐”兴奋盘点2026大机会：现在就是黄金时间](/investor-masters/sources/source-43/)
+- [近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-masters/sources/source-49/)
+- [要站在变化的一边！70岁“木头姐”兴奋盘点2026大机会：现在就是黄金时间](/investor-masters/sources/source-47/)

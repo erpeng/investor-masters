@@ -13,7 +13,7 @@ AKO Capital 值得单独读，不是因为它曾是尼科莱·坦根创办的欧
 
 AKO 的机构哲学，可以压成一句话：`只和少数真正能长期维持超额资本回报率的高质量企业站在一起，并尽量把持有期拉到让盈利复利真正兑现的时间尺度。` 帕特里克·哈格里夫斯在 J.P. Morgan 的访谈里把这条线说得很清楚：AKO 是一家 `自下而上做质量投资的基金`，所谓质量，不是简单的 ROIC 排名，而是公司能否在多年里 `创造并维持显著高于常态的投入资本回报率`。
 
-它默认世界不是“股票每天波动，所以我们要天天反应”，而是：短期股价主要受估值拉扯，真正可持续的超额收益更多来自长期盈利复利。也因此，AKO 明确把研究重心放在两个层面。第一层是 `行业结构`，偏好稳定双寡头、稳定寡头或具备 `小型垄断` 特征的行业。第二层是他们所谓的 `质量模式`。这套框架在 AKO 的方法里非常关键，因为它说明质量不是一句泛泛的“好公司”，而是一组可识别、可交叉验证的模式，比如定价权、可信中介、结构性护城河和可持续的高回报率。
+它默认世界不是“股票每天波动，所以我们要天天反应”，而是：短期股价主要受估值拉扯，真正可持续的超额收益更多来自长期盈利复利。也因此，AKO 明确把研究重心放在两个层面。第一层是 `行业结构`，偏好稳定双寡头、稳定寡头或具备 `小型垄断` 特征的行业。第二层是他们所谓的 [质量模式](/investor-masters/concepts/quality-patterns/)。这套框架在 AKO 的方法里非常关键，因为它说明质量不是一句泛泛的“好公司”，而是一组可识别、可交叉验证的模式，比如 [经常性收入](/investor-masters/concepts/recurring-revenues/)、[友好中介](/investor-masters/concepts/friendly-middlemen/)、[收费站型生意](/investor-masters/concepts/toll-roads/)、[企业文化](/investor-masters/concepts/corporate-culture/)，以及最终仍要并回 [护城河](/investor-masters/concepts/moat/) 的定价权、品牌强度和复制成本。
 
 这家机构最值得写的一点，是它并不把质量投资讲成静态好学生叙事。恰恰相反，AKO 的语言非常动态：好公司不是因为报表漂亮，而是因为它们更容易不断给出正向惊喜，在差环境里还能靠收购、份额提升或经营纪律继续变强。换句话说，AKO 不是在买“高分公司”，而是在买一套会长期产出正惊喜的经营分布。
 
@@ -34,8 +34,8 @@ AKO 的文化骨架，可以直接从尼科莱在《Capital Allocators》里的�
 
 ## 标志性公开材料
 
-- [Capital Allocators｜尼科莱·坦根：掌管全球最大主权财富基金](/investor-masters/sources/source-09/)：最能看到 AKO 是怎么从学徒制、深度研究和多空风险语言里长出来的。
-- [J.P. Morgan｜AKO Capital：数据如何进入主观投资流程](/investor-masters/sources/source-11/)：目前理解 AKO 机构流程最重要的一篇，一次性把质量框架、五支专业团队、反馈闭环和大语言模型边界全讲清楚了。
+- [Capital Allocators｜尼科莱·坦根：掌管全球最大主权财富基金](/investor-masters/sources/source-10/)：最能看到 AKO 是怎么从学徒制、深度研究和多空风险语言里长出来的。
+- [J.P. Morgan｜AKO Capital：数据如何进入主观投资流程](/investor-masters/sources/source-13/)：目前理解 AKO 机构流程最重要的一篇，一次性把质量框架、五支专业团队、反馈闭环和大语言模型边界全讲清楚了。
 - [AKO 官网首页](https://www.akocapital.com/)：官方对“耐心、长期、负责任的投资者”的最简表达。
 - [AKO About Us](https://www.akocapital.com/about-us/)：官方对规模、产品与合伙制属性的简介。
 - [AKO Business Principles](https://www.akocapital.com/business-principles/)：机构如何看待责任投资、客户、团队与长期主义的正式表达。
@@ -109,7 +109,7 @@ AKO 的文化骨架，可以直接从尼科莱在《Capital Allocators》里的�
 - 显著减仓：FLTR.L Flutter Entertainment（-1.1 个百分点）、MSFT Microsoft（-0.4 个百分点）、V Visa（持平偏降）
 - 过去一年最稳定的核心：FLTR.L Flutter Entertainment、ALC.SW Alcon、V Visa、MSFT Microsoft、MCO Moody's、ICE Intercontinental Exchange
 
-这组持仓最能说明 AKO 的，不是某一只股票，而是组合气味非常统一：支付网络、评级与金融基础设施、软件平台、强品牌、寡头工业和高粘性医疗器械反复出现。也就是说，13F 至少没有背离它在访谈里宣称的 `质量模式`。
+这组持仓最能说明 AKO 的，不是某一只股票，而是组合气味非常统一：支付网络、评级与金融基础设施、软件平台、强品牌、寡头工业和高粘性医疗器械反复出现。也就是说，13F 至少没有背离它在访谈里宣称的 [质量模式](/investor-masters/concepts/quality-patterns/)。
 
 ### 数据来源
 
@@ -127,8 +127,8 @@ AKO 的传承值得读，因为它恰好卡在两种机构之间。它不像 Fun
 
 ## 主要来源
 
-- [Capital Allocators｜尼科莱·坦根：掌管全球最大主权财富基金](/investor-masters/sources/source-09/)
-- [J.P. Morgan｜AKO Capital：数据如何进入主观投资流程](/investor-masters/sources/source-11/)
+- [Capital Allocators｜尼科莱·坦根：掌管全球最大主权财富基金](/investor-masters/sources/source-10/)
+- [J.P. Morgan｜AKO Capital：数据如何进入主观投资流程](/investor-masters/sources/source-13/)
 - [AKO 官网首页](https://www.akocapital.com/)
 - [AKO About Us](https://www.akocapital.com/about-us/)
 - [AKO Business Principles](https://www.akocapital.com/business-principles/)
