@@ -146,6 +146,10 @@ body.hide-right-sidebar .main-pane {
 }
 
 @media (min-width: 72rem) {
+  html[data-has-sidebar][data-has-toc] .content-panel .sl-container {
+    margin-inline: auto !important;
+  }
+
   body.hide-left-sidebar .main-frame {
     padding-inline-start: 0 !important;
   }
