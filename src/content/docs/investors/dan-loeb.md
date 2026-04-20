@@ -8,6 +8,7 @@ description: "把事件驱动、催化剂与跨资本结构配置绑成一台组
 > 把事件驱动、催化剂与跨资本结构配置绑成一台组合机器的人。
 
 **所属机构**: [Third Point](/investor-masters/institutions/third-point/)  
+**年化收益率**: 约 13.0%（[Third Point 官方月报](https://assets.thirdpointlimited.com/f/166217/x/cafeb5e071/2023-04-april-monthly-report-tpil.pdf)）  
 **代表性持仓**: 事件驱动权益、信用机会、主动推动仓位  
 **核心方法**: 事件驱动 / 催化剂 / 跨资本结构
 

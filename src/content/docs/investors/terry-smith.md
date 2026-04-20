@@ -10,6 +10,7 @@ description: "相信挑对公司之后几乎不需要再做什么的人。"
 > “经济现实是关键。”
 
 **所属机构**: [Fundsmith](/investor-masters/institutions/fundsmith/)  
+**年化收益率**: 约 13.5%（[Fundsmith 官方 factsheet](https://www.fundsmith.co.uk/factsheet/)）  
 **代表性持仓**: 微软、诺和诺德  
 **核心方法**: 高质量复利 / 少犯错 / 长期持有
 

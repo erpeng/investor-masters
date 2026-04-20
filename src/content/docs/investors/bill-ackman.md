@@ -10,6 +10,7 @@ description: "把投资做成公开战役的人。"
 > “我们要寻找的是那些不会轻易被颠覆的企业，那种你闭上眼睛、哪怕股市十年不开门，也能确信它十年后会变得更有价值、更赚钱的公司。”
 
 **所属机构**: Pershing Square  
+**年化收益率**: 约 16.2%（[PSH 2025 年报](https://assets.pershingsquareholdings.com/wp-content/uploads/2026/02/18175039/Pershing-Square-Holdings-Ltd.-2025-Annual-Report.pdf)）  
 **代表性持仓**: 集中持仓、事件驱动  
 **核心方法**: 催化剂 / 主动所有者 / 战役型投资
 

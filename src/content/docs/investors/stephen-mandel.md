@@ -8,6 +8,7 @@ description: "围绕关键变化下注、同时坚持深企业研究的人。"
 > 围绕关键变化下注、同时坚持深企业研究的人。
 
 **所属机构**: [Lone Pine Capital](/investor-masters/institutions/lone-pine-capital/)  
+**年化收益率**: 未公开  
 **代表性持仓**: 高质量成长、结构变化受益者  
 **核心方法**: 变化驱动投资 / 深企业研究 / 组织传承
 

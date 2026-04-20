@@ -10,6 +10,7 @@ description: "把经营接口和资本配置接口接在一起的伯克希尔继
 > “我们始终看的，是伯克希尔旗下每一家公司的经济前景，而且是从长期角度去看。”
 
 **所属机构**: [Berkshire Hathaway](/investor-masters/institutions/berkshire-hathaway/)  
+**年化收益率**: 未公开  
 **代表性持仓**: 伯克希尔、Kraft Heinz  
 **核心方法**: 资本桶排序 / owner alignment / 经营现实
 

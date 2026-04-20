@@ -10,6 +10,7 @@ description: "把一级市场技术地图搬进二级市场组合的人。"
 > “AI仍处在非常早期的阶段，它还有很长的路要走。”
 
 **所属机构**: [ARK Invest](/investor-masters/institutions/ark-invest/)  
+**年化收益率**: 未公开  
 **代表性持仓**: Tesla、SpaceX、Palantir  
 **核心方法**: 平台收敛 / 生产率跃迁 / 公开市场风投
 

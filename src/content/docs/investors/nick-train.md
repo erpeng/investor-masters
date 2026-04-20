@@ -8,6 +8,7 @@ description: "把极低换手、能力圈边界和长期特许经营持有推到
 > 把极低换手、能力圈边界和长期特许经营持有推到极致的人。
 
 **所属机构**: [Lindsell Train](/investor-masters/institutions/lindsell-train/)  
+**年化收益率**: 约 10.5%（[Finsbury 官方 factsheet](https://www.finsburygt.com/download_file/force/326/1)）  
 **代表性持仓**: 帝亚吉欧、伦敦证券交易所集团、RELX  
 **核心方法**: 慢买入、长持有 / 高质量特许经营 / 低换手
 

@@ -10,6 +10,7 @@ description: "把投资变成企业所有者游戏的人。"
 > “我每天早上翻《华尔街日报》的C版，就像在看一份巨大的企业经纪广告……”
 
 **所属机构**: [Berkshire Hathaway](/investor-masters/institutions/berkshire-hathaway/)  
+**年化收益率**: 未公开  
 **代表性持仓**: 可口可乐、美国运通  
 **核心方法**: 企业所有者 / 护城河 / 资本配置
 

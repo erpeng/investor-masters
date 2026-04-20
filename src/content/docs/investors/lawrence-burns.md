@@ -10,6 +10,7 @@ description: "沿着整条技术价值链去布局成长资产的人。"
 > “在 AI 这个主题里，我们的布局是沿着整条价值链展开的。”
 
 **所属机构**: [Baillie Gifford](/investor-masters/institutions/baillie-gifford/)  
+**年化收益率**: 未公开  
 **代表性持仓**: SpaceX、MiniMax  
 **核心方法**: 价值链布局 / AI / 未上市成长
 

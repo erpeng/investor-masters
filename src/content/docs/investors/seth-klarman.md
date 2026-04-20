@@ -8,6 +8,7 @@ description: "把高现金、逆向纪律与耐心资本写成机构宪法的人
 > 把高现金、逆向纪律与耐心资本写成机构宪法的人。
 
 **所属机构**: [Baupost Group](/investor-masters/institutions/baupost-group/)  
+**年化收益率**: 约 19.0%（[Bloomberg 人物报道](https://www.bloomberg.com/news/articles/2010-06-17/the-financial-life-seth-klarman)）  
 **代表性持仓**: 高现金、跨资产错价、危机便宜货  
 **核心方法**: 风险优先 / 耐心资本 / 跨资产价值投资
 

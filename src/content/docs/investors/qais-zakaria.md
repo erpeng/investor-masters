@@ -10,6 +10,7 @@ description: "与 Sleep 一起把漫长而简单的游戏做成实验的人。"
 > “斯利普和扎卡里亚玩的是‘漫长而简单的游戏’，他们购买自己深入研究过的股票，然后长期持有。”
 
 **所属机构**: [Nomad Investment Partnership](/investor-masters/institutions/nomad-investment-partnership/)  
+**年化收益率**: 未公开  
 **代表性持仓**: Amazon、Costco  
 **核心方法**: 长期集中 / 自我约束 / 共享规模经济
 

@@ -10,6 +10,7 @@ description: "用多学科框架压缩复杂世界的人。"
 > “如果你愿意自己在脑子里做这件事，去连接、去组合不同领域的知识，你就进入了一个几乎没人走的赛道。”
 
 **所属机构**: [Berkshire Hathaway](/investor-masters/institutions/berkshire-hathaway/)  
+**年化收益率**: 未公开  
 **代表性持仓**: 伯克希尔、好企业筛选  
 **核心方法**: 多学科 / 反愚蠢 / 高质量企业
 

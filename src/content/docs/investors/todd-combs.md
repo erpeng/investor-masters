@@ -10,6 +10,7 @@ description: "把复杂商业问题压缩成可执行单元的人。"
 > “按自己的方式去拼图，要从外向内，而不是从内向外。”
 
 **所属机构**: [Berkshire Hathaway](/investor-masters/institutions/berkshire-hathaway/)  
+**年化收益率**: 未公开  
 **代表性持仓**: GEICO、伯克希尔资金池  
 **核心方法**: 简化 / 单店经济学 / 资本配置
 

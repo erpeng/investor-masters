@@ -10,6 +10,7 @@ description: "把知识诚实、公司专才和长期所有者逻辑绑在一起
 > “有一点对于我们而言一直是非常重要的，就是‘对知识的诚实’。”
 
 **所属机构**: [Himalaya Capital](/investor-masters/institutions/himalaya-capital/)  
+**年化收益率**: 未公开  
 **代表性持仓**: 比亚迪、长期所有权  
 **核心方法**: 知识诚实 / 专才研究 / 长持 / 制度红利
 

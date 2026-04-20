@@ -8,6 +8,7 @@ description: "把反动量、会计审问与多空结构写进机构语言的人
 > 把反动量、会计审问与多空结构写进机构语言的人。
 
 **所属机构**: [Greenlight Capital](/investor-masters/institutions/greenlight-capital/)  
+**年化收益率**: 未公开  
 **代表性持仓**: 分拆错价、结构性空头、黄金对冲  
 **核心方法**: 反动量 / 透明度审问 / 法证式多空
 
@@ -25,7 +26,7 @@ description: "把反动量、会计审问与多空结构写进机构语言的人
 >
 > ——来源：[Colossus｜大卫·艾因霍恩：长短仓、反动量与价值投资](/investor-masters/sources/source-15/)
 
-> 验证卡：公开流传的 Greenlight `2025` 年四季度信写得很明确：自 `1996` 年 `5` 月成立以来，Greenlight Partnerships 累计回报约 `3406%`，折算年化约 `12.7%`，均为扣费后。这个数字比早年巅峰低，但仍能说明这不是“只靠几次 famous short”成立的人。依据：[H优势来源 Fund Alpha 转载的 Greenlight 2025 letter](https://h优势来源fund阿尔法收益.com/investor-letters/david-einhorn-greenlight-capital-q4-2025-letter/)。
+> 验证卡：Greenlight 的长期成绩与艾因霍恩的地位毋庸置疑，但当前公开可稳定访问、且足够权威的一手口径，并不足以让我在这里负责任地把其全阶段净年化收益率钉成一个确定数字。此前流传的 `12.7%` 更接近二手转引口径，因此这里保守写作 `未公开`。更重要的事实仍然成立：这不是只靠几次 famous short 撑起来的人，而是一整套反动量、会计审问与多空结构的长期实践者。
 
 ## 来时路
 

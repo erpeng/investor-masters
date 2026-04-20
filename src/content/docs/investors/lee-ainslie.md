@@ -8,6 +8,7 @@ description: "把老虎基金学徒制压成行业专家制的人。"
 > 把老虎基金学徒制压成行业专家制的人。
 
 **所属机构**: [Maverick Capital](/investor-masters/institutions/maverick-capital/)  
+**年化收益率**: 未公开  
 **代表性持仓**: 行业多空、管理层研究  
 **核心方法**: 行业专家制 / 长短仓 / 资本配置判断
 
@@ -25,7 +26,7 @@ description: "把老虎基金学徒制压成行业专家制的人。"
 >
 > ——来源：[McKinsey｜李·安斯利：走进 Maverick Capital，传统多空基金如何研究企业](/investor-masters/sources/source-21/)
 
-> 验证卡：公开二手权威资料普遍记载，Maverick Capital 在 `1995-2014` 年间复合年回报约 `13%`，可视作这段时期大致 `13%` 的年化回报率。这个数字未必像 Tiger 或 Citadel 那样耀眼，但它和安斯利的方法完全一致：少而深、长期多空、靠行业内部胜负差赚钱。依据：[Maverick Capital - Wikipedia](https://en.wikipedia.org/wiki/Maverick_Capital)。
+> 验证卡：现有公开资料能够确认 Maverick 长期是极具代表性的 老虎幼崽 机构，但没有找到足够硬的官方或权威机构口径，能把李·安斯利个人或 Maverick 全阶段年化收益率稳定地钉住。因此这里对年化回报保守写作 `未公开`，不拿二手整理数字硬充。更稳妥的判断仍应回到他的机构类型学位置：少而深、长期多空、靠行业内部胜负差赚钱。
 
 ## 来时路
 

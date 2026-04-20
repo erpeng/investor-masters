@@ -680,7 +680,16 @@ PAGE_LINKS, PAGE_TITLES = build_link_maps()
 SOURCE_LINKS, RAW_FILES = build_source_maps()
 
 
-WIKILINK_RE = re.compile(r"\[\[([^\]|]+)(?:\|([^\]]+))?\]\]")
+WIKILINK_RE = re.compile(r"\[\[([^\]\\|]+)(?:\\?\|([^\]]+))?\]\]")
+
+INVESTOR_ANNUALIZED_RETURNS = {
+    "尼克·特雷恩": "约 10.5%（[Finsbury 官方 factsheet](https://www.finsburygt.com/download_file/force/326/1)）",
+    "特里·史密斯": "约 13.5%（[Fundsmith 官方 factsheet](https://www.fundsmith.co.uk/factsheet/)）",
+    "比尔·阿克曼": "约 16.2%（[PSH 2025 年报](https://assets.pershingsquareholdings.com/wp-content/uploads/2026/02/18175039/Pershing-Square-Holdings-Ltd.-2025-Annual-Report.pdf)）",
+    "丹·勒布": "约 13.0%（[Third Point 官方月报](https://assets.thirdpointlimited.com/f/166217/x/cafeb5e071/2023-04-april-monthly-report-tpil.pdf)）",
+    "塞思·卡拉曼": "约 19.0%（[Bloomberg 人物报道](https://www.bloomberg.com/news/articles/2010-06-17/the-financial-life-seth-klarman)）",
+    "肯·格里芬": "约 19.2%（[CNBC 报道](https://www.cnbc.com/2025/07/01/billionaire-ken-griffins-hedge-funds-at-citadel-are-all-in-the-green-for-2025.html)）",
+}
 
 
 def convert_wikilinks(text: str, current_output: Path) -> str:
@@ -803,6 +812,7 @@ def compile_investors():
         source_path = WIKI_DIR / "investors" / f"{name}.md"
         fm, body = parse_frontmatter(source_path.read_text(encoding="utf-8"))
         sections = parse_sections(body)
+        annualized = INVESTOR_ANNUALIZED_RETURNS.get(name, "未公开")
         institution_name, institution_path = meta["institution"]
         if institution_path:
             institution_md = f"[{institution_name}]({doc_url(institution_path)})"
@@ -821,6 +831,7 @@ def compile_investors():
             f"> {meta['tagline']}\n",
             f"> {quote}\n" if quote else "",
             f"**所属机构**: {institution_md}  ",
+            f"**年化收益率**: {annualized}  ",
             f"**代表性持仓**: {meta['holdings']}  ",
             f"**核心方法**: {meta['methods']}\n",
             "## 简介\n",
@@ -848,6 +859,10 @@ def compile_investors():
         ]
         write(output, "\n".join([p for p in pieces if p]))
 
+    matrix_src = WIKI_DIR / "investors" / "比较矩阵.md"
+    _, matrix_body = parse_frontmatter(matrix_src.read_text(encoding="utf-8"))
+    matrix_body_for_index = re.sub(r"^\s*# .+\n+", "", matrix_body, count=1).strip()
+
     index_output = DOCS_DIR / "investors" / "index.md"
     lines = [
         render_frontmatter("投资人", "investors", "从人物、约束和边界切入理解不同投资方法。"),
@@ -860,22 +875,15 @@ def compile_investors():
         f"- **新增材料重点**: [尼克·特雷恩]({doc_url('investors/nick-train')})、[丹·勒布]({doc_url('investors/dan-loeb')})、[肯·格里芬]({doc_url('investors/ken-griffin')})",
         f"- **最不寻常的思维**: [尼克·斯利普]({doc_url('investors/nick-sleep')})、[尼科莱·坦根]({doc_url('investors/nicolai-tangen')})、[纳瓦尔·拉维坎特]({doc_url('investors/naval-ravikant')})\n",
         "## 比较视图\n",
-        f"- [投资人比较矩阵]({doc_url('investors/comparison-matrix')})",
         f"- [投资十问]({doc_url('ten-questions/index')})\n",
+        "## 投资人比较矩阵\n",
+        convert_wikilinks(matrix_body_for_index, index_output),
+        "\n",
         "## 全部投资人\n",
     ]
     for name, meta in INVESTOR_META.items():
         lines.append(f"- [{name}]({doc_url('investors/' + meta['slug'])})")
     write(index_output, "\n".join(lines))
-
-    matrix_src = WIKI_DIR / "investors" / "比较矩阵.md"
-    _, matrix_body = parse_frontmatter(matrix_src.read_text(encoding="utf-8"))
-    write(
-        DOCS_DIR / "investors" / "comparison-matrix.md",
-        render_frontmatter("投资人比较矩阵", "investors/comparison-matrix", "把不同方法放在同一张表里看。")
-        + convert_wikilinks(matrix_body, DOCS_DIR / "investors" / "comparison-matrix.md"),
-    )
-
 
 def compile_companies():
     company_names = all_company_names()
@@ -1433,7 +1441,7 @@ def compile_home():
         filtered_lead_lines.append(line)
     lead_text = "\n".join(filtered_lead_lines).strip()
     home = render_frontmatter(
-        "Investors Wiki",
+        "投资大师系列",
         "",
         "把分散的投资访谈、合伙人信和机构材料，编译成一个可以持续更新的外部阅读入口。",
     ) + "\n".join(

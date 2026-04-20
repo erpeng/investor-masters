@@ -22,3 +22,168 @@
 .sl-markdown-content ul li + li {
   margin-top: 0.45rem;
 }
+
+.sl-markdown-content table {
+  display: block;
+  width: max-content;
+  min-width: 100%;
+  max-width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  font-size: clamp(0.76rem, 0.22vw + 0.72rem, 0.94rem);
+}
+
+.sl-markdown-content table th,
+.sl-markdown-content table td {
+  vertical-align: top;
+  line-height: 1.55;
+  word-break: keep-all;
+  overflow-wrap: normal;
+}
+
+.sl-markdown-content table th:first-child,
+.sl-markdown-content table td:first-child {
+  min-width: 7.5rem;
+  white-space: nowrap;
+}
+
+.sl-markdown-content table th:nth-child(2),
+.sl-markdown-content table td:nth-child(2),
+.sl-markdown-content table th:nth-child(3),
+.sl-markdown-content table td:nth-child(3),
+.sl-markdown-content table th:nth-child(4),
+.sl-markdown-content table td:nth-child(4),
+.sl-markdown-content table th:nth-child(5),
+.sl-markdown-content table td:nth-child(5),
+.sl-markdown-content table th:nth-child(6),
+.sl-markdown-content table td:nth-child(6) {
+  min-width: 10.5rem;
+  white-space: nowrap;
+}
+
+.sl-markdown-content table th:nth-child(7),
+.sl-markdown-content table td:nth-child(7) {
+  min-width: 12rem;
+  white-space: nowrap;
+}
+
+.sl-markdown-content table th:nth-child(8),
+.sl-markdown-content table td:nth-child(8) {
+  min-width: 15rem;
+  white-space: nowrap;
+}
+
+.sl-markdown-content table th:last-child,
+.sl-markdown-content table td:last-child {
+  min-width: 18rem;
+  white-space: normal;
+  word-break: break-word;
+}
+
+@media (max-width: 720px) {
+  .sl-markdown-content table {
+    font-size: 0.78rem;
+  }
+
+  .sl-markdown-content table th:nth-child(2),
+  .sl-markdown-content table td:nth-child(2),
+  .sl-markdown-content table th:nth-child(3),
+  .sl-markdown-content table td:nth-child(3),
+  .sl-markdown-content table th:nth-child(4),
+  .sl-markdown-content table td:nth-child(4),
+  .sl-markdown-content table th:nth-child(5),
+  .sl-markdown-content table td:nth-child(5),
+  .sl-markdown-content table th:nth-child(6),
+  .sl-markdown-content table td:nth-child(6) {
+    min-width: 9rem;
+  }
+
+  .sl-markdown-content table th:last-child,
+  .sl-markdown-content table td:last-child {
+    min-width: 14rem;
+  }
+}
+
+.sidebar-toggle-bar {
+  position: fixed;
+  right: 1rem;
+  bottom: 1rem;
+  z-index: 40;
+  display: flex;
+  gap: 0.5rem;
+}
+
+.sidebar-toggle-btn {
+  border: 1px solid color-mix(in srgb, var(--sl-color-accent) 30%, black);
+  background: color-mix(in srgb, var(--sl-color-bg) 90%, var(--sl-color-accent) 10%);
+  color: var(--sl-color-white);
+  border-radius: 999px;
+  padding: 0.5rem 0.85rem;
+  font-size: 0.78rem;
+  line-height: 1;
+  cursor: pointer;
+  box-shadow: 0 10px 30px rgb(0 0 0 / 0.18);
+}
+
+.sidebar-toggle-btn.is-active {
+  background: var(--sl-color-accent);
+  border-color: var(--sl-color-accent);
+}
+
+body.hide-left-sidebar #starlight__sidebar {
+  display: none !important;
+}
+
+body.hide-right-sidebar .right-sidebar-container {
+  display: none !important;
+}
+
+body.hide-left-sidebar .main-pane,
+body.hide-right-sidebar .main-pane {
+  flex: 1 1 auto;
+  max-width: none;
+  width: 100%;
+}
+
+@media (min-width: 72rem) {
+  body.hide-left-sidebar .main-frame {
+    padding-inline-start: 0 !important;
+  }
+
+  body.hide-right-sidebar[data-has-sidebar][data-has-toc] .main-pane,
+  body.hide-left-sidebar[data-has-sidebar][data-has-toc] .main-pane,
+  body.hide-left-sidebar.hide-right-sidebar[data-has-sidebar][data-has-toc] .main-pane {
+    width: 100% !important;
+    --sl-content-margin-inline: auto !important;
+  }
+
+  body.hide-right-sidebar .content-panel .sl-container,
+  body.hide-left-sidebar .content-panel .sl-container,
+  body.hide-left-sidebar.hide-right-sidebar .content-panel .sl-container {
+    margin-inline: auto !important;
+  }
+
+  body.hide-left-sidebar,
+  body.hide-right-sidebar {
+    --sl-content-width: min(90vw, 88rem);
+  }
+
+  body.hide-left-sidebar.hide-right-sidebar {
+    --sl-content-width: min(94vw, 112rem);
+  }
+
+  body.hide-left-sidebar .content-panel,
+  body.hide-right-sidebar .content-panel {
+    padding-inline: clamp(1rem, 2vw, 1.5rem);
+  }
+
+  body.hide-left-sidebar.hide-right-sidebar .content-panel {
+    padding-inline: clamp(0.75rem, 1.5vw, 1.25rem);
+  }
+}
+
+@media (max-width: 50em) {
+  .sidebar-toggle-bar {
+    display: none;
+  }
+}

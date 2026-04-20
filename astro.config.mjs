@@ -6,9 +6,12 @@ export default defineConfig({
   base: '/investor-masters',
   integrations: [
     starlight({
-      title: 'Investors Wiki',
+      title: '投资大师系列',
       description: '把分散的投资访谈、备忘录和机构材料，编译成一个可以持续更新的静态知识库。',
       customCss: ['./src/styles/custom.css'],
+      components: {
+        Head: './src/components/CustomHead.astro'
+      },
       social: [
         {
           icon: 'github',

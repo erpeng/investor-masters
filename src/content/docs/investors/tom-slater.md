@@ -10,6 +10,7 @@ description: "把安德森式成长哲学继续执行下去的人。"
 > “我们真正想做的，是找到少数几家真正卓越的企业。”
 
 **所属机构**: [Baillie Gifford](/investor-masters/institutions/baillie-gifford/)  
+**年化收益率**: 未公开  
 **代表性持仓**: SpaceX、软件资产  
 **核心方法**: 成长分布 / 长持 / 约束迁移
 

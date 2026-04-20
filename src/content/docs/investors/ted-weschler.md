@@ -10,6 +10,7 @@ description: "低调但长期业绩极扎实的伯克希尔传承者。"
 > “我从 1979 年开始读巴菲特写的东西，读着读着就觉得: 哇，他说的话非常清晰，而且很有道理。”
 
 **所属机构**: [Berkshire Hathaway](/investor-masters/institutions/berkshire-hathaway/)  
+**年化收益率**: 未公开  
 **代表性持仓**: Peninsula、伯克希尔证券投资  
 **核心方法**: 长期关系 / 清晰判断 / 低噪音
 

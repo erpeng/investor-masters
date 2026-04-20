@@ -10,6 +10,7 @@ description: "把风险语言写得比大多数人更清楚的人。"
 > “第一，风险控制。”
 
 **所属机构**: [Oaktree Capital](/investor-masters/institutions/oaktree-capital/)  
+**年化收益率**: 未公开  
 **代表性持仓**: 信贷、困境资产  
 **核心方法**: 周期 / 赔率 / 风险控制
 

@@ -10,6 +10,7 @@ description: "愿意为超级赢家承担长时间误解的人。"
 > “成功投资的秘密在于理解变化，理解变化如何发生，发生了多少，以及它的长期含义。”
 
 **所属机构**: [Baillie Gifford](/investor-masters/institutions/baillie-gifford/)  
+**年化收益率**: 未公开  
 **代表性持仓**: Tesla、Amazon  
 **核心方法**: 超级赢家 / 非共识成长 / 长期主义
 

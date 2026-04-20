@@ -8,6 +8,7 @@ description: "把人才密度、平台方法与市场底层管道敏感度合成
 > 把人才密度、平台方法与市场底层管道敏感度合成机构优势的人。
 
 **所属机构**: [Citadel](/investor-masters/institutions/citadel/)  
+**年化收益率**: 约 19.2%（[CNBC 报道](https://www.cnbc.com/2025/07/01/billionaire-ken-griffins-hedge-funds-at-citadel-are-all-in-the-green-for-2025.html)）  
 **代表性持仓**: 多策略平台、制度裂缝、风险系统  
 **核心方法**: 平台建造 / 独立思考 / 底层管道风险
 

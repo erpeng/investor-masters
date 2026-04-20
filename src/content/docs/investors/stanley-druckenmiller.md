@@ -10,6 +10,7 @@ description: "知道什么时候该把仓位做大的人。"
 > “永远不要投资于现在——想象18个月后的世界。”
 
 **所属机构**: [Duquesne Family Office](/investor-masters/institutions/duquesne-family-office/)  
+**年化收益率**: 未公开  
 **代表性持仓**: 宏观趋势、成长拐点  
 **核心方法**: 仓位 / 趋势 / 快速修正
 
