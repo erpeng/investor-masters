@@ -14,6 +14,16 @@ description: "不是公司百科，而是“为什么顶级投资人反复提到
 - [Universal Music Group](/investor-masters/companies/universal-music-group/): 阿克曼式长期资产模板，内容权利如何穿越媒介变化。
 - [特斯拉](/investor-masters/companies/tesla/): 成长非共识与质量价值的正面冲突。
 - [微软](/investor-masters/companies/microsoft/): 高质量老平台如何重新进入增长曲线。
+- [帝亚吉欧](/investor-masters/companies/diageo/): Nick Train 如何把大品牌消费品读成长期 franchise。
+- [Heineken](/investor-masters/companies/heineken/): Nick Train 版本 `global premium brand + secular growth` 的消费 franchise 样本。
+- [伦敦证券交易所集团](/investor-masters/companies/london-stock-exchange-group/): 交易所为什么会被 Nick Train 读成“资本主义成功的代理人”。
+- [RELX](/investor-masters/companies/relx/): Nick Train 的长期持有为什么也可以落在 tech-enabled / intellectual property franchise。
+- [Sage](/investor-masters/companies/sage/): Nick Train 的长期持有如何落到软件与工作流 franchise。
+- [PG&E](/investor-masters/companies/pge/): Dan Loeb 式事件驱动不是短线，而是可持续推动的主轴仓位。
+- [Union Pacific](/investor-masters/companies/union-pacific/): Third Point 当季公开 book 往工业基础设施切换的样本。
+- [CRH](/investor-masters/companies/crh/): Third Point 把公开多头切片推向工业与现实资产赔率区间的样本。
+- [Brookfield](/investor-masters/companies/brookfield/): Third Point 公开组合里更平台化、更能跨周期承载资本配置视角的样本。
+- [Apollo](/investor-masters/companies/apollo/): Third Point 公开权益切片里更靠近信用与另类资管平台的样本。
 - [可口可乐](/investor-masters/companies/coca-cola/): `超级企业 / 动态护城河 / 成熟公司里的长期成长逻辑` 如何汇到一起。
 - [Alphabet](/investor-masters/companies/alphabet/): AI 恐慌下被错误重描述的平台样本。
 - [比亚迪](/investor-masters/companies/byd/): 工程师文化、第一性思维和长期资本陪伴合在一起的长持样本。
@@ -25,9 +35,10 @@ description: "不是公司百科，而是“为什么顶级投资人反复提到
 
 ## 从哪类公司开始读
 
-- **高质量复利样本**: [开市客](/investor-masters/companies/costco/)、[可口可乐](/investor-masters/companies/coca-cola/)、[微软](/investor-masters/companies/microsoft/)、[Visa](/investor-masters/companies/visa/)、[ADP](/investor-masters/companies/adp/)、[伯克希尔·哈撒韦](/investor-masters/companies/berkshire-hathaway/)
+- **高质量复利样本**: [开市客](/investor-masters/companies/costco/)、[可口可乐](/investor-masters/companies/coca-cola/)、[微软](/investor-masters/companies/microsoft/)、[Visa](/investor-masters/companies/visa/)、[ADP](/investor-masters/companies/adp/)、[伯克希尔·哈撒韦](/investor-masters/companies/berkshire-hathaway/)、[帝亚吉欧](/investor-masters/companies/diageo/)、[Heineken](/investor-masters/companies/heineken/)、[伦敦证券交易所集团](/investor-masters/companies/london-stock-exchange-group/)、[RELX](/investor-masters/companies/relx/)、[Sage](/investor-masters/companies/sage/)
 - **平台与科技赢家**: [亚马逊](/investor-masters/companies/amazon/)、[苹果](/investor-masters/companies/apple/)、[腾讯](/investor-masters/companies/tencent/)、[Meta](/investor-masters/companies/meta/)、[Alphabet](/investor-masters/companies/alphabet/)、[英伟达](/investor-masters/companies/nvidia/)、[台积电](/investor-masters/companies/tsmc/)、[ASML](/investor-masters/companies/asml/)、[Waymo](/investor-masters/companies/waymo/)
 - **战役与治理修复样本**: [Chipotle](/investor-masters/companies/chipotle/)、[General Growth](/investor-masters/companies/general-growth/)、[Canadian Pacific](/investor-masters/companies/canadian-pacific/)、[Wendy's](/investor-masters/companies/wendys/)、[Tim Hortons](/investor-masters/companies/tim-hortons/)
+- **Third Point 公开主轴样本**: [PG&E](/investor-masters/companies/pge/)、[Union Pacific](/investor-masters/companies/union-pacific/)、[CRH](/investor-masters/companies/crh/)、[Brookfield](/investor-masters/companies/brookfield/)、[Apollo](/investor-masters/companies/apollo/)、[Capital One](/investor-masters/companies/capital-one/)、[Live Nation](/investor-masters/companies/live-nation/)、[亚马逊](/investor-masters/companies/amazon/)、[英伟达](/investor-masters/companies/nvidia/)
 - **阿克曼式长期资产样本**: [Universal Music Group](/investor-masters/companies/universal-music-group/)、[Alphabet](/investor-masters/companies/alphabet/)、[Howard Hughes](/investor-masters/companies/howard-hughes/)
 - **中国与新一代平台**: [阿里巴巴](/investor-masters/companies/alibaba/)、[美团](/investor-masters/companies/meituan/)、[拼多多](/investor-masters/companies/pdd/)、[小红书](/investor-masters/companies/xiaohongshu/)、[MiniMax](/investor-masters/companies/minimax/)、[百度](/investor-masters/companies/baidu/)
 - **中国全球制造与工程师文化**: [比亚迪](/investor-masters/companies/byd/)
@@ -38,6 +49,8 @@ description: "不是公司百科，而是“为什么顶级投资人反复提到
 - **如果你关心“同一家公司为什么会被读成完全不同的东西”**: 先看 [亚马逊](/investor-masters/companies/amazon/)、[可口可乐](/investor-masters/companies/coca-cola/)、[Alphabet](/investor-masters/companies/alphabet/)
 - **如果你关心“平台级超级赢家在公司层长什么样”**: 先看 [特斯拉](/investor-masters/companies/tesla/)、[SpaceX](/investor-masters/companies/spacex/)
 - **如果你关心“ARK 的平台承接层到底落在哪”**: 先看 [英伟达](/investor-masters/companies/nvidia/)、[Palantir](/investor-masters/companies/palantir/)
+- **如果你关心“好生意自己是不是催化剂”**: 先看 [帝亚吉欧](/investor-masters/companies/diageo/)、[Heineken](/investor-masters/companies/heineken/)、[伦敦证券交易所集团](/investor-masters/companies/london-stock-exchange-group/)、[Sage](/investor-masters/companies/sage/)、[PG&E](/investor-masters/companies/pge/)
+- **如果你关心“Third Point 的公开 book 到底如何切换”**: 先看 [PG&E](/investor-masters/companies/pge/)、[Union Pacific](/investor-masters/companies/union-pacific/)、[CRH](/investor-masters/companies/crh/)、[Brookfield](/investor-masters/companies/brookfield/)、[Apollo](/investor-masters/companies/apollo/)、[Capital One](/investor-masters/companies/capital-one/)、[Live Nation](/investor-masters/companies/live-nation/)
 - **如果你关心“Robotaxi 的价值到底落在平台、第二名还是导流入口”**: 先看 [特斯拉](/investor-masters/companies/tesla/)、[Waymo](/investor-masters/companies/waymo/)、[Uber](/investor-masters/companies/uber/)
 - **如果你关心“好资产模板靠什么成立”**: 先看 [Universal Music Group](/investor-masters/companies/universal-music-group/)、[Howard Hughes](/investor-masters/companies/howard-hughes/)、[Chipotle](/investor-masters/companies/chipotle/)
 - **如果你关心“业务没修好时该不该先拆结构”**: 先看 [Kraft Heinz](/investor-masters/companies/kraft-heinz/)、[Chipotle](/investor-masters/companies/chipotle/)
@@ -54,6 +67,10 @@ description: "不是公司百科，而是“为什么顶级投资人反复提到
 - [特斯拉](/investor-masters/companies/tesla/)
 - [诺和诺德](/investor-masters/companies/novo-nordisk/)
 - [苹果](/investor-masters/companies/apple/)
+- [帝亚吉欧](/investor-masters/companies/diageo/)
+- [Heineken](/investor-masters/companies/heineken/)
+- [RELX](/investor-masters/companies/relx/)
+- [Sage](/investor-masters/companies/sage/)
 - [腾讯](/investor-masters/companies/tencent/)
 - [小红书](/investor-masters/companies/xiaohongshu/)
 - [MiniMax](/investor-masters/companies/minimax/)
@@ -66,8 +83,10 @@ description: "不是公司百科，而是“为什么顶级投资人反复提到
 - [微软](/investor-masters/companies/microsoft/)
 - [Meta](/investor-masters/companies/meta/)
 - [Alphabet](/investor-masters/companies/alphabet/)
+- [伦敦证券交易所集团](/investor-masters/companies/london-stock-exchange-group/)
 - [Universal Music Group](/investor-masters/companies/universal-music-group/)
 - [Chipotle](/investor-masters/companies/chipotle/)
+- [CRH](/investor-masters/companies/crh/)
 - [Kraft Heinz](/investor-masters/companies/kraft-heinz/)
 - [Restaurant Brands](/investor-masters/companies/restaurant-brands/)
 - [General Growth](/investor-masters/companies/general-growth/)
@@ -85,6 +104,12 @@ description: "不是公司百科，而是“为什么顶级投资人反复提到
 - [Howard Hughes](/investor-masters/companies/howard-hughes/)
 - [ASML](/investor-masters/companies/asml/)
 - [Palantir](/investor-masters/companies/palantir/)
+- [PG&E](/investor-masters/companies/pge/)
+- [Capital One](/investor-masters/companies/capital-one/)
+- [Live Nation](/investor-masters/companies/live-nation/)
+- [Union Pacific](/investor-masters/companies/union-pacific/)
+- [Brookfield](/investor-masters/companies/brookfield/)
+- [Apollo](/investor-masters/companies/apollo/)
 - [Teva](/investor-masters/companies/teva/)
 - [BlackBerry](/investor-masters/companies/blackberry/)
 - [Coinbase](/investor-masters/companies/coinbase/)
@@ -93,32 +118,42 @@ description: "不是公司百科，而是“为什么顶级投资人反复提到
 - [ADP](/investor-masters/companies/adp/): ADP 在这批资料里不是宏大叙事的公司，而是一个很典型的质量复利持仓样本：业务稳、对就业周期敏感、但市场容易对短期指引反应过度。
 - [ASML](/investor-masters/companies/asml/): ASML 在这批资料里同时承担两种角色：一方面是 Baillie Gifford 欣赏但外界不常问的稀缺公司，另一方面是 AI 价值链上最明确的上游瓶颈之一。
 - [Alphabet](/investor-masters/companies/alphabet/): Alphabet 在这批资料里最重要的不是“它是不是好公司”，而是市场会不会在 AI 冲击下短暂忘记它到底有多强。
+- [Apollo](/investor-masters/companies/apollo/): Apollo 在这批资料里最重要的意义，不是另类资管公司介绍，而是它作为 Third Point `Q1 2025` 的公开前十样本、以及 `2024Q4` 主要正贡献者之一，帮助你看清丹·勒布的公开权益切片并不只押在主动推动或单一行业上，也会落在更贴近 `信用 / 另类资产 / 资本市场` 语言的金融平台上。
 - [BlackBerry](/investor-masters/companies/blackberry/): BlackBerry 在这批资料里不是投资机会，而是旧范式被新范式整体替代的对照物。
-- [Canadian Pacific](/investor-masters/companies/canadian-pacific/): Canadian Pacific 在这批资料里是一个“好资产被坏治理拖垮”的标准样本。
-- [Chipotle](/investor-masters/companies/chipotle/): Chipotle 在这批资料里不是普通餐饮股，而是阿克曼最典型的“伟大企业出了大问题，但问题可修复”样本。
+- [Brookfield](/investor-masters/companies/brookfield/): Brookfield 在这批资料里最重要的意义，不是资产管理或另类资产业务介绍，而是它作为 Third Point 连续多个季度都维持在公开前列的基础设施 / 资产平台样本，说明丹·勒布的公开仓位簿里并不只有事件驱动与战役仓位，也有一些更适合被理解成 `平台型资产配置载体` 的长期公开头寸。
 
 ## 全部公司
 - [ADP](/investor-masters/companies/adp/)
 - [ASML](/investor-masters/companies/asml/)
 - [Alphabet](/investor-masters/companies/alphabet/)
+- [Apollo](/investor-masters/companies/apollo/)
 - [BlackBerry](/investor-masters/companies/blackberry/)
+- [Brookfield](/investor-masters/companies/brookfield/)
+- [CRH](/investor-masters/companies/crh/)
 - [Canadian Pacific](/investor-masters/companies/canadian-pacific/)
+- [Capital One](/investor-masters/companies/capital-one/)
 - [Chipotle](/investor-masters/companies/chipotle/)
 - [Coinbase](/investor-masters/companies/coinbase/)
 - [GEICO](/investor-masters/companies/geico/)
 - [General Growth](/investor-masters/companies/general-growth/)
+- [Heineken](/investor-masters/companies/heineken/)
 - [Herbalife](/investor-masters/companies/herbalife/)
 - [Howard Hughes](/investor-masters/companies/howard-hughes/)
 - [Kraft Heinz](/investor-masters/companies/kraft-heinz/)
+- [Live Nation](/investor-masters/companies/live-nation/)
 - [Meta](/investor-masters/companies/meta/)
 - [MiniMax](/investor-masters/companies/minimax/)
+- [PG&E](/investor-masters/companies/pge/)
 - [Palantir](/investor-masters/companies/palantir/)
+- [RELX](/investor-masters/companies/relx/)
 - [Restaurant Brands](/investor-masters/companies/restaurant-brands/)
+- [Sage](/investor-masters/companies/sage/)
 - [Silvergate Capital](/investor-masters/companies/silvergate-capital/)
 - [SpaceX](/investor-masters/companies/spacex/)
 - [Teva](/investor-masters/companies/teva/)
 - [Tim Hortons](/investor-masters/companies/tim-hortons/)
 - [Uber](/investor-masters/companies/uber/)
+- [Union Pacific](/investor-masters/companies/union-pacific/)
 - [Universal Music Group](/investor-masters/companies/universal-music-group/)
 - [Valeant](/investor-masters/companies/valeant/)
 - [Visa](/investor-masters/companies/visa/)
@@ -126,10 +161,12 @@ description: "不是公司百科，而是“为什么顶级投资人反复提到
 - [Wendy's](/investor-masters/companies/wendys/)
 - [丹纳赫](/investor-masters/companies/danaher/)
 - [亚马逊](/investor-masters/companies/amazon/)
+- [伦敦证券交易所集团](/investor-masters/companies/london-stock-exchange-group/)
 - [伯克希尔·哈撒韦](/investor-masters/companies/berkshire-hathaway/)
 - [可口可乐](/investor-masters/companies/coca-cola/)
 - [台积电](/investor-masters/companies/tsmc/)
 - [小红书](/investor-masters/companies/xiaohongshu/)
+- [帝亚吉欧](/investor-masters/companies/diageo/)
 - [开市客](/investor-masters/companies/costco/)
 - [微软](/investor-masters/companies/microsoft/)
 - [拼多多](/investor-masters/companies/pdd/)

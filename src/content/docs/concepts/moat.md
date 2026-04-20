@@ -50,9 +50,9 @@ description: "护城河 在这批资料 里的最佳入口。"
 
 - [2万字｜2008年芒格在加州理工与物理学家的罕见对谈，全程都是智慧四溅](/investor-masters/sources/source-06/)
 - [4万字对话｜72岁传奇投资人特里·史密斯详述一生，如何塑造自己的投资风格](/investor-masters/sources/source-08/)
-- [巴菲特亲自教授的一堂价值百万的MBA课程：如何在股市里赚大钱](/investor-masters/sources/source-31/)
+- [巴菲特亲自教授的一堂价值百万的MBA课程：如何在股市里赚大钱](/investor-masters/sources/source-60/)
 - [3.2万字｜潘兴广场比尔·阿克曼最有价值的一场对话，深谈价值投资、核心战役以及如何从人生谷底“爬坑”……](/investor-masters/sources/source-07/)
-- [“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-masters/sources/source-17/)
+- [“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-masters/sources/source-32/)
 - [2.7万字｜ “巴菲特女弟子”深度对话：真正懂资本配置的CEO，往往做决策更理性，也更能创造长期价值](/investor-masters/sources/source-03/)
 - [2021年李录与格林沃尔德深度对话：我们想投资的是那些可以在巨大不确定性中泰然处之的公司……](/investor-masters/sources/source-05/)
-- [李录亲述：为什么能拿住比亚迪23年？](/investor-masters/sources/source-39/)
+- [李录亲述：为什么能拿住比亚迪23年？](/investor-masters/sources/source-68/)

@@ -6,11 +6,11 @@ description: "把同一个问题横向放到不同投资人身上读。"
 
 # 投资十问
 
-这里不是人物传记层，而是把同一个问题横着放到不同投资人身上看。真正有价值的，不是某一个人的单独答案，而是同一个问题下，谁在什么地方给出了完全不同的回答。当前覆盖统计的口径已经扩到 `26`。
+这里不是人物传记层，而是把同一个问题横着放到不同投资人身上看。真正有价值的，不是某一个人的单独答案，而是同一个问题下，谁在什么地方给出了完全不同的回答。当前覆盖统计的口径已经扩到 `30`。
 
 ## 怎么读这页
 
-- 这里的 `x/26` 表示“当前有多少位核心投资人，在现有资料里能被有依据地回答这个问题”。
+- 这里的 `x/30` 表示“当前有多少位核心投资人，在现有资料里能被有依据地回答这个问题”。
 - 如果你想看边界与反例，优先读 `Q02 / Q09`。
 - 如果你想看风险、路径和活下来，优先读 `Q05 / Q07 / Q08`。
 - 如果你想看研究方法与世界观，优先读 `Q01 / Q03 / Q10`。
@@ -24,13 +24,13 @@ description: "把同一个问题横向放到不同投资人身上读。"
 
 ## 全部问题
 
-- [你的优势从哪里来](/investor-masters/ten-questions/q01/): 22/26
-- [什么样的东西你坚决不碰](/investor-masters/ten-questions/q02/): 6/26
-- [你如何研究并建立确信](/investor-masters/ten-questions/q03/): 20/26
-- [你如何判断管理层](/investor-masters/ten-questions/q04/): 16/26
-- [你如何定义和管理风险](/investor-masters/ten-questions/q05/): 20/26
-- [买入时机与价格权重如何平衡](/investor-masters/ten-questions/q06/): 10/26
-- [你会在什么时候卖出](/investor-masters/ten-questions/q07/): 11/26
-- [你如何构建和管理组合](/investor-masters/ten-questions/q08/): 19/26
-- [哪类错误最致命](/investor-masters/ten-questions/q09/): 12/26
-- [你认为市场最常出现的系统性误判是什么](/investor-masters/ten-questions/q10/): 16/26
+- [你的优势从哪里来](/investor-masters/ten-questions/q01/): 26/30
+- [什么样的东西你坚决不碰](/investor-masters/ten-questions/q02/): 6/30
+- [你如何研究并建立确信](/investor-masters/ten-questions/q03/): 20/30
+- [你如何判断管理层](/investor-masters/ten-questions/q04/): 20/30
+- [你如何定义和管理风险](/investor-masters/ten-questions/q05/): 24/30
+- [买入时机与价格权重如何平衡](/investor-masters/ten-questions/q06/): 10/30
+- [你会在什么时候卖出](/investor-masters/ten-questions/q07/): 11/30
+- [你如何构建和管理组合](/investor-masters/ten-questions/q08/): 24/30
+- [哪类错误最致命](/investor-masters/ten-questions/q09/): 12/30
+- [你认为市场最常出现的系统性误判是什么](/investor-masters/ten-questions/q10/): 20/30

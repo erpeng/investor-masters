@@ -33,9 +33,9 @@ description: "企业文化 在这批资料 里的最佳入口。"
 
 ## 主要来源
 
-- [Capital Allocators｜尼科莱·坦根：掌管全球最大主权财富基金](/investor-masters/sources/source-10/)
-- [J.P. Morgan｜AKO Capital：数据如何进入主观投资流程](/investor-masters/sources/source-13/)
+- [Capital Allocators｜尼科莱·坦根：掌管全球最大主权财富基金](/investor-masters/sources/source-13/)
+- [J.P. Morgan｜AKO Capital：数据如何进入主观投资流程](/investor-masters/sources/source-19/)
 - [2021年李录与格林沃尔德深度对话：我们想投资的是那些可以在巨大不确定性中泰然处之的公司……](/investor-masters/sources/source-05/)
 - [2.7万字｜ “巴菲特女弟子”深度对话：真正懂资本配置的CEO，往往做决策更理性，也更能创造长期价值](/investor-masters/sources/source-03/)
-- [全世界最懂AI的金融人，是怎么管理投资的？——看桥水“务实派”如何警示未来 （下）  泉果探照灯](/investor-masters/sources/source-23/)
-- [Joys of Compounding｜史蒂芬·曼德尔：来自 Lone Pine 的经验课](/investor-masters/sources/source-14/)
+- [全世界最懂AI的金融人，是怎么管理投资的？——看桥水“务实派”如何警示未来 （下）  泉果探照灯](/investor-masters/sources/source-38/)
+- [Joys of Compounding｜史蒂芬·曼德尔：来自 Lone Pine 的经验课](/investor-masters/sources/source-20/)

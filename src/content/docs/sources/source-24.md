@@ -1,17 +1,17 @@
 ---
-title: "关于耐心与杠杆！霍华德与摩根的最新对话：历史不会重演，但人类的行为却总是重复"
+title: "S&P Global｜肯·格里芬：Citadel、AI 与独立思考"
 slug: "sources/source-24"
-description: "原始材料来源页。"
+description: "依据 S&P Global 公开 transcript，整理 Ken Griffin 关于 AI、edge、独立思考与 Citadel 组织能力的最新表达。"
 ---
 
-**原文件名**: `关于耐心与杠杆！霍华德与摩根的最新对话：历史不会重演，但人类的行为却总是重复.md`  
+**原文件名**: `S&P Global｜肯·格里芬：Citadel、AI 与独立思考.md`  
+**外部来源**: https://www.spglobal.com/en/research-insights/podcasts/leaders/ken-griffin-on-building-citadel-ai-and-independent-thinking
 
-**作者**: 摩根·豪塞尔是畅销书《金钱心理学》(The Psychology of Money)和《一如既往》(Same As Ever)的作者，也是Collaborative Fund的合伙人。  
 
 ## 摘要
 
-原始材料来源页。
+依据 S&P Global 公开 transcript，整理 Ken Griffin 关于 AI、edge、独立思考与 Citadel 组织能力的最新表达。
 
 ## 节选
 
-最近，橡树资本创始人霍华德·马克斯跟摩根·豪塞尔（Morgan Housel）做了一场对话。
+- `主角`：肯·格里芬（Ken Griffin） - `场景`：S&P Global / Leaders Podcast - `时间`：`2025-06-17` - `核心价值`：这篇是理解现代 Citadel 最好的窗口之一。它把 `AI / 预测未来 / 独立思考 / 数据质量 / 持续学习` 放在同一条线上。

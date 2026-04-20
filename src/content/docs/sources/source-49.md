@@ -1,18 +1,17 @@
 ---
-title: "近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题"
+title: "原文｜Motley Fool｜大卫·艾因霍恩：透明度、监管失灵与揭弊式做空"
 slug: "sources/source-49"
-description: "组合37.3%配置在未上市公司"
+description: "从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML。"
 ---
 
-**原文件名**: `近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题.md`  
-**外部来源**: https://mp.weixin.qq.com/s/9gs_FMdzKk8O9ju0VwsUew
+**原文件名**: `原文｜Motley Fool｜大卫·艾因霍恩：透明度、监管失灵与揭弊式做空.md`  
+**外部来源**: https://www.fool.com/investing/general/2011/01/06/a-foolish-interview-with-david-einhorn.aspx
 
-**时间**: 2026年3月12日 15:03
 
 ## 摘要
 
-组合37.3%配置在未上市公司
+从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML。
 
 ## 节选
 
-“ 今天我们的中国敞口大约在 12%左右。中国依然有很多非常创新、值得支持的企业，而且估值也很有吸引力。 ”
+- 对应整理稿：[[现有资料/Motley Fool｜大卫·艾因霍恩：透明度、监管失灵与揭弊式做空.md]] - 抓取时间：`2026-04-20` - 抽取方式：`HTML` - 原始域名：`www.fool.com`

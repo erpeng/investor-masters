@@ -1,19 +1,17 @@
 ---
-title: "小心！过去15年的“陷阱”，让我们遗忘了“分散投资”——看桥水“务实派”如何警示未来（上） |  泉果探照灯"
+title: "Third Point｜2025Q1 investor letter：催化剂、动态敞口与信用协同"
 slug: "sources/source-30"
-description: "投资经验“失效”？美联储“收编”？西方发达国家“巴西化”？"
+description: "依据 Third Point 2025Q1 investor letter，整理 Dan Loeb 对动态降敞口、催化剂仓位、信用协同与 flexible allocation 的官方表达。"
 ---
 
-**原文件名**: `小心！过去15年的“陷阱”，让我们遗忘了“分散投资”——看桥水“务实派”如何警示未来（上）   泉果探照灯.md`  
-**外部来源**: https://mp.weixin.qq.com/s/A18J7QPlwPv-6K-zJcWkjA
+**原文件名**: `Third Point｜2025Q1 investor letter：催化剂、动态敞口与信用协同.md`  
+**外部来源**: https://assets.thirdpointlimited.com/f/166217/x/1c4003f091/tpil-q1-2025-investor-letter_02052025_final.pdf
 
-**作者**: 原创 泉果探照灯  
-**时间**: 2025年12月17日 22:56
 
 ## 摘要
 
-投资经验“失效”？美联储“收编”？西方发达国家“巴西化”？
+依据 Third Point 2025Q1 investor letter，整理 Dan Loeb 对动态降敞口、催化剂仓位、信用协同与 flexible allocation 的官方表达。
 
 ## 节选
 
-■ 过去的15年是一个被粉饰的“陷阱”——这让大多数人放弃了分散投资，因为它似乎不再起作用了，你只要买美国股票就好了。
+- `主角`：丹·勒布（Dan Loeb）/ Third Point - `场景`：`2025Q1` investor letter - `时间`：`2025-05-02` - `核心价值`：如果 `2024Q4` 信讲的是方法框架，这封信讲的是框架在动荡环境里如何实际落地。

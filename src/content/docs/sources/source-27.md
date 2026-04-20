@@ -1,18 +1,19 @@
 ---
-title: "如何看待高成长与经典价值？柏基“传奇基金经理”詹姆斯·安德森2019年深度撰文"
+title: "Ted Weschler-2022-Q&A-Podcast（NFM）"
 slug: "sources/source-27"
-description: "两者间的分歧没有看起来那么大"
+description: "Greg Abel（实体业务-大方向资本配置）、Ajt Jain（保险业务）、Ted Weschler（证券投资）的三剑客组合已正式确立"
 ---
 
-**原文件名**: `如何看待高成长与经典价值？柏基“传奇基金经理”詹姆斯·安德森2019年深度撰文.md`  
-**外部来源**: https://mp.weixin.qq.com/s/0K_Lxv69-s7mjIb414M54g
+**原文件名**: `Ted Weschler-2022-Q&A-Podcast（NFM）.md`  
+**外部来源**: https://mp.weixin.qq.com/s/kd-BqzgbpG8D21VCwFIRiQ
 
-**时间**: 2025年12月2日 15:02
+**作者**: 原创 臧文浩  
+**时间**: 2025年12月9日 12:29
 
 ## 摘要
 
-两者间的分歧没有看起来那么大
+Greg Abel（实体业务-大方向资本配置）、Ajt Jain（保险业务）、Ted Weschler（证券投资）的三剑客组合已正式确立
 
 ## 节选
 
-素有 “世界级伟大公司收集者”之称的 詹姆斯 ·安德森 在 2019年亲笔撰写的一篇雄文——《格雷厄姆还是增长？》 （ Graham or Growth?）
+BRK昨日官宣人事调整，引人注目的是Todd Combs（2011-2025）离开加入JPMorgan，原因众说纷纭。但结果是清晰明朗的：

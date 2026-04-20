@@ -30,7 +30,7 @@ Fundsmith 当前在这批资料中基本没有第二位真正能代表机构哲�
 ## 标志性公开材料
 
 - [4万字对话｜72岁传奇投资人特里·史密斯详述一生，如何塑造自己的投资风格](/investor-masters/sources/source-08/)：机构方法的口述总览。
-- [要足够重视糟糕管理的影响！“英国巴菲特”特里·史密斯最新持有人信，反思诺和诺德的投资](/investor-masters/sources/source-48/)：持有人信如何承担机构复盘功能。
+- [要足够重视糟糕管理的影响！“英国巴菲特”特里·史密斯最新持有人信，反思诺和诺德的投资](/investor-masters/sources/source-77/)：持有人信如何承担机构复盘功能。
 - [Fundsmith factsheet](https://www.fundsmith.co.uk/factsheet/)：规模、费用、OCF、持仓承诺与 `Our values` 的官方表述。
 
 ## 13F 持仓（近四个季度）

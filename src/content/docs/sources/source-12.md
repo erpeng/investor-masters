@@ -1,19 +1,17 @@
 ---
-title: "Druckenmiller深度解析（附中英对照）"
+title: "CNBC｜肯·格里芬：Citadel 总部首场电视长访谈"
 slug: "sources/source-12"
-description: "融合11次历史采访与13F持仓数据，还原传奇宏观交易员的思维全景。从Nvidia到Teva，从sizing到逆向投资。"
+description: "依据 CNBC 公开 transcript，整理 Ken Griffin 关于人才密度、delegation、Citadel 的多策略平台与 depth-not-breadth 的早期官方表达。"
 ---
 
-**原文件名**: `Druckenmiller深度解析（附中英对照）.md`  
-**外部来源**: https://mp.weixin.qq.com/s/WPjWSKR8KEY-Fi4bZ0ywfQ
+**原文件名**: `CNBC｜肯·格里芬：Citadel 总部首场电视长访谈.md`  
+**外部来源**: https://www.cnbc.com/2015/11/19/cnbc-exclusive-cnbc-transcript-citadel-founder-ceo-ken-griffin-speaks-with-cnbcs-kate-kelly-on-squawk-on-the-street-today.html
 
-**作者**: 原创 LIQUIDITY NOTES  
-**时间**: 2026年2月28日 09:33
 
 ## 摘要
 
-融合11次历史采访与13F持仓数据，还原传奇宏观交易员的思维全景。从Nvidia到Teva，从sizing到逆向投资。
+依据 CNBC 公开 transcript，整理 Ken Griffin 关于人才密度、delegation、Citadel 的多策略平台与 depth-not-breadth 的早期官方表达。
 
 ## 节选
 
-我选一个可能会让你意外的，因为它一点也不性感，跟AI什么的都没关系，但我觉得它很好地体现了我们Duquesne的投资流程。
+- `主角`：肯·格里芬（Ken Griffin） - `场景`：CNBC / Citadel 总部首场电视访谈 - `时间`：`2015-11-19` - `核心价值`：这篇是理解 Citadel 如何从个人交易者长成平台机构的关键老材料。

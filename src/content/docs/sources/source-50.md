@@ -1,18 +1,17 @@
 ---
-title: "重注亚马逊、比特币的人！比尔·米勒经典对谈：如何避免被偏见带偏"
+title: "原文｜S&P Global｜肯·格里芬：Citadel、AI 与独立思考"
 slug: "sources/source-50"
-description: "原始材料来源页。"
+description: "从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML（全文 transcript 转录）。"
 ---
 
-**原文件名**: `重注亚马逊、比特币的人！比尔·米勒经典对谈：如何避免被偏见带偏.md`  
+**原文件名**: `原文｜S&P Global｜肯·格里芬：Citadel、AI 与独立思考.md`  
+**外部来源**: https://www.spglobal.com/en/research-insights/podcasts/leaders/ken-griffin-on-building-citadel-ai-and-independent-thinking
 
-**作者**: 原创 热爱学习的  
-**时间**: 2025年10月9日 15:00
 
 ## 摘要
 
-原始材料来源页。
+从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML（全文 transcript 转录）。
 
 ## 节选
 
-作为这个时代最传奇的投资人之一，比尔·米勒曾连续15年跑赢标普500指数，这一前所未有的纪录也许再难以被复制。
+- 对应整理稿：[[现有资料/S&P Global｜肯·格里芬：Citadel、AI 与独立思考.md]] - 抓取时间：`2026-04-20` - 抽取方式：`HTML` - 原始域名：`www.spglobal.com` - 备注：命令行抓取返回错误页，本存档依据公开可访问页面的 `View Full Transcript` 全文转录。

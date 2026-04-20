@@ -7,7 +7,7 @@ description: "Duquesne Family Office 的机构级哲学、文化与传承。"
 
 Duquesne Family Office 值得单独读，不是因为它“很神秘”，而是因为它把德鲁肯米勒的方法边界暴露得非常彻底：这不是一台靠稳定 LP 资金、委员会流程和统一产品去保护风格的机构，而更像一个由自有资本、强判断力、可信专家网络和极高仓位机动性组成的私人驾驶舱。很多人在人物页里读到的 `18 个月后的世界`、`看对以后做大`、`知道什么时候停止分析`，只有放回这家机构里，才会真正明白为什么这套方法能活下来。
 
-它的机构轮廓也天然带着两段历史。前一段是 `Duquesne Capital`：1981 年创立、2010 年关闭、以极强的宏观 / 交易 / 仓位能力建立传奇记录。后一段则是今天的 `Duquesne Family Office`：不再替外部资金承担赎回和相对排名压力，而是用自有资本继续运作。根据德鲁肯米勒访谈与公开可核验事实，当前平台本质上是一家管理自有资本的家族办公室；从公开 13F 看，`2025Q4` 披露 `62` 只美股相关持仓，合计市值约 `$4.49bn`。依据：[接下来三到四年，我其实挺兴奋！“对冲大神”德鲁肯米勒罕见交流，细谈近年来的投资决策与如何扣扳机](/investor-masters/sources/source-34/)、[Stanley Druckenmiller - Wikipedia](https://en.wikipedia.org/wiki/Stanley_Druckenmiller)、[Duquesne Family Office Q4 2025 13F](https://13f.info/13f/000153641126000002-duquesne-family-office-llc-q4-2025)。
+它的机构轮廓也天然带着两段历史。前一段是 `Duquesne Capital`：1981 年创立、2010 年关闭、以极强的宏观 / 交易 / 仓位能力建立传奇记录。后一段则是今天的 `Duquesne Family Office`：不再替外部资金承担赎回和相对排名压力，而是用自有资本继续运作。根据德鲁肯米勒访谈与公开可核验事实，当前平台本质上是一家管理自有资本的家族办公室；从公开 13F 看，`2025Q4` 披露 `62` 只美股相关持仓，合计市值约 `$4.49bn`。依据：[接下来三到四年，我其实挺兴奋！“对冲大神”德鲁肯米勒罕见交流，细谈近年来的投资决策与如何扣扳机](/investor-masters/sources/source-63/)、[Stanley Druckenmiller - Wikipedia](https://en.wikipedia.org/wiki/Stanley_Druckenmiller)、[Duquesne Family Office Q4 2025 13F](https://13f.info/13f/000153641126000002-duquesne-family-office-llc-q4-2025)。
 
 ## 投资哲学（机构级）
 
@@ -33,9 +33,9 @@ Duquesne 当前最重要的激励结构，不是 fee model，而是 `own capital
 
 ## 标志性公开材料
 
-- [Druckenmiller深度解析（附中英对照）](/investor-masters/sources/source-12/)：当前最重要的一份综合材料，能同时看到仓位语言、卖出错误、英伟达案例、13F 弧线与 Duquesne Family Office 的公开组合轮廓。
-- [接下来三到四年，我其实挺兴奋！“对冲大神”德鲁肯米勒罕见交流，细谈近年来的投资决策与如何扣扳机](/investor-masters/sources/source-34/)：最能看见今天这家平台如何用专家网络、管理层转型、公司拼图和扣扳机来做决策。
-- [宏观判断主要来自公司经营本身！“对冲大神”德鲁肯米勒：机会大到一定程度时先参与再说，看好贝森特和沃什的“财政+货币”组合](/investor-masters/sources/source-28/)：最能看见“知道什么时候停止分析”“宏观来自公司拼图”这些机构级工作语法。
+- [Druckenmiller深度解析（附中英对照）](/investor-masters/sources/source-16/)：当前最重要的一份综合材料，能同时看到仓位语言、卖出错误、英伟达案例、13F 弧线与 Duquesne Family Office 的公开组合轮廓。
+- [接下来三到四年，我其实挺兴奋！“对冲大神”德鲁肯米勒罕见交流，细谈近年来的投资决策与如何扣扳机](/investor-masters/sources/source-63/)：最能看见今天这家平台如何用专家网络、管理层转型、公司拼图和扣扳机来做决策。
+- [宏观判断主要来自公司经营本身！“对冲大神”德鲁肯米勒：机会大到一定程度时先参与再说，看好贝森特和沃什的“财政+货币”组合](/investor-masters/sources/source-57/)：最能看见“知道什么时候停止分析”“宏观来自公司拼图”这些机构级工作语法。
 - [Stanley Druckenmiller - Wikipedia](https://en.wikipedia.org/wiki/Stanley_Druckenmiller)：用于核验 `Duquesne Capital -> Duquesne Family Office` 的职业与机构事实骨架。
 
 ## 13F 持仓（近四个季度）
@@ -119,14 +119,14 @@ Duquesne 当前最重要的激励结构，不是 fee model，而是 `own capital
 
 Duquesne 最值得直说的一点，是它可能根本不该被误读成一台“可标准传承”的机构。`Duquesne Capital` 时代当然有制度、有团队、有外部资本；但今天的 `Duquesne Family Office` 更像德鲁肯米勒本人把职业生涯压到最后的一台私人操作系统。它的优势来自三样极难拆开的东西：个人模式识别、个人仓位勇气、以及个人对哪些专家真正值得信的嗅觉。
 
-所以这家机构的传承问题，不像 Berkshire、Oaktree 或 Bridgewater 那样主要问“原则能不能被下一个管理层继续执行”，而更像问：如果离开德鲁肯米勒本人，这个平台还剩下多少真正独立的制度优势？从现有资料看，答案并不乐观。它当然可以有研究团队、有持仓记录、有流程语言，但最核心的 edge 仍然像一个人的 cockpit，而不是一套已经写进组织宪法的长期操作系统。
+所以这家机构的传承问题，不像 Berkshire、Oaktree 或 Bridgewater 那样主要问“原则能不能被下一个管理层继续执行”，而更像问：如果离开德鲁肯米勒本人，这个平台还剩下多少真正独立的制度优势？从现有资料看，答案并不乐观。它当然可以有研究团队、有持仓记录、有流程语言，但最核心的 优势来源 仍然像一个人的 cockpit，而不是一套已经写进组织宪法的长期操作系统。
 
 也正因为这样，Duquesne 的阅读价值非常高。它提醒你：有些顶级方法本来就不是为了可复制、可传承、可大规模组织化而设计的。它们之所以强，恰恰是因为保留了太多个人判断自由；而它们之所以难传承，也正因为这些优势从一开始就不是制度优势。
 
 ## 主要来源
 
-- [Druckenmiller深度解析（附中英对照）](/investor-masters/sources/source-12/)
-- [接下来三到四年，我其实挺兴奋！“对冲大神”德鲁肯米勒罕见交流，细谈近年来的投资决策与如何扣扳机](/investor-masters/sources/source-34/)
-- [宏观判断主要来自公司经营本身！“对冲大神”德鲁肯米勒：机会大到一定程度时先参与再说，看好贝森特和沃什的“财政+货币”组合](/investor-masters/sources/source-28/)
+- [Druckenmiller深度解析（附中英对照）](/investor-masters/sources/source-16/)
+- [接下来三到四年，我其实挺兴奋！“对冲大神”德鲁肯米勒罕见交流，细谈近年来的投资决策与如何扣扳机](/investor-masters/sources/source-63/)
+- [宏观判断主要来自公司经营本身！“对冲大神”德鲁肯米勒：机会大到一定程度时先参与再说，看好贝森特和沃什的“财政+货币”组合](/investor-masters/sources/source-57/)
 - [Stanley Druckenmiller - Wikipedia](https://en.wikipedia.org/wiki/Stanley_Druckenmiller)
 - [Duquesne Family Office 13F filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1536411&type=13F-HR&owner=exclude&count=40)

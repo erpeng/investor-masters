@@ -1,19 +1,17 @@
 ---
-title: "全世界最懂AI的金融人，是怎么管理投资的？——看桥水“务实派”如何警示未来 （下） | 泉果探照灯"
+title: "Motley Fool｜大卫·艾因霍恩：透明度、监管失灵与揭弊式做空"
 slug: "sources/source-23"
-description: "当你围绕“机器人是什么”去重新设计流程，效率的提升才真正爆发。"
+description: "依据 Motley Fool 对谈，整理大卫·艾因霍恩关于 Allied、SEC、卖方偏见、评级机构与金融体系结构性失灵的判断。"
 ---
 
-**原文件名**: `全世界最懂AI的金融人，是怎么管理投资的？——看桥水“务实派”如何警示未来 （下）  泉果探照灯.md`  
-**外部来源**: https://mp.weixin.qq.com/s/MSuAm2bmVTLy1jEYeLwmMQ
+**原文件名**: `Motley Fool｜大卫·艾因霍恩：透明度、监管失灵与揭弊式做空.md`  
+**外部来源**: https://www.fool.com/investing/general/2011/01/06/a-foolish-interview-with-david-einhorn.aspx
 
-**作者**: 原创 泉果探照灯  
-**时间**: 2025年12月24日 11:29
 
 ## 摘要
 
-当你围绕“机器人是什么”去重新设计流程，效率的提升才真正爆发。
+依据 Motley Fool 对谈，整理大卫·艾因霍恩关于 Allied、SEC、卖方偏见、评级机构与金融体系结构性失灵的判断。
 
 ## 节选
 
-在前两期【泉果探照灯】中，我们分享了桥水基金首席投资官Greg Jensen关于对未来资本市场一定要“分散投资”的警示，以及他的决策基础和逻辑推演过程。
+> 整理说明： > 本页依据 Motley Fool 公开采访原文整理。重点不是重复 Allied 历史，而是提炼艾因霍恩最鲜明的 `forensic investing` 气质：怀疑 gatekeepers、重透明度、把制度失灵也纳入研究。

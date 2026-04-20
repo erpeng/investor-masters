@@ -1,18 +1,17 @@
 ---
-title: "“打孔机”只打了不到10个孔！段永平与方三文最新对话，详解“投资中如何真正算看懂”……"
+title: "Harvard Business School｜塞思·卡拉曼：危机中的 Baupost 与价值纪律"
 slug: "sources/source-18"
-description: "畅聊苹果、英伟达、伯克希尔、拼多多……"
+description: "依据 MarketFolly 转录的 HBS 访谈，整理塞思·卡拉曼关于价值投资、现金、风险优先、危机干预与 Baupost 客户结构的关键判断。"
 ---
 
-**原文件名**: `“打孔机”只打了不到10个孔！段永平与方三文最新对话，详解“投资中如何真正算看懂”…….md`  
-**外部来源**: https://mp.weixin.qq.com/s/yREiBYnmeWhn5kuOtQZn3w
+**原文件名**: `Harvard Business School｜塞思·卡拉曼：危机中的 Baupost 与价值纪律.md`  
+**外部来源**: https://www.marketfolly.com/2008/12/interview-with-seth-klarman-of-baupost.html
 
-**时间**: 2025年11月11日 19:10
 
 ## 摘要
 
-畅聊苹果、英伟达、伯克希尔、拼多多……
+依据 MarketFolly 转录的 HBS 访谈，整理塞思·卡拉曼关于价值投资、现金、风险优先、危机干预与 Baupost 客户结构的关键判断。
 
 ## 节选
 
-“人们关心的是我们做过什么，其实 我们之所以成为我们，很大的原因是因为我们不做的那些事情。”
+> 整理说明： > 本页依据 MarketFolly 转录的 Harvard Business School 访谈整理。它是理解危机中的 Klarman / Baupost 最重要的一篇公开材料之一。

@@ -5,9 +5,9 @@ description: "Lone Pine Capital 的机构级哲学、文化与传承。"
 ---
 ## 机构简介
 
-Lone Pine Capital 值得单独读，不只是因为它是最成功的 Tiger Cub 之一，而是因为它把 Tiger 式强基本面研究，继续推进成了一套更强调 `变化、文化、人才与组织传承` 的机构语言。
+Lone Pine Capital 值得单独读，不只是因为它是最成功的 老虎幼崽 之一，而是因为它把 Tiger 式强基本面研究，继续推进成了一套更强调 `变化、文化、人才与组织传承` 的机构语言。
 
-公开节目材料显示，史蒂芬·曼德尔建立 Lone Pine 时，不只是想复制 Tiger 的选股能力，而更像一开始就想搭一台围绕高质量研究、长期 duration 和持续演化能力来运转的机构。
+公开节目材料显示，史蒂芬·曼德尔建立 Lone Pine 时，不只是想复制 Tiger 的选股能力，而更像一开始就想搭一台围绕高质量研究、长期 持有久期 和持续演化能力来运转的机构。
 
 ## 投资哲学（机构级）
 
@@ -19,7 +19,7 @@ Lone Pine 的机构哲学，可以压成一句话：`围绕关键变化下注，
 - 这些变化会先落到哪几个经营变量上
 - 哪些管理层和组织有能力顺着变化继续做强
 
-因此，Lone Pine 并不是单纯的“成长风格机构”，而更像一家把 `变化驱动投资` 和深基本面研究绑在一起的成长型 Tiger Cub 平台。
+因此，Lone Pine 并不是单纯的“成长风格机构”，而更像一家把 `变化驱动投资` 和深基本面研究绑在一起的成长型 老虎幼崽 平台。
 
 ## 激励结构与文化
 
@@ -47,8 +47,8 @@ Joys of Compounding 那期节目里，官方公开的分段几乎连续在谈：
 
 ## 标志性公开材料
 
-- [Colossus｜史蒂芬·曼德尔：顺着变化下注](/investor-masters/sources/source-11/)
-- [Joys of Compounding｜史蒂芬·曼德尔：来自 Lone Pine 的经验课](/investor-masters/sources/source-14/)
+- [Colossus｜史蒂芬·曼德尔：顺着变化下注](/investor-masters/sources/source-14/)
+- [Joys of Compounding｜史蒂芬·曼德尔：来自 Lone Pine 的经验课](/investor-masters/sources/source-20/)
 
 ## 13F 持仓（最新一季）
 
@@ -90,11 +90,11 @@ Joys of Compounding 那期节目里，官方公开的分段几乎连续在谈：
 
 Lone Pine 之所以值得单独写，最重要的一点恰恰是它开始认真处理传承问题。
 
-很多 Tiger Cub 平台的隐性风险在于：方法高度依赖创始人品味、关系网络和个人节奏，一旦创始人后撤，机构就会迅速失去灵魂。Lone Pine 至少从公开材料看，已经在尝试用更清楚的文化表达、人才培养和 co-CIO 结构来回应这个难题。
+很多 老虎幼崽 平台的隐性风险在于：方法高度依赖创始人品味、关系网络和个人节奏，一旦创始人后撤，机构就会迅速失去灵魂。Lone Pine 至少从公开材料看，已经在尝试用更清楚的文化表达、人才培养和 co-CIO 结构来回应这个难题。
 
 这并不意味着它已经完全解决了创始人依赖，但它至少已经把问题提到了组织层，而不是继续假装“只要有好分析师自然就会发生传承”。
 
 ## 主要来源
 
-- [Colossus｜史蒂芬·曼德尔：顺着变化下注](/investor-masters/sources/source-11/)
-- [Joys of Compounding｜史蒂芬·曼德尔：来自 Lone Pine 的经验课](/investor-masters/sources/source-14/)
+- [Colossus｜史蒂芬·曼德尔：顺着变化下注](/investor-masters/sources/source-14/)
+- [Joys of Compounding｜史蒂芬·曼德尔：来自 Lone Pine 的经验课](/investor-masters/sources/source-20/)

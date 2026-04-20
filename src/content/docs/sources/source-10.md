@@ -1,17 +1,17 @@
 ---
-title: "Capital Allocators｜尼科莱·坦根：掌管全球最大主权财富基金"
+title: "CNBC｜丹·勒布：更动荡市场中的 event-driven 组合"
 slug: "sources/source-10"
-description: "尼科莱·坦根谈 AKO 的形成、质量投资、客户至上、主权基金的治理结构与“普遍所有者”视角。"
+description: "依据 CNBC 对 Dan Loeb 经济俱乐部发言的摘要，整理 Third Point 在更动荡市场环境下转向 event-driven / catalyst-oriented 组合的最新表达。"
 ---
 
-**原文件名**: `Capital Allocators｜尼科莱·坦根：掌管全球最大主权财富基金.md`  
-**外部来源**: https://www.capitalallocators.com/podcast/overseeing-the-largest-sovereign-wealth-fund/
+**原文件名**: `CNBC｜丹·勒布：更动荡市场中的 event-driven 组合.md`  
+**外部来源**: https://www.cnbc.com/video/2025/04/23/third-point-ceo-dan-loeb-i-wouldnt-underestimate-the-resilience-of-the-american-economy.html
 
 
 ## 摘要
 
-尼科莱·坦根谈 AKO 的形成、质量投资、客户至上、主权基金的治理结构与“普遍所有者”视角。
+依据 CNBC 对 Dan Loeb 经济俱乐部发言的摘要，整理 Third Point 在更动荡市场环境下转向 event-driven / catalyst-oriented 组合的最新表达。
 
 ## 节选
 
-> 整理说明： > 这不是官方逐字稿。 > 本页依据 Capital Allocators 节目页、同题 YouTube 公开自动字幕，以及公开可核验的节目摘要整理而成，重点保留对投资方法和机构约束最有价值的段落。
+> 整理说明： > CNBC 当前公开的是摘要页与节目信息，不是完整逐字 transcript。本页只整理页面明确给出的核心要点。

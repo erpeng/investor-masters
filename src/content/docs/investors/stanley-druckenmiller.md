@@ -23,7 +23,7 @@ description: "知道什么时候该把仓位做大的人。"
 
 > “永远不要投资于现在——想象18个月后的世界。”
 >
-> ——来源：[Druckenmiller深度解析（附中英对照）](/investor-masters/sources/source-12/)
+> ——来源：[Druckenmiller深度解析（附中英对照）](/investor-masters/sources/source-16/)
 
 > 验证卡：现有资料没有单独展开完整职业收益表，但文章本身就是建立在他作为传奇宏观交易员与 Duquesne Family Office 掌舵者的背景之上。更重要的是，现有资料给出了近年 13F 持仓弧线与组合集中度变化，能够看见他从更单点、更高勇气的组合，走向更分散但依然高强度的配置方式。
 
@@ -49,7 +49,7 @@ description: "知道什么时候该把仓位做大的人。"
 > 
 > “然后股票涨到800。然后我违反了我在采访中说的一切。我受不了成功。它从150涨到800。我是长期看好的。但我就是承受不了，卖了。”
 >
-> ——来源：[Druckenmiller深度解析（附中英对照）](/investor-masters/sources/source-12/)
+> ——来源：[Druckenmiller深度解析（附中英对照）](/investor-masters/sources/source-16/)
 
 **形成的结论**
 
@@ -63,13 +63,13 @@ description: "知道什么时候该把仓位做大的人。"
 
   > “永远不要投资于现在——想象18个月后的世界。”
   >
-  > ——来源：[Druckenmiller深度解析（附中英对照）](/investor-masters/sources/source-12/)
+  > ——来源：[Druckenmiller深度解析（附中英对照）](/investor-masters/sources/source-16/)
 
 - `最爱把问题压回哪一层`: 他总把问题压回大趋势和仓位，而不是静态估值。
 
   > “当你有巨大的、颠覆性的变化时，投资者就是没办法让自己跟上它的步伐。”
   >
-  > ——来源：[Druckenmiller深度解析（附中英对照）](/investor-masters/sources/source-12/)
+  > ——来源：[Druckenmiller深度解析（附中英对照）](/investor-masters/sources/source-16/)
 
 - `怎么处理不确定性`: 他不是缩小边界，而是通过可信的人和模式识别，把高不确定性的主题转成可下注的机会。
 
@@ -77,27 +77,27 @@ description: "知道什么时候该把仓位做大的人。"
 > 
   > “所以我对合伙人说：‘我该买什么？’他说：‘英伟达。那是玩AI的方式。’”
   >
-  > ——来源：[Druckenmiller深度解析（附中英对照）](/investor-masters/sources/source-12/)
+  > ——来源：[Druckenmiller深度解析（附中英对照）](/investor-masters/sources/source-16/)
 
 - `风险最后如何落成仓位`: 他真正内化的不是“怎么看对”，而是 Soros 式的 sizing 语言。对他来说，判断只是起点，真正决定结果的是对了时赚多少、错了时亏多少。
 
   > “What I learned from him was sizing. It's not whether you're right or wrong — it's how much you make when you're right and how much you lose when you're wrong.”
   >
-  > ——来源：[Druckenmiller深度解析（附中英对照）](/investor-masters/sources/source-12/)
+  > ——来源：[Druckenmiller深度解析（附中英对照）](/investor-masters/sources/source-16/)
 
 - `怎么谈错误`: 谈错误时并不遮掩，甚至愿意把“受不了成功”这种带人格羞耻感的话直接说出来。
 
   > “我受不了成功。”
   >
-  > ——来源：[Druckenmiller深度解析（附中英对照）](/investor-masters/sources/source-12/)
+  > ——来源：[Druckenmiller深度解析（附中英对照）](/investor-masters/sources/source-16/)
 
 - `回答姿态`: 更像经验老兵和下注教练，不像学院派分析师。
 
   > “就凭你刚听到的这些信息量，我买了一个不算很大的英伟达仓位——但足以让我受伤或赚到钱。”
   >
-  > ——来源：[Druckenmiller深度解析（附中英对照）](/investor-masters/sources/source-12/)
+  > ——来源：[Druckenmiller深度解析（附中英对照）](/investor-masters/sources/source-16/)
 
-- `新增增量`: 新材料把他的 edge 从“看未来 18 个月”继续压成三件更硬的东西：知道什么时候停止分析、很多宏观判断其实来自公司经营本身、以及真正的优势是扣扳机而不是把模型做到最精细。
+- `新增增量`: 新材料把他的 优势来源 从“看未来 18 个月”继续压成三件更硬的东西：知道什么时候停止分析、很多宏观判断其实来自公司经营本身、以及真正的优势是扣扳机而不是把模型做到最精细。
 
   > “我觉得这是我们这个行业里最常见、也最致命的错误，（追求精细精准的）分析到最后，反而开始害你。”
   >
@@ -105,7 +105,7 @@ description: "知道什么时候该把仓位做大的人。"
   >
   > “我的优势不在于智商，而在于扣扳机。”
   >
-  > ——来源：[接下来三到四年，我其实挺兴奋！“对冲大神”德鲁肯米勒罕见交流，细谈近年来的投资决策与如何扣扳机](/investor-masters/sources/source-34/)、[宏观判断主要来自公司经营本身！“对冲大神”德鲁肯米勒：机会大到一定程度时先参与再说，看好贝森特和沃什的“财政+货币”组合](/investor-masters/sources/source-28/)
+  > ——来源：[接下来三到四年，我其实挺兴奋！“对冲大神”德鲁肯米勒罕见交流，细谈近年来的投资决策与如何扣扳机](/investor-masters/sources/source-63/)、[宏观判断主要来自公司经营本身！“对冲大神”德鲁肯米勒：机会大到一定程度时先参与再说，看好贝森特和沃什的“财政+货币”组合](/investor-masters/sources/source-57/)
 
 **画像判断**
 
@@ -137,11 +137,11 @@ description: "知道什么时候该把仓位做大的人。"
 
 **关键差异**
 
-他和詹森都高度关心宏观与 regime；最不像马克斯的地方，在于他更愿意在看对时迅速把仓位做大。
+他和詹森都高度关心宏观与 市场体制环境；最不像马克斯的地方，在于他更愿意在看对时迅速把仓位做大。
 
 ## 主要来源
 
-- [Druckenmiller深度解析（附中英对照）](/investor-masters/sources/source-12/)
-- [接下来三到四年，我其实挺兴奋！“对冲大神”德鲁肯米勒罕见交流，细谈近年来的投资决策与如何扣扳机](/investor-masters/sources/source-34/)
-- [宏观判断主要来自公司经营本身！“对冲大神”德鲁肯米勒：机会大到一定程度时先参与再说，看好贝森特和沃什的“财政+货币”组合](/investor-masters/sources/source-28/)
+- [Druckenmiller深度解析（附中英对照）](/investor-masters/sources/source-16/)
+- [接下来三到四年，我其实挺兴奋！“对冲大神”德鲁肯米勒罕见交流，细谈近年来的投资决策与如何扣扳机](/investor-masters/sources/source-63/)
+- [宏观判断主要来自公司经营本身！“对冲大神”德鲁肯米勒：机会大到一定程度时先参与再说，看好贝森特和沃什的“财政+货币”组合](/investor-masters/sources/source-57/)
 - [Stanley Druckenmiller - Wikipedia](https://en.wikipedia.org/wiki/Stanley_Druckenmiller)

@@ -1,18 +1,17 @@
 ---
-title: "卓越投资永远来自卓越判断！霍华德·马克斯内部对话，细谈当下做投资选择时最关键的要素"
+title: "Stanford GSB｜肯·格里芬：投资、竞争与未来"
 slug: "sources/source-25"
-description: "每一笔投资都必须审慎选择"
+description: "依据 Stanford GSB 公开文章页，整理 Ken Griffin 关于 winning、组织竞争与长期 ambition 的最新表达。"
 ---
 
-**原文件名**: `卓越投资永远来自卓越判断！霍华德·马克斯内部对话，细谈当下做投资选择时最关键的要素.md`  
-**外部来源**: https://mp.weixin.qq.com/s/8lqBPHIJia08kSnrDns7JQ
+**原文件名**: `Stanford GSB｜肯·格里芬：投资、竞争与未来.md`  
+**外部来源**: https://www.gsb.stanford.edu/insights/ken-griffin-investing-winning-why-hes-focused-future
 
-**时间**: 2026年3月16日 15:31
 
 ## 摘要
 
-每一笔投资都必须审慎选择
+依据 Stanford GSB 公开文章页，整理 Ken Griffin 关于 winning、组织竞争与长期 ambition 的最新表达。
 
 ## 节选
 
-因为很多核心的投资想法，霍华德 ·马克斯已经讲了很多遍，但每一次，不同的情景下，确实又有不同的共鸣点。
+> 整理说明： > Stanford GSB 当前公开页面提供的是节目摘要与部分关键引语，不是完整 transcript。本页只使用页面可见的明确表述。

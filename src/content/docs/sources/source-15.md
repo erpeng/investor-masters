@@ -1,17 +1,17 @@
 ---
-title: "McKinsey｜李·安斯利：走进 Maverick Capital，传统多空基金如何研究企业"
+title: "Colossus｜大卫·艾因霍恩：长短仓、反动量与价值投资"
 slug: "sources/source-15"
-description: "李·安斯利解释 Maverick 如何用行业专家制、长期基本面研究、管理层判断和建设性关系管理来做传统多空投资。"
+description: "依据 Colossus 官方节目页可见的 show notes 与节目介绍，整理大卫·艾因霍恩关于 Greenlight 演化、反动量、选股流程、做空、组合与 LP 关系的关键判断。"
 ---
 
-**原文件名**: `McKinsey｜李·安斯利：走进 Maverick Capital，传统多空基金如何研究企业.md`  
-**外部来源**: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/inside-a-hedge-fund-an-interview-with-the-managing-partner-of-maverick-capital
+**原文件名**: `Colossus｜大卫·艾因霍恩：长短仓、反动量与价值投资.md`  
+**外部来源**: https://www.joincolossus.com/episode/einhorn-the-long-and-short-of-investing/
 
 
 ## 摘要
 
-李·安斯利解释 Maverick 如何用行业专家制、长期基本面研究、管理层判断和建设性关系管理来做传统多空投资。
+依据 Colossus 官方节目页可见的 show notes 与节目介绍，整理大卫·艾因霍恩关于 Greenlight 演化、反动量、选股流程、做空、组合与 LP 关系的关键判断。
 
 ## 节选
 
-> 整理说明： > 本页依据 McKinsey 官方访谈原文整理，重点保留对 Maverick 研究组织、管理层判断、资本配置、透明度与长短仓关系最有价值的段落。
+> 整理说明： > 本页依据 Colossus 官方节目页公开可见的 `节目介绍 + 时间轴 + show notes` 整理。完整 transcript 需要登录后查看，因此这里只保留页面明确给出的主题与可验证判断，不把不可见内容硬写成逐字转录。

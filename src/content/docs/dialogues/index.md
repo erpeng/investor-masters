@@ -18,6 +18,7 @@ description: "对比会逼迫读者形成自己的判断。"
 - [周期位置 vs 制度裂缝](/investor-masters/dialogues/cycle-position-vs-structural-fracture/): 如果你总觉得“风险高了”，但还说不清危险到底来自摆钟过热，还是梁柱松动。
 - [制度裂缝 vs 制度红利](/investor-masters/dialogues/structural-fracture-vs-reform-dividend/): 如果你也在看制度，但还没想清楚自己到底是在先找裂缝，还是先找能四两拨千斤的疏通点。
 - [安静持有 vs 战役推动](/investor-masters/dialogues/quiet-holding-vs-campaign-push/): 如果你总在“时间自己会工作”与“结果需要我下场推动”之间摇摆。
+- [好生意自己是催化剂 vs 价值需要被推动](/investor-masters/dialogues/business-itself-vs-value-needs-pushing/): 如果你总在“好生意自己会兑现”与“价值需要事件或治理推动”之间摇摆。
 - [不懂不碰 vs 未来信息才重要](/investor-masters/dialogues/certainty-vs-future/): 如果你总在 `减少动作` 与 `重写世界描述` 之间摇摆。
 - [方向判断正确 vs 交易结构正确](/investor-masters/dialogues/direction-right-vs-structure-right/): 如果你开始意识到，很多错误不是看错，而是还没等真相兑现，你就先被路径淘汰了。
 - [看懂边界 vs 品味判断](/investor-masters/dialogues/boundary-vs-taste/): 如果你关心判断到底是来自收窄决策空间，还是来自长期训练后的内部罗盘。
@@ -28,7 +29,7 @@ description: "对比会逼迫读者形成自己的判断。"
 
 - **认识论问题**: [不懂不碰 vs 未来信息才重要](/investor-masters/dialogues/certainty-vs-future/)、[看懂边界 vs 品味判断](/investor-masters/dialogues/boundary-vs-taste/)、[可验证现金流 vs 站在变化的一边](/investor-masters/dialogues/verifiable-cashflow-vs-stand-with-change/)、[放弃做空 vs 保留空头脑](/investor-masters/dialogues/stop-shorting-vs-keep-a-short-mind/)
 - **风险与路径问题**: [保守的风险语言 vs 激进的仓位语言](/investor-masters/dialogues/risk-and-conviction/)、[方向判断正确 vs 交易结构正确](/investor-masters/dialogues/direction-right-vs-structure-right/)、[交易型反脆弱 vs 资本结构型反脆弱](/investor-masters/dialogues/trading-vs-capital-structure-antifragility/)、[周期位置 vs 制度裂缝](/investor-masters/dialogues/cycle-position-vs-structural-fracture/)、[制度裂缝 vs 制度红利](/investor-masters/dialogues/structural-fracture-vs-reform-dividend/)
-- **时间与催化剂问题**: [安静持有 vs 战役推动](/investor-masters/dialogues/quiet-holding-vs-campaign-push/)、[制度保护时间 vs 性格保护时间](/investor-masters/dialogues/institution-vs-temperament/)
+- **时间与催化剂问题**: [安静持有 vs 战役推动](/investor-masters/dialogues/quiet-holding-vs-campaign-push/)、[好生意自己是催化剂 vs 价值需要被推动](/investor-masters/dialogues/business-itself-vs-value-needs-pushing/)、[制度保护时间 vs 性格保护时间](/investor-masters/dialogues/institution-vs-temperament/)
 - **成长与分布问题**: [质量价值 vs 成长非共识](/investor-masters/dialogues/quality-vs-growth/)、[未来分布 vs 负债端现实](/investor-masters/dialogues/future-distribution-vs-liability-reality/)、[复制优秀模式 vs 寻找超级赢家](/investor-masters/dialogues/cloning-vs-super-winners/)、[可验证现金流 vs 站在变化的一边](/investor-masters/dialogues/verifiable-cashflow-vs-stand-with-change/)、[平台收敛赢家 vs 价值链瓶颈赢家](/investor-masters/dialogues/platform-winners-vs-bottleneck-winners/)
 
 ## 全部对话
@@ -42,6 +43,7 @@ description: "对比会逼迫读者形成自己的判断。"
 - [周期位置 vs 制度裂缝](/investor-masters/dialogues/cycle-position-vs-structural-fracture/)
 - [制度裂缝 vs 制度红利](/investor-masters/dialogues/structural-fracture-vs-reform-dividend/)
 - [安静持有 vs 战役推动](/investor-masters/dialogues/quiet-holding-vs-campaign-push/)
+- [好生意自己是催化剂 vs 价值需要被推动](/investor-masters/dialogues/business-itself-vs-value-needs-pushing/)
 - [方向判断正确 vs 交易结构正确](/investor-masters/dialogues/direction-right-vs-structure-right/)
 - [不懂不碰 vs 未来信息才重要](/investor-masters/dialogues/certainty-vs-future/)
 - [看懂边界 vs 品味判断](/investor-masters/dialogues/boundary-vs-taste/)

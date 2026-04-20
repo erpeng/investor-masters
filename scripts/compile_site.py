@@ -51,10 +51,24 @@ INVESTOR_META = {
     },
     "李·安斯利": {
         "slug": "lee-ainslie",
-        "tagline": "把 Tiger 学徒制压成行业专家制的人。",
+        "tagline": "把老虎基金学徒制压成行业专家制的人。",
         "institution": ("Maverick Capital", "institutions/maverick-capital"),
-        "holdings": "行业 long/short、管理层研究",
+        "holdings": "行业多空、管理层研究",
         "methods": "行业专家制 / 长短仓 / 资本配置判断",
+    },
+    "大卫·艾因霍恩": {
+        "slug": "david-einhorn",
+        "tagline": "把反动量、会计审问与多空结构写进机构语言的人。",
+        "institution": ("Greenlight Capital", "institutions/greenlight-capital"),
+        "holdings": "分拆错价、结构性空头、黄金对冲",
+        "methods": "反动量 / 透明度审问 / 法证式多空",
+    },
+    "尼克·特雷恩": {
+        "slug": "nick-train",
+        "tagline": "把极低换手、能力圈边界和长期特许经营持有推到极致的人。",
+        "institution": ("Lindsell Train", "institutions/lindsell-train"),
+        "holdings": "帝亚吉欧、伦敦证券交易所集团、RELX",
+        "methods": "慢买入、长持有 / 高质量特许经营 / 低换手",
     },
     "特里·史密斯": {
         "slug": "terry-smith",
@@ -104,6 +118,13 @@ INVESTOR_META = {
         "institution": ("Pershing Square", None),
         "holdings": "集中持仓、事件驱动",
         "methods": "催化剂 / 主动所有者 / 战役型投资",
+    },
+    "丹·勒布": {
+        "slug": "dan-loeb",
+        "tagline": "把事件驱动、催化剂与跨资本结构配置绑成一台组合机器的人。",
+        "institution": ("Third Point", "institutions/third-point"),
+        "holdings": "事件驱动权益、信用机会、主动推动仓位",
+        "methods": "事件驱动 / 催化剂 / 跨资本结构",
     },
     "斯坦利·德鲁肯米勒": {
         "slug": "stanley-druckenmiller",
@@ -184,10 +205,10 @@ INVESTOR_META = {
     },
     "肯·格里芬": {
         "slug": "ken-griffin",
-        "tagline": "把财政纪律、政策副作用和 market plumbing 放在一起看的人。",
+        "tagline": "把人才密度、平台方法与市场底层管道敏感度合成机构优势的人。",
         "institution": ("Citadel", "institutions/citadel"),
-        "holdings": "多策略交易、制度裂缝",
-        "methods": "财政现实 / 制度敏感度 / plumbing 风险",
+        "holdings": "多策略平台、制度裂缝、风险系统",
+        "methods": "平台建造 / 独立思考 / 底层管道风险",
     },
     "特蕾西·布里特·库尔": {
         "slug": "tracy-britt-cool",
@@ -195,6 +216,13 @@ INVESTOR_META = {
         "institution": ("Kanbrick", None),
         "holdings": "Kanbrick、中型企业长期持有",
         "methods": "经营型投资 / 文化优先 / 资本配置",
+    },
+    "塞思·卡拉曼": {
+        "slug": "seth-klarman",
+        "tagline": "把高现金、逆向纪律与耐心资本写成机构宪法的人。",
+        "institution": ("Baupost Group", "institutions/baupost-group"),
+        "holdings": "高现金、跨资产错价、危机便宜货",
+        "methods": "风险优先 / 耐心资本 / 跨资产价值投资",
     },
     "纳瓦尔·拉维坎特": {
         "slug": "naval-ravikant",
@@ -211,6 +239,7 @@ INVESTOR_INFO_SOURCES = {
     "霍华德·马克斯": "马克斯的信息来源更偏市场温度计，而不是单个公司故事。他高度关注信用利差、融资条件、投资者情绪、风险偏好和市场行为的摆动，通过这些指标判断周期走到了哪里。换句话说，他靠的是赔率环境和情绪环境，而不只是资产本身的静态价值。",
     "比尔·米勒": "米勒对信息来源的定义最宽。他明确认为，只要你理解一个信息渠道的优点和盲点，几乎任何来源都可以有用。这使他既愿意读传统财报，也愿意重视市场忽视的新技术、新资产类别和非主流叙事，关键是把这些信息放回未来现金流和长期价值的框架里。",
     "李·安斯利": "李·安斯利的信息来源带有非常强的 Tiger 味道：少而深的行业覆盖、长期关系网络、对管理层和 CFO 的持续交叉验证，以及对资本配置和透明度的反复追问。对他来说，信息优势不是拿到一条神秘消息，而是比别人更持续、更立体地理解一个行业和其中的赢家、输家。",
+    "尼克·特雷恩": "尼克·特雷恩的信息来源极其克制，核心还是年报、长期经营记录、品牌与 franchise 的持续表现，以及管理层质量和资本配置行为的长期可验证证据。他几乎不靠宏观预测来形成判断，更像是在少数能看懂的长期资产里反复确认“这家公司十年后二十年后是否仍然更强”。",
     "特里·史密斯": "特里·史密斯的信息来源偏向企业基本面本身，而不是外部故事。他反复盯收入质量、资本回报率、现金流、管理层纪律和竞争地位，核心是从企业长期报表里提炼出“这是不是一台高质量复利机器”。他不太依赖宏观预测，也不太依赖复杂渠道优势。",
     "段永平": "段永平的信息来源很克制，几乎都围绕“我能不能真正看懂”展开。他更看重产品体验、企业常识、管理层取向和长期商业逻辑，而不是市场上铺天盖地的信息流。对他来说，来源不是越多越好，而是能不能帮助自己建立足够清楚的能力圈边界。",
     "詹姆斯·安德森": "安德森的信息来源更像变化探测器。他会持续跟踪技术、创业公司、创始人、产业结构变化和极少数可能变成超级赢家的企业，把这些信息组合成对未来分布的判断。相比看静态指标，他更看谁正在真正改变世界，以及这种改变会不会被市场长期低估。",
@@ -218,6 +247,7 @@ INVESTOR_INFO_SOURCES = {
     "劳伦斯·伯恩斯": "伯恩斯的信息来源带有很强的产业链研究特征。现有资料显示，他擅长沿着 AI 和科技价值链去拆解机会，从硬件、基础设施到应用层逐层看清楚价值是如何传导的。这意味着他获得信息的方式，更像研究一个系统，而不是只盯一家公司的财务表。",
     "莫尼什·帕伯莱": "帕伯莱的信息来源高度依赖可借鉴的先例。他最典型的方法不是从零发明判断，而是研究历史上的成功投资、伟大投资人的公开持仓、股东信和可复制案例，然后在新的标的上寻找相似结构。这使他的来源系统天然带有“克隆”和模式迁移的味道。",
     "比尔·阿克曼": "阿克曼的信息来源更像一套战役情报系统。他会围绕少数核心标的做深研究，结合管理层、资本结构、治理问题、行业错配和公开表达，逐步把投资论点推到市场台前。对他来说，信息不只是用来理解公司，也是用来组织一场能够推动结果的行动。",
+    "丹·勒布": "丹·勒布的信息来源更像一套事件驱动情报系统。他不仅看公司价值本身，也持续跟踪资本结构、董事会和管理层决策、潜在催化剂、监管或交易事件，以及 equity 与 credit 之间的错配。对他来说，信息价值不止在“便不便宜”，而在“什么时候、通过什么路径会重新定价”。",
     "斯坦利·德鲁肯米勒": "德鲁肯米勒的信息来源很有辨识度：他既看宏观与价格，也高度依赖自己信任的专家网络。现有资料里最鲜明的一点是，他会非常认真观察那些在细分领域比自己懂得多得多的人在看什么、买什么，再用自己的模式识别和仓位能力把这些线索转成下注。换句话说，他不是靠自己懂所有细节，而是靠识别谁真的懂，以及市场会怎样消化这些变化。",
     "托德·库姆斯": "托德·库姆斯的信息来源偏经营化而非市场化。现有资料显示，他会从单店模型、回本周期、投资回报率这类非常具体的经营指标切入，把复杂企业先拆成可验证的小单元，再决定是否值得下注。这让他的信息入口更像运营视角，而不是交易视角。",
     "泰德·韦施勒": "韦施勒的信息来源看起来低噪音、重关系、重清晰表达。现有资料里，他更像那种通过长期跟踪企业、管理层和少数高质量机会来形成判断的投资人，而不是靠频繁切换信息渠道。他依赖的不是花哨的情报优势，而是持续积累的商业理解和人与人的判断。",
@@ -227,6 +257,7 @@ INVESTOR_INFO_SOURCES = {
     "格雷格·詹森": "詹森的信息来源更接近一台组织化研究机器。他不仅看宏观和市场数据，也非常在意新研究怎样被系统吸收、怎样在尚未完全模型化时先进入组合测试。对他来说，来源价值不只在信息本身，还在组织能否快速把新认知转成决策。",
     "尼科莱·坦根": "坦根的信息来源非常像高质量传感器系统。他高度重视访谈、提问方式、语言细节和人在压力下暴露出来的真实特征，同时也会训练团队像顶级运动员一样提升研究与复盘能力。换句话说，他获取信息不只靠数据，还靠从人与对话里捕捉真实信号。",
     "李录": "李录的信息来源分成两层：底层是公司原始材料、长期经营事实和把自己变成公司专才的研究过程；上层则是制度、资本市场和文明尺度的长期判断。对他来说，来源不是越多越好，而是能否帮助自己诚实地区分“知道什么、不知道什么”，并在少数 fat pitch 上真正建立长期所有者级别的理解。",
+    "肯·格里芬": "肯·格里芬的信息来源不是单一市场观点，而是一整套平台型传感器：价格与流动性、政策和财政现实、制度 plumbing、团队判断、数据与技术基础设施。他既看系统最底层的脆弱点，也看组织能否持续产生 forecast edge，因此信息价值最终要回到人才、风险系统与独立思考能力上。",
     "特蕾西·布里特·库尔": "特蕾西的信息来源更偏一线经营现场。现有资料里，她的方法明显依赖对创始人、组织文化、资本配置方式和管理行为的近距离观察，而不是纯粹靠财务筛选。她的信息优势更像长期陪伴式理解，而不是二级市场上的标准化研究。",
     "纳瓦尔·拉维坎特": "纳瓦尔的信息来源有很强的混合特征：一端是 AI、机器人、自动驾驶这类前沿技术与现代知识，另一端是哲学、宗教、古典文本这类长期稳定的人性材料；中间再由他自己的实践经验、识人直觉和反思把它们缝起来。对他来说，真正的边际优势不是某个独家渠道，而是能否把变化中的知识和不变的人性压缩成可行动的判断。",
 }
@@ -253,19 +284,24 @@ INSTITUTION_META = {
     "Bridgewater Associates": {"slug": "bridgewater-associates"},
     "Citadel": {"slug": "citadel"},
     "Duquesne Family Office": {"slug": "duquesne-family-office"},
+    "Lindsell Train": {"slug": "lindsell-train"},
     "Nomad Investment Partnership": {"slug": "nomad-investment-partnership"},
     "Oaktree Capital": {"slug": "oaktree-capital"},
     "Pershing Square": {"slug": "pershing-square"},
     "Fundsmith": {"slug": "fundsmith"},
+    "Greenlight Capital": {"slug": "greenlight-capital"},
+    "Baupost Group": {"slug": "baupost-group"},
     "Himalaya Capital": {"slug": "himalaya-capital"},
     "Lone Pine Capital": {"slug": "lone-pine-capital"},
     "Maverick Capital": {"slug": "maverick-capital"},
+    "Third Point": {"slug": "third-point"},
 }
 
 CONCEPT_META = {
     "护城河": {"slug": "moat"},
     "质量模式": {"slug": "quality-patterns"},
     "能力圈": {"slug": "circle-of-competence"},
+    "事件驱动": {"slug": "event-driven"},
     "第二层思维": {"slug": "second-level-thinking"},
     "共享规模经济": {"slug": "scale-economies-shared"},
     "经常性收入": {"slug": "recurring-revenues"},
@@ -289,6 +325,7 @@ COMPANY_SLUG_OVERRIDES = {
     "特斯拉": "tesla",
     "诺和诺德": "novo-nordisk",
     "苹果": "apple",
+    "帝亚吉欧": "diageo",
     "腾讯": "tencent",
     "小红书": "xiaohongshu",
     "MiniMax": "minimax",
@@ -310,10 +347,14 @@ COMPANY_SLUG_OVERRIDES = {
     "Howard Hughes": "howard-hughes",
     "Meta": "meta",
     "Palantir": "palantir",
+    "PG&E": "pge",
     "Silvergate Capital": "silvergate-capital",
     "Teva": "teva",
     "Visa": "visa",
     "ADP": "adp",
+    "Capital One": "capital-one",
+    "Live Nation": "live-nation",
+    "伦敦证券交易所集团": "london-stock-exchange-group",
 }
 
 DIALOGUE_SLUG_OVERRIDES = {
@@ -334,6 +375,7 @@ DIALOGUE_SLUG_OVERRIDES = {
     "平台收敛赢家 vs 价值链瓶颈赢家": "platform-winners-vs-bottleneck-winners",
     "未来分布 vs 负债端现实": "future-distribution-vs-liability-reality",
     "放弃做空 vs 保留空头脑": "stop-shorting-vs-keep-a-short-mind",
+    "好生意自己是催化剂 vs 价值需要被推动": "business-itself-vs-value-needs-pushing",
 }
 
 
@@ -768,7 +810,9 @@ def compile_investors():
             institution_md = institution_name
         output = DOCS_DIR / "investors" / f"{meta['slug']}.md"
         quote = convert_wikilinks(
-            first_blockquote(sections.get("人物分析", "")) or first_quote(sections.get("标志性语录", "")),
+            translate_common_phrases(
+                first_blockquote(sections.get("人物分析", "")) or first_quote(sections.get("标志性语录", ""))
+            ),
             output,
         )
         pieces = [
@@ -780,17 +824,25 @@ def compile_investors():
             f"**代表性持仓**: {meta['holdings']}  ",
             f"**核心方法**: {meta['methods']}\n",
             "## 简介\n",
-            convert_wikilinks(sections.get("简介", "现有资料暂未涉及。"), output),
+            convert_wikilinks(translate_common_phrases(sections.get("简介", "现有资料暂未涉及。")), output),
             "\n## 来时路\n",
-            convert_wikilinks(sections.get("来时路", "") or sections.get("来时路与关键转折", "当前语料未涉及。"), output),
+            convert_wikilinks(
+                translate_common_phrases(
+                    sections.get("来时路", "") or sections.get("来时路与关键转折", "当前语料未涉及。")
+                ),
+                output,
+            ),
             "\n## 人物分析\n",
-            convert_wikilinks(sections.get("人物分析", "当前语料未涉及。"), output),
+            convert_wikilinks(translate_common_phrases(sections.get("人物分析", "当前语料未涉及。")), output),
             "\n## 失误、边界与失效条件\n",
-            convert_wikilinks(sections.get("失误、边界与失效条件", "当前语料未涉及。"), output),
+            convert_wikilinks(
+                translate_common_phrases(sections.get("失误、边界与失效条件", "当前语料未涉及。")),
+                output,
+            ),
             "\n## 对我有什么启发\n",
-            convert_wikilinks(sections.get("对我有什么启发", "当前语料未涉及。"), output),
+            convert_wikilinks(translate_common_phrases(sections.get("对我有什么启发", "当前语料未涉及。")), output),
             "\n## 横向定位\n",
-            convert_wikilinks(sections.get("横向定位", "当前语料未涉及。"), output),
+            convert_wikilinks(translate_common_phrases(sections.get("横向定位", "当前语料未涉及。")), output),
             "\n## 主要来源\n",
             convert_wikilinks(sections.get("主要来源", "当前语料未涉及。"), output),
         ]
@@ -801,10 +853,11 @@ def compile_investors():
         render_frontmatter("投资人", "investors", "从人物、约束和边界切入理解不同投资方法。"),
         "这里不是投资人物百科，而是按“这个人为什么会这样投、这套方法在什么边界下成立”来组织的入口。\n",
         "## 从哪里开始\n",
-        f"- **价值投资**: [沃伦·巴菲特]({doc_url('investors/warren-buffett')})、[查理·芒格]({doc_url('investors/charlie-munger')})、[特里·史密斯]({doc_url('investors/terry-smith')})",
+        f"- **价值投资**: [沃伦·巴菲特]({doc_url('investors/warren-buffett')})、[查理·芒格]({doc_url('investors/charlie-munger')})、[特里·史密斯]({doc_url('investors/terry-smith')})、[尼克·特雷恩]({doc_url('investors/nick-train')})",
+        f"- **经典 long/short / 深度价值 / 事件驱动**: [大卫·艾因霍恩]({doc_url('investors/david-einhorn')})、[李·安斯利]({doc_url('investors/lee-ainslie')})、[塞思·卡拉曼]({doc_url('investors/seth-klarman')})、[丹·勒布]({doc_url('investors/dan-loeb')})",
         f"- **成长投资**: [詹姆斯·安德森]({doc_url('investors/james-anderson')})、[汤姆·斯莱特]({doc_url('investors/tom-slater')})、[劳伦斯·伯恩斯]({doc_url('investors/lawrence-burns')})",
         f"- **宏观与风险**: [霍华德·马克斯]({doc_url('investors/howard-marks')})、[斯坦利·德鲁肯米勒]({doc_url('investors/stanley-druckenmiller')})、[格雷格·詹森]({doc_url('investors/greg-jensen')})",
-        f"- **新增材料重点**: [格雷格·阿贝尔]({doc_url('investors/greg-abel')})、[凯茜·伍德]({doc_url('investors/cathie-wood')})、[肯·格里芬]({doc_url('investors/ken-griffin')})",
+        f"- **新增材料重点**: [尼克·特雷恩]({doc_url('investors/nick-train')})、[丹·勒布]({doc_url('investors/dan-loeb')})、[肯·格里芬]({doc_url('investors/ken-griffin')})",
         f"- **最不寻常的思维**: [尼克·斯利普]({doc_url('investors/nick-sleep')})、[尼科莱·坦根]({doc_url('investors/nicolai-tangen')})、[纳瓦尔·拉维坎特]({doc_url('investors/naval-ravikant')})\n",
         "## 比较视图\n",
         f"- [投资人比较矩阵]({doc_url('investors/comparison-matrix')})",
@@ -838,14 +891,16 @@ def compile_companies():
         output = DOCS_DIR / "companies" / f"{slug}.md"
         content = [
             render_frontmatter(name, f"companies/{slug}", consensus),
-            f"> **争议与共识**  \n> {consensus}\n",
+            f"> **争议与共识**  \n> {translate_common_phrases(consensus)}\n",
             "## 简介\n",
-            convert_wikilinks(intro or "现有资料暂未涉及。", output),
+            convert_wikilinks(translate_common_phrases(intro or "现有资料暂未涉及。"), output),
             "\n## 公司点评\n",
-            convert_wikilinks(sections.get("公司点评", "现有资料暂未涉及。"), output),
+            convert_wikilinks(translate_common_phrases(sections.get("公司点评", "现有资料暂未涉及。")), output),
         ]
         if sections.get("分歧与共识"):
-            content.extend(["\n## 分歧与共识\n", convert_wikilinks(sections.get("分歧与共识", ""), output)])
+            content.extend(
+                ["\n## 分歧与共识\n", convert_wikilinks(translate_common_phrases(sections.get("分歧与共识", "")), output)]
+            )
         content.extend(["\n## 相关页面\n", convert_wikilinks(sections.get("相关页面", "现有资料暂未涉及。"), output)])
         write(output, "\n".join(content))
 
@@ -879,7 +934,7 @@ def compile_institutions():
         write(
             output,
             render_frontmatter(name, f"institutions/{meta['slug']}", f"{name} 的机构级哲学、文化与传承。")
-            + convert_wikilinks(cleaned_body, output),
+            + convert_wikilinks(translate_common_phrases(cleaned_body), output),
         )
 
 
@@ -893,6 +948,10 @@ def compile_institutions():
                 f"- [AKO Capital]({doc_url('institutions/ako-capital')}): 为什么 quality investing 只有在 specialist teams 和反馈闭环里才真正制度化。",
                 f"- [Maverick Capital]({doc_url('institutions/maverick-capital')}): 为什么 Tiger 学徒制会长成行业专家制和建设性 long/short。",
                 f"- [Lone Pine Capital]({doc_url('institutions/lone-pine-capital')}): 为什么变化驱动投资最终会变成组织与文化问题。",
+                f"- [Greenlight Capital]({doc_url('institutions/greenlight-capital')}): 为什么反动量、分拆错价和会计审问会被写成一台公开市场机器。",
+                f"- [Baupost Group]({doc_url('institutions/baupost-group')}): 为什么高现金、patient capital 和跨资产比较不是口号，而是机构边界。",
+                f"- [Lindsell Train]({doc_url('institutions/lindsell-train')}): 为什么极低换手、franchise 选择和能力圈约束必须被制度保护。",
+                f"- [Third Point]({doc_url('institutions/third-point')}): 为什么事件驱动、催化剂和跨资本结构配置会长成一套组合语言。",
                 f"- [Berkshire Hathaway]({doc_url('institutions/berkshire-hathaway')}): 为什么永久资本和保险 float 能形成独特制度优势。",
                 f"- [Oaktree Capital]({doc_url('institutions/oaktree-capital')}): 为什么备忘录不只是写作，而是组织知识资产。",
                 f"- [ARK Invest]({doc_url('institutions/ark-invest')}): 为什么公开市场也能被当成技术平台地图来下注。",
@@ -1003,8 +1062,162 @@ def compile_ten_questions():
         write(
             out,
             render_frontmatter(title, f"ten-questions/{slug}", title)
-            + convert_wikilinks(cleaned_body, out),
+            + convert_wikilinks(translate_common_phrases(translate_ten_question_quotes(cleaned_body)), out),
         )
+
+
+TEN_QUESTION_QUOTE_TRANSLATIONS = {
+    "“The approach that he and Lindsell find works best for them is the ‘slow buy and hold’ perspective of Warren Buffett.”": "“他和 Lindsell 最认同、也最适合自己的方法，是巴菲特式的‘慢买入、长持有’视角。”",
+    "“The most likely requirement of success is finding the investment approach that is most emotionally satisfying for you.”": "“最可能决定你能否成功的，是找到那套在情绪上最适合你、最能让你长期坚持的方法。”",
+    "“His counter-momentum approach to markets”": "“他对市场采取的是一种反动量的方法。”",
+    "“We have a habit of looking at spinoffs.”": "“我们有长期研究分拆公司的习惯。”",
+    "“there’s many securities that are radically misvalued and undervalued.”": "“市场里有很多证券被严重错定价，而且明显被低估。”",
+    "“the intersection of economics and policy has made employing second-order thinking important”": "“经济与政策的交叉影响，使第二层思维变得格外重要。”",
+    "“its edge comes from its collaborative culture and ability to allocate flexibly between equities and credit”": "“它的优势来自协作文化，以及在股票和信用之间灵活配置资本的能力。”",
+    "“Even if it’s irrational, I think acknowledging one’s weaknesses is helpful, and not straying into areas where you have not demonstrated the ability to pick winners in the past.”": "“哪怕这种克制看上去不完全理性，我仍然认为承认自己的弱点是有帮助的，不要跑到那些你过去从未证明自己能持续挑出赢家的领域里去。”",
+    "“I don’t think it’s helpful to think about that sort of thing.”": "“我觉得反复去想那一类事情并没有帮助。”",
+    "“Shorting provides cash for you when the market goes down”": "“当市场下跌时，做空会为你提供现金。”",
+    "“gold is a very large position for us.”": "“黄金在我们的组合里是一个非常大的头寸。”",
+    "“there’s a problem with the overall monetary and fiscal policies”": "“整体货币政策和财政政策本身就存在问题。”",
+    "“opportunistic sales ... took its gross and net exposures to multi-year lows and provided dry powder”": "“机会型卖出把总敞口和净敞口都压到了多年低位，也为后续出手腾出了干火药。”",
+    "“event-driven, activist, and risk arbitrage positions ... due to their catalyst-oriented nature”": "“之所以增加事件驱动、主动推动和风险套利仓位，是因为这些机会天然带有催化剂导向。”",
+    "“We think it’s madness to target a return.”": "“我们认为把回报目标当成硬指标，本身就是一种疯狂。”",
+    "“My view is that you can target risk versus return.”": "“在我看来，你能真正设定的，是风险与回报的关系，而不是死盯某个回报数字。”",
+    "“After sitting patiently on the sidelines with a mountain of cash”": "“在场边抱着大笔现金耐心等待了很久之后。”",
+    "“The gatekeepers such as the SEC and sell-side analysts might not be acting on their behalf.”": "“像 SEC 和卖方分析师这样的守门人，未必真的站在股东一边行事。”",
+    "“they should be appropriately skeptical of the various gatekeepers”": "“他们应该对各种守门人保持适度怀疑。”",
+    "“improve its capital allocation framework”": "“改进它的资本配置框架。”",
+    "“review its executive compensation programs to ensure management’s incentives remain aligned with stockholder value creation”": "“重新审视高管薪酬体系，确保管理层激励始终与股东价值创造保持一致。”",
+    "“The importance of meeting management teams and assessing intent”": "“与管理层见面、判断其真实意图，这件事非常重要。”",
+    "“Building and educating a long-term oriented client base”": "“建立并教育一批真正面向长期的客户基础。”",
+    "“The value investing industry and value investing are two completely different things.”": "“价值投资这个行业，和价值投资这件事本身，是完全不同的两回事。”",
+    "“What matters to us is, will the Chinese lose their thirst for Johnnie Walker Blue Label ... over the next 50 years?”": "“我们真正关心的是，未来五十年里，中国消费者会不会失去对尊尼获加蓝牌这类品牌的渴望？”",
+    "“alignment of interests”": "“利益一致性。”",
+    "“quality of management teams”": "“管理团队的质量。”",
+    "“The ‘slow buy and hold’ perspective”": "“慢买入、长持有的视角。”",
+    "“running winners”": "“让赢家继续跑。”",
+    "“That’s been a core investment strategy for us for many, many, many years.”": "“这在很多很多年里，一直都是我们的核心投资策略。”",
+    "“all of our shorts are idiosyncratic ideas”": "“我们的所有空头，都是公司特定型的独立想法。”",
+    "“some with event-driven catalysts, others with quality characteristics, and several idiosyncratic themes”": "“其中有些仓位带有事件驱动催化剂，有些带有质量特征，还有一些属于独特主题。”",
+    "“ability to allocate flexibly between equities and credit”": "“在股票和信用之间灵活配置的能力。”",
+    "“Real focus here, though, on depth, not breadth.”": "“这里真正强调的，是深度，而不是广度。”",
+    "“That’s really the founding principle of the firm is a real pursuit of talent.”": "“这家公司真正的创始原则，就是对顶尖人才的持续追求。”",
+    "“The role of patient capital”": "“耐心资本所扮演的角色。”",
+    "“How Baupost evaluates opportunities across asset classes”": "“Baupost 如何在不同资产类别之间评估机会。”",
+    "“They explore timeless principles of market inefficiencies, the importance of temperament, specialization versus generalization, the role of patient capital…”": "“他们讨论的是一些不过时的原则：市场低效、性格的重要性、专精与泛化的取舍，以及耐心资本的作用……”",
+    "“value investing is intellectually elegant.”": "“价值投资在智识上是一种非常优雅的方法。”",
+    "“there’s a lot fewer people right now looking to try to buy undervalued companies.”": "“现在认真去寻找低估公司的投资者，已经少得多了。”",
+    "“there will likely be periodic dislocations caused by the unconventional approach of this Administration”": "“这届政府的非常规做法，很可能会周期性地制造市场错位。”",
+    "“What happens is that people always want to believe that this time is different”": "“人们总是想相信，这一次会不一样。”",
+    "“securitization ... also gives you a lack of transparency.”": "“证券化这件事……同时也带来了透明度缺失。”",
+}
+
+
+def translate_ten_question_quotes(text: str) -> str:
+    for english, chinese in TEN_QUESTION_QUOTE_TRANSLATIONS.items():
+        text = text.replace(english, chinese)
+    return text
+
+
+COMMON_PHRASE_TRANSLATIONS = {
+    "slow buy and hold": "慢买入、长持有",
+    "quality investor": "质量投资者",
+    "quality investing": "质量投资",
+    "event-driven": "事件驱动",
+    "second-order thinking": "第二层思维",
+    "opportunistic allocator": "机会型配置者",
+    "opportunistic allocation": "机会型配置",
+    "special situations": "特殊情境",
+    "engagement": "主动推动与沟通",
+    "stock picker": "选股者",
+    "cross-capital-structure": "跨资本结构",
+    "multi-strategy": "多策略",
+    "dynamic allocation": "动态配置",
+    "credit / structured products / privates": "信用 / 结构化产品 / 私募资产",
+    "headline reaction": "标题级反应",
+    "gross / net exposure": "总敞口 / 净敞口",
+    "dry powder": "干火药",
+    "public confrontation": "公开对抗",
+    "public combativeness": "公开对抗姿态",
+    "patient capital": "耐心资本",
+    "risk vs return": "风险与回报",
+    "market inefficiencies": "市场低效",
+    "value investor": "价值投资者",
+    "long/short hedge fund manager": "多空对冲基金经理",
+    "long/short": "多空",
+    "market plumbing": "市场底层管道",
+    "counter-momentum": "反动量",
+    "mispricing": "错价",
+    "transparency": "透明度",
+    "gatekeepers": "守门人",
+    "shorting": "做空",
+    "spinoffs": "分拆",
+    "broken market": "失灵市场",
+    "run winners": "让赢家继续跑",
+    "masterly inactivity": "高手式不作为",
+    "beat market": "跑赢市场",
+    "durability": "耐久性",
+    "Tiger Cub": "老虎幼崽",
+    "depth, not breadth": "重深度，不重广度",
+    "founding principle": "创始原则",
+    "forecast": "前瞻判断",
+    "builder": "建造者",
+    "pressure tester": "压力测试者",
+    "founder-allocator": "创始人型配置者",
+    "platform investing": "平台式投资",
+    "edge": "优势来源",
+    "catalyst-oriented nature": "催化剂导向特征",
+    "quality characteristics": "质量特征",
+    "platform assets": "平台型资产",
+    "quality compounders": "高质量复利资产",
+    "premium brand": "高端品牌",
+    "developing economies": "发展中经济体",
+    "heritage": "品牌历史积淀",
+    "investment diamonds": "投资钻石",
+    "tech-enabled": "技术赋能型",
+    "intellectual property": "知识产权",
+    "tech-enabled companies": "技术赋能型公司",
+    "tech-led growth opportunities": "技术驱动的增长机会",
+    "activist": "主动推动型投资者",
+    "risk arb": "风险套利",
+    "home run": "本垒打",
+    "skin in the game": "与结果共担",
+    "consensus trade": "共识交易",
+    "contrarian": "逆向投资者",
+    "alpha": "阿尔法收益",
+    "regime": "市场体制环境",
+    "duration": "持有久期",
+    "flexibility": "灵活性",
+    "franchise": "特许经营资产",
+    "winners": "赢家",
+    "losers": "输家",
+    "thesis": "投资论点",
+    "activism": "主动推动",
+    "opportunistic book": "机会型组合",
+    "equities": "股票",
+    "credit": "信用",
+    "focus": "聚焦",
+    "Proxy Statement": "委托书文件",
+    "variant perception": "非共识认知",
+    "charisma": "个人魅力",
+    "sell-side": "卖方",
+    "opportunistic sales": "机会型卖出",
+    "risk arb": "风险套利",
+    "idiosyncratic themes": "独特主题",
+    "activist positions": "主动推动仓位",
+    "forensic long-short": "法证式多空",
+    "plumbing risk": "底层管道风险",
+    "focus在": "聚焦在",
+    "focus（聚焦）": "聚焦",
+    "Investment Simulator": "投资模拟器",
+    "Mag 7": "美股七巨头",
+}
+
+
+def translate_common_phrases(text: str) -> str:
+    for english, chinese in COMMON_PHRASE_TRANSLATIONS.items():
+        text = text.replace(english, chinese)
+    return text
 
 def compile_sources():
     index_lines = [

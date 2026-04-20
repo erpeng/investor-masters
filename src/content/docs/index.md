@@ -12,25 +12,26 @@ description: "把分散的投资访谈、合伙人信和机构材料，编译成
 
 ## 从哪里开始
 
-- **我想了解价值投资**: [沃伦·巴菲特](/investor-masters/investors/warren-buffett/)、[查理·芒格](/investor-masters/investors/charlie-munger/)、[特里·史密斯](/investor-masters/investors/terry-smith/)、[李录](/investor-masters/investors/li-lu/)
+- **我想了解价值投资**: [沃伦·巴菲特](/investor-masters/investors/warren-buffett/)、[查理·芒格](/investor-masters/investors/charlie-munger/)、[特里·史密斯](/investor-masters/investors/terry-smith/)、[李录](/investor-masters/investors/li-lu/)、[尼克·特雷恩](/investor-masters/investors/nick-train/)
+- **我想了解经典 long/short / event-driven**: [大卫·艾因霍恩](/investor-masters/investors/david-einhorn/)、[李·安斯利](/investor-masters/investors/lee-ainslie/)、[史蒂芬·曼德尔](/investor-masters/investors/stephen-mandel/)、[丹·勒布](/investor-masters/investors/dan-loeb/)
 - **我想了解成长投资**: [詹姆斯·安德森](/investor-masters/investors/james-anderson/)、[汤姆·斯莱特](/investor-masters/investors/tom-slater/)、[劳伦斯·伯恩斯](/investor-masters/investors/lawrence-burns/)
 - **我想了解 Tiger Cub 这条线**: [李·安斯利](/investor-masters/investors/lee-ainslie/)、[史蒂芬·曼德尔](/investor-masters/investors/stephen-mandel/)
 - **我想了解宏观与风险**: [霍华德·马克斯](/investor-masters/investors/howard-marks/)、[斯坦利·德鲁肯米勒](/investor-masters/investors/stanley-druckenmiller/)、[格雷格·詹森](/investor-masters/investors/greg-jensen/)
 - **我想看最不寻常的思维**: [尼克·斯利普](/investor-masters/investors/nick-sleep/)、[尼科莱·坦根](/investor-masters/investors/nicolai-tangen/)、[纳瓦尔·拉维坎特](/investor-masters/investors/naval-ravikant/)
 - **我想直接从方法分歧读进去**: [不懂不碰 vs 未来信息才重要](/investor-masters/dialogues/certainty-vs-future/)、[方向判断正确 vs 交易结构正确](/investor-masters/dialogues/direction-right-vs-structure-right/)、[质量价值 vs 成长非共识](/investor-masters/dialogues/quality-vs-growth/)、[保守的风险语言 vs 激进的仓位语言](/investor-masters/dialogues/risk-and-conviction/)
 - **我想沿 Berkshire 这一支往下读**: [Berkshire Hathaway](/investor-masters/institutions/berkshire-hathaway/) → [伯克希尔·哈撒韦](/investor-masters/companies/berkshire-hathaway/) / [GEICO](/investor-masters/companies/geico/) → [护城河](/investor-masters/concepts/moat/) / [能力圈](/investor-masters/concepts/circle-of-competence/) / [反脆弱与仓位管理](/investor-masters/concepts/antifragility-and-position-sizing/) → [静态能力圈 vs 可审计能力圈](/investor-masters/dialogues/static-vs-auditable-circle/) / [交易型反脆弱 vs 资本结构型反脆弱](/investor-masters/dialogues/trading-vs-capital-structure-antifragility/)
-- **我想直接从最近提纯过的公司样本读**: [Alphabet](/investor-masters/companies/alphabet/)、[Universal Music Group](/investor-masters/companies/universal-music-group/)、[亚马逊](/investor-masters/companies/amazon/)、[可口可乐](/investor-masters/companies/coca-cola/)、[Herbalife](/investor-masters/companies/herbalife/)、[Valeant](/investor-masters/companies/valeant/)
+- **我想直接从最近提纯过的公司样本读**: [RELX](/investor-masters/companies/relx/)、[Sage](/investor-masters/companies/sage/)、[PG&E](/investor-masters/companies/pge/)、[Brookfield](/investor-masters/companies/brookfield/)、[Apollo](/investor-masters/companies/apollo/)、[Heineken](/investor-masters/companies/heineken/)
 - **我带着一个具体问题来**: [投资十问](/investor-masters/ten-questions/)
 
 ## 精选语录墙
 
-> “当定价错误的企业回升到合理估值时，价格便不再便宜。”
+> “同样的，如果你只看到负债端……你会说，天呐，这些东西简直是一场灾难。”
 
-> “他们就不得不卖出，再去寻找新的廉价股。”
+> “我首先想到的是一页一页翻阅所有这些证券化文件，然后发现这些支点证券。”
 
-> “如果你能问得好，问得准，做好准备，你就能从对方那里获取别人得不到的信息。”
+> “我完整地拼出了拼图。”
 
-> “好公司……总会做出一些了不起的事，总能变出点出人意料的东西。”
+> “做空对我来说绝对是基本的行为方式和思考投资的方式。”
 
 ## 对话与争议
 
@@ -40,6 +41,7 @@ description: "把分散的投资访谈、合伙人信和机构材料，编译成
 - [未来分布 vs 负债端现实](/investor-masters/dialogues/future-distribution-vs-liability-reality/): `先找例外赢家` 与 `先审负债端脆弱性` 之间的分歧。
 - [保守的风险语言 vs 激进的仓位语言](/investor-masters/dialogues/risk-and-conviction/): `先活下来` 与 `看对以后结果要足够大` 之间的分歧。
 - [安静持有 vs 战役推动](/investor-masters/dialogues/quiet-holding-vs-campaign-push/): 尼克·斯利普与阿克曼对催化剂来源的分歧。
+- [好生意自己是催化剂 vs 价值需要被推动](/investor-masters/dialogues/business-itself-vs-value-needs-pushing/): Nick Train 与 Dan Loeb 对“价值如何兑现”的分歧。
 - [方向判断正确 vs 交易结构正确](/investor-masters/dialogues/direction-right-vs-structure-right/): `真相可能太慢，先被路径淘汰` 这件事如何改变你对“正确”的理解。
 - [制度裂缝 vs 制度红利](/investor-masters/dialogues/structural-fracture-vs-reform-dividend/): 同样看制度，有人先看裂缝，有人先看疏通后的制度红利。
 - [不懂不碰 vs 未来信息才重要](/investor-masters/dialogues/certainty-vs-future/): `减少动作` 与 `重写世界描述` 之间的认识论分歧。
@@ -50,7 +52,7 @@ description: "把分散的投资访谈、合伙人信和机构材料，编译成
 
 ## 最近更新
 
-- `2026-04-15` 新增 Lee Ainslie / Stephen Mandel 四篇关键材料，并补出 Maverick / Lone Pine 两条 Tiger Cub 主线。
+- `2026-04-20` 十问中文化、验证卡补强与原文 companion 现有资料 入库
 - `2026-04-12` 新增 Duquesne Family Office 机构页
 - `2026-04-11` 为机构页统一补入近四个季度 13F 持仓
 - `2026-04-11` 用权威公开履历补齐新增投资人的来时路

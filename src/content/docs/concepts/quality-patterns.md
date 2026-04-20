@@ -53,5 +53,5 @@ AKO Capital 把这个问题讲得尤其清楚。它不是先看几项财务比�
 
 ## 主要来源
 
-- [J.P. Morgan｜AKO Capital：数据如何进入主观投资流程](/investor-masters/sources/source-13/)
+- [J.P. Morgan｜AKO Capital：数据如何进入主观投资流程](/investor-masters/sources/source-19/)
 - [AKO Quality Investing](https://www.akocapital.com/quality-investing/)

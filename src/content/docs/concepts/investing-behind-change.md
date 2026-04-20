@@ -34,6 +34,6 @@ description: "变化驱动投资 在这批资料 里的最佳入口。"
 
 ## 主要来源
 
-- [Colossus｜史蒂芬·曼德尔：顺着变化下注](/investor-masters/sources/source-11/)
-- [Joys of Compounding｜史蒂芬·曼德尔：来自 Lone Pine 的经验课](/investor-masters/sources/source-14/)
+- [Colossus｜史蒂芬·曼德尔：顺着变化下注](/investor-masters/sources/source-14/)
+- [Joys of Compounding｜史蒂芬·曼德尔：来自 Lone Pine 的经验课](/investor-masters/sources/source-20/)
 - [2.5万字｜柏基“传奇基金经理”安德森的罕见深访：伟大公司各有各的独特，平庸公司却都差不多……](/investor-masters/sources/source-02/)

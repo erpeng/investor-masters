@@ -1,17 +1,17 @@
 ---
-title: "Colossus｜史蒂芬·曼德尔：顺着变化下注"
+title: "CNBC｜大卫·艾因霍恩：被动化时代的价值投资与分拆机会"
 slug: "sources/source-11"
-description: "史蒂芬·曼德尔谈投资行业如何变化、为什么做空更难、为什么仍要深入企业内部，以及 Lone Pine 如何围绕变化建立研究优势。"
+description: "依据 CNBC Power Lunch 公开 transcript，整理大卫·艾因霍恩关于分拆策略、被动化造成的市场错价、继续做空以及黄金对冲的完整判断。"
 ---
 
-**原文件名**: `Colossus｜史蒂芬·曼德尔：顺着变化下注.md`  
-**外部来源**: https://joincolossus.com/episode/mandel-investing-behind-change/
+**原文件名**: `CNBC｜大卫·艾因霍恩：被动化时代的价值投资与分拆机会.md`  
+**外部来源**: https://www.cnbc.com/2024/04/03/cnbc-exclusive-cnbc-transcript-greenlight-capital-co-founder-president-david-einhorn-speaks-with-cnbcs-scott-wapner-on-power-lunch-today.html
 
 
 ## 摘要
 
-史蒂芬·曼德尔谈投资行业如何变化、为什么做空更难、为什么仍要深入企业内部，以及 Lone Pine 如何围绕变化建立研究优势。
+依据 CNBC Power Lunch 公开 transcript，整理大卫·艾因霍恩关于分拆策略、被动化造成的市场错价、继续做空以及黄金对冲的完整判断。
 
 ## 节选
 
-> 整理说明： > 本页依据 Colossus 节目页、公开节目简介、可见 transcript 开头与公开 show notes 整理而成。 > 这不是官方完整逐字稿，但核心主题与判断均来自官方节目页和公开可核验摘要。
+> 整理说明： > 本页依据 CNBC / NBCUniversal News Group 公开 transcript 整理，重点保留艾因霍恩对 `分拆 / 被动化 / 市场结构 / 做空 / 黄金` 的原始口径。

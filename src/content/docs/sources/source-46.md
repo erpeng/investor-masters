@@ -1,19 +1,17 @@
 ---
-title: "莫尼什·帕伯莱：芒格会将简单的想法认真执行"
+title: "原文｜Harvard Business School｜塞思·卡拉曼：危机中的 Baupost 与价值纪律"
 slug: "sources/source-46"
-description: "一旦下定决心，坚持不懈地追求简单的想法，就会有很多好的结果。"
+description: "从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML。"
 ---
 
-**原文件名**: `莫尼什·帕伯莱：芒格会将简单的想法认真执行.md`  
-**外部来源**: https://mp.weixin.qq.com/s/g_Ndt-XxJvVwzVHqKZVe_g
+**原文件名**: `原文｜Harvard Business School｜塞思·卡拉曼：危机中的 Baupost 与价值纪律.md`  
+**外部来源**: https://www.marketfolly.com/2008/12/interview-with-seth-klarman-of-baupost.html
 
-**作者**: 文丨 李健  
-**时间**: 2024年5月22日 09:41
 
 ## 摘要
 
-一旦下定决心，坚持不懈地追求简单的想法，就会有很多好的结果。
+从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML。
 
 ## 节选
 
-3月20日，印度裔投资家莫尼什·帕伯莱接受了YPO的采访。谈到了他与查理·芒格的友谊，以及他从这位已故的投资家身上学到的智慧。
+- 对应整理稿：[[现有资料/Harvard Business School｜塞思·卡拉曼：危机中的 Baupost 与价值纪律.md]] - 抓取时间：`2026-04-20` - 抽取方式：`HTML` - 原始域名：`www.marketfolly.com`

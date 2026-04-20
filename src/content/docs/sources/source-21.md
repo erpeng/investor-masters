@@ -1,19 +1,17 @@
 ---
-title: "为什么投资需要专业之外的“意外信息源”？——暗能量诺奖得主的投资洞察（上）| 泉果探照灯"
+title: "McKinsey｜李·安斯利：走进 Maverick Capital，传统多空基金如何研究企业"
 slug: "sources/source-21"
-description: "投资最有价值的信息，可能藏在哪些人的脑袋里？"
+description: "李·安斯利解释 Maverick 如何用行业专家制、长期基本面研究、管理层判断和建设性关系管理来做传统多空投资。"
 ---
 
-**原文件名**: `为什么投资需要专业之外的“意外信息源”？——暗能量诺奖得主的投资洞察（上） 泉果探照灯.md`  
-**外部来源**: https://mp.weixin.qq.com/s/K4h4wwEzLMFWMG5VQXTcgQ
+**原文件名**: `McKinsey｜李·安斯利：走进 Maverick Capital，传统多空基金如何研究企业.md`  
+**外部来源**: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/inside-a-hedge-fund-an-interview-with-the-managing-partner-of-maverick-capital
 
-**作者**: 原创 泉果探照灯  
-**时间**: 2026年2月6日 11:59
 
 ## 摘要
 
-投资最有价值的信息，可能藏在哪些人的脑袋里？
+李·安斯利解释 Maverick 如何用行业专家制、长期基本面研究、管理层判断和建设性关系管理来做传统多空投资。
 
 ## 节选
 
-就在几周前，掌管着“全球最大钱袋子”的挪威主权基金掌门人Nicolai Tangen（尼科莱·坦根），与因发现了“暗能量”而闻名遐迩的诺贝尔物理学奖得主Saul Perlmutter（索尔·珀尔马特），以“专业投资”为主题，展开了一场非常特别的对谈。
+> 整理说明： > 本页依据 McKinsey 官方访谈原文整理，重点保留对 Maverick 研究组织、管理层判断、资本配置、透明度与长短仓关系最有价值的段落。
