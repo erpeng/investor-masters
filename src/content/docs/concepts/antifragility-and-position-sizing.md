@@ -13,6 +13,8 @@ description: "反脆弱与仓位管理 在这批资料 里的最佳入口。"
 
 [斯坦利·德鲁肯米勒](/investor-masters/investors/stanley-druckenmiller/) 和 [霍华德·马克斯](/investor-masters/investors/howard-marks/) 最适合并排解释它。德鲁肯米勒更强调在看对时把仓位做大，他的世界里，真正的大钱往往来自极少数重仓时刻。马克斯则更强调别先被杠杆、错误周期位置和错误赔率毁掉；在他那里，先活下来、再在高赔率时承担明智风险，才是长期可持续的路径。更具体地说，霍华德真正厌恶的不是账面波动，而是组合被融资、保证金和心理压力逼到最差位置清仓出局。
 
+沃顿对话又补了一层：反脆弱还取决于你到底在玩什么资产类别游戏。信用投资里，避开几个重大违约就足以产生不错结果；股票、VC 或部分房地产则常常需要抓到少数赢家。把这两种游戏混在一起，是很多组合管理错误的源头：该少犯错的地方去追制胜球，该抓赢家的地方却因为涨了就急着下车。
+
 这两人放在一起，最能说明“风险管理”这个词为什么容易误导人。很多人以为风险管理就是控制波动、别亏钱；但在这里，它更像一种结构设计: 让你既不会被错误一击致命，又能在真正有优势时把收益拉开。
 
 [比尔·阿克曼](/investor-masters/investors/bill-ackman/) 则从另一侧把这件事讲得更有血。因为他的组合本来就集中、公开、承压，所以他特别清楚哪些结构会先把人打死。他给普通投资者最硬的一条建议就是“不要借钱投资”；而在 [Herbalife](/investor-masters/companies/herbalife/) 这场空头里，他又亲口承认，方向判断和交易结构不是一回事，做空这种损失上限无限的工具天然就不反脆弱。再加上 [Valeant](/investor-masters/companies/valeant/) 之后的组合连锁反应，阿克曼让这页多出了一层非常重要的现实感：仓位管理不是数学优化，而是别让一笔错把整个人拖下去。
@@ -39,6 +41,7 @@ description: "反脆弱与仓位管理 在这批资料 里的最佳入口。"
 - [时间套利](/investor-masters/concepts/time-arbitrage/)
 - [空头视角](/investor-masters/concepts/short-perspective/)
 - [保守的风险语言 vs 激进的仓位语言](/investor-masters/dialogues/risk-and-conviction/)
+- [少犯错游戏 vs 多赢家游戏](/investor-masters/dialogues/fewer-losers-vs-more-winners/)
 - [周期位置 vs 制度裂缝](/investor-masters/dialogues/cycle-position-vs-structural-fracture/)
 - [方向判断正确 vs 交易结构正确](/investor-masters/dialogues/direction-right-vs-structure-right/)
 - [比亚迪](/investor-masters/companies/byd/)
@@ -52,6 +55,7 @@ description: "反脆弱与仓位管理 在这批资料 里的最佳入口。"
 
 - [Druckenmiller深度解析（附中英对照）](/investor-masters/sources/source-16/)
 - [关于耐心与杠杆！霍华德与摩根的最新对话：历史不会重演，但人类的行为却总是重复](/investor-masters/sources/source-39/)
+- [适合投资者反复听的思维方式！霍华德·马克斯在沃顿的最新对话，关于成长还是价值、卖出还是持有，更多制胜还是减少犯错……](/investor-masters/sources/source-79/)
 - [3.2万字｜潘兴广场比尔·阿克曼最有价值的一场对话，深谈价值投资、核心战役以及如何从人生谷底“爬坑”……](/investor-masters/sources/source-07/)
 - [小心！过去15年的“陷阱”，让我们遗忘了“分散投资”——看桥水“务实派”如何警示未来（上）   泉果探照灯](/investor-masters/sources/source-59/)
 - [全世界最懂AI的金融人，是怎么管理投资的？——看桥水“务实派”如何警示未来 （下）  泉果探照灯](/investor-masters/sources/source-38/)

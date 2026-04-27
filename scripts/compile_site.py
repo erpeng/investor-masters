@@ -373,6 +373,7 @@ DIALOGUE_SLUG_OVERRIDES = {
     "周期位置 vs 制度裂缝": "cycle-position-vs-structural-fracture",
     "制度裂缝 vs 制度红利": "structural-fracture-vs-reform-dividend",
     "平台收敛赢家 vs 价值链瓶颈赢家": "platform-winners-vs-bottleneck-winners",
+    "少犯错游戏 vs 多赢家游戏": "fewer-losers-vs-more-winners",
     "未来分布 vs 负债端现实": "future-distribution-vs-liability-reality",
     "放弃做空 vs 保留空头脑": "stop-shorting-vs-keep-a-short-mind",
     "好生意自己是催化剂 vs 价值需要被推动": "business-itself-vs-value-needs-pushing",

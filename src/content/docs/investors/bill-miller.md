@@ -76,7 +76,7 @@ Miller Value 的官方介绍里明确写到，他把 Benjamin Graham、John Temp
 
   > “大概还是会放20%左右在亚马逊。市场里可以买的东西很多，但真正能和它比肩的公司不多。”
   >
-  > ——来源：[重注亚马逊、比特币的人！比尔·米勒经典对谈：如何避免被偏见带偏](/investor-masters/sources/source-79/)
+  > ——来源：[重注亚马逊、比特币的人！比尔·米勒经典对谈：如何避免被偏见带偏](/investor-masters/sources/source-80/)
 
 - `怎么谈错误`: 谈安然非常直接，几乎不回避。
 
@@ -146,7 +146,7 @@ Miller Value 的官方介绍里明确写到，他把 Benjamin Graham、John Temp
 
 - [经典｜比尔·米勒的投资“大师课”：你所掌握的企业信息完全来自过去，而企业价值却取决于未来](/investor-masters/sources/source-74/)
 - [为什么比尔·米勒能够拿住亚马逊26年？一场深度对话还原很多精彩细节](/investor-masters/sources/source-37/)
-- [重注亚马逊、比特币的人！比尔·米勒经典对谈：如何避免被偏见带偏](/investor-masters/sources/source-79/)
+- [重注亚马逊、比特币的人！比尔·米勒经典对谈：如何避免被偏见带偏](/investor-masters/sources/source-80/)
 - [Miller Value Partners - Team](https://millervalue.com/our-team/)
 - [Bill Miller (investor) - Wikipedia](https://en.wikipedia.org/wiki/Bill_Miller_(investor))
 - [CNBC: Bill Miller and Philosophy](https://www.cnbc.com/2018/01/16/a-wall-street-giant-makes-a-75-million-bet-on-academic-philosophy.html)

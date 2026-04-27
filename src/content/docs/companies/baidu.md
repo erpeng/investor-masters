@@ -14,7 +14,7 @@ description: "百度在这批资料里主要不是确定性高的长期复利样
 ## 公司点评
 
 ### [比尔·米勒](/investor-masters/investors/bill-miller/)
-> “比尔·米勒：当然，我在自己管理的基金里投了钱。其他比较大的持仓有加密货币银行Silvergate Capital——我昨天还加仓，结果今天又跌了13%。还有Meta，这是个大头寸。再比如百度、美泰（Mattel）、ADT、Gannett，这些也算比较大的持仓，不过和亚马逊没法比。” ——来源：[重注亚马逊、比特币的人！比尔·米勒经典对谈：如何避免被偏见带偏](/investor-masters/sources/source-79/)
+> “比尔·米勒：当然，我在自己管理的基金里投了钱。其他比较大的持仓有加密货币银行Silvergate Capital——我昨天还加仓，结果今天又跌了13%。还有Meta，这是个大头寸。再比如百度、美泰（Mattel）、ADT、Gannett，这些也算比较大的持仓，不过和亚马逊没法比。” ——来源：[重注亚马逊、比特币的人！比尔·米勒经典对谈：如何避免被偏见带偏](/investor-masters/sources/source-80/)
 
 米勒看它的角度仍然是未来价值与市场情绪的错位。
 

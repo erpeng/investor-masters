@@ -25,12 +25,12 @@ description: "把同一个问题横向放到不同投资人身上读。"
 ## 全部问题
 
 - [你的优势从哪里来](/investor-masters/ten-questions/q01/): 26/30
-- [什么样的东西你坚决不碰](/investor-masters/ten-questions/q02/): 6/30
+- [什么样的东西你坚决不碰](/investor-masters/ten-questions/q02/): 7/30
 - [你如何研究并建立确信](/investor-masters/ten-questions/q03/): 20/30
 - [你如何判断管理层](/investor-masters/ten-questions/q04/): 20/30
 - [你如何定义和管理风险](/investor-masters/ten-questions/q05/): 24/30
 - [买入时机与价格权重如何平衡](/investor-masters/ten-questions/q06/): 10/30
 - [你会在什么时候卖出](/investor-masters/ten-questions/q07/): 11/30
-- [你如何构建和管理组合](/investor-masters/ten-questions/q08/): 24/30
+- [你如何构建和管理组合](/investor-masters/ten-questions/q08/): 25/30
 - [哪类错误最致命](/investor-masters/ten-questions/q09/): 12/30
 - [你认为市场最常出现的系统性误判是什么](/investor-masters/ten-questions/q10/): 20/30

@@ -8,7 +8,7 @@ description: "把分散的投资访谈、合伙人信和机构材料，编译成
 
 它也不是静态成品，而是一份会持续更新的工作档案。随着新的访谈、材料和持仓变化进入，这里会继续补充新人物、新公司、新概念，也会尽量捕捉同一位投资人在不同时期的方法变化。
 
-如果你想快速知道“我为什么要读这个人”，从人物页开始；如果你想知道“为什么同一家公司会被不同方法反复提到”，去公司页；如果你想理解“为什么有的人能长期持有，有的人根本做不到”，读机构页。如果你已经带着一个明确问题来，比如“优势从哪里来”“什么坚决不碰”“怎样判断管理层”，就直接从 [投资十问](/investor-masters/ten-questions/) 开始。最近更值得直接利用的入口，是那些已经被拉到台面上的关键分歧：`减少动作 vs 重写描述`、`方向正确 vs 路径正确`、`静态质量 vs 动态维护`、`平台赢家 vs 瓶颈赢家`。从这些地方切进去，会比先平铺地看“谁说过什么”更快。
+如果你想快速知道“我为什么要读这个人”，从人物页开始；如果你想知道“为什么同一家公司会被不同方法反复提到”，去公司页；如果你想理解“为什么有的人能长期持有，有的人根本做不到”，读机构页。如果你已经带着一个明确问题来，比如“优势从哪里来”“什么坚决不碰”“怎样判断管理层”，就直接从 [投资十问](/investor-masters/ten-questions/) 开始。最近更值得直接利用的入口，是那些已经被拉到台面上的关键分歧：`减少动作 vs 重写描述`、`方向正确 vs 路径正确`、`静态质量 vs 动态维护`、`平台赢家 vs 瓶颈赢家`、`少犯错游戏 vs 多赢家游戏`。从这些地方切进去，会比先平铺地看“谁说过什么”更快。
 
 ## 从哪里开始
 
@@ -18,20 +18,20 @@ description: "把分散的投资访谈、合伙人信和机构材料，编译成
 - **我想了解 Tiger Cub 这条线**: [李·安斯利](/investor-masters/investors/lee-ainslie/)、[史蒂芬·曼德尔](/investor-masters/investors/stephen-mandel/)
 - **我想了解宏观与风险**: [霍华德·马克斯](/investor-masters/investors/howard-marks/)、[斯坦利·德鲁肯米勒](/investor-masters/investors/stanley-druckenmiller/)、[格雷格·詹森](/investor-masters/investors/greg-jensen/)
 - **我想看最不寻常的思维**: [尼克·斯利普](/investor-masters/investors/nick-sleep/)、[尼科莱·坦根](/investor-masters/investors/nicolai-tangen/)、[纳瓦尔·拉维坎特](/investor-masters/investors/naval-ravikant/)
-- **我想直接从方法分歧读进去**: [不懂不碰 vs 未来信息才重要](/investor-masters/dialogues/certainty-vs-future/)、[方向判断正确 vs 交易结构正确](/investor-masters/dialogues/direction-right-vs-structure-right/)、[质量价值 vs 成长非共识](/investor-masters/dialogues/quality-vs-growth/)、[保守的风险语言 vs 激进的仓位语言](/investor-masters/dialogues/risk-and-conviction/)
+- **我想直接从方法分歧读进去**: [不懂不碰 vs 未来信息才重要](/investor-masters/dialogues/certainty-vs-future/)、[方向判断正确 vs 交易结构正确](/investor-masters/dialogues/direction-right-vs-structure-right/)、[质量价值 vs 成长非共识](/investor-masters/dialogues/quality-vs-growth/)、[保守的风险语言 vs 激进的仓位语言](/investor-masters/dialogues/risk-and-conviction/)、[少犯错游戏 vs 多赢家游戏](/investor-masters/dialogues/fewer-losers-vs-more-winners/)
 - **我想沿 Berkshire 这一支往下读**: [Berkshire Hathaway](/investor-masters/institutions/berkshire-hathaway/) → [伯克希尔·哈撒韦](/investor-masters/companies/berkshire-hathaway/) / [GEICO](/investor-masters/companies/geico/) → [护城河](/investor-masters/concepts/moat/) / [能力圈](/investor-masters/concepts/circle-of-competence/) / [反脆弱与仓位管理](/investor-masters/concepts/antifragility-and-position-sizing/) → [静态能力圈 vs 可审计能力圈](/investor-masters/dialogues/static-vs-auditable-circle/) / [交易型反脆弱 vs 资本结构型反脆弱](/investor-masters/dialogues/trading-vs-capital-structure-antifragility/)
 - **我想直接从最近提纯过的公司样本读**: [RELX](/investor-masters/companies/relx/)、[Sage](/investor-masters/companies/sage/)、[PG&E](/investor-masters/companies/pge/)、[Brookfield](/investor-masters/companies/brookfield/)、[Apollo](/investor-masters/companies/apollo/)、[Heineken](/investor-masters/companies/heineken/)
 - **我带着一个具体问题来**: [投资十问](/investor-masters/ten-questions/)
 
 ## 精选语录墙
 
-> “同样的，如果你只看到负债端……你会说，天呐，这些东西简直是一场灾难。”
+> “和人交谈，这绝对是商业和人生的超能力。”
 
-> “我首先想到的是一页一页翻阅所有这些证券化文件，然后发现这些支点证券。”
+> “流程存在的目的，是阻止我们犯下大错。”
 
-> “我完整地拼出了拼图。”
+> “文化不过是你思维方式的外延。”
 
-> “做空对我来说绝对是基本的行为方式和思考投资的方式。”
+> “客户想听到的是真相。”
 
 ## 对话与争议
 
@@ -40,6 +40,7 @@ description: "把分散的投资访谈、合伙人信和机构材料，编译成
 - [放弃做空 vs 保留空头脑](/investor-masters/dialogues/stop-shorting-vs-keep-a-short-mind/): `不再下空单` 与 `继续保留空头脑` 之间的分歧。
 - [未来分布 vs 负债端现实](/investor-masters/dialogues/future-distribution-vs-liability-reality/): `先找例外赢家` 与 `先审负债端脆弱性` 之间的分歧。
 - [保守的风险语言 vs 激进的仓位语言](/investor-masters/dialogues/risk-and-conviction/): `先活下来` 与 `看对以后结果要足够大` 之间的分歧。
+- [少犯错游戏 vs 多赢家游戏](/investor-masters/dialogues/fewer-losers-vs-more-winners/): 信用式少犯错与股票/VC 式少数赢家之间的分歧。
 - [安静持有 vs 战役推动](/investor-masters/dialogues/quiet-holding-vs-campaign-push/): 尼克·斯利普与阿克曼对催化剂来源的分歧。
 - [好生意自己是催化剂 vs 价值需要被推动](/investor-masters/dialogues/business-itself-vs-value-needs-pushing/): Nick Train 与 Dan Loeb 对“价值如何兑现”的分歧。
 - [方向判断正确 vs 交易结构正确](/investor-masters/dialogues/direction-right-vs-structure-right/): `真相可能太慢，先被路径淘汰` 这件事如何改变你对“正确”的理解。
@@ -52,7 +53,7 @@ description: "把分散的投资访谈、合伙人信和机构材料，编译成
 
 ## 最近更新
 
-- `2026-04-20` 十问中文化、验证卡补强与原文 companion 现有资料 入库
+- `2026-04-27` 吸收 Howard Marks 沃顿价值/卖出对话
 - `2026-04-12` 新增 Duquesne Family Office 机构页
 - `2026-04-11` 为机构页统一补入近四个季度 13F 持仓
 - `2026-04-11` 用权威公开履历补齐新增投资人的来时路
