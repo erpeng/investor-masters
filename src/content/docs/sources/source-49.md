@@ -1,17 +1,17 @@
 ---
-title: "原文｜Motley Fool｜大卫·艾因霍恩：透明度、监管失灵与揭弊式做空"
+title: "原文｜Money Makers｜尼克·特雷恩：少做反而赚得更多"
 slug: "sources/source-49"
-description: "从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML。"
+description: "从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML（页面正文转录）。"
 ---
 
-**原文件名**: `原文｜Motley Fool｜大卫·艾因霍恩：透明度、监管失灵与揭弊式做空.md`  
-**外部来源**: https://www.fool.com/investing/general/2011/01/06/a-foolish-interview-with-david-einhorn.aspx
+**原文件名**: `原文｜Money Makers｜尼克·特雷恩：少做反而赚得更多.md`  
+**外部来源**: https://money-makers.co/nick-train-interview/
 
 
 ## 摘要
 
-从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML。
+从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML（页面正文转录）。
 
 ## 节选
 
-- 对应整理稿：[[现有资料/Motley Fool｜大卫·艾因霍恩：透明度、监管失灵与揭弊式做空.md]] - 抓取时间：`2026-04-20` - 抽取方式：`HTML` - 原始域名：`www.fool.com`
+- 对应整理稿：[[现有资料/Money Makers｜尼克·特雷恩：少做反而赚得更多.md]] - 抓取时间：`2026-04-20` - 抽取方式：`HTML` - 原始域名：`money-makers.co` - 备注：站点对命令行抓取返回 `403`，本存档依据公开可访问页面正文转录。

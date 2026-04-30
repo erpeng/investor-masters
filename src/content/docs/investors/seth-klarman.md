@@ -24,7 +24,7 @@ description: "把高现金、逆向纪律与耐心资本写成机构宪法的人
 >
 > “在我看来，你能真正设定的，是风险与回报的关系，而不是死盯某个回报数字。”
 >
-> ——来源：[Harvard Business School｜塞思·卡拉曼：危机中的 Baupost 与价值纪律](/investor-masters/sources/source-18/)
+> ——来源：[Harvard Business School｜塞思·卡拉曼：危机中的 Baupost 与价值纪律](/investor-masters/sources/source-19/)
 
 > 验证卡：Bloomberg 在 `2010` 年对 Seth Klarman 的人物报道里直接写到，Baupost 自 `1983` 年以来净年化回报约 `19%`，显著高于同期标普 `500`。这很重要，因为它说明 Baupost 不是只靠“谨慎”活着，而是真把谨慎转成了长期复利。依据：[Bloomberg, The Financial Life: Seth Klarman](https://www.bloomberg.com/news/articles/2010-06-17/the-financial-life-seth-klarman)。
 
@@ -114,6 +114,6 @@ description: "把高现金、逆向纪律与耐心资本写成机构宪法的人
 
 ## 主要来源
 
-- [Value Investing with Legends｜塞思·卡拉曼：逆向纪律、耐心资本与 Baupost](/investor-masters/sources/source-31/)
-- [Harvard Business School｜塞思·卡拉曼：危机中的 Baupost 与价值纪律](/investor-masters/sources/source-18/)
-- [TIFF｜塞思·卡拉曼：价值投资问答节选](/investor-masters/sources/source-26/)
+- [Value Investing with Legends｜塞思·卡拉曼：逆向纪律、耐心资本与 Baupost](/investor-masters/sources/source-32/)
+- [Harvard Business School｜塞思·卡拉曼：危机中的 Baupost 与价值纪律](/investor-masters/sources/source-19/)
+- [TIFF｜塞思·卡拉曼：价值投资问答节选](/investor-masters/sources/source-27/)

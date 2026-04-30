@@ -26,6 +26,9 @@ description: "不是公司百科，而是“为什么顶级投资人反复提到
 - [Apollo](/investor-masters/companies/apollo/): Third Point 公开权益切片里更靠近信用与另类资管平台的样本。
 - [可口可乐](/investor-masters/companies/coca-cola/): `超级企业 / 动态护城河 / 成熟公司里的长期成长逻辑` 如何汇到一起。
 - [Alphabet](/investor-masters/companies/alphabet/): AI 恐慌下被错误重描述的平台样本。
+- [Netflix](/investor-masters/companies/netflix/): GAAP 盈利和订阅用户价值脱节时，现代价值投资如何重做经济账。
+- [Salesforce](/investor-masters/companies/salesforce/): AI 冲击下，SaaS 经常性收入、切换成本和定价权如何被重新估值。
+- [Airbnb](/investor-masters/companies/airbnb/): 增长投入是不是长期价值创造，如何和 Booking / Meta 元宇宙区别开。
 - [比亚迪](/investor-masters/companies/byd/): 工程师文化、第一性思维和长期资本陪伴合在一起的长持样本。
 - [Herbalife](/investor-masters/companies/herbalife/): `方向也许没错，但路径和工具错了` 的样本。
 - [Valeant](/investor-masters/companies/valeant/): `反能力圈` 与战役型高确信度失效条件的样本。
@@ -36,7 +39,7 @@ description: "不是公司百科，而是“为什么顶级投资人反复提到
 ## 从哪类公司开始读
 
 - **高质量复利样本**: [开市客](/investor-masters/companies/costco/)、[可口可乐](/investor-masters/companies/coca-cola/)、[微软](/investor-masters/companies/microsoft/)、[Visa](/investor-masters/companies/visa/)、[ADP](/investor-masters/companies/adp/)、[伯克希尔·哈撒韦](/investor-masters/companies/berkshire-hathaway/)、[帝亚吉欧](/investor-masters/companies/diageo/)、[Heineken](/investor-masters/companies/heineken/)、[伦敦证券交易所集团](/investor-masters/companies/london-stock-exchange-group/)、[RELX](/investor-masters/companies/relx/)、[Sage](/investor-masters/companies/sage/)
-- **平台与科技赢家**: [亚马逊](/investor-masters/companies/amazon/)、[苹果](/investor-masters/companies/apple/)、[腾讯](/investor-masters/companies/tencent/)、[Meta](/investor-masters/companies/meta/)、[Alphabet](/investor-masters/companies/alphabet/)、[英伟达](/investor-masters/companies/nvidia/)、[台积电](/investor-masters/companies/tsmc/)、[ASML](/investor-masters/companies/asml/)、[Waymo](/investor-masters/companies/waymo/)
+- **平台与科技赢家**: [亚马逊](/investor-masters/companies/amazon/)、[苹果](/investor-masters/companies/apple/)、[腾讯](/investor-masters/companies/tencent/)、[Meta](/investor-masters/companies/meta/)、[Alphabet](/investor-masters/companies/alphabet/)、[Netflix](/investor-masters/companies/netflix/)、[Salesforce](/investor-masters/companies/salesforce/)、[Airbnb](/investor-masters/companies/airbnb/)、[英伟达](/investor-masters/companies/nvidia/)、[台积电](/investor-masters/companies/tsmc/)、[ASML](/investor-masters/companies/asml/)、[Waymo](/investor-masters/companies/waymo/)
 - **战役与治理修复样本**: [Chipotle](/investor-masters/companies/chipotle/)、[General Growth](/investor-masters/companies/general-growth/)、[Canadian Pacific](/investor-masters/companies/canadian-pacific/)、[Wendy's](/investor-masters/companies/wendys/)、[Tim Hortons](/investor-masters/companies/tim-hortons/)
 - **Third Point 公开主轴样本**: [PG&E](/investor-masters/companies/pge/)、[Union Pacific](/investor-masters/companies/union-pacific/)、[CRH](/investor-masters/companies/crh/)、[Brookfield](/investor-masters/companies/brookfield/)、[Apollo](/investor-masters/companies/apollo/)、[Capital One](/investor-masters/companies/capital-one/)、[Live Nation](/investor-masters/companies/live-nation/)、[亚马逊](/investor-masters/companies/amazon/)、[英伟达](/investor-masters/companies/nvidia/)
 - **阿克曼式长期资产样本**: [Universal Music Group](/investor-masters/companies/universal-music-group/)、[Alphabet](/investor-masters/companies/alphabet/)、[Howard Hughes](/investor-masters/companies/howard-hughes/)
@@ -47,6 +50,7 @@ description: "不是公司百科，而是“为什么顶级投资人反复提到
 ## 按最近提纯后的分歧读
 
 - **如果你关心“同一家公司为什么会被读成完全不同的东西”**: 先看 [亚马逊](/investor-masters/companies/amazon/)、[可口可乐](/investor-masters/companies/coca-cola/)、[Alphabet](/investor-masters/companies/alphabet/)
+- **如果你关心“现代价值投资怎样处理无形投入和 GAAP 失真”**: 先看 [Netflix](/investor-masters/companies/netflix/)、[Salesforce](/investor-masters/companies/salesforce/)、[Airbnb](/investor-masters/companies/airbnb/)
 - **如果你关心“平台级超级赢家在公司层长什么样”**: 先看 [特斯拉](/investor-masters/companies/tesla/)、[SpaceX](/investor-masters/companies/spacex/)
 - **如果你关心“ARK 的平台承接层到底落在哪”**: 先看 [英伟达](/investor-masters/companies/nvidia/)、[Palantir](/investor-masters/companies/palantir/)
 - **如果你关心“好生意自己是不是催化剂”**: 先看 [帝亚吉欧](/investor-masters/companies/diageo/)、[Heineken](/investor-masters/companies/heineken/)、[伦敦证券交易所集团](/investor-masters/companies/london-stock-exchange-group/)、[Sage](/investor-masters/companies/sage/)、[PG&E](/investor-masters/companies/pge/)
@@ -83,6 +87,9 @@ description: "不是公司百科，而是“为什么顶级投资人反复提到
 - [微软](/investor-masters/companies/microsoft/)
 - [Meta](/investor-masters/companies/meta/)
 - [Alphabet](/investor-masters/companies/alphabet/)
+- [Netflix](/investor-masters/companies/netflix/)
+- [Salesforce](/investor-masters/companies/salesforce/)
+- [Airbnb](/investor-masters/companies/airbnb/)
 - [伦敦证券交易所集团](/investor-masters/companies/london-stock-exchange-group/)
 - [Universal Music Group](/investor-masters/companies/universal-music-group/)
 - [Chipotle](/investor-masters/companies/chipotle/)
@@ -117,14 +124,15 @@ description: "不是公司百科，而是“为什么顶级投资人反复提到
 
 - [ADP](/investor-masters/companies/adp/): ADP 在这批资料里不是宏大叙事的公司，而是一个很典型的质量复利持仓样本：业务稳、对就业周期敏感、但市场容易对短期指引反应过度。
 - [ASML](/investor-masters/companies/asml/): ASML 在这批资料里同时承担两种角色：一方面是 Baillie Gifford 欣赏但外界不常问的稀缺公司，另一方面是 AI 价值链上最明确的上游瓶颈之一。
+- [Airbnb](/investor-masters/companies/airbnb/): Airbnb 在这套 wiki 里是 [[investors/比尔·尼格伦]] 解释“增长投入如何被重新还原”的另一个样本。
 - [Alphabet](/investor-masters/companies/alphabet/): Alphabet 在这批资料里最重要的不是“它是不是好公司”，而是市场会不会在 AI 冲击下短暂忘记它到底有多强。
 - [Apollo](/investor-masters/companies/apollo/): Apollo 在这批资料里最重要的意义，不是另类资管公司介绍，而是它作为 Third Point `Q1 2025` 的公开前十样本、以及 `2024Q4` 主要正贡献者之一，帮助你看清丹·勒布的公开权益切片并不只押在主动推动或单一行业上，也会落在更贴近 `信用 / 另类资产 / 资本市场` 语言的金融平台上。
 - [BlackBerry](/investor-masters/companies/blackberry/): BlackBerry 在这批资料里不是投资机会，而是旧范式被新范式整体替代的对照物。
-- [Brookfield](/investor-masters/companies/brookfield/): Brookfield 在这批资料里最重要的意义，不是资产管理或另类资产业务介绍，而是它作为 Third Point 连续多个季度都维持在公开前列的基础设施 / 资产平台样本，说明丹·勒布的公开仓位簿里并不只有事件驱动与战役仓位，也有一些更适合被理解成 `平台型资产配置载体` 的长期公开头寸。
 
 ## 全部公司
 - [ADP](/investor-masters/companies/adp/)
 - [ASML](/investor-masters/companies/asml/)
+- [Airbnb](/investor-masters/companies/airbnb/)
 - [Alphabet](/investor-masters/companies/alphabet/)
 - [Apollo](/investor-masters/companies/apollo/)
 - [BlackBerry](/investor-masters/companies/blackberry/)
@@ -143,11 +151,13 @@ description: "不是公司百科，而是“为什么顶级投资人反复提到
 - [Live Nation](/investor-masters/companies/live-nation/)
 - [Meta](/investor-masters/companies/meta/)
 - [MiniMax](/investor-masters/companies/minimax/)
+- [Netflix](/investor-masters/companies/netflix/)
 - [PG&E](/investor-masters/companies/pge/)
 - [Palantir](/investor-masters/companies/palantir/)
 - [RELX](/investor-masters/companies/relx/)
 - [Restaurant Brands](/investor-masters/companies/restaurant-brands/)
 - [Sage](/investor-masters/companies/sage/)
+- [Salesforce](/investor-masters/companies/salesforce/)
 - [Silvergate Capital](/investor-masters/companies/silvergate-capital/)
 - [SpaceX](/investor-masters/companies/spacex/)
 - [Teva](/investor-masters/companies/teva/)

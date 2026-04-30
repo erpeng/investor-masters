@@ -24,7 +24,7 @@ Ken Griffin 最值得单独读的地方，不是“最成功的对冲基金创�
 >
 > “这家公司真正的创始原则，就是对顶尖人才的持续追求。”
 >
-> ——来源：[CNBC｜肯·格里芬：Citadel 总部首场电视长访谈](/investor-masters/sources/source-12/)
+> ——来源：[CNBC｜肯·格里芬：Citadel 总部首场电视长访谈](/investor-masters/sources/source-13/)
 
 > 验证卡：CNBC `2025-07-01` 的报道写得很清楚：Citadel 旗舰 Wellington 基金自 `1990` 年成立以来，截至 `2025` 年 `5` 月净年化回报约 `19.2%`。这个数字说明 Citadel 不是只靠单一策略高光，而是靠平台化、多策略和风险系统把长期复利维持住。依据：[CNBC, Citadel funds are all in the green for 2025](https://www.cnbc.com/2025/07/01/billionaire-ken-griffins-h优势来源-funds-at-citadel-are-all-in-the-green-for-2025.html)。
 
@@ -115,9 +115,9 @@ Ken Griffin 最值得单独读的地方，不是“最成功的对冲基金创�
 
 ## 主要来源
 
-- [Stanford GSB｜肯·格里芬：投资、竞争与未来](/investor-masters/sources/source-25/)
-- [S&P Global｜肯·格里芬：Citadel、AI 与独立思考](/investor-masters/sources/source-24/)
-- [CNBC｜肯·格里芬：Citadel 总部首场电视长访谈](/investor-masters/sources/source-12/)
-- [日本“特拉斯时刻”算轻量版！城堡投资格里芬最新交流，犀利点评美国债务、移民、美联储、AI等热门话题](/investor-masters/sources/source-64/)
+- [Stanford GSB｜肯·格里芬：投资、竞争与未来](/investor-masters/sources/source-26/)
+- [S&P Global｜肯·格里芬：Citadel、AI 与独立思考](/investor-masters/sources/source-25/)
+- [CNBC｜肯·格里芬：Citadel 总部首场电视长访谈](/investor-masters/sources/source-13/)
+- [日本“特拉斯时刻”算轻量版！城堡投资格里芬最新交流，犀利点评美国债务、移民、美联储、AI等热门话题](/investor-masters/sources/source-65/)
 - [Kenneth C. Griffin - Wikipedia](https://en.wikipedia.org/wiki/Kenneth_C._Griffin)
 - [Kenneth C. Griffin | Citadel](https://www.citadel.com/our-teams/leadership/kenneth-c-griffin/)

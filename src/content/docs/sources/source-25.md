@@ -1,17 +1,17 @@
 ---
-title: "Stanford GSB｜肯·格里芬：投资、竞争与未来"
+title: "S&P Global｜肯·格里芬：Citadel、AI 与独立思考"
 slug: "sources/source-25"
-description: "依据 Stanford GSB 公开文章页，整理 Ken Griffin 关于 winning、组织竞争与长期 ambition 的最新表达。"
+description: "依据 S&P Global 公开 transcript，整理 Ken Griffin 关于 AI、edge、独立思考与 Citadel 组织能力的最新表达。"
 ---
 
-**原文件名**: `Stanford GSB｜肯·格里芬：投资、竞争与未来.md`  
-**外部来源**: https://www.gsb.stanford.edu/insights/ken-griffin-investing-winning-why-hes-focused-future
+**原文件名**: `S&P Global｜肯·格里芬：Citadel、AI 与独立思考.md`  
+**外部来源**: https://www.spglobal.com/en/research-insights/podcasts/leaders/ken-griffin-on-building-citadel-ai-and-independent-thinking
 
 
 ## 摘要
 
-依据 Stanford GSB 公开文章页，整理 Ken Griffin 关于 winning、组织竞争与长期 ambition 的最新表达。
+依据 S&P Global 公开 transcript，整理 Ken Griffin 关于 AI、edge、独立思考与 Citadel 组织能力的最新表达。
 
 ## 节选
 
-> 整理说明： > Stanford GSB 当前公开页面提供的是节目摘要与部分关键引语，不是完整 transcript。本页只使用页面可见的明确表述。
+- `主角`：肯·格里芬（Ken Griffin） - `场景`：S&P Global / Leaders Podcast - `时间`：`2025-06-17` - `核心价值`：这篇是理解现代 Citadel 最好的窗口之一。它把 `AI / 预测未来 / 独立思考 / 数据质量 / 持续学习` 放在同一条线上。

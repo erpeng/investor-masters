@@ -173,7 +173,7 @@ description: "把复杂商业问题压缩成可执行单元的人。"
 ## 主要来源
 
 - [2.5万字｜巴菲特投资接班人托德·库姆斯首度揭秘，如何获得这份梦想工作：有四个获取人生长期复利的要素，好奇心和毅力永远不嫌多](/investor-masters/sources/source-01/)
-- [“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-masters/sources/source-32/)
+- [“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-masters/sources/source-33/)
 - [Todd Combs - Wikipedia](https://en.wikipedia.org/wiki/Todd_Combs)
 - [GEICO 官方公告](https://www.geico.com/about/pressreleases/2025/20251208/)
 - [Berkshire Hathaway](https://www.berkshirehathaway.com/)

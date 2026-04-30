@@ -34,8 +34,8 @@ AKO 的文化骨架，可以直接从尼科莱在《Capital Allocators》里的�
 
 ## 标志性公开材料
 
-- [Capital Allocators｜尼科莱·坦根：掌管全球最大主权财富基金](/investor-masters/sources/source-13/)：最能看到 AKO 是怎么从学徒制、深度研究和多空风险语言里长出来的。
-- [J.P. Morgan｜AKO Capital：数据如何进入主观投资流程](/investor-masters/sources/source-19/)：目前理解 AKO 机构流程最重要的一篇，一次性把质量框架、五支专业团队、反馈闭环和大语言模型边界全讲清楚了。
+- [Capital Allocators｜尼科莱·坦根：掌管全球最大主权财富基金](/investor-masters/sources/source-14/)：最能看到 AKO 是怎么从学徒制、深度研究和多空风险语言里长出来的。
+- [J.P. Morgan｜AKO Capital：数据如何进入主观投资流程](/investor-masters/sources/source-20/)：目前理解 AKO 机构流程最重要的一篇，一次性把质量框架、五支专业团队、反馈闭环和大语言模型边界全讲清楚了。
 - [AKO 官网首页](https://www.akocapital.com/)：官方对“耐心、长期、负责任的投资者”的最简表达。
 - [AKO About Us](https://www.akocapital.com/about-us/)：官方对规模、产品与合伙制属性的简介。
 - [AKO Business Principles](https://www.akocapital.com/business-principles/)：机构如何看待责任投资、客户、团队与长期主义的正式表达。
@@ -127,8 +127,8 @@ AKO 的传承值得读，因为它恰好卡在两种机构之间。它不像 Fun
 
 ## 主要来源
 
-- [Capital Allocators｜尼科莱·坦根：掌管全球最大主权财富基金](/investor-masters/sources/source-13/)
-- [J.P. Morgan｜AKO Capital：数据如何进入主观投资流程](/investor-masters/sources/source-19/)
+- [Capital Allocators｜尼科莱·坦根：掌管全球最大主权财富基金](/investor-masters/sources/source-14/)
+- [J.P. Morgan｜AKO Capital：数据如何进入主观投资流程](/investor-masters/sources/source-20/)
 - [AKO 官网首页](https://www.akocapital.com/)
 - [AKO About Us](https://www.akocapital.com/about-us/)
 - [AKO Business Principles](https://www.akocapital.com/business-principles/)

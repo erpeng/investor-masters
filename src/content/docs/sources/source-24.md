@@ -1,17 +1,17 @@
 ---
-title: "S&P Global｜肯·格里芬：Citadel、AI 与独立思考"
+title: "Motley Fool｜大卫·艾因霍恩：透明度、监管失灵与揭弊式做空"
 slug: "sources/source-24"
-description: "依据 S&P Global 公开 transcript，整理 Ken Griffin 关于 AI、edge、独立思考与 Citadel 组织能力的最新表达。"
+description: "依据 Motley Fool 对谈，整理大卫·艾因霍恩关于 Allied、SEC、卖方偏见、评级机构与金融体系结构性失灵的判断。"
 ---
 
-**原文件名**: `S&P Global｜肯·格里芬：Citadel、AI 与独立思考.md`  
-**外部来源**: https://www.spglobal.com/en/research-insights/podcasts/leaders/ken-griffin-on-building-citadel-ai-and-independent-thinking
+**原文件名**: `Motley Fool｜大卫·艾因霍恩：透明度、监管失灵与揭弊式做空.md`  
+**外部来源**: https://www.fool.com/investing/general/2011/01/06/a-foolish-interview-with-david-einhorn.aspx
 
 
 ## 摘要
 
-依据 S&P Global 公开 transcript，整理 Ken Griffin 关于 AI、edge、独立思考与 Citadel 组织能力的最新表达。
+依据 Motley Fool 对谈，整理大卫·艾因霍恩关于 Allied、SEC、卖方偏见、评级机构与金融体系结构性失灵的判断。
 
 ## 节选
 
-- `主角`：肯·格里芬（Ken Griffin） - `场景`：S&P Global / Leaders Podcast - `时间`：`2025-06-17` - `核心价值`：这篇是理解现代 Citadel 最好的窗口之一。它把 `AI / 预测未来 / 独立思考 / 数据质量 / 持续学习` 放在同一条线上。
+> 整理说明： > 本页依据 Motley Fool 公开采访原文整理。重点不是重复 Allied 历史，而是提炼艾因霍恩最鲜明的 `forensic investing` 气质：怀疑 gatekeepers、重透明度、把制度失灵也纳入研究。

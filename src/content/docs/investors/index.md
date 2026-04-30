@@ -8,11 +8,11 @@ description: "从人物、约束和边界切入理解不同投资方法。"
 
 ## 从哪里开始
 
-- **价值投资**: [沃伦·巴菲特](/investor-masters/investors/warren-buffett/)、[查理·芒格](/investor-masters/investors/charlie-munger/)、[特里·史密斯](/investor-masters/investors/terry-smith/)、[尼克·特雷恩](/investor-masters/investors/nick-train/)
+- **价值投资**: [沃伦·巴菲特](/investor-masters/investors/warren-buffett/)、[查理·芒格](/investor-masters/investors/charlie-munger/)、[特里·史密斯](/investor-masters/investors/terry-smith/)、[尼克·特雷恩](/investor-masters/investors/nick-train/)、[比尔·尼格伦](/investor-masters/investors/bill-nygren/)
 - **经典 long/short / 深度价值 / 事件驱动**: [大卫·艾因霍恩](/investor-masters/investors/david-einhorn/)、[李·安斯利](/investor-masters/investors/lee-ainslie/)、[塞思·卡拉曼](/investor-masters/investors/seth-klarman/)、[丹·勒布](/investor-masters/investors/dan-loeb/)
 - **成长投资**: [詹姆斯·安德森](/investor-masters/investors/james-anderson/)、[汤姆·斯莱特](/investor-masters/investors/tom-slater/)、[劳伦斯·伯恩斯](/investor-masters/investors/lawrence-burns/)
 - **宏观与风险**: [霍华德·马克斯](/investor-masters/investors/howard-marks/)、[斯坦利·德鲁肯米勒](/investor-masters/investors/stanley-druckenmiller/)、[格雷格·詹森](/investor-masters/investors/greg-jensen/)
-- **新增材料重点**: [尼克·特雷恩](/investor-masters/investors/nick-train/)、[丹·勒布](/investor-masters/investors/dan-loeb/)、[肯·格里芬](/investor-masters/investors/ken-griffin/)
+- **新增材料重点**: [比尔·尼格伦](/investor-masters/investors/bill-nygren/)、[保罗·都铎·琼斯](/investor-masters/investors/paul-tudor-jones/)、[霍华德·马克斯](/investor-masters/investors/howard-marks/)
 - **最不寻常的思维**: [尼克·斯利普](/investor-masters/investors/nick-sleep/)、[尼科莱·坦根](/investor-masters/investors/nicolai-tangen/)、[纳瓦尔·拉维坎特](/investor-masters/investors/naval-ravikant/)
 
 ## 比较视图
@@ -29,6 +29,7 @@ description: "从人物、约束和边界切入理解不同投资方法。"
 | [查理·芒格](/investor-masters/investors/charlie-munger/) | 多学科、避免愚蠢 | 高 | 5年+/永久 | 低 | 质量价值 | [伯克希尔·哈撒韦](/investor-masters/institutions/berkshire-hathaway/) | 未公开 | “把一个简单的想法认真对待。” |
 | [霍华德·马克斯](/investor-masters/investors/howard-marks/) | 周期、赔率、风险控制 | 中 | 1-5年 | 高 | 经典价值 / 周期 | [Oaktree Capital](/investor-masters/institutions/oaktree-capital/) | 未公开 | “历史不会重演，但人类的行为却总是重复。” |
 | [比尔·米勒](/investor-masters/investors/bill-miller/) | 未来现金流、时间套利 | 高 | 1-5年/5年+ | 中 | 非传统价值 | Legg Mason | 未公开 | “你所掌握的关于任何企业的100%信息都来自过去，而该企业的100%价值却取决于未来。” |
+| [比尔·尼格伦](/investor-masters/investors/bill-nygren/) | 七年企业价值、Oakmark 会计、卖出纪律 | 中 | 5-7年 | 中 | 现代价值 | [Oakmark Funds](/investor-masters/institutions/oakmark-funds/) | 未公开 | “我们看的是‘Oakmark会计’，而不只是照着GAAP会计去看。” |
 | [李·安斯利](/investor-masters/investors/lee-ainslie/) | 行业专家制、深度企业研究、长短仓 | 中高 | 1-5年 | 中 | 质量成长 / long-short | [Maverick Capital](/investor-masters/institutions/maverick-capital/) | 未公开 | “Maverick 的目标是：对所投资的每一家公司，都比任何非内幕人士更了解它。” |
 | [大卫·艾因霍恩](/investor-masters/investors/david-einhorn/) | 反动量、会计审问、多空结构 | 高 | 1-5年 | 中 | 经典价值 / long-short | [Greenlight Capital](/investor-masters/institutions/greenlight-capital/) | 未公开 | “他对市场采取的是一种反动量的方法。” |
 | [尼克·特雷恩](/investor-masters/investors/nick-train/) | 慢买入、长持有、特许经营 | 极高 | 5年+/永久 | 低 | 质量价值 | [Lindsell Train](/investor-masters/institutions/lindsell-train/) | 约 10.5%（[Finsbury 官方 factsheet](https://www.finsburygt.com/download_file/force/326/1)） | “他和 Lindsell 最认同、也最适合自己的方法，是巴菲特式的‘慢买入、长持有’视角。” |
@@ -41,6 +42,7 @@ description: "从人物、约束和边界切入理解不同投资方法。"
 | [比尔·阿克曼](/investor-masters/investors/bill-ackman/) | 战役、催化剂、主动所有者 | 极高 | 1-5年 | 中高 | 价值 / 事件驱动 | [Pershing Square](/investor-masters/institutions/pershing-square/) | 约 16.2%（[PSH 2025 年报](https://assets.pershingsquareholdings.com/wp-content/uploads/2026/02/18175039/Pershing-Square-Holdings-Ltd.-2025-Annual-Report.pdf)） | “我是从阅读伯克希尔·哈撒韦的年度报告开始的。” |
 | [丹·勒布](/investor-masters/investors/dan-loeb/) | 事件驱动、催化剂、跨资本结构 | 中高 | 1-5年 | 中高 | 价值 / 事件驱动 | [Third Point](/investor-masters/institutions/third-point/) | 约 13.0%（[Third Point 官方月报](https://assets.thirdpointlimited.com/f/166217/x/cafeb5e071/2023-04-april-monthly-report-tpil.pdf)） | “经济与政策的交叉影响，使第二层思维变得格外重要。” |
 | [斯坦利·德鲁肯米勒](/investor-masters/investors/stanley-druckenmiller/) | 趋势、仓位、快速修正 | 高 | <1年/1-5年 | 高 | 宏观 | [Duquesne Family Office](/investor-masters/institutions/duquesne-family-office/) | 未公开 | “永远不要投资于现在——想象18个月后的世界。” |
+| [保罗·都铎·琼斯](/investor-masters/investors/paul-tudor-jones/) | 流动性、趋势、风险管理 | 策略依赖 | <1年/趋势持续期 | 极高 | 宏观 / 交易 | [Tudor Investment Corporation](/investor-masters/institutions/tudor-investment-corporation/) | 未公开 | “我这辈子再也不会长期持有任何东西，也不会完全相信任何东西。” |
 | [托德·库姆斯](/investor-masters/investors/todd-combs/) | 简化、单店经济学 | 中高 | 1-5年/5年+ | 低 | 质量价值 | [伯克希尔·哈撒韦](/investor-masters/institutions/berkshire-hathaway/) / GEICO | 未公开 | “单店模型往往比整体财报更能揭示商业本质。” |
 | [泰德·韦施勒](/investor-masters/investors/ted-weschler/) | 清晰、长期、文化匹配 | 中高 | 5年+ | 低 | 质量价值 | [伯克希尔·哈撒韦](/investor-masters/institutions/berkshire-hathaway/) | 未公开 | “他说的话非常清晰，而且很有道理。” |
 | [尼克·斯利普](/investor-masters/investors/nick-sleep/) | 共享规模经济、反噪音 | 极高 | 5年+ | 低 | 质量价值 | [Nomad](/investor-masters/institutions/nomad-investment-partnership/) | 未公开 | “我们只需要专注于挑选优质股，其他一切都无关紧要。” |
@@ -63,6 +65,7 @@ description: "从人物、约束和边界切入理解不同投资方法。"
 - [查理·芒格](/investor-masters/investors/charlie-munger/)
 - [霍华德·马克斯](/investor-masters/investors/howard-marks/)
 - [比尔·米勒](/investor-masters/investors/bill-miller/)
+- [比尔·尼格伦](/investor-masters/investors/bill-nygren/)
 - [李·安斯利](/investor-masters/investors/lee-ainslie/)
 - [大卫·艾因霍恩](/investor-masters/investors/david-einhorn/)
 - [尼克·特雷恩](/investor-masters/investors/nick-train/)
@@ -75,6 +78,7 @@ description: "从人物、约束和边界切入理解不同投资方法。"
 - [比尔·阿克曼](/investor-masters/investors/bill-ackman/)
 - [丹·勒布](/investor-masters/investors/dan-loeb/)
 - [斯坦利·德鲁肯米勒](/investor-masters/investors/stanley-druckenmiller/)
+- [保罗·都铎·琼斯](/investor-masters/investors/paul-tudor-jones/)
 - [托德·库姆斯](/investor-masters/investors/todd-combs/)
 - [泰德·韦施勒](/investor-masters/investors/ted-weschler/)
 - [尼克·斯利普](/investor-masters/investors/nick-sleep/)

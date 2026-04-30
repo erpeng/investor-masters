@@ -17,6 +17,8 @@ description: "反脆弱与仓位管理 在这批资料 里的最佳入口。"
 
 这两人放在一起，最能说明“风险管理”这个词为什么容易误导人。很多人以为风险管理就是控制波动、别亏钱；但在这里，它更像一种结构设计: 让你既不会被错误一击致命，又能在真正有优势时把收益拉开。
 
+[保罗·都铎·琼斯](/investor-masters/investors/paul-tudor-jones/) 把这个概念推到更纯交易员的一端。他不是先问“这是不是值得长期拥有的好资产”，而是先问流动性是否会消失、趋势是否还有催化剂、仓位结构是否能活到判断兑现。1980 年白银崩盘给他的教训是，当市场进入 `only liquidation` 状态时，长期相信本身就可能变成风险。所以 PTJ 的反脆弱不是永远分散，也不是永远进攻，而是在多数时候像拳击手一样防守、试探，少数时候才在失衡和催化剂同时出现时重拳。
+
 [比尔·阿克曼](/investor-masters/investors/bill-ackman/) 则从另一侧把这件事讲得更有血。因为他的组合本来就集中、公开、承压，所以他特别清楚哪些结构会先把人打死。他给普通投资者最硬的一条建议就是“不要借钱投资”；而在 [Herbalife](/investor-masters/companies/herbalife/) 这场空头里，他又亲口承认，方向判断和交易结构不是一回事，做空这种损失上限无限的工具天然就不反脆弱。再加上 [Valeant](/investor-masters/companies/valeant/) 之后的组合连锁反应，阿克曼让这页多出了一层非常重要的现实感：仓位管理不是数学优化，而是别让一笔错把整个人拖下去。
 
 所以这三个声音合在一起，更接近完整图景。德鲁肯米勒回答“看对以后怎么做大”，马克斯回答“先别因为结构错误出局”，阿克曼则提醒你“哪怕 thesis 有道理，杠杆、空头和高关注度组合也会把错误放大成生存问题”。真正的反脆弱，既不是永远缩着，也不是一直重拳出击，而是知道自己在哪些结构里有资格承受波动，在哪些结构里根本不该上桌。
@@ -40,7 +42,9 @@ description: "反脆弱与仓位管理 在这批资料 里的最佳入口。"
 - [第二层思维](/investor-masters/concepts/second-level-thinking/)
 - [时间套利](/investor-masters/concepts/time-arbitrage/)
 - [空头视角](/investor-masters/concepts/short-perspective/)
+- [趋势交易](/investor-masters/concepts/trend-trading/)
 - [保守的风险语言 vs 激进的仓位语言](/investor-masters/dialogues/risk-and-conviction/)
+- [复利信仰 vs 流动性信仰](/investor-masters/dialogues/compound-faith-vs-liquidity-faith/)
 - [少犯错游戏 vs 多赢家游戏](/investor-masters/dialogues/fewer-losers-vs-more-winners/)
 - [周期位置 vs 制度裂缝](/investor-masters/dialogues/cycle-position-vs-structural-fracture/)
 - [方向判断正确 vs 交易结构正确](/investor-masters/dialogues/direction-right-vs-structure-right/)
@@ -53,13 +57,14 @@ description: "反脆弱与仓位管理 在这批资料 里的最佳入口。"
 
 ## 主要来源
 
-- [Druckenmiller深度解析（附中英对照）](/investor-masters/sources/source-16/)
-- [关于耐心与杠杆！霍华德与摩根的最新对话：历史不会重演，但人类的行为却总是重复](/investor-masters/sources/source-39/)
-- [适合投资者反复听的思维方式！霍华德·马克斯在沃顿的最新对话，关于成长还是价值、卖出还是持有，更多制胜还是减少犯错……](/investor-masters/sources/source-79/)
-- [3.2万字｜潘兴广场比尔·阿克曼最有价值的一场对话，深谈价值投资、核心战役以及如何从人生谷底“爬坑”……](/investor-masters/sources/source-07/)
-- [小心！过去15年的“陷阱”，让我们遗忘了“分散投资”——看桥水“务实派”如何警示未来（上）   泉果探照灯](/investor-masters/sources/source-59/)
-- [全世界最懂AI的金融人，是怎么管理投资的？——看桥水“务实派”如何警示未来 （下）  泉果探照灯](/investor-masters/sources/source-38/)
-- [“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-masters/sources/source-32/)
-- [2.7万字｜ “巴菲特女弟子”深度对话：真正懂资本配置的CEO，往往做决策更理性，也更能创造长期价值](/investor-masters/sources/source-03/)
-- [日本“特拉斯时刻”算轻量版！城堡投资格里芬最新交流，犀利点评美国债务、移民、美联储、AI等热门话题](/investor-masters/sources/source-64/)
-- [李录亲述：为什么能拿住比亚迪23年？](/investor-masters/sources/source-68/)
+- [Druckenmiller深度解析（附中英对照）](/investor-masters/sources/source-17/)
+- [深度翻译  传奇交易员保罗·都铎·琼斯谈AI风险、泡沫与巴菲特](/investor-masters/sources/source-75/)
+- [关于耐心与杠杆！霍华德与摩根的最新对话：历史不会重演，但人类的行为却总是重复](/investor-masters/sources/source-40/)
+- [适合投资者反复听的思维方式！霍华德·马克斯在沃顿的最新对话，关于成长还是价值、卖出还是持有，更多制胜还是减少犯错……](/investor-masters/sources/source-81/)
+- [3.2万字｜潘兴广场比尔·阿克曼最有价值的一场对话，深谈价值投资、核心战役以及如何从人生谷底“爬坑”……](/investor-masters/sources/source-08/)
+- [小心！过去15年的“陷阱”，让我们遗忘了“分散投资”——看桥水“务实派”如何警示未来（上）   泉果探照灯](/investor-masters/sources/source-60/)
+- [全世界最懂AI的金融人，是怎么管理投资的？——看桥水“务实派”如何警示未来 （下）  泉果探照灯](/investor-masters/sources/source-39/)
+- [“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-masters/sources/source-33/)
+- [2.7万字｜ “巴菲特女弟子”深度对话：真正懂资本配置的CEO，往往做决策更理性，也更能创造长期价值](/investor-masters/sources/source-04/)
+- [日本“特拉斯时刻”算轻量版！城堡投资格里芬最新交流，犀利点评美国债务、移民、美联储、AI等热门话题](/investor-masters/sources/source-65/)
+- [李录亲述：为什么能拿住比亚迪23年？](/investor-masters/sources/source-69/)

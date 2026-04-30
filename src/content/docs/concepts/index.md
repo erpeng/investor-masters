@@ -30,6 +30,8 @@ description: "跨人物阅读时，最容易反复出现的那几根骨架。"
 - [友好中介](/investor-masters/concepts/friendly-middlemen/)
 - [收费站型生意](/investor-masters/concepts/toll-roads/)
 - [变化驱动投资](/investor-masters/concepts/investing-behind-change/)
+- [Oakmark会计](/investor-masters/concepts/oakmark-accounting/)
+- [趋势交易](/investor-masters/concepts/trend-trading/)
 - [时间套利](/investor-masters/concepts/time-arbitrage/)
 - [超级赢家](/investor-masters/concepts/super-winners/)
 - [反脆弱与仓位管理](/investor-masters/concepts/antifragility-and-position-sizing/)

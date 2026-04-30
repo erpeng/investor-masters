@@ -47,8 +47,8 @@ Joys of Compounding 那期节目里，官方公开的分段几乎连续在谈：
 
 ## 标志性公开材料
 
-- [Colossus｜史蒂芬·曼德尔：顺着变化下注](/investor-masters/sources/source-14/)
-- [Joys of Compounding｜史蒂芬·曼德尔：来自 Lone Pine 的经验课](/investor-masters/sources/source-20/)
+- [Colossus｜史蒂芬·曼德尔：顺着变化下注](/investor-masters/sources/source-15/)
+- [Joys of Compounding｜史蒂芬·曼德尔：来自 Lone Pine 的经验课](/investor-masters/sources/source-21/)
 
 ## 13F 持仓（最新一季）
 
@@ -96,5 +96,5 @@ Lone Pine 之所以值得单独写，最重要的一点恰恰是它开始认真�
 
 ## 主要来源
 
-- [Colossus｜史蒂芬·曼德尔：顺着变化下注](/investor-masters/sources/source-14/)
-- [Joys of Compounding｜史蒂芬·曼德尔：来自 Lone Pine 的经验课](/investor-masters/sources/source-20/)
+- [Colossus｜史蒂芬·曼德尔：顺着变化下注](/investor-masters/sources/source-15/)
+- [Joys of Compounding｜史蒂芬·曼德尔：来自 Lone Pine 的经验课](/investor-masters/sources/source-21/)

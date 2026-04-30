@@ -12,26 +12,26 @@ description: "把分散的投资访谈、合伙人信和机构材料，编译成
 
 ## 从哪里开始
 
-- **我想了解价值投资**: [沃伦·巴菲特](/investor-masters/investors/warren-buffett/)、[查理·芒格](/investor-masters/investors/charlie-munger/)、[特里·史密斯](/investor-masters/investors/terry-smith/)、[李录](/investor-masters/investors/li-lu/)、[尼克·特雷恩](/investor-masters/investors/nick-train/)
+- **我想了解价值投资**: [沃伦·巴菲特](/investor-masters/investors/warren-buffett/)、[查理·芒格](/investor-masters/investors/charlie-munger/)、[特里·史密斯](/investor-masters/investors/terry-smith/)、[李录](/investor-masters/investors/li-lu/)、[尼克·特雷恩](/investor-masters/investors/nick-train/)、[比尔·尼格伦](/investor-masters/investors/bill-nygren/)
 - **我想了解经典 long/short / event-driven**: [大卫·艾因霍恩](/investor-masters/investors/david-einhorn/)、[李·安斯利](/investor-masters/investors/lee-ainslie/)、[史蒂芬·曼德尔](/investor-masters/investors/stephen-mandel/)、[丹·勒布](/investor-masters/investors/dan-loeb/)
 - **我想了解成长投资**: [詹姆斯·安德森](/investor-masters/investors/james-anderson/)、[汤姆·斯莱特](/investor-masters/investors/tom-slater/)、[劳伦斯·伯恩斯](/investor-masters/investors/lawrence-burns/)
 - **我想了解 Tiger Cub 这条线**: [李·安斯利](/investor-masters/investors/lee-ainslie/)、[史蒂芬·曼德尔](/investor-masters/investors/stephen-mandel/)
-- **我想了解宏观与风险**: [霍华德·马克斯](/investor-masters/investors/howard-marks/)、[斯坦利·德鲁肯米勒](/investor-masters/investors/stanley-druckenmiller/)、[格雷格·詹森](/investor-masters/investors/greg-jensen/)
+- **我想了解宏观与风险**: [霍华德·马克斯](/investor-masters/investors/howard-marks/)、[斯坦利·德鲁肯米勒](/investor-masters/investors/stanley-druckenmiller/)、[保罗·都铎·琼斯](/investor-masters/investors/paul-tudor-jones/)、[格雷格·詹森](/investor-masters/investors/greg-jensen/)
 - **我想看最不寻常的思维**: [尼克·斯利普](/investor-masters/investors/nick-sleep/)、[尼科莱·坦根](/investor-masters/investors/nicolai-tangen/)、[纳瓦尔·拉维坎特](/investor-masters/investors/naval-ravikant/)
-- **我想直接从方法分歧读进去**: [不懂不碰 vs 未来信息才重要](/investor-masters/dialogues/certainty-vs-future/)、[方向判断正确 vs 交易结构正确](/investor-masters/dialogues/direction-right-vs-structure-right/)、[质量价值 vs 成长非共识](/investor-masters/dialogues/quality-vs-growth/)、[保守的风险语言 vs 激进的仓位语言](/investor-masters/dialogues/risk-and-conviction/)、[少犯错游戏 vs 多赢家游戏](/investor-masters/dialogues/fewer-losers-vs-more-winners/)
+- **我想直接从方法分歧读进去**: [不懂不碰 vs 未来信息才重要](/investor-masters/dialogues/certainty-vs-future/)、[方向判断正确 vs 交易结构正确](/investor-masters/dialogues/direction-right-vs-structure-right/)、[质量价值 vs 成长非共识](/investor-masters/dialogues/quality-vs-growth/)、[保守的风险语言 vs 激进的仓位语言](/investor-masters/dialogues/risk-and-conviction/)、[复利信仰 vs 流动性信仰](/investor-masters/dialogues/compound-faith-vs-liquidity-faith/)、[永久复利 vs 七年价值重估](/investor-masters/dialogues/permanent-compounding-vs-seven-year-revaluation/)、[少犯错游戏 vs 多赢家游戏](/investor-masters/dialogues/fewer-losers-vs-more-winners/)
 - **我想沿 Berkshire 这一支往下读**: [Berkshire Hathaway](/investor-masters/institutions/berkshire-hathaway/) → [伯克希尔·哈撒韦](/investor-masters/companies/berkshire-hathaway/) / [GEICO](/investor-masters/companies/geico/) → [护城河](/investor-masters/concepts/moat/) / [能力圈](/investor-masters/concepts/circle-of-competence/) / [反脆弱与仓位管理](/investor-masters/concepts/antifragility-and-position-sizing/) → [静态能力圈 vs 可审计能力圈](/investor-masters/dialogues/static-vs-auditable-circle/) / [交易型反脆弱 vs 资本结构型反脆弱](/investor-masters/dialogues/trading-vs-capital-structure-antifragility/)
 - **我想直接从最近提纯过的公司样本读**: [RELX](/investor-masters/companies/relx/)、[Sage](/investor-masters/companies/sage/)、[PG&E](/investor-masters/companies/pge/)、[Brookfield](/investor-masters/companies/brookfield/)、[Apollo](/investor-masters/companies/apollo/)、[Heineken](/investor-masters/companies/heineken/)
 - **我带着一个具体问题来**: [投资十问](/investor-masters/ten-questions/)
 
 ## 精选语录墙
 
-> “和人交谈，这绝对是商业和人生的超能力。”
+> “有时候可能要花几年的时间。”
 
-> “流程存在的目的，是阻止我们犯下大错。”
+> “这些股份都还在。”
 
-> “文化不过是你思维方式的外延。”
+> “懂得投资方法对投资者的意义更大。”
 
-> “客户想听到的是真相。”
+> “如果你愿意自己在脑子里做这件事，去连接、去组合不同领域的知识，你就进入了一个几乎没人走的赛道。”
 
 ## 对话与争议
 
@@ -40,6 +40,8 @@ description: "把分散的投资访谈、合伙人信和机构材料，编译成
 - [放弃做空 vs 保留空头脑](/investor-masters/dialogues/stop-shorting-vs-keep-a-short-mind/): `不再下空单` 与 `继续保留空头脑` 之间的分歧。
 - [未来分布 vs 负债端现实](/investor-masters/dialogues/future-distribution-vs-liability-reality/): `先找例外赢家` 与 `先审负债端脆弱性` 之间的分歧。
 - [保守的风险语言 vs 激进的仓位语言](/investor-masters/dialogues/risk-and-conviction/): `先活下来` 与 `看对以后结果要足够大` 之间的分歧。
+- [复利信仰 vs 流动性信仰](/investor-masters/dialogues/compound-faith-vs-liquidity-faith/): 巴菲特式长期企业所有权和 PTJ 式交易员流动性纪律之间的分歧。
+- [永久复利 vs 七年价值重估](/investor-masters/dialogues/permanent-compounding-vs-seven-year-revaluation/): Buffett / Terry 式永久复利和 Nygren 式目标价值重估之间的分歧。
 - [少犯错游戏 vs 多赢家游戏](/investor-masters/dialogues/fewer-losers-vs-more-winners/): 信用式少犯错与股票/VC 式少数赢家之间的分歧。
 - [安静持有 vs 战役推动](/investor-masters/dialogues/quiet-holding-vs-campaign-push/): 尼克·斯利普与阿克曼对催化剂来源的分歧。
 - [好生意自己是催化剂 vs 价值需要被推动](/investor-masters/dialogues/business-itself-vs-value-needs-pushing/): Nick Train 与 Dan Loeb 对“价值如何兑现”的分歧。
@@ -53,11 +55,11 @@ description: "把分散的投资访谈、合伙人信和机构材料，编译成
 
 ## 最近更新
 
-- `2026-04-27` 吸收 Howard Marks 沃顿价值/卖出对话
+- `2026-04-30` 吸收 Paul Tudor Jones 最新长访谈
+- `2026-04-30` 接入 Oakmark 现代价值投资线
 - `2026-04-12` 新增 Duquesne Family Office 机构页
 - `2026-04-11` 为机构页统一补入近四个季度 13F 持仓
 - `2026-04-11` 用权威公开履历补齐新增投资人的来时路
 - `2026-04-11` 继续补新材料真正缺的公司页
 - `2026-04-11` 修正新增投资人页模板不齐的问题
 - `2026-04-11` 新增 Cathie / BG / Druckenmiller 的真正对话页
-- `2026-04-11` 继续补 ARK 的平台承接层公司页

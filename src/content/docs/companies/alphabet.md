@@ -25,14 +25,22 @@ Alphabet 在这批资料里最重要的不是“它是不是好公司”，而�
 
 米勒更像从组合赔率角度看它。对他来说，Alphabet 不是需要讲很多故事的公司，而是值得进入重仓候选池的一流平台。它的重要性不在于概念性感，而在于当市场因为短期叙事低估未来价值时，这种平台型公司往往能提供非常干净的赔率。
 
+### [比尔·尼格伦](/investor-masters/investors/bill-nygren/)
+
+尼格伦在访谈里用 Alphabet 说明一个更细的点：有些大型科技股的上涨并不一定来自估值扩张，也可能只是股价跟着底层业务增长走。他把 Alphabet 和苹果区分开：苹果后来一部分涨幅来自 PE 扩张，让 Oakmark 不舒服；而 Alphabet 这类仍在持有的公司，股价上涨更接近业务增长本身。
+
+这条判断对 Alphabet 页的补充是：市场对它的误读不只来自 AI 恐慌，也来自把所有大型科技股上涨都当成估值泡沫。尼格伦提醒的是，要拆开看：价格涨了，是因为倍数涨，还是因为价值真的涨。
+
 ## 分歧与共识
 
-三个人都承认 Alphabet 很强，但各自的进入语言不同：阿克曼看 `AI 恐慌下的错误重描述`，安德森看 `平台吸值能力与认知迟到`，米勒看 `重仓候选中的未来价值赔率`。
+四个人都承认 Alphabet 很强，但各自的进入语言不同：阿克曼看 `AI 恐慌下的错误重描述`，安德森看 `平台吸值能力与认知迟到`，米勒看 `重仓候选中的未来价值赔率`，尼格伦看 `价值增长 vs 倍数扩张`。
 
 ## 相关页面
 
 - [比尔·阿克曼](/investor-masters/investors/bill-ackman/)
 - [詹姆斯·安德森](/investor-masters/investors/james-anderson/)
 - [比尔·米勒](/investor-masters/investors/bill-miller/)
+- [比尔·尼格伦](/investor-masters/investors/bill-nygren/)
+- [永久复利 vs 七年价值重估](/investor-masters/dialogues/permanent-compounding-vs-seven-year-revaluation/)
 - [微软](/investor-masters/companies/microsoft/)
 - [Meta](/investor-masters/companies/meta/)

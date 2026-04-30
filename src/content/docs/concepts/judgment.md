@@ -29,6 +29,6 @@ description: "判断力 在这批资料 里的最佳入口。"
 
 ## 主要来源
 
-- [深度翻译  与纳瓦尔的长篇对话（1）财富的创造](/investor-masters/sources/source-72/)
-- [深度翻译  与纳瓦尔的长篇对话（2）培养判断力](/investor-masters/sources/source-73/)
+- [深度翻译  与纳瓦尔的长篇对话（1）财富的创造](/investor-masters/sources/source-73/)
+- [深度翻译  与纳瓦尔的长篇对话（2）培养判断力](/investor-masters/sources/source-74/)
 - [2.5万字｜巴菲特投资接班人托德·库姆斯首度揭秘，如何获得这份梦想工作：有四个获取人生长期复利的要素，好奇心和毅力永远不嫌多](/investor-masters/sources/source-01/)

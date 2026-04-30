@@ -15,13 +15,19 @@ description: "时间套利 在这批资料 里的最佳入口。"
 
 [尼克·斯利普](/investor-masters/investors/nick-sleep/) 则从机构结构层面补了另一半：时间套利不是一句信念，而需要真正保护时间的制度条件。也因此，这个概念和 [Nomad Investment Partnership](/investor-masters/institutions/nomad-investment-partnership/) 有很强的天然连接。
 
+[比尔·尼格伦](/investor-masters/investors/bill-nygren/) 补出第三个版本：时间套利不是无限看远，而是看得比市场远、但不假装能看清永远。Oakmark 的七年框架把时间优势压在一个可审计区间里：足够远，可以避开季度噪音；又足够近，不需要把二三十年后的超常增长塞进估值。
+
 ## 相关概念
 
 - [第二层思维](/investor-masters/concepts/second-level-thinking/)
 - [超级赢家](/investor-masters/concepts/super-winners/)
+- [Oakmark会计](/investor-masters/concepts/oakmark-accounting/)
 - [Nomad Investment Partnership](/investor-masters/institutions/nomad-investment-partnership/)
+- [Oakmark Funds](/investor-masters/institutions/oakmark-funds/)
 - [不懂不碰 vs 未来信息才重要](/investor-masters/dialogues/certainty-vs-future/)
+- [永久复利 vs 七年价值重估](/investor-masters/dialogues/permanent-compounding-vs-seven-year-revaluation/)
 
 ## 主要来源
 
-- [经典｜比尔·米勒的投资“大师课”：你所掌握的企业信息完全来自过去，而企业价值却取决于未来](/investor-masters/sources/source-74/)
+- [经典｜比尔·米勒的投资“大师课”：你所掌握的企业信息完全来自过去，而企业价值却取决于未来](/investor-masters/sources/source-76/)
+- [2.5万字｜比尔·尼格伦最新长谈，一位25年长期跑赢大盘的传奇投资人，如何与时俱进的价值投资……已付费](/investor-masters/sources/source-03/)
