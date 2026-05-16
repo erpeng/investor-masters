@@ -53,55 +53,55 @@ Baupost 的机构哲学可以压成一句话：`先问风险是否值得承担�
 
 #### Q1 2026
 
-- `AMZN` Amazon Com Inc：`13F 占比 12.7%`，市值约 `$0.65bn`，股数/份额 `3,118,754`。
-- `QSR` Restaurant Brands Intl Inc：`13F 占比 11.7%`，市值约 `$0.60bn`，股数/份额 `8,080,112`。
-- `WCC` Wesco Intl Inc：`13F 占比 7.7%`，市值约 `$0.39bn`，股数/份额 `1,436,881`。
-- `UNP` Union Pac Corp：`13F 占比 7.3%`，市值约 `$0.37bn`，股数/份额 `1,540,995`。
-- `ELV` Elevance Health Inc Formerly：`13F 占比 7.3%`，市值约 `$0.37bn`，股数/份额 `1,275,154`。
-- `GOOGL` Alphabet Inc：`13F 占比 6.6%`，市值约 `$0.34bn`，股数/份额 `1,181,131`。
-- `FERG` Ferguson Enterprises Inc：`13F 占比 6.6%`，市值约 `$0.34bn`，股数/份额 `1,442,411`。
-- `WTW` Willis Towers Watson Plc Ltd：`13F 占比 5.1%`，市值约 `$0.26bn`，股数/份额 `893,126`。
-- `AON` Aon Plc：`13F 占比 4.9%`，市值约 `$0.25bn`，股数/份额 `769,000`。
-- `V` Visa Inc：`13F 占比 4.1%`，市值约 `$0.21bn`，股数/份额 `701,355`。
+- `AMZN` Amazon Com Inc（电商、物流、AWS 云和广告共同构成的平台公司，长期变量是基础设施外部化能力）：`13F 占比 12.7%`，市值约 `$0.65bn`，股数/份额 `3,118,754`。
+- `QSR` Restaurant Brands Intl Inc（Restaurant Brands，汉堡王、Tim Hortons、Popeyes 等连锁餐饮品牌的特许经营平台）：`13F 占比 11.7%`，市值约 `$0.60bn`，股数/份额 `8,080,112`。
+- `WCC` Wesco Intl Inc（WESCO，电气、通信和工业供应链分销商，价值来自专业渠道、库存和项目交付能力）：`13F 占比 7.7%`，市值约 `$0.39bn`，股数/份额 `1,436,881`。
+- `UNP` Union Pac Corp（联合太平洋，美国西部铁路网络，核心看货运量、价格、运营效率和基础设施稀缺性）：`13F 占比 7.3%`，市值约 `$0.37bn`，股数/份额 `1,540,995`。
+- `ELV` Elevance Health Inc Formerly（Elevance Health，美国健康保险和医疗服务公司，核心看会员规模、医疗成本率和政府医保业务）：`13F 占比 7.3%`，市值约 `$0.37bn`，股数/份额 `1,275,154`。
+- `GOOG` Alphabet Inc（Alphabet 的 C 类股，核心资产是 Google 搜索、YouTube、广告网络、Android 和 Google Cloud）：`13F 占比 6.6%`，市值约 `$0.34bn`，股数/份额 `1,181,131`。
+- `FERG` Ferguson Enterprises Inc（Ferguson，北美管道、暖通和建筑产品分销商，价值来自专业渠道和碎片化供给整合）：`13F 占比 6.6%`，市值约 `$0.34bn`，股数/份额 `1,442,411`。
+- `WTW` Willis Towers Watson Plc Ltd（Willis Towers Watson，保险经纪和人力资本咨询公司，收入来自风险中介和企业福利服务）：`13F 占比 5.1%`，市值约 `$0.26bn`，股数/份额 `893,126`。
+- `AON` Aon Plc（保险经纪与风险咨询公司，靠客户关系、数据和再保险市场连接能力获得稳定现金流）：`13F 占比 4.9%`，市值约 `$0.25bn`，股数/份额 `769,000`。
+- `V` Visa Inc（Visa，全球支付网络，核心看交易量、跨境支付恢复和网络抽成能力）：`13F 占比 4.1%`，市值约 `$0.21bn`，股数/份额 `701,355`。
 
 #### Q4 2025
 
-- `QSR` Restaurant Brands Intl Inc：`13F 占比 10.4%`，市值约 `$0.55bn`，股数/份额 `8,080,112`。
-- `AMZN` Amazon Com Inc：`13F 占比 9.3%`，市值约 `$0.49bn`，股数/份额 `2,121,391`。
-- `WTW` Willis Towers Watson Plc Ltd：`13F 占比 8.5%`，市值约 `$0.45bn`，股数/份额 `1,357,601`。
-- `ELV` Elevance Health Inc Formerly：`13F 占比 8.4%`，市值约 `$0.44bn`，股数/份额 `1,269,302`。
-- `UNP` Union Pac Corp：`13F 占比 7.1%`，市值约 `$0.38bn`，股数/份额 `1,627,254`。
-- `WCC` Wesco Intl Inc：`13F 占比 6.6%`，市值约 `$0.35bn`，股数/份额 `1,418,831`。
-- `GOOGL` Alphabet Inc：`13F 占比 6.5%`，市值约 `$0.34bn`，股数/份额 `1,087,181`。
-- `FIS` Fidelity Natl Information Sv：`13F 占比 5.7%`，市值约 `$0.30bn`，股数/份额 `4,503,801`。
-- `DG` Dollar Gen Corp New：`13F 占比 5.2%`，市值约 `$0.27bn`，股数/份额 `2,062,821`。
-- `LBTYK` Liberty Global Ltd：`13F 占比 4.8%`，市值约 `$0.25bn`，股数/份额 `22,965,237`。
+- `QSR` Restaurant Brands Intl Inc（Restaurant Brands，汉堡王、Tim Hortons、Popeyes 等连锁餐饮品牌的特许经营平台）：`13F 占比 10.4%`，市值约 `$0.55bn`，股数/份额 `8,080,112`。
+- `AMZN` Amazon Com Inc（电商、物流、AWS 云和广告共同构成的平台公司，长期变量是基础设施外部化能力）：`13F 占比 9.3%`，市值约 `$0.49bn`，股数/份额 `2,121,391`。
+- `WTW` Willis Towers Watson Plc Ltd（Willis Towers Watson，保险经纪和人力资本咨询公司，收入来自风险中介和企业福利服务）：`13F 占比 8.5%`，市值约 `$0.45bn`，股数/份额 `1,357,601`。
+- `ELV` Elevance Health Inc Formerly（Elevance Health，美国健康保险和医疗服务公司，核心看会员规模、医疗成本率和政府医保业务）：`13F 占比 8.4%`，市值约 `$0.44bn`，股数/份额 `1,269,302`。
+- `UNP` Union Pac Corp（联合太平洋，美国西部铁路网络，核心看货运量、价格、运营效率和基础设施稀缺性）：`13F 占比 7.1%`，市值约 `$0.38bn`，股数/份额 `1,627,254`。
+- `WCC` Wesco Intl Inc（WESCO，电气、通信和工业供应链分销商，价值来自专业渠道、库存和项目交付能力）：`13F 占比 6.6%`，市值约 `$0.35bn`，股数/份额 `1,418,831`。
+- `GOOG` Alphabet Inc（Alphabet 的 C 类股，核心资产是 Google 搜索、YouTube、广告网络、Android 和 Google Cloud）：`13F 占比 6.5%`，市值约 `$0.34bn`，股数/份额 `1,087,181`。
+- `FIS` Fidelity Natl Information Sv（金融科技基础设施公司，为银行和商户提供支付、核心系统和交易处理服务）：`13F 占比 5.7%`，市值约 `$0.30bn`，股数/份额 `4,503,801`。
+- `DG` Dollar Gen Corp New（Dollar General，美国折扣零售商，面向价格敏感人群，核心看同店销售和门店效率）：`13F 占比 5.2%`，市值约 `$0.27bn`，股数/份额 `2,062,821`。
+- `LBTYK` Liberty Global Ltd（Liberty Global，有线宽带和通信资产平台，核心看欧洲网络资产价值和资本配置）：`13F 占比 4.8%`，市值约 `$0.25bn`，股数/份额 `22,965,237`。
 
 #### Q3 2025
 
-- `QSR` Restaurant Brands Intl Inc：`13F 占比 11.0%`，市值约 `$0.53bn`，股数/份额 `8,252,862`。
-- `GOOGL` Alphabet Inc：`13F 占比 9.4%`，市值约 `$0.45bn`，股数/份额 `1,858,138`。
-- `ELV` Elevance Health Inc Formerly：`13F 占比 8.9%`，市值约 `$0.43bn`，股数/份额 `1,319,000`。
-- `CRH` Crh Plc：`13F 占比 8.5%`，市值约 `$0.41bn`，股数/份额 `3,383,395`。
-- `WTW` Willis Towers Watson Plc Ltd：`13F 占比 7.9%`，市值约 `$0.38bn`，股数/份额 `1,089,065`。
-- `UNP` Union Pac Corp：`13F 占比 7.4%`，市值约 `$0.35bn`，股数/份额 `1,496,204`。
-- `WCC` Wesco Intl Inc：`13F 占比 6.6%`，市值约 `$0.32bn`，股数/份额 `1,503,180`。
-- `LBTYK` Liberty Global Ltd：`13F 占比 6.5%`，市值约 `$0.31bn`，股数/份额 `26,734,565`。
-- `DG` Dollar Gen Corp New：`13F 占比 5.8%`，市值约 `$0.28bn`，股数/份额 `2,666,876`。
-- `FERG` Ferguson Enterprises Inc：`13F 占比 5.4%`，市值约 `$0.26bn`，股数/份额 `1,155,500`。
+- `QSR` Restaurant Brands Intl Inc（Restaurant Brands，汉堡王、Tim Hortons、Popeyes 等连锁餐饮品牌的特许经营平台）：`13F 占比 11.0%`，市值约 `$0.53bn`，股数/份额 `8,252,862`。
+- `GOOG` Alphabet Inc（Alphabet 的 C 类股，核心资产是 Google 搜索、YouTube、广告网络、Android 和 Google Cloud）：`13F 占比 9.4%`，市值约 `$0.45bn`，股数/份额 `1,858,138`。
+- `ELV` Elevance Health Inc Formerly（Elevance Health，美国健康保险和医疗服务公司，核心看会员规模、医疗成本率和政府医保业务）：`13F 占比 8.9%`，市值约 `$0.43bn`，股数/份额 `1,319,000`。
+- `CRH` Crh Plc（建筑材料和基础设施材料公司，受益于道路、住宅和公共工程建设需求）：`13F 占比 8.5%`，市值约 `$0.41bn`，股数/份额 `3,383,395`。
+- `WTW` Willis Towers Watson Plc Ltd（Willis Towers Watson，保险经纪和人力资本咨询公司，收入来自风险中介和企业福利服务）：`13F 占比 7.9%`，市值约 `$0.38bn`，股数/份额 `1,089,065`。
+- `UNP` Union Pac Corp（联合太平洋，美国西部铁路网络，核心看货运量、价格、运营效率和基础设施稀缺性）：`13F 占比 7.4%`，市值约 `$0.35bn`，股数/份额 `1,496,204`。
+- `WCC` Wesco Intl Inc（WESCO，电气、通信和工业供应链分销商，价值来自专业渠道、库存和项目交付能力）：`13F 占比 6.6%`，市值约 `$0.32bn`，股数/份额 `1,503,180`。
+- `LBTYK` Liberty Global Ltd（Liberty Global，有线宽带和通信资产平台，核心看欧洲网络资产价值和资本配置）：`13F 占比 6.5%`，市值约 `$0.31bn`，股数/份额 `26,734,565`。
+- `DG` Dollar Gen Corp New（Dollar General，美国折扣零售商，面向价格敏感人群，核心看同店销售和门店效率）：`13F 占比 5.8%`，市值约 `$0.28bn`，股数/份额 `2,666,876`。
+- `FERG` Ferguson Enterprises Inc（Ferguson，北美管道、暖通和建筑产品分销商，价值来自专业渠道和碎片化供给整合）：`13F 占比 5.4%`，市值约 `$0.26bn`，股数/份额 `1,155,500`。
 
 #### Q2 2025
 
-- `GOOGL` Alphabet Inc：`13F 占比 11.3%`，市值约 `$0.47bn`，股数/份额 `2,633,988`。
-- `WCC` Wesco Intl Inc：`13F 占比 9.9%`，市值约 `$0.41bn`，股数/份额 `2,207,601`。
-- `WTW` Willis Towers Watson Plc Ltd：`13F 占比 9.8%`，市值约 `$0.40bn`，股数/份额 `1,314,184`。
-- `CRH` Crh Plc：`13F 占比 8.5%`，市值约 `$0.35bn`，股数/份额 `3,825,395`。
-- `FIS` Fidelity Natl Information Sv：`13F 占比 7.5%`，市值约 `$0.31bn`，股数/份额 `3,789,711`。
-- `LBTYK` Liberty Global Ltd：`13F 占比 7.4%`，市值约 `$0.31bn`，股数/份额 `29,734,565`。
-- `DG` Dollar Gen Corp New：`13F 占比 7.4%`，市值约 `$0.31bn`，股数/份额 `2,666,876`。
-- `QSR` Restaurant Brands Intl Inc：`13F 占比 6.5%`，市值约 `$0.27bn`，股数/份额 `4,049,562`。
-- `FERG` Ferguson Enterprises Inc：`13F 占比 6.0%`，市值约 `$0.25bn`，股数/份额 `1,132,000`。
-- `ELV` Elevance Health Inc：`13F 占比 5.8%`，市值约 `$0.24bn`，股数/份额 `616,000`。
+- `GOOG` Alphabet Inc（Alphabet 的 C 类股，核心资产是 Google 搜索、YouTube、广告网络、Android 和 Google Cloud）：`13F 占比 11.3%`，市值约 `$0.47bn`，股数/份额 `2,633,988`。
+- `WCC` Wesco Intl Inc（WESCO，电气、通信和工业供应链分销商，价值来自专业渠道、库存和项目交付能力）：`13F 占比 9.9%`，市值约 `$0.41bn`，股数/份额 `2,207,601`。
+- `WTW` Willis Towers Watson Plc Ltd（Willis Towers Watson，保险经纪和人力资本咨询公司，收入来自风险中介和企业福利服务）：`13F 占比 9.8%`，市值约 `$0.40bn`，股数/份额 `1,314,184`。
+- `CRH` Crh Plc（建筑材料和基础设施材料公司，受益于道路、住宅和公共工程建设需求）：`13F 占比 8.5%`，市值约 `$0.35bn`，股数/份额 `3,825,395`。
+- `FIS` Fidelity Natl Information Sv（金融科技基础设施公司，为银行和商户提供支付、核心系统和交易处理服务）：`13F 占比 7.5%`，市值约 `$0.31bn`，股数/份额 `3,789,711`。
+- `LBTYK` Liberty Global Ltd（Liberty Global，有线宽带和通信资产平台，核心看欧洲网络资产价值和资本配置）：`13F 占比 7.4%`，市值约 `$0.31bn`，股数/份额 `29,734,565`。
+- `DG` Dollar Gen Corp New（Dollar General，美国折扣零售商，面向价格敏感人群，核心看同店销售和门店效率）：`13F 占比 7.4%`，市值约 `$0.31bn`，股数/份额 `2,666,876`。
+- `QSR` Restaurant Brands Intl Inc（Restaurant Brands，汉堡王、Tim Hortons、Popeyes 等连锁餐饮品牌的特许经营平台）：`13F 占比 6.5%`，市值约 `$0.27bn`，股数/份额 `4,049,562`。
+- `FERG` Ferguson Enterprises Inc（Ferguson，北美管道、暖通和建筑产品分销商，价值来自专业渠道和碎片化供给整合）：`13F 占比 6.0%`，市值约 `$0.25bn`，股数/份额 `1,132,000`。
+- `ELV` Elevance Health Inc（Elevance Health，美国健康保险和医疗服务公司，核心看会员规模、医疗成本率和政府医保业务）：`13F 占比 5.8%`，市值约 `$0.24bn`，股数/份额 `616,000`。
 
 ### 变化摘要（Q1 2026 vs Q4 2025）
 
@@ -110,7 +110,7 @@ Baupost 的机构哲学可以压成一句话：`先问风险是否值得承担�
 - 退出前 10：FIS, DG, LBTYK
 - 权重上升：AMZN（+3.4 pct）, FERG（+1.8 pct）, QSR（+1.2 pct）, WCC（+1.1 pct）, Americold Realty Trust（+0.9 pct）
 - 权重下降：WTW（-3.4 pct）, LBTYK（-1.7 pct）, EXP（-1.3 pct）, ELV（-1.1 pct）, Grupo Aeromexico Sab（-0.7 pct）
-- 显著加仓：AMZN（股数 +997,363，+47.0%）, FERG（股数 +305,376，+26.9%）, Americold Realty Trust（股数 +4,305,115，+123.9%）, GOOGL（股数 +93,950，+8.6%）, WCC（股数 +18,050，+1.3%）
+- 显著加仓：AMZN（股数 +997,363，+47.0%）, FERG（股数 +305,376，+26.9%）, Americold Realty Trust（股数 +4,305,115，+123.9%）, GOOG（股数 +93,950，+8.6%）, WCC（股数 +18,050，+1.3%）
 - 显著减仓：WTW（股数 -464,475，-34.2%）, LBTYK（股数 -9,567,990，-41.7%）, EXP（股数 -292,485，-24.7%）, UNP（股数 -86,259，-5.3%）
 
 ### 数据来源

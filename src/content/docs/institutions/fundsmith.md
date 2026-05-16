@@ -43,55 +43,55 @@ Fundsmith 当前在这批资料中基本没有第二位真正能代表机构哲�
 
 #### Q1 2026
 
-- `MAR` Marriott Intl Inc New：`13F 占比 8.6%`，市值约 `$1.10bn`，股数/份额 `3,370,872`。
-- `SYK` Stryker Corporation：`13F 占比 7.8%`，市值约 `$1.01bn`，股数/份额 `3,061,416`。
-- `WAT` Waters Corp：`13F 占比 7.5%`，市值约 `$0.96bn`，股数/份额 `3,212,075`。
-- `V` Visa Inc：`13F 占比 7.3%`，市值约 `$0.94bn`，股数/份额 `3,104,090`。
-- `GOOGL` Alphabet Inc：`13F 占比 6.6%`，市值约 `$0.85bn`，股数/份额 `2,956,198`。
-- `PM` Philip Morris Intl Inc：`13F 占比 6.6%`，市值约 `$0.85bn`，股数/份额 `5,113,163`。
-- `IDXX` Idexx Labs Inc：`13F 占比 6.4%`，市值约 `$0.82bn`，股数/份额 `1,465,786`。
-- `ADP` Automatic Data Processing In：`13F 占比 6.1%`，市值约 `$0.78bn`，股数/份额 `3,855,105`。
-- `MSFT` Microsoft Corp：`13F 占比 6.0%`，市值约 `$0.77bn`，股数/份额 `2,079,737`。
-- `META` Meta Platforms Inc：`13F 占比 5.9%`，市值约 `$0.76bn`，股数/份额 `1,321,375`。
+- `MAR` Marriott Intl Inc New（万豪，全球酒店品牌和管理平台，轻资产模式依赖品牌、会员体系和管理费）：`13F 占比 8.6%`，市值约 `$1.10bn`，股数/份额 `3,370,872`。
+- `SYK` Stryker Corporation（史赛克，骨科、医疗设备和手术技术公司，增长来自植入物、耗材和医院资本设备）：`13F 占比 7.8%`，市值约 `$1.01bn`，股数/份额 `3,061,416`。
+- `WAT` Waters Corp（Waters，液相色谱、质谱和热分析仪器公司，服务制药、生命科学和工业检测）：`13F 占比 7.5%`，市值约 `$0.96bn`，股数/份额 `3,212,075`。
+- `V` Visa Inc（Visa，全球支付网络，核心看交易量、跨境支付恢复和网络抽成能力）：`13F 占比 7.3%`，市值约 `$0.94bn`，股数/份额 `3,104,090`。
+- `GOOGL` Alphabet Inc（Alphabet 的 A 类股，核心资产是 Google 搜索、YouTube、广告网络、Android 和 Google Cloud）：`13F 占比 6.6%`，市值约 `$0.85bn`，股数/份额 `2,956,198`。
+- `PM` Philip Morris Intl Inc（Philip Morris，烟草和无烟尼古丁公司，核心看 IQOS 等新型烟草迁移和定价力）：`13F 占比 6.6%`，市值约 `$0.85bn`，股数/份额 `5,113,163`。
+- `IDXX` Idexx Labs Inc（IDEXX，动物医疗诊断和软件公司，核心是宠物医疗检测耗材和诊所工作流粘性）：`13F 占比 6.4%`，市值约 `$0.82bn`，股数/份额 `1,465,786`。
+- `ADP` Automatic Data Processing In（薪酬、人力资源和雇主服务平台，收入韧性来自企业工资处理和合规流程嵌入）：`13F 占比 6.1%`，市值约 `$0.78bn`，股数/份额 `3,855,105`。
+- `MSFT` Microsoft Corp（微软，企业软件、Azure 云、Office、Windows 和 AI 基础设施共同构成的生产力平台）：`13F 占比 6.0%`，市值约 `$0.77bn`，股数/份额 `2,079,737`。
+- `META` Meta Platforms Inc（Meta，社交网络、广告系统和 AI 推荐平台，核心资产是 Facebook、Instagram、WhatsApp 和广告模型）：`13F 占比 5.9%`，市值约 `$0.76bn`，股数/份额 `1,321,375`。
 
 #### Q4 2025
 
-- `WAT` Waters Corp：`13F 占比 7.9%`，市值约 `$1.35bn`，股数/份额 `3,557,978`。
-- `SYK` Stryker Corporation：`13F 占比 7.6%`，市值约 `$1.30bn`，股数/份额 `3,687,511`。
-- `IDXX` Idexx Labs Inc：`13F 占比 7.4%`，市值约 `$1.27bn`，股数/份额 `1,876,035`。
-- `V` Visa Inc：`13F 占比 7.2%`，市值约 `$1.24bn`，股数/份额 `3,534,684`。
-- `MAR` Marriott Intl Inc New：`13F 占比 7.2%`，市值约 `$1.23bn`，股数/份额 `3,979,927`。
-- `GOOGL` Alphabet Inc：`13F 占比 6.4%`，市值约 `$1.10bn`，股数/份额 `3,498,519`。
-- `ADP` Automatic Data Processing In：`13F 占比 6.3%`，市值约 `$1.07bn`，股数/份额 `4,177,969`。
-- `MSFT` Microsoft Corp：`13F 占比 5.9%`，市值约 `$1.01bn`，股数/份额 `2,079,971`。
-- `PM` Philip Morris Intl Inc：`13F 占比 5.7%`，市值约 `$0.98bn`，股数/份额 `6,124,597`。
-- `META` Meta Platforms Inc：`13F 占比 5.3%`，市值约 `$0.90bn`，股数/份额 `1,363,539`。
+- `WAT` Waters Corp（Waters，液相色谱、质谱和热分析仪器公司，服务制药、生命科学和工业检测）：`13F 占比 7.9%`，市值约 `$1.35bn`，股数/份额 `3,557,978`。
+- `SYK` Stryker Corporation（史赛克，骨科、医疗设备和手术技术公司，增长来自植入物、耗材和医院资本设备）：`13F 占比 7.6%`，市值约 `$1.30bn`，股数/份额 `3,687,511`。
+- `IDXX` Idexx Labs Inc（IDEXX，动物医疗诊断和软件公司，核心是宠物医疗检测耗材和诊所工作流粘性）：`13F 占比 7.4%`，市值约 `$1.27bn`，股数/份额 `1,876,035`。
+- `V` Visa Inc（Visa，全球支付网络，核心看交易量、跨境支付恢复和网络抽成能力）：`13F 占比 7.2%`，市值约 `$1.24bn`，股数/份额 `3,534,684`。
+- `MAR` Marriott Intl Inc New（万豪，全球酒店品牌和管理平台，轻资产模式依赖品牌、会员体系和管理费）：`13F 占比 7.2%`，市值约 `$1.23bn`，股数/份额 `3,979,927`。
+- `GOOGL` Alphabet Inc（Alphabet 的 A 类股，核心资产是 Google 搜索、YouTube、广告网络、Android 和 Google Cloud）：`13F 占比 6.4%`，市值约 `$1.10bn`，股数/份额 `3,498,519`。
+- `ADP` Automatic Data Processing In（薪酬、人力资源和雇主服务平台，收入韧性来自企业工资处理和合规流程嵌入）：`13F 占比 6.3%`，市值约 `$1.07bn`，股数/份额 `4,177,969`。
+- `MSFT` Microsoft Corp（微软，企业软件、Azure 云、Office、Windows 和 AI 基础设施共同构成的生产力平台）：`13F 占比 5.9%`，市值约 `$1.01bn`，股数/份额 `2,079,971`。
+- `PM` Philip Morris Intl Inc（Philip Morris，烟草和无烟尼古丁公司，核心看 IQOS 等新型烟草迁移和定价力）：`13F 占比 5.7%`，市值约 `$0.98bn`，股数/份额 `6,124,597`。
+- `META` Meta Platforms Inc（Meta，社交网络、广告系统和 AI 推荐平台，核心资产是 Facebook、Instagram、WhatsApp 和广告模型）：`13F 占比 5.3%`，市值约 `$0.90bn`，股数/份额 `1,363,539`。
 
 #### Q3 2025
 
-- `SYK` Stryker Corporation：`13F 占比 8.6%`，市值约 `$1.70bn`，股数/份额 `4,591,293`。
-- `IDXX` Idexx Labs Inc：`13F 占比 8.4%`，市值约 `$1.67bn`，股数/份额 `2,610,457`。
-- `GOOGL` Alphabet Inc：`13F 占比 7.7%`，市值约 `$1.53bn`，股数/份额 `6,289,352`。
-- `MSFT` Microsoft Corp：`13F 占比 6.8%`，市值约 `$1.34bn`，股数/份额 `2,583,369`。
-- `V` Visa Inc：`13F 占比 6.6%`，市值约 `$1.32bn`，股数/份额 `3,854,336`。
-- `ADP` Automatic Data Processing In：`13F 占比 6.4%`，市值约 `$1.27bn`，股数/份额 `4,311,603`。
-- `WAT` Waters Corp：`13F 占比 6.0%`，市值约 `$1.19bn`，股数/份额 `3,955,498`。
-- `PM` Philip Morris Intl Inc：`13F 占比 5.9%`，市值约 `$1.17bn`，股数/份额 `7,188,144`。
-- `META` Meta Platforms Inc：`13F 占比 5.8%`，市值约 `$1.14bn`，股数/份额 `1,558,664`。
-- `MAR` Marriott Intl Inc New：`13F 占比 5.6%`，市值约 `$1.10bn`，股数/份额 `4,228,298`。
+- `SYK` Stryker Corporation（史赛克，骨科、医疗设备和手术技术公司，增长来自植入物、耗材和医院资本设备）：`13F 占比 8.6%`，市值约 `$1.70bn`，股数/份额 `4,591,293`。
+- `IDXX` Idexx Labs Inc（IDEXX，动物医疗诊断和软件公司，核心是宠物医疗检测耗材和诊所工作流粘性）：`13F 占比 8.4%`，市值约 `$1.67bn`，股数/份额 `2,610,457`。
+- `GOOGL` Alphabet Inc（Alphabet 的 A 类股，核心资产是 Google 搜索、YouTube、广告网络、Android 和 Google Cloud）：`13F 占比 7.7%`，市值约 `$1.53bn`，股数/份额 `6,289,352`。
+- `MSFT` Microsoft Corp（微软，企业软件、Azure 云、Office、Windows 和 AI 基础设施共同构成的生产力平台）：`13F 占比 6.8%`，市值约 `$1.34bn`，股数/份额 `2,583,369`。
+- `V` Visa Inc（Visa，全球支付网络，核心看交易量、跨境支付恢复和网络抽成能力）：`13F 占比 6.6%`，市值约 `$1.32bn`，股数/份额 `3,854,336`。
+- `ADP` Automatic Data Processing In（薪酬、人力资源和雇主服务平台，收入韧性来自企业工资处理和合规流程嵌入）：`13F 占比 6.4%`，市值约 `$1.27bn`，股数/份额 `4,311,603`。
+- `WAT` Waters Corp（Waters，液相色谱、质谱和热分析仪器公司，服务制药、生命科学和工业检测）：`13F 占比 6.0%`，市值约 `$1.19bn`，股数/份额 `3,955,498`。
+- `PM` Philip Morris Intl Inc（Philip Morris，烟草和无烟尼古丁公司，核心看 IQOS 等新型烟草迁移和定价力）：`13F 占比 5.9%`，市值约 `$1.17bn`，股数/份额 `7,188,144`。
+- `META` Meta Platforms Inc（Meta，社交网络、广告系统和 AI 推荐平台，核心资产是 Facebook、Instagram、WhatsApp 和广告模型）：`13F 占比 5.8%`，市值约 `$1.14bn`，股数/份额 `1,558,664`。
+- `MAR` Marriott Intl Inc New（万豪，全球酒店品牌和管理平台，轻资产模式依赖品牌、会员体系和管理费）：`13F 占比 5.6%`，市值约 `$1.10bn`，股数/份额 `4,228,298`。
 
 #### Q2 2025
 
-- `META` Meta Platforms Inc：`13F 占比 11.4%`，市值约 `$2.63bn`，股数/份额 `3,568,752`。
-- `MSFT` Microsoft Corp：`13F 占比 10.7%`，市值约 `$2.46bn`，股数/份额 `4,941,509`。
-- `SYK` Stryker Corporation：`13F 占比 8.0%`，市值约 `$1.85bn`，股数/份额 `4,677,007`。
-- `PM` Philip Morris Intl Inc：`13F 占比 7.2%`，市值约 `$1.65bn`，股数/份额 `9,074,195`。
-- `IDXX` Idexx Labs Inc：`13F 占比 6.2%`，市值约 `$1.42bn`，股数/份额 `2,639,289`。
-- `V` Visa Inc：`13F 占比 5.9%`，市值约 `$1.37bn`，股数/份额 `3,854,071`。
-- `ADP` Automatic Data Processing In：`13F 占比 5.8%`，市值约 `$1.35bn`，股数/份额 `4,362,099`。
-- `WAT` Waters Corp：`13F 占比 5.5%`，市值约 `$1.26bn`，股数/份额 `3,608,407`。
-- `GOOGL` Alphabet Inc：`13F 占比 5.2%`，市值约 `$1.20bn`，股数/份额 `6,803,454`。
-- `MAR` Marriott Intl Inc New：`13F 占比 5.0%`，市值约 `$1.16bn`，股数/份额 `4,236,599`。
+- `META` Meta Platforms Inc（Meta，社交网络、广告系统和 AI 推荐平台，核心资产是 Facebook、Instagram、WhatsApp 和广告模型）：`13F 占比 11.4%`，市值约 `$2.63bn`，股数/份额 `3,568,752`。
+- `MSFT` Microsoft Corp（微软，企业软件、Azure 云、Office、Windows 和 AI 基础设施共同构成的生产力平台）：`13F 占比 10.7%`，市值约 `$2.46bn`，股数/份额 `4,941,509`。
+- `SYK` Stryker Corporation（史赛克，骨科、医疗设备和手术技术公司，增长来自植入物、耗材和医院资本设备）：`13F 占比 8.0%`，市值约 `$1.85bn`，股数/份额 `4,677,007`。
+- `PM` Philip Morris Intl Inc（Philip Morris，烟草和无烟尼古丁公司，核心看 IQOS 等新型烟草迁移和定价力）：`13F 占比 7.2%`，市值约 `$1.65bn`，股数/份额 `9,074,195`。
+- `IDXX` Idexx Labs Inc（IDEXX，动物医疗诊断和软件公司，核心是宠物医疗检测耗材和诊所工作流粘性）：`13F 占比 6.2%`，市值约 `$1.42bn`，股数/份额 `2,639,289`。
+- `V` Visa Inc（Visa，全球支付网络，核心看交易量、跨境支付恢复和网络抽成能力）：`13F 占比 5.9%`，市值约 `$1.37bn`，股数/份额 `3,854,071`。
+- `ADP` Automatic Data Processing In（薪酬、人力资源和雇主服务平台，收入韧性来自企业工资处理和合规流程嵌入）：`13F 占比 5.8%`，市值约 `$1.35bn`，股数/份额 `4,362,099`。
+- `WAT` Waters Corp（Waters，液相色谱、质谱和热分析仪器公司，服务制药、生命科学和工业检测）：`13F 占比 5.5%`，市值约 `$1.26bn`，股数/份额 `3,608,407`。
+- `GOOGL` Alphabet Inc（Alphabet 的 A 类股，核心资产是 Google 搜索、YouTube、广告网络、Android 和 Google Cloud）：`13F 占比 5.2%`，市值约 `$1.20bn`，股数/份额 `6,803,454`。
+- `MAR` Marriott Intl Inc New（万豪，全球酒店品牌和管理平台，轻资产模式依赖品牌、会员体系和管理费）：`13F 占比 5.0%`，市值约 `$1.16bn`，股数/份额 `4,236,599`。
 
 ### 变化摘要（Q1 2026 vs Q4 2025）
 

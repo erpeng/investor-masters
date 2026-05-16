@@ -47,55 +47,55 @@ Oaktree 的机构哲学在现有资料里有极高一致性。霍华德在与坦
 
 #### Q1 2026
 
-- `Torm` Torm Plc：`13F 占比 10.7%`，市值约 `$0.68bn`，股数/份额 `23,839,575`。
-- `Expand Energy` Expand Energy Corp：`13F 占比 9.1%`，市值约 `$0.57bn`，股数/份额 `5,237,477`。
-- `QQQ` Invesco Qqq Trust Series 1 put：`13F 占比 5.2%`，市值约 `$0.33bn`，股数/份额 `570,000`。
-- `Anglogold Ashanti` Anglogold Ashanti Plc：`13F 占比 5.0%`，市值约 `$0.31bn`，股数/份额 `3,223,092`。
-- `Garrett Motion` Garrett Motion Inc：`13F 占比 4.2%`，市值约 `$0.27bn`，股数/份额 `14,594,816`。
-- `SPY` State Street Spdr S&P Oil & Gas Exploration & Production Etf put：`13F 占比 2.9%`，市值约 `$0.18bn`，股数/份额 `1,000,000`。
-- `Telephone And Data` Telephone And Data Systems Inc：`13F 占比 2.9%`，市值约 `$0.18bn`，股数/份额 `4,292,243`。
-- `Viper Energy` Viper Energy Inc：`13F 占比 2.8%`，市值约 `$0.18bn`，股数/份额 `3,791,432`。
-- `Core Scientific` Core Scientific Inc：`13F 占比 2.2%`，市值约 `$0.14bn`，股数/份额 `9,400,708`。
-- `Sunopta` Sunopta Inc：`13F 占比 2.1%`，市值约 `$0.13bn`，股数/份额 `20,726,126`。
+- `Torm` Torm Plc（成品油运输船公司，现金流受油品贸易、船队供需和运价周期影响）：`13F 占比 10.7%`，市值约 `$0.68bn`，股数/份额 `23,839,575`。
+- `Expand Energy` Expand Energy Corp（美国天然气生产商，核心看天然气价格、页岩资产成本和资本纪律）：`13F 占比 9.1%`，市值约 `$0.57bn`，股数/份额 `5,237,477`。
+- `QQQ` Invesco Qqq Trust Series 1 put（纳斯达克 100 ETF，用来表达大型科技和成长股指数暴露）：`13F 占比 5.2%`，市值约 `$0.33bn`，股数/份额 `570,000`。
+- `Anglogold Ashanti` Anglogold Ashanti Plc（全球黄金矿企，现金流受金价、矿山成本和储量质量影响）：`13F 占比 5.0%`，市值约 `$0.31bn`，股数/份额 `3,223,092`。
+- `Garrett Motion` Garrett Motion Inc（涡轮增压和汽车动力系统供应商，业务受燃油车效率、混动和售后市场需求影响）：`13F 占比 4.2%`，市值约 `$0.27bn`，股数/份额 `14,594,816`。
+- `SPY` State Street Spdr S&P Oil & Gas Exploration & Production Etf put（标普 500 ETF，用来表达美国大盘指数暴露，也常被交易型机构用于期权和对冲）：`13F 占比 2.9%`，市值约 `$0.18bn`，股数/份额 `1,000,000`。
+- `Telephone And Data` Telephone And Data Systems Inc（区域通信和无线业务公司，核心看频谱资产、用户流失和资本结构）：`13F 占比 2.9%`，市值约 `$0.18bn`，股数/份额 `4,292,243`。
+- `Viper Energy` Viper Energy Inc（油气 royalty 和矿权公司，核心看 Permian 资源权益、分红和油价）：`13F 占比 2.8%`，市值约 `$0.18bn`，股数/份额 `3,791,432`。
+- `Core Scientific` Core Scientific Inc（比特币矿业和高性能计算基础设施公司，核心看电力资源和算力租赁需求）：`13F 占比 2.2%`，市值约 `$0.14bn`，股数/份额 `9,400,708`。
+- `Sunopta` Sunopta Inc（植物基和健康食品供应商，核心看代工需求、产能利用率和食品客户订单）：`13F 占比 2.1%`，市值约 `$0.13bn`，股数/份额 `20,726,126`。
 
 #### Q4 2025
 
-- `Expand Energy` Expand Energy Corp：`13F 占比 8.1%`，市值约 `$0.57bn`，股数/份额 `5,157,657`。
-- `Torm` Torm Plc：`13F 占比 7.5%`，市值约 `$0.53bn`，股数/份额 `26,425,059`。
-- `Anglogold Ashanti` Anglogold Ashanti Plc：`13F 占比 4.7%`，市值约 `$0.33bn`，股数/份额 `3,847,991`。
-- `Vaneck Semiconductor Etf` Vaneck Semiconductor Etf put：`13F 占比 4.4%`，市值约 `$0.31bn`，股数/份额 `865,000`。
-- `Garrett Motion` Garrett Motion Inc：`13F 占比 4.2%`，市值约 `$0.30bn`，股数/份额 `17,094,816`。
-- `State Street` State Street Corp put：`13F 占比 3.7%`，市值约 `$0.26bn`，股数/份额 `385,000`。
-- `Indivior Pharmaceuticals` Indivior Pharmaceuticals Inc：`13F 占比 3.6%`，市值约 `$0.26bn`，股数/份额 `7,108,644`。
-- `Viper Energy` Viper Energy Inc：`13F 占比 3.5%`，市值约 `$0.24bn`，股数/份额 `6,285,062`。
-- `Telephone And Data` Telephone And Data Systems Inc：`13F 占比 2.2%`，市值约 `$0.15bn`，股数/份额 `3,688,386`。
-- `Barrick Mining` Barrick Mining Corp：`13F 占比 1.8%`，市值约 `$0.13bn`，股数/份额 `2,975,118`。
+- `Expand Energy` Expand Energy Corp（美国天然气生产商，核心看天然气价格、页岩资产成本和资本纪律）：`13F 占比 8.1%`，市值约 `$0.57bn`，股数/份额 `5,157,657`。
+- `Torm` Torm Plc（成品油运输船公司，现金流受油品贸易、船队供需和运价周期影响）：`13F 占比 7.5%`，市值约 `$0.53bn`，股数/份额 `26,425,059`。
+- `Anglogold Ashanti` Anglogold Ashanti Plc（全球黄金矿企，现金流受金价、矿山成本和储量质量影响）：`13F 占比 4.7%`，市值约 `$0.33bn`，股数/份额 `3,847,991`。
+- `Vaneck Semiconductor Etf` Vaneck Semiconductor Etf put（半导体行业 ETF，用来表达芯片设计、设备和制造产业链暴露）：`13F 占比 4.4%`，市值约 `$0.31bn`，股数/份额 `865,000`。
+- `Garrett Motion` Garrett Motion Inc（涡轮增压和汽车动力系统供应商，业务受燃油车效率、混动和售后市场需求影响）：`13F 占比 4.2%`，市值约 `$0.30bn`，股数/份额 `17,094,816`。
+- `State Street` State Street Corp put（道富，托管银行和资产管理公司，核心看托管资产、费率和利率环境）：`13F 占比 3.7%`，市值约 `$0.26bn`，股数/份额 `385,000`。
+- `Indivior Pharmaceuticals` Indivior Pharmaceuticals Inc（成瘾治疗药物公司，核心看阿片依赖治疗产品、专利周期和监管风险）：`13F 占比 3.6%`，市值约 `$0.26bn`，股数/份额 `7,108,644`。
+- `Viper Energy` Viper Energy Inc（油气 royalty 和矿权公司，核心看 Permian 资源权益、分红和油价）：`13F 占比 3.5%`，市值约 `$0.24bn`，股数/份额 `6,285,062`。
+- `Telephone And Data` Telephone And Data Systems Inc（区域通信和无线业务公司，核心看频谱资产、用户流失和资本结构）：`13F 占比 2.2%`，市值约 `$0.15bn`，股数/份额 `3,688,386`。
+- `Barrick Mining` Barrick Mining Corp（大型黄金和铜矿公司，核心看金铜价格、矿山寿命和资本纪律）：`13F 占比 1.8%`，市值约 `$0.13bn`，股数/份额 `2,975,118`。
 
 #### Q3 2025
 
-- `Torm` Torm Plc：`13F 占比 12.9%`，市值约 `$0.83bn`，股数/份额 `40,581,120`。
-- `Expand Energy` Expand Energy Corp：`13F 占比 8.4%`，市值约 `$0.55bn`，股数/份额 `5,157,657`。
-- `Garrett Motion` Garrett Motion Inc：`13F 占比 6.7%`，市值约 `$0.43bn`，股数/份额 `31,894,816`。
-- `Anglogold Ashanti` Anglogold Ashanti Plc：`13F 占比 4.5%`，市值约 `$0.29bn`，股数/份额 `4,185,261`。
-- `Viper Energy` Viper Energy Inc：`13F 占比 3.7%`，市值约 `$0.24bn`，股数/份额 `6,285,062`。
-- `State Street` State Street Corp put：`13F 占比 3.4%`，市值约 `$0.22bn`，股数/份额 `330,000`。
-- `Telephone And Data` Telephone And Data Systems Inc：`13F 占比 2.2%`，市值约 `$0.14bn`，股数/份额 `3,688,386`。
-- `Oracle` Oracle Corp put：`13F 占比 2.2%`，市值约 `$0.14bn`，股数/份额 `500,000`。
-- `Talen Energy` Talen Energy Corp：`13F 占比 1.9%`，市值约 `$0.12bn`，股数/份额 `291,117`。
-- `Sunopta` Sunopta Inc：`13F 占比 1.9%`，市值约 `$0.12bn`，股数/份额 `20,726,126`。
+- `Torm` Torm Plc（成品油运输船公司，现金流受油品贸易、船队供需和运价周期影响）：`13F 占比 12.9%`，市值约 `$0.83bn`，股数/份额 `40,581,120`。
+- `Expand Energy` Expand Energy Corp（美国天然气生产商，核心看天然气价格、页岩资产成本和资本纪律）：`13F 占比 8.4%`，市值约 `$0.55bn`，股数/份额 `5,157,657`。
+- `Garrett Motion` Garrett Motion Inc（涡轮增压和汽车动力系统供应商，业务受燃油车效率、混动和售后市场需求影响）：`13F 占比 6.7%`，市值约 `$0.43bn`，股数/份额 `31,894,816`。
+- `Anglogold Ashanti` Anglogold Ashanti Plc（全球黄金矿企，现金流受金价、矿山成本和储量质量影响）：`13F 占比 4.5%`，市值约 `$0.29bn`，股数/份额 `4,185,261`。
+- `Viper Energy` Viper Energy Inc（油气 royalty 和矿权公司，核心看 Permian 资源权益、分红和油价）：`13F 占比 3.7%`，市值约 `$0.24bn`，股数/份额 `6,285,062`。
+- `State Street` State Street Corp put（道富，托管银行和资产管理公司，核心看托管资产、费率和利率环境）：`13F 占比 3.4%`，市值约 `$0.22bn`，股数/份额 `330,000`。
+- `Telephone And Data` Telephone And Data Systems Inc（区域通信和无线业务公司，核心看频谱资产、用户流失和资本结构）：`13F 占比 2.2%`，市值约 `$0.14bn`，股数/份额 `3,688,386`。
+- `Oracle` Oracle Corp put（数据库、企业软件和云基础设施公司，核心看 OCI、数据库粘性和 AI 训练/推理需求）：`13F 占比 2.2%`，市值约 `$0.14bn`，股数/份额 `500,000`。
+- `Talen Energy` Talen Energy Corp（美国独立发电公司，核心看电力价格、核电/燃气资产和数据中心用电需求）：`13F 占比 1.9%`，市值约 `$0.12bn`，股数/份额 `291,117`。
+- `Sunopta` Sunopta Inc（植物基和健康食品供应商，核心看代工需求、产能利用率和食品客户订单）：`13F 占比 1.9%`，市值约 `$0.12bn`，股数/份额 `20,726,126`。
 
 #### Q2 2025
 
-- `State Street` State Street Corp put：`13F 占比 12.0%`，市值约 `$0.70bn`，股数/份额 `1,710,000`。
-- `Torm` Torm Plc：`13F 占比 11.7%`，市值约 `$0.68bn`，股数/份额 `40,581,120`。
-- `Expand Energy` Expand Energy Corp：`13F 占比 10.4%`，市值约 `$0.60bn`，股数/份额 `5,157,658`。
-- `Garrett Motion` Garrett Motion Inc：`13F 占比 6.7%`，市值约 `$0.39bn`，股数/份额 `36,894,816`。
-- `Sitio Royalties` Sitio Royalties Corp：`13F 占比 4.1%`，市值约 `$0.24bn`，股数/份额 `12,945,551`。
-- `Anglogold Ashanti` Anglogold Ashanti Plc：`13F 占比 3.9%`，市值约 `$0.23bn`，股数/份额 `4,947,737`。
-- `Indivior` Indivior Plc：`13F 占比 2.8%`，市值约 `$0.16bn`，股数/份额 `11,009,125`。
-- `Sunopta` Sunopta Inc：`13F 占比 2.1%`，市值约 `$0.12bn`，股数/份额 `20,726,126`。
-- `Runway Growth Finance` Runway Growth Finance Corp：`13F 占比 1.8%`，市值约 `$0.10bn`，股数/份额 `9,779,667`。
-- `Cemex Sab De` Cemex Sab De Cv：`13F 占比 1.8%`，市值约 `$0.10bn`，股数/份额 `14,839,032`。
+- `State Street` State Street Corp put（道富，托管银行和资产管理公司，核心看托管资产、费率和利率环境）：`13F 占比 12.0%`，市值约 `$0.70bn`，股数/份额 `1,710,000`。
+- `Torm` Torm Plc（成品油运输船公司，现金流受油品贸易、船队供需和运价周期影响）：`13F 占比 11.7%`，市值约 `$0.68bn`，股数/份额 `40,581,120`。
+- `Expand Energy` Expand Energy Corp（美国天然气生产商，核心看天然气价格、页岩资产成本和资本纪律）：`13F 占比 10.4%`，市值约 `$0.60bn`，股数/份额 `5,157,658`。
+- `Garrett Motion` Garrett Motion Inc（涡轮增压和汽车动力系统供应商，业务受燃油车效率、混动和售后市场需求影响）：`13F 占比 6.7%`，市值约 `$0.39bn`，股数/份额 `36,894,816`。
+- `Sitio Royalties` Sitio Royalties Corp（油气矿权和 royalty 公司，核心看资源权益、分红能力和商品价格）：`13F 占比 4.1%`，市值约 `$0.24bn`，股数/份额 `12,945,551`。
+- `Anglogold Ashanti` Anglogold Ashanti Plc（全球黄金矿企，现金流受金价、矿山成本和储量质量影响）：`13F 占比 3.9%`，市值约 `$0.23bn`，股数/份额 `4,947,737`。
+- `Indivior` Indivior Plc（成瘾治疗药物公司，核心看阿片依赖治疗产品、专利周期和监管风险）：`13F 占比 2.8%`，市值约 `$0.16bn`，股数/份额 `11,009,125`。
+- `Sunopta` Sunopta Inc（植物基和健康食品供应商，核心看代工需求、产能利用率和食品客户订单）：`13F 占比 2.1%`，市值约 `$0.12bn`，股数/份额 `20,726,126`。
+- `Runway Growth Finance` Runway Growth Finance Corp（成长型公司贷款 BDC，核心看信贷质量、利差和投资组合回收）：`13F 占比 1.8%`，市值约 `$0.10bn`，股数/份额 `9,779,667`。
+- `Cemex Sab De` Cemex Sab De Cv（水泥和建材公司，业务受基建、地产和价格/能源成本周期影响）：`13F 占比 1.8%`，市值约 `$0.10bn`，股数/份额 `14,839,032`。
 
 ### 变化摘要（Q1 2026 vs Q4 2025）
 

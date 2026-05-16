@@ -55,55 +55,55 @@ Greenlight 近年主要通过 DME Capital Management, LP 披露；历史 Greenli
 
 #### Q1 2026
 
-- `Green Brick Partners` Green Brick Partners Inc：`13F 占比 19.1%`，市值约 `$0.61bn`，股数/份额 `9,467,383`。
-- `Fluor` Fluor Corp：`13F 占比 6.9%`，市值约 `$0.22bn`，股数/份额 `4,747,350`。
-- `Core Natural Resources` Core Natural Resources Inc：`13F 占比 6.1%`，市值约 `$0.19bn`，股数/份额 `1,858,140`。
-- `Brighthouse Finl` Brighthouse Finl Inc：`13F 占比 5.3%`，市值约 `$0.17bn`，股数/份额 `2,842,100`。
-- `PCG` Pg&E Corp：`13F 占比 3.7%`，市值约 `$0.12bn`，股数/份额 `6,632,852`。
-- `Versant Media Group` Versant Media Group Inc：`13F 占比 3.5%`，市值约 `$0.11bn`，股数/份额 `3,028,615`。
-- `Acadia Healthcare Company` Acadia Healthcare Company In：`13F 占比 3.3%`，市值约 `$0.11bn`，股数/份额 `4,518,381`。
-- `Victorias Secret And` Victorias Secret And Co：`13F 占比 3.3%`，市值约 `$0.10bn`，股数/份额 `2,256,889`。
-- `Dht Holdings` Dht Holdings Inc：`13F 占比 3.0%`，市值约 `$0.10bn`，股数/份额 `5,272,770`。
-- `Penn Entertainment` Penn Entertainment Inc：`13F 占比 2.8%`，市值约 `$0.09bn`，股数/份额 `6,044,440`。
+- `Green Brick Partners` Green Brick Partners Inc（美国住宅开发商，核心看土地储备、房贷利率和 Sun Belt 住房需求）：`13F 占比 19.1%`，市值约 `$0.61bn`，股数/份额 `9,467,383`。
+- `Fluor` Fluor Corp（工程建设和项目管理公司，服务能源、工业、基建和政府项目）：`13F 占比 6.9%`，市值约 `$0.22bn`，股数/份额 `4,747,350`。
+- `Core Natural Resources` Core Natural Resources Inc（煤炭和自然资源公司，现金流受大宗商品价格、成本和环保约束影响）：`13F 占比 6.1%`，市值约 `$0.19bn`，股数/份额 `1,858,140`。
+- `Brighthouse Finl` Brighthouse Finl Inc（寿险和年金公司，核心看资本充足率、利率环境和保单负债管理）：`13F 占比 5.3%`，市值约 `$0.17bn`，股数/份额 `2,842,100`。
+- `PCG` Pg&E Corp（PG&E，加州公用事业公司，核心看电网投资、监管回报和安全风险控制）：`13F 占比 3.7%`，市值约 `$0.12bn`，股数/份额 `6,632,852`。
+- `Versant Media Group` Versant Media Group Inc（媒体资产公司，核心看频道组合、广告市场和内容分发价值）：`13F 占比 3.5%`，市值约 `$0.11bn`，股数/份额 `3,028,615`。
+- `Acadia Healthcare Company` Acadia Healthcare Company In（行为健康和成瘾治疗服务运营商，核心看床位扩张、入住率和支付方结构）：`13F 占比 3.3%`，市值约 `$0.11bn`，股数/份额 `4,518,381`。
+- `Victorias Secret And` Victorias Secret And Co（内衣和美妆零售品牌，核心看品牌重塑、门店效率和消费周期）：`13F 占比 3.3%`，市值约 `$0.10bn`，股数/份额 `2,256,889`。
+- `Dht Holdings` Dht Holdings Inc（原油油轮公司，现金流受油运供需、船队利用率和运价周期影响）：`13F 占比 3.0%`，市值约 `$0.10bn`，股数/份额 `5,272,770`。
+- `Penn Entertainment` Penn Entertainment Inc（赌场和线上博彩娱乐公司，核心看区域博彩现金流和体育博彩投入回报）：`13F 占比 2.8%`，市值约 `$0.09bn`，股数/份额 `6,044,440`。
 
 #### Q4 2025
 
-- `Green Brick Partners` Green Brick Partners Inc：`13F 占比 20.8%`，市值约 `$0.59bn`，股数/份额 `9,467,383`。
-- `Fluor` Fluor Corp New：`13F 占比 7.7%`，市值约 `$0.22bn`，股数/份额 `5,555,900`。
-- `Core Natural Resources` Core Natural Resources Inc：`13F 占比 6.5%`，市值约 `$0.19bn`，股数/份额 `2,100,480`。
-- `Brighthouse Finl` Brighthouse Finl Inc：`13F 占比 6.3%`，市值约 `$0.18bn`，股数/份额 `2,792,100`。
-- `Graphic Packaging Hldg` Graphic Packaging Hldg Co：`13F 占比 4.4%`，市值约 `$0.13bn`，股数/份额 `8,415,110`。
-- `PCG` Pg&E Corp：`13F 占比 4.4%`，市值约 `$0.13bn`，股数/份额 `7,784,103`。
-- `Capri Holdings Limited` Capri Holdings Limited：`13F 占比 4.1%`，市值约 `$0.12bn`，股数/份额 `4,768,007`。
-- `Centene Del` Centene Corp Del：`13F 占比 3.8%`，市值约 `$0.11bn`，股数/份额 `2,639,420`。
-- `Kyndryl Hldgs` Kyndryl Hldgs Inc：`13F 占比 3.6%`，市值约 `$0.10bn`，股数/份额 `3,816,353`。
-- `Teva Pharmaceutical Inds` Teva Pharmaceutical Inds Ltd：`13F 占比 3.4%`，市值约 `$0.10bn`，股数/份额 `3,058,734`。
+- `Green Brick Partners` Green Brick Partners Inc（美国住宅开发商，核心看土地储备、房贷利率和 Sun Belt 住房需求）：`13F 占比 20.8%`，市值约 `$0.59bn`，股数/份额 `9,467,383`。
+- `Fluor` Fluor Corp New（工程建设和项目管理公司，服务能源、工业、基建和政府项目）：`13F 占比 7.7%`，市值约 `$0.22bn`，股数/份额 `5,555,900`。
+- `Core Natural Resources` Core Natural Resources Inc（煤炭和自然资源公司，现金流受大宗商品价格、成本和环保约束影响）：`13F 占比 6.5%`，市值约 `$0.19bn`，股数/份额 `2,100,480`。
+- `Brighthouse Finl` Brighthouse Finl Inc（寿险和年金公司，核心看资本充足率、利率环境和保单负债管理）：`13F 占比 6.3%`，市值约 `$0.18bn`，股数/份额 `2,792,100`。
+- `Graphic Packaging Hldg` Graphic Packaging Hldg Co（纸包装和消费品包装公司，核心看纸基替代、客户合约和成本传导能力）：`13F 占比 4.4%`，市值约 `$0.13bn`，股数/份额 `8,415,110`。
+- `PCG` Pg&E Corp（PG&E，加州公用事业公司，核心看电网投资、监管回报和安全风险控制）：`13F 占比 4.4%`，市值约 `$0.13bn`，股数/份额 `7,784,103`。
+- `Capri Holdings Limited` Capri Holdings Limited（奢侈与轻奢品牌集团，包含 Michael Kors、Versace、Jimmy Choo 等品牌）：`13F 占比 4.1%`，市值约 `$0.12bn`，股数/份额 `4,768,007`。
+- `Centene Del` Centene Corp Del（美国管理式医疗公司，核心看 Medicaid、Marketplace 会员和医疗成本率）：`13F 占比 3.8%`，市值约 `$0.11bn`，股数/份额 `2,639,420`。
+- `Kyndryl Hldgs` Kyndryl Hldgs Inc（企业 IT 基础设施服务公司，核心看托管服务、云迁移和客户合同修复）：`13F 占比 3.6%`，市值约 `$0.10bn`，股数/份额 `3,816,353`。
+- `Teva Pharmaceutical Inds` Teva Pharmaceutical Inds Ltd（仿制药和专科药公司，核心看债务去化、核心药物增长和诉讼风险）：`13F 占比 3.4%`，市值约 `$0.10bn`，股数/份额 `3,058,734`。
 
 #### Q3 2025
 
-- `Green Brick Partners` Green Brick Partners Inc：`13F 占比 27.5%`，市值约 `$0.70bn`，股数/份额 `9,467,383`。
-- `Fluor` Fluor Corp New：`13F 占比 9.1%`，市值约 `$0.23bn`，股数/份额 `5,513,680`。
-- `Core Natural Resources` Core Natural Resources Inc：`13F 占比 7.1%`，市值约 `$0.18bn`，股数/份额 `2,155,640`。
-- `Brighthouse Finl` Brighthouse Finl Inc：`13F 占比 5.8%`，市值约 `$0.15bn`，股数/份额 `2,792,100`。
-- `Kyndryl Hldgs` Kyndryl Hldgs Inc：`13F 占比 5.1%`，市值约 `$0.13bn`，股数/份额 `4,343,627`。
-- `Penn Entertainment` Penn Entertainment Inc：`13F 占比 5.1%`，市值约 `$0.13bn`，股数/份额 `6,769,440`。
-- `PCG` Pg&E Corp：`13F 占比 3.8%`，市值约 `$0.10bn`，股数/份额 `6,380,853`。
-- `Graphic Packaging Hldg` Graphic Packaging Hldg Co：`13F 占比 3.6%`，市值约 `$0.09bn`，股数/份额 `4,705,950`。
-- `Dht Holdings` Dht Holdings Inc：`13F 占比 3.6%`，市值约 `$0.09bn`，股数/份额 `7,620,934`。
-- `Teva Pharmaceutical Inds` Teva Pharmaceutical Inds Ltd：`13F 占比 3.0%`，市值约 `$0.08bn`，股数/份额 `3,778,777`。
+- `Green Brick Partners` Green Brick Partners Inc（美国住宅开发商，核心看土地储备、房贷利率和 Sun Belt 住房需求）：`13F 占比 27.5%`，市值约 `$0.70bn`，股数/份额 `9,467,383`。
+- `Fluor` Fluor Corp New（工程建设和项目管理公司，服务能源、工业、基建和政府项目）：`13F 占比 9.1%`，市值约 `$0.23bn`，股数/份额 `5,513,680`。
+- `Core Natural Resources` Core Natural Resources Inc（煤炭和自然资源公司，现金流受大宗商品价格、成本和环保约束影响）：`13F 占比 7.1%`，市值约 `$0.18bn`，股数/份额 `2,155,640`。
+- `Brighthouse Finl` Brighthouse Finl Inc（寿险和年金公司，核心看资本充足率、利率环境和保单负债管理）：`13F 占比 5.8%`，市值约 `$0.15bn`，股数/份额 `2,792,100`。
+- `Kyndryl Hldgs` Kyndryl Hldgs Inc（企业 IT 基础设施服务公司，核心看托管服务、云迁移和客户合同修复）：`13F 占比 5.1%`，市值约 `$0.13bn`，股数/份额 `4,343,627`。
+- `Penn Entertainment` Penn Entertainment Inc（赌场和线上博彩娱乐公司，核心看区域博彩现金流和体育博彩投入回报）：`13F 占比 5.1%`，市值约 `$0.13bn`，股数/份额 `6,769,440`。
+- `PCG` Pg&E Corp（PG&E，加州公用事业公司，核心看电网投资、监管回报和安全风险控制）：`13F 占比 3.8%`，市值约 `$0.10bn`，股数/份额 `6,380,853`。
+- `Graphic Packaging Hldg` Graphic Packaging Hldg Co（纸包装和消费品包装公司，核心看纸基替代、客户合约和成本传导能力）：`13F 占比 3.6%`，市值约 `$0.09bn`，股数/份额 `4,705,950`。
+- `Dht Holdings` Dht Holdings Inc（原油油轮公司，现金流受油运供需、船队利用率和运价周期影响）：`13F 占比 3.6%`，市值约 `$0.09bn`，股数/份额 `7,620,934`。
+- `Teva Pharmaceutical Inds` Teva Pharmaceutical Inds Ltd（仿制药和专科药公司，核心看债务去化、核心药物增长和诉讼风险）：`13F 占比 3.0%`，市值约 `$0.08bn`，股数/份额 `3,778,777`。
 
 #### Q2 2025
 
-- `Green Brick Partners` Green Brick Partners Inc：`13F 占比 25.6%`，市值约 `$0.60bn`，股数/份额 `9,467,383`。
-- `Fluor` Fluor Corp New：`13F 占比 8.4%`，市值约 `$0.20bn`，股数/份额 `3,819,580`。
-- `Core Natural Resources` Core Natural Resources Inc：`13F 占比 6.5%`，市值约 `$0.15bn`，股数/份额 `2,155,640`。
-- `Brighthouse Finl` Brighthouse Finl Inc：`13F 占比 6.4%`，市值约 `$0.15bn`，股数/份额 `2,760,097`。
-- `Kyndryl Hldgs` Kyndryl Hldgs Inc：`13F 占比 6.0%`，市值约 `$0.14bn`，股数/份额 `3,311,297`。
-- `Penn Entertainment` Penn Entertainment Inc：`13F 占比 5.8%`，市值约 `$0.13bn`，股数/份额 `7,494,440`。
-- `Cnh Indl N` Cnh Indl N V：`13F 占比 4.4%`，市值约 `$0.10bn`，股数/份额 `7,872,610`。
-- `Graphic Packaging Hldg` Graphic Packaging Hldg Co：`13F 占比 4.3%`，市值约 `$0.10bn`，股数/份额 `4,705,950`。
-- `Dht Holdings` Dht Holdings Inc：`13F 占比 3.5%`，市值约 `$0.08bn`，股数/份额 `7,620,934`。
-- `Teck Resources` Teck Resources Ltd：`13F 占比 3.5%`，市值约 `$0.08bn`，股数/份额 `2,000,000`。
+- `Green Brick Partners` Green Brick Partners Inc（美国住宅开发商，核心看土地储备、房贷利率和 Sun Belt 住房需求）：`13F 占比 25.6%`，市值约 `$0.60bn`，股数/份额 `9,467,383`。
+- `Fluor` Fluor Corp New（工程建设和项目管理公司，服务能源、工业、基建和政府项目）：`13F 占比 8.4%`，市值约 `$0.20bn`，股数/份额 `3,819,580`。
+- `Core Natural Resources` Core Natural Resources Inc（煤炭和自然资源公司，现金流受大宗商品价格、成本和环保约束影响）：`13F 占比 6.5%`，市值约 `$0.15bn`，股数/份额 `2,155,640`。
+- `Brighthouse Finl` Brighthouse Finl Inc（寿险和年金公司，核心看资本充足率、利率环境和保单负债管理）：`13F 占比 6.4%`，市值约 `$0.15bn`，股数/份额 `2,760,097`。
+- `Kyndryl Hldgs` Kyndryl Hldgs Inc（企业 IT 基础设施服务公司，核心看托管服务、云迁移和客户合同修复）：`13F 占比 6.0%`，市值约 `$0.14bn`，股数/份额 `3,311,297`。
+- `Penn Entertainment` Penn Entertainment Inc（赌场和线上博彩娱乐公司，核心看区域博彩现金流和体育博彩投入回报）：`13F 占比 5.8%`，市值约 `$0.13bn`，股数/份额 `7,494,440`。
+- `Cnh Indl N` Cnh Indl N V（农业和工程机械公司，受农机更新周期、农产品价格和融资环境影响）：`13F 占比 4.4%`，市值约 `$0.10bn`，股数/份额 `7,872,610`。
+- `Graphic Packaging Hldg` Graphic Packaging Hldg Co（纸包装和消费品包装公司，核心看纸基替代、客户合约和成本传导能力）：`13F 占比 4.3%`，市值约 `$0.10bn`，股数/份额 `4,705,950`。
+- `Dht Holdings` Dht Holdings Inc（原油油轮公司，现金流受油运供需、船队利用率和运价周期影响）：`13F 占比 3.5%`，市值约 `$0.08bn`，股数/份额 `7,620,934`。
+- `Teck Resources` Teck Resources Ltd（加拿大矿业公司，核心资产包括铜、锌和炼钢煤，受金属周期和项目开发影响）：`13F 占比 3.5%`，市值约 `$0.08bn`，股数/份额 `2,000,000`。
 
 ### 变化摘要（Q1 2026 vs Q4 2025）
 

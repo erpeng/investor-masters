@@ -47,59 +47,62 @@ Himalaya 的机构哲学几乎可以直接压成四个词：`business owners / m
 
 #### Q1 2026
 
-- `GOOGL` Alphabet Inc：`13F 占比 44.8%`，市值约 `$1.43bn`，股数/份额 `4,994,600`。
-- `PDD` Pdd Holdings Inc：`13F 占比 14.7%`，市值约 `$0.47bn`，股数/份额 `4,608,000`。
-- `Berkshire Hathaway Del` Berkshire Hathaway Inc Del：`13F 占比 13.4%`，市值约 `$0.43bn`，股数/份额 `897,749`。
-- `East West Bancorp` East West Bancorp Inc：`13F 占比 9.3%`，市值约 `$0.30bn`，股数/份额 `2,776,351`。
-- `Bk Of America` Bk Of America Corp：`13F 占比 4.6%`，市值约 `$0.15bn`，股数/份额 `2,997,987`。
-- `OXY` Occidental Pete Corp：`13F 占比 3.0%`，市值约 `$0.10bn`，股数/份额 `1,466,500`。
-- `Crocs` Crocs Inc：`13F 占比 2.3%`，市值约 `$0.07bn`，股数/份额 `887,093`。
-- `Tencent Music Entmt` Tencent Music Entmt Group：`13F 占比 1.9%`，市值约 `$0.06bn`，股数/份额 `6,590,836`。
-- `Sp Global` S&P Global Inc：`13F 占比 1.6%`，市值约 `$0.05bn`，股数/份额 `121,463`。
-- `Block H R` Block H & R Inc：`13F 占比 1.6%`，市值约 `$0.05bn`，股数/份额 `1,626,906`。
+- `GOOGL` Alphabet Inc（Alphabet 的 A 类股，核心资产是 Google 搜索、YouTube、广告网络、Android 和 Google Cloud）：`13F 占比 22.8%`，市值约 `$0.73bn`，股数/份额 `2,543,300`。
+- `GOOG` Alphabet Inc（Alphabet 的 C 类股，核心资产是 Google 搜索、YouTube、广告网络、Android 和 Google Cloud）：`13F 占比 22.0%`，市值约 `$0.70bn`，股数/份额 `2,451,300`。
+- `PDD` Pdd Holdings Inc（拼多多和 Temu 背后的电商平台，核心变量是低价供给、流量效率和跨境扩张）：`13F 占比 14.7%`，市值约 `$0.47bn`，股数/份额 `4,608,000`。
+- `BRK.B` Berkshire Hathaway Inc Del（伯克希尔哈撒韦，保险 float、全资经营业务和公开股票组合构成的复合资本配置平台）：`13F 占比 13.4%`，市值约 `$0.43bn`，股数/份额 `897,749`。
+- `EWBC` East West Bancorp Inc（东西银行，服务美国与大中华商业往来的区域银行，核心看存款、信贷和利率周期）：`13F 占比 9.3%`，市值约 `$0.30bn`，股数/份额 `2,776,351`。
+- `BAC` Bk Of America Corp（美国银行，大型综合银行，核心变量是存款成本、贷款质量、利率周期和资本回报）：`13F 占比 4.6%`，市值约 `$0.15bn`，股数/份额 `2,997,987`。
+- `OXY` Occidental Pete Corp（西方石油，上游油气生产商，现金流高度受油价、资本开支和资产负债表约束影响）：`13F 占比 3.0%`，市值约 `$0.10bn`，股数/份额 `1,466,500`。
+- `CROX` Crocs Inc（Crocs，休闲鞋品牌公司，核心看品牌热度、渠道扩张和 HeyDude 整合）：`13F 占比 2.3%`，市值约 `$0.07bn`，股数/份额 `887,093`。
+- `TME` Tencent Music Entmt Group（腾讯音乐，中国在线音乐和音频娱乐平台，核心看订阅、社交娱乐和版权生态）：`13F 占比 1.9%`，市值约 `$0.06bn`，股数/份额 `6,590,836`。
+- `SPGI` S&P Global Inc（S&P Global，金融数据、评级、指数和市场情报公司，核心看信息收费和指数授权）：`13F 占比 1.6%`，市值约 `$0.05bn`，股数/份额 `121,463`。
 
 #### Q4 2025
 
-- `GOOGL` Alphabet Inc：`13F 占比 43.9%`，市值约 `$1.57bn`，股数/份额 `4,994,600`。
-- `Bk Of America` Bk Of America Corp：`13F 占比 16.1%`，市值约 `$0.57bn`，股数/份额 `10,431,387`。
-- `PDD` Pdd Holdings Inc：`13F 占比 14.6%`，市值约 `$0.52bn`，股数/份额 `4,608,000`。
-- `Berkshire Hathaway Del` Berkshire Hathaway Inc Del：`13F 占比 12.6%`，市值约 `$0.45bn`，股数/份额 `897,749`。
-- `East West Bancorp` East West Bancorp Inc：`13F 占比 8.7%`，市值约 `$0.31bn`，股数/份额 `2,776,351`。
-- `OXY` Occidental Pete Corp：`13F 占比 1.7%`，市值约 `$0.06bn`，股数/份额 `1,466,500`。
-- `Crocs` Crocs Inc：`13F 占比 1.5%`，市值约 `$0.05bn`，股数/份额 `628,159`。
-- `AAPL` Apple Inc：`13F 占比 0.8%`，市值约 `$0.03bn`，股数/份额 `110,600`。
+- `GOOGL` Alphabet Inc（Alphabet 的 A 类股，核心资产是 Google 搜索、YouTube、广告网络、Android 和 Google Cloud）：`13F 占比 22.3%`，市值约 `$0.80bn`，股数/份额 `2,543,300`。
+- `GOOG` Alphabet Inc（Alphabet 的 C 类股，核心资产是 Google 搜索、YouTube、广告网络、Android 和 Google Cloud）：`13F 占比 21.6%`，市值约 `$0.77bn`，股数/份额 `2,451,300`。
+- `BAC` Bk Of America Corp（美国银行，大型综合银行，核心变量是存款成本、贷款质量、利率周期和资本回报）：`13F 占比 16.1%`，市值约 `$0.57bn`，股数/份额 `10,431,387`。
+- `PDD` Pdd Holdings Inc（拼多多和 Temu 背后的电商平台，核心变量是低价供给、流量效率和跨境扩张）：`13F 占比 14.6%`，市值约 `$0.52bn`，股数/份额 `4,608,000`。
+- `BRK.B` Berkshire Hathaway Inc Del（伯克希尔哈撒韦，保险 float、全资经营业务和公开股票组合构成的复合资本配置平台）：`13F 占比 12.6%`，市值约 `$0.45bn`，股数/份额 `897,749`。
+- `EWBC` East West Bancorp Inc（东西银行，服务美国与大中华商业往来的区域银行，核心看存款、信贷和利率周期）：`13F 占比 8.7%`，市值约 `$0.31bn`，股数/份额 `2,776,351`。
+- `OXY` Occidental Pete Corp（西方石油，上游油气生产商，现金流高度受油价、资本开支和资产负债表约束影响）：`13F 占比 1.7%`，市值约 `$0.06bn`，股数/份额 `1,466,500`。
+- `CROX` Crocs Inc（Crocs，休闲鞋品牌公司，核心看品牌热度、渠道扩张和 HeyDude 整合）：`13F 占比 1.5%`，市值约 `$0.05bn`，股数/份额 `628,159`。
+- `AAPL` Apple Inc（消费电子与服务平台，iPhone 是核心入口，服务业务贡献高毛利和生态粘性）：`13F 占比 0.8%`，市值约 `$0.03bn`，股数/份额 `110,600`。
 
 #### Q3 2025
 
-- `GOOGL` Alphabet Inc：`13F 占比 37.6%`，市值约 `$1.22bn`，股数/份额 `4,994,600`。
-- `PDD` Pdd Holdings Inc：`13F 占比 18.9%`，市值约 `$0.61bn`，股数/份额 `4,608,000`。
-- `Bk Of America` Bk Of America Corp：`13F 占比 16.7%`，市值约 `$0.54bn`，股数/份额 `10,431,387`。
-- `Berkshire Hathaway Del` Berkshire Hathaway Inc Del：`13F 占比 14.0%`，市值约 `$0.45bn`，股数/份额 `897,749`。
-- `East West Bancorp` East West Bancorp Inc：`13F 占比 9.1%`，市值约 `$0.30bn`，股数/份额 `2,776,351`。
-- `OXY` Occidental Pete Corp：`13F 占比 2.1%`，市值约 `$0.07bn`，股数/份额 `1,466,500`。
-- `AAPL` Apple Inc：`13F 占比 0.9%`，市值约 `$0.03bn`，股数/份额 `110,600`。
-- `Sable Offshore` Sable Offshore Corp：`13F 占比 0.7%`，市值约 `$0.02bn`，股数/份额 `1,343,000`。
+- `GOOGL` Alphabet Inc（Alphabet 的 A 类股，核心资产是 Google 搜索、YouTube、广告网络、Android 和 Google Cloud）：`13F 占比 19.1%`，市值约 `$0.62bn`，股数/份额 `2,543,300`。
+- `PDD` Pdd Holdings Inc（拼多多和 Temu 背后的电商平台，核心变量是低价供给、流量效率和跨境扩张）：`13F 占比 18.9%`，市值约 `$0.61bn`，股数/份额 `4,608,000`。
+- `GOOG` Alphabet Inc（Alphabet 的 C 类股，核心资产是 Google 搜索、YouTube、广告网络、Android 和 Google Cloud）：`13F 占比 18.5%`，市值约 `$0.60bn`，股数/份额 `2,451,300`。
+- `BAC` Bk Of America Corp（美国银行，大型综合银行，核心变量是存款成本、贷款质量、利率周期和资本回报）：`13F 占比 16.7%`，市值约 `$0.54bn`，股数/份额 `10,431,387`。
+- `BRK.B` Berkshire Hathaway Inc Del（伯克希尔哈撒韦，保险 float、全资经营业务和公开股票组合构成的复合资本配置平台）：`13F 占比 14.0%`，市值约 `$0.45bn`，股数/份额 `897,749`。
+- `EWBC` East West Bancorp Inc（东西银行，服务美国与大中华商业往来的区域银行，核心看存款、信贷和利率周期）：`13F 占比 9.1%`，市值约 `$0.30bn`，股数/份额 `2,776,351`。
+- `OXY` Occidental Pete Corp（西方石油，上游油气生产商，现金流高度受油价、资本开支和资产负债表约束影响）：`13F 占比 2.1%`，市值约 `$0.07bn`，股数/份额 `1,466,500`。
+- `AAPL` Apple Inc（消费电子与服务平台，iPhone 是核心入口，服务业务贡献高毛利和生态粘性）：`13F 占比 0.9%`，市值约 `$0.03bn`，股数/份额 `110,600`。
+- `SOC` Sable Offshore Corp（Sable Offshore，海上油气开发公司，核心看资产复产进度、监管许可和油价环境）：`13F 占比 0.7%`，市值约 `$0.02bn`，股数/份额 `1,343,000`。
 
 #### Q2 2025
 
-- `GOOGL` Alphabet Inc：`13F 占比 32.8%`，市值约 `$0.88bn`，股数/份额 `4,994,600`。
-- `Bk Of America` Bk Of America Corp：`13F 占比 18.4%`，市值约 `$0.49bn`，股数/份额 `10,431,387`。
-- `PDD` Pdd Holdings Inc：`13F 占比 17.9%`，市值约 `$0.48bn`，股数/份额 `4,608,000`。
-- `Berkshire Hathaway Del` Berkshire Hathaway Inc Del：`13F 占比 16.2%`，市值约 `$0.44bn`，股数/份额 `897,749`。
-- `East West Bancorp` East West Bancorp Inc：`13F 占比 10.4%`，市值约 `$0.28bn`，股数/份额 `2,776,351`。
-- `OXY` Occidental Pete Corp：`13F 占比 2.3%`，市值约 `$0.06bn`，股数/份额 `1,466,500`。
-- `Sable Offshore` Sable Offshore Corp：`13F 占比 1.1%`，市值约 `$0.03bn`，股数/份额 `1,343,000`。
-- `AAPL` Apple Inc：`13F 占比 0.8%`，市值约 `$0.02bn`，股数/份额 `110,600`。
+- `BAC` Bk Of America Corp（美国银行，大型综合银行，核心变量是存款成本、贷款质量、利率周期和资本回报）：`13F 占比 18.4%`，市值约 `$0.49bn`，股数/份额 `10,431,387`。
+- `PDD` Pdd Holdings Inc（拼多多和 Temu 背后的电商平台，核心变量是低价供给、流量效率和跨境扩张）：`13F 占比 17.9%`，市值约 `$0.48bn`，股数/份额 `4,608,000`。
+- `GOOGL` Alphabet Inc（Alphabet 的 A 类股，核心资产是 Google 搜索、YouTube、广告网络、Android 和 Google Cloud）：`13F 占比 16.7%`，市值约 `$0.45bn`，股数/份额 `2,543,300`。
+- `BRK.B` Berkshire Hathaway Inc Del（伯克希尔哈撒韦，保险 float、全资经营业务和公开股票组合构成的复合资本配置平台）：`13F 占比 16.2%`，市值约 `$0.44bn`，股数/份额 `897,749`。
+- `GOOG` Alphabet Inc（Alphabet 的 C 类股，核心资产是 Google 搜索、YouTube、广告网络、Android 和 Google Cloud）：`13F 占比 16.2%`，市值约 `$0.43bn`，股数/份额 `2,451,300`。
+- `EWBC` East West Bancorp Inc（东西银行，服务美国与大中华商业往来的区域银行，核心看存款、信贷和利率周期）：`13F 占比 10.4%`，市值约 `$0.28bn`，股数/份额 `2,776,351`。
+- `OXY` Occidental Pete Corp（西方石油，上游油气生产商，现金流高度受油价、资本开支和资产负债表约束影响）：`13F 占比 2.3%`，市值约 `$0.06bn`，股数/份额 `1,466,500`。
+- `SOC` Sable Offshore Corp（Sable Offshore，海上油气开发公司，核心看资产复产进度、监管许可和油价环境）：`13F 占比 1.1%`，市值约 `$0.03bn`，股数/份额 `1,343,000`。
+- `AAPL` Apple Inc（消费电子与服务平台，iPhone 是核心入口，服务业务贡献高毛利和生态粘性）：`13F 占比 0.8%`，市值约 `$0.02bn`，股数/份额 `110,600`。
 
 ### 变化摘要（Q1 2026 vs Q4 2025）
 
 - 持仓总市值变化：从 `$3.57bn` 到 `$3.20bn`，下降 `-$0.37bn`（-10.3%）。粗拆：主动仓位变化 `-$0.16bn`，价格变化 `-$0.21bn`；主要由价格变化拖累。
-- 新进前 10：Tencent Music Entmt, Sp Global, Block H R
+- 新进前 10：TME, SPGI
 - 退出前 10：AAPL
-- 权重上升：OXY（+1.3 pct）, GOOGL（+1.0 pct）, Crocs（+0.8 pct）, Berkshire Hathaway Del（+0.8 pct）, East West Bancorp（+0.5 pct）
-- 权重下降：Bk Of America（-11.5 pct）
-- 显著加仓：Crocs（股数 +258,934，+41.2%）
-- 显著减仓：Bk Of America（股数 -7,433,400，-71.3%）
+- 权重上升：OXY（+1.3 pct）, CROX（+0.8 pct）, BRK.B（+0.8 pct）, GOOGL（+0.5 pct）, EWBC（+0.5 pct）
+- 权重下降：BAC（-11.5 pct）
+- 显著加仓：CROX（股数 +258,934，+41.2%）
+- 显著减仓：BAC（股数 -7,433,400，-71.3%）
 
 ### 数据来源
 

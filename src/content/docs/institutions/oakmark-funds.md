@@ -49,55 +49,55 @@ Oakmark 是基金品牌；这里使用管理公司 Harris Associates L.P. 的 13
 
 #### Q1 2026
 
-- `Salesforce` Salesforce Inc：`13F 占比 3.7%`，市值约 `$2.78bn`，股数/份额 `14,917,993`。
-- `GOOGL` Alphabet Inc：`13F 占比 3.6%`，市值约 `$2.67bn`，股数/份额 `9,281,108`。
-- `ICE` Intercontinental Exchange In：`13F 占比 3.4%`，市值约 `$2.57bn`，股数/份额 `16,342,258`。
-- `Keurig Dr Pepper` Keurig Dr Pepper Inc：`13F 占比 3.3%`，市值约 `$2.45bn`，股数/份额 `93,082,313`。
-- `Airbnb` Airbnb Inc：`13F 占比 3.2%`，市值约 `$2.42bn`，股数/份额 `19,162,235`。
-- `Conocophillips` Conocophillips：`13F 占比 3.1%`，市值约 `$2.30bn`，股数/份额 `17,428,651`。
-- `Targa Res` Targa Res Corp：`13F 占比 2.9%`，市值约 `$2.19bn`，股数/份额 `8,723,203`。
-- `Iqvia Hldgs` Iqvia Hldgs Inc：`13F 占比 2.8%`，市值约 `$2.08bn`，股数/份额 `12,183,275`。
-- `Schwab Charles` Schwab Charles Corp：`13F 占比 2.7%`，市值约 `$2.05bn`，股数/份额 `21,812,476`。
-- `COF` Capital One Finl Corp：`13F 占比 2.5%`，市值约 `$1.89bn`，股数/份额 `10,357,647`。
+- `Salesforce` Salesforce Inc（CRM 和企业软件平台，核心看客户关系数据、工作流粘性、AI 产品和利润率纪律）：`13F 占比 3.7%`，市值约 `$2.78bn`，股数/份额 `14,917,993`。
+- `ICE` Intercontinental Exchange In（洲际交易所，交易所、清算、数据和抵押贷款技术平台，收入来自市场基础设施收费）：`13F 占比 3.4%`，市值约 `$2.57bn`，股数/份额 `16,342,258`。
+- `Keurig Dr Pepper` Keurig Dr Pepper Inc（饮料和咖啡系统公司，核心看品牌组合、渠道和咖啡胶囊生态）：`13F 占比 3.3%`，市值约 `$2.45bn`，股数/份额 `93,082,313`。
+- `Airbnb` Airbnb Inc（全球民宿和短租平台，核心看房源供给、旅行需求、信任机制和平台抽成）：`13F 占比 3.2%`，市值约 `$2.42bn`，股数/份额 `19,162,235`。
+- `GOOGL` Alphabet Inc（Alphabet 的 A 类股，核心资产是 Google 搜索、YouTube、广告网络、Android 和 Google Cloud）：`13F 占比 3.2%`，市值约 `$2.41bn`，股数/份额 `8,393,944`。
+- `Conocophillips` Conocophillips（大型独立油气勘探生产商，核心看低成本资源、油气价格和股东回报）：`13F 占比 3.1%`，市值约 `$2.30bn`，股数/份额 `17,428,651`。
+- `Targa Res` Targa Res Corp（中游能源公司，核心看天然气液体处理、管道资产和 Permian 产量增长）：`13F 占比 2.9%`，市值约 `$2.19bn`，股数/份额 `8,723,203`。
+- `Iqvia Hldgs` Iqvia Hldgs Inc（临床研究、医疗数据和外包服务平台，核心看药企研发外包和真实世界数据）：`13F 占比 2.8%`，市值约 `$2.08bn`，股数/份额 `12,183,275`。
+- `Schwab Charles` Schwab Charles Corp（嘉信理财，券商和财富管理平台，核心看客户资产、现金利差和交易活动）：`13F 占比 2.7%`，市值约 `$2.05bn`，股数/份额 `21,812,476`。
+- `COF` Capital One Finl Corp（Capital One，信用卡和消费金融银行，核心变量是信贷周期、获客成本和拨备水平）：`13F 占比 2.5%`，市值约 `$1.89bn`，股数/份额 `10,357,647`。
 
 #### Q4 2025
 
-- `GOOGL` Alphabet Inc：`13F 占比 3.9%`，市值约 `$3.09bn`，股数/份额 `9,880,151`。
-- `COF` Capital One Finl Corp：`13F 占比 3.3%`，市值约 `$2.62bn`，股数/份额 `10,825,295`。
-- `Salesforce` Salesforce Inc：`13F 占比 3.3%`，市值约 `$2.59bn`，股数/份额 `9,791,328`。
-- `Iqvia Hldgs` Iqvia Hldgs Inc：`13F 占比 3.2%`，市值约 `$2.55bn`，股数/份额 `11,319,718`。
-- `Airbnb` Airbnb Inc：`13F 占比 3.2%`，市值约 `$2.54bn`，股数/份额 `18,694,408`。
-- `ICE` Intercontinental Exchange In：`13F 占比 3.2%`，市值约 `$2.52bn`，股数/份额 `15,584,531`。
-- `Keurig Dr Pepper` Keurig Dr Pepper Inc：`13F 占比 3.1%`，市值约 `$2.42bn`，股数/份额 `86,269,175`。
-- `Warner Bros Discovery` Warner Bros Discovery Inc：`13F 占比 2.9%`，市值约 `$2.27bn`，股数/份额 `78,854,809`。
-- `Conocophillips` Conocophillips：`13F 占比 2.8%`，市值约 `$2.25bn`，股数/份额 `24,002,747`。
-- `Schwab Charles` Schwab Charles Corp：`13F 占比 2.8%`，市值约 `$2.20bn`，股数/份额 `22,031,493`。
+- `GOOGL` Alphabet Inc（Alphabet 的 A 类股，核心资产是 Google 搜索、YouTube、广告网络、Android 和 Google Cloud）：`13F 占比 3.5%`，市值约 `$2.79bn`，股数/份额 `8,918,581`。
+- `COF` Capital One Finl Corp（Capital One，信用卡和消费金融银行，核心变量是信贷周期、获客成本和拨备水平）：`13F 占比 3.3%`，市值约 `$2.62bn`，股数/份额 `10,825,295`。
+- `Salesforce` Salesforce Inc（CRM 和企业软件平台，核心看客户关系数据、工作流粘性、AI 产品和利润率纪律）：`13F 占比 3.3%`，市值约 `$2.59bn`，股数/份额 `9,791,328`。
+- `Iqvia Hldgs` Iqvia Hldgs Inc（临床研究、医疗数据和外包服务平台，核心看药企研发外包和真实世界数据）：`13F 占比 3.2%`，市值约 `$2.55bn`，股数/份额 `11,319,718`。
+- `Airbnb` Airbnb Inc（全球民宿和短租平台，核心看房源供给、旅行需求、信任机制和平台抽成）：`13F 占比 3.2%`，市值约 `$2.54bn`，股数/份额 `18,694,408`。
+- `ICE` Intercontinental Exchange In（洲际交易所，交易所、清算、数据和抵押贷款技术平台，收入来自市场基础设施收费）：`13F 占比 3.2%`，市值约 `$2.52bn`，股数/份额 `15,584,531`。
+- `Keurig Dr Pepper` Keurig Dr Pepper Inc（饮料和咖啡系统公司，核心看品牌组合、渠道和咖啡胶囊生态）：`13F 占比 3.1%`，市值约 `$2.42bn`，股数/份额 `86,269,175`。
+- `Warner Bros Discovery` Warner Bros Discovery Inc（影视、电视网络和流媒体公司，核心看内容 IP、债务去化和 Max 平台表现）：`13F 占比 2.9%`，市值约 `$2.27bn`，股数/份额 `78,854,809`。
+- `Conocophillips` Conocophillips（大型独立油气勘探生产商，核心看低成本资源、油气价格和股东回报）：`13F 占比 2.8%`，市值约 `$2.25bn`，股数/份额 `24,002,747`。
+- `Schwab Charles` Schwab Charles Corp（嘉信理财，券商和财富管理平台，核心看客户资产、现金利差和交易活动）：`13F 占比 2.8%`，市值约 `$2.20bn`，股数/份额 `22,031,493`。
 
 #### Q3 2025
 
-- `GOOGL` Alphabet Inc：`13F 占比 4.9%`，市值约 `$3.06bn`，股数/份额 `12,593,448`。
-- `Iqvia Hldgs` Iqvia Hldgs Inc：`13F 占比 3.5%`，市值约 `$2.16bn`，股数/份额 `11,387,265`。
-- `Schwab Charles` Schwab Charles Corp：`13F 占比 3.3%`，市值约 `$2.03bn`，股数/份额 `21,235,618`。
-- `COF` Capital One Finl Corp：`13F 占比 3.1%`，市值约 `$1.92bn`，股数/份额 `9,025,271`。
-- `Airbnb` Airbnb Inc：`13F 占比 3.0%`，市值约 `$1.88bn`，股数/份额 `15,453,931`。
-- `Warner Bros Discovery` Warner Bros Discovery Inc：`13F 占比 3.0%`，市值约 `$1.87bn`，股数/份额 `95,960,593`。
-- `Phillips 66` Phillips 66：`13F 占比 3.0%`，市值约 `$1.86bn`，股数/份额 `13,640,378`。
-- `Conocophillips` Conocophillips：`13F 占比 2.9%`，市值约 `$1.78bn`，股数/份额 `18,864,278`。
-- `ICE` Intercontinental Exchange In：`13F 占比 2.8%`，市值约 `$1.72bn`，股数/份额 `10,195,719`。
-- `Salesforce` Salesforce Inc：`13F 占比 2.7%`，市值约 `$1.67bn`，股数/份额 `7,046,580`。
+- `GOOGL` Alphabet Inc（Alphabet 的 A 类股，核心资产是 Google 搜索、YouTube、广告网络、Android 和 Google Cloud）：`13F 占比 4.4%`，市值约 `$2.77bn`，股数/份额 `11,407,227`。
+- `Iqvia Hldgs` Iqvia Hldgs Inc（临床研究、医疗数据和外包服务平台，核心看药企研发外包和真实世界数据）：`13F 占比 3.5%`，市值约 `$2.16bn`，股数/份额 `11,387,265`。
+- `Schwab Charles` Schwab Charles Corp（嘉信理财，券商和财富管理平台，核心看客户资产、现金利差和交易活动）：`13F 占比 3.3%`，市值约 `$2.03bn`，股数/份额 `21,235,618`。
+- `COF` Capital One Finl Corp（Capital One，信用卡和消费金融银行，核心变量是信贷周期、获客成本和拨备水平）：`13F 占比 3.1%`，市值约 `$1.92bn`，股数/份额 `9,025,271`。
+- `Airbnb` Airbnb Inc（全球民宿和短租平台，核心看房源供给、旅行需求、信任机制和平台抽成）：`13F 占比 3.0%`，市值约 `$1.88bn`，股数/份额 `15,453,931`。
+- `Warner Bros Discovery` Warner Bros Discovery Inc（影视、电视网络和流媒体公司，核心看内容 IP、债务去化和 Max 平台表现）：`13F 占比 3.0%`，市值约 `$1.87bn`，股数/份额 `95,960,593`。
+- `Phillips 66` Phillips 66（炼油、管道和化工公司，现金流受炼油价差、运输资产和资本回报影响）：`13F 占比 3.0%`，市值约 `$1.86bn`，股数/份额 `13,640,378`。
+- `Conocophillips` Conocophillips（大型独立油气勘探生产商，核心看低成本资源、油气价格和股东回报）：`13F 占比 2.9%`，市值约 `$1.78bn`，股数/份额 `18,864,278`。
+- `ICE` Intercontinental Exchange In（洲际交易所，交易所、清算、数据和抵押贷款技术平台，收入来自市场基础设施收费）：`13F 占比 2.8%`，市值约 `$1.72bn`，股数/份额 `10,195,719`。
+- `Salesforce` Salesforce Inc（CRM 和企业软件平台，核心看客户关系数据、工作流粘性、AI 产品和利润率纪律）：`13F 占比 2.7%`，市值约 `$1.67bn`，股数/份额 `7,046,580`。
 
 #### Q2 2025
 
-- `GOOGL` Alphabet Inc：`13F 占比 4.9%`，市值约 `$3.02bn`，股数/份额 `17,114,881`。
-- `COF` Capital One Finl Corp：`13F 占比 3.5%`，市值约 `$2.14bn`，股数/份额 `10,068,086`。
-- `Schwab Charles` Schwab Charles Corp：`13F 占比 3.4%`，市值约 `$2.10bn`，股数/份额 `22,969,673`。
-- `ICE` Intercontinental Exchange In：`13F 占比 3.1%`，市值约 `$1.88bn`，股数/份额 `10,270,241`。
-- `Airbnb` Airbnb Inc：`13F 占比 3.1%`，市值约 `$1.88bn`，股数/份额 `14,237,331`。
-- `Iqvia Hldgs` Iqvia Hldgs Inc：`13F 占比 3.0%`，市值约 `$1.85bn`，股数/份额 `11,753,182`。
-- `Conocophillips` Conocophillips：`13F 占比 2.8%`，市值约 `$1.74bn`，股数/份额 `19,380,459`。
-- `Phillips 66` Phillips 66：`13F 占比 2.6%`，市值约 `$1.60bn`，股数/份额 `13,449,090`。
-- `Keurig Dr Pepper` Keurig Dr Pepper Inc：`13F 占比 2.5%`，市值约 `$1.56bn`，股数/份额 `47,118,176`。
-- `Charter Communications N` Charter Communications Inc N：`13F 占比 2.4%`，市值约 `$1.50bn`，股数/份额 `3,672,367`。
+- `GOOGL` Alphabet Inc（Alphabet 的 A 类股，核心资产是 Google 搜索、YouTube、广告网络、Android 和 Google Cloud）：`13F 占比 4.5%`，市值约 `$2.78bn`，股数/份额 `15,749,876`。
+- `COF` Capital One Finl Corp（Capital One，信用卡和消费金融银行，核心变量是信贷周期、获客成本和拨备水平）：`13F 占比 3.5%`，市值约 `$2.14bn`，股数/份额 `10,068,086`。
+- `Schwab Charles` Schwab Charles Corp（嘉信理财，券商和财富管理平台，核心看客户资产、现金利差和交易活动）：`13F 占比 3.4%`，市值约 `$2.10bn`，股数/份额 `22,969,673`。
+- `ICE` Intercontinental Exchange In（洲际交易所，交易所、清算、数据和抵押贷款技术平台，收入来自市场基础设施收费）：`13F 占比 3.1%`，市值约 `$1.88bn`，股数/份额 `10,270,241`。
+- `Airbnb` Airbnb Inc（全球民宿和短租平台，核心看房源供给、旅行需求、信任机制和平台抽成）：`13F 占比 3.1%`，市值约 `$1.88bn`，股数/份额 `14,237,331`。
+- `Iqvia Hldgs` Iqvia Hldgs Inc（临床研究、医疗数据和外包服务平台，核心看药企研发外包和真实世界数据）：`13F 占比 3.0%`，市值约 `$1.85bn`，股数/份额 `11,753,182`。
+- `Conocophillips` Conocophillips（大型独立油气勘探生产商，核心看低成本资源、油气价格和股东回报）：`13F 占比 2.8%`，市值约 `$1.74bn`，股数/份额 `19,380,459`。
+- `Phillips 66` Phillips 66（炼油、管道和化工公司，现金流受炼油价差、运输资产和资本回报影响）：`13F 占比 2.6%`，市值约 `$1.60bn`，股数/份额 `13,449,090`。
+- `Keurig Dr Pepper` Keurig Dr Pepper Inc（饮料和咖啡系统公司，核心看品牌组合、渠道和咖啡胶囊生态）：`13F 占比 2.5%`，市值约 `$1.56bn`，股数/份额 `47,118,176`。
+- `Charter Communications N` Charter Communications Inc N（美国有线宽带运营商，核心看宽带用户、移动捆绑和资本开支强度）：`13F 占比 2.4%`，市值约 `$1.50bn`，股数/份额 `3,672,367`。
 
 ### 变化摘要（Q1 2026 vs Q4 2025）
 

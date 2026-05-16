@@ -47,64 +47,64 @@ Bridgewater 在现有资料里最有辨识度的文化，不是“聪明人很�
 
 #### Q1 2026
 
-- `SPY` State Str Spdr S&P 500 Etf T：`13F 占比 12.7%`，市值约 `$2.84bn`，股数/份额 `4,364,862`。
-- `IVV` Ishares Tr：`13F 占比 8.9%`，市值约 `$1.99bn`，股数/份额 `5,067,905`。
-- `AMZN` Amazon Com Inc：`13F 占比 4.1%`，市值约 `$0.91bn`，股数/份额 `4,388,711`。
-- `NVDA` Nvidia Corporation：`13F 占比 3.7%`，市值约 `$0.82bn`，股数/份额 `4,693,003`。
-- `GOOGL` Alphabet Inc：`13F 占比 3.1%`，市值约 `$0.69bn`，股数/份额 `2,384,676`。
-- `AVGO` Broadcom Inc：`13F 占比 2.5%`，市值约 `$0.57bn`，股数/份额 `1,835,380`。
-- `Micron Technology` Micron Technology Inc：`13F 占比 2.2%`，市值约 `$0.50bn`，股数/份额 `1,475,704`。
-- `Ishares` Ishares Inc：`13F 占比 1.8%`，市值约 `$0.41bn`，股数/份额 `4,375,869`。
-- `MSFT` Microsoft Corp：`13F 占比 1.8%`，市值约 `$0.40bn`，股数/份额 `1,084,979`。
-- `GEV` Ge Vernova Inc：`13F 占比 1.7%`，市值约 `$0.38bn`，股数/份额 `434,897`。
+- `SPY` State Str Spdr S&P 500 Etf T（标普 500 ETF，用来表达美国大盘指数暴露，也常被交易型机构用于期权和对冲）：`13F 占比 12.7%`，市值约 `$2.84bn`，股数/份额 `4,364,862`。
+- `IVV` Ishares Tr（iShares Core S&P 500 ETF，用来表达美国大盘指数暴露）：`13F 占比 8.9%`，市值约 `$1.99bn`，股数/份额 `5,067,905`。
+- `AMZN` Amazon Com Inc（电商、物流、AWS 云和广告共同构成的平台公司，长期变量是基础设施外部化能力）：`13F 占比 4.1%`，市值约 `$0.91bn`，股数/份额 `4,388,711`。
+- `NVDA` Nvidia Corporation（AI 加速计算平台，GPU、网络和 CUDA 生态共同支撑数据中心算力需求）：`13F 占比 3.7%`，市值约 `$0.82bn`，股数/份额 `4,693,003`。
+- `GOOGL` Alphabet Inc（Alphabet 的 A 类股，核心资产是 Google 搜索、YouTube、广告网络、Android 和 Google Cloud）：`13F 占比 2.6%`，市值约 `$0.57bn`，股数/份额 `1,997,674`。
+- `AVGO` Broadcom Inc（博通，半导体和基础设施软件公司，AI 网络、ASIC 和 VMware 是当前核心变量）：`13F 占比 2.5%`，市值约 `$0.57bn`，股数/份额 `1,835,380`。
+- `Micron Technology` Micron Technology Inc（存储芯片公司，核心看 DRAM/HBM/NAND 周期、AI 存储需求和资本开支纪律）：`13F 占比 2.2%`，市值约 `$0.50bn`，股数/份额 `1,475,704`。
+- `Ishares` Ishares Inc（iShares ETF 工具，用来表达指数、国家/地区或资产类别暴露）：`13F 占比 1.8%`，市值约 `$0.41bn`，股数/份额 `4,375,869`。
+- `MSFT` Microsoft Corp（微软，企业软件、Azure 云、Office、Windows 和 AI 基础设施共同构成的生产力平台）：`13F 占比 1.8%`，市值约 `$0.40bn`，股数/份额 `1,084,979`。
+- `GEV` Ge Vernova Inc（GE Vernova，电力设备和电网技术公司，受益于电气化、电网升级和能源转型资本开支）：`13F 占比 1.7%`，市值约 `$0.38bn`，股数/份额 `434,897`。
 
 #### Q4 2025
 
-- `IVV` Ishares Tr：`13F 占比 11.4%`，市值约 `$3.14bn`，股数/份额 `6,849,661`。
-- `SPY` Spdr S&P 500 Etf Tr：`13F 占比 11.1%`，市值约 `$3.04bn`，股数/份额 `4,455,413`。
-- `NVDA` Nvidia Corporation：`13F 占比 2.6%`，市值约 `$0.72bn`，股数/份额 `3,865,205`。
-- `Lam Research` Lam Research Corp：`13F 占比 1.9%`，市值约 `$0.52bn`，股数/份额 `3,041,661`。
-- `Salesforce` Salesforce Inc：`13F 占比 1.9%`，市值约 `$0.51bn`，股数/份额 `1,932,066`。
-- `GOOGL` Alphabet Inc：`13F 占比 1.8%`，市值约 `$0.50bn`，股数/份额 `1,590,826`。
-- `MSFT` Microsoft Corp：`13F 占比 1.7%`，市值约 `$0.48bn`，股数/份额 `984,091`。
-- `AMZN` Amazon Com Inc：`13F 占比 1.6%`，市值约 `$0.45bn`，股数/份额 `1,948,254`。
-- `Adobe` Adobe Inc：`13F 占比 1.6%`，市值约 `$0.45bn`，股数/份额 `1,275,055`。
-- `GEV` Ge Vernova Inc：`13F 占比 1.6%`，市值约 `$0.44bn`，股数/份额 `665,997`。
+- `IVV` Ishares Tr（iShares Core S&P 500 ETF，用来表达美国大盘指数暴露）：`13F 占比 11.4%`，市值约 `$3.14bn`，股数/份额 `6,849,661`。
+- `SPY` Spdr S&P 500 Etf Tr（标普 500 ETF，用来表达美国大盘指数暴露，也常被交易型机构用于期权和对冲）：`13F 占比 11.1%`，市值约 `$3.04bn`，股数/份额 `4,455,413`。
+- `NVDA` Nvidia Corporation（AI 加速计算平台，GPU、网络和 CUDA 生态共同支撑数据中心算力需求）：`13F 占比 2.6%`，市值约 `$0.72bn`，股数/份额 `3,865,205`。
+- `Lam Research` Lam Research Corp（半导体刻蚀和沉积设备公司，核心看先进制程、存储周期和晶圆厂资本开支）：`13F 占比 1.9%`，市值约 `$0.52bn`，股数/份额 `3,041,661`。
+- `Salesforce` Salesforce Inc（CRM 和企业软件平台，核心看客户关系数据、工作流粘性、AI 产品和利润率纪律）：`13F 占比 1.9%`，市值约 `$0.51bn`，股数/份额 `1,932,066`。
+- `GOOGL` Alphabet Inc（Alphabet 的 A 类股，核心资产是 Google 搜索、YouTube、广告网络、Android 和 Google Cloud）：`13F 占比 1.8%`，市值约 `$0.50bn`，股数/份额 `1,590,826`。
+- `MSFT` Microsoft Corp（微软，企业软件、Azure 云、Office、Windows 和 AI 基础设施共同构成的生产力平台）：`13F 占比 1.7%`，市值约 `$0.48bn`，股数/份额 `984,091`。
+- `AMZN` Amazon Com Inc（电商、物流、AWS 云和广告共同构成的平台公司，长期变量是基础设施外部化能力）：`13F 占比 1.6%`，市值约 `$0.45bn`，股数/份额 `1,948,254`。
+- `Adobe` Adobe Inc（创意软件、文档和数字体验平台，核心看订阅粘性、AI 生成工具和企业营销支出）：`13F 占比 1.6%`，市值约 `$0.45bn`，股数/份额 `1,275,055`。
+- `GEV` Ge Vernova Inc（GE Vernova，电力设备和电网技术公司，受益于电气化、电网升级和能源转型资本开支）：`13F 占比 1.6%`，市值约 `$0.44bn`，股数/份额 `665,997`。
 
 #### Q3 2025
 
-- `IVV` Ishares Tr：`13F 占比 11.5%`，市值约 `$2.95bn`，股数/份额 `6,374,234`。
-- `SPY` Spdr S&P 500 Etf Tr：`13F 占比 6.7%`，市值约 `$1.71bn`，股数/份额 `2,565,088`。
-- `GOOGL` Alphabet Inc：`13F 占比 2.5%`，市值约 `$0.65bn`，股数/份额 `2,653,896`。
-- `MSFT` Microsoft Corp：`13F 占比 2.2%`，市值约 `$0.57bn`，股数/份额 `1,097,169`。
-- `Salesforce` Salesforce Inc：`13F 占比 1.9%`，市值约 `$0.48bn`，股数/份额 `2,007,027`。
-- `NVDA` Nvidia Corporation：`13F 占比 1.8%`，市值约 `$0.47bn`，股数/份额 `2,509,751`。
-- `Lam Research` Lam Research Corp：`13F 占比 1.8%`，市值约 `$0.46bn`，股数/份额 `3,463,980`。
-- `Adobe` Adobe Inc：`13F 占比 1.7%`，市值约 `$0.45bn`，股数/份额 `1,262,696`。
-- `BKNG` Booking Holdings Inc：`13F 占比 1.6%`，市值约 `$0.42bn`，股数/份额 `77,731`。
-- `GEV` Ge Vernova Inc：`13F 占比 1.6%`，市值约 `$0.40bn`，股数/份额 `651,092`。
+- `IVV` Ishares Tr（iShares Core S&P 500 ETF，用来表达美国大盘指数暴露）：`13F 占比 11.5%`，市值约 `$2.95bn`，股数/份额 `6,374,234`。
+- `SPY` Spdr S&P 500 Etf Tr（标普 500 ETF，用来表达美国大盘指数暴露，也常被交易型机构用于期权和对冲）：`13F 占比 6.7%`，市值约 `$1.71bn`，股数/份额 `2,565,088`。
+- `GOOGL` Alphabet Inc（Alphabet 的 A 类股，核心资产是 Google 搜索、YouTube、广告网络、Android 和 Google Cloud）：`13F 占比 2.5%`，市值约 `$0.65bn`，股数/份额 `2,653,896`。
+- `MSFT` Microsoft Corp（微软，企业软件、Azure 云、Office、Windows 和 AI 基础设施共同构成的生产力平台）：`13F 占比 2.2%`，市值约 `$0.57bn`，股数/份额 `1,097,169`。
+- `Salesforce` Salesforce Inc（CRM 和企业软件平台，核心看客户关系数据、工作流粘性、AI 产品和利润率纪律）：`13F 占比 1.9%`，市值约 `$0.48bn`，股数/份额 `2,007,027`。
+- `NVDA` Nvidia Corporation（AI 加速计算平台，GPU、网络和 CUDA 生态共同支撑数据中心算力需求）：`13F 占比 1.8%`，市值约 `$0.47bn`，股数/份额 `2,509,751`。
+- `Lam Research` Lam Research Corp（半导体刻蚀和沉积设备公司，核心看先进制程、存储周期和晶圆厂资本开支）：`13F 占比 1.8%`，市值约 `$0.46bn`，股数/份额 `3,463,980`。
+- `Adobe` Adobe Inc（创意软件、文档和数字体验平台，核心看订阅粘性、AI 生成工具和企业营销支出）：`13F 占比 1.7%`，市值约 `$0.45bn`，股数/份额 `1,262,696`。
+- `BKNG` Booking Holdings Inc（在线旅游平台，Booking.com 是核心资产，受益于全球住宿供给、流量和转化效率）：`13F 占比 1.6%`，市值约 `$0.42bn`，股数/份额 `77,731`。
+- `GEV` Ge Vernova Inc（GE Vernova，电力设备和电网技术公司，受益于电气化、电网升级和能源转型资本开支）：`13F 占比 1.6%`，市值约 `$0.40bn`，股数/份额 `651,092`。
 
 #### Q2 2025
 
-- `IVV` Ishares Tr：`13F 占比 6.8%`，市值约 `$1.69bn`，股数/份额 `4,812,584`。
-- `SPY` Spdr S&P 500 Etf Tr：`13F 占比 6.5%`，市值约 `$1.61bn`，股数/份额 `2,610,360`。
-- `Ishares` Ishares Inc：`13F 占比 4.7%`，市值约 `$1.16bn`，股数/份额 `18,922,977`。
-- `NVDA` Nvidia Corporation：`13F 占比 4.6%`，市值约 `$1.14bn`，股数/份额 `7,229,134`。
-- `GOOGL` Alphabet Inc：`13F 占比 4.0%`，市值约 `$0.99bn`，股数/份额 `5,600,424`。
-- `MSFT` Microsoft Corp：`13F 占比 3.4%`，市值约 `$0.85bn`，股数/份额 `1,715,057`。
-- `META` Meta Platforms Inc：`13F 占比 2.4%`，市值约 `$0.60bn`，股数/份额 `807,073`。
-- `Salesforce` Salesforce Inc：`13F 占比 1.8%`，市值约 `$0.45bn`，股数/份额 `1,639,601`。
-- `BKNG` Booking Holdings Inc：`13F 占比 1.8%`，市值约 `$0.44bn`，股数/份额 `76,153`。
-- `GEV` Ge Vernova Inc：`13F 占比 1.7%`，市值约 `$0.41bn`，股数/份额 `778,263`。
+- `IVV` Ishares Tr（iShares Core S&P 500 ETF，用来表达美国大盘指数暴露）：`13F 占比 6.8%`，市值约 `$1.69bn`，股数/份额 `4,812,584`。
+- `SPY` Spdr S&P 500 Etf Tr（标普 500 ETF，用来表达美国大盘指数暴露，也常被交易型机构用于期权和对冲）：`13F 占比 6.5%`，市值约 `$1.61bn`，股数/份额 `2,610,360`。
+- `Ishares` Ishares Inc（iShares ETF 工具，用来表达指数、国家/地区或资产类别暴露）：`13F 占比 4.7%`，市值约 `$1.16bn`，股数/份额 `18,922,977`。
+- `NVDA` Nvidia Corporation（AI 加速计算平台，GPU、网络和 CUDA 生态共同支撑数据中心算力需求）：`13F 占比 4.6%`，市值约 `$1.14bn`，股数/份额 `7,229,134`。
+- `GOOGL` Alphabet Inc（Alphabet 的 A 类股，核心资产是 Google 搜索、YouTube、广告网络、Android 和 Google Cloud）：`13F 占比 4.0%`，市值约 `$0.99bn`，股数/份额 `5,600,424`。
+- `MSFT` Microsoft Corp（微软，企业软件、Azure 云、Office、Windows 和 AI 基础设施共同构成的生产力平台）：`13F 占比 3.4%`，市值约 `$0.85bn`，股数/份额 `1,715,057`。
+- `META` Meta Platforms Inc（Meta，社交网络、广告系统和 AI 推荐平台，核心资产是 Facebook、Instagram、WhatsApp 和广告模型）：`13F 占比 2.4%`，市值约 `$0.60bn`，股数/份额 `807,073`。
+- `Salesforce` Salesforce Inc（CRM 和企业软件平台，核心看客户关系数据、工作流粘性、AI 产品和利润率纪律）：`13F 占比 1.8%`，市值约 `$0.45bn`，股数/份额 `1,639,601`。
+- `BKNG` Booking Holdings Inc（在线旅游平台，Booking.com 是核心资产，受益于全球住宿供给、流量和转化效率）：`13F 占比 1.8%`，市值约 `$0.44bn`，股数/份额 `76,153`。
+- `GEV` Ge Vernova Inc（GE Vernova，电力设备和电网技术公司，受益于电气化、电网升级和能源转型资本开支）：`13F 占比 1.7%`，市值约 `$0.41bn`，股数/份额 `778,263`。
 
 ### 变化摘要（Q1 2026 vs Q4 2025）
 
-- 持仓总市值变化：从 `$27.42bn` 到 `$22.40bn`，下降 `-$5.02bn`（-18.3%）。粗拆：主动仓位变化 `-$4.54bn`，价格变化 `-$0.48bn`；主要由主动仓位变化拖累。
+- 持仓总市值变化：从 `$27.42bn` 到 `$22.40bn`，下降 `-$5.02bn`（-18.3%）。粗拆：主动仓位变化 `-$4.55bn`，价格变化 `-$0.47bn`；主要由主动仓位变化拖累。
 - 新进前 10：AVGO, Micron Technology, Ishares
 - 退出前 10：Lam Research, Salesforce, Adobe
-- 权重上升：AMZN（+2.4 pct）, SPY（+1.6 pct）, Micron Technology（+1.3 pct）, GOOGL（+1.2 pct）, AVGO（+1.1 pct）
+- 权重上升：AMZN（+2.4 pct）, SPY（+1.6 pct）, Micron Technology（+1.3 pct）, AVGO（+1.1 pct）, NVDA（+1.0 pct）
 - 权重下降：IVV（-2.6 pct）, Adobe（-1.6 pct）, BKNG（-1.6 pct）, MA（-0.8 pct）, Paypal Hldgs（-0.7 pct）
-- 显著加仓：AMZN（股数 +2,440,457，+125.3%）, GOOGL（股数 +793,850，+49.9%）, AVGO（股数 +669,640，+57.4%）, Micron Technology（股数 +586,064，+65.9%）, NVDA（股数 +827,798，+21.4%）
+- 显著加仓：AMZN（股数 +2,440,457，+125.3%）, AVGO（股数 +669,640，+57.4%）, Micron Technology（股数 +586,064，+65.9%）, NVDA（股数 +827,798，+21.4%）, GOOGL（股数 +406,848，+25.6%）
 - 显著减仓：IVV（股数 -1,781,756，-26.0%）, Adobe（股数 -1,273,743，-99.9%）, BKNG（股数 -80,474，-99.9%）, Lam Research（股数 -1,470,432，-48.3%）, MA（股数 -405,277，-99.0%）
 
 ### 数据来源

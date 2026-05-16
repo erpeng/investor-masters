@@ -57,59 +57,59 @@ CNBC 总部访谈里，Ken 直接把 `pursuit of talent` 说成 创始原则；S
 
 #### Q1 2026
 
-- `SPY` State Str Spdr S&P 500 Etf T put：`13F 占比 4.1%`，市值约 `$25.20bn`，股数/份额 `39,342,000`。
-- `Invesco Qqq Tr` Invesco Qqq Tr put：`13F 占比 3.3%`，市值约 `$20.54bn`，股数/份额 `35,591,300`。
-- `SPY` State Str Spdr S&P 500 Etf T call：`13F 占比 2.9%`，市值约 `$18.18bn`，股数/份额 `28,238,600`。
-- `TSLA` Tesla Inc call：`13F 占比 2.2%`，市值约 `$13.53bn`，股数/份额 `36,403,000`。
-- `IVV` Ishares Tr put：`13F 占比 2.1%`，市值约 `$13.24bn`，股数/份额 `124,380,700`。
-- `NVDA` Nvidia Corporation call：`13F 占比 1.9%`，市值约 `$11.67bn`，股数/份额 `66,888,000`。
-- `Invesco Qqq Tr` Invesco Qqq Tr call：`13F 占比 1.8%`，市值约 `$11.25bn`，股数/份额 `19,496,300`。
-- `IVV` Ishares Tr call：`13F 占比 1.8%`，市值约 `$11.23bn`，股数/份额 `114,182,500`。
-- `TSLA` Tesla Inc put：`13F 占比 1.5%`，市值约 `$9.45bn`，股数/份额 `25,427,200`。
-- `Spdr Gold Tr` Spdr Gold Tr call：`13F 占比 1.5%`，市值约 `$9.43bn`，股数/份额 `21,912,100`。
+- `SPY` State Str Spdr S&P 500 Etf T put（标普 500 ETF，用来表达美国大盘指数暴露，也常被交易型机构用于期权和对冲）：`13F 占比 4.1%`，市值约 `$25.20bn`，股数/份额 `39,342,000`。
+- `Invesco Qqq Tr` Invesco Qqq Tr put（纳斯达克 100 ETF，用来表达大型科技和成长股指数暴露）：`13F 占比 3.3%`，市值约 `$20.54bn`，股数/份额 `35,591,300`。
+- `SPY` State Str Spdr S&P 500 Etf T call（标普 500 ETF，用来表达美国大盘指数暴露，也常被交易型机构用于期权和对冲）：`13F 占比 2.9%`，市值约 `$18.18bn`，股数/份额 `28,238,600`。
+- `TSLA` Tesla Inc call（特斯拉，电动车、储能和自动驾驶平台公司，核心变量是制造效率、FSD 与 Robotaxi 期权）：`13F 占比 2.2%`，市值约 `$13.53bn`，股数/份额 `36,403,000`。
+- `IVV` Ishares Tr put（iShares Core S&P 500 ETF，用来表达美国大盘指数暴露）：`13F 占比 2.1%`，市值约 `$13.24bn`，股数/份额 `124,380,700`。
+- `NVDA` Nvidia Corporation call（AI 加速计算平台，GPU、网络和 CUDA 生态共同支撑数据中心算力需求）：`13F 占比 1.9%`，市值约 `$11.67bn`，股数/份额 `66,888,000`。
+- `Invesco Qqq Tr` Invesco Qqq Tr call（纳斯达克 100 ETF，用来表达大型科技和成长股指数暴露）：`13F 占比 1.8%`，市值约 `$11.25bn`，股数/份额 `19,496,300`。
+- `IVV` Ishares Tr call（iShares Core S&P 500 ETF，用来表达美国大盘指数暴露）：`13F 占比 1.8%`，市值约 `$11.23bn`，股数/份额 `114,182,500`。
+- `TSLA` Tesla Inc put（特斯拉，电动车、储能和自动驾驶平台公司，核心变量是制造效率、FSD 与 Robotaxi 期权）：`13F 占比 1.5%`，市值约 `$9.45bn`，股数/份额 `25,427,200`。
+- `Spdr Gold Tr` Spdr Gold Tr call（黄金 ETF，用来表达黄金价格暴露）：`13F 占比 1.5%`，市值约 `$9.43bn`，股数/份额 `21,912,100`。
 
 #### Q4 2025
 
-- `Invesco Qqq Tr` Invesco Qqq Tr put：`13F 占比 3.3%`，市值约 `$22.24bn`，股数/份额 `36,209,000`。
-- `SPY` Spdr S&P 500 Etf Tr put：`13F 占比 3.0%`，市值约 `$19.74bn`，股数/份额 `28,954,000`。
-- `TSLA` Tesla Inc call：`13F 占比 3.0%`，市值约 `$19.66bn`，股数/份额 `43,725,100`。
-- `SPY` Spdr S&P 500 Etf Tr call：`13F 占比 2.7%`，市值约 `$18.27bn`，股数/份额 `26,791,900`。
-- `NVDA` Nvidia Corporation call：`13F 占比 2.2%`，市值约 `$14.54bn`，股数/份额 `77,938,300`。
-- `TSLA` Tesla Inc put：`13F 占比 2.2%`，市值约 `$14.45bn`，股数/份额 `32,137,700`。
-- `Invesco Qqq Tr` Invesco Qqq Tr call：`13F 占比 2.1%`，市值约 `$13.83bn`，股数/份额 `22,507,800`。
-- `IVV` Ishares Tr put：`13F 占比 1.9%`，市值约 `$12.98bn`，股数/份额 `113,605,300`。
-- `NVDA` Nvidia Corporation put：`13F 占比 1.5%`，市值约 `$10.27bn`，股数/份额 `55,048,300`。
-- `IVV` Ishares Tr call：`13F 占比 1.5%`，市值约 `$10.13bn`，股数/份额 `89,238,300`。
+- `Invesco Qqq Tr` Invesco Qqq Tr put（纳斯达克 100 ETF，用来表达大型科技和成长股指数暴露）：`13F 占比 3.3%`，市值约 `$22.24bn`，股数/份额 `36,209,000`。
+- `SPY` Spdr S&P 500 Etf Tr put（标普 500 ETF，用来表达美国大盘指数暴露，也常被交易型机构用于期权和对冲）：`13F 占比 3.0%`，市值约 `$19.74bn`，股数/份额 `28,954,000`。
+- `TSLA` Tesla Inc call（特斯拉，电动车、储能和自动驾驶平台公司，核心变量是制造效率、FSD 与 Robotaxi 期权）：`13F 占比 3.0%`，市值约 `$19.66bn`，股数/份额 `43,725,100`。
+- `SPY` Spdr S&P 500 Etf Tr call（标普 500 ETF，用来表达美国大盘指数暴露，也常被交易型机构用于期权和对冲）：`13F 占比 2.7%`，市值约 `$18.27bn`，股数/份额 `26,791,900`。
+- `NVDA` Nvidia Corporation call（AI 加速计算平台，GPU、网络和 CUDA 生态共同支撑数据中心算力需求）：`13F 占比 2.2%`，市值约 `$14.54bn`，股数/份额 `77,938,300`。
+- `TSLA` Tesla Inc put（特斯拉，电动车、储能和自动驾驶平台公司，核心变量是制造效率、FSD 与 Robotaxi 期权）：`13F 占比 2.2%`，市值约 `$14.45bn`，股数/份额 `32,137,700`。
+- `Invesco Qqq Tr` Invesco Qqq Tr call（纳斯达克 100 ETF，用来表达大型科技和成长股指数暴露）：`13F 占比 2.1%`，市值约 `$13.83bn`，股数/份额 `22,507,800`。
+- `IVV` Ishares Tr put（iShares Core S&P 500 ETF，用来表达美国大盘指数暴露）：`13F 占比 1.9%`，市值约 `$12.98bn`，股数/份额 `113,605,300`。
+- `NVDA` Nvidia Corporation put（AI 加速计算平台，GPU、网络和 CUDA 生态共同支撑数据中心算力需求）：`13F 占比 1.5%`，市值约 `$10.27bn`，股数/份额 `55,048,300`。
+- `IVV` Ishares Tr call（iShares Core S&P 500 ETF，用来表达美国大盘指数暴露）：`13F 占比 1.5%`，市值约 `$10.13bn`，股数/份额 `89,238,300`。
 
 #### Q3 2025
 
-- `SPY` Spdr S&P 500 Etf Tr put：`13F 占比 4.2%`，市值约 `$27.31bn`，股数/份额 `41,000,100`。
-- `Invesco Qqq Tr` Invesco Qqq Tr put：`13F 占比 4.0%`，市值约 `$26.58bn`，股数/份额 `44,269,600`。
-- `SPY` Spdr S&P 500 Etf Tr call：`13F 占比 2.8%`，市值约 `$18.41bn`，股数/份额 `27,640,700`。
-- `TSLA` Tesla Inc call：`13F 占比 2.5%`，市值约 `$16.33bn`，股数/份额 `36,718,500`。
-- `Invesco Qqq Tr` Invesco Qqq Tr call：`13F 占比 2.5%`，市值约 `$16.33bn`，股数/份额 `27,196,000`。
-- `IVV` Ishares Tr put：`13F 占比 2.3%`，市值约 `$15.36bn`，股数/份额 `133,034,900`。
-- `TSLA` Tesla Inc put：`13F 占比 2.3%`，市值约 `$14.95bn`，股数/份额 `33,620,100`。
-- `NVDA` Nvidia Corporation call：`13F 占比 2.2%`，市值约 `$14.50bn`，股数/份额 `77,694,400`。
-- `NVDA` Nvidia Corporation put：`13F 占比 1.9%`，市值约 `$12.16bn`，股数/份额 `65,187,100`。
-- `IVV` Ishares Tr call：`13F 占比 1.4%`，市值约 `$9.13bn`，股数/份额 `78,147,200`。
+- `SPY` Spdr S&P 500 Etf Tr put（标普 500 ETF，用来表达美国大盘指数暴露，也常被交易型机构用于期权和对冲）：`13F 占比 4.2%`，市值约 `$27.31bn`，股数/份额 `41,000,100`。
+- `Invesco Qqq Tr` Invesco Qqq Tr put（纳斯达克 100 ETF，用来表达大型科技和成长股指数暴露）：`13F 占比 4.0%`，市值约 `$26.58bn`，股数/份额 `44,269,600`。
+- `SPY` Spdr S&P 500 Etf Tr call（标普 500 ETF，用来表达美国大盘指数暴露，也常被交易型机构用于期权和对冲）：`13F 占比 2.8%`，市值约 `$18.41bn`，股数/份额 `27,640,700`。
+- `TSLA` Tesla Inc call（特斯拉，电动车、储能和自动驾驶平台公司，核心变量是制造效率、FSD 与 Robotaxi 期权）：`13F 占比 2.5%`，市值约 `$16.33bn`，股数/份额 `36,718,500`。
+- `Invesco Qqq Tr` Invesco Qqq Tr call（纳斯达克 100 ETF，用来表达大型科技和成长股指数暴露）：`13F 占比 2.5%`，市值约 `$16.33bn`，股数/份额 `27,196,000`。
+- `IVV` Ishares Tr put（iShares Core S&P 500 ETF，用来表达美国大盘指数暴露）：`13F 占比 2.3%`，市值约 `$15.36bn`，股数/份额 `133,034,900`。
+- `TSLA` Tesla Inc put（特斯拉，电动车、储能和自动驾驶平台公司，核心变量是制造效率、FSD 与 Robotaxi 期权）：`13F 占比 2.3%`，市值约 `$14.95bn`，股数/份额 `33,620,100`。
+- `NVDA` Nvidia Corporation call（AI 加速计算平台，GPU、网络和 CUDA 生态共同支撑数据中心算力需求）：`13F 占比 2.2%`，市值约 `$14.50bn`，股数/份额 `77,694,400`。
+- `NVDA` Nvidia Corporation put（AI 加速计算平台，GPU、网络和 CUDA 生态共同支撑数据中心算力需求）：`13F 占比 1.9%`，市值约 `$12.16bn`，股数/份额 `65,187,100`。
+- `IVV` Ishares Tr call（iShares Core S&P 500 ETF，用来表达美国大盘指数暴露）：`13F 占比 1.4%`，市值约 `$9.13bn`，股数/份额 `78,147,200`。
 
 #### Q2 2025
 
-- `SPY` Spdr S&P 500 Etf Tr put：`13F 占比 5.8%`，市值约 `$33.47bn`，股数/份额 `54,174,200`。
-- `SPY` Spdr S&P 500 Etf Tr call：`13F 占比 4.2%`，市值约 `$23.95bn`，股数/份额 `38,758,900`。
-- `Invesco Qqq Tr` Invesco Qqq Tr put：`13F 占比 3.5%`，市值约 `$19.88bn`，股数/份额 `36,032,200`。
-- `Invesco Qqq Tr` Invesco Qqq Tr call：`13F 占比 3.0%`，市值约 `$17.29bn`，股数/份额 `31,338,500`。
-- `IVV` Ishares Tr put：`13F 占比 2.3%`，市值约 `$13.41bn`，股数/份额 `122,056,400`。
-- `NVDA` Nvidia Corporation call：`13F 占比 2.2%`，市值约 `$12.95bn`，股数/份额 `81,972,100`。
-- `NVDA` Nvidia Corporation put：`13F 占比 1.9%`，市值约 `$11.23bn`，股数/份额 `71,081,900`。
-- `TSLA` Tesla Inc call：`13F 占比 1.9%`，市值约 `$11.03bn`，股数/份额 `34,728,300`。
-- `TSLA` Tesla Inc put：`13F 占比 1.8%`，市值约 `$10.52bn`，股数/份额 `33,107,700`。
-- `IVV` Ishares Tr call：`13F 占比 1.7%`，市值约 `$9.89bn`，股数/份额 `82,269,500`。
+- `SPY` Spdr S&P 500 Etf Tr put（标普 500 ETF，用来表达美国大盘指数暴露，也常被交易型机构用于期权和对冲）：`13F 占比 5.8%`，市值约 `$33.47bn`，股数/份额 `54,174,200`。
+- `SPY` Spdr S&P 500 Etf Tr call（标普 500 ETF，用来表达美国大盘指数暴露，也常被交易型机构用于期权和对冲）：`13F 占比 4.2%`，市值约 `$23.95bn`，股数/份额 `38,758,900`。
+- `Invesco Qqq Tr` Invesco Qqq Tr put（纳斯达克 100 ETF，用来表达大型科技和成长股指数暴露）：`13F 占比 3.5%`，市值约 `$19.88bn`，股数/份额 `36,032,200`。
+- `Invesco Qqq Tr` Invesco Qqq Tr call（纳斯达克 100 ETF，用来表达大型科技和成长股指数暴露）：`13F 占比 3.0%`，市值约 `$17.29bn`，股数/份额 `31,338,500`。
+- `IVV` Ishares Tr put（iShares Core S&P 500 ETF，用来表达美国大盘指数暴露）：`13F 占比 2.3%`，市值约 `$13.41bn`，股数/份额 `122,056,400`。
+- `NVDA` Nvidia Corporation call（AI 加速计算平台，GPU、网络和 CUDA 生态共同支撑数据中心算力需求）：`13F 占比 2.2%`，市值约 `$12.95bn`，股数/份额 `81,972,100`。
+- `NVDA` Nvidia Corporation put（AI 加速计算平台，GPU、网络和 CUDA 生态共同支撑数据中心算力需求）：`13F 占比 1.9%`，市值约 `$11.23bn`，股数/份额 `71,081,900`。
+- `TSLA` Tesla Inc call（特斯拉，电动车、储能和自动驾驶平台公司，核心变量是制造效率、FSD 与 Robotaxi 期权）：`13F 占比 1.9%`，市值约 `$11.03bn`，股数/份额 `34,728,300`。
+- `TSLA` Tesla Inc put（特斯拉，电动车、储能和自动驾驶平台公司，核心变量是制造效率、FSD 与 Robotaxi 期权）：`13F 占比 1.8%`，市值约 `$10.52bn`，股数/份额 `33,107,700`。
+- `IVV` Ishares Tr call（iShares Core S&P 500 ETF，用来表达美国大盘指数暴露）：`13F 占比 1.7%`，市值约 `$9.89bn`，股数/份额 `82,269,500`。
 
 ### 变化摘要（Q1 2026 vs Q4 2025）
 
-- 持仓总市值变化：从 `$665.87bn` 到 `$618.47bn`，下降 `-$47.40bn`（-7.1%）。粗拆：主动仓位变化 `$17.22bn`，价格变化 `-$64.62bn`；主要由价格变化拖累。
+- 持仓总市值变化：从 `$665.87bn` 到 `$618.47bn`，下降 `-$47.40bn`（-7.1%）。粗拆：主动仓位变化 `$17.22bn`，价格变化 `-$64.61bn`；主要由价格变化拖累。
 - 新进前 10：Spdr Gold Tr call
 - 退出前 10：NVDA put
 - 权重上升：SPY put（+1.1 pct）, IVV（+0.5 pct）, Spdr Gold Tr call（+0.4 pct）, Micron Technology put（+0.4 pct）, Select Sector Spdr put（+0.3 pct）

@@ -43,61 +43,61 @@ H&H 没有像 Fundsmith 或 Oaktree 那样的公开机构备忘录，因此不�
 
 13F 只覆盖美国公开股票多头及部分期权披露，且有季度滞后，不代表机构完整组合；`持仓总市值变化` 也只是这张 13F 表内的可见市值变化。
 H&H International Investment 是段永平相关的美国 13F 披露主体；这张表只能代表其可见美国公开证券切片，不等于段永平完整资产组合。
-截至本次抓取时间 `2026-05-16 09:11 CST`，SEC 最近可见季度仍为 `Q4 2025`，尚未抓到 `Q1 2026` 13F。
+截至本次抓取时间 `2026-05-16 10:17 CST`，SEC 最近可见季度仍为 `Q4 2025`，尚未抓到 `Q1 2026` 13F。
 
 ### 近四个已披露季度前 10 大持仓
 
 #### Q4 2025
 
-- `AAPL` Apple Inc：`13F 占比 50.3%`，市值约 `$8.80bn`，股数/份额 `32,358,507`。
-- `BRK.B` Berkshire Hathaway Inc Del：`13F 占比 20.6%`，市值约 `$3.61bn`，股数/份额 `7,176,196`。
-- `NVDA` Nvidia Corporation：`13F 占比 7.7%`，市值约 `$1.35bn`，股数/份额 `7,237,100`。
-- `PDD` Pdd Holdings Inc：`13F 占比 7.5%`，市值约 `$1.31bn`，股数/份额 `11,536,694`。
-- `GOOG` Alphabet Inc：`13F 占比 3.3%`，市值约 `$0.58bn`，股数/份额 `1,855,400`。
-- `OXY` Occidental Pete Corp：`13F 占比 3.1%`，市值约 `$0.54bn`，股数/份额 `13,172,600`。
-- `MSFT` Microsoft Corp：`13F 占比 2.4%`，市值约 `$0.42bn`，股数/份额 `859,000`。
-- `Alibaba Group Hldg` Alibaba Group Hldg Ltd：`13F 占比 2.1%`，市值约 `$0.38bn`，股数/份额 `2,560,500`。
-- `TSM` Taiwan Semiconductor Mfg Ltd：`13F 占比 2.1%`，市值约 `$0.37bn`，股数/份额 `1,224,384`。
-- `Disney Walt` Disney Walt Co：`13F 占比 0.5%`，市值约 `$0.08bn`，股数/份额 `712,000`。
+- `AAPL` Apple Inc（消费电子与服务平台，iPhone 是核心入口，服务业务贡献高毛利和生态粘性）：`13F 占比 50.3%`，市值约 `$8.80bn`，股数/份额 `32,358,507`。
+- `BRK.B` Berkshire Hathaway Inc Del（伯克希尔哈撒韦，保险 float、全资经营业务和公开股票组合构成的复合资本配置平台）：`13F 占比 20.6%`，市值约 `$3.61bn`，股数/份额 `7,176,196`。
+- `NVDA` Nvidia Corporation（AI 加速计算平台，GPU、网络和 CUDA 生态共同支撑数据中心算力需求）：`13F 占比 7.7%`，市值约 `$1.35bn`，股数/份额 `7,237,100`。
+- `PDD` Pdd Holdings Inc（拼多多和 Temu 背后的电商平台，核心变量是低价供给、流量效率和跨境扩张）：`13F 占比 7.5%`，市值约 `$1.31bn`，股数/份额 `11,536,694`。
+- `GOOG` Alphabet Inc（Alphabet 的 C 类股，核心资产是 Google 搜索、YouTube、广告网络、Android 和 Google Cloud）：`13F 占比 3.3%`，市值约 `$0.58bn`，股数/份额 `1,855,400`。
+- `OXY` Occidental Pete Corp（西方石油，上游油气生产商，现金流高度受油价、资本开支和资产负债表约束影响）：`13F 占比 3.1%`，市值约 `$0.54bn`，股数/份额 `13,172,600`。
+- `MSFT` Microsoft Corp（微软，企业软件、Azure 云、Office、Windows 和 AI 基础设施共同构成的生产力平台）：`13F 占比 2.4%`，市值约 `$0.42bn`，股数/份额 `859,000`。
+- `BABA` Alibaba Group Hldg Ltd（阿里巴巴，电商、云、国际零售和本地生活组合，核心看中国消费、平台效率和云业务重估）：`13F 占比 2.1%`，市值约 `$0.38bn`，股数/份额 `2,560,500`。
+- `TSM` Taiwan Semiconductor Mfg Ltd（台积电，全球领先晶圆代工厂，是先进制程和先进封装产能的关键瓶颈）：`13F 占比 2.1%`，市值约 `$0.37bn`，股数/份额 `1,224,384`。
+- `DIS` Disney Walt Co（迪士尼，内容 IP、主题乐园、体育媒体和流媒体组成的娱乐资产组合）：`13F 占比 0.5%`，市值约 `$0.08bn`，股数/份额 `712,000`。
 
 #### Q3 2025
 
-- `AAPL` Apple Inc：`13F 占比 60.4%`，市值约 `$8.87bn`，股数/份额 `34,829,107`。
-- `BRK.B` Berkshire Hathaway Inc Del：`13F 占比 17.8%`，市值约 `$2.61bn`，股数/份额 `5,191,300`。
-- `PDD` Pdd Holdings Inc：`13F 占比 7.7%`，市值约 `$1.13bn`，股数/份额 `8,574,194`。
-- `OXY` Occidental Pete Corp：`13F 占比 4.4%`，市值约 `$0.64bn`，股数/份额 `13,556,100`。
-- `Alibaba Group Hldg` Alibaba Group Hldg Ltd：`13F 占比 3.4%`，市值约 `$0.50bn`，股数/份额 `2,777,330`。
-- `GOOG` Alphabet Inc：`13F 占比 3.0%`，市值约 `$0.44bn`，股数/份额 `1,810,500`。
-- `MSFT` Microsoft Corp：`13F 占比 1.0%`，市值约 `$0.14bn`，股数/份额 `279,200`。
-- `NVDA` Nvidia Corporation：`13F 占比 0.8%`，市值约 `$0.11bn`，股数/份额 `597,800`。
-- `Disney Walt` Disney Walt Co：`13F 占比 0.6%`，市值约 `$0.08bn`，股数/份额 `723,000`。
-- `ASML` Asml Holding N V：`13F 占比 0.5%`，市值约 `$0.08bn`，股数/份额 `80,000`。
+- `AAPL` Apple Inc（消费电子与服务平台，iPhone 是核心入口，服务业务贡献高毛利和生态粘性）：`13F 占比 60.4%`，市值约 `$8.87bn`，股数/份额 `34,829,107`。
+- `BRK.B` Berkshire Hathaway Inc Del（伯克希尔哈撒韦，保险 float、全资经营业务和公开股票组合构成的复合资本配置平台）：`13F 占比 17.8%`，市值约 `$2.61bn`，股数/份额 `5,191,300`。
+- `PDD` Pdd Holdings Inc（拼多多和 Temu 背后的电商平台，核心变量是低价供给、流量效率和跨境扩张）：`13F 占比 7.7%`，市值约 `$1.13bn`，股数/份额 `8,574,194`。
+- `OXY` Occidental Pete Corp（西方石油，上游油气生产商，现金流高度受油价、资本开支和资产负债表约束影响）：`13F 占比 4.4%`，市值约 `$0.64bn`，股数/份额 `13,556,100`。
+- `BABA` Alibaba Group Hldg Ltd（阿里巴巴，电商、云、国际零售和本地生活组合，核心看中国消费、平台效率和云业务重估）：`13F 占比 3.4%`，市值约 `$0.50bn`，股数/份额 `2,777,330`。
+- `GOOG` Alphabet Inc（Alphabet 的 C 类股，核心资产是 Google 搜索、YouTube、广告网络、Android 和 Google Cloud）：`13F 占比 3.0%`，市值约 `$0.44bn`，股数/份额 `1,810,500`。
+- `MSFT` Microsoft Corp（微软，企业软件、Azure 云、Office、Windows 和 AI 基础设施共同构成的生产力平台）：`13F 占比 1.0%`，市值约 `$0.14bn`，股数/份额 `279,200`。
+- `NVDA` Nvidia Corporation（AI 加速计算平台，GPU、网络和 CUDA 生态共同支撑数据中心算力需求）：`13F 占比 0.8%`，市值约 `$0.11bn`，股数/份额 `597,800`。
+- `DIS` Disney Walt Co（迪士尼，内容 IP、主题乐园、体育媒体和流媒体组成的娱乐资产组合）：`13F 占比 0.6%`，市值约 `$0.08bn`，股数/份额 `723,000`。
+- `ASML` Asml Holding N V（阿斯麦，EUV/DUV 光刻机龙头，是先进半导体制造最稀缺的设备瓶颈之一）：`13F 占比 0.5%`，市值约 `$0.08bn`，股数/份额 `80,000`。
 
 #### Q2 2025
 
-- `AAPL` Apple Inc：`13F 占比 62.5%`，市值约 `$7.21bn`，股数/份额 `35,118,607`。
-- `BRK.B` Berkshire Hathaway Inc Del：`13F 占比 14.2%`，市值约 `$1.64bn`，股数/份额 `3,381,300`。
-- `PDD` Pdd Holdings Inc：`13F 占比 7.9%`，市值约 `$0.91bn`，股数/份额 `8,662,694`。
-- `OXY` Occidental Pete Corp：`13F 占比 4.9%`，市值约 `$0.57bn`，股数/份额 `13,556,100`。
-- `Alibaba Group Hldg` Alibaba Group Hldg Ltd：`13F 占比 3.7%`，市值约 `$0.42bn`，股数/份额 `3,746,230`。
-- `GOOG` Alphabet Inc：`13F 占比 3.0%`，市值约 `$0.35bn`，股数/份额 `1,945,400`。
-- `NVDA` Nvidia Corporation：`13F 占比 1.3%`，市值约 `$0.15bn`，股数/份额 `964,800`。
-- `MSFT` Microsoft Corp：`13F 占比 1.2%`，市值约 `$0.14bn`，股数/份额 `279,200`。
-- `Disney Walt` Disney Walt Co：`13F 占比 0.8%`，市值约 `$0.09bn`，股数/份额 `723,000`。
-- `TSM` Taiwan Semiconductor Mfg Ltd：`13F 占比 0.5%`，市值约 `$0.06bn`，股数/份额 `259,984`。
+- `AAPL` Apple Inc（消费电子与服务平台，iPhone 是核心入口，服务业务贡献高毛利和生态粘性）：`13F 占比 62.5%`，市值约 `$7.21bn`，股数/份额 `35,118,607`。
+- `BRK.B` Berkshire Hathaway Inc Del（伯克希尔哈撒韦，保险 float、全资经营业务和公开股票组合构成的复合资本配置平台）：`13F 占比 14.2%`，市值约 `$1.64bn`，股数/份额 `3,381,300`。
+- `PDD` Pdd Holdings Inc（拼多多和 Temu 背后的电商平台，核心变量是低价供给、流量效率和跨境扩张）：`13F 占比 7.9%`，市值约 `$0.91bn`，股数/份额 `8,662,694`。
+- `OXY` Occidental Pete Corp（西方石油，上游油气生产商，现金流高度受油价、资本开支和资产负债表约束影响）：`13F 占比 4.9%`，市值约 `$0.57bn`，股数/份额 `13,556,100`。
+- `BABA` Alibaba Group Hldg Ltd（阿里巴巴，电商、云、国际零售和本地生活组合，核心看中国消费、平台效率和云业务重估）：`13F 占比 3.7%`，市值约 `$0.42bn`，股数/份额 `3,746,230`。
+- `GOOG` Alphabet Inc（Alphabet 的 C 类股，核心资产是 Google 搜索、YouTube、广告网络、Android 和 Google Cloud）：`13F 占比 3.0%`，市值约 `$0.35bn`，股数/份额 `1,945,400`。
+- `NVDA` Nvidia Corporation（AI 加速计算平台，GPU、网络和 CUDA 生态共同支撑数据中心算力需求）：`13F 占比 1.3%`，市值约 `$0.15bn`，股数/份额 `964,800`。
+- `MSFT` Microsoft Corp（微软，企业软件、Azure 云、Office、Windows 和 AI 基础设施共同构成的生产力平台）：`13F 占比 1.2%`，市值约 `$0.14bn`，股数/份额 `279,200`。
+- `DIS` Disney Walt Co（迪士尼，内容 IP、主题乐园、体育媒体和流媒体组成的娱乐资产组合）：`13F 占比 0.8%`，市值约 `$0.09bn`，股数/份额 `723,000`。
+- `TSM` Taiwan Semiconductor Mfg Ltd（台积电，全球领先晶圆代工厂，是先进制程和先进封装产能的关键瓶颈）：`13F 占比 0.5%`，市值约 `$0.06bn`，股数/份额 `259,984`。
 
 #### Q1 2025
 
-- `AAPL` Apple Inc：`13F 占比 63.3%`，市值约 `$7.60bn`，股数/份额 `34,224,181`。
-- `BRK.B` Berkshire Hathaway Inc Del：`13F 占比 15.0%`，市值约 `$1.80bn`，股数/份额 `3,381,300`。
-- `PDD` Pdd Holdings Inc：`13F 占比 7.6%`，市值约 `$0.92bn`，股数/份额 `7,753,900`。
-- `OXY` Occidental Pete Corp：`13F 占比 5.7%`，市值约 `$0.68bn`，股数/份额 `13,826,100`。
-- `Alibaba Group Hldg` Alibaba Group Hldg Ltd：`13F 占比 4.4%`，市值约 `$0.53bn`，股数/份额 `3,982,130`。
-- `GOOG` Alphabet Inc：`13F 占比 1.4%`，市值约 `$0.17bn`，股数/份额 `1,110,600`。
-- `MSFT` Microsoft Corp：`13F 占比 0.9%`，市值约 `$0.11bn`，股数/份额 `299,200`。
-- `Disney Walt` Disney Walt Co：`13F 占比 0.6%`，市值约 `$0.07bn`，股数/份额 `723,000`。
-- `NVDA` Nvidia Corporation：`13F 占比 0.6%`，市值约 `$0.07bn`，股数/份额 `645,100`。
-- `TSM` Taiwan Semiconductor Mfg Ltd：`13F 占比 0.4%`，市值约 `$0.05bn`，股数/份额 `271,792`。
+- `AAPL` Apple Inc（消费电子与服务平台，iPhone 是核心入口，服务业务贡献高毛利和生态粘性）：`13F 占比 63.3%`，市值约 `$7.60bn`，股数/份额 `34,224,181`。
+- `BRK.B` Berkshire Hathaway Inc Del（伯克希尔哈撒韦，保险 float、全资经营业务和公开股票组合构成的复合资本配置平台）：`13F 占比 15.0%`，市值约 `$1.80bn`，股数/份额 `3,381,300`。
+- `PDD` Pdd Holdings Inc（拼多多和 Temu 背后的电商平台，核心变量是低价供给、流量效率和跨境扩张）：`13F 占比 7.6%`，市值约 `$0.92bn`，股数/份额 `7,753,900`。
+- `OXY` Occidental Pete Corp（西方石油，上游油气生产商，现金流高度受油价、资本开支和资产负债表约束影响）：`13F 占比 5.7%`，市值约 `$0.68bn`，股数/份额 `13,826,100`。
+- `BABA` Alibaba Group Hldg Ltd（阿里巴巴，电商、云、国际零售和本地生活组合，核心看中国消费、平台效率和云业务重估）：`13F 占比 4.4%`，市值约 `$0.53bn`，股数/份额 `3,982,130`。
+- `GOOG` Alphabet Inc（Alphabet 的 C 类股，核心资产是 Google 搜索、YouTube、广告网络、Android 和 Google Cloud）：`13F 占比 1.4%`，市值约 `$0.17bn`，股数/份额 `1,110,600`。
+- `MSFT` Microsoft Corp（微软，企业软件、Azure 云、Office、Windows 和 AI 基础设施共同构成的生产力平台）：`13F 占比 0.9%`，市值约 `$0.11bn`，股数/份额 `299,200`。
+- `DIS` Disney Walt Co（迪士尼，内容 IP、主题乐园、体育媒体和流媒体组成的娱乐资产组合）：`13F 占比 0.6%`，市值约 `$0.07bn`，股数/份额 `723,000`。
+- `NVDA` Nvidia Corporation（AI 加速计算平台，GPU、网络和 CUDA 生态共同支撑数据中心算力需求）：`13F 占比 0.6%`，市值约 `$0.07bn`，股数/份额 `645,100`。
+- `TSM` Taiwan Semiconductor Mfg Ltd（台积电，全球领先晶圆代工厂，是先进制程和先进封装产能的关键瓶颈）：`13F 占比 0.4%`，市值约 `$0.05bn`，股数/份额 `271,792`。
 
 ### 变化摘要（Q4 2025 vs Q3 2025）
 
@@ -105,9 +105,9 @@ H&H International Investment 是段永平相关的美国 13F 披露主体；这�
 - 新进前 10：TSM
 - 退出前 10：ASML
 - 权重上升：NVDA（+7.0 pct）, BRK.B（+2.8 pct）, TSM（+1.6 pct）, MSFT（+1.4 pct）, GOOG（+0.3 pct）
-- 权重下降：AAPL（-10.1 pct）, OXY（-1.3 pct）, Alibaba Group Hldg（-1.2 pct）, ASML（-0.5 pct）
+- 权重下降：AAPL（-10.1 pct）, OXY（-1.3 pct）, BABA（-1.2 pct）, ASML（-0.5 pct）
 - 显著加仓：NVDA（股数 +6,639,300，+1110.6%）, BRK.B（股数 +1,984,896，+38.2%）, PDD（股数 +2,962,500，+34.6%）, MSFT（股数 +579,800，+207.7%）, TSM（股数 +964,400，+370.9%）
-- 显著减仓：AAPL（股数 -2,470,600，-7.1%）, ASML（股数 -70,100，-87.6%）, Alibaba Group Hldg（股数 -216,830，-7.8%）, OXY（股数 -383,500，-2.8%）, Disney Walt（股数 -11,000，-1.5%）
+- 显著减仓：AAPL（股数 -2,470,600，-7.1%）, ASML（股数 -70,100，-87.6%）, BABA（股数 -216,830，-7.8%）, OXY（股数 -383,500，-2.8%）, DIS（股数 -11,000，-1.5%）
 
 ### 数据来源
 

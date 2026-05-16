@@ -48,55 +48,55 @@ Duquesne 当前最重要的激励结构，不是 fee model，而是 `own capital
 
 #### Q1 2026
 
-- `Natera` Natera Inc：`13F 占比 18.1%`，市值约 `$0.61bn`，股数/份额 `3,063,606`。
-- `Insmed` Insmed Inc：`13F 占比 5.6%`，市值约 `$0.19bn`，股数/份额 `1,154,090`。
-- `TSM` Taiwan Semiconductor Manufac：`13F 占比 5.0%`，市值约 `$0.17bn`，股数/份额 `495,280`。
-- `Ishares` Ishares Inc call：`13F 占比 4.8%`，市值约 `$0.16bn`，股数/份额 `4,228,000`。
-- `Invesco Exchange Traded` Invesco Exchange Traded Fd T call：`13F 占比 4.7%`，市值约 `$0.16bn`，股数/份额 `821,000`。
-- `Ypf Sociedad Anonima` Ypf Sociedad Anonima：`13F 占比 4.4%`，市值约 `$0.15bn`，股数/份额 `3,235,962`。
-- `Ishares` Ishares Inc：`13F 占比 3.9%`，市值约 `$0.13bn`，股数/份额 `3,436,170`。
-- `Bbb Foods` Bbb Foods Inc：`13F 占比 3.3%`，市值约 `$0.11bn`，股数/份额 `3,109,202`。
-- `Alcoa` Alcoa Corp：`13F 占比 2.9%`，市值约 `$0.10bn`，股数/份额 `1,493,390`。
-- `Newamsterdam Pharma Company` Newamsterdam Pharma Company：`13F 占比 2.9%`，市值约 `$0.10bn`，股数/份额 `3,070,146`。
+- `Natera` Natera Inc（基因检测公司，核心看无创产检、肿瘤 MRD 检测和临床报销渗透）：`13F 占比 18.1%`，市值约 `$0.61bn`，股数/份额 `3,063,606`。
+- `Insmed` Insmed Inc（罕见病和肺部疾病生物制药公司，核心看临床管线、商业化药物和适应症扩展）：`13F 占比 5.6%`，市值约 `$0.19bn`，股数/份额 `1,154,090`。
+- `TSM` Taiwan Semiconductor Manufac（台积电，全球领先晶圆代工厂，是先进制程和先进封装产能的关键瓶颈）：`13F 占比 5.0%`，市值约 `$0.17bn`，股数/份额 `495,280`。
+- `Ishares` Ishares Inc call（iShares ETF 工具，用来表达指数、国家/地区或资产类别暴露）：`13F 占比 4.8%`，市值约 `$0.16bn`，股数/份额 `4,228,000`。
+- `Invesco Exchange Traded` Invesco Exchange Traded Fd T call（Invesco ETF 工具，用来表达指数、行业或主题暴露）：`13F 占比 4.7%`，市值约 `$0.16bn`，股数/份额 `821,000`。
+- `Ypf Sociedad Anonima` Ypf Sociedad Anonima（阿根廷综合能源公司，核心看油气资源、汇率/政策风险和资本开支）：`13F 占比 4.4%`，市值约 `$0.15bn`，股数/份额 `3,235,962`。
+- `Ishares` Ishares Inc（iShares ETF 工具，用来表达指数、国家/地区或资产类别暴露）：`13F 占比 3.9%`，市值约 `$0.13bn`，股数/份额 `3,436,170`。
+- `Bbb Foods` Bbb Foods Inc（墨西哥硬折扣零售商，核心看门店扩张、低价供应链和同店销售）：`13F 占比 3.3%`，市值约 `$0.11bn`，股数/份额 `3,109,202`。
+- `Alcoa` Alcoa Corp（铝生产商，业务受铝价、能源成本和上游冶炼资产效率影响）：`13F 占比 2.9%`，市值约 `$0.10bn`，股数/份额 `1,493,390`。
+- `Newamsterdam Pharma Company` Newamsterdam Pharma Company（心血管代谢疾病生物制药公司，核心看降脂药物管线和临床进展）：`13F 占比 2.9%`，市值约 `$0.10bn`，股数/份额 `3,070,146`。
 
 #### Q4 2025
 
-- `Natera` Natera Inc：`13F 占比 12.8%`，市值约 `$0.58bn`，股数/份额 `2,511,357`。
-- `Select Sector Spdr` Select Sector Spdr Tr：`13F 占比 6.7%`，市值约 `$0.30bn`，股数/份额 `5,495,600`。
-- `Insmed` Insmed Inc：`13F 占比 5.7%`，市值约 `$0.26bn`，股数/份额 `1,481,752`。
-- `Invesco Exchange Traded` Invesco Exchange Traded Fd T：`13F 占比 5.0%`，市值约 `$0.22bn`，股数/份额 `1,173,925`。
-- `Teva Pharmaceutical Inds` Teva Pharmaceutical Inds Ltd：`13F 占比 4.1%`，市值约 `$0.18bn`，股数/份额 `5,874,870`。
-- `Woodward` Woodward Inc：`13F 占比 4.0%`，市值约 `$0.18bn`，股数/份额 `590,930`。
-- `AMZN` Amazon Com Inc：`13F 占比 3.8%`，市值约 `$0.17bn`，股数/份额 `737,940`。
-- `TSM` Taiwan Semiconductor Mfg Ltd：`13F 占比 3.7%`，市值约 `$0.17bn`，股数/份额 `543,085`。
-- `CPNG` Coupang Inc：`13F 占比 3.6%`，市值约 `$0.16bn`，股数/份额 `6,772,909`。
-- `Ishares` Ishares Inc call：`13F 占比 3.0%`，市值约 `$0.13bn`，股数/份额 `4,228,000`。
+- `Natera` Natera Inc（基因检测公司，核心看无创产检、肿瘤 MRD 检测和临床报销渗透）：`13F 占比 12.8%`，市值约 `$0.58bn`，股数/份额 `2,511,357`。
+- `Select Sector Spdr` Select Sector Spdr Tr（行业 ETF 工具，用来表达美股特定行业板块暴露）：`13F 占比 6.7%`，市值约 `$0.30bn`，股数/份额 `5,495,600`。
+- `Insmed` Insmed Inc（罕见病和肺部疾病生物制药公司，核心看临床管线、商业化药物和适应症扩展）：`13F 占比 5.7%`，市值约 `$0.26bn`，股数/份额 `1,481,752`。
+- `Invesco Exchange Traded` Invesco Exchange Traded Fd T（Invesco ETF 工具，用来表达指数、行业或主题暴露）：`13F 占比 5.0%`，市值约 `$0.22bn`，股数/份额 `1,173,925`。
+- `Teva Pharmaceutical Inds` Teva Pharmaceutical Inds Ltd（仿制药和专科药公司，核心看债务去化、核心药物增长和诉讼风险）：`13F 占比 4.1%`，市值约 `$0.18bn`，股数/份额 `5,874,870`。
+- `Woodward` Woodward Inc（航空航天和工业控制系统供应商，核心看发动机、能源控制和工业订单）：`13F 占比 4.0%`，市值约 `$0.18bn`，股数/份额 `590,930`。
+- `AMZN` Amazon Com Inc（电商、物流、AWS 云和广告共同构成的平台公司，长期变量是基础设施外部化能力）：`13F 占比 3.8%`，市值约 `$0.17bn`，股数/份额 `737,940`。
+- `TSM` Taiwan Semiconductor Mfg Ltd（台积电，全球领先晶圆代工厂，是先进制程和先进封装产能的关键瓶颈）：`13F 占比 3.7%`，市值约 `$0.17bn`，股数/份额 `543,085`。
+- `CPNG` Coupang Inc（Coupang，韩国电商与物流平台，优势来自高频消费、仓配密度和会员体系）：`13F 占比 3.6%`，市值约 `$0.16bn`，股数/份额 `6,772,909`。
+- `Ishares` Ishares Inc call（iShares ETF 工具，用来表达指数、国家/地区或资产类别暴露）：`13F 占比 3.0%`，市值约 `$0.13bn`，股数/份额 `4,228,000`。
 
 #### Q3 2025
 
-- `Natera` Natera Inc：`13F 占比 12.7%`，市值约 `$0.52bn`，股数/份额 `3,214,532`。
-- `Insmed` Insmed Inc：`13F 占比 8.6%`，市值约 `$0.35bn`，股数/份额 `2,423,435`。
-- `Teva Pharmaceutical Inds` Teva Pharmaceutical Inds Ltd：`13F 占比 8.3%`，市值约 `$0.34bn`，股数/份额 `16,593,935`。
-- `TSM` Taiwan Semiconductor Mfg Ltd：`13F 占比 5.3%`，市值约 `$0.21bn`，股数/份额 `765,085`。
-- `Woodward` Woodward Inc：`13F 占比 3.9%`，市值约 `$0.16bn`，股数/份额 `633,015`。
-- `CPNG` Coupang Inc：`13F 占比 3.7%`，市值约 `$0.15bn`，股数/份额 `4,633,124`。
-- `MELI` Mercadolibre Inc：`13F 占比 3.4%`，市值约 `$0.14bn`，股数/份额 `58,344`。
-- `Docusign` Docusign Inc：`13F 占比 3.0%`，市值约 `$0.12bn`，股数/份额 `1,685,950`。
-- `Verona Pharma` Verona Pharma Plc：`13F 占比 2.6%`，市值约 `$0.11bn`，股数/份额 `1,002,080`。
-- `IVV` Ishares Tr：`13F 占比 2.5%`，市值约 `$0.10bn`，股数/份额 `1,900,000`。
+- `Natera` Natera Inc（基因检测公司，核心看无创产检、肿瘤 MRD 检测和临床报销渗透）：`13F 占比 12.7%`，市值约 `$0.52bn`，股数/份额 `3,214,532`。
+- `Insmed` Insmed Inc（罕见病和肺部疾病生物制药公司，核心看临床管线、商业化药物和适应症扩展）：`13F 占比 8.6%`，市值约 `$0.35bn`，股数/份额 `2,423,435`。
+- `Teva Pharmaceutical Inds` Teva Pharmaceutical Inds Ltd（仿制药和专科药公司，核心看债务去化、核心药物增长和诉讼风险）：`13F 占比 8.3%`，市值约 `$0.34bn`，股数/份额 `16,593,935`。
+- `TSM` Taiwan Semiconductor Mfg Ltd（台积电，全球领先晶圆代工厂，是先进制程和先进封装产能的关键瓶颈）：`13F 占比 5.3%`，市值约 `$0.21bn`，股数/份额 `765,085`。
+- `Woodward` Woodward Inc（航空航天和工业控制系统供应商，核心看发动机、能源控制和工业订单）：`13F 占比 3.9%`，市值约 `$0.16bn`，股数/份额 `633,015`。
+- `CPNG` Coupang Inc（Coupang，韩国电商与物流平台，优势来自高频消费、仓配密度和会员体系）：`13F 占比 3.7%`，市值约 `$0.15bn`，股数/份额 `4,633,124`。
+- `MELI` Mercadolibre Inc（MercadoLibre，拉美电商、支付和金融科技平台，核心看物流、支付和信贷生态扩张）：`13F 占比 3.4%`，市值约 `$0.14bn`，股数/份额 `58,344`。
+- `Docusign` Docusign Inc（电子签名和合同生命周期管理软件公司，核心看企业工作流嵌入和续费扩展）：`13F 占比 3.0%`，市值约 `$0.12bn`，股数/份额 `1,685,950`。
+- `Verona Pharma` Verona Pharma Plc（呼吸系统疾病生物制药公司，核心看 COPD 药物商业化和适应症扩展）：`13F 占比 2.6%`，市值约 `$0.11bn`，股数/份额 `1,002,080`。
+- `IVV` Ishares Tr（iShares Core S&P 500 ETF，用来表达美国大盘指数暴露）：`13F 占比 2.5%`，市值约 `$0.10bn`，股数/份额 `1,900,000`。
 
 #### Q2 2025
 
-- `Natera` Natera Inc：`13F 占比 12.8%`，市值约 `$0.52bn`，股数/份额 `3,085,190`。
-- `Teva Pharmaceutical Inds` Teva Pharmaceutical Inds Ltd：`13F 占比 6.6%`，市值约 `$0.27bn`，股数/份额 `15,968,935`。
-- `Insmed` Insmed Inc：`13F 占比 5.6%`，市值约 `$0.23bn`，股数/份额 `2,253,435`。
-- `Woodward` Woodward Inc：`13F 占比 5.1%`，市值约 `$0.21bn`，股数/份额 `848,910`。
-- `TSM` Taiwan Semiconductor Mfg Ltd：`13F 占比 4.3%`，市值约 `$0.17bn`，股数/份额 `765,085`。
-- `PM` Philip Morris Intl Inc：`13F 占比 3.7%`，市值约 `$0.15bn`，股数/份额 `815,975`。
-- `MELI` Mercadolibre Inc：`13F 占比 3.4%`，市值约 `$0.14bn`，股数/份额 `53,725`。
-- `Entegris` Entegris Inc：`13F 占比 3.3%`，市值约 `$0.13bn`，股数/份额 `1,645,885`。
-- `CPNG` Coupang Inc：`13F 占比 3.0%`，市值约 `$0.12bn`，股数/份额 `4,105,424`。
-- `FLTR` Flutter Entmt Plc：`13F 占比 2.8%`，市值约 `$0.12bn`，股数/份额 `405,320`。
+- `Natera` Natera Inc（基因检测公司，核心看无创产检、肿瘤 MRD 检测和临床报销渗透）：`13F 占比 12.8%`，市值约 `$0.52bn`，股数/份额 `3,085,190`。
+- `Teva Pharmaceutical Inds` Teva Pharmaceutical Inds Ltd（仿制药和专科药公司，核心看债务去化、核心药物增长和诉讼风险）：`13F 占比 6.6%`，市值约 `$0.27bn`，股数/份额 `15,968,935`。
+- `Insmed` Insmed Inc（罕见病和肺部疾病生物制药公司，核心看临床管线、商业化药物和适应症扩展）：`13F 占比 5.6%`，市值约 `$0.23bn`，股数/份额 `2,253,435`。
+- `Woodward` Woodward Inc（航空航天和工业控制系统供应商，核心看发动机、能源控制和工业订单）：`13F 占比 5.1%`，市值约 `$0.21bn`，股数/份额 `848,910`。
+- `TSM` Taiwan Semiconductor Mfg Ltd（台积电，全球领先晶圆代工厂，是先进制程和先进封装产能的关键瓶颈）：`13F 占比 4.3%`，市值约 `$0.17bn`，股数/份额 `765,085`。
+- `PM` Philip Morris Intl Inc（Philip Morris，烟草和无烟尼古丁公司，核心看 IQOS 等新型烟草迁移和定价力）：`13F 占比 3.7%`，市值约 `$0.15bn`，股数/份额 `815,975`。
+- `MELI` Mercadolibre Inc（MercadoLibre，拉美电商、支付和金融科技平台，核心看物流、支付和信贷生态扩张）：`13F 占比 3.4%`，市值约 `$0.14bn`，股数/份额 `53,725`。
+- `Entegris` Entegris Inc（半导体材料和污染控制公司，服务先进制程中的高纯材料、过滤和化学品管理）：`13F 占比 3.3%`，市值约 `$0.13bn`，股数/份额 `1,645,885`。
+- `CPNG` Coupang Inc（Coupang，韩国电商与物流平台，优势来自高频消费、仓配密度和会员体系）：`13F 占比 3.0%`，市值约 `$0.12bn`，股数/份额 `4,105,424`。
+- `FLTR` Flutter Entmt Plc（Flutter，全球线上博彩和体育投注平台，FanDuel 是美国市场核心增长资产）：`13F 占比 2.8%`，市值约 `$0.12bn`，股数/份额 `405,320`。
 
 ### 变化摘要（Q1 2026 vs Q4 2025）
 

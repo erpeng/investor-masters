@@ -61,55 +61,55 @@ Third Point 官方策略页几乎把它的骨架写成了一句话：
 
 #### Q1 2026
 
-- `AMZN` Amazon Com Inc：`13F 占比 19.4%`，市值约 `$0.40bn`，股数/份额 `1,940,000`。
-- `Telephone Data Sys` Telephone & Data Sys Inc：`13F 占比 13.3%`，市值约 `$0.28bn`，股数/份额 `6,600,000`。
-- `CRH` Crh Plc：`13F 占比 9.6%`，市值约 `$0.20bn`，股数/份额 `1,900,000`。
-- `Somnigroup International` Somnigroup International Inc：`13F 占比 8.1%`，市值约 `$0.17bn`，股数/份额 `2,270,769`。
-- `Carpenter Technology` Carpenter Technology Corp：`13F 占比 5.9%`，市值约 `$0.12bn`，股数/份额 `310,000`。
-- `Mastec` Mastec Inc：`13F 占比 4.9%`，市值约 `$0.10bn`，股数/份额 `320,000`。
-- `Danaher Del` Danaher Corp Del：`13F 占比 4.8%`，市值约 `$0.10bn`，股数/份额 `525,000`。
-- `TSM` Taiwan Semiconductor Manufac：`13F 占比 4.5%`，市值约 `$0.09bn`，股数/份额 `275,000`。
-- `Api Group` Api Group Corp：`13F 占比 3.9%`，市值约 `$0.08bn`，股数/份额 `2,030,000`。
-- `LYV` Live Nation Entertainment In：`13F 占比 3.4%`，市值约 `$0.07bn`，股数/份额 `465,000`。
+- `AMZN` Amazon Com Inc（电商、物流、AWS 云和广告共同构成的平台公司，长期变量是基础设施外部化能力）：`13F 占比 19.4%`，市值约 `$0.40bn`，股数/份额 `1,940,000`。
+- `Telephone Data Sys` Telephone & Data Sys Inc（区域通信和无线业务公司，核心看频谱资产、用户流失和资本结构）：`13F 占比 13.3%`，市值约 `$0.28bn`，股数/份额 `6,600,000`。
+- `CRH` Crh Plc（建筑材料和基础设施材料公司，受益于道路、住宅和公共工程建设需求）：`13F 占比 9.6%`，市值约 `$0.20bn`，股数/份额 `1,900,000`。
+- `Somnigroup International` Somnigroup International Inc（睡眠产品和床垫品牌公司，核心看品牌、零售渠道和耐用品消费周期）：`13F 占比 8.1%`，市值约 `$0.17bn`，股数/份额 `2,270,769`。
+- `Carpenter Technology` Carpenter Technology Corp（特种合金和高性能材料公司，服务航空航天、医疗和能源等高要求场景）：`13F 占比 5.9%`，市值约 `$0.12bn`，股数/份额 `310,000`。
+- `Mastec` Mastec Inc（基础设施施工服务公司，服务通信、电力、清洁能源和管道项目）：`13F 占比 4.9%`，市值约 `$0.10bn`，股数/份额 `320,000`。
+- `Danaher Del` Danaher Corp Del（生命科学、诊断和环境检测平台公司，核心看仪器耗材、并购整合和运营体系）：`13F 占比 4.8%`，市值约 `$0.10bn`，股数/份额 `525,000`。
+- `TSM` Taiwan Semiconductor Manufac（台积电，全球领先晶圆代工厂，是先进制程和先进封装产能的关键瓶颈）：`13F 占比 4.5%`，市值约 `$0.09bn`，股数/份额 `275,000`。
+- `Api Group` Api Group Corp（安全、专业和工业服务公司，核心看消防安全、检测维护和外包服务需求）：`13F 占比 3.9%`，市值约 `$0.08bn`，股数/份额 `2,030,000`。
+- `LYV` Live Nation Entertainment In（Live Nation，演唱会、票务和场馆平台，核心看现场娱乐需求与 Ticketmaster 网络）：`13F 占比 3.4%`，市值约 `$0.07bn`，股数/份额 `465,000`。
 
 #### Q4 2025
 
-- `PCG` Pg&E Corp：`13F 占比 7.8%`，市值约 `$0.57bn`，股数/份额 `44,440,000`。
-- `NVDA` Nvidia Corporation：`13F 占比 7.6%`，市值约 `$0.55bn`，股数/份额 `2,950,000`。
-- `AMZN` Amazon Com Inc：`13F 占比 6.9%`，市值约 `$0.50bn`，股数/份额 `2,165,000`。
-- `MSFT` Microsoft Corp：`13F 占比 6.1%`，市值约 `$0.45bn`，股数/份额 `925,000`。
-- `UNP` Union Pac Corp：`13F 占比 5.8%`，市值约 `$0.42bn`，股数/份额 `1,810,000`。
-- `CRH` Crh Plc：`13F 占比 4.5%`，市值约 `$0.32bn`，股数/份额 `2,600,000`。
-- `Somnigroup International` Somnigroup International Inc：`13F 占比 4.2%`，市值约 `$0.30bn`，股数/份额 `3,400,000`。
-- `BN` Brookfield Corp：`13F 占比 3.9%`，市值约 `$0.28bn`，股数/份额 `6,200,000`。
-- `Norfolk Southn` Norfolk Southn Corp：`13F 占比 3.9%`，市值约 `$0.28bn`，股数/份额 `975,000`。
-- `Telephone Data Sys` Telephone & Data Sys Inc：`13F 占比 3.8%`，市值约 `$0.27bn`，股数/份额 `6,675,000`。
+- `PCG` Pg&E Corp（PG&E，加州公用事业公司，核心看电网投资、监管回报和安全风险控制）：`13F 占比 7.8%`，市值约 `$0.57bn`，股数/份额 `44,440,000`。
+- `NVDA` Nvidia Corporation（AI 加速计算平台，GPU、网络和 CUDA 生态共同支撑数据中心算力需求）：`13F 占比 7.6%`，市值约 `$0.55bn`，股数/份额 `2,950,000`。
+- `AMZN` Amazon Com Inc（电商、物流、AWS 云和广告共同构成的平台公司，长期变量是基础设施外部化能力）：`13F 占比 6.9%`，市值约 `$0.50bn`，股数/份额 `2,165,000`。
+- `MSFT` Microsoft Corp（微软，企业软件、Azure 云、Office、Windows 和 AI 基础设施共同构成的生产力平台）：`13F 占比 6.1%`，市值约 `$0.45bn`，股数/份额 `925,000`。
+- `UNP` Union Pac Corp（联合太平洋，美国西部铁路网络，核心看货运量、价格、运营效率和基础设施稀缺性）：`13F 占比 5.8%`，市值约 `$0.42bn`，股数/份额 `1,810,000`。
+- `CRH` Crh Plc（建筑材料和基础设施材料公司，受益于道路、住宅和公共工程建设需求）：`13F 占比 4.5%`，市值约 `$0.32bn`，股数/份额 `2,600,000`。
+- `Somnigroup International` Somnigroup International Inc（睡眠产品和床垫品牌公司，核心看品牌、零售渠道和耐用品消费周期）：`13F 占比 4.2%`，市值约 `$0.30bn`，股数/份额 `3,400,000`。
+- `BN` Brookfield Corp（Brookfield，全球另类资产和基础设施平台，核心是长期资本、运营资产和资本循环）：`13F 占比 3.9%`，市值约 `$0.28bn`，股数/份额 `6,200,000`。
+- `Norfolk Southn` Norfolk Southn Corp（美国东部铁路公司，核心看货运量、价格、运营效率和安全改善）：`13F 占比 3.9%`，市值约 `$0.28bn`，股数/份额 `975,000`。
+- `Telephone Data Sys` Telephone & Data Sys Inc（区域通信和无线业务公司，核心看频谱资产、用户流失和资本结构）：`13F 占比 3.8%`，市值约 `$0.27bn`，股数/份额 `6,675,000`。
 
 #### Q3 2025
 
-- `PCG` Pg&E Corp：`13F 占比 8.6%`，市值约 `$0.77bn`，股数/份额 `60,240,000`。
-- `AMZN` Amazon Com Inc：`13F 占比 6.9%`，市值约 `$0.62bn`，股数/份额 `2,810,000`。
-- `SPY` Spdr S&P 500 Etf Tr put：`13F 占比 6.5%`，市值约 `$0.58bn`，股数/份额 `875,000`。
-- `MSFT` Microsoft Corp：`13F 占比 6.3%`，市值约 `$0.57bn`，股数/份额 `1,100,000`。
-- `NVDA` Nvidia Corporation：`13F 占比 5.9%`，市值约 `$0.53bn`，股数/份额 `2,850,000`。
-- `Norfolk Southn` Norfolk Southn Corp：`13F 占比 5.5%`，市值约 `$0.50bn`，股数/份额 `1,650,000`。
-- `BN` Brookfield Corp：`13F 占比 3.6%`，市值约 `$0.32bn`，股数/份额 `4,675,000`。
-- `TSM` Taiwan Semiconductor Mfg Ltd：`13F 占比 3.4%`，市值约 `$0.31bn`，股数/份额 `1,100,000`。
-- `COF` Capital One Finl Corp：`13F 占比 3.3%`，市值约 `$0.29bn`，股数/份额 `1,385,000`。
-- `FLTR` Flutter Entmt Plc：`13F 占比 3.2%`，市值约 `$0.28bn`，股数/份额 `1,120,000`。
+- `PCG` Pg&E Corp（PG&E，加州公用事业公司，核心看电网投资、监管回报和安全风险控制）：`13F 占比 8.6%`，市值约 `$0.77bn`，股数/份额 `60,240,000`。
+- `AMZN` Amazon Com Inc（电商、物流、AWS 云和广告共同构成的平台公司，长期变量是基础设施外部化能力）：`13F 占比 6.9%`，市值约 `$0.62bn`，股数/份额 `2,810,000`。
+- `SPY` Spdr S&P 500 Etf Tr put（标普 500 ETF，用来表达美国大盘指数暴露，也常被交易型机构用于期权和对冲）：`13F 占比 6.5%`，市值约 `$0.58bn`，股数/份额 `875,000`。
+- `MSFT` Microsoft Corp（微软，企业软件、Azure 云、Office、Windows 和 AI 基础设施共同构成的生产力平台）：`13F 占比 6.3%`，市值约 `$0.57bn`，股数/份额 `1,100,000`。
+- `NVDA` Nvidia Corporation（AI 加速计算平台，GPU、网络和 CUDA 生态共同支撑数据中心算力需求）：`13F 占比 5.9%`，市值约 `$0.53bn`，股数/份额 `2,850,000`。
+- `Norfolk Southn` Norfolk Southn Corp（美国东部铁路公司，核心看货运量、价格、运营效率和安全改善）：`13F 占比 5.5%`，市值约 `$0.50bn`，股数/份额 `1,650,000`。
+- `BN` Brookfield Corp（Brookfield，全球另类资产和基础设施平台，核心是长期资本、运营资产和资本循环）：`13F 占比 3.6%`，市值约 `$0.32bn`，股数/份额 `4,675,000`。
+- `TSM` Taiwan Semiconductor Mfg Ltd（台积电，全球领先晶圆代工厂，是先进制程和先进封装产能的关键瓶颈）：`13F 占比 3.4%`，市值约 `$0.31bn`，股数/份额 `1,100,000`。
+- `COF` Capital One Finl Corp（Capital One，信用卡和消费金融银行，核心变量是信贷周期、获客成本和拨备水平）：`13F 占比 3.3%`，市值约 `$0.29bn`，股数/份额 `1,385,000`。
+- `FLTR` Flutter Entmt Plc（Flutter，全球线上博彩和体育投注平台，FanDuel 是美国市场核心增长资产）：`13F 占比 3.2%`，市值约 `$0.28bn`，股数/份额 `1,120,000`。
 
 #### Q2 2025
 
-- `PCG` Pg&E Corp：`13F 占比 9.5%`，市值约 `$0.73bn`，股数/份额 `61,240,000`。
-- `AMZN` Amazon Com Inc：`13F 占比 7.8%`，市值约 `$0.59bn`，股数/份额 `2,710,000`。
-- `NVDA` Nvidia Corporation：`13F 占比 5.8%`，市值约 `$0.44bn`，股数/份额 `2,800,000`。
-- `COF` Capital One Finl Corp：`13F 占比 5.0%`，市值约 `$0.38bn`，股数/份额 `1,804,204`。
-- `TSM` Taiwan Semiconductor Mfg Ltd：`13F 占比 4.3%`，市值约 `$0.32bn`，股数/份额 `1,430,000`。
-- `FLTR` Flutter Entmt Plc：`13F 占比 4.0%`，市值约 `$0.31bn`，股数/份额 `1,070,000`。
-- `LYV` Live Nation Entertainment In：`13F 占比 3.9%`，市值约 `$0.30bn`，股数/份额 `1,975,000`。
-- `BN` Brookfield Corp：`13F 占比 3.8%`，市值约 `$0.29bn`，股数/份额 `4,675,000`。
-- `Apollo Global Mgmt` Apollo Global Mgmt Inc：`13F 占比 3.3%`，市值约 `$0.25bn`，股数/份额 `2,175,000`。
-- `Costar Group` Costar Group Inc：`13F 占比 3.3%`，市值约 `$0.25bn`，股数/份额 `3,085,000`。
+- `PCG` Pg&E Corp（PG&E，加州公用事业公司，核心看电网投资、监管回报和安全风险控制）：`13F 占比 9.5%`，市值约 `$0.73bn`，股数/份额 `61,240,000`。
+- `AMZN` Amazon Com Inc（电商、物流、AWS 云和广告共同构成的平台公司，长期变量是基础设施外部化能力）：`13F 占比 7.8%`，市值约 `$0.59bn`，股数/份额 `2,710,000`。
+- `NVDA` Nvidia Corporation（AI 加速计算平台，GPU、网络和 CUDA 生态共同支撑数据中心算力需求）：`13F 占比 5.8%`，市值约 `$0.44bn`，股数/份额 `2,800,000`。
+- `COF` Capital One Finl Corp（Capital One，信用卡和消费金融银行，核心变量是信贷周期、获客成本和拨备水平）：`13F 占比 5.0%`，市值约 `$0.38bn`，股数/份额 `1,804,204`。
+- `TSM` Taiwan Semiconductor Mfg Ltd（台积电，全球领先晶圆代工厂，是先进制程和先进封装产能的关键瓶颈）：`13F 占比 4.3%`，市值约 `$0.32bn`，股数/份额 `1,430,000`。
+- `FLTR` Flutter Entmt Plc（Flutter，全球线上博彩和体育投注平台，FanDuel 是美国市场核心增长资产）：`13F 占比 4.0%`，市值约 `$0.31bn`，股数/份额 `1,070,000`。
+- `LYV` Live Nation Entertainment In（Live Nation，演唱会、票务和场馆平台，核心看现场娱乐需求与 Ticketmaster 网络）：`13F 占比 3.9%`，市值约 `$0.30bn`，股数/份额 `1,975,000`。
+- `BN` Brookfield Corp（Brookfield，全球另类资产和基础设施平台，核心是长期资本、运营资产和资本循环）：`13F 占比 3.8%`，市值约 `$0.29bn`，股数/份额 `4,675,000`。
+- `Apollo Global Mgmt` Apollo Global Mgmt Inc（另类资产管理平台，覆盖信贷、保险资产、私募和退休资金管理）：`13F 占比 3.3%`，市值约 `$0.25bn`，股数/份额 `2,175,000`。
+- `Costar Group` Costar Group Inc（商业地产数据和在线房产平台，核心资产是地产数据库、订阅客户和网络效应）：`13F 占比 3.3%`，市值约 `$0.25bn`，股数/份额 `3,085,000`。
 
 ### 变化摘要（Q1 2026 vs Q4 2025）
 
