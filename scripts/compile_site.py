@@ -87,8 +87,8 @@ INVESTOR_META = {
     "段永平": {
         "slug": "duan-yongping",
         "tagline": "把“不懂不碰”执行到生活方式里的投资人。",
-        "institution": ("独立", None),
-        "holdings": "苹果、腾讯",
+        "institution": ("H&H International Investment", "institutions/h-h-international-investment"),
+        "holdings": "苹果、BRK.B、英伟达、拼多多",
         "methods": "本分 / 看懂 / 打孔机",
     },
     "詹姆斯·安德森": {
@@ -313,6 +313,7 @@ INSTITUTION_META = {
     "Greenlight Capital": {"slug": "greenlight-capital"},
     "Baupost Group": {"slug": "baupost-group"},
     "Himalaya Capital": {"slug": "himalaya-capital"},
+    "H&H International Investment": {"slug": "h-h-international-investment"},
     "Lone Pine Capital": {"slug": "lone-pine-capital"},
     "Maverick Capital": {"slug": "maverick-capital"},
     "Third Point": {"slug": "third-point"},
@@ -993,6 +994,7 @@ def compile_institutions():
                 f"- [Oaktree Capital]({doc_url('institutions/oaktree-capital')}): 为什么备忘录不只是写作，而是组织知识资产。",
                 f"- [ARK Invest]({doc_url('institutions/ark-invest')}): 为什么公开市场也能被当成技术平台地图来下注。",
                 f"- [Citadel]({doc_url('institutions/citadel')}): 为什么制度裂缝和 market plumbing 会进入机构方法本身。",
+                f"- [H&H International Investment]({doc_url('institutions/h-h-international-investment')}): 为什么段永平的看懂和打孔机会在 13F 上表现为极少数美国公开证券切片。",
                 "\n## 全部机构\n",
             ]
         ),

@@ -17,6 +17,7 @@ description: "激励结构决定投资人能做什么，而不只是想做什么
 - [Oaktree Capital](/investor-masters/institutions/oaktree-capital/): 为什么备忘录不只是写作，而是组织知识资产。
 - [ARK Invest](/investor-masters/institutions/ark-invest/): 为什么公开市场也能被当成技术平台地图来下注。
 - [Citadel](/investor-masters/institutions/citadel/): 为什么制度裂缝和 market plumbing 会进入机构方法本身。
+- [H&H International Investment](/investor-masters/institutions/h-h-international-investment/): 为什么段永平的看懂和打孔机会在 13F 上表现为极少数美国公开证券切片。
 
 ## 全部机构
 - [ARK Invest](/investor-masters/institutions/ark-invest/)
@@ -36,6 +37,7 @@ description: "激励结构决定投资人能做什么，而不只是想做什么
 - [Greenlight Capital](/investor-masters/institutions/greenlight-capital/)
 - [Baupost Group](/investor-masters/institutions/baupost-group/)
 - [Himalaya Capital](/investor-masters/institutions/himalaya-capital/)
+- [H&H International Investment](/investor-masters/institutions/h-h-international-investment/)
 - [Lone Pine Capital](/investor-masters/institutions/lone-pine-capital/)
 - [Maverick Capital](/investor-masters/institutions/maverick-capital/)
 - [Third Point](/investor-masters/institutions/third-point/)

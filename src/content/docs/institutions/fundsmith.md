@@ -37,75 +37,78 @@ Fundsmith 当前在这批资料中基本没有第二位真正能代表机构哲�
 
 ### 怎么看这组披露
 
-13F 只覆盖美国公开股票多头及部分期权披露，且有季度滞后，不代表机构完整组合。
-对 Fundsmith 这种高质量复利型机构，13F 可读性较高，因为美国公开股票多头本来就承载了其很大一部分判断，但它仍不是机构全部组合。
+13F 只覆盖美国公开股票多头及部分期权披露，且有季度滞后，不代表机构完整组合；`持仓总市值变化` 也只是这张 13F 表内的可见市值变化。
 
 ### 近四个已披露季度前 10 大持仓
 
+#### Q1 2026
+
+- `MAR` Marriott Intl Inc New：`13F 占比 8.6%`，市值约 `$1.10bn`，股数/份额 `3,370,872`。
+- `SYK` Stryker Corporation：`13F 占比 7.8%`，市值约 `$1.01bn`，股数/份额 `3,061,416`。
+- `WAT` Waters Corp：`13F 占比 7.5%`，市值约 `$0.96bn`，股数/份额 `3,212,075`。
+- `V` Visa Inc：`13F 占比 7.3%`，市值约 `$0.94bn`，股数/份额 `3,104,090`。
+- `GOOGL` Alphabet Inc：`13F 占比 6.6%`，市值约 `$0.85bn`，股数/份额 `2,956,198`。
+- `PM` Philip Morris Intl Inc：`13F 占比 6.6%`，市值约 `$0.85bn`，股数/份额 `5,113,163`。
+- `IDXX` Idexx Labs Inc：`13F 占比 6.4%`，市值约 `$0.82bn`，股数/份额 `1,465,786`。
+- `ADP` Automatic Data Processing In：`13F 占比 6.1%`，市值约 `$0.78bn`，股数/份额 `3,855,105`。
+- `MSFT` Microsoft Corp：`13F 占比 6.0%`，市值约 `$0.77bn`，股数/份额 `2,079,737`。
+- `META` Meta Platforms Inc：`13F 占比 5.9%`，市值约 `$0.76bn`，股数/份额 `1,321,375`。
+
 #### Q4 2025
 
-- `WAT` Waters：实验室分析仪器与耗材公司。 `13F 占比 7.9%`
-- `SYK` Stryker：骨科、外科与医疗设备平台。 `13F 占比 7.6%`
-- `IDXX` IDEXX Laboratories：兽医诊断与实验室平台。 `13F 占比 7.4%`
-- `V` Visa：全球银行卡支付清算网络。 `13F 占比 7.2%`
-- `MAR` Marriott International：酒店品牌、加盟与管理平台。 `13F 占比 7.2%`
-- `GOOGL` Alphabet：搜索、广告、云与 AI 平台。 `13F 占比 6.4%`
-- `ADP` ADP：薪酬、人事与外包软件服务商。 `13F 占比 6.3%`
-- `MSFT` Microsoft：企业软件、云与生产力平台。 `13F 占比 5.9%`
-- `PM` Philip Morris International：全球烟草与无烟尼古丁平台。 `13F 占比 5.7%`
-- `META` Meta Platforms：社交广告与 AI 分发平台。 `13F 占比 5.3%`
+- `WAT` Waters Corp：`13F 占比 7.9%`，市值约 `$1.35bn`，股数/份额 `3,557,978`。
+- `SYK` Stryker Corporation：`13F 占比 7.6%`，市值约 `$1.30bn`，股数/份额 `3,687,511`。
+- `IDXX` Idexx Labs Inc：`13F 占比 7.4%`，市值约 `$1.27bn`，股数/份额 `1,876,035`。
+- `V` Visa Inc：`13F 占比 7.2%`，市值约 `$1.24bn`，股数/份额 `3,534,684`。
+- `MAR` Marriott Intl Inc New：`13F 占比 7.2%`，市值约 `$1.23bn`，股数/份额 `3,979,927`。
+- `GOOGL` Alphabet Inc：`13F 占比 6.4%`，市值约 `$1.10bn`，股数/份额 `3,498,519`。
+- `ADP` Automatic Data Processing In：`13F 占比 6.3%`，市值约 `$1.07bn`，股数/份额 `4,177,969`。
+- `MSFT` Microsoft Corp：`13F 占比 5.9%`，市值约 `$1.01bn`，股数/份额 `2,079,971`。
+- `PM` Philip Morris Intl Inc：`13F 占比 5.7%`，市值约 `$0.98bn`，股数/份额 `6,124,597`。
+- `META` Meta Platforms Inc：`13F 占比 5.3%`，市值约 `$0.90bn`，股数/份额 `1,363,539`。
 
 #### Q3 2025
 
-- `SYK` Stryker：骨科、外科与医疗设备平台。 `13F 占比 8.6%`
-- `IDXX` IDEXX Laboratories：兽医诊断与实验室平台。 `13F 占比 8.4%`
-- `GOOGL` Alphabet：搜索、广告、云与 AI 平台。 `13F 占比 7.7%`
-- `MSFT` Microsoft：企业软件、云与生产力平台。 `13F 占比 6.8%`
-- `V` Visa：全球银行卡支付清算网络。 `13F 占比 6.6%`
-- `ADP` ADP：薪酬、人事与外包软件服务商。 `13F 占比 6.4%`
-- `WAT` Waters：实验室分析仪器与耗材公司。 `13F 占比 6.0%`
-- `PM` Philip Morris International：全球烟草与无烟尼古丁平台。 `13F 占比 5.9%`
-- `META` Meta Platforms：社交广告与 AI 分发平台。 `13F 占比 5.8%`
-- `MAR` Marriott International：酒店品牌、加盟与管理平台。 `13F 占比 5.6%`
+- `SYK` Stryker Corporation：`13F 占比 8.6%`，市值约 `$1.70bn`，股数/份额 `4,591,293`。
+- `IDXX` Idexx Labs Inc：`13F 占比 8.4%`，市值约 `$1.67bn`，股数/份额 `2,610,457`。
+- `GOOGL` Alphabet Inc：`13F 占比 7.7%`，市值约 `$1.53bn`，股数/份额 `6,289,352`。
+- `MSFT` Microsoft Corp：`13F 占比 6.8%`，市值约 `$1.34bn`，股数/份额 `2,583,369`。
+- `V` Visa Inc：`13F 占比 6.6%`，市值约 `$1.32bn`，股数/份额 `3,854,336`。
+- `ADP` Automatic Data Processing In：`13F 占比 6.4%`，市值约 `$1.27bn`，股数/份额 `4,311,603`。
+- `WAT` Waters Corp：`13F 占比 6.0%`，市值约 `$1.19bn`，股数/份额 `3,955,498`。
+- `PM` Philip Morris Intl Inc：`13F 占比 5.9%`，市值约 `$1.17bn`，股数/份额 `7,188,144`。
+- `META` Meta Platforms Inc：`13F 占比 5.8%`，市值约 `$1.14bn`，股数/份额 `1,558,664`。
+- `MAR` Marriott Intl Inc New：`13F 占比 5.6%`，市值约 `$1.10bn`，股数/份额 `4,228,298`。
 
 #### Q2 2025
 
-- `META` Meta Platforms：社交广告与 AI 分发平台。 `13F 占比 11.4%`
-- `MSFT` Microsoft：企业软件、云与生产力平台。 `13F 占比 10.7%`
-- `SYK` Stryker：骨科、外科与医疗设备平台。 `13F 占比 8.0%`
-- `PM` Philip Morris International：全球烟草与无烟尼古丁平台。 `13F 占比 7.2%`
-- `IDXX` IDEXX Laboratories：兽医诊断与实验室平台。 `13F 占比 6.2%`
-- `V` Visa：全球银行卡支付清算网络。 `13F 占比 5.9%`
-- `ADP` ADP：薪酬、人事与外包软件服务商。 `13F 占比 5.8%`
-- `WAT` Waters：实验室分析仪器与耗材公司。 `13F 占比 5.5%`
-- `GOOGL` Alphabet：搜索、广告、云与 AI 平台。 `13F 占比 5.2%`
-- `MAR` Marriott International：酒店品牌、加盟与管理平台。 `13F 占比 5.0%`
+- `META` Meta Platforms Inc：`13F 占比 11.4%`，市值约 `$2.63bn`，股数/份额 `3,568,752`。
+- `MSFT` Microsoft Corp：`13F 占比 10.7%`，市值约 `$2.46bn`，股数/份额 `4,941,509`。
+- `SYK` Stryker Corporation：`13F 占比 8.0%`，市值约 `$1.85bn`，股数/份额 `4,677,007`。
+- `PM` Philip Morris Intl Inc：`13F 占比 7.2%`，市值约 `$1.65bn`，股数/份额 `9,074,195`。
+- `IDXX` Idexx Labs Inc：`13F 占比 6.2%`，市值约 `$1.42bn`，股数/份额 `2,639,289`。
+- `V` Visa Inc：`13F 占比 5.9%`，市值约 `$1.37bn`，股数/份额 `3,854,071`。
+- `ADP` Automatic Data Processing In：`13F 占比 5.8%`，市值约 `$1.35bn`，股数/份额 `4,362,099`。
+- `WAT` Waters Corp：`13F 占比 5.5%`，市值约 `$1.26bn`，股数/份额 `3,608,407`。
+- `GOOGL` Alphabet Inc：`13F 占比 5.2%`，市值约 `$1.20bn`，股数/份额 `6,803,454`。
+- `MAR` Marriott Intl Inc New：`13F 占比 5.0%`，市值约 `$1.16bn`，股数/份额 `4,236,599`。
 
-#### Q1 2025
+### 变化摘要（Q1 2026 vs Q4 2025）
 
-- `META` Meta Platforms：社交广告与 AI 分发平台。 `13F 占比 10.2%`
-- `MSFT` Microsoft：企业软件、云与生产力平台。 `13F 占比 9.2%`
-- `SYK` Stryker：骨科、外科与医疗设备平台。 `13F 占比 8.6%`
-- `PM` Philip Morris International：全球烟草与无烟尼古丁平台。 `13F 占比 7.8%`
-- `V` Visa：全球银行卡支付清算网络。 `13F 占比 6.6%`
-- `ADP` ADP：薪酬、人事与外包软件服务商。 `13F 占比 6.3%`
-- `WAT` Waters：实验室分析仪器与耗材公司。 `13F 占比 6.1%`
-- `IDXX` IDEXX Laboratories：兽医诊断与实验室平台。 `13F 占比 5.1%`
-- `GOOGL` Alphabet：搜索、广告、云与 AI 平台。 `13F 占比 4.8%`
-- `MAR` Marriott International：酒店品牌、加盟与管理平台。 `13F 占比 4.6%`
-
-### 变化摘要（Q4 2025 vs Q3 2025）
-
+- 持仓总市值变化：从 `$17.12bn` 到 `$12.83bn`，下降 `-$4.29bn`（-25.1%）。粗拆：主动仓位变化 `-$2.96bn`，价格变化 `-$1.33bn`；主要由主动仓位变化拖累。
 - 新进前 10：无
 - 退出前 10：无
-- 显著加仓：WAT Waters（+1.9 pct）、MAR Marriott International（+1.6 pct）、V Visa（+0.6 pct）
-- 显著减仓：GOOGL Alphabet（-1.3 pct）、IDXX IDEXX Laboratories（-1.0 pct）、SYK Stryker（-1.0 pct）
-- 过去一年最稳定的核心：WAT Waters、SYK Stryker、IDXX IDEXX Laboratories、V Visa、MAR Marriott International、GOOGL Alphabet、ADP ADP、MSFT Microsoft、PM Philip Morris International、META Meta Platforms
+- 权重上升：MAR（+1.4 pct）, Texas Instrs（+1.3 pct）, Fortinet（+0.9 pct）, Mettler Toledo International（+0.9 pct）, PM（+0.9 pct）
+- 权重下降：IDXX（-1.0 pct）, WAT（-0.4 pct）, Qualys（-0.3 pct）, Napco Sec Technologies（-0.3 pct）, Doximity（-0.3 pct）
+- 显著加仓：无
+- 显著减仓：IDXX（股数 -410,249，-21.9%）, SYK（股数 -626,095，-17.0%）, MAR（股数 -609,055，-15.3%）, GOOGL（股数 -542,321，-15.5%）, PM（股数 -1,011,434，-16.5%）
 
 ### 数据来源
 
-- [13f.info manager page](https://13f.info/manager/0001569205-fundsmith-llp)：用于读取近四个已披露季度的结构化 13F 持仓表。
-- [SEC EDGAR 13F filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1569205&type=13F-HR&owner=exclude&count=40)：原始 filing 查询入口。
+- [SEC 13F Q1 2026 filing detail](https://www.sec.gov/Archives/edgar/data/1569205/000156920526000005/0001569205-26-000005-index.html)
+- [SEC 13F Q4 2025 filing detail](https://www.sec.gov/Archives/edgar/data/1569205/000156920526000002/0001569205-26-000002-index.html)
+- [SEC 13F Q3 2025 filing detail](https://www.sec.gov/Archives/edgar/data/1569205/000156920525000004/0001569205-25-000004-index.html)
+- [SEC 13F Q2 2025 filing detail](https://www.sec.gov/Archives/edgar/data/1569205/000180154725000008/0001801547-25-000008-index.html)
 
 ## 机构传承
 

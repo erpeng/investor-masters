@@ -36,75 +36,78 @@ ARK 的机构哲学可以压成一句话：`先判断哪些技术平台正在同
 
 ### 怎么看这组披露
 
-13F 只覆盖美国公开股票多头及部分期权披露，且有季度滞后，不代表机构完整组合。
-ARK 的 13F 更像公开市场风投组合的季度快照，能看平台押注落在哪些上市承接层，但看不到其研究系统的全部深度。
+13F 只覆盖美国公开股票多头及部分期权披露，且有季度滞后，不代表机构完整组合；`持仓总市值变化` 也只是这张 13F 表内的可见市值变化。
 
 ### 近四个已披露季度前 10 大持仓
 
+#### Q1 2026
+
+- `TSLA` Tesla Inc：`13F 占比 8.2%`，市值约 `$1.05bn`，股数/份额 `2,831,329`。
+- `AMD` Advanced Micro Devices Inc：`13F 占比 4.3%`，市值约 `$0.55bn`，股数/份额 `2,712,854`。
+- `CRSP` Crispr Therapeutics Ag：`13F 占比 4.2%`，市值约 `$0.54bn`，股数/份额 `11,313,623`。
+- `SHOP` Shopify Inc：`13F 占比 3.9%`，市值约 `$0.50bn`，股数/份额 `4,177,652`。
+- `PLTR` Palantir Technologies Inc：`13F 占比 3.5%`，市值约 `$0.45bn`，股数/份额 `3,109,881`。
+- `TEM` Tempus Ai Inc：`13F 占比 3.4%`，市值约 `$0.43bn`，股数/份额 `9,607,745`。
+- `CRCL` Circle Internet Group Inc：`13F 占比 3.3%`，市值约 `$0.43bn`，股数/份额 `4,509,482`。
+- `HOOD` Robinhood Markets Inc：`13F 占比 3.2%`，市值约 `$0.42bn`，股数/份额 `6,003,061`。
+- `COIN` Coinbase Global Inc：`13F 占比 3.2%`，市值约 `$0.41bn`，股数/份额 `2,372,884`。
+- `TER` Teradyne Inc：`13F 占比 2.9%`，市值约 `$0.37bn`，股数/份额 `1,245,122`。
+
 #### Q4 2025
 
-- `TSLA` Tesla：电动车、储能与自动驾驶平台。 `13F 占比 8.7%`
-- `SHOP` Shopify：商家电商基础设施与支付平台。 `13F 占比 4.3%`
-- `ROKU` Roku：智能电视操作系统与流媒体广告平台。 `13F 占比 4.2%`
-- `COIN` Coinbase：加密交易、托管与基础设施平台。 `13F 占比 3.8%`
-- `PLTR` Palantir：政府与企业数据/AI 操作系统。 `13F 占比 3.8%`
-- `CRSP` CRISPR Therapeutics：基因编辑疗法公司。 `13F 占比 3.7%`
-- `AMD` AMD：CPU、GPU 与加速芯片设计公司。 `13F 占比 3.7%`
-- `HOOD` Robinhood：零售券商与交易分发平台。 `13F 占比 3.6%`
-- `TER` Teradyne：半导体测试设备与自动化平台。 `13F 占比 3.0%`
-- `TEM` Tempus AI：医疗数据、诊断与 AI 平台。 `13F 占比 3.0%`
+- `TSLA` Tesla Inc：`13F 占比 8.7%`，市值约 `$1.31bn`，股数/份额 `2,914,492`。
+- `SHOP` Shopify Inc：`13F 占比 4.3%`，市值约 `$0.64bn`，股数/份额 `3,978,898`。
+- `ROKU` Roku Inc：`13F 占比 4.2%`，市值约 `$0.64bn`，股数/份额 `5,881,738`。
+- `COIN` Coinbase Global Inc：`13F 占比 3.8%`，市值约 `$0.57bn`，股数/份额 `2,541,928`。
+- `PLTR` Palantir Technologies Inc：`13F 占比 3.8%`，市值约 `$0.57bn`，股数/份额 `3,231,901`。
+- `CRSP` Crispr Therapeutics Ag：`13F 占比 3.7%`，市值约 `$0.55bn`，股数/份额 `10,522,057`。
+- `AMD` Advanced Micro Devices Inc：`13F 占比 3.7%`，市值约 `$0.55bn`，股数/份额 `2,574,779`。
+- `HOOD` Robinhood Markets Inc：`13F 占比 3.6%`，市值约 `$0.54bn`，股数/份额 `4,806,211`。
+- `TER` Teradyne Inc：`13F 占比 3.0%`，市值约 `$0.46bn`，股数/份额 `2,356,256`。
+- `TEM` Tempus Ai Inc：`13F 占比 3.0%`，市值约 `$0.45bn`，股数/份额 `7,557,583`。
 
 #### Q3 2025
 
-- `TSLA` Tesla：电动车、储能与自动驾驶平台。 `13F 占比 9.5%`
-- `COIN` Coinbase：加密交易、托管与基础设施平台。 `13F 占比 4.8%`
-- `ROKU` Roku：智能电视操作系统与流媒体广告平台。 `13F 占比 4.4%`
-- `PLTR` Palantir：政府与企业数据/AI 操作系统。 `13F 占比 4.4%`
-- `RBLX` Roblox：UGC 游戏与虚拟社交平台。 `13F 占比 4.4%`
-- `HOOD` Robinhood：零售券商与交易分发平台。 `13F 占比 4.3%`
-- `SHOP` Shopify：商家电商基础设施与支付平台。 `13F 占比 4.3%`
-- `CRSP` CRISPR Therapeutics：基因编辑疗法公司。 `13F 占比 3.8%`
-- `TEM` Tempus AI：医疗数据、诊断与 AI 平台。 `13F 占比 3.4%`
-- `AMD` AMD：CPU、GPU 与加速芯片设计公司。 `13F 占比 2.9%`
+- `TSLA` Tesla Inc：`13F 占比 9.5%`，市值约 `$1.60bn`，股数/份额 `3,589,622`。
+- `COIN` Coinbase Global Inc：`13F 占比 4.8%`，市值约 `$0.81bn`，股数/份额 `2,395,540`。
+- `ROKU` Roku Inc：`13F 占比 4.4%`，市值约 `$0.74bn`，股数/份额 `7,351,856`。
+- `PLTR` Palantir Technologies Inc：`13F 占比 4.4%`，市值约 `$0.74bn`，股数/份额 `4,035,093`。
+- `RBLX` Roblox Corp：`13F 占比 4.4%`，市值约 `$0.74bn`，股数/份额 `5,312,821`。
+- `HOOD` Robinhood Markets Inc：`13F 占比 4.3%`，市值约 `$0.72bn`，股数/份额 `5,017,044`。
+- `SHOP` Shopify Inc：`13F 占比 4.3%`，市值约 `$0.72bn`，股数/份额 `4,815,833`。
+- `CRSP` Crispr Therapeutics Ag：`13F 占比 3.8%`，市值约 `$0.63bn`，股数/份额 `9,786,973`。
+- `TEM` Tempus Ai Inc：`13F 占比 3.4%`，市值约 `$0.58bn`，股数/份额 `7,175,767`。
+- `AMD` Advanced Micro Devices Inc：`13F 占比 2.9%`，市值约 `$0.49bn`，股数/份额 `3,057,911`。
 
 #### Q2 2025
 
-- `TSLA` Tesla：电动车、储能与自动驾驶平台。 `13F 占比 7.2%`
-- `COIN` Coinbase：加密交易、托管与基础设施平台。 `13F 占比 6.7%`
-- `ROKU` Roku：智能电视操作系统与流媒体广告平台。 `13F 占比 5.5%`
-- `HOOD` Robinhood：零售券商与交易分发平台。 `13F 占比 5.3%`
-- `RBLX` Roblox：UGC 游戏与虚拟社交平台。 `13F 占比 5.2%`
-- `SHOP` Shopify：商家电商基础设施与支付平台。 `13F 占比 4.3%`
-- `PLTR` Palantir：政府与企业数据/AI 操作系统。 `13F 占比 4.1%`
-- `CRCL` Circle：稳定币发行与加密支付平台。 `13F 占比 3.9%`
-- `CRSP` CRISPR Therapeutics：基因编辑疗法公司。 `13F 占比 3.6%`
-- `TEM` Tempus AI：医疗数据、诊断与 AI 平台。 `13F 占比 3.5%`
+- `TSLA` Tesla Inc：`13F 占比 7.2%`，市值约 `$0.98bn`，股数/份额 `3,077,464`。
+- `COIN` Coinbase Global Inc：`13F 占比 6.7%`，市值约 `$0.92bn`，股数/份额 `2,623,150`。
+- `ROKU` Roku Inc：`13F 占比 5.5%`，市值约 `$0.74bn`，股数/份额 `8,460,078`。
+- `HOOD` Robinhood Markets Inc：`13F 占比 5.3%`，市值约 `$0.73bn`，股数/份额 `7,785,864`。
+- `RBLX` Roblox Corp：`13F 占比 5.2%`，市值约 `$0.71bn`，股数/份额 `6,769,298`。
+- `SHOP` Shopify Inc：`13F 占比 4.3%`，市值约 `$0.58bn`，股数/份额 `5,049,508`。
+- `PLTR` Palantir Technologies Inc：`13F 占比 4.1%`，市值约 `$0.56bn`，股数/份额 `4,076,266`。
+- `CRCL` Circle Internet Group Inc：`13F 占比 3.9%`，市值约 `$0.53bn`，股数/份额 `2,924,403`。
+- `CRSP` Crispr Therapeutics Ag：`13F 占比 3.6%`，市值约 `$0.50bn`，股数/份额 `10,182,590`。
+- `TEM` Tempus Ai Inc：`13F 占比 3.5%`，市值约 `$0.47bn`，股数/份额 `7,421,770`。
 
-#### Q1 2025
+### 变化摘要（Q1 2026 vs Q4 2025）
 
-- `TSLA` Tesla：电动车、储能与自动驾驶平台。 `13F 占比 8.5%`
-- `ROKU` Roku：智能电视操作系统与流媒体广告平台。 `13F 占比 6.1%`
-- `PLTR` Palantir：政府与企业数据/AI 操作系统。 `13F 占比 5.3%`
-- `RBLX` Roblox：UGC 游戏与虚拟社交平台。 `13F 占比 5.3%`
-- `COIN` Coinbase：加密交易、托管与基础设施平台。 `13F 占比 5.3%`
-- `HOOD` Robinhood：零售券商与交易分发平台。 `13F 占比 4.3%`
-- `SHOP` Shopify：商家电商基础设施与支付平台。 `13F 占比 4.2%`
-- `TEM` Tempus AI：医疗数据、诊断与 AI 平台。 `13F 占比 3.6%`
-- `CRSP` CRISPR Therapeutics：基因编辑疗法公司。 `13F 占比 3.5%`
-- `TWST` Twist Bioscience：合成生物学与 DNA 制造平台。 `13F 占比 2.5%`
-
-### 变化摘要（Q4 2025 vs Q3 2025）
-
-- 新进前 10：TER Teradyne
-- 退出前 10：RBLX Roblox
-- 显著加仓：AMD AMD（+0.8 pct）
-- 显著减仓：COIN Coinbase（-1.0 pct）、TSLA Tesla（-0.8 pct）、HOOD Robinhood（-0.7 pct）
-- 过去一年最稳定的核心：TSLA Tesla、SHOP Shopify、ROKU Roku、COIN Coinbase、PLTR Palantir、CRSP CRISPR Therapeutics、HOOD Robinhood、TEM Tempus AI
+- 持仓总市值变化：从 `$15.07bn` 到 `$12.86bn`，下降 `-$2.21bn`（-14.7%）。粗拆：主动仓位变化 `-$0.39bn`，价格变化 `-$1.81bn`；主要由价格变化拖累。
+- 新进前 10：CRCL
+- 退出前 10：ROKU
+- 权重上升：CRCL（+1.2 pct）, Twist Bioscience（+0.8 pct）, AMD（+0.6 pct）, Coreweave（+0.6 pct）, Bullish（+0.6 pct）
+- 权重下降：ROKU（-1.4 pct）, Draftkings（-0.8 pct）, Airbnb（-0.7 pct）, META（-0.6 pct）, COIN（-0.6 pct）
+- 显著加仓：HOOD（股数 +1,196,850，+24.9%）, TEM（股数 +2,050,162，+27.1%）, Figma（股数 +2,811,150，+483.2%）, Genedx Holdings（股数 +720,022，+119.1%）, RBLX（股数 +1,061,769，+22.0%）
+- 显著减仓：ROKU（股数 -2,061,333，-35.0%）, TER（股数 -1,111,134，-47.2%）, Airbnb（股数 -818,400，-83.5%）, Draftkings（股数 -3,187,657，-70.2%）, META（股数 -144,553，-48.4%）
 
 ### 数据来源
 
-- [13f.info manager page](https://13f.info/manager/0001697748-ark-investment-management-llc)：用于读取近四个已披露季度的结构化 13F 持仓表。
-- [SEC EDGAR 13F filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1697748&type=13F-HR&owner=exclude&count=40)：原始 filing 查询入口。
+- [SEC 13F Q1 2026 filing detail](https://www.sec.gov/Archives/edgar/data/1697748/000110465926059240/0001104659-26-059240-index.html)
+- [SEC 13F Q4 2025 filing detail](https://www.sec.gov/Archives/edgar/data/1697748/000110465926013538/0001104659-26-013538-index.html)
+- [SEC 13F Q3 2025 filing detail](https://www.sec.gov/Archives/edgar/data/1697748/000110465925110217/0001104659-25-110217-index.html)
+- [SEC 13F Q2 2025 filing detail](https://www.sec.gov/Archives/edgar/data/1697748/000110465925072098/0001104659-25-072098-index.html)
 
 ## 机构传承
 

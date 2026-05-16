@@ -41,70 +41,72 @@ Himalaya 的机构哲学几乎可以直接压成四个词：`business owners / m
 
 ### 怎么看这组披露
 
-13F 只覆盖美国公开股票多头及部分期权披露，且有季度滞后，不代表机构完整组合。
-对 Himalaya 这种极少动作的长期所有者，13F 比较有解释力，但它仍然只是公开美股账面，不等于全部长期判断。
+13F 只覆盖美国公开股票多头及部分期权披露，且有季度滞后，不代表机构完整组合；`持仓总市值变化` 也只是这张 13F 表内的可见市值变化。
 
 ### 近四个已披露季度前 10 大持仓
 
+#### Q1 2026
+
+- `GOOGL` Alphabet Inc：`13F 占比 44.8%`，市值约 `$1.43bn`，股数/份额 `4,994,600`。
+- `PDD` Pdd Holdings Inc：`13F 占比 14.7%`，市值约 `$0.47bn`，股数/份额 `4,608,000`。
+- `Berkshire Hathaway Del` Berkshire Hathaway Inc Del：`13F 占比 13.4%`，市值约 `$0.43bn`，股数/份额 `897,749`。
+- `East West Bancorp` East West Bancorp Inc：`13F 占比 9.3%`，市值约 `$0.30bn`，股数/份额 `2,776,351`。
+- `Bk Of America` Bk Of America Corp：`13F 占比 4.6%`，市值约 `$0.15bn`，股数/份额 `2,997,987`。
+- `OXY` Occidental Pete Corp：`13F 占比 3.0%`，市值约 `$0.10bn`，股数/份额 `1,466,500`。
+- `Crocs` Crocs Inc：`13F 占比 2.3%`，市值约 `$0.07bn`，股数/份额 `887,093`。
+- `Tencent Music Entmt` Tencent Music Entmt Group：`13F 占比 1.9%`，市值约 `$0.06bn`，股数/份额 `6,590,836`。
+- `Sp Global` S&P Global Inc：`13F 占比 1.6%`，市值约 `$0.05bn`，股数/份额 `121,463`。
+- `Block H R` Block H & R Inc：`13F 占比 1.6%`，市值约 `$0.05bn`，股数/份额 `1,626,906`。
+
 #### Q4 2025
 
-- `GOOGL` Alphabet：搜索、广告、云与 AI 平台。 `13F 占比 22.3%`
-- `GOOG` Alphabet：搜索、广告、云与 AI 平台。 `13F 占比 21.6%`
-- `BAC` Bank of America：美国大型综合商业银行。 `13F 占比 16.1%`
-- `0A2S.IL` PDD Holdings：拼多多与 Temu 背后的电商平台。 `13F 占比 14.6%`
-- `BRK-B` Berkshire Hathaway：保险、工业与证券投资并行的资本配置机器。 `13F 占比 12.6%`
-- `EWBC` East West Bancorp：跨境商业银行与华人客户金融平台。 `13F 占比 8.7%`
-- `OXY` Occidental Petroleum：美国油气资源与化工资产运营商。 `13F 占比 1.7%`
-- `CROX` Crocs：休闲鞋履品牌与渠道平台。 `13F 占比 1.5%`
-- `AAPL` Apple Inc.：iPhone、服务与硬件生态平台。 `13F 占比 0.8%`
+- `GOOGL` Alphabet Inc：`13F 占比 43.9%`，市值约 `$1.57bn`，股数/份额 `4,994,600`。
+- `Bk Of America` Bk Of America Corp：`13F 占比 16.1%`，市值约 `$0.57bn`，股数/份额 `10,431,387`。
+- `PDD` Pdd Holdings Inc：`13F 占比 14.6%`，市值约 `$0.52bn`，股数/份额 `4,608,000`。
+- `Berkshire Hathaway Del` Berkshire Hathaway Inc Del：`13F 占比 12.6%`，市值约 `$0.45bn`，股数/份额 `897,749`。
+- `East West Bancorp` East West Bancorp Inc：`13F 占比 8.7%`，市值约 `$0.31bn`，股数/份额 `2,776,351`。
+- `OXY` Occidental Pete Corp：`13F 占比 1.7%`，市值约 `$0.06bn`，股数/份额 `1,466,500`。
+- `Crocs` Crocs Inc：`13F 占比 1.5%`，市值约 `$0.05bn`，股数/份额 `628,159`。
+- `AAPL` Apple Inc：`13F 占比 0.8%`，市值约 `$0.03bn`，股数/份额 `110,600`。
 
 #### Q3 2025
 
-- `GOOGL` Alphabet：搜索、广告、云与 AI 平台。 `13F 占比 19.1%`
-- `0A2S.IL` PDD Holdings：拼多多与 Temu 背后的电商平台。 `13F 占比 18.9%`
-- `GOOG` Alphabet：搜索、广告、云与 AI 平台。 `13F 占比 18.5%`
-- `BAC` Bank of America：美国大型综合商业银行。 `13F 占比 16.7%`
-- `BRK-B` Berkshire Hathaway：保险、工业与证券投资并行的资本配置机器。 `13F 占比 14.0%`
-- `EWBC` East West Bancorp：跨境商业银行与华人客户金融平台。 `13F 占比 9.1%`
-- `OXY` Occidental Petroleum：美国油气资源与化工资产运营商。 `13F 占比 2.1%`
-- `AAPL` Apple Inc.：iPhone、服务与硬件生态平台。 `13F 占比 0.9%`
-- `SOC` Sable Offshore：海上油气资产重组平台。 `13F 占比 0.7%`
+- `GOOGL` Alphabet Inc：`13F 占比 37.6%`，市值约 `$1.22bn`，股数/份额 `4,994,600`。
+- `PDD` Pdd Holdings Inc：`13F 占比 18.9%`，市值约 `$0.61bn`，股数/份额 `4,608,000`。
+- `Bk Of America` Bk Of America Corp：`13F 占比 16.7%`，市值约 `$0.54bn`，股数/份额 `10,431,387`。
+- `Berkshire Hathaway Del` Berkshire Hathaway Inc Del：`13F 占比 14.0%`，市值约 `$0.45bn`，股数/份额 `897,749`。
+- `East West Bancorp` East West Bancorp Inc：`13F 占比 9.1%`，市值约 `$0.30bn`，股数/份额 `2,776,351`。
+- `OXY` Occidental Pete Corp：`13F 占比 2.1%`，市值约 `$0.07bn`，股数/份额 `1,466,500`。
+- `AAPL` Apple Inc：`13F 占比 0.9%`，市值约 `$0.03bn`，股数/份额 `110,600`。
+- `Sable Offshore` Sable Offshore Corp：`13F 占比 0.7%`，市值约 `$0.02bn`，股数/份额 `1,343,000`。
 
 #### Q2 2025
 
-- `BAC` Bank of America：美国大型综合商业银行。 `13F 占比 18.4%`
-- `0A2S.IL` PDD Holdings：拼多多与 Temu 背后的电商平台。 `13F 占比 17.9%`
-- `GOOGL` Alphabet：搜索、广告、云与 AI 平台。 `13F 占比 16.7%`
-- `BRK-B` Berkshire Hathaway：保险、工业与证券投资并行的资本配置机器。 `13F 占比 16.2%`
-- `GOOG` Alphabet：搜索、广告、云与 AI 平台。 `13F 占比 16.2%`
-- `EWBC` East West Bancorp：跨境商业银行与华人客户金融平台。 `13F 占比 10.4%`
-- `OXY` Occidental Petroleum：美国油气资源与化工资产运营商。 `13F 占比 2.3%`
-- `SOC` Sable Offshore：海上油气资产重组平台。 `13F 占比 1.1%`
-- `AAPL` Apple Inc.：iPhone、服务与硬件生态平台。 `13F 占比 0.8%`
+- `GOOGL` Alphabet Inc：`13F 占比 32.8%`，市值约 `$0.88bn`，股数/份额 `4,994,600`。
+- `Bk Of America` Bk Of America Corp：`13F 占比 18.4%`，市值约 `$0.49bn`，股数/份额 `10,431,387`。
+- `PDD` Pdd Holdings Inc：`13F 占比 17.9%`，市值约 `$0.48bn`，股数/份额 `4,608,000`。
+- `Berkshire Hathaway Del` Berkshire Hathaway Inc Del：`13F 占比 16.2%`，市值约 `$0.44bn`，股数/份额 `897,749`。
+- `East West Bancorp` East West Bancorp Inc：`13F 占比 10.4%`，市值约 `$0.28bn`，股数/份额 `2,776,351`。
+- `OXY` Occidental Pete Corp：`13F 占比 2.3%`，市值约 `$0.06bn`，股数/份额 `1,466,500`。
+- `Sable Offshore` Sable Offshore Corp：`13F 占比 1.1%`，市值约 `$0.03bn`，股数/份额 `1,343,000`。
+- `AAPL` Apple Inc：`13F 占比 0.8%`，市值约 `$0.02bn`，股数/份额 `110,600`。
 
-#### Q1 2025
+### 变化摘要（Q1 2026 vs Q4 2025）
 
-- `BAC` Bank of America：美国大型综合商业银行。 `13F 占比 26.1%`
-- `BRK-B` Berkshire Hathaway：保险、工业与证券投资并行的资本配置机器。 `13F 占比 21.6%`
-- `GOOGL` Alphabet：搜索、广告、云与 AI 平台。 `13F 占比 17.8%`
-- `GOOG` Alphabet：搜索、广告、云与 AI 平台。 `13F 占比 17.3%`
-- `EWBC` East West Bancorp：跨境商业银行与华人客户金融平台。 `13F 占比 11.3%`
-- `OXY` Occidental Petroleum：美国油气资源与化工资产运营商。 `13F 占比 3.3%`
-- `SOC` Sable Offshore：海上油气资产重组平台。 `13F 占比 1.5%`
-- `AAPL` Apple Inc.：iPhone、服务与硬件生态平台。 `13F 占比 1.1%`
-
-### 变化摘要（Q4 2025 vs Q3 2025）
-
-- 新进前 10：CROX Crocs
-- 退出前 10：SOC Sable Offshore
-- 显著加仓：GOOGL Alphabet（+3.2 pct）、GOOG Alphabet（+3.1 pct）
-- 显著减仓：0A2S.IL PDD Holdings（-4.3 pct）、BRK-B Berkshire Hathaway（-1.4 pct）、BAC Bank of America（-0.6 pct）
-- 过去一年最稳定的核心：GOOGL Alphabet、GOOG Alphabet、BAC Bank of America、BRK-B Berkshire Hathaway、EWBC East West Bancorp、OXY Occidental Petroleum、AAPL Apple Inc.
+- 持仓总市值变化：从 `$3.57bn` 到 `$3.20bn`，下降 `-$0.37bn`（-10.3%）。粗拆：主动仓位变化 `-$0.16bn`，价格变化 `-$0.21bn`；主要由价格变化拖累。
+- 新进前 10：Tencent Music Entmt, Sp Global, Block H R
+- 退出前 10：AAPL
+- 权重上升：OXY（+1.3 pct）, GOOGL（+1.0 pct）, Crocs（+0.8 pct）, Berkshire Hathaway Del（+0.8 pct）, East West Bancorp（+0.5 pct）
+- 权重下降：Bk Of America（-11.5 pct）
+- 显著加仓：Crocs（股数 +258,934，+41.2%）
+- 显著减仓：Bk Of America（股数 -7,433,400，-71.3%）
 
 ### 数据来源
 
-- [13f.info manager page](https://13f.info/manager/0001709323-himalaya-capital-management-llc)：用于读取近四个已披露季度的结构化 13F 持仓表。
-- [SEC EDGAR 13F filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1709323&type=13F-HR&owner=exclude&count=40)：原始 filing 查询入口。
+- [SEC 13F Q1 2026 filing detail](https://www.sec.gov/Archives/edgar/data/1709323/000204358526000013/0002043585-26-000013-index.html)
+- [SEC 13F Q4 2025 filing detail](https://www.sec.gov/Archives/edgar/data/1709323/000204358526000012/0002043585-26-000012-index.html)
+- [SEC 13F Q3 2025 filing detail](https://www.sec.gov/Archives/edgar/data/1709323/000204358525000015/0002043585-25-000015-index.html)
+- [SEC 13F Q2 2025 filing detail](https://www.sec.gov/Archives/edgar/data/1709323/000204358525000010/0002043585-25-000010-index.html)
 
 ## 机构传承
 

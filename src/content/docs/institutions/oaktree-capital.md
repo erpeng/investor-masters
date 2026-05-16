@@ -41,75 +41,78 @@ Oaktree 的机构哲学在现有资料里有极高一致性。霍华德在与坦
 
 ### 怎么看这组披露
 
-13F 只覆盖美国公开股票多头及部分期权披露，且有季度滞后，不代表机构完整组合。
-对 Oaktree 来说，13F 只展示美国公开股票和部分期权头寸；它看不到真正更核心的信贷、困境和私募资产，所以这里只能当行为切片读。
+13F 只覆盖美国公开股票多头及部分期权披露，且有季度滞后，不代表机构完整组合；`持仓总市值变化` 也只是这张 13F 表内的可见市值变化。
 
 ### 近四个已披露季度前 10 大持仓
 
+#### Q1 2026
+
+- `Torm` Torm Plc：`13F 占比 10.7%`，市值约 `$0.68bn`，股数/份额 `23,839,575`。
+- `Expand Energy` Expand Energy Corp：`13F 占比 9.1%`，市值约 `$0.57bn`，股数/份额 `5,237,477`。
+- `QQQ` Invesco Qqq Trust Series 1 put：`13F 占比 5.2%`，市值约 `$0.33bn`，股数/份额 `570,000`。
+- `Anglogold Ashanti` Anglogold Ashanti Plc：`13F 占比 5.0%`，市值约 `$0.31bn`，股数/份额 `3,223,092`。
+- `Garrett Motion` Garrett Motion Inc：`13F 占比 4.2%`，市值约 `$0.27bn`，股数/份额 `14,594,816`。
+- `SPY` State Street Spdr S&P Oil & Gas Exploration & Production Etf put：`13F 占比 2.9%`，市值约 `$0.18bn`，股数/份额 `1,000,000`。
+- `Telephone And Data` Telephone And Data Systems Inc：`13F 占比 2.9%`，市值约 `$0.18bn`，股数/份额 `4,292,243`。
+- `Viper Energy` Viper Energy Inc：`13F 占比 2.8%`，市值约 `$0.18bn`，股数/份额 `3,791,432`。
+- `Core Scientific` Core Scientific Inc：`13F 占比 2.2%`，市值约 `$0.14bn`，股数/份额 `9,400,708`。
+- `Sunopta` Sunopta Inc：`13F 占比 2.1%`，市值约 `$0.13bn`，股数/份额 `20,726,126`。
+
 #### Q4 2025
 
-- `CHK` Expand Energy：美国天然气与页岩资产运营商。 `13F 占比 7.9%`
-- `TRMD-A.CO` TORM：成品油轮航运公司。 `13F 占比 7.5%`
-- `AU` AngloGold Ashanti：黄金矿业与资源资产平台。 `13F 占比 4.7%`
-- `SMH` VanEck Semiconductor ETF（PUT）：覆盖半导体龙头的行业 ETF。 `13F 占比 4.4%`
-- `GTX` Garrett Motion：汽车涡轮与运动控制零部件供应商。 `13F 占比 4.2%`
-- `SPY` SPDR S&P 500 ETF Trust（PUT）：跟踪标普 500 指数的大型 ETF。 `13F 占比 3.7%`
-- `INDV.L` Indivior：成瘾治疗药物公司。 `13F 占比 3.6%`
-- `VNOM` Viper Energy：油气矿权与特许权收益平台。 `13F 占比 3.5%`
-- `TDS` Telephone and Data Systems：美国电信与通信服务运营商。 `13F 占比 2.2%`
-- `B` Barrick Mining：黄金与铜矿资源平台。 `13F 占比 1.8%`
+- `Expand Energy` Expand Energy Corp：`13F 占比 8.1%`，市值约 `$0.57bn`，股数/份额 `5,157,657`。
+- `Torm` Torm Plc：`13F 占比 7.5%`，市值约 `$0.53bn`，股数/份额 `26,425,059`。
+- `Anglogold Ashanti` Anglogold Ashanti Plc：`13F 占比 4.7%`，市值约 `$0.33bn`，股数/份额 `3,847,991`。
+- `Vaneck Semiconductor Etf` Vaneck Semiconductor Etf put：`13F 占比 4.4%`，市值约 `$0.31bn`，股数/份额 `865,000`。
+- `Garrett Motion` Garrett Motion Inc：`13F 占比 4.2%`，市值约 `$0.30bn`，股数/份额 `17,094,816`。
+- `State Street` State Street Corp put：`13F 占比 3.7%`，市值约 `$0.26bn`，股数/份额 `385,000`。
+- `Indivior Pharmaceuticals` Indivior Pharmaceuticals Inc：`13F 占比 3.6%`，市值约 `$0.26bn`，股数/份额 `7,108,644`。
+- `Viper Energy` Viper Energy Inc：`13F 占比 3.5%`，市值约 `$0.24bn`，股数/份额 `6,285,062`。
+- `Telephone And Data` Telephone And Data Systems Inc：`13F 占比 2.2%`，市值约 `$0.15bn`，股数/份额 `3,688,386`。
+- `Barrick Mining` Barrick Mining Corp：`13F 占比 1.8%`，市值约 `$0.13bn`，股数/份额 `2,975,118`。
 
 #### Q3 2025
 
-- `TRMD-A.CO` TORM：成品油轮航运公司。 `13F 占比 12.9%`
-- `CHK` Expand Energy：美国天然气与页岩资产运营商。 `13F 占比 8.3%`
-- `GTX` Garrett Motion：汽车涡轮与运动控制零部件供应商。 `13F 占比 6.7%`
-- `AU` AngloGold Ashanti：黄金矿业与资源资产平台。 `13F 占比 4.5%`
-- `VNOM` Viper Energy：油气矿权与特许权收益平台。 `13F 占比 3.7%`
-- `SPY` SPDR S&P 500 ETF Trust（PUT）：跟踪标普 500 指数的大型 ETF。 `13F 占比 3.4%`
-- `TDS` Telephone and Data Systems：美国电信与通信服务运营商。 `13F 占比 2.2%`
-- `ORCL` Oracle（PUT）：数据库、企业软件与云服务平台。 `13F 占比 2.2%`
-- `TLNE` Talen Energy：电力与发电资产运营商。 `13F 占比 1.9%`
-- `STKL` SunOpta：植物基原料与健康食品供应商。 `13F 占比 1.9%`
+- `Torm` Torm Plc：`13F 占比 12.9%`，市值约 `$0.83bn`，股数/份额 `40,581,120`。
+- `Expand Energy` Expand Energy Corp：`13F 占比 8.4%`，市值约 `$0.55bn`，股数/份额 `5,157,657`。
+- `Garrett Motion` Garrett Motion Inc：`13F 占比 6.7%`，市值约 `$0.43bn`，股数/份额 `31,894,816`。
+- `Anglogold Ashanti` Anglogold Ashanti Plc：`13F 占比 4.5%`，市值约 `$0.29bn`，股数/份额 `4,185,261`。
+- `Viper Energy` Viper Energy Inc：`13F 占比 3.7%`，市值约 `$0.24bn`，股数/份额 `6,285,062`。
+- `State Street` State Street Corp put：`13F 占比 3.4%`，市值约 `$0.22bn`，股数/份额 `330,000`。
+- `Telephone And Data` Telephone And Data Systems Inc：`13F 占比 2.2%`，市值约 `$0.14bn`，股数/份额 `3,688,386`。
+- `Oracle` Oracle Corp put：`13F 占比 2.2%`，市值约 `$0.14bn`，股数/份额 `500,000`。
+- `Talen Energy` Talen Energy Corp：`13F 占比 1.9%`，市值约 `$0.12bn`，股数/份额 `291,117`。
+- `Sunopta` Sunopta Inc：`13F 占比 1.9%`，市值约 `$0.12bn`，股数/份额 `20,726,126`。
 
 #### Q2 2025
 
-- `TRMD-A.CO` TORM：成品油轮航运公司。 `13F 占比 11.7%`
-- `SPY` SPDR S&P 500 ETF Trust（PUT）：跟踪标普 500 指数的大型 ETF。 `13F 占比 10.8%`
-- `CHK` Expand Energy：美国天然气与页岩资产运营商。 `13F 占比 10.2%`
-- `GTX` Garrett Motion：汽车涡轮与运动控制零部件供应商。 `13F 占比 6.7%`
-- `STR` Sitio Royalties：油气特许权与资源分成平台。 `13F 占比 4.1%`
-- `AU` AngloGold Ashanti：黄金矿业与资源资产平台。 `13F 占比 3.9%`
-- `INDV.L` Indivior：成瘾治疗药物公司。 `13F 占比 2.8%`
-- `STKL` SunOpta：植物基原料与健康食品供应商。 `13F 占比 2.1%`
-- `RWAY` Runway Growth Finance：成长型企业放贷与 BDC 平台。 `13F 占比 1.8%`
-- `151290889` Cemex：水泥、建材与基础设施材料集团。 `13F 占比 1.8%`
+- `State Street` State Street Corp put：`13F 占比 12.0%`，市值约 `$0.70bn`，股数/份额 `1,710,000`。
+- `Torm` Torm Plc：`13F 占比 11.7%`，市值约 `$0.68bn`，股数/份额 `40,581,120`。
+- `Expand Energy` Expand Energy Corp：`13F 占比 10.4%`，市值约 `$0.60bn`，股数/份额 `5,157,658`。
+- `Garrett Motion` Garrett Motion Inc：`13F 占比 6.7%`，市值约 `$0.39bn`，股数/份额 `36,894,816`。
+- `Sitio Royalties` Sitio Royalties Corp：`13F 占比 4.1%`，市值约 `$0.24bn`，股数/份额 `12,945,551`。
+- `Anglogold Ashanti` Anglogold Ashanti Plc：`13F 占比 3.9%`，市值约 `$0.23bn`，股数/份额 `4,947,737`。
+- `Indivior` Indivior Plc：`13F 占比 2.8%`，市值约 `$0.16bn`，股数/份额 `11,009,125`。
+- `Sunopta` Sunopta Inc：`13F 占比 2.1%`，市值约 `$0.12bn`，股数/份额 `20,726,126`。
+- `Runway Growth Finance` Runway Growth Finance Corp：`13F 占比 1.8%`，市值约 `$0.10bn`，股数/份额 `9,779,667`。
+- `Cemex Sab De` Cemex Sab De Cv：`13F 占比 1.8%`，市值约 `$0.10bn`，股数/份额 `14,839,032`。
 
-#### Q1 2025
+### 变化摘要（Q1 2026 vs Q4 2025）
 
-- `TRMD-A.CO` TORM：成品油轮航运公司。 `13F 占比 12.8%`
-- `CHK` Expand Energy：美国天然气与页岩资产运营商。 `13F 占比 12.0%`
-- `GTX` Garrett Motion：汽车涡轮与运动控制零部件供应商。 `13F 占比 7.1%`
-- `STR` Sitio Royalties：油气特许权与资源分成平台。 `13F 占比 5.0%`
-- `AU` AngloGold Ashanti：黄金矿业与资源资产平台。 `13F 占比 3.9%`
-- `SPY` SPDR S&P 500 ETF Trust（PUT）：跟踪标普 500 指数的大型 ETF。 `13F 占比 3.7%`
-- `RWAY` Runway Growth Finance：成长型企业放贷与 BDC 平台。 `13F 占比 2.2%`
-- `151290889` Cemex：水泥、建材与基础设施材料集团。 `13F 占比 2.1%`
-- `INDV.L` Indivior：成瘾治疗药物公司。 `13F 占比 2.0%`
-- `VIST` Vista Energy：拉美油气勘探与生产公司。 `13F 占比 2.0%`
-
-### 变化摘要（Q4 2025 vs Q3 2025）
-
-- 新进前 10：SMH VanEck Semiconductor ETF（PUT）、INDV.L Indivior、B Barrick Mining
-- 退出前 10：ORCL Oracle（PUT）、TLNE Talen Energy、STKL SunOpta
-- 显著加仓：无明显加仓
-- 显著减仓：TRMD-A.CO TORM（-5.4 pct）、GTX Garrett Motion（-2.5 pct）
-- 过去一年最稳定的核心：CHK Expand Energy、TRMD-A.CO TORM、AU AngloGold Ashanti、GTX Garrett Motion、SPY SPDR S&P 500 ETF Trust（PUT）
+- 持仓总市值变化：从 `$7.03bn` 到 `$6.28bn`，下降 `-$0.74bn`（-10.6%）。粗拆：主动仓位变化 `$6.57bn`，价格变化 `-$7.31bn`；价格变化是主因，主动仓位变化部分抵消。
+- 新进前 10：QQQ put, SPY put, Core Scientific, Sunopta
+- 退出前 10：Vaneck Semiconductor Etf put, State Street put, Indivior Pharmaceuticals, Barrick Mining
+- 权重上升：Torm（+3.2 pct）, Expand Energy（+1.1 pct）, Sunopta（+1.0 pct）, American Water Capital（+0.8 pct）, Telephone And Data（+0.7 pct）
+- 权重下降：Indivior Pharmaceuticals（-3.5 pct）, Talen Energy call（-0.8 pct）, Viper Energy（-0.6 pct）, Cemex Sab De（-0.4 pct）, Alarmcom Holdings（-0.4 pct）
+- 显著加仓：Indivior Pharmaceuticals（股数 +205,766,784，+2894.6%）, American Water Capital（股数 +52,495,000，+1532.3%）, COIN（股数 +44,487,000，+423.3%）, Bentley Systems（股数 +40,265,000，+598.3%）, Unity Software（股数 +26,865,000，+296.0%）
+- 显著减仓：Viper Energy（股数 -2,493,630，-39.7%）, Talen Energy call（股数 -150,000，-50.0%）, Anglogold Ashanti（股数 -624,899，-16.2%）, Torm（股数 -2,585,484，-9.8%）, Nokia Oyj（股数 -7,551,921，-40.3%）
 
 ### 数据来源
 
-- [13f.info manager page](https://13f.info/manager/0000949509-oaktree-capital-management-lp)：用于读取近四个已披露季度的结构化 13F 持仓表。
-- [SEC EDGAR 13F filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=949509&type=13F-HR&owner=exclude&count=40)：原始 filing 查询入口。
+- [SEC 13F Q1 2026 filing detail](https://www.sec.gov/Archives/edgar/data/949509/000094950926000002/0000949509-26-000002-index.html)
+- [SEC 13F Q4 2025 filing detail](https://www.sec.gov/Archives/edgar/data/949509/000094950926000001/0000949509-26-000001-index.html)
+- [SEC 13F Q3 2025 filing detail](https://www.sec.gov/Archives/edgar/data/949509/000094950925000007/0000949509-25-000007-index.html)
+- [SEC 13F Q2 2025 filing detail](https://www.sec.gov/Archives/edgar/data/949509/000094950925000004/0000949509-25-000004-index.html)
 
 ## 机构传承
 

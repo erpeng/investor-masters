@@ -41,75 +41,78 @@ Bridgewater 在现有资料里最有辨识度的文化，不是“聪明人很�
 
 ### 怎么看这组披露
 
-13F 只覆盖美国公开股票多头及部分期权披露，且有季度滞后，不代表机构完整组合。
-对 Bridgewater 这类宏观机构，13F 只展示公开股票与 ETF 这一小块账面，真正的宏观表达远不止这张表。
+13F 只覆盖美国公开股票多头及部分期权披露，且有季度滞后，不代表机构完整组合；`持仓总市值变化` 也只是这张 13F 表内的可见市值变化。
 
 ### 近四个已披露季度前 10 大持仓
 
+#### Q1 2026
+
+- `SPY` State Str Spdr S&P 500 Etf T：`13F 占比 12.7%`，市值约 `$2.84bn`，股数/份额 `4,364,862`。
+- `IVV` Ishares Tr：`13F 占比 8.9%`，市值约 `$1.99bn`，股数/份额 `5,067,905`。
+- `AMZN` Amazon Com Inc：`13F 占比 4.1%`，市值约 `$0.91bn`，股数/份额 `4,388,711`。
+- `NVDA` Nvidia Corporation：`13F 占比 3.7%`，市值约 `$0.82bn`，股数/份额 `4,693,003`。
+- `GOOGL` Alphabet Inc：`13F 占比 3.1%`，市值约 `$0.69bn`，股数/份额 `2,384,676`。
+- `AVGO` Broadcom Inc：`13F 占比 2.5%`，市值约 `$0.57bn`，股数/份额 `1,835,380`。
+- `Micron Technology` Micron Technology Inc：`13F 占比 2.2%`，市值约 `$0.50bn`，股数/份额 `1,475,704`。
+- `Ishares` Ishares Inc：`13F 占比 1.8%`，市值约 `$0.41bn`，股数/份额 `4,375,869`。
+- `MSFT` Microsoft Corp：`13F 占比 1.8%`，市值约 `$0.40bn`，股数/份额 `1,084,979`。
+- `GEV` Ge Vernova Inc：`13F 占比 1.7%`，市值约 `$0.38bn`，股数/份额 `434,897`。
+
 #### Q4 2025
 
-- `SPY` SPDR S&P 500 ETF Trust：跟踪标普 500 指数的大型 ETF。 `13F 占比 11.1%`
-- `IVV` iShares Core S&P 500 ETF：跟踪标普 500 指数的大型 ETF。 `13F 占比 10.5%`
-- `NVDA` Nvidia：AI 芯片与算力平台核心承接者。 `13F 占比 2.6%`
-- `LRCX` Lam Research：半导体设备与制程工具供应商。 `13F 占比 1.9%`
-- `CRM` Salesforce：企业销售、客服与自动化软件平台。 `13F 占比 1.9%`
-- `GOOGL` Alphabet：搜索、广告、云与 AI 平台。 `13F 占比 1.8%`
-- `MSFT` Microsoft：企业软件、云与生产力平台。 `13F 占比 1.7%`
-- `AMZN` Amazon：电商、云计算与物流平台。 `13F 占比 1.6%`
-- `ADBE` Adobe：创意工具、文档与营销软件平台。 `13F 占比 1.6%`
-- `GEV` GE Vernova：电网、发电与能源设备平台。 `13F 占比 1.6%`
+- `IVV` Ishares Tr：`13F 占比 11.4%`，市值约 `$3.14bn`，股数/份额 `6,849,661`。
+- `SPY` Spdr S&P 500 Etf Tr：`13F 占比 11.1%`，市值约 `$3.04bn`，股数/份额 `4,455,413`。
+- `NVDA` Nvidia Corporation：`13F 占比 2.6%`，市值约 `$0.72bn`，股数/份额 `3,865,205`。
+- `Lam Research` Lam Research Corp：`13F 占比 1.9%`，市值约 `$0.52bn`，股数/份额 `3,041,661`。
+- `Salesforce` Salesforce Inc：`13F 占比 1.9%`，市值约 `$0.51bn`，股数/份额 `1,932,066`。
+- `GOOGL` Alphabet Inc：`13F 占比 1.8%`，市值约 `$0.50bn`，股数/份额 `1,590,826`。
+- `MSFT` Microsoft Corp：`13F 占比 1.7%`，市值约 `$0.48bn`，股数/份额 `984,091`。
+- `AMZN` Amazon Com Inc：`13F 占比 1.6%`，市值约 `$0.45bn`，股数/份额 `1,948,254`。
+- `Adobe` Adobe Inc：`13F 占比 1.6%`，市值约 `$0.45bn`，股数/份额 `1,275,055`。
+- `GEV` Ge Vernova Inc：`13F 占比 1.6%`，市值约 `$0.44bn`，股数/份额 `665,997`。
 
 #### Q3 2025
 
-- `IVV` iShares Core S&P 500 ETF：跟踪标普 500 指数的大型 ETF。 `13F 占比 10.6%`
-- `SPY` SPDR S&P 500 ETF Trust：跟踪标普 500 指数的大型 ETF。 `13F 占比 6.7%`
-- `GOOGL` Alphabet：搜索、广告、云与 AI 平台。 `13F 占比 2.5%`
-- `MSFT` Microsoft：企业软件、云与生产力平台。 `13F 占比 2.2%`
-- `CRM` Salesforce：企业销售、客服与自动化软件平台。 `13F 占比 1.9%`
-- `NVDA` Nvidia：AI 芯片与算力平台核心承接者。 `13F 占比 1.8%`
-- `LRCX` Lam Research：半导体设备与制程工具供应商。 `13F 占比 1.8%`
-- `ADBE` Adobe：创意工具、文档与营销软件平台。 `13F 占比 1.7%`
-- `BKNG` Booking Holdings：全球在线旅游预订平台。 `13F 占比 1.6%`
-- `GEV` GE Vernova：电网、发电与能源设备平台。 `13F 占比 1.6%`
+- `IVV` Ishares Tr：`13F 占比 11.5%`，市值约 `$2.95bn`，股数/份额 `6,374,234`。
+- `SPY` Spdr S&P 500 Etf Tr：`13F 占比 6.7%`，市值约 `$1.71bn`，股数/份额 `2,565,088`。
+- `GOOGL` Alphabet Inc：`13F 占比 2.5%`，市值约 `$0.65bn`，股数/份额 `2,653,896`。
+- `MSFT` Microsoft Corp：`13F 占比 2.2%`，市值约 `$0.57bn`，股数/份额 `1,097,169`。
+- `Salesforce` Salesforce Inc：`13F 占比 1.9%`，市值约 `$0.48bn`，股数/份额 `2,007,027`。
+- `NVDA` Nvidia Corporation：`13F 占比 1.8%`，市值约 `$0.47bn`，股数/份额 `2,509,751`。
+- `Lam Research` Lam Research Corp：`13F 占比 1.8%`，市值约 `$0.46bn`，股数/份额 `3,463,980`。
+- `Adobe` Adobe Inc：`13F 占比 1.7%`，市值约 `$0.45bn`，股数/份额 `1,262,696`。
+- `BKNG` Booking Holdings Inc：`13F 占比 1.6%`，市值约 `$0.42bn`，股数/份额 `77,731`。
+- `GEV` Ge Vernova Inc：`13F 占比 1.6%`，市值约 `$0.40bn`，股数/份额 `651,092`。
 
 #### Q2 2025
 
-- `SPY` SPDR S&P 500 ETF Trust：跟踪标普 500 指数的大型 ETF。 `13F 占比 6.5%`
-- `IVV` iShares Core S&P 500 ETF：跟踪标普 500 指数的大型 ETF。 `13F 占比 5.8%`
-- `NVDA` Nvidia：AI 芯片与算力平台核心承接者。 `13F 占比 4.6%`
-- `IEMG` iShares Core MSCI Emerging Markets ETF：覆盖新兴市场股票的大型 ETF。 `13F 占比 4.2%`
-- `GOOGL` Alphabet：搜索、广告、云与 AI 平台。 `13F 占比 4.0%`
-- `MSFT` Microsoft：企业软件、云与生产力平台。 `13F 占比 3.4%`
-- `META` Meta Platforms：社交广告与 AI 分发平台。 `13F 占比 2.4%`
-- `CRM` Salesforce：企业销售、客服与自动化软件平台。 `13F 占比 1.8%`
-- `BKNG` Booking Holdings：全球在线旅游预订平台。 `13F 占比 1.8%`
-- `GEV` GE Vernova：电网、发电与能源设备平台。 `13F 占比 1.7%`
+- `IVV` Ishares Tr：`13F 占比 6.8%`，市值约 `$1.69bn`，股数/份额 `4,812,584`。
+- `SPY` Spdr S&P 500 Etf Tr：`13F 占比 6.5%`，市值约 `$1.61bn`，股数/份额 `2,610,360`。
+- `Ishares` Ishares Inc：`13F 占比 4.7%`，市值约 `$1.16bn`，股数/份额 `18,922,977`。
+- `NVDA` Nvidia Corporation：`13F 占比 4.6%`，市值约 `$1.14bn`，股数/份额 `7,229,134`。
+- `GOOGL` Alphabet Inc：`13F 占比 4.0%`，市值约 `$0.99bn`，股数/份额 `5,600,424`。
+- `MSFT` Microsoft Corp：`13F 占比 3.4%`，市值约 `$0.85bn`，股数/份额 `1,715,057`。
+- `META` Meta Platforms Inc：`13F 占比 2.4%`，市值约 `$0.60bn`，股数/份额 `807,073`。
+- `Salesforce` Salesforce Inc：`13F 占比 1.8%`，市值约 `$0.45bn`，股数/份额 `1,639,601`。
+- `BKNG` Booking Holdings Inc：`13F 占比 1.8%`，市值约 `$0.44bn`，股数/份额 `76,153`。
+- `GEV` Ge Vernova Inc：`13F 占比 1.7%`，市值约 `$0.41bn`，股数/份额 `778,263`。
 
-#### Q1 2025
+### 变化摘要（Q1 2026 vs Q4 2025）
 
-- `SPY` SPDR S&P 500 ETF Trust：跟踪标普 500 指数的大型 ETF。 `13F 占比 8.7%`
-- `IVV` iShares Core S&P 500 ETF：跟踪标普 500 指数的大型 ETF。 `13F 占比 5.7%`
-- `IEMG` iShares Core MSCI Emerging Markets ETF：覆盖新兴市场股票的大型 ETF。 `13F 占比 4.7%`
-- `BABA` Alibaba：中国电商、云与数字商业平台。 `13F 占比 3.5%`
-- `GOOGL` Alphabet：搜索、广告、云与 AI 平台。 `13F 占比 2.2%`
-- `GLD` SPDR Gold Trust：跟踪黄金价格的大型 ETF。 `13F 占比 1.5%`
-- `BKNG` Booking Holdings：全球在线旅游预订平台。 `13F 占比 1.4%`
-- `NVDA` Nvidia：AI 芯片与算力平台核心承接者。 `13F 占比 1.4%`
-- `MSFT` Microsoft：企业软件、云与生产力平台。 `13F 占比 1.4%`
-- `CRM` Salesforce：企业销售、客服与自动化软件平台。 `13F 占比 1.3%`
-
-### 变化摘要（Q4 2025 vs Q3 2025）
-
-- 新进前 10：AMZN Amazon
-- 退出前 10：BKNG Booking Holdings
-- 显著加仓：SPY SPDR S&P 500 ETF Trust（+4.4 pct）、NVDA Nvidia（+0.8 pct）
-- 显著减仓：GOOGL Alphabet（-0.7 pct）、MSFT Microsoft（-0.5 pct）
-- 过去一年最稳定的核心：SPY SPDR S&P 500 ETF Trust、IVV iShares Core S&P 500 ETF、NVDA Nvidia、CRM Salesforce、GOOGL Alphabet、MSFT Microsoft
+- 持仓总市值变化：从 `$27.42bn` 到 `$22.40bn`，下降 `-$5.02bn`（-18.3%）。粗拆：主动仓位变化 `-$4.54bn`，价格变化 `-$0.48bn`；主要由主动仓位变化拖累。
+- 新进前 10：AVGO, Micron Technology, Ishares
+- 退出前 10：Lam Research, Salesforce, Adobe
+- 权重上升：AMZN（+2.4 pct）, SPY（+1.6 pct）, Micron Technology（+1.3 pct）, GOOGL（+1.2 pct）, AVGO（+1.1 pct）
+- 权重下降：IVV（-2.6 pct）, Adobe（-1.6 pct）, BKNG（-1.6 pct）, MA（-0.8 pct）, Paypal Hldgs（-0.7 pct）
+- 显著加仓：AMZN（股数 +2,440,457，+125.3%）, GOOGL（股数 +793,850，+49.9%）, AVGO（股数 +669,640，+57.4%）, Micron Technology（股数 +586,064，+65.9%）, NVDA（股数 +827,798，+21.4%）
+- 显著减仓：IVV（股数 -1,781,756，-26.0%）, Adobe（股数 -1,273,743，-99.9%）, BKNG（股数 -80,474，-99.9%）, Lam Research（股数 -1,470,432，-48.3%）, MA（股数 -405,277，-99.0%）
 
 ### 数据来源
 
-- [13f.info manager page](https://13f.info/manager/0001350694-bridgewater-associates-lp)：用于读取近四个已披露季度的结构化 13F 持仓表。
-- [SEC EDGAR 13F filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1350694&type=13F-HR&owner=exclude&count=40)：原始 filing 查询入口。
+- [SEC 13F Q1 2026 filing detail](https://www.sec.gov/Archives/edgar/data/1350694/000135069426000002/0001350694-26-000002-index.html)
+- [SEC 13F Q4 2025 filing detail](https://www.sec.gov/Archives/edgar/data/1350694/000135069426000001/0001350694-26-000001-index.html)
+- [SEC 13F Q3 2025 filing detail](https://www.sec.gov/Archives/edgar/data/1350694/000117266125004777/0001172661-25-004777-index.html)
+- [SEC 13F Q2 2025 filing detail](https://www.sec.gov/Archives/edgar/data/1350694/000117266125003151/0001172661-25-003151-index.html)
 
 ## 机构传承
 

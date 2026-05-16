@@ -55,78 +55,78 @@ Third Point 官方策略页几乎把它的骨架写成了一句话：
 
 ### 怎么看这组披露
 
-Third Point 的 13F 有用，但只能当 `公开股票多头切片` 读：
+13F 只覆盖美国公开股票多头及部分期权披露，且有季度滞后，不代表机构完整组合；`持仓总市值变化` 也只是这张 13F 表内的可见市值变化。
 
-- 不代表信用、结构化产品、私募和其他仓位
-- 也不代表 主动推动 / catalyst 整体路径
+### 近四个已披露季度前 10 大持仓
 
-### 近四个已披露季度前 10 大公开头寸
+#### Q1 2026
+
+- `AMZN` Amazon Com Inc：`13F 占比 19.4%`，市值约 `$0.40bn`，股数/份额 `1,940,000`。
+- `Telephone Data Sys` Telephone & Data Sys Inc：`13F 占比 13.3%`，市值约 `$0.28bn`，股数/份额 `6,600,000`。
+- `CRH` Crh Plc：`13F 占比 9.6%`，市值约 `$0.20bn`，股数/份额 `1,900,000`。
+- `Somnigroup International` Somnigroup International Inc：`13F 占比 8.1%`，市值约 `$0.17bn`，股数/份额 `2,270,769`。
+- `Carpenter Technology` Carpenter Technology Corp：`13F 占比 5.9%`，市值约 `$0.12bn`，股数/份额 `310,000`。
+- `Mastec` Mastec Inc：`13F 占比 4.9%`，市值约 `$0.10bn`，股数/份额 `320,000`。
+- `Danaher Del` Danaher Corp Del：`13F 占比 4.8%`，市值约 `$0.10bn`，股数/份额 `525,000`。
+- `TSM` Taiwan Semiconductor Manufac：`13F 占比 4.5%`，市值约 `$0.09bn`，股数/份额 `275,000`。
+- `Api Group` Api Group Corp：`13F 占比 3.9%`，市值约 `$0.08bn`，股数/份额 `2,030,000`。
+- `LYV` Live Nation Entertainment In：`13F 占比 3.4%`，市值约 `$0.07bn`，股数/份额 `465,000`。
 
 #### Q4 2025
 
-- `PG&E`：美国加州公用事业与电网更新主轴仓位。 `13F 占比 7.6%`
-- `英伟达`：AI 芯片与算力平台核心承接者。 `13F 占比 7.6%`
-- `亚马逊`：电商、云与基础设施平台。 `13F 占比 6.9%`
-- `微软`：企业软件、云与 AI 平台。 `13F 占比 6.2%`
-- `Union Pacific`：美国铁路与工业基础设施网络。 `13F 占比 5.8%`
-- `CRH`：建材、基建材料与现实资产平台。 `13F 占比 4.5%`
-- `Somnigroup`：睡眠产品与品牌渠道平台。 `13F 占比 4.2%`
-- `Brookfield`：另类资管、基础设施与信用平台。 `13F 占比 3.9%`
-- `Norfolk Southern`：美国铁路网络与运力基础设施。 `13F 占比 3.9%`
-- `Telephone & Data Systems`：区域通信与资产重组型特殊情境。 `13F 占比 3.8%`
+- `PCG` Pg&E Corp：`13F 占比 7.8%`，市值约 `$0.57bn`，股数/份额 `44,440,000`。
+- `NVDA` Nvidia Corporation：`13F 占比 7.6%`，市值约 `$0.55bn`，股数/份额 `2,950,000`。
+- `AMZN` Amazon Com Inc：`13F 占比 6.9%`，市值约 `$0.50bn`，股数/份额 `2,165,000`。
+- `MSFT` Microsoft Corp：`13F 占比 6.1%`，市值约 `$0.45bn`，股数/份额 `925,000`。
+- `UNP` Union Pac Corp：`13F 占比 5.8%`，市值约 `$0.42bn`，股数/份额 `1,810,000`。
+- `CRH` Crh Plc：`13F 占比 4.5%`，市值约 `$0.32bn`，股数/份额 `2,600,000`。
+- `Somnigroup International` Somnigroup International Inc：`13F 占比 4.2%`，市值约 `$0.30bn`，股数/份额 `3,400,000`。
+- `BN` Brookfield Corp：`13F 占比 3.9%`，市值约 `$0.28bn`，股数/份额 `6,200,000`。
+- `Norfolk Southn` Norfolk Southn Corp：`13F 占比 3.9%`，市值约 `$0.28bn`，股数/份额 `975,000`。
+- `Telephone Data Sys` Telephone & Data Sys Inc：`13F 占比 3.8%`，市值约 `$0.27bn`，股数/份额 `6,675,000`。
 
 #### Q3 2025
 
-- `PG&E`：美国加州公用事业与治理推动主轴。 `13F 占比 8.4%`
-- `亚马逊`：电商、云与基础设施平台。 `13F 占比 6.9%`
-- `SPY put`：标普 500 ETF 的保护性对冲腿。 `13F 占比 6.5%`
-- `微软`：企业软件、云与 AI 平台。 `13F 占比 6.3%`
-- `英伟达`：AI 芯片与算力平台。 `13F 占比 5.9%`
-- `Norfolk Southern`：美国铁路与工业基础设施网络。 `13F 占比 5.5%`
-- `Brookfield`：另类资管、基础设施与信用平台。 `13F 占比 3.6%`
-- `台积电`：先进制程晶圆代工龙头。 `13F 占比 3.4%`
-- `Capital One`：信用卡与消费金融平台。 `13F 占比 3.3%`
-- `Casey's`：便利零售与加油站网络。 `13F 占比 3.1%`
+- `PCG` Pg&E Corp：`13F 占比 8.6%`，市值约 `$0.77bn`，股数/份额 `60,240,000`。
+- `AMZN` Amazon Com Inc：`13F 占比 6.9%`，市值约 `$0.62bn`，股数/份额 `2,810,000`。
+- `SPY` Spdr S&P 500 Etf Tr put：`13F 占比 6.5%`，市值约 `$0.58bn`，股数/份额 `875,000`。
+- `MSFT` Microsoft Corp：`13F 占比 6.3%`，市值约 `$0.57bn`，股数/份额 `1,100,000`。
+- `NVDA` Nvidia Corporation：`13F 占比 5.9%`，市值约 `$0.53bn`，股数/份额 `2,850,000`。
+- `Norfolk Southn` Norfolk Southn Corp：`13F 占比 5.5%`，市值约 `$0.50bn`，股数/份额 `1,650,000`。
+- `BN` Brookfield Corp：`13F 占比 3.6%`，市值约 `$0.32bn`，股数/份额 `4,675,000`。
+- `TSM` Taiwan Semiconductor Mfg Ltd：`13F 占比 3.4%`，市值约 `$0.31bn`，股数/份额 `1,100,000`。
+- `COF` Capital One Finl Corp：`13F 占比 3.3%`，市值约 `$0.29bn`，股数/份额 `1,385,000`。
+- `FLTR` Flutter Entmt Plc：`13F 占比 3.2%`，市值约 `$0.28bn`，股数/份额 `1,120,000`。
 
 #### Q2 2025
 
-- `PG&E`：美国加州公用事业与治理推动主轴。 `13F 占比 9.3%`
-- `亚马逊`：电商、云与基础设施平台。 `13F 占比 7.8%`
-- `英伟达`：AI 芯片与算力平台。 `13F 占比 5.8%`
-- `Capital One`：信用卡与消费金融平台。 `13F 占比 5.0%`
-- `台积电`：先进制程晶圆代工龙头。 `13F 占比 4.3%`
-- `Flutter`：在线博彩与体育娱乐平台。 `13F 占比 4.0%`
-- `Live Nation`：现场演出、票务与场馆平台。 `13F 占比 3.9%`
-- `Brookfield`：另类资管、基础设施与信用平台。 `13F 占比 3.8%`
-- `CoStar`：地产数据与垂直信息服务平台。 `13F 占比 3.3%`
-- `Vistra`：发电、售电与电力资产运营平台。 `13F 占比 3.2%`
+- `PCG` Pg&E Corp：`13F 占比 9.5%`，市值约 `$0.73bn`，股数/份额 `61,240,000`。
+- `AMZN` Amazon Com Inc：`13F 占比 7.8%`，市值约 `$0.59bn`，股数/份额 `2,710,000`。
+- `NVDA` Nvidia Corporation：`13F 占比 5.8%`，市值约 `$0.44bn`，股数/份额 `2,800,000`。
+- `COF` Capital One Finl Corp：`13F 占比 5.0%`，市值约 `$0.38bn`，股数/份额 `1,804,204`。
+- `TSM` Taiwan Semiconductor Mfg Ltd：`13F 占比 4.3%`，市值约 `$0.32bn`，股数/份额 `1,430,000`。
+- `FLTR` Flutter Entmt Plc：`13F 占比 4.0%`，市值约 `$0.31bn`，股数/份额 `1,070,000`。
+- `LYV` Live Nation Entertainment In：`13F 占比 3.9%`，市值约 `$0.30bn`，股数/份额 `1,975,000`。
+- `BN` Brookfield Corp：`13F 占比 3.8%`，市值约 `$0.29bn`，股数/份额 `4,675,000`。
+- `Apollo Global Mgmt` Apollo Global Mgmt Inc：`13F 占比 3.3%`，市值约 `$0.25bn`，股数/份额 `2,175,000`。
+- `Costar Group` Costar Group Inc：`13F 占比 3.3%`，市值约 `$0.25bn`，股数/份额 `3,085,000`。
 
-#### Q1 2025
+### 变化摘要（Q1 2026 vs Q4 2025）
 
-- `PG&E`：美国加州公用事业与治理推动主轴。 `13F 占比 13.4%`
-- `亚马逊`：电商、云与基础设施平台。 `13F 占比 6.8%`
-- `Live Nation`：现场演出、票务与场馆平台。 `13F 占比 4.2%`
-- `Telephone & Data Systems`：区域通信与资产重组型特殊情境。 `13F 占比 4.0%`
-- `CRH`：建材、基建材料与现实资产平台。 `13F 占比 3.6%`
-- `Brookfield`：另类资管、基础设施与信用平台。 `13F 占比 3.4%`
-- `Flutter`：在线博彩与体育娱乐平台。 `13F 占比 3.3%`
-- `Kenvue`：消费健康与日常护理品牌组合。 `13F 占比 3.3%`
-- `CoStar`：地产数据与垂直信息服务平台。 `13F 占比 3.3%`
-- `Apollo Global Management`：另类资管、信用与资本市场平台。 `13F 占比 3.1%`
-
-### 变化摘要（Q4 2025 vs Q3 2025）
-
-- `PG&E` 仍是最大公开权益头寸，但从约 `7.56` 亿美元降到 `5.51` 亿美元，说明 Third Point 在保留 主动推动型投资者 主轴的同时开始明显减仓。
-- `Union Pacific / CRH / Somnigroup` 升入前 10，而 `SPY put / 台积电 / Capital One` 退出前 10，公开切片从 `对冲 + 大型科技` 更明显转向了 `基础设施 / 工业 / 特殊情境`。
-- `亚马逊 / 微软 / 英伟达` 仍然稳居最重要的公开多头，说明 Third Point 的 book 不是纯催化剂仓位，也持续保留 `quality + platform` 的大仓位骨架。
-- 近四季串起来看，`PG&E / 亚马逊` 是最稳定的双主轴；而 `英伟达 / 台积电 / 微软 / Live Nation / Capital One` 的轮换，则更像 Dan Loeb 在 `quality / AI / consumer / event` 之间动态切换的公开痕迹。
+- 持仓总市值变化：从 `$7.27bn` 到 `$2.08bn`，下降 `-$5.19bn`（-71.4%）。粗拆：主动仓位变化 `-$5.14bn`，价格变化 `-$0.05bn`；主要由主动仓位变化拖累。
+- 新进前 10：Carpenter Technology, Mastec, Danaher Del, TSM, Api Group, LYV
+- 退出前 10：PCG, NVDA, MSFT, UNP, BN, Norfolk Southn
+- 权重上升：AMZN（+12.5 pct）, Telephone Data Sys（+9.6 pct）, CRH（+5.1 pct）, Somnigroup International（+3.9 pct）, TSM（+2.7 pct）
+- 权重下降：NVDA（-6.0 pct）, UNP（-4.6 pct）, Norfolk Southn（-2.5 pct）, COF（-2.4 pct）, Sharkninja（-1.2 pct）
+- 显著加仓：Ars Pharmaceuticals（股数 +443,763，+79.8%）
+- 显著减仓：NVDA（股数 -2,760,000，-93.6%）, UNP（股数 -1,710,000，-94.5%）, Norfolk Southn（股数 -875,000，-89.7%）, COF（股数 -960,000，-87.3%）, LYV（股数 -1,260,000，-73.0%）
 
 ### 数据来源
 
-- [SEC 13F filing detail - Q4 2025](https://www.sec.gov/Archives/edgar/data/1040273/000104027326000001000104027326000001/0001040273-26-000001-index.htm)
-- [SEC 13F filing detail - Q3 2025](https://www.sec.gov/Archives/edgar/data/1040273/000104027325000003/0001040273-25-000003-index.htm)
-- [SEC 13F filing detail - Q2 2025](https://www.sec.gov/Archives/edgar/data/1040273/000108514625005277/0001085146-25-005277-index.html)
-- [SEC 13F filing detail - Q1 2025](https://www.sec.gov/Archives/edgar/data/1040273/0001085146-25-003337-index.htm)
+- [SEC 13F Q1 2026 filing detail](https://www.sec.gov/Archives/edgar/data/1040273/000104027326000002/0001040273-26-000002-index.html)
+- [SEC 13F Q4 2025 filing detail](https://www.sec.gov/Archives/edgar/data/1040273/000104027326000001/0001040273-26-000001-index.html)
+- [SEC 13F Q3 2025 filing detail](https://www.sec.gov/Archives/edgar/data/1040273/000104027325000003/0001040273-25-000003-index.html)
+- [SEC 13F Q2 2025 filing detail](https://www.sec.gov/Archives/edgar/data/1040273/000108514625005277/0001085146-25-005277-index.html)
 
 ## 相关公司样本
 

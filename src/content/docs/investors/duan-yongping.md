@@ -9,9 +9,9 @@ description: "把“不懂不碰”执行到生活方式里的投资人。"
 
 > “所有的成功，都来自于本分+平常心。”
 
-**所属机构**: 独立  
+**所属机构**: [H&H International Investment](/investor-masters/institutions/h-h-international-investment/)  
 **年化收益率**: 未公开  
-**代表性持仓**: 苹果、腾讯  
+**代表性持仓**: 苹果、BRK.B、英伟达、拼多多  
 **核心方法**: 本分 / 看懂 / 打孔机
 
 ## 简介
@@ -20,7 +20,7 @@ description: "把“不懂不碰”执行到生活方式里的投资人。"
 
 他的特别之处在于，几乎不把投资讲成技巧，而更像讲一种生活纪律。无论谈企业、股票还是错误，他最后都回到几个很少变的词：本分、平常心、看懂、想不通不碰。
 
-验证卡：现有资料不是完整业绩档案，更多是方法、持仓和判断表达。但段永平在这套资料里的重要性，并不依赖公开净值曲线，而依赖他在中文世界里提供了一套极少数真正可执行的长期投资语言。
+验证卡：现有资料不是完整业绩档案，更多是方法、持仓和判断表达。[H&H International Investment](/investor-masters/institutions/h-h-international-investment/) 提供了一个可验证的美国 13F 公开切片，但它仍不能代表腾讯、茅台、现金和非美资产等完整组合。段永平在这套资料里的重要性，并不依赖公开净值曲线，而依赖他在中文世界里提供了一套极少数真正可执行的长期投资语言。
 
 ## 来时路
 
@@ -145,3 +145,4 @@ description: "把“不懂不碰”执行到生活方式里的投资人。"
 - [Duan Yongping - Wikipedia](https://en.wikipedia.org/wiki/Duan_Yongping)
 - [段永平 - 维基百科](https://zh.wikipedia.org/wiki/%E6%AE%B5%E6%B0%B8%E5%B9%B3)
 - [Forbes: Buffett’s eBay Lunch](https://www.forbes.com/2006/06/30/buffett-ebay-lunch-cx_gl_0630autofacescan03.html)
+- [SEC EDGAR: H&H International Investment, LLC](https://www.sec.gov/edgar/browse/?CIK=1759760)

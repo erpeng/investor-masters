@@ -47,30 +47,78 @@ Baupost 的机构哲学可以压成一句话：`先问风险是否值得承担�
 
 ### 怎么看这组披露
 
-对 Baupost 这种跨资产机构来说，13F 的解释力是 `中等偏低`：
+13F 只覆盖美国公开股票多头及部分期权披露，且有季度滞后，不代表机构完整组合；`持仓总市值变化` 也只是这张 13F 表内的可见市值变化。
 
-- 它只展示美国公开多头和部分期权
-- 看不见高现金、债务工具、私有资产和 distress 仓位
-- 但仍然可以看见公开股票层最近把注意力放在哪些地方
+### 近四个已披露季度前 10 大持仓
 
-### 近四季前排公开多头
+#### Q1 2026
 
-- `Q4 2025`：`QSR / AMZN / WTW / ELV`
-- `Q3 2025`：`QSR / GOOG / ELV / CRH`
-- `Q2 2025`：`GOOG / WCC / WTW / CRH`
-- `Q1 2025`：`WTW / GOOG / WCC / LBTYK`
+- `AMZN` Amazon Com Inc：`13F 占比 12.7%`，市值约 `$0.65bn`，股数/份额 `3,118,754`。
+- `QSR` Restaurant Brands Intl Inc：`13F 占比 11.7%`，市值约 `$0.60bn`，股数/份额 `8,080,112`。
+- `WCC` Wesco Intl Inc：`13F 占比 7.7%`，市值约 `$0.39bn`，股数/份额 `1,436,881`。
+- `UNP` Union Pac Corp：`13F 占比 7.3%`，市值约 `$0.37bn`，股数/份额 `1,540,995`。
+- `ELV` Elevance Health Inc Formerly：`13F 占比 7.3%`，市值约 `$0.37bn`，股数/份额 `1,275,154`。
+- `GOOGL` Alphabet Inc：`13F 占比 6.6%`，市值约 `$0.34bn`，股数/份额 `1,181,131`。
+- `FERG` Ferguson Enterprises Inc：`13F 占比 6.6%`，市值约 `$0.34bn`，股数/份额 `1,442,411`。
+- `WTW` Willis Towers Watson Plc Ltd：`13F 占比 5.1%`，市值约 `$0.26bn`，股数/份额 `893,126`。
+- `AON` Aon Plc：`13F 占比 4.9%`，市值约 `$0.25bn`，股数/份额 `769,000`。
+- `V` Visa Inc：`13F 占比 4.1%`，市值约 `$0.21bn`，股数/份额 `701,355`。
 
-### 变化摘要（Q4 2025 vs Q1 2025）
+#### Q4 2025
 
-- `WTW`、`GOOG`、`QSR`、`ELV` 这组大盘高质量资产逐步成为更显性的前排表达
-- `LBTYK` 退出前排，`QSR` 在下半年明显上移
-- 公开股票切片显示，Baupost 并不等于“只买烟蒂”，而是在今天的市场里继续寻找 `便宜但不是低质` 的大型错价
+- `QSR` Restaurant Brands Intl Inc：`13F 占比 10.4%`，市值约 `$0.55bn`，股数/份额 `8,080,112`。
+- `AMZN` Amazon Com Inc：`13F 占比 9.3%`，市值约 `$0.49bn`，股数/份额 `2,121,391`。
+- `WTW` Willis Towers Watson Plc Ltd：`13F 占比 8.5%`，市值约 `$0.45bn`，股数/份额 `1,357,601`。
+- `ELV` Elevance Health Inc Formerly：`13F 占比 8.4%`，市值约 `$0.44bn`，股数/份额 `1,269,302`。
+- `UNP` Union Pac Corp：`13F 占比 7.1%`，市值约 `$0.38bn`，股数/份额 `1,627,254`。
+- `WCC` Wesco Intl Inc：`13F 占比 6.6%`，市值约 `$0.35bn`，股数/份额 `1,418,831`。
+- `GOOGL` Alphabet Inc：`13F 占比 6.5%`，市值约 `$0.34bn`，股数/份额 `1,087,181`。
+- `FIS` Fidelity Natl Information Sv：`13F 占比 5.7%`，市值约 `$0.30bn`，股数/份额 `4,503,801`。
+- `DG` Dollar Gen Corp New：`13F 占比 5.2%`，市值约 `$0.27bn`，股数/份额 `2,062,821`。
+- `LBTYK` Liberty Global Ltd：`13F 占比 4.8%`，市值约 `$0.25bn`，股数/份额 `22,965,237`。
 
-这与卡拉曼的最新表达是一致的：Baupost 不是只守旧式低估值股票，而是继续用风险收益比语言跨资产、跨风格地找机会。
+#### Q3 2025
+
+- `QSR` Restaurant Brands Intl Inc：`13F 占比 11.0%`，市值约 `$0.53bn`，股数/份额 `8,252,862`。
+- `GOOGL` Alphabet Inc：`13F 占比 9.4%`，市值约 `$0.45bn`，股数/份额 `1,858,138`。
+- `ELV` Elevance Health Inc Formerly：`13F 占比 8.9%`，市值约 `$0.43bn`，股数/份额 `1,319,000`。
+- `CRH` Crh Plc：`13F 占比 8.5%`，市值约 `$0.41bn`，股数/份额 `3,383,395`。
+- `WTW` Willis Towers Watson Plc Ltd：`13F 占比 7.9%`，市值约 `$0.38bn`，股数/份额 `1,089,065`。
+- `UNP` Union Pac Corp：`13F 占比 7.4%`，市值约 `$0.35bn`，股数/份额 `1,496,204`。
+- `WCC` Wesco Intl Inc：`13F 占比 6.6%`，市值约 `$0.32bn`，股数/份额 `1,503,180`。
+- `LBTYK` Liberty Global Ltd：`13F 占比 6.5%`，市值约 `$0.31bn`，股数/份额 `26,734,565`。
+- `DG` Dollar Gen Corp New：`13F 占比 5.8%`，市值约 `$0.28bn`，股数/份额 `2,666,876`。
+- `FERG` Ferguson Enterprises Inc：`13F 占比 5.4%`，市值约 `$0.26bn`，股数/份额 `1,155,500`。
+
+#### Q2 2025
+
+- `GOOGL` Alphabet Inc：`13F 占比 11.3%`，市值约 `$0.47bn`，股数/份额 `2,633,988`。
+- `WCC` Wesco Intl Inc：`13F 占比 9.9%`，市值约 `$0.41bn`，股数/份额 `2,207,601`。
+- `WTW` Willis Towers Watson Plc Ltd：`13F 占比 9.8%`，市值约 `$0.40bn`，股数/份额 `1,314,184`。
+- `CRH` Crh Plc：`13F 占比 8.5%`，市值约 `$0.35bn`，股数/份额 `3,825,395`。
+- `FIS` Fidelity Natl Information Sv：`13F 占比 7.5%`，市值约 `$0.31bn`，股数/份额 `3,789,711`。
+- `LBTYK` Liberty Global Ltd：`13F 占比 7.4%`，市值约 `$0.31bn`，股数/份额 `29,734,565`。
+- `DG` Dollar Gen Corp New：`13F 占比 7.4%`，市值约 `$0.31bn`，股数/份额 `2,666,876`。
+- `QSR` Restaurant Brands Intl Inc：`13F 占比 6.5%`，市值约 `$0.27bn`，股数/份额 `4,049,562`。
+- `FERG` Ferguson Enterprises Inc：`13F 占比 6.0%`，市值约 `$0.25bn`，股数/份额 `1,132,000`。
+- `ELV` Elevance Health Inc：`13F 占比 5.8%`，市值约 `$0.24bn`，股数/份额 `616,000`。
+
+### 变化摘要（Q1 2026 vs Q4 2025）
+
+- 持仓总市值变化：从 `$5.28bn` 到 `$5.12bn`，下降 `-$0.16bn`（-3.1%）。粗拆：主动仓位变化 `-$0.00bn`，价格变化 `-$0.16bn`；主要由价格变化拖累。
+- 新进前 10：FERG, AON, V
+- 退出前 10：FIS, DG, LBTYK
+- 权重上升：AMZN（+3.4 pct）, FERG（+1.8 pct）, QSR（+1.2 pct）, WCC（+1.1 pct）, Americold Realty Trust（+0.9 pct）
+- 权重下降：WTW（-3.4 pct）, LBTYK（-1.7 pct）, EXP（-1.3 pct）, ELV（-1.1 pct）, Grupo Aeromexico Sab（-0.7 pct）
+- 显著加仓：AMZN（股数 +997,363，+47.0%）, FERG（股数 +305,376，+26.9%）, Americold Realty Trust（股数 +4,305,115，+123.9%）, GOOGL（股数 +93,950，+8.6%）, WCC（股数 +18,050，+1.3%）
+- 显著减仓：WTW（股数 -464,475，-34.2%）, LBTYK（股数 -9,567,990，-41.7%）, EXP（股数 -292,485，-24.7%）, UNP（股数 -86,259，-5.3%）
 
 ### 数据来源
 
-- [Baupost Group manager page on 13f.info](https://13f.info/manager/0001061768-baupost-group-llc-ma)
+- [SEC 13F Q1 2026 filing detail](https://www.sec.gov/Archives/edgar/data/1061768/000106176826000007/0001061768-26-000007-index.html)
+- [SEC 13F Q4 2025 filing detail](https://www.sec.gov/Archives/edgar/data/1061768/000106176826000005/0001061768-26-000005-index.html)
+- [SEC 13F Q3 2025 filing detail](https://www.sec.gov/Archives/edgar/data/1061768/000106176825000007/0001061768-25-000007-index.html)
+- [SEC 13F Q2 2025 filing detail](https://www.sec.gov/Archives/edgar/data/1061768/000106176825000005/0001061768-25-000005-index.html)
 
 ## 机构传承
 

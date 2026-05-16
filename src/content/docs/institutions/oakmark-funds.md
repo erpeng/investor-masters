@@ -42,14 +42,79 @@ Oakmark 的文化不是单一明星经理拍脑袋。访谈里尼格伦反复强
 
 ### 怎么看这组披露
 
-Oakmark 是基金品牌，Harris Associates 是管理公司。13F 只能近似观察 Harris Associates 层面的美国公开股票多头，不能直接等同于某一只 Oakmark 基金的完整组合。对 Oakmark 这类公募价值平台，更好的读法是把 13F、官方 factsheet 和基金季度报告放在一起交叉看。
+13F 只覆盖美国公开股票多头及部分期权披露，且有季度滞后，不代表机构完整组合；`持仓总市值变化` 也只是这张 13F 表内的可见市值变化。
+Oakmark 是基金品牌；这里使用管理公司 Harris Associates L.P. 的 13F 作为机构级公开美股切片。
 
-当前本轮先记录口径，不手工填入未核验的近四季度明细。后续若做 Oakmark 跟踪台，应优先使用 Oakmark 官方基金持仓和 Harris Associates 13F 双口径，并标明基金级与机构级差异。
+### 近四个已披露季度前 10 大持仓
+
+#### Q1 2026
+
+- `Salesforce` Salesforce Inc：`13F 占比 3.7%`，市值约 `$2.78bn`，股数/份额 `14,917,993`。
+- `GOOGL` Alphabet Inc：`13F 占比 3.6%`，市值约 `$2.67bn`，股数/份额 `9,281,108`。
+- `ICE` Intercontinental Exchange In：`13F 占比 3.4%`，市值约 `$2.57bn`，股数/份额 `16,342,258`。
+- `Keurig Dr Pepper` Keurig Dr Pepper Inc：`13F 占比 3.3%`，市值约 `$2.45bn`，股数/份额 `93,082,313`。
+- `Airbnb` Airbnb Inc：`13F 占比 3.2%`，市值约 `$2.42bn`，股数/份额 `19,162,235`。
+- `Conocophillips` Conocophillips：`13F 占比 3.1%`，市值约 `$2.30bn`，股数/份额 `17,428,651`。
+- `Targa Res` Targa Res Corp：`13F 占比 2.9%`，市值约 `$2.19bn`，股数/份额 `8,723,203`。
+- `Iqvia Hldgs` Iqvia Hldgs Inc：`13F 占比 2.8%`，市值约 `$2.08bn`，股数/份额 `12,183,275`。
+- `Schwab Charles` Schwab Charles Corp：`13F 占比 2.7%`，市值约 `$2.05bn`，股数/份额 `21,812,476`。
+- `COF` Capital One Finl Corp：`13F 占比 2.5%`，市值约 `$1.89bn`，股数/份额 `10,357,647`。
+
+#### Q4 2025
+
+- `GOOGL` Alphabet Inc：`13F 占比 3.9%`，市值约 `$3.09bn`，股数/份额 `9,880,151`。
+- `COF` Capital One Finl Corp：`13F 占比 3.3%`，市值约 `$2.62bn`，股数/份额 `10,825,295`。
+- `Salesforce` Salesforce Inc：`13F 占比 3.3%`，市值约 `$2.59bn`，股数/份额 `9,791,328`。
+- `Iqvia Hldgs` Iqvia Hldgs Inc：`13F 占比 3.2%`，市值约 `$2.55bn`，股数/份额 `11,319,718`。
+- `Airbnb` Airbnb Inc：`13F 占比 3.2%`，市值约 `$2.54bn`，股数/份额 `18,694,408`。
+- `ICE` Intercontinental Exchange In：`13F 占比 3.2%`，市值约 `$2.52bn`，股数/份额 `15,584,531`。
+- `Keurig Dr Pepper` Keurig Dr Pepper Inc：`13F 占比 3.1%`，市值约 `$2.42bn`，股数/份额 `86,269,175`。
+- `Warner Bros Discovery` Warner Bros Discovery Inc：`13F 占比 2.9%`，市值约 `$2.27bn`，股数/份额 `78,854,809`。
+- `Conocophillips` Conocophillips：`13F 占比 2.8%`，市值约 `$2.25bn`，股数/份额 `24,002,747`。
+- `Schwab Charles` Schwab Charles Corp：`13F 占比 2.8%`，市值约 `$2.20bn`，股数/份额 `22,031,493`。
+
+#### Q3 2025
+
+- `GOOGL` Alphabet Inc：`13F 占比 4.9%`，市值约 `$3.06bn`，股数/份额 `12,593,448`。
+- `Iqvia Hldgs` Iqvia Hldgs Inc：`13F 占比 3.5%`，市值约 `$2.16bn`，股数/份额 `11,387,265`。
+- `Schwab Charles` Schwab Charles Corp：`13F 占比 3.3%`，市值约 `$2.03bn`，股数/份额 `21,235,618`。
+- `COF` Capital One Finl Corp：`13F 占比 3.1%`，市值约 `$1.92bn`，股数/份额 `9,025,271`。
+- `Airbnb` Airbnb Inc：`13F 占比 3.0%`，市值约 `$1.88bn`，股数/份额 `15,453,931`。
+- `Warner Bros Discovery` Warner Bros Discovery Inc：`13F 占比 3.0%`，市值约 `$1.87bn`，股数/份额 `95,960,593`。
+- `Phillips 66` Phillips 66：`13F 占比 3.0%`，市值约 `$1.86bn`，股数/份额 `13,640,378`。
+- `Conocophillips` Conocophillips：`13F 占比 2.9%`，市值约 `$1.78bn`，股数/份额 `18,864,278`。
+- `ICE` Intercontinental Exchange In：`13F 占比 2.8%`，市值约 `$1.72bn`，股数/份额 `10,195,719`。
+- `Salesforce` Salesforce Inc：`13F 占比 2.7%`，市值约 `$1.67bn`，股数/份额 `7,046,580`。
+
+#### Q2 2025
+
+- `GOOGL` Alphabet Inc：`13F 占比 4.9%`，市值约 `$3.02bn`，股数/份额 `17,114,881`。
+- `COF` Capital One Finl Corp：`13F 占比 3.5%`，市值约 `$2.14bn`，股数/份额 `10,068,086`。
+- `Schwab Charles` Schwab Charles Corp：`13F 占比 3.4%`，市值约 `$2.10bn`，股数/份额 `22,969,673`。
+- `ICE` Intercontinental Exchange In：`13F 占比 3.1%`，市值约 `$1.88bn`，股数/份额 `10,270,241`。
+- `Airbnb` Airbnb Inc：`13F 占比 3.1%`，市值约 `$1.88bn`，股数/份额 `14,237,331`。
+- `Iqvia Hldgs` Iqvia Hldgs Inc：`13F 占比 3.0%`，市值约 `$1.85bn`，股数/份额 `11,753,182`。
+- `Conocophillips` Conocophillips：`13F 占比 2.8%`，市值约 `$1.74bn`，股数/份额 `19,380,459`。
+- `Phillips 66` Phillips 66：`13F 占比 2.6%`，市值约 `$1.60bn`，股数/份额 `13,449,090`。
+- `Keurig Dr Pepper` Keurig Dr Pepper Inc：`13F 占比 2.5%`，市值约 `$1.56bn`，股数/份额 `47,118,176`。
+- `Charter Communications N` Charter Communications Inc N：`13F 占比 2.4%`，市值约 `$1.50bn`，股数/份额 `3,672,367`。
+
+### 变化摘要（Q1 2026 vs Q4 2025）
+
+- 持仓总市值变化：从 `$79.12bn` 到 `$75.03bn`，下降 `-$4.09bn`（-5.2%）。粗拆：主动仓位变化 `$1.43bn`，价格变化 `-$5.52bn`；主要由价格变化拖累。
+- 新进前 10：Targa Res
+- 退出前 10：Warner Bros Discovery
+- 权重上升：NFLX（+1.3 pct）, Targa Res（+0.6 pct）, Salesforce（+0.4 pct）, Corteva（+0.4 pct）, Gartner（+0.4 pct）
+- 权重下降：Warner Bros Discovery（-1.7 pct）, Deere（-1.5 pct）, COF（-0.8 pct）, Iqvia Hldgs（-0.5 pct）, General Mtrs（-0.5 pct）
+- 显著加仓：Salesforce（股数 +5,126,665，+52.4%）, NFLX（股数 +9,827,233，+30200.5%）, Gartner（股数 +2,171,790，+225.3%）, Icon（股数 +1,841,151，+73.3%）, Fiserv（股数 +4,182,927，+26.9%）
+- 显著减仓：Warner Bros Discovery（股数 -45,980,770，-58.3%）, Deere（股数 -2,616,555，-83.5%）, Phillips 66（股数 -4,844,064，-34.7%）, Conocophillips（股数 -6,574,096，-27.4%）, Eog Res（股数 -3,241,054，-44.0%）
 
 ### 数据来源
 
-- [Oakmark funds](https://oakmark.com/our-funds/)
-- [SEC EDGAR company search](https://www.sec.gov/edgar/search/)
+- [SEC 13F Q1 2026 filing detail](https://www.sec.gov/Archives/edgar/data/813917/000081391726000038/0000813917-26-000038-index.html)
+- [SEC 13F Q4 2025 filing detail](https://www.sec.gov/Archives/edgar/data/813917/000081391726000022/0000813917-26-000022-index.html)
+- [SEC 13F Q3 2025 filing detail](https://www.sec.gov/Archives/edgar/data/813917/000081391725000007/0000813917-25-000007-index.html)
+- [SEC 13F Q2 2025 filing detail](https://www.sec.gov/Archives/edgar/data/813917/000141588925021935/0001415889-25-021935-index.html)
 
 ## 机构传承
 

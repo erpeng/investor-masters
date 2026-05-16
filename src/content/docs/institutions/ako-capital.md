@@ -44,80 +44,78 @@ AKO 的文化骨架，可以直接从尼科莱在《Capital Allocators》里的�
 
 ### 怎么看这组披露
 
-13F 只覆盖美国公开股票多头及部分期权披露，且有季度滞后，不代表机构完整组合。
-对 AKO 这种同时做全球股票、并且方法核心在长期质量复利的机构来说，13F 的解释力中等偏高：它能看出 AKO 在美国上市股票里反复拥抱哪些高质量平台与经营壁垒，但看不到完整全球组合，也看不到研究流程本身。所以这里更适合当 `公开持仓切片` 读，而不是把它误写成 AKO 全貌。
+13F 只覆盖美国公开股票多头及部分期权披露，且有季度滞后，不代表机构完整组合；`持仓总市值变化` 也只是这张 13F 表内的可见市值变化。
 
 ### 近四个已披露季度前 10 大持仓
 
+#### Q1 2026
+
+- `ALC` Alcon Ag：`13F 占比 13.6%`，市值约 `$0.70bn`，股数/份额 `9,324,656`。
+- `AMZN` Amazon Com Inc：`13F 占比 7.1%`，市值约 `$0.36bn`，股数/份额 `1,731,170`。
+- `V` Visa Inc：`13F 占比 7.0%`，市值约 `$0.36bn`，股数/份额 `1,186,931`。
+- `ADI` Analog Devices Inc：`13F 占比 6.4%`，市值约 `$0.33bn`，股数/份额 `1,029,523`。
+- `RACE` Ferrari N V：`13F 占比 6.1%`，市值约 `$0.31bn`，股数/份额 `926,523`。
+- `ICE` Intercontinental Exchange In：`13F 占比 5.7%`，市值约 `$0.29bn`，股数/份额 `1,867,549`。
+- `GE` Ge Aerospace：`13F 占比 5.5%`，市值约 `$0.28bn`，股数/份额 `996,847`。
+- `MSFT` Microsoft Corp：`13F 占比 5.3%`，市值约 `$0.27bn`，股数/份额 `735,214`。
+- `WAT` Waters Corp：`13F 占比 4.8%`，市值约 `$0.24bn`，股数/份额 `816,929`。
+- `CSCO` Cisco Sys Inc：`13F 占比 4.6%`，市值约 `$0.24bn`，股数/份额 `3,043,637`。
+
 #### Q4 2025
 
-- `FLTR.L` Flutter Entertainment：全球在线体育博彩与游戏平台。 `13F 占比 10.2%`
-- `ALC.SW` Alcon：眼科器械、手术与视力护理平台。 `13F 占比 9.3%`
-- `V` Visa：全球银行卡支付清算网络。 `13F 占比 7.7%`
-- `MSFT` Microsoft：企业软件、云与生产力平台。 `13F 占比 7.5%`
-- `AMZN` Amazon：电商、云计算与物流平台。 `13F 占比 6.1%`
-- `MCO` Moody's：评级、风险数据与固定收益信息平台。 `13F 占比 5.7%`
-- `RACE` Ferrari：极高品牌势能与稀缺供给纪律的豪车公司。 `13F 占比 5.4%`
-- `GE` GE Aerospace：商用与军用航空发动机平台。 `13F 占比 5.2%`
-- `ADI` Analog Devices：模拟芯片与工业/汽车半导体公司。 `13F 占比 5.2%`
-- `ICE` Intercontinental Exchange：交易所、清算与金融基础设施平台。 `13F 占比 5.1%`
+- `FLTR` Flutter Entmt Plc：`13F 占比 10.2%`，市值约 `$0.67bn`，股数/份额 `3,109,426`。
+- `ALC` Alcon Ag：`13F 占比 9.3%`，市值约 `$0.61bn`，股数/份额 `7,686,700`。
+- `V` Visa Inc：`13F 占比 7.7%`，市值约 `$0.50bn`，股数/份额 `1,437,967`。
+- `MSFT` Microsoft Corp：`13F 占比 7.5%`，市值约 `$0.49bn`，股数/份额 `1,020,715`。
+- `AMZN` Amazon Com Inc：`13F 占比 6.1%`，市值约 `$0.40bn`，股数/份额 `1,737,603`。
+- `MCO` Moodys Corp：`13F 占比 5.7%`，市值约 `$0.38bn`，股数/份额 `736,568`。
+- `RACE` Ferrari N V：`13F 占比 5.4%`，市值约 `$0.35bn`，股数/份额 `944,867`。
+- `GE` Ge Aerospace：`13F 占比 5.2%`，市值约 `$0.34bn`，股数/份额 `1,109,389`。
+- `ADI` Analog Devices Inc：`13F 占比 5.2%`，市值约 `$0.34bn`，股数/份额 `1,248,009`。
+- `ICE` Intercontinental Exchange In：`13F 占比 5.1%`，市值约 `$0.34bn`，股数/份额 `2,084,185`。
 
 #### Q3 2025
 
-- `FLTR.L` Flutter Entertainment：全球在线体育博彩与游戏平台。 `13F 占比 11.3%`
-- `ALC.SW` Alcon：眼科器械、手术与视力护理平台。 `13F 占比 8.4%`
-- `MSFT` Microsoft：企业软件、云与生产力平台。 `13F 占比 7.9%`
-- `V` Visa：全球银行卡支付清算网络。 `13F 占比 7.7%`
-- `INTU` Intuit：中小企业财税与个人财务软件平台。 `13F 占比 6.5%`
-- `GE` GE Aerospace：商用与军用航空发动机平台。 `13F 占比 5.6%`
-- `AMZN` Amazon：电商、云计算与物流平台。 `13F 占比 5.6%`
-- `MCO` Moody's：评级、风险数据与固定收益信息平台。 `13F 占比 5.2%`
-- `MMC` Marsh & McLennan：保险经纪、风险管理与咨询平台。 `13F 占比 5.2%`
-- `ICE` Intercontinental Exchange：交易所、清算与金融基础设施平台。 `13F 占比 5.0%`
+- `FLTR` Flutter Entmt Plc：`13F 占比 11.3%`，市值约 `$0.80bn`，股数/份额 `3,120,116`。
+- `ALC` Alcon Ag：`13F 占比 8.4%`，市值约 `$0.59bn`，股数/份额 `7,974,364`。
+- `MSFT` Microsoft Corp：`13F 占比 7.9%`，市值约 `$0.55bn`，股数/份额 `1,068,996`。
+- `V` Visa Inc：`13F 占比 7.7%`，市值约 `$0.54bn`，股数/份额 `1,584,857`。
+- `INTU` Intuit：`13F 占比 6.5%`，市值约 `$0.46bn`，股数/份额 `674,425`。
+- `GE` Ge Aerospace：`13F 占比 5.6%`，市值约 `$0.40bn`，股数/份额 `1,320,876`。
+- `AMZN` Amazon Com Inc：`13F 占比 5.6%`，市值约 `$0.40bn`，股数/份额 `1,808,033`。
+- `MCO` Moodys Corp：`13F 占比 5.2%`，市值约 `$0.37bn`，股数/份额 `767,143`。
+- `MMC` Marsh & Mclennan Cos Inc：`13F 占比 5.2%`，市值约 `$0.36bn`，股数/份额 `1,799,753`。
+- `ICE` Intercontinental Exchange In：`13F 占比 5.0%`，市值约 `$0.35bn`，股数/份额 `2,084,001`。
 
 #### Q2 2025
 
-- `FLTR.L` Flutter Entertainment：全球在线体育博彩与游戏平台。 `13F 占比 10.7%`
-- `ALC.SW` Alcon：眼科器械、手术与视力护理平台。 `13F 占比 8.6%`
-- `MSFT` Microsoft：企业软件、云与生产力平台。 `13F 占比 8.0%`
-- `V` Visa：全球银行卡支付清算网络。 `13F 占比 7.4%`
-- `INTU` Intuit：中小企业财税与个人财务软件平台。 `13F 占比 6.7%`
-- `GE` GE Aerospace：商用与军用航空发动机平台。 `13F 占比 6.7%`
-- `MCO` Moody's：评级、风险数据与固定收益信息平台。 `13F 占比 5.2%`
-- `ICE` Intercontinental Exchange：交易所、清算与金融基础设施平台。 `13F 占比 5.1%`
-- `BKNG` Booking Holdings：在线旅行平台。 `13F 占比 5.0%`
-- `MMC` Marsh & McLennan：保险经纪、风险管理与咨询平台。 `13F 占比 4.9%`
+- `FLTR` Flutter Entmt Plc：`13F 占比 10.7%`，市值约 `$0.85bn`，股数/份额 `2,973,210`。
+- `ALC` Alcon Ag：`13F 占比 8.6%`，市值约 `$0.68bn`，股数/份额 `7,713,406`。
+- `MSFT` Microsoft Corp：`13F 占比 8.0%`，市值约 `$0.63bn`，股数/份额 `1,272,557`。
+- `V` Visa Inc：`13F 占比 7.4%`，市值约 `$0.58bn`，股数/份额 `1,643,373`。
+- `INTU` Intuit：`13F 占比 6.7%`，市值约 `$0.53bn`，股数/份额 `675,783`。
+- `GE` Ge Aerospace：`13F 占比 6.7%`，市值约 `$0.53bn`，股数/份额 `2,063,006`。
+- `MCO` Moodys Corp：`13F 占比 5.2%`，市值约 `$0.42bn`，股数/份额 `827,554`。
+- `ICE` Intercontinental Exchange In：`13F 占比 5.1%`，市值约 `$0.40bn`，股数/份额 `2,191,657`。
+- `BKNG` Booking Holdings Inc：`13F 占比 5.0%`，市值约 `$0.40bn`，股数/份额 `69,107`。
+- `MMC` Marsh & Mclennan Cos Inc：`13F 占比 4.9%`，市值约 `$0.39bn`，股数/份额 `1,782,200`。
 
-#### Q1 2025
+### 变化摘要（Q1 2026 vs Q4 2025）
 
-- `ALC.SW` Alcon：眼科器械、手术与视力护理平台。 `13F 占比 8.7%`
-- `V` Visa：全球银行卡支付清算网络。 `13F 占比 8.1%`
-- `FLTR.L` Flutter Entertainment：全球在线体育博彩与游戏平台。 `13F 占比 7.4%`
-- `MMC` Marsh & McLennan：保险经纪、风险管理与咨询平台。 `13F 占比 6.7%`
-- `GE` GE Aerospace：商用与军用航空发动机平台。 `13F 占比 6.4%`
-- `MSFT` Microsoft：企业软件、云与生产力平台。 `13F 占比 6.1%`
-- `ICE` Intercontinental Exchange：交易所、清算与金融基础设施平台。 `13F 占比 5.1%`
-- `ACN` Accenture：企业 IT 服务、咨询与数字化转型平台。 `13F 占比 5.0%`
-- `MCO` Moody's：评级、风险数据与固定收益信息平台。 `13F 占比 5.0%`
-- `INTU` Intuit：中小企业财税与个人财务软件平台。 `13F 占比 4.4%`
-
-### 变化摘要（Q4 2025 vs Q3 2025）
-
-- 新进前 10：ADI Analog Devices、RACE Ferrari
-- 退出前 10：INTU Intuit、MMC Marsh & McLennan
-- 显著加仓：ALC.SW Alcon（+0.9 个百分点）、MCO Moody's（+0.5 个百分点）、AMZN Amazon（+0.5 个百分点）
-- 显著减仓：FLTR.L Flutter Entertainment（-1.1 个百分点）、MSFT Microsoft（-0.4 个百分点）、V Visa（持平偏降）
-- 过去一年最稳定的核心：FLTR.L Flutter Entertainment、ALC.SW Alcon、V Visa、MSFT Microsoft、MCO Moody's、ICE Intercontinental Exchange
-
-这组持仓最能说明 AKO 的，不是某一只股票，而是组合气味非常统一：支付网络、评级与金融基础设施、软件平台、强品牌、寡头工业和高粘性医疗器械反复出现。也就是说，13F 至少没有背离它在访谈里宣称的 [质量模式](/investor-masters/concepts/quality-patterns/)。
+- 持仓总市值变化：从 `$6.57bn` 到 `$5.11bn`，下降 `-$1.46bn`（-22.2%）。粗拆：主动仓位变化 `-$0.89bn`，价格变化 `-$0.57bn`；主要由主动仓位变化拖累。
+- 新进前 10：WAT, CSCO
+- 退出前 10：FLTR, MCO
+- 权重上升：ALC（+4.3 pct）, ADI（+1.3 pct）, Linde（+1.2 pct）, CSCO（+1.0 pct）, AMZN（+1.0 pct）
+- 权重下降：FLTR（-9.2 pct）, Copart（-3.4 pct）, MMC（-3.3 pct）, MSFT（-2.2 pct）, MCO（-1.4 pct）
+- 显著加仓：ALC（股数 +1,637,956，+21.3%）, Linde（股数 +121,155，+899.0%）, BKNG（股数 +7,122，+16.6%）, MA（股数 +55,483，+55.4%）, Fair Isaac（股数 +14,427，+12.8%）
+- 显著减仓：FLTR（股数 -2,622,399，-84.3%）, MMC（股数 -1,223,333，-82.4%）, Copart（股数 -5,736,076，-95.4%）, MSFT（股数 -285,501，-28.0%）, MCO（股数 -225,744，-30.6%）
 
 ### 数据来源
 
-- [AKO Capital LLP manager page on 13f.info](https://13f.info/manager/0001376879-ako-capital-llp)
-- [Q4 2025 AKO 13F information table](https://www.sec.gov/Archives/edgar/data/1376879/000137687926000002/13F_report_20251231.xml)
-- [Q3 2025 AKO 13F information table](https://www.sec.gov/Archives/edgar/data/1376879/000137687925000008/13F_report_20250930.xml)
-- [Q2 2025 AKO 13F information table](https://www.sec.gov/Archives/edgar/data/1376879/000137687925000006/13F_report_20250630.xml)
-- [Q1 2025 AKO 13F information table](https://www.sec.gov/Archives/edgar/data/1376879/000137687925000005/13F_report_20250331.xml)
+- [SEC 13F Q1 2026 filing detail](https://www.sec.gov/Archives/edgar/data/1376879/000137687926000003/0001376879-26-000003-index.html)
+- [SEC 13F Q4 2025 filing detail](https://www.sec.gov/Archives/edgar/data/1376879/000137687926000002/0001376879-26-000002-index.html)
+- [SEC 13F Q3 2025 filing detail](https://www.sec.gov/Archives/edgar/data/1376879/000137687925000008/0001376879-25-000008-index.html)
+- [SEC 13F Q2 2025 filing detail](https://www.sec.gov/Archives/edgar/data/1376879/000137687925000006/0001376879-25-000006-index.html)
 
 ## 机构传承
 

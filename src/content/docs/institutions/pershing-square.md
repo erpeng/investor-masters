@@ -36,75 +36,78 @@ Pershing 的机构哲学，可以压成一句话：`寻找高质量但暂时迷�
 
 ### 怎么看这组披露
 
-13F 只覆盖美国公开股票多头及部分期权披露，且有季度滞后，不代表机构完整组合。
-对 Pershing 这类高集中机构，13F 的可读性相对更强，因为公开股票多头本来就是其最重要的表达之一，但它仍然看不到场外衍生品和非美资产。
+13F 只覆盖美国公开股票多头及部分期权披露，且有季度滞后，不代表机构完整组合；`持仓总市值变化` 也只是这张 13F 表内的可见市值变化。
 
 ### 近四个已披露季度前 10 大持仓
 
+#### Q1 2026
+
+- `BN` Brookfield Corp：`13F 占比 17.6%`，市值约 `$2.42bn`，股数/份额 `59,697,208`。
+- `AMZN` Amazon Com Inc：`13F 占比 17.4%`，市值约 `$2.39bn`，股数/份额 `11,451,981`。
+- `Uber Technologies` Uber Technologies Inc：`13F 占比 15.7%`，市值约 `$2.15bn`，股数/份额 `29,958,771`。
+- `MSFT` Microsoft Corp：`13F 占比 15.3%`，市值约 `$2.09bn`，股数/份额 `5,654,078`。
+- `QSR` Restaurant Brands Intl Inc：`13F 占比 12.2%`，市值约 `$1.67bn`，股数/份额 `22,645,483`。
+- `META` Meta Platforms Inc：`13F 占比 11.1%`，市值约 `$1.52bn`，股数/份额 `2,660,861`。
+- `Howard Hughes Holdings` Howard Hughes Holdings Inc：`13F 占比 8.7%`，市值约 `$1.19bn`，股数/份额 `18,852,064`。
+- `Seaport Entmt Group` Seaport Entmt Group Inc：`13F 占比 0.8%`，市值约 `$0.11bn`，股数/份额 `5,023,780`。
+- `GOOGL` Alphabet Inc：`13F 占比 0.7%`，市值约 `$0.10bn`，股数/份额 `344,102`。
+- `Hertz Global Hldgs` Hertz Global Hldgs Inc：`13F 占比 0.5%`，市值约 `$0.07bn`，股数/份额 `15,241,127`。
+
 #### Q4 2025
 
-- `BN.TO` Brookfield Corp.：基础设施、地产与资产管理平台。 `13F 占比 18.1%`
-- `UBER` Uber：出行、外卖与物流调度平台。 `13F 占比 15.9%`
-- `AMZN` Amazon：电商、云计算与物流平台。 `13F 占比 14.3%`
-- `GOOG` Alphabet：搜索、广告、云与 AI 平台。 `13F 占比 12.5%`
-- `META` Meta Platforms：社交广告与 AI 分发平台。 `13F 占比 11.4%`
-- `QSR` Restaurant Brands International：汉堡王、天好与 Popeyes 特许经营平台。 `13F 占比 10.0%`
-- `HHH` Howard Hughes Holdings：地产业务开发与资产运营平台。 `13F 占比 9.7%`
-- `HLT` Hilton Worldwide：酒店品牌与加盟管理平台。 `13F 占比 5.6%`
-- `GOOGL` Alphabet：搜索、广告、云与 AI 平台。 `13F 占比 1.4%`
-- `SEG` Seaport Entertainment Group：娱乐内容与目的地资产运营商。 `13F 占比 0.6%`
+- `BN` Brookfield Corp：`13F 占比 18.1%`，市值约 `$2.82bn`，股数/份额 `61,403,089`。
+- `Uber Technologies` Uber Technologies Inc：`13F 占比 15.9%`，市值约 `$2.47bn`，股数/份额 `30,207,734`。
+- `AMZN` Amazon Com Inc：`13F 占比 14.3%`，市值约 `$2.22bn`，股数/份额 `9,607,824`。
+- `GOOGL` Alphabet Inc：`13F 占比 13.8%`，市值约 `$2.15bn`，股数/份额 `6,842,168`。
+- `META` Meta Platforms Inc：`13F 占比 11.4%`，市值约 `$1.76bn`，股数/份额 `2,673,569`。
+- `QSR` Restaurant Brands Intl Inc：`13F 占比 10.0%`，市值约 `$1.56bn`，股数/份额 `22,866,773`。
+- `Howard Hughes Holdings` Howard Hughes Holdings Inc：`13F 占比 9.7%`，市值约 `$1.50bn`，股数/份额 `18,852,064`。
+- `Hilton Worldwide Hldgs` Hilton Worldwide Hldgs Inc：`13F 占比 5.6%`，市值约 `$0.87bn`，股数/份额 `3,028,664`。
+- `Seaport Entmt Group` Seaport Entmt Group Inc：`13F 占比 0.6%`，市值约 `$0.10bn`，股数/份额 `5,023,780`。
+- `Hertz Global Hldgs` Hertz Global Hldgs Inc：`13F 占比 0.5%`，市值约 `$0.08bn`，股数/份额 `15,241,127`。
 
 #### Q3 2025
 
-- `UBER` Uber：出行、外卖与物流调度平台。 `13F 占比 20.3%`
-- `BN.TO` Brookfield Corp.：基础设施、地产与资产管理平台。 `13F 占比 19.2%`
-- `HHH` Howard Hughes Holdings：地产业务开发与资产运营平台。 `13F 占比 10.6%`
-- `GOOG` Alphabet：搜索、广告、云与 AI 平台。 `13F 占比 10.5%`
-- `QSR` Restaurant Brands International：汉堡王、天好与 Popeyes 特许经营平台。 `13F 占比 10.0%`
-- `AMZN` Amazon：电商、云计算与物流平台。 `13F 占比 8.7%`
-- `GOOGL` Alphabet：搜索、广告、云与 AI 平台。 `13F 占比 8.0%`
-- `CMG` Chipotle Mexican Grill：高翻台快餐连锁品牌。 `13F 占比 5.8%`
-- `HLT` Hilton Worldwide：酒店品牌与加盟管理平台。 `13F 占比 5.4%`
-- `SEG` Seaport Entertainment Group：娱乐内容与目的地资产运营商。 `13F 占比 0.8%`
+- `Uber Technologies` Uber Technologies Inc：`13F 占比 20.3%`，市值约 `$2.97bn`，股数/份额 `30,270,518`。
+- `BN` Brookfield Corp：`13F 占比 19.2%`，市值约 `$2.81bn`，股数/份额 `41,020,231`。
+- `GOOGL` Alphabet Inc：`13F 占比 18.6%`，市值约 `$2.72bn`，股数/份额 `11,168,004`。
+- `Howard Hughes Holdings` Howard Hughes Holdings Inc：`13F 占比 10.6%`，市值约 `$1.55bn`，股数/份额 `18,852,064`。
+- `QSR` Restaurant Brands Intl Inc：`13F 占比 10.0%`，市值约 `$1.47bn`，股数/份额 `22,915,496`。
+- `AMZN` Amazon Com Inc：`13F 占比 8.7%`，市值约 `$1.28bn`，股数/份额 `5,823,316`。
+- `Chipotle Mexican Grill` Chipotle Mexican Grill Inc：`13F 占比 5.8%`，市值约 `$0.84bn`，股数/份额 `21,541,177`。
+- `Hilton Worldwide Hldgs` Hilton Worldwide Hldgs Inc：`13F 占比 5.4%`，市值约 `$0.79bn`，股数/份额 `3,030,578`。
+- `Seaport Entmt Group` Seaport Entmt Group Inc：`13F 占比 0.8%`，市值约 `$0.12bn`，股数/份额 `5,023,780`。
+- `Hertz Global Hldgs` Hertz Global Hldgs Inc：`13F 占比 0.7%`，市值约 `$0.10bn`，股数/份额 `15,241,127`。
 
 #### Q2 2025
 
-- `UBER` Uber：出行、外卖与物流调度平台。 `13F 占比 20.6%`
-- `BN.TO` Brookfield Corp.：基础设施、地产与资产管理平台。 `13F 占比 18.5%`
-- `QSR` Restaurant Brands International：汉堡王、天好与 Popeyes 特许经营平台。 `13F 占比 11.1%`
-- `AMZN` Amazon：电商、云计算与物流平台。 `13F 占比 9.3%`
-- `HHH` Howard Hughes Holdings：地产业务开发与资产运营平台。 `13F 占比 9.3%`
-- `CMG` Chipotle Mexican Grill：高翻台快餐连锁品牌。 `13F 占比 8.8%`
-- `GOOG` Alphabet：搜索、广告、云与 AI 平台。 `13F 占比 8.2%`
-- `GOOGL` Alphabet：搜索、广告、云与 AI 平台。 `13F 占比 6.9%`
-- `HLT` Hilton Worldwide：酒店品牌与加盟管理平台。 `13F 占比 5.9%`
-- `HTZ` Hertz Global：租车与车队资产运营平台。 `13F 占比 0.8%`
+- `Uber Technologies` Uber Technologies Inc：`13F 占比 20.6%`，市值约 `$2.83bn`，股数/份额 `30,301,161`。
+- `BN` Brookfield Corp：`13F 占比 18.5%`，市值约 `$2.55bn`，股数/份额 `41,160,397`。
+- `GOOGL` Alphabet Inc：`13F 占比 15.1%`，市值约 `$2.07bn`，股数/份额 `11,687,011`。
+- `QSR` Restaurant Brands Intl Inc：`13F 占比 11.1%`，市值约 `$1.52bn`，股数/份额 `23,000,914`。
+- `AMZN` Amazon Com Inc：`13F 占比 9.3%`，市值约 `$1.28bn`，股数/份额 `5,823,316`。
+- `Howard Hughes Holdings` Howard Hughes Holdings Inc：`13F 占比 9.3%`，市值约 `$1.27bn`，股数/份额 `18,852,064`。
+- `Chipotle Mexican Grill` Chipotle Mexican Grill Inc：`13F 占比 8.8%`，市值约 `$1.21bn`，股数/份额 `21,541,177`。
+- `Hilton Worldwide Hldgs` Hilton Worldwide Hldgs Inc：`13F 占比 5.9%`，市值约 `$0.81bn`，股数/份额 `3,030,578`。
+- `Hertz Global Hldgs` Hertz Global Hldgs Inc：`13F 占比 0.8%`，市值约 `$0.10bn`，股数/份额 `15,241,127`。
+- `Seaport Entmt Group` Seaport Entmt Group Inc：`13F 占比 0.7%`，市值约 `$0.09bn`，股数/份额 `5,023,780`。
 
-#### Q1 2025
+### 变化摘要（Q1 2026 vs Q4 2025）
 
-- `UBER` Uber：出行、外卖与物流调度平台。 `13F 占比 18.5%`
-- `BN.TO` Brookfield Corp.：基础设施、地产与资产管理平台。 `13F 占比 18.0%`
-- `QSR` Restaurant Brands International：汉堡王、天好与 Popeyes 特许经营平台。 `13F 占比 12.8%`
-- `HHH` Howard Hughes Holdings：地产业务开发与资产运营平台。 `13F 占比 11.7%`
-- `CMG` Chipotle Mexican Grill：高翻台快餐连锁品牌。 `13F 占比 9.1%`
-- `CP.TO` Canadian Pacific Kansas City：北美铁路与货运网络运营商。 `13F 占比 8.7%`
-- `GOOG` Alphabet：搜索、广告、云与 AI 平台。 `13F 占比 8.3%`
-- `GOOGL` Alphabet：搜索、广告、云与 AI 平台。 `13F 占比 5.8%`
-- `HLT` Hilton Worldwide：酒店品牌与加盟管理平台。 `13F 占比 5.7%`
-- `SEG` Seaport Entertainment Group：娱乐内容与目的地资产运营商。 `13F 占比 0.9%`
-
-### 变化摘要（Q4 2025 vs Q3 2025）
-
-- 新进前 10：META Meta Platforms
-- 退出前 10：CMG Chipotle Mexican Grill
-- 显著加仓：AMZN Amazon（+5.6 pct）、GOOG Alphabet（+2.0 pct）
-- 显著减仓：GOOGL Alphabet（-6.6 pct）、UBER Uber（-4.4 pct）、BN.TO Brookfield Corp.（-1.1 pct）
-- 过去一年最稳定的核心：BN.TO Brookfield Corp.、UBER Uber、GOOG Alphabet、QSR Restaurant Brands International、HHH Howard Hughes Holdings、HLT Hilton Worldwide、GOOGL Alphabet
+- 持仓总市值变化：从 `$15.53bn` 到 `$13.71bn`，下降 `-$1.81bn`（-11.7%）。粗拆：主动仓位变化 `-$0.51bn`，价格变化 `-$1.30bn`；主要由价格变化拖累。
+- 新进前 10：MSFT
+- 退出前 10：Hilton Worldwide Hldgs
+- 权重上升：AMZN（+3.1 pct）, QSR（+2.2 pct）
+- 权重下降：GOOGL（-13.1 pct）, Howard Hughes Holdings（-1.0 pct）, BN（-0.5 pct）
+- 显著加仓：AMZN（股数 +1,844,157，+19.2%）
+- 显著减仓：GOOGL（股数 -6,498,066，-95.0%）, BN（股数 -1,705,881，-2.8%）
 
 ### 数据来源
 
-- [13f.info manager page](https://13f.info/manager/0001336528-pershing-square-capital-management-l-p)：用于读取近四个已披露季度的结构化 13F 持仓表。
-- [SEC EDGAR 13F filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1336528&type=13F-HR&owner=exclude&count=40)：原始 filing 查询入口。
+- [SEC 13F Q1 2026 filing detail](https://www.sec.gov/Archives/edgar/data/1336528/000117266126002336/0001172661-26-002336-index.html)
+- [SEC 13F Q4 2025 filing detail](https://www.sec.gov/Archives/edgar/data/1336528/000117266126001091/0001172661-26-001091-index.html)
+- [SEC 13F Q3 2025 filing detail](https://www.sec.gov/Archives/edgar/data/1336528/000117266125005039/0001172661-25-005039-index.html)
+- [SEC 13F Q2 2025 filing detail](https://www.sec.gov/Archives/edgar/data/1336528/000117266125003509/0001172661-25-003509-index.html)
 
 ## 机构传承
 

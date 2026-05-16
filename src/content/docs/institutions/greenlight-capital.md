@@ -48,41 +48,79 @@ Greenlight 的机构哲学可以压成一句话：`在拥挤叙事、复杂披�
 
 ### 怎么看这组披露
 
-Greenlight 的 13F 有一个边界要先说明清楚：
+13F 只覆盖美国公开股票多头及部分期权披露，且有季度滞后，不代表机构完整组合；`持仓总市值变化` 也只是这张 13F 表内的可见市值变化。
+Greenlight 近年主要通过 DME Capital Management, LP 披露；历史 Greenlight Capital Inc 口径不再与当前公开多头完全等同。
 
-- 历史上很多公开持仓会被归在 `Greenlight Capital Inc`
-- 近年的公开 13F 主要在 `DME Capital Management, LP` 名下披露
-- 13F 只展示美国公开多头及部分期权，不含完整空头结构、黄金实物和很多组合层对冲
+### 近四个已披露季度前 10 大持仓
 
-因此，对 Greenlight 来说，13F 只能当 `公开多头切片` 读，不能当完整组合。
+#### Q1 2026
 
-### 最新一季前 5 大公开头寸（Q4 2025）
+- `Green Brick Partners` Green Brick Partners Inc：`13F 占比 19.1%`，市值约 `$0.61bn`，股数/份额 `9,467,383`。
+- `Fluor` Fluor Corp：`13F 占比 6.9%`，市值约 `$0.22bn`，股数/份额 `4,747,350`。
+- `Core Natural Resources` Core Natural Resources Inc：`13F 占比 6.1%`，市值约 `$0.19bn`，股数/份额 `1,858,140`。
+- `Brighthouse Finl` Brighthouse Finl Inc：`13F 占比 5.3%`，市值约 `$0.17bn`，股数/份额 `2,842,100`。
+- `PCG` Pg&E Corp：`13F 占比 3.7%`，市值约 `$0.12bn`，股数/份额 `6,632,852`。
+- `Versant Media Group` Versant Media Group Inc：`13F 占比 3.5%`，市值约 `$0.11bn`，股数/份额 `3,028,615`。
+- `Acadia Healthcare Company` Acadia Healthcare Company In：`13F 占比 3.3%`，市值约 `$0.11bn`，股数/份额 `4,518,381`。
+- `Victorias Secret And` Victorias Secret And Co：`13F 占比 3.3%`，市值约 `$0.10bn`，股数/份额 `2,256,889`。
+- `Dht Holdings` Dht Holdings Inc：`13F 占比 3.0%`，市值约 `$0.10bn`，股数/份额 `5,272,770`。
+- `Penn Entertainment` Penn Entertainment Inc：`13F 占比 2.8%`，市值约 `$0.09bn`，股数/份额 `6,044,440`。
 
-- `GRBK` Green Brick Partners：住宅开发与土地储备平台。 `13F 占比 20.8%`
-- `FLR` Fluor：工程建设、能源与基建 EPC 平台。 `13F 占比 7.7%`
-- `CNR` Core Natural Resources：煤炭与资源资产平台。 `13F 占比 6.5%`
-- `BHF` Brighthouse Financial：年金、寿险与退休金融平台。 `13F 占比 6.3%`
-- `GPK` Graphic Packaging：消费品包装与纸基材料平台。 `13F 占比 4.4%`
+#### Q4 2025
 
-### 近四季公开多头主轴
+- `Green Brick Partners` Green Brick Partners Inc：`13F 占比 20.8%`，市值约 `$0.59bn`，股数/份额 `9,467,383`。
+- `Fluor` Fluor Corp New：`13F 占比 7.7%`，市值约 `$0.22bn`，股数/份额 `5,555,900`。
+- `Core Natural Resources` Core Natural Resources Inc：`13F 占比 6.5%`，市值约 `$0.19bn`，股数/份额 `2,100,480`。
+- `Brighthouse Finl` Brighthouse Finl Inc：`13F 占比 6.3%`，市值约 `$0.18bn`，股数/份额 `2,792,100`。
+- `Graphic Packaging Hldg` Graphic Packaging Hldg Co：`13F 占比 4.4%`，市值约 `$0.13bn`，股数/份额 `8,415,110`。
+- `PCG` Pg&E Corp：`13F 占比 4.4%`，市值约 `$0.13bn`，股数/份额 `7,784,103`。
+- `Capri Holdings Limited` Capri Holdings Limited：`13F 占比 4.1%`，市值约 `$0.12bn`，股数/份额 `4,768,007`。
+- `Centene Del` Centene Corp Del：`13F 占比 3.8%`，市值约 `$0.11bn`，股数/份额 `2,639,420`。
+- `Kyndryl Hldgs` Kyndryl Hldgs Inc：`13F 占比 3.6%`，市值约 `$0.10bn`，股数/份额 `3,816,353`。
+- `Teva Pharmaceutical Inds` Teva Pharmaceutical Inds Ltd：`13F 占比 3.4%`，市值约 `$0.10bn`，股数/份额 `3,058,734`。
 
-- `Q4 2025`：`GRBK / FLR / CNR / BHF`
-- `Q3 2025`：`GRBK / FLR / CNR / BHF`
-- `Q2 2025`：`GRBK / FLR / CNR / BHF`
-- `Q1 2025`：`GRBK / CORE NATURAL RESOURCES / BHF / KD`
+#### Q3 2025
 
-### 变化摘要（Q4 2025 vs Q1 2025）
+- `Green Brick Partners` Green Brick Partners Inc：`13F 占比 27.5%`，市值约 `$0.70bn`，股数/份额 `9,467,383`。
+- `Fluor` Fluor Corp New：`13F 占比 9.1%`，市值约 `$0.23bn`，股数/份额 `5,513,680`。
+- `Core Natural Resources` Core Natural Resources Inc：`13F 占比 7.1%`，市值约 `$0.18bn`，股数/份额 `2,155,640`。
+- `Brighthouse Finl` Brighthouse Finl Inc：`13F 占比 5.8%`，市值约 `$0.15bn`，股数/份额 `2,792,100`。
+- `Kyndryl Hldgs` Kyndryl Hldgs Inc：`13F 占比 5.1%`，市值约 `$0.13bn`，股数/份额 `4,343,627`。
+- `Penn Entertainment` Penn Entertainment Inc：`13F 占比 5.1%`，市值约 `$0.13bn`，股数/份额 `6,769,440`。
+- `PCG` Pg&E Corp：`13F 占比 3.8%`，市值约 `$0.10bn`，股数/份额 `6,380,853`。
+- `Graphic Packaging Hldg` Graphic Packaging Hldg Co：`13F 占比 3.6%`，市值约 `$0.09bn`，股数/份额 `4,705,950`。
+- `Dht Holdings` Dht Holdings Inc：`13F 占比 3.6%`，市值约 `$0.09bn`，股数/份额 `7,620,934`。
+- `Teva Pharmaceutical Inds` Teva Pharmaceutical Inds Ltd：`13F 占比 3.0%`，市值约 `$0.08bn`，股数/份额 `3,778,777`。
 
-- `GRBK` 与 `BHF` 是贯穿近四季的稳定核心
-- `FLR`、`CNR` 到下半年成为更明确的前排表达
-- 公开多头切片里，Greenlight 呈现出浓厚的 `老经济 / 资源 / 金融 / 被低估周期资产` 气味
+#### Q2 2025
 
-这和艾因霍恩的公开语言是对得上的：他不是把自己放在市场最热的一侧，而是更愿意在被忽视、被错误重述、或被股东结构变化压低价格的地方建立仓位。
+- `Green Brick Partners` Green Brick Partners Inc：`13F 占比 25.6%`，市值约 `$0.60bn`，股数/份额 `9,467,383`。
+- `Fluor` Fluor Corp New：`13F 占比 8.4%`，市值约 `$0.20bn`，股数/份额 `3,819,580`。
+- `Core Natural Resources` Core Natural Resources Inc：`13F 占比 6.5%`，市值约 `$0.15bn`，股数/份额 `2,155,640`。
+- `Brighthouse Finl` Brighthouse Finl Inc：`13F 占比 6.4%`，市值约 `$0.15bn`，股数/份额 `2,760,097`。
+- `Kyndryl Hldgs` Kyndryl Hldgs Inc：`13F 占比 6.0%`，市值约 `$0.14bn`，股数/份额 `3,311,297`。
+- `Penn Entertainment` Penn Entertainment Inc：`13F 占比 5.8%`，市值约 `$0.13bn`，股数/份额 `7,494,440`。
+- `Cnh Indl N` Cnh Indl N V：`13F 占比 4.4%`，市值约 `$0.10bn`，股数/份额 `7,872,610`。
+- `Graphic Packaging Hldg` Graphic Packaging Hldg Co：`13F 占比 4.3%`，市值约 `$0.10bn`，股数/份额 `4,705,950`。
+- `Dht Holdings` Dht Holdings Inc：`13F 占比 3.5%`，市值约 `$0.08bn`，股数/份额 `7,620,934`。
+- `Teck Resources` Teck Resources Ltd：`13F 占比 3.5%`，市值约 `$0.08bn`，股数/份额 `2,000,000`。
+
+### 变化摘要（Q1 2026 vs Q4 2025）
+
+- 持仓总市值变化：从 `$2.85bn` 到 `$3.19bn`，上升 `$0.34bn`（+12.0%）。粗拆：主动仓位变化 `$0.30bn`，价格变化 `$0.04bn`；主要由主动仓位变化推升。
+- 新进前 10：Versant Media Group, Acadia Healthcare Company, Victorias Secret And, Dht Holdings, Penn Entertainment
+- 退出前 10：Graphic Packaging Hldg, Capri Holdings Limited, Centene Del, Kyndryl Hldgs, Teva Pharmaceutical Inds
+- 权重上升：Td Synnex（+2.2 pct）, Peloton Interactive（+1.3 pct）, Acadia Healthcare Company（+1.3 pct）, Bkv（+1.2 pct）, Sotera Health（+0.6 pct）
+- 权重下降：Green Brick Partners（-1.7 pct）, Graphic Packaging Hldg（-1.6 pct）, Weatherford Intl（-1.6 pct）, Capri Holdings Limited（-1.4 pct）, Spdr Gold Tr（-1.0 pct）
+- 显著加仓：Td Synnex（股数 +423,040，+748.9%）, Peloton Interactive（股数 +9,867,480，+4003.7%）, Bkv（股数 +1,407,600，+109.3%）, Sotera Health（股数 +1,604,410，+347.8%）, Victorias Secret And（股数 +519,020，+29.9%）
+- 显著减仓：Weatherford Intl（股数 -597,899，-80.4%）, Fluor（股数 -808,550，-14.6%）, Spdr Gold Tr（股数 -70,950，-41.6%）, Dht Holdings（股数 -2,093,894，-28.4%）, Core Natural Resources（股数 -242,340，-11.5%）
 
 ### 数据来源
 
-- [DME Capital Management, LP manager page on 13f.info](https://13f.info/manager/0001489933-dme-capital-management-lp)
-- [Greenlight Capital Inc historical manager page on 13f.info](https://13f.info/manager/0001079114-greenlight-capital-inc)
+- [SEC 13F Q1 2026 filing detail](https://www.sec.gov/Archives/edgar/data/1489933/000117266126002341/0001172661-26-002341-index.html)
+- [SEC 13F Q4 2025 filing detail](https://www.sec.gov/Archives/edgar/data/1489933/000117266126001122/0001172661-26-001122-index.html)
+- [SEC 13F Q3 2025 filing detail](https://www.sec.gov/Archives/edgar/data/1489933/000117266125005032/0001172661-25-005032-index.html)
+- [SEC 13F Q2 2025 filing detail](https://www.sec.gov/Archives/edgar/data/1489933/000117266125003351/0001172661-25-003351-index.html)
 
 ## 机构传承
 

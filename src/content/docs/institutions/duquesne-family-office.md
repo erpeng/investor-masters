@@ -42,78 +42,78 @@ Duquesne 当前最重要的激励结构，不是 fee model，而是 `own capital
 
 ### 怎么看这组披露
 
-13F 只覆盖美国公开股票多头及部分期权披露，且有季度滞后，不代表机构完整组合。
-对 Duquesne 这种家族办公室来说，13F 的解释力比宏观大机构略强，因为公开股票本来就是它表达变化与仓位的一部分；但它仍看不到期货、外汇、债券、场外衍生品以及许多更短周期的交易动作。所以这组披露最适合当 `公开行为切片` 读，不适合把它误写成完整风险敞口。
+13F 只覆盖美国公开股票多头及部分期权披露，且有季度滞后，不代表机构完整组合；`持仓总市值变化` 也只是这张 13F 表内的可见市值变化。
 
 ### 近四个已披露季度前 10 大持仓
 
+#### Q1 2026
+
+- `Natera` Natera Inc：`13F 占比 18.1%`，市值约 `$0.61bn`，股数/份额 `3,063,606`。
+- `Insmed` Insmed Inc：`13F 占比 5.6%`，市值约 `$0.19bn`，股数/份额 `1,154,090`。
+- `TSM` Taiwan Semiconductor Manufac：`13F 占比 5.0%`，市值约 `$0.17bn`，股数/份额 `495,280`。
+- `Ishares` Ishares Inc call：`13F 占比 4.8%`，市值约 `$0.16bn`，股数/份额 `4,228,000`。
+- `Invesco Exchange Traded` Invesco Exchange Traded Fd T call：`13F 占比 4.7%`，市值约 `$0.16bn`，股数/份额 `821,000`。
+- `Ypf Sociedad Anonima` Ypf Sociedad Anonima：`13F 占比 4.4%`，市值约 `$0.15bn`，股数/份额 `3,235,962`。
+- `Ishares` Ishares Inc：`13F 占比 3.9%`，市值约 `$0.13bn`，股数/份额 `3,436,170`。
+- `Bbb Foods` Bbb Foods Inc：`13F 占比 3.3%`，市值约 `$0.11bn`，股数/份额 `3,109,202`。
+- `Alcoa` Alcoa Corp：`13F 占比 2.9%`，市值约 `$0.10bn`，股数/份额 `1,493,390`。
+- `Newamsterdam Pharma Company` Newamsterdam Pharma Company：`13F 占比 2.9%`，市值约 `$0.10bn`，股数/份额 `3,070,146`。
+
 #### Q4 2025
 
-- `NTRA` Natera：癌症早筛、无创产检与精准诊断平台。 `13F 占比 13%`
-- `XLF` Financial Select Sector SPDR Fund：覆盖美国大型金融股的行业 ETF。 `13F 占比 7%`
-- `INSM` Insmed：聚焦罕见病与肺部疾病的新药研发公司。 `13F 占比 6%`
-- `RSP` Invesco S&P 500 Equal Weight ETF：等权重标普 500 ETF。 `13F 占比 5%`
-- `TEVA` Teva Pharmaceutical Industries：仿制药、生物类似药与专科药转型平台。 `13F 占比 4%`
-- `WWD` Woodward：航空航天与工业控制系统供应商。 `13F 占比 4%`
-- `AMZN` Amazon：电商、云计算与物流平台。 `13F 占比 4%`
-- `TSM` Taiwan Semiconductor Manufacturing：全球晶圆代工核心平台。 `13F 占比 4%`
-- `CPNG` Coupang：韩国电商与物流平台。 `13F 占比 4%`
-- `EWZ` iShares MSCI Brazil ETF（CALL）：巴西股票市场 ETF 的看涨期权敞口。 `13F 占比 3%`
+- `Natera` Natera Inc：`13F 占比 12.8%`，市值约 `$0.58bn`，股数/份额 `2,511,357`。
+- `Select Sector Spdr` Select Sector Spdr Tr：`13F 占比 6.7%`，市值约 `$0.30bn`，股数/份额 `5,495,600`。
+- `Insmed` Insmed Inc：`13F 占比 5.7%`，市值约 `$0.26bn`，股数/份额 `1,481,752`。
+- `Invesco Exchange Traded` Invesco Exchange Traded Fd T：`13F 占比 5.0%`，市值约 `$0.22bn`，股数/份额 `1,173,925`。
+- `Teva Pharmaceutical Inds` Teva Pharmaceutical Inds Ltd：`13F 占比 4.1%`，市值约 `$0.18bn`，股数/份额 `5,874,870`。
+- `Woodward` Woodward Inc：`13F 占比 4.0%`，市值约 `$0.18bn`，股数/份额 `590,930`。
+- `AMZN` Amazon Com Inc：`13F 占比 3.8%`，市值约 `$0.17bn`，股数/份额 `737,940`。
+- `TSM` Taiwan Semiconductor Mfg Ltd：`13F 占比 3.7%`，市值约 `$0.17bn`，股数/份额 `543,085`。
+- `CPNG` Coupang Inc：`13F 占比 3.6%`，市值约 `$0.16bn`，股数/份额 `6,772,909`。
+- `Ishares` Ishares Inc call：`13F 占比 3.0%`，市值约 `$0.13bn`，股数/份额 `4,228,000`。
 
 #### Q3 2025
 
-- `NTRA` Natera：癌症早筛、无创产检与精准诊断平台。 `13F 占比 13%`
-- `INSM` Insmed：聚焦罕见病与肺部疾病的新药研发公司。 `13F 占比 9%`
-- `TEVA` Teva Pharmaceutical Industries：仿制药、生物类似药与专科药转型平台。 `13F 占比 8%`
-- `TSM` Taiwan Semiconductor Manufacturing：全球晶圆代工核心平台。 `13F 占比 5%`
-- `WWD` Woodward：航空航天与工业控制系统供应商。 `13F 占比 4%`
-- `CPNG` Coupang：韩国电商与物流平台。 `13F 占比 4%`
-- `MELI` MercadoLibre：拉美电商、支付与物流平台。 `13F 占比 3%`
-- `DOCU` DocuSign：电子签名与数字合同平台。 `13F 占比 3%`
-- `VRNA` Verona Pharma：呼吸系统创新药研发公司。 `13F 占比 3%`
-- `EEM` iShares MSCI Emerging Markets ETF：覆盖新兴市场股票的大型 ETF。 `13F 占比 3%`
+- `Natera` Natera Inc：`13F 占比 12.7%`，市值约 `$0.52bn`，股数/份额 `3,214,532`。
+- `Insmed` Insmed Inc：`13F 占比 8.6%`，市值约 `$0.35bn`，股数/份额 `2,423,435`。
+- `Teva Pharmaceutical Inds` Teva Pharmaceutical Inds Ltd：`13F 占比 8.3%`，市值约 `$0.34bn`，股数/份额 `16,593,935`。
+- `TSM` Taiwan Semiconductor Mfg Ltd：`13F 占比 5.3%`，市值约 `$0.21bn`，股数/份额 `765,085`。
+- `Woodward` Woodward Inc：`13F 占比 3.9%`，市值约 `$0.16bn`，股数/份额 `633,015`。
+- `CPNG` Coupang Inc：`13F 占比 3.7%`，市值约 `$0.15bn`，股数/份额 `4,633,124`。
+- `MELI` Mercadolibre Inc：`13F 占比 3.4%`，市值约 `$0.14bn`，股数/份额 `58,344`。
+- `Docusign` Docusign Inc：`13F 占比 3.0%`，市值约 `$0.12bn`，股数/份额 `1,685,950`。
+- `Verona Pharma` Verona Pharma Plc：`13F 占比 2.6%`，市值约 `$0.11bn`，股数/份额 `1,002,080`。
+- `IVV` Ishares Tr：`13F 占比 2.5%`，市值约 `$0.10bn`，股数/份额 `1,900,000`。
 
 #### Q2 2025
 
-- `NTRA` Natera：癌症早筛、无创产检与精准诊断平台。 `13F 占比 13%`
-- `TEVA` Teva Pharmaceutical Industries：仿制药、生物类似药与专科药转型平台。 `13F 占比 7%`
-- `INSM` Insmed：聚焦罕见病与肺部疾病的新药研发公司。 `13F 占比 6%`
-- `WWD` Woodward：航空航天与工业控制系统供应商。 `13F 占比 5%`
-- `TSM` Taiwan Semiconductor Manufacturing：全球晶圆代工核心平台。 `13F 占比 4%`
-- `PM` Philip Morris International：全球烟草与无烟尼古丁平台。 `13F 占比 4%`
-- `MELI` MercadoLibre：拉美电商、支付与物流平台。 `13F 占比 3%`
-- `ENTG` Entegris：半导体材料、过滤与制程耗材平台。 `13F 占比 3%`
-- `CPNG` Coupang：韩国电商与物流平台。 `13F 占比 3%`
-- `FLUT` Flutter Entertainment：在线体育博彩与游戏平台。 `13F 占比 3%`
+- `Natera` Natera Inc：`13F 占比 12.8%`，市值约 `$0.52bn`，股数/份额 `3,085,190`。
+- `Teva Pharmaceutical Inds` Teva Pharmaceutical Inds Ltd：`13F 占比 6.6%`，市值约 `$0.27bn`，股数/份额 `15,968,935`。
+- `Insmed` Insmed Inc：`13F 占比 5.6%`，市值约 `$0.23bn`，股数/份额 `2,253,435`。
+- `Woodward` Woodward Inc：`13F 占比 5.1%`，市值约 `$0.21bn`，股数/份额 `848,910`。
+- `TSM` Taiwan Semiconductor Mfg Ltd：`13F 占比 4.3%`，市值约 `$0.17bn`，股数/份额 `765,085`。
+- `PM` Philip Morris Intl Inc：`13F 占比 3.7%`，市值约 `$0.15bn`，股数/份额 `815,975`。
+- `MELI` Mercadolibre Inc：`13F 占比 3.4%`，市值约 `$0.14bn`，股数/份额 `53,725`。
+- `Entegris` Entegris Inc：`13F 占比 3.3%`，市值约 `$0.13bn`，股数/份额 `1,645,885`。
+- `CPNG` Coupang Inc：`13F 占比 3.0%`，市值约 `$0.12bn`，股数/份额 `4,105,424`。
+- `FLTR` Flutter Entmt Plc：`13F 占比 2.8%`，市值约 `$0.12bn`，股数/份额 `405,320`。
 
-#### Q1 2025
+### 变化摘要（Q1 2026 vs Q4 2025）
 
-- `NTRA` Natera：癌症早筛、无创产检与精准诊断平台。 `13F 占比 16%`
-- `TEVA` Teva Pharmaceutical Industries：仿制药、生物类似药与专科药转型平台。 `13F 占比 8%`
-- `CPNG` Coupang：韩国电商与物流平台。 `13F 占比 7%`
-- `WWD` Woodward：航空航天与工业控制系统供应商。 `13F 占比 7%`
-- `PM` Philip Morris International：全球烟草与无烟尼古丁平台。 `13F 占比 6%`
-- `COHR` Coherent：光通信、激光与半导体相关设备平台。 `13F 占比 5%`
-- `MELI` MercadoLibre：拉美电商、支付与物流平台。 `13F 占比 3%`
-- `INSM` Insmed：聚焦罕见病与肺部疾病的新药研发公司。 `13F 占比 3%`
-- `TSM` Taiwan Semiconductor Manufacturing：全球晶圆代工核心平台。 `13F 占比 3%`
-- `DOCU` DocuSign：电子签名与数字合同平台。 `13F 占比 3%`
-
-### 变化摘要（Q4 2025 vs Q3 2025）
-
-- 新进前 10：XLF Financial Select Sector SPDR Fund、RSP Invesco S&P 500 Equal Weight ETF、AMZN Amazon、EWZ iShares MSCI Brazil ETF（CALL）
-- 退出前 10：MELI MercadoLibre、DOCU DocuSign、VRNA Verona Pharma、EEM iShares MSCI Emerging Markets ETF
-- 显著加仓：XLF 与 RSP 说明他把金融板块和等权美国市场当成底盘配置抬高；AMZN 回到前十，说明在高增长大盘里仍愿意押最硬的经营平台。
-- 显著减仓：TEVA 从 `8%` 降到 `4%`，INSM 从 `9%` 降到 `6%`，NTRA 也从 `13%` 回到 `13%` 附近但绝对持股减少，显示他仍愿意重仓单点，但会在趋势兑现后明显回收部分仓位。
-- 过去一年最稳定的核心：NTRA Natera、TEVA Teva、INSM Insmed、WWD Woodward、TSM Taiwan Semiconductor、CPNG Coupang
+- 持仓总市值变化：从 `$4.49bn` 到 `$3.38bn`，下降 `-$1.12bn`（-24.9%）。粗拆：主动仓位变化 `-$1.03bn`，价格变化 `-$0.09bn`；主要由主动仓位变化拖累。
+- 新进前 10：Invesco Exchange Traded call, Ypf Sociedad Anonima, Ishares, Bbb Foods, Alcoa, Newamsterdam Pharma Company
+- 退出前 10：Select Sector Spdr, Invesco Exchange Traded, Teva Pharmaceutical Inds, Woodward, AMZN, CPNG
+- 权重上升：Natera（+5.3 pct）, Ypf Sociedad Anonima（+3.9 pct）, Stmicroelectronics N V（+2.2 pct）, Ishares call（+1.8 pct）, Ishares（+1.4 pct）
+- 权重下降：AMZN（-3.5 pct）, CPNG（-2.1 pct）, MELI（-2.0 pct）, Teva Pharmaceutical Inds（-2.0 pct）, Woodward（-1.7 pct）
+- 显著加仓：Natera（股数 +552,249，+22.0%）, Ypf Sociedad Anonima（股数 +2,628,972，+433.1%）, Stmicroelectronics N V（股数 +1,839,325，+237.8%）, Adma Biologics（股数 +1,293,410，+512.9%）, AMZN call（股数 +100,000，+100.0%）
+- 显著减仓：AMZN（股数 -692,140，-93.8%）, Woodward（股数 -379,575，-64.2%）, Teva Pharmaceutical Inds（股数 -3,497,585，-59.5%）, CPNG（股数 -4,105,424，-60.6%）, MELI（股数 -44,383，-94.1%）
 
 ### 数据来源
 
-- [Q4 2025 13F](https://13f.info/13f/000153641126000002-duquesne-family-office-llc-q4-2025)
-- [Q3 2025 13F](https://13f.info/13f/000153641125000017-duquesne-family-office-llc-q3-2025)
-- [Q2 2025 13F](https://13f.info/13f/000153641125000011-duquesne-family-office-llc-q2-2025)
-- [Q1 2025 13F](https://13f.info/13f/000153641125000008-duquesne-family-office-llc-q1-2025)
-- [SEC EDGAR filings for Duquesne Family Office LLC](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1536411&type=13F-HR&owner=exclude&count=40)
+- [SEC 13F Q1 2026 filing detail](https://www.sec.gov/Archives/edgar/data/1536411/000153641126000004/0001536411-26-000004-index.html)
+- [SEC 13F Q4 2025 filing detail](https://www.sec.gov/Archives/edgar/data/1536411/000153641126000002/0001536411-26-000002-index.html)
+- [SEC 13F Q3 2025 filing detail](https://www.sec.gov/Archives/edgar/data/1536411/000153641125000017/0001536411-25-000017-index.html)
+- [SEC 13F Q2 2025 filing detail](https://www.sec.gov/Archives/edgar/data/1536411/000153641125000011/0001536411-25-000011-index.html)
 
 ## 机构传承
 

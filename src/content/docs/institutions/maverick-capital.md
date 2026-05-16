@@ -43,41 +43,82 @@ Maverick 的文化骨架，不像 Bridgewater 那样高调写原则，也不像 
 - [McKinsey｜李·安斯利：走进 Maverick Capital，传统多空基金如何研究企业](/investor-masters/sources/source-22/)
 - [CFO｜李·安斯利：对冲不是目的，理解企业才是](/investor-masters/sources/source-10/)
 
-## 13F 持仓（最新一季）
+## 13F 持仓（近四个季度）
 
 ### 怎么看这组披露
 
-13F 只覆盖美国公开股票多头及部分期权仓位，不包含完整空头结构，也看不到 Maverick 在组合内部如何做真正的 多空 spread。
+13F 只覆盖美国公开股票多头及部分期权披露，且有季度滞后，不代表机构完整组合；`持仓总市值变化` 也只是这张 13F 表内的可见市值变化。
 
-因此，对 Maverick 这类机构来说，13F 解释力是 `中等`：它能让你看见公开多头偏好，但看不见这家机构完整的对冲表达。
+### 近四个已披露季度前 10 大持仓
 
-### Q4 2025 前十大持仓
+#### Q1 2026
 
-- `NVDA` NVIDIA：AI 芯片与算力平台。 `13F 占比 6.0%`
-- `MSFT` Microsoft：企业软件、云与生产力平台。 `13F 占比 6.0%`
-- `AMZN` Amazon：电商、云计算与物流平台。 `13F 占比 5.9%`
-- `TSM` Taiwan Semiconductor：全球先进制程晶圆代工龙头。 `13F 占比 5.4%`
-- `GOOG` Alphabet：搜索、广告与云平台。 `13F 占比 3.8%`
-- `PM` Philip Morris：全球烟草与无烟产品平台。 `13F 占比 3.7%`
-- `COF` Capital One：美国信用卡与消费金融平台。 `13F 占比 3.4%`
-- `UNP` Union Pacific：美国铁路网络平台。 `13F 占比 3.3%`
-- `AMAT` Applied Materials：半导体设备龙头。 `13F 占比 3.1%`
-- `BSX` Boston Scientific：微创医疗器械平台。 `13F 占比 3.0%`
+- `NVDA` Nvidia Corporation：`13F 占比 6.4%`，市值约 `$0.55bn`，股数/份额 `3,174,918`。
+- `AMZN` Amazon Com Inc：`13F 占比 5.6%`，市值约 `$0.48bn`，股数/份额 `2,318,015`。
+- `TSM` Taiwan Semiconductor Manufac：`13F 占比 4.8%`，市值约 `$0.42bn`，股数/份额 `1,237,358`。
+- `ASML` Asml Hldg Nv：`13F 占比 3.9%`，市值约 `$0.34bn`，股数/份额 `258,377`。
+- `Nu Hldgs` Nu Hldgs Ltd：`13F 占比 3.7%`，市值约 `$0.32bn`，股数/份额 `22,444,311`。
+- `AMAT` Applied Matls Inc：`13F 占比 3.4%`，市值约 `$0.30bn`，股数/份额 `869,943`。
+- `MSFT` Microsoft Corp：`13F 占比 3.1%`，市值约 `$0.27bn`，股数/份额 `725,649`。
+- `Rtx` Rtx Corporation：`13F 占比 3.0%`，市值约 `$0.26bn`，股数/份额 `1,364,888`。
+- `BSX` Boston Scientific Corp：`13F 占比 3.0%`，市值约 `$0.26bn`，股数/份额 `4,195,089`。
+- `Argan` Argan Inc：`13F 占比 2.9%`，市值约 `$0.25bn`，股数/份额 `464,759`。
 
-### 变化摘要（Q4 2025 vs Q3 2025）
+#### Q4 2025
 
-- 新进前 10：`GOOG` Alphabet、`AMAT` Applied Materials、`BSX` Boston Scientific
-- 退出前 10：`NU` Nu Holdings、`RTX` RTX、`NTRA` Natera
-- 显著加仓：`NVDA` NVIDIA、`TSM` Taiwan Semiconductor、`PM` Philip Morris
-- 过去两季最稳定的核心：`AMZN` Amazon、`MSFT` Microsoft、`NVDA` NVIDIA、`TSM` Taiwan Semiconductor、`COF` Capital One、`UNP` Union Pacific
+- `NVDA` Nvidia Corporation：`13F 占比 6.0%`，市值约 `$0.56bn`，股数/份额 `2,986,355`。
+- `MSFT` Microsoft Corp：`13F 占比 6.0%`，市值约 `$0.56bn`，股数/份额 `1,150,498`。
+- `AMZN` Amazon Com Inc：`13F 占比 5.9%`，市值约 `$0.55bn`，股数/份额 `2,382,650`。
+- `TSM` Taiwan Semiconductor Mfg Ltd：`13F 占比 5.4%`，市值约 `$0.50bn`，股数/份额 `1,658,650`。
+- `GOOGL` Alphabet Inc：`13F 占比 3.8%`，市值约 `$0.36bn`，股数/份额 `1,141,503`。
+- `PM` Philip Morris Intl Inc：`13F 占比 3.7%`，市值约 `$0.35bn`，股数/份额 `2,177,027`。
+- `COF` Capital One Finl Corp：`13F 占比 3.4%`，市值约 `$0.31bn`，股数/份额 `1,296,397`。
+- `UNP` Union Pac Corp：`13F 占比 3.3%`，市值约 `$0.30bn`，股数/份额 `1,313,207`。
+- `AMAT` Applied Matls Inc：`13F 占比 3.1%`，市值约 `$0.29bn`，股数/份额 `1,131,276`。
+- `BSX` Boston Scientific Corp：`13F 占比 3.0%`，市值约 `$0.28bn`，股数/份额 `2,944,254`。
 
-这组持仓比我上一版写得更清楚地暴露出 Maverick 的公开多头气味：大平台科技、硬科技制造、金融卡组织、稳定消费和美国基础设施并存。也就是说，这家 classic Tiger 多空 机构即使只看多头切片，仍然明显不是讲单一主题，而是在一组大行业里持续找最强资产。
+#### Q3 2025
+
+- `AMZN` Amazon Com Inc：`13F 占比 6.6%`，市值约 `$0.49bn`，股数/份额 `2,236,598`。
+- `MSFT` Microsoft Corp：`13F 占比 6.5%`，市值约 `$0.48bn`，股数/份额 `931,856`。
+- `NVDA` Nvidia Corporation：`13F 占比 5.3%`，市值约 `$0.40bn`，股数/份额 `2,143,330`。
+- `Nu Hldgs` Nu Hldgs Ltd：`13F 占比 4.5%`，市值约 `$0.34bn`，股数/份额 `20,990,656`。
+- `TSM` Taiwan Semiconductor Mfg Ltd：`13F 占比 3.8%`，市值约 `$0.28bn`，股数/份额 `1,019,472`。
+- `UNP` Union Pac Corp：`13F 占比 3.5%`，市值约 `$0.26bn`，股数/份额 `1,115,610`。
+- `PM` Philip Morris Intl Inc：`13F 占比 3.5%`，市值约 `$0.26bn`，股数/份额 `1,622,102`。
+- `COF` Capital One Finl Corp：`13F 占比 3.1%`，市值约 `$0.23bn`，股数/份额 `1,083,934`。
+- `Rtx` Rtx Corporation：`13F 占比 3.0%`，市值约 `$0.23bn`，股数/份额 `1,359,585`。
+- `Natera` Natera Inc：`13F 占比 2.9%`，市值约 `$0.21bn`，股数/份额 `1,332,751`。
+
+#### Q2 2025
+
+- `NVDA` Nvidia Corporation：`13F 占比 7.0%`，市值约 `$0.47bn`，股数/份额 `2,960,996`。
+- `AMZN` Amazon Com Inc：`13F 占比 6.8%`，市值约 `$0.45bn`，股数/份额 `2,060,443`。
+- `TSM` Taiwan Semiconductor Mfg Ltd：`13F 占比 6.0%`，市值约 `$0.40bn`，股数/份额 `1,760,017`。
+- `MSFT` Microsoft Corp：`13F 占比 5.6%`，市值约 `$0.37bn`，股数/份额 `753,404`。
+- `Nu Hldgs` Nu Hldgs Ltd：`13F 占比 4.5%`，市值约 `$0.30bn`，股数/份额 `21,737,851`。
+- `PM` Philip Morris Intl Inc：`13F 占比 4.1%`，市值约 `$0.27bn`，股数/份额 `1,481,478`。
+- `Natera` Natera Inc：`13F 占比 3.8%`，市值约 `$0.25bn`，股数/份额 `1,489,707`。
+- `COF` Capital One Finl Corp：`13F 占比 3.6%`，市值约 `$0.24bn`，股数/份额 `1,114,960`。
+- `Kenvue` Kenvue Inc：`13F 占比 3.3%`，市值约 `$0.22bn`，股数/份额 `10,408,055`。
+- `Disney Walt` Disney Walt Co：`13F 占比 2.8%`，市值约 `$0.19bn`，股数/份额 `1,508,487`。
+
+### 变化摘要（Q1 2026 vs Q4 2025）
+
+- 持仓总市值变化：从 `$9.32bn` 到 `$8.67bn`，下降 `-$0.65bn`（-6.9%）。粗拆：主动仓位变化 `-$0.12bn`，价格变化 `-$0.52bn`；主要由价格变化拖累。
+- 新进前 10：ASML, Nu Hldgs, Rtx, Argan
+- 退出前 10：GOOGL, PM, COF, UNP
+- 权重上升：Nu Hldgs（+1.6 pct）, Argan（+1.4 pct）, Mcdonalds（+1.0 pct）, ASML（+0.9 pct）, Dicks Sporting Goods（+0.6 pct）
+- 权重下降：MSFT（-2.9 pct）, PM（-2.7 pct）, Compass（-1.0 pct）, GOOGL（-1.0 pct）, Disney Walt（-0.9 pct）
+- 显著加仓：Nu Hldgs（股数 +10,729,747，+91.6%）, BSX（股数 +1,250,835，+42.5%）, Mcdonalds（股数 +281,647，+2261.7%）, Biotechne（股数 +888,798，+23.1%）, Natera（股数 +227,605，+24.1%）
+- 显著减仓：PM（股数 -1,609,777，-73.9%）, MSFT（股数 -424,849，-36.9%）, TSM（股数 -421,292，-25.4%）, GOOGL（股数 -268,806，-23.5%）, Disney Walt（股数 -699,642，-99.0%）
 
 ### 数据来源
 
-- [Maverick Capital Ltd Q4 2025 13F page on 13f.info](https://13f.info/13f/000094787126000150-maverick-capital-ltd-q4-2025)
-- [Maverick Capital Ltd compare page on 13f.info](https://13f.info/13f/000094787124000903/compare/000094787125000533)
-- [Maverick Capital Ltd Q3 2025 13F page on 13f.info](https://13f.info/13f/000094787125001016-maverick-capital-ltd-q3-2025)
+- [SEC 13F Q1 2026 filing detail](https://www.sec.gov/Archives/edgar/data/934639/000094787126000553/0000947871-26-000553-index.html)
+- [SEC 13F Q4 2025 filing detail](https://www.sec.gov/Archives/edgar/data/934639/000094787126000150/0000947871-26-000150-index.html)
+- [SEC 13F Q3 2025 filing detail](https://www.sec.gov/Archives/edgar/data/934639/000094787125001016/0000947871-25-001016-index.html)
+- [SEC 13F Q2 2025 filing detail](https://www.sec.gov/Archives/edgar/data/934639/000094787125000775/0000947871-25-000775-index.html)
 
 ## 机构传承
 

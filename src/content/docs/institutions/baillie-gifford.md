@@ -40,75 +40,78 @@ Baillie Gifford 的核心文化约束，不是高频奖惩，而是合伙制、�
 
 ### 怎么看这组披露
 
-13F 只覆盖美国公开股票多头及部分期权披露，且有季度滞后，不代表机构完整组合。
-Baillie Gifford 的 13F 只覆盖其中一部分美国公开股票敞口；它看不到大量全球与未上市成长资产，所以这里更像一个窗口而不是全貌。
+13F 只覆盖美国公开股票多头及部分期权披露，且有季度滞后，不代表机构完整组合；`持仓总市值变化` 也只是这张 13F 表内的可见市值变化。
 
 ### 近四个已披露季度前 10 大持仓
 
+#### Q1 2026
+
+- `NVDA` Nvidia：`13F 占比 7.3%`，市值约 `$7.11bn`，股数/份额 `40,748,665`。
+- `AMZN` Amazon.Com：`13F 占比 6.0%`，市值约 `$5.85bn`，股数/份额 `28,092,199`。
+- `MELI` Mercadolibre：`13F 占比 5.7%`，市值约 `$5.59bn`，股数/份额 `3,233,259`。
+- `SPOT` Spotify Technology Sa：`13F 占比 4.1%`，市值约 `$3.99bn`，股数/份额 `8,218,203`。
+- `NU` Nu Holdings Ltd.：`13F 占比 3.6%`，市值约 `$3.54bn`，股数/份额 `246,564,454`。
+- `SHOP` Shopify 'A'：`13F 占比 3.5%`，市值约 `$3.44bn`，股数/份额 `29,021,841`。
+- `NET` Cloudflare Inc：`13F 占比 3.4%`，市值约 `$3.29bn`，股数/份额 `15,924,423`。
+- `SE` Sea Ltd Adr：`13F 占比 3.4%`，市值约 `$3.28bn`，股数/份额 `39,654,072`。
+- `PDD` Pdd Holdings Inc：`13F 占比 3.0%`，市值约 `$2.90bn`，股数/份额 `28,353,099`。
+- `APP` Applovin：`13F 占比 2.7%`，市值约 `$2.67bn`，股数/份额 `6,700,132`。
+
 #### Q4 2025
 
-- `NVDA` Nvidia：AI 芯片与算力平台核心承接者。 `13F 占比 6.8%`
-- `MELI` MercadoLibre：拉美电商、支付与物流平台。 `13F 占比 5.8%`
-- `AMZN` Amazon：电商、云计算与物流平台。 `13F 占比 5.6%`
-- `SHOP` Shopify：商家电商基础设施与支付平台。 `13F 占比 4.2%`
-- `SE` Sea：东南亚游戏、电商与金融科技平台。 `13F 占比 4.1%`
-- `SPOT` Spotify：全球音频流媒体平台。 `13F 占比 4.0%`
-- `NU` Nu Holdings：拉美数字银行平台。 `13F 占比 3.6%`
-- `APP` AppLovin：移动广告与应用商业化平台。 `13F 占比 3.5%`
-- `0A2S.IL` PDD Holdings：拼多多与 Temu 背后的电商平台。 `13F 占比 2.9%`
-- `NFLX` Netflix：全球流媒体内容平台。 `13F 占比 2.9%`
+- `NVDA` Nvidia：`13F 占比 6.8%`，市值约 `$8.18bn`，股数/份额 `43,867,705`。
+- `MELI` Mercadolibre：`13F 占比 5.8%`，市值约 `$7.01bn`，股数/份额 `3,481,563`。
+- `AMZN` Amazon.Com：`13F 占比 5.6%`，市值约 `$6.78bn`，股数/份额 `29,387,070`。
+- `SHOP` Shopify 'A'：`13F 占比 4.2%`，市值约 `$5.02bn`，股数/份额 `31,206,232`。
+- `SE` Sea Ltd Adr：`13F 占比 4.1%`，市值约 `$4.94bn`，股数/份额 `38,758,791`。
+- `SPOT` Spotify Technology Sa：`13F 占比 4.0%`，市值约 `$4.84bn`，股数/份额 `8,331,104`。
+- `NU` Nu Holdings Ltd.：`13F 占比 3.6%`，市值约 `$4.31bn`，股数/份额 `257,256,952`。
+- `APP` Applovin：`13F 占比 3.5%`，市值约 `$4.16bn`，股数/份额 `6,166,349`。
+- `PDD` Pdd Holdings Inc：`13F 占比 2.9%`，市值约 `$3.52bn`，股数/份额 `31,032,323`。
+- `NFLX` Netflix Inc：`13F 占比 2.9%`，市值约 `$3.46bn`，股数/份额 `36,940,035`。
 
 #### Q3 2025
 
-- `NVDA` Nvidia：AI 芯片与算力平台核心承接者。 `13F 占比 6.4%`
-- `MELI` MercadoLibre：拉美电商、支付与物流平台。 `13F 占比 5.7%`
-- `SE` Sea：东南亚游戏、电商与金融科技平台。 `13F 占比 5.3%`
-- `AMZN` Amazon：电商、云计算与物流平台。 `13F 占比 5.1%`
-- `SPOT` Spotify：全球音频流媒体平台。 `13F 占比 4.5%`
-- `SHOP` Shopify：商家电商基础设施与支付平台。 `13F 占比 3.9%`
-- `CPNG` Coupang：韩国电商与物流履约平台。 `13F 占比 3.6%`
-- `NET` Cloudflare：边缘云、安全与网络平台。 `13F 占比 3.5%`
-- `APP` AppLovin：移动广告与应用商业化平台。 `13F 占比 3.3%`
-- `NFLX` Netflix：全球流媒体内容平台。 `13F 占比 3.2%`
+- `NVDA` Nvidia：`13F 占比 6.4%`，市值约 `$8.69bn`，股数/份额 `46,549,296`。
+- `MELI` Mercadolibre：`13F 占比 5.7%`，市值约 `$7.75bn`，股数/份额 `3,317,443`。
+- `SE` Sea Ltd Adr：`13F 占比 5.3%`，市值约 `$7.17bn`，股数/份额 `40,090,290`。
+- `AMZN` Amazon.Com：`13F 占比 5.1%`，市值约 `$6.95bn`，股数/份额 `31,659,114`。
+- `SPOT` Spotify Technology Sa：`13F 占比 4.5%`，市值约 `$6.07bn`，股数/份额 `8,695,348`。
+- `SHOP` Shopify 'A'：`13F 占比 3.9%`，市值约 `$5.27bn`，股数/份额 `35,443,787`。
+- `CPNG` Coupang：`13F 占比 3.6%`，市值约 `$4.84bn`，股数/份额 `150,382,707`。
+- `NET` Cloudflare Inc：`13F 占比 3.5%`，市值约 `$4.69bn`，股数/份额 `21,848,740`。
+- `APP` Applovin：`13F 占比 3.3%`，市值约 `$4.49bn`，股数/份额 `6,245,960`。
+- `NFLX` Netflix Inc：`13F 占比 3.2%`，市值约 `$4.37bn`，股数/份额 `3,649,047`。
 
 #### Q2 2025
 
-- `MELI` MercadoLibre：拉美电商、支付与物流平台。 `13F 占比 6.8%`
-- `NVDA` Nvidia：AI 芯片与算力平台核心承接者。 `13F 占比 5.8%`
-- `SPOT` Spotify：全球音频流媒体平台。 `13F 占比 5.5%`
-- `AMZN` Amazon：电商、云计算与物流平台。 `13F 占比 5.5%`
-- `SE` Sea：东南亚游戏、电商与金融科技平台。 `13F 占比 5.0%`
-- `NFLX` Netflix：全球流媒体内容平台。 `13F 占比 3.9%`
-- `NET` Cloudflare：边缘云、安全与网络平台。 `13F 占比 3.7%`
-- `CPNG` Coupang：韩国电商与物流履约平台。 `13F 占比 3.6%`
-- `SHOP` Shopify：商家电商基础设施与支付平台。 `13F 占比 3.3%`
-- `META` Meta Platforms：社交广告与 AI 分发平台。 `13F 占比 3.0%`
+- `MELI` Mercadolibre：`13F 占比 6.8%`，市值约 `$9.16bn`，股数/份额 `3,505,672`。
+- `NVDA` Nvidia：`13F 占比 5.8%`，市值约 `$7.75bn`，股数/份额 `49,063,121`。
+- `SPOT` Spotify Technology Sa：`13F 占比 5.5%`，市值约 `$7.39bn`，股数/份额 `9,628,910`。
+- `AMZN` Amazon.Com：`13F 占比 5.5%`，市值约 `$7.30bn`，股数/份额 `33,294,360`。
+- `SE` Sea Ltd Adr：`13F 占比 5.0%`，市值约 `$6.66bn`，股数/份额 `41,623,294`。
+- `NFLX` Netflix Inc：`13F 占比 3.9%`，市值约 `$5.23bn`，股数/份额 `3,903,505`。
+- `NET` Cloudflare Inc：`13F 占比 3.7%`，市值约 `$5.00bn`，股数/份额 `25,525,131`。
+- `CPNG` Coupang：`13F 占比 3.6%`，市值约 `$4.82bn`，股数/份额 `160,899,909`。
+- `SHOP` Shopify 'A'：`13F 占比 3.3%`，市值约 `$4.35bn`，股数/份额 `37,748,072`。
+- `META` Meta Platforms Inc：`13F 占比 3.0%`，市值约 `$4.02bn`，股数/份额 `5,453,213`。
 
-#### Q1 2025
+### 变化摘要（Q1 2026 vs Q4 2025）
 
-- `MELI` MercadoLibre：拉美电商、支付与物流平台。 `13F 占比 6.4%`
-- `AMZN` Amazon：电商、云计算与物流平台。 `13F 占比 5.8%`
-- `SPOT` Spotify：全球音频流媒体平台。 `13F 占比 5.2%`
-- `SHOP` Shopify：商家电商基础设施与支付平台。 `13F 占比 4.7%`
-- `SE` Sea：东南亚游戏、电商与金融科技平台。 `13F 占比 4.5%`
-- `NVDA` Nvidia：AI 芯片与算力平台核心承接者。 `13F 占比 4.4%`
-- `0A2S.IL` PDD Holdings：拼多多与 Temu 背后的电商平台。 `13F 占比 4.1%`
-- `NFLX` Netflix：全球流媒体内容平台。 `13F 占比 3.3%`
-- `CPNG` Coupang：韩国电商与物流履约平台。 `13F 占比 3.0%`
-- `META` Meta Platforms：社交广告与 AI 分发平台。 `13F 占比 3.0%`
-
-### 变化摘要（Q4 2025 vs Q3 2025）
-
-- 新进前 10：NU Nu Holdings、0A2S.IL PDD Holdings
-- 退出前 10：CPNG Coupang、NET Cloudflare
-- 显著加仓：AMZN Amazon（+0.5 pct）
-- 显著减仓：SE Sea（-1.2 pct）、SPOT Spotify（-0.5 pct）
-- 过去一年最稳定的核心：NVDA Nvidia、MELI MercadoLibre、AMZN Amazon、SHOP Shopify、SE Sea、SPOT Spotify、NFLX Netflix
+- 持仓总市值变化：从 `$120.34bn` 到 `$97.89bn`，下降 `-$22.45bn`（-18.7%）。粗拆：主动仓位变化 `-$5.23bn`，价格变化 `-$17.22bn`；主要由价格变化拖累。
+- 新进前 10：NET
+- 退出前 10：NFLX
+- 权重上升：Petrobras Common Adr（+0.7 pct）, Credicorp（+0.6 pct）, NET（+0.6 pct）, Moderna（+0.5 pct）, NVDA（+0.5 pct）
+- 权重下降：Microsoft（-0.8 pct）, SE（-0.8 pct）, NFLX（-0.7 pct）, APP（-0.7 pct）, The Trade Desk（-0.7 pct）
+- 显著加仓：Makemytrip（股数 +9,857,927，+191.2%）, Axon Enterprise（股数 +817,149，+49.7%）, Credicorp（股数 +1,296,605，+90.5%）, APP（股数 +533,783，+8.7%）, Samsara（股数 +9,863,279，+20.7%）
+- 显著减仓：NFLX（股数 -15,134,366，-41.0%）, The Trade Desk（股数 -22,155,614，-99.3%）, Microsoft（股数 -1,666,810，-30.1%）, CPNG（股数 -25,465,852，-17.4%）, NVDA（股数 -3,119,040，-7.1%）
 
 ### 数据来源
 
-- [13f.info manager page](https://13f.info/manager/0001088875-baillie-gifford-co)：用于读取近四个已披露季度的结构化 13F 持仓表。
-- [SEC EDGAR 13F filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1088875&type=13F-HR&owner=exclude&count=40)：原始 filing 查询入口。
+- [SEC 13F Q1 2026 filing detail](https://www.sec.gov/Archives/edgar/data/1088875/000108887526000037/0001088875-26-000037-index.html)
+- [SEC 13F Q4 2025 filing detail](https://www.sec.gov/Archives/edgar/data/1088875/000108887526000002/0001088875-26-000002-index.html)
+- [SEC 13F Q3 2025 filing detail](https://www.sec.gov/Archives/edgar/data/1088875/000108887525000079/0001088875-25-000079-index.html)
+- [SEC 13F Q2 2025 filing detail](https://www.sec.gov/Archives/edgar/data/1088875/000108887525000057/0001088875-25-000057-index.html)
 
 ## 机构传承
 

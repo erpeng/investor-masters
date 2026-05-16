@@ -51,75 +51,78 @@ CNBC 总部访谈里，Ken 直接把 `pursuit of talent` 说成 创始原则；S
 
 ### 怎么看这组披露
 
-13F 只覆盖美国公开股票多头及部分期权披露，且有季度滞后，不代表机构完整组合。
-对 Citadel 这类多策略平台，13F 的解释力最弱，因为公开表里会同时出现 ETF、股票与期权覆盖；它更适合作为公开账面轨迹，而不是完整风险暴露。
+13F 只覆盖美国公开股票多头及部分期权披露，且有季度滞后，不代表机构完整组合；`持仓总市值变化` 也只是这张 13F 表内的可见市值变化。
 
 ### 近四个已披露季度前 10 大持仓
 
+#### Q1 2026
+
+- `SPY` State Str Spdr S&P 500 Etf T put：`13F 占比 4.1%`，市值约 `$25.20bn`，股数/份额 `39,342,000`。
+- `Invesco Qqq Tr` Invesco Qqq Tr put：`13F 占比 3.3%`，市值约 `$20.54bn`，股数/份额 `35,591,300`。
+- `SPY` State Str Spdr S&P 500 Etf T call：`13F 占比 2.9%`，市值约 `$18.18bn`，股数/份额 `28,238,600`。
+- `TSLA` Tesla Inc call：`13F 占比 2.2%`，市值约 `$13.53bn`，股数/份额 `36,403,000`。
+- `IVV` Ishares Tr put：`13F 占比 2.1%`，市值约 `$13.24bn`，股数/份额 `124,380,700`。
+- `NVDA` Nvidia Corporation call：`13F 占比 1.9%`，市值约 `$11.67bn`，股数/份额 `66,888,000`。
+- `Invesco Qqq Tr` Invesco Qqq Tr call：`13F 占比 1.8%`，市值约 `$11.25bn`，股数/份额 `19,496,300`。
+- `IVV` Ishares Tr call：`13F 占比 1.8%`，市值约 `$11.23bn`，股数/份额 `114,182,500`。
+- `TSLA` Tesla Inc put：`13F 占比 1.5%`，市值约 `$9.45bn`，股数/份额 `25,427,200`。
+- `Spdr Gold Tr` Spdr Gold Tr call：`13F 占比 1.5%`，市值约 `$9.43bn`，股数/份额 `21,912,100`。
+
 #### Q4 2025
 
-- `QQQ` Invesco QQQ Trust（PUT）：跟踪纳斯达克 100 指数的大型 ETF。 `13F 占比 3.3%`
-- `SPY` SPDR S&P 500 ETF Trust（PUT）：跟踪标普 500 指数的大型 ETF。 `13F 占比 3.0%`
-- `TSLA` Tesla（CALL）：电动车、储能与自动驾驶平台。 `13F 占比 3.0%`
-- `SPY` SPDR S&P 500 ETF Trust（CALL）：跟踪标普 500 指数的大型 ETF。 `13F 占比 2.7%`
-- `NVDA` Nvidia（CALL）：AI 芯片与算力平台核心承接者。 `13F 占比 2.2%`
-- `TSLA` Tesla（PUT）：电动车、储能与自动驾驶平台。 `13F 占比 2.2%`
-- `QQQ` Invesco QQQ Trust（CALL）：跟踪纳斯达克 100 指数的大型 ETF。 `13F 占比 2.1%`
-- `NVDA` Nvidia（PUT）：AI 芯片与算力平台核心承接者。 `13F 占比 1.5%`
-- `META` Meta Platforms（CALL）：社交广告与 AI 分发平台。 `13F 占比 1.5%`
-- `AAPL` Apple Inc.（CALL）：iPhone、服务与硬件生态平台。 `13F 占比 1.3%`
+- `Invesco Qqq Tr` Invesco Qqq Tr put：`13F 占比 3.3%`，市值约 `$22.24bn`，股数/份额 `36,209,000`。
+- `SPY` Spdr S&P 500 Etf Tr put：`13F 占比 3.0%`，市值约 `$19.74bn`，股数/份额 `28,954,000`。
+- `TSLA` Tesla Inc call：`13F 占比 3.0%`，市值约 `$19.66bn`，股数/份额 `43,725,100`。
+- `SPY` Spdr S&P 500 Etf Tr call：`13F 占比 2.7%`，市值约 `$18.27bn`，股数/份额 `26,791,900`。
+- `NVDA` Nvidia Corporation call：`13F 占比 2.2%`，市值约 `$14.54bn`，股数/份额 `77,938,300`。
+- `TSLA` Tesla Inc put：`13F 占比 2.2%`，市值约 `$14.45bn`，股数/份额 `32,137,700`。
+- `Invesco Qqq Tr` Invesco Qqq Tr call：`13F 占比 2.1%`，市值约 `$13.83bn`，股数/份额 `22,507,800`。
+- `IVV` Ishares Tr put：`13F 占比 1.9%`，市值约 `$12.98bn`，股数/份额 `113,605,300`。
+- `NVDA` Nvidia Corporation put：`13F 占比 1.5%`，市值约 `$10.27bn`，股数/份额 `55,048,300`。
+- `IVV` Ishares Tr call：`13F 占比 1.5%`，市值约 `$10.13bn`，股数/份额 `89,238,300`。
 
 #### Q3 2025
 
-- `SPY` SPDR S&P 500 ETF Trust（PUT）：跟踪标普 500 指数的大型 ETF。 `13F 占比 4.2%`
-- `QQQ` Invesco QQQ Trust（PUT）：跟踪纳斯达克 100 指数的大型 ETF。 `13F 占比 4.0%`
-- `SPY` SPDR S&P 500 ETF Trust（CALL）：跟踪标普 500 指数的大型 ETF。 `13F 占比 2.8%`
-- `TSLA` Tesla（CALL）：电动车、储能与自动驾驶平台。 `13F 占比 2.5%`
-- `QQQ` Invesco QQQ Trust（CALL）：跟踪纳斯达克 100 指数的大型 ETF。 `13F 占比 2.5%`
-- `TSLA` Tesla（PUT）：电动车、储能与自动驾驶平台。 `13F 占比 2.3%`
-- `NVDA` Nvidia（CALL）：AI 芯片与算力平台核心承接者。 `13F 占比 2.2%`
-- `NVDA` Nvidia（PUT）：AI 芯片与算力平台核心承接者。 `13F 占比 1.9%`
-- `META` Meta Platforms（CALL）：社交广告与 AI 分发平台。 `13F 占比 1.3%`
-- `AAPL` Apple Inc.（CALL）：iPhone、服务与硬件生态平台。 `13F 占比 1.3%`
+- `SPY` Spdr S&P 500 Etf Tr put：`13F 占比 4.2%`，市值约 `$27.31bn`，股数/份额 `41,000,100`。
+- `Invesco Qqq Tr` Invesco Qqq Tr put：`13F 占比 4.0%`，市值约 `$26.58bn`，股数/份额 `44,269,600`。
+- `SPY` Spdr S&P 500 Etf Tr call：`13F 占比 2.8%`，市值约 `$18.41bn`，股数/份额 `27,640,700`。
+- `TSLA` Tesla Inc call：`13F 占比 2.5%`，市值约 `$16.33bn`，股数/份额 `36,718,500`。
+- `Invesco Qqq Tr` Invesco Qqq Tr call：`13F 占比 2.5%`，市值约 `$16.33bn`，股数/份额 `27,196,000`。
+- `IVV` Ishares Tr put：`13F 占比 2.3%`，市值约 `$15.36bn`，股数/份额 `133,034,900`。
+- `TSLA` Tesla Inc put：`13F 占比 2.3%`，市值约 `$14.95bn`，股数/份额 `33,620,100`。
+- `NVDA` Nvidia Corporation call：`13F 占比 2.2%`，市值约 `$14.50bn`，股数/份额 `77,694,400`。
+- `NVDA` Nvidia Corporation put：`13F 占比 1.9%`，市值约 `$12.16bn`，股数/份额 `65,187,100`。
+- `IVV` Ishares Tr call：`13F 占比 1.4%`，市值约 `$9.13bn`，股数/份额 `78,147,200`。
 
 #### Q2 2025
 
-- `SPY` SPDR S&P 500 ETF Trust（PUT）：跟踪标普 500 指数的大型 ETF。 `13F 占比 5.8%`
-- `SPY` SPDR S&P 500 ETF Trust（CALL）：跟踪标普 500 指数的大型 ETF。 `13F 占比 4.2%`
-- `QQQ` Invesco QQQ Trust（PUT）：跟踪纳斯达克 100 指数的大型 ETF。 `13F 占比 3.5%`
-- `QQQ` Invesco QQQ Trust（CALL）：跟踪纳斯达克 100 指数的大型 ETF。 `13F 占比 3.0%`
-- `NVDA` Nvidia（CALL）：AI 芯片与算力平台核心承接者。 `13F 占比 2.2%`
-- `NVDA` Nvidia（PUT）：AI 芯片与算力平台核心承接者。 `13F 占比 1.9%`
-- `TSLA` Tesla（CALL）：电动车、储能与自动驾驶平台。 `13F 占比 1.9%`
-- `TSLA` Tesla（PUT）：电动车、储能与自动驾驶平台。 `13F 占比 1.8%`
-- `META` Meta Platforms（CALL）：社交广告与 AI 分发平台。 `13F 占比 1.5%`
-- `IWM` iShares Russell 2000 ETF（PUT）：跟踪罗素 2000 指数的小盘股 ETF。 `13F 占比 1.2%`
+- `SPY` Spdr S&P 500 Etf Tr put：`13F 占比 5.8%`，市值约 `$33.47bn`，股数/份额 `54,174,200`。
+- `SPY` Spdr S&P 500 Etf Tr call：`13F 占比 4.2%`，市值约 `$23.95bn`，股数/份额 `38,758,900`。
+- `Invesco Qqq Tr` Invesco Qqq Tr put：`13F 占比 3.5%`，市值约 `$19.88bn`，股数/份额 `36,032,200`。
+- `Invesco Qqq Tr` Invesco Qqq Tr call：`13F 占比 3.0%`，市值约 `$17.29bn`，股数/份额 `31,338,500`。
+- `IVV` Ishares Tr put：`13F 占比 2.3%`，市值约 `$13.41bn`，股数/份额 `122,056,400`。
+- `NVDA` Nvidia Corporation call：`13F 占比 2.2%`，市值约 `$12.95bn`，股数/份额 `81,972,100`。
+- `NVDA` Nvidia Corporation put：`13F 占比 1.9%`，市值约 `$11.23bn`，股数/份额 `71,081,900`。
+- `TSLA` Tesla Inc call：`13F 占比 1.9%`，市值约 `$11.03bn`，股数/份额 `34,728,300`。
+- `TSLA` Tesla Inc put：`13F 占比 1.8%`，市值约 `$10.52bn`，股数/份额 `33,107,700`。
+- `IVV` Ishares Tr call：`13F 占比 1.7%`，市值约 `$9.89bn`，股数/份额 `82,269,500`。
 
-#### Q1 2025
+### 变化摘要（Q1 2026 vs Q4 2025）
 
-- `SPY` SPDR S&P 500 ETF Trust（PUT）：跟踪标普 500 指数的大型 ETF。 `13F 占比 8.2%`
-- `SPY` SPDR S&P 500 ETF Trust（CALL）：跟踪标普 500 指数的大型 ETF。 `13F 占比 6.2%`
-- `QQQ` Invesco QQQ Trust（CALL）：跟踪纳斯达克 100 指数的大型 ETF。 `13F 占比 3.8%`
-- `QQQ` Invesco QQQ Trust（PUT）：跟踪纳斯达克 100 指数的大型 ETF。 `13F 占比 3.2%`
-- `TSLA` Tesla（PUT）：电动车、储能与自动驾驶平台。 `13F 占比 2.1%`
-- `TSLA` Tesla（CALL）：电动车、储能与自动驾驶平台。 `13F 占比 1.8%`
-- `NVDA` Nvidia（CALL）：AI 芯片与算力平台核心承接者。 `13F 占比 1.8%`
-- `NVDA` Nvidia（PUT）：AI 芯片与算力平台核心承接者。 `13F 占比 1.6%`
-- `META` Meta Platforms（CALL）：社交广告与 AI 分发平台。 `13F 占比 1.5%`
-- `IWM` iShares Russell 2000 ETF（PUT）：跟踪罗素 2000 指数的小盘股 ETF。 `13F 占比 1.4%`
-
-### 变化摘要（Q4 2025 vs Q3 2025）
-
-- 新进前 10：无
-- 退出前 10：无
-- 显著加仓：TSLA Tesla（CALL）（+0.5 pct）
-- 显著减仓：SPY SPDR S&P 500 ETF Trust（PUT）（-1.2 pct）、QQQ Invesco QQQ Trust（PUT）（-0.7 pct）
-- 过去一年最稳定的核心：QQQ Invesco QQQ Trust（PUT）、SPY SPDR S&P 500 ETF Trust（PUT）、TSLA Tesla（CALL）、SPY SPDR S&P 500 ETF Trust（CALL）、NVDA Nvidia（CALL）、TSLA Tesla（PUT）、QQQ Invesco QQQ Trust（CALL）、NVDA Nvidia（PUT）、META Meta Platforms（CALL）
+- 持仓总市值变化：从 `$665.87bn` 到 `$618.47bn`，下降 `-$47.40bn`（-7.1%）。粗拆：主动仓位变化 `$17.22bn`，价格变化 `-$64.62bn`；主要由价格变化拖累。
+- 新进前 10：Spdr Gold Tr call
+- 退出前 10：NVDA put
+- 权重上升：SPY put（+1.1 pct）, IVV（+0.5 pct）, Spdr Gold Tr call（+0.4 pct）, Micron Technology put（+0.4 pct）, Select Sector Spdr put（+0.3 pct）
+- 权重下降：TSLA call（-0.8 pct）, TSLA put（-0.6 pct）
+- 显著加仓：SPY put（股数 +10,388,000，+35.9%）, Echostar（股数 +54,766,320，+7785.8%）, Ionis Pharmaceuticals（股数 +56,807,898，+2661.2%）, Liberty Media Del（股数 +36,376,272，+2877.1%）, MSFT call（股数 +6,465,600，+51.7%）
+- 显著减仓：TSLA call（股数 -7,322,100，-16.7%）, TSLA put（股数 -6,710,500，-20.9%）, NVDA call（股数 -11,050,300，-14.2%）, NFLX put（股数 -21,685,100，-34.5%）, Invesco Qqq Tr call（股数 -3,011,500，-13.4%）
 
 ### 数据来源
 
-- [13f.info manager page](https://13f.info/manager/0001423053-citadel-advisors-llc)：用于读取近四个已披露季度的结构化 13F 持仓表。
-- [SEC EDGAR 13F filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1423053&type=13F-HR&owner=exclude&count=40)：原始 filing 查询入口。
+- [SEC 13F Q1 2026 filing detail](https://www.sec.gov/Archives/edgar/data/1423053/000110465926062477/0001104659-26-062477-index.html)
+- [SEC 13F Q4 2025 filing detail](https://www.sec.gov/Archives/edgar/data/1423053/000110465926016408/0001104659-26-016408-index.html)
+- [SEC 13F Q3 2025 filing detail](https://www.sec.gov/Archives/edgar/data/1423053/000110465925112514/0001104659-25-112514-index.html)
+- [SEC 13F Q2 2025 filing detail](https://www.sec.gov/Archives/edgar/data/1423053/000110465925078555/0001104659-25-078555-index.html)
 
 ## 机构传承
 

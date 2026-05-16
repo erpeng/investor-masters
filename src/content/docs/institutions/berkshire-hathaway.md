@@ -49,75 +49,78 @@ Berkshire 最关键的激励结构不是管理费，而是根本没有基金式�
 
 ### 怎么看这组披露
 
-13F 只覆盖美国公开股票多头及部分期权披露，且有季度滞后，不代表机构完整组合。
-对 Berkshire 这类长期所有者平台，13F 更适合看公开股票多头的缓慢迁移，而不是逆推出全部资本配置，因为它真正重要的资金接口还包括全资子公司、保险 float 和回购。
+13F 只覆盖美国公开股票多头及部分期权披露，且有季度滞后，不代表机构完整组合；`持仓总市值变化` 也只是这张 13F 表内的可见市值变化。
 
 ### 近四个已披露季度前 10 大持仓
 
+#### Q1 2026
+
+- `AAPL` Apple Inc：`13F 占比 22.0%`，市值约 `$57.84bn`，股数/份额 `227,917,808`。
+- `AXP` American Express Co：`13F 占比 17.4%`，市值约 `$45.86bn`，股数/份额 `151,610,700`。
+- `KO` Coca Cola Co：`13F 占比 11.6%`，市值约 `$30.42bn`，股数/份额 `400,000,000`。
+- `BAC` Bank America Corp：`13F 占比 9.5%`，市值约 `$25.04bn`，股数/份额 `513,624,165`。
+- `CVX` Chevron Corporation：`13F 占比 6.6%`，市值约 `$17.46bn`，股数/份额 `84,375,856`。
+- `OXY` Occidental Pete Corp：`13F 占比 6.5%`，市值约 `$17.22bn`，股数/份额 `264,941,431`。
+- `GOOGL` Alphabet Inc：`13F 占比 6.3%`，市值约 `$16.63bn`，股数/份额 `57,835,013`。
+- `CB` Chubb Ltd Switz：`13F 占比 4.2%`，市值约 `$11.16bn`，股数/份额 `34,249,183`。
+- `MCO` Moodys Corp：`13F 占比 4.1%`，市值约 `$10.76bn`，股数/份额 `24,669,778`。
+- `KHC` Kraft Heinz Co：`13F 占比 2.8%`，市值约 `$7.32bn`，股数/份额 `325,634,818`。
+
 #### Q4 2025
 
-- `AAPL` Apple Inc.：iPhone、服务与硬件生态平台。 `13F 占比 22.6%`
-- `AXP` American Express：高端信用卡与商旅支付网络。 `13F 占比 20.5%`
-- `BAC` Bank of America：美国大型综合商业银行。 `13F 占比 10.4%`
-- `KO` Coca-Cola：全球软饮与渠道分销品牌平台。 `13F 占比 10.2%`
-- `CVX` Chevron：上游到炼化一体的能源巨头。 `13F 占比 7.2%`
-- `MCO` Moody's：评级、指数与金融数据服务商。 `13F 占比 4.6%`
-- `OXY` Occidental Petroleum：美国油气资源与化工资产运营商。 `13F 占比 4.0%`
-- `CB` Chubb：全球财产与意外险龙头之一。 `13F 占比 3.9%`
-- `KHC` Kraft Heinz：品牌食品与调味品集团。 `13F 占比 2.9%`
-- `GOOGL` Alphabet：搜索、广告、云与 AI 平台。 `13F 占比 2.0%`
+- `AAPL` Apple Inc：`13F 占比 22.6%`，市值约 `$61.96bn`，股数/份额 `227,917,808`。
+- `AXP` American Express Co：`13F 占比 20.5%`，市值约 `$56.09bn`，股数/份额 `151,610,700`。
+- `BAC` Bank America Corp：`13F 占比 10.4%`，市值约 `$28.45bn`，股数/份额 `517,295,934`。
+- `KO` Coca Cola Co：`13F 占比 10.2%`，市值约 `$27.96bn`，股数/份额 `400,000,000`。
+- `CVX` Chevron Corp New：`13F 占比 7.2%`，市值约 `$19.84bn`，股数/份额 `130,156,362`。
+- `MCO` Moodys Corp：`13F 占比 4.6%`，市值约 `$12.60bn`，股数/份额 `24,669,778`。
+- `OXY` Occidental Pete Corp：`13F 占比 4.0%`，市值约 `$10.89bn`，股数/份额 `264,941,431`。
+- `CB` Chubb Limited：`13F 占比 3.9%`，市值约 `$10.69bn`，股数/份额 `34,249,183`。
+- `KHC` Kraft Heinz Co：`13F 占比 2.9%`，市值约 `$7.90bn`，股数/份额 `325,634,818`。
+- `GOOGL` Alphabet Inc：`13F 占比 2.0%`，市值约 `$5.59bn`，股数/份额 `17,846,142`。
 
 #### Q3 2025
 
-- `AAPL` Apple Inc.：iPhone、服务与硬件生态平台。 `13F 占比 22.7%`
-- `AXP` American Express：高端信用卡与商旅支付网络。 `13F 占比 18.8%`
-- `BAC` Bank of America：美国大型综合商业银行。 `13F 占比 11.0%`
-- `KO` Coca-Cola：全球软饮与渠道分销品牌平台。 `13F 占比 9.9%`
-- `CVX` Chevron：上游到炼化一体的能源巨头。 `13F 占比 7.1%`
-- `OXY` Occidental Petroleum：美国油气资源与化工资产运营商。 `13F 占比 4.7%`
-- `MCO` Moody's：评级、指数与金融数据服务商。 `13F 占比 4.4%`
-- `CB` Chubb：全球财产与意外险龙头之一。 `13F 占比 3.3%`
-- `KHC` Kraft Heinz：品牌食品与调味品集团。 `13F 占比 3.2%`
-- `GOOGL` Alphabet：搜索、广告、云与 AI 平台。 `13F 占比 1.6%`
+- `AAPL` Apple Inc：`13F 占比 22.7%`，市值约 `$60.66bn`，股数/份额 `238,212,764`。
+- `AXP` American Express Co：`13F 占比 18.8%`，市值约 `$50.36bn`，股数/份额 `151,610,700`。
+- `BAC` Bank Amer Corp：`13F 占比 11.0%`，市值约 `$29.31bn`，股数/份额 `568,070,012`。
+- `KO` Coca Cola Co：`13F 占比 9.9%`，市值约 `$26.53bn`，股数/份额 `400,000,000`。
+- `CVX` Chevron Corp New：`13F 占比 7.1%`，市值约 `$18.96bn`，股数/份额 `122,064,792`。
+- `OXY` Occidental Pete Corp：`13F 占比 4.7%`，市值约 `$12.52bn`，股数/份额 `264,941,431`。
+- `MCO` Moodys Corp：`13F 占比 4.4%`，市值约 `$11.75bn`，股数/份额 `24,669,778`。
+- `CB` Chubb Limited：`13F 占比 3.3%`，市值约 `$8.84bn`，股数/份额 `31,332,895`。
+- `KHC` Kraft Heinz Co：`13F 占比 3.2%`，市值约 `$8.48bn`，股数/份额 `325,634,818`。
+- `GOOGL` Alphabet Inc：`13F 占比 1.6%`，市值约 `$4.34bn`，股数/份额 `17,846,142`。
 
 #### Q2 2025
 
-- `AAPL` Apple Inc.：iPhone、服务与硬件生态平台。 `13F 占比 22.3%`
-- `AXP` American Express：高端信用卡与商旅支付网络。 `13F 占比 18.8%`
-- `BAC` Bank of America：美国大型综合商业银行。 `13F 占比 11.1%`
-- `KO` Coca-Cola：全球软饮与渠道分销品牌平台。 `13F 占比 11.0%`
-- `CVX` Chevron：上游到炼化一体的能源巨头。 `13F 占比 6.8%`
-- `MCO` Moody's：评级、指数与金融数据服务商。 `13F 占比 4.8%`
-- `OXY` Occidental Petroleum：美国油气资源与化工资产运营商。 `13F 占比 4.3%`
-- `KHC` Kraft Heinz：品牌食品与调味品集团。 `13F 占比 3.3%`
-- `CB` Chubb：全球财产与意外险龙头之一。 `13F 占比 3.0%`
-- `DVA` DaVita：肾透析与慢病服务提供商。 `13F 占比 1.9%`
+- `AAPL` Apple Inc：`13F 占比 22.3%`，市值约 `$57.45bn`，股数/份额 `280,000,000`。
+- `AXP` American Express Co：`13F 占比 18.8%`，市值约 `$48.36bn`，股数/份额 `151,610,700`。
+- `BAC` Bank Amer Corp：`13F 占比 11.1%`，市值约 `$28.64bn`，股数/份额 `605,267,375`。
+- `KO` Coca Cola Co：`13F 占比 11.0%`，市值约 `$28.30bn`，股数/份额 `400,000,000`。
+- `CVX` Chevron Corp New：`13F 占比 6.8%`，市值约 `$17.48bn`，股数/份额 `122,064,792`。
+- `MCO` Moodys Corp：`13F 占比 4.8%`，市值约 `$12.37bn`，股数/份额 `24,669,778`。
+- `OXY` Occidental Pete Corp：`13F 占比 4.3%`，市值约 `$11.13bn`，股数/份额 `264,941,431`。
+- `KHC` Kraft Heinz Co：`13F 占比 3.3%`，市值约 `$8.41bn`，股数/份额 `325,634,818`。
+- `CB` Chubb Limited：`13F 占比 3.0%`，市值约 `$7.83bn`，股数/份额 `27,033,784`。
+- `DVA` Davita Inc：`13F 占比 1.9%`，市值约 `$4.81bn`，股数/份额 `33,796,541`。
 
-#### Q1 2025
+### 变化摘要（Q1 2026 vs Q4 2025）
 
-- `AAPL` Apple Inc.：iPhone、服务与硬件生态平台。 `13F 占比 25.8%`
-- `AXP` American Express：高端信用卡与商旅支付网络。 `13F 占比 15.8%`
-- `KO` Coca-Cola：全球软饮与渠道分销品牌平台。 `13F 占比 11.1%`
-- `BAC` Bank of America：美国大型综合商业银行。 `13F 占比 10.2%`
-- `CVX` Chevron：上游到炼化一体的能源巨头。 `13F 占比 7.7%`
-- `OXY` Occidental Petroleum：美国油气资源与化工资产运营商。 `13F 占比 5.1%`
-- `MCO` Moody's：评级、指数与金融数据服务商。 `13F 占比 4.4%`
-- `KHC` Kraft Heinz：品牌食品与调味品集团。 `13F 占比 3.8%`
-- `CB` Chubb：全球财产与意外险龙头之一。 `13F 占比 3.2%`
-- `DVA` DaVita：肾透析与慢病服务提供商。 `13F 占比 2.1%`
-
-### 变化摘要（Q4 2025 vs Q3 2025）
-
+- 持仓总市值变化：从 `$274.16bn` 到 `$263.10bn`，下降 `-$11.06bn`（-4.0%）。粗拆：主动仓位变化 `-$4.60bn`，价格变化 `-$6.47bn`；主要由价格变化拖累。
 - 新进前 10：无
 - 退出前 10：无
-- 显著加仓：AXP American Express（+1.7 pct）、CB Chubb（+0.6 pct）
-- 显著减仓：OXY Occidental Petroleum（-0.7 pct）、BAC Bank of America（-0.6 pct）
-- 过去一年最稳定的核心：AAPL Apple Inc.、AXP American Express、BAC Bank of America、KO Coca-Cola、CVX Chevron、MCO Moody's、OXY Occidental Petroleum、CB Chubb、KHC Kraft Heinz
+- 权重上升：GOOGL（+4.3 pct）, OXY（+2.6 pct）, KO（+1.4 pct）, DVA（+0.4 pct）, CB（+0.3 pct）
+- 权重下降：AXP（-3.0 pct）, BAC（-0.9 pct）, Constellation Brands（-0.6 pct）, AAPL（-0.6 pct）, CVX（-0.6 pct）
+- 显著加仓：GOOGL（股数 +39,988,871，+224.1%）, Lennar（股数 +3,105,415，+42.9%）
+- 显著减仓：CVX（股数 -45,780,506，-35.2%）, Constellation Brands（股数 -12,367,110，-95.1%）, Nucor（股数 -2,500,674，-39.0%）, DVA（股数 -1,658,480，-5.2%）, Liberty Live Holdings（股数 -330,518，-2.1%）
 
 ### 数据来源
 
-- [13f.info manager page](https://13f.info/manager/0001067983-berkshire-hathaway-inc)：用于读取近四个已披露季度的结构化 13F 持仓表。
-- [SEC EDGAR 13F filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1067983&type=13F-HR&owner=exclude&count=40)：原始 filing 查询入口。
+- [SEC 13F Q1 2026 filing detail](https://www.sec.gov/Archives/edgar/data/1067983/000119312526226661/0001193125-26-226661-index.html)
+- [SEC 13F Q4 2025 filing detail](https://www.sec.gov/Archives/edgar/data/1067983/000119312526054580/0001193125-26-054580-index.html)
+- [SEC 13F Q3 2025 filing detail](https://www.sec.gov/Archives/edgar/data/1067983/000119312525282901/0001193125-25-282901-index.html)
+- [SEC 13F Q2 2025 filing detail](https://www.sec.gov/Archives/edgar/data/1067983/000095012325008343/0000950123-25-008343-index.html)
 
 ## 机构传承
 
