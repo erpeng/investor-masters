@@ -1421,25 +1421,8 @@ def summarize_log_entry(entry: dict[str, str]) -> list[str]:
 def build_recent_updates(log_text: str) -> list[str]:
     items: list[str] = []
     entries = parse_log_entries(log_text)
-    pinned_titles: set[str] = set()
-
-    for entry in entries[:1]:
-        date_text = f"`{entry['date']}` "
-        summaries = summarize_log_entry(entry)
-        if not summaries:
-            continue
-        pinned_titles.add(entry["title"])
-        for idx, summary in enumerate(summaries):
-            if not summary:
-                continue
-            if any(token in summary for token in ["源 wiki", "编译站点", "源站对齐", "source", "canonical"]):
-                continue
-            prefix = date_text if idx == 0 else " " * len(date_text)
-            items.append(f"- {prefix}{summary}")
 
     for entry in reversed(entries):
-        if entry["title"] in pinned_titles:
-            continue
         if entry["title"] in {"source-first sync"}:
             continue
         date_text = f"`{entry['date']}` "
