@@ -669,6 +669,19 @@ def build_link_maps():
         key = f"institutions/{name}"
         page_map[key] = f"institutions/{meta['slug']}"
         type_map[key] = name
+    for src in (WIKI_DIR / "institutions").glob("13F趋势*.md"):
+        if src.stem == "13F趋势":
+            slug = "13f-trends"
+            title = "13F 趋势"
+        else:
+            match = re.match(r"13F趋势-(\d{4})Q([1-4])$", src.stem)
+            if not match:
+                continue
+            slug = f"13f-trends-{match.group(1)}-q{match.group(2)}"
+            title = f"13F 趋势 - Q{match.group(2)} {match.group(1)}"
+        key = f"institutions/{src.stem}"
+        page_map[key] = f"institutions/{slug}"
+        type_map[key] = title
     for name, meta in CONCEPT_META.items():
         key = f"concepts/{name}"
         page_map[key] = f"concepts/{meta['slug']}"
@@ -975,6 +988,28 @@ def compile_institutions():
             + convert_wikilinks(translate_common_phrases(cleaned_body), output),
         )
 
+    for source_path in sorted((WIKI_DIR / "institutions").glob("13F趋势*.md")):
+        _, body = parse_frontmatter(source_path.read_text(encoding="utf-8"))
+        stem = source_path.stem
+        if stem == "13F趋势":
+            title = "13F 趋势"
+            slug = "13f-trends"
+            description = "把机构 13F 按季度横向拉齐，观察跨机构持仓趋势。"
+        else:
+            match = re.match(r"13F趋势-(\d{4})Q([1-4])$", stem)
+            if not match:
+                continue
+            title = f"13F 趋势 - Q{match.group(2)} {match.group(1)}"
+            slug = f"13f-trends-{match.group(1)}-q{match.group(2)}"
+            description = f"{title} 的跨机构持仓趋势雷达。"
+        output = DOCS_DIR / "institutions" / f"{slug}.md"
+        cleaned_body = re.sub(r"^# .+\n+", "", body, count=1)
+        write(
+            output,
+            render_frontmatter(title, f"institutions/{slug}", description)
+            + convert_wikilinks(translate_common_phrases(cleaned_body), output),
+        )
+
 
     write(
         DOCS_DIR / "institutions" / "index.md",
@@ -982,6 +1017,7 @@ def compile_institutions():
         + "\n".join(
             [
                 "读机构页的重点，不是规模大小，而是看清楚：一家机构靠什么保护时间维度、靠什么把理念写进制度。\n",
+                f"- [13F 趋势]({doc_url('institutions/13f-trends')}): 把最近季度的 13F 横向拉齐，看哪些股票出现跨机构共振、分歧和集中度变化。",
                 f"- [Nomad Investment Partnership]({doc_url('institutions/nomad-investment-partnership')}): 为什么 Sleep 能拿亚马逊二十年。",
                 f"- [AKO Capital]({doc_url('institutions/ako-capital')}): 为什么 quality investing 只有在 specialist teams 和反馈闭环里才真正制度化。",
                 f"- [Maverick Capital]({doc_url('institutions/maverick-capital')}): 为什么 Tiger 学徒制会长成行业专家制和建设性 long/short。",
@@ -1422,7 +1458,8 @@ def build_recent_updates(log_text: str) -> list[str]:
     items: list[str] = []
     entries = parse_log_entries(log_text)
 
-    for entry in reversed(entries):
+    ordered_entries = sorted(enumerate(entries), key=lambda item: (item[1]["date"], item[0]), reverse=True)
+    for _, entry in ordered_entries:
         if entry["title"] in {"source-first sync"}:
             continue
         date_text = f"`{entry['date']}` "

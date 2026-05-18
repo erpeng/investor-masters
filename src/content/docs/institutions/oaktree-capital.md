@@ -43,6 +43,19 @@ Oaktree 的机构哲学在现有资料里有极高一致性。霍华德在与坦
 
 13F 只覆盖美国公开股票多头及部分期权披露，且有季度滞后，不代表机构完整组合；`持仓总市值变化` 也只是这张 13F 表内的可见市值变化。
 
+### 13F 趋势雷达（最近一季横向）
+
+最近一季：`Q1 2026` vs `Q4 2025`。这里合并原“变化摘要”：先看 13F 总市值变化，再看前十大、权重和股数变化；跨机构共振回到季度趋势页统一比较。
+
+- 持仓总市值变化：从 `$7.03bn` 到 `$6.28bn`，下降 `-$0.74bn`（-10.6%）。粗拆：主动仓位变化 `$6.57bn`，价格变化 `-$7.31bn`；价格变化是主因，主动仓位变化部分抵消。
+- 新进前 10：QQQ put, SPY put, CORZ, Sunopta
+- 退出前 10：SMH put, State Street put, Indivior Pharmaceuticals, Barrick Mining
+- 权重上升：Torm（+3.2 pct）, Expand Energy（+1.1 pct）, Sunopta（+1.0 pct）, American Water Capital（+0.8 pct）, Telephone And Data（+0.7 pct）
+- 权重下降：Indivior Pharmaceuticals（-3.5 pct）, TLN call（-0.8 pct）, Viper Energy（-0.6 pct）, Cemex Sab De（-0.4 pct）, Alarmcom Holdings（-0.4 pct）
+- 显著加仓：Indivior Pharmaceuticals（股数 +205,766,784，+2894.6%）, American Water Capital（股数 +52,495,000，+1532.3%）, COIN（股数 +44,487,000，+423.3%）, Bentley Systems（股数 +40,265,000，+598.3%）, Unity Software（股数 +26,865,000，+296.0%）
+- 显著减仓：Viper Energy（股数 -2,493,630，-39.7%）, TLN call（股数 -150,000，-50.0%）, Anglogold Ashanti（股数 -624,899，-16.2%）, Torm（股数 -2,585,484，-9.8%）, Nokia Oyj（股数 -7,551,921，-40.3%）
+- 横向趋势页：[Q1 2026](/investor-masters/institutions/13f-trends-2026-q1/)
+
 ### 近四个已披露季度前 10 大持仓
 
 #### Q1 2026
@@ -55,7 +68,7 @@ Oaktree 的机构哲学在现有资料里有极高一致性。霍华德在与坦
 - `SPY` State Street Spdr S&P Oil & Gas Exploration & Production Etf put（标普 500 ETF，用来表达美国大盘指数暴露，也常被交易型机构用于期权和对冲）：`13F 占比 2.9%`，市值约 `$0.18bn`，股数/份额 `1,000,000`。
 - `Telephone And Data` Telephone And Data Systems Inc（区域通信和无线业务公司，核心看频谱资产、用户流失和资本结构）：`13F 占比 2.9%`，市值约 `$0.18bn`，股数/份额 `4,292,243`。
 - `Viper Energy` Viper Energy Inc（油气 royalty 和矿权公司，核心看 Permian 资源权益、分红和油价）：`13F 占比 2.8%`，市值约 `$0.18bn`，股数/份额 `3,791,432`。
-- `Core Scientific` Core Scientific Inc（比特币矿业和高性能计算基础设施公司，核心看电力资源和算力租赁需求）：`13F 占比 2.2%`，市值约 `$0.14bn`，股数/份额 `9,400,708`。
+- `CORZ` Core Scientific Inc（Core Scientific，比特币挖矿和高性能计算基础设施公司，核心看电力资源和算力租赁需求）：`13F 占比 2.2%`，市值约 `$0.14bn`，股数/份额 `9,400,708`。
 - `Sunopta` Sunopta Inc（植物基和健康食品供应商，核心看代工需求、产能利用率和食品客户订单）：`13F 占比 2.1%`，市值约 `$0.13bn`，股数/份额 `20,726,126`。
 
 #### Q4 2025
@@ -63,7 +76,7 @@ Oaktree 的机构哲学在现有资料里有极高一致性。霍华德在与坦
 - `Expand Energy` Expand Energy Corp（美国天然气生产商，核心看天然气价格、页岩资产成本和资本纪律）：`13F 占比 8.1%`，市值约 `$0.57bn`，股数/份额 `5,157,657`。
 - `Torm` Torm Plc（成品油运输船公司，现金流受油品贸易、船队供需和运价周期影响）：`13F 占比 7.5%`，市值约 `$0.53bn`，股数/份额 `26,425,059`。
 - `Anglogold Ashanti` Anglogold Ashanti Plc（全球黄金矿企，现金流受金价、矿山成本和储量质量影响）：`13F 占比 4.7%`，市值约 `$0.33bn`，股数/份额 `3,847,991`。
-- `Vaneck Semiconductor Etf` Vaneck Semiconductor Etf put（半导体行业 ETF，用来表达芯片设计、设备和制造产业链暴露）：`13F 占比 4.4%`，市值约 `$0.31bn`，股数/份额 `865,000`。
+- `SMH` Vaneck Semiconductor Etf put（VanEck Semiconductor ETF，用来表达半导体设计、设备和制造产业链暴露）：`13F 占比 4.4%`，市值约 `$0.31bn`，股数/份额 `865,000`。
 - `Garrett Motion` Garrett Motion Inc（涡轮增压和汽车动力系统供应商，业务受燃油车效率、混动和售后市场需求影响）：`13F 占比 4.2%`，市值约 `$0.30bn`，股数/份额 `17,094,816`。
 - `State Street` State Street Corp put（道富，托管银行和资产管理公司，核心看托管资产、费率和利率环境）：`13F 占比 3.7%`，市值约 `$0.26bn`，股数/份额 `385,000`。
 - `Indivior Pharmaceuticals` Indivior Pharmaceuticals Inc（成瘾治疗药物公司，核心看阿片依赖治疗产品、专利周期和监管风险）：`13F 占比 3.6%`，市值约 `$0.26bn`，股数/份额 `7,108,644`。
@@ -81,7 +94,7 @@ Oaktree 的机构哲学在现有资料里有极高一致性。霍华德在与坦
 - `State Street` State Street Corp put（道富，托管银行和资产管理公司，核心看托管资产、费率和利率环境）：`13F 占比 3.4%`，市值约 `$0.22bn`，股数/份额 `330,000`。
 - `Telephone And Data` Telephone And Data Systems Inc（区域通信和无线业务公司，核心看频谱资产、用户流失和资本结构）：`13F 占比 2.2%`，市值约 `$0.14bn`，股数/份额 `3,688,386`。
 - `Oracle` Oracle Corp put（数据库、企业软件和云基础设施公司，核心看 OCI、数据库粘性和 AI 训练/推理需求）：`13F 占比 2.2%`，市值约 `$0.14bn`，股数/份额 `500,000`。
-- `Talen Energy` Talen Energy Corp（美国独立发电公司，核心看电力价格、核电/燃气资产和数据中心用电需求）：`13F 占比 1.9%`，市值约 `$0.12bn`，股数/份额 `291,117`。
+- `TLN` Talen Energy Corp（Talen Energy，美国独立发电公司，核心看电力价格、核电/燃气资产和数据中心用电需求）：`13F 占比 1.9%`，市值约 `$0.12bn`，股数/份额 `291,117`。
 - `Sunopta` Sunopta Inc（植物基和健康食品供应商，核心看代工需求、产能利用率和食品客户订单）：`13F 占比 1.9%`，市值约 `$0.12bn`，股数/份额 `20,726,126`。
 
 #### Q2 2025
@@ -96,16 +109,6 @@ Oaktree 的机构哲学在现有资料里有极高一致性。霍华德在与坦
 - `Sunopta` Sunopta Inc（植物基和健康食品供应商，核心看代工需求、产能利用率和食品客户订单）：`13F 占比 2.1%`，市值约 `$0.12bn`，股数/份额 `20,726,126`。
 - `Runway Growth Finance` Runway Growth Finance Corp（成长型公司贷款 BDC，核心看信贷质量、利差和投资组合回收）：`13F 占比 1.8%`，市值约 `$0.10bn`，股数/份额 `9,779,667`。
 - `Cemex Sab De` Cemex Sab De Cv（水泥和建材公司，业务受基建、地产和价格/能源成本周期影响）：`13F 占比 1.8%`，市值约 `$0.10bn`，股数/份额 `14,839,032`。
-
-### 变化摘要（Q1 2026 vs Q4 2025）
-
-- 持仓总市值变化：从 `$7.03bn` 到 `$6.28bn`，下降 `-$0.74bn`（-10.6%）。粗拆：主动仓位变化 `$6.57bn`，价格变化 `-$7.31bn`；价格变化是主因，主动仓位变化部分抵消。
-- 新进前 10：QQQ put, SPY put, Core Scientific, Sunopta
-- 退出前 10：Vaneck Semiconductor Etf put, State Street put, Indivior Pharmaceuticals, Barrick Mining
-- 权重上升：Torm（+3.2 pct）, Expand Energy（+1.1 pct）, Sunopta（+1.0 pct）, American Water Capital（+0.8 pct）, Telephone And Data（+0.7 pct）
-- 权重下降：Indivior Pharmaceuticals（-3.5 pct）, Talen Energy call（-0.8 pct）, Viper Energy（-0.6 pct）, Cemex Sab De（-0.4 pct）, Alarmcom Holdings（-0.4 pct）
-- 显著加仓：Indivior Pharmaceuticals（股数 +205,766,784，+2894.6%）, American Water Capital（股数 +52,495,000，+1532.3%）, COIN（股数 +44,487,000，+423.3%）, Bentley Systems（股数 +40,265,000，+598.3%）, Unity Software（股数 +26,865,000，+296.0%）
-- 显著减仓：Viper Energy（股数 -2,493,630，-39.7%）, Talen Energy call（股数 -150,000，-50.0%）, Anglogold Ashanti（股数 -624,899，-16.2%）, Torm（股数 -2,585,484，-9.8%）, Nokia Oyj（股数 -7,551,921，-40.3%）
 
 ### 数据来源
 

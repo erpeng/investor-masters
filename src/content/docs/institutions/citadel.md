@@ -53,6 +53,19 @@ CNBC 总部访谈里，Ken 直接把 `pursuit of talent` 说成 创始原则；S
 
 13F 只覆盖美国公开股票多头及部分期权披露，且有季度滞后，不代表机构完整组合；`持仓总市值变化` 也只是这张 13F 表内的可见市值变化。
 
+### 13F 趋势雷达（最近一季横向）
+
+最近一季：`Q1 2026` vs `Q4 2025`。这里合并原“变化摘要”：先看 13F 总市值变化，再看前十大、权重和股数变化；跨机构共振回到季度趋势页统一比较。
+
+- 持仓总市值变化：从 `$665.87bn` 到 `$618.47bn`，下降 `-$47.40bn`（-7.1%）。粗拆：主动仓位变化 `$17.21bn`，价格变化 `-$64.61bn`；主要由价格变化拖累。
+- 新进前 10：Spdr Gold Tr call
+- 退出前 10：NVDA put
+- 权重上升：SPY put（+1.1 pct）, IVV（+0.5 pct）, Spdr Gold Tr call（+0.4 pct）, Micron Technology put（+0.4 pct）, Select Sector Spdr put（+0.3 pct）
+- 权重下降：TSLA call（-0.8 pct）, TSLA put（-0.6 pct）
+- 显著加仓：SPY put（股数 +10,388,000，+35.9%）, Echostar（股数 +54,766,320，+7785.8%）, Ionis Pharmaceuticals（股数 +56,807,898，+2661.2%）, FWONK（股数 +36,376,272，+2877.1%）, MSFT call（股数 +6,465,600，+51.7%）
+- 显著减仓：TSLA call（股数 -7,322,100，-16.7%）, TSLA put（股数 -6,710,500，-20.9%）, NVDA call（股数 -11,050,300，-14.2%）, NFLX put（股数 -21,685,100，-34.5%）, Invesco Qqq Tr call（股数 -3,011,500，-13.4%）
+- 横向趋势页：[Q1 2026](/investor-masters/institutions/13f-trends-2026-q1/)
+
 ### 近四个已披露季度前 10 大持仓
 
 #### Q1 2026
@@ -106,16 +119,6 @@ CNBC 总部访谈里，Ken 直接把 `pursuit of talent` 说成 创始原则；S
 - `TSLA` Tesla Inc call（特斯拉，电动车、储能和自动驾驶平台公司，核心变量是制造效率、FSD 与 Robotaxi 期权）：`13F 占比 1.9%`，市值约 `$11.03bn`，股数/份额 `34,728,300`。
 - `TSLA` Tesla Inc put（特斯拉，电动车、储能和自动驾驶平台公司，核心变量是制造效率、FSD 与 Robotaxi 期权）：`13F 占比 1.8%`，市值约 `$10.52bn`，股数/份额 `33,107,700`。
 - `IVV` Ishares Tr call（iShares Core S&P 500 ETF，用来表达美国大盘指数暴露）：`13F 占比 1.7%`，市值约 `$9.89bn`，股数/份额 `82,269,500`。
-
-### 变化摘要（Q1 2026 vs Q4 2025）
-
-- 持仓总市值变化：从 `$665.87bn` 到 `$618.47bn`，下降 `-$47.40bn`（-7.1%）。粗拆：主动仓位变化 `$17.22bn`，价格变化 `-$64.61bn`；主要由价格变化拖累。
-- 新进前 10：Spdr Gold Tr call
-- 退出前 10：NVDA put
-- 权重上升：SPY put（+1.1 pct）, IVV（+0.5 pct）, Spdr Gold Tr call（+0.4 pct）, Micron Technology put（+0.4 pct）, Select Sector Spdr put（+0.3 pct）
-- 权重下降：TSLA call（-0.8 pct）, TSLA put（-0.6 pct）
-- 显著加仓：SPY put（股数 +10,388,000，+35.9%）, Echostar（股数 +54,766,320，+7785.8%）, Ionis Pharmaceuticals（股数 +56,807,898，+2661.2%）, Liberty Media Del（股数 +36,376,272，+2877.1%）, MSFT call（股数 +6,465,600，+51.7%）
-- 显著减仓：TSLA call（股数 -7,322,100，-16.7%）, TSLA put（股数 -6,710,500，-20.9%）, NVDA call（股数 -11,050,300，-14.2%）, NFLX put（股数 -21,685,100，-34.5%）, Invesco Qqq Tr call（股数 -3,011,500，-13.4%）
 
 ### 数据来源
 

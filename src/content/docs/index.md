@@ -21,17 +21,18 @@ description: "把分散的投资访谈、合伙人信和机构材料，编译成
 - **我想直接从方法分歧读进去**: [不懂不碰 vs 未来信息才重要](/investor-masters/dialogues/certainty-vs-future/)、[方向判断正确 vs 交易结构正确](/investor-masters/dialogues/direction-right-vs-structure-right/)、[质量价值 vs 成长非共识](/investor-masters/dialogues/quality-vs-growth/)、[保守的风险语言 vs 激进的仓位语言](/investor-masters/dialogues/risk-and-conviction/)、[复利信仰 vs 流动性信仰](/investor-masters/dialogues/compound-faith-vs-liquidity-faith/)、[永久复利 vs 七年价值重估](/investor-masters/dialogues/permanent-compounding-vs-seven-year-revaluation/)、[少犯错游戏 vs 多赢家游戏](/investor-masters/dialogues/fewer-losers-vs-more-winners/)
 - **我想沿 Berkshire 这一支往下读**: [Berkshire Hathaway](/investor-masters/institutions/berkshire-hathaway/) → [伯克希尔·哈撒韦](/investor-masters/companies/berkshire-hathaway/) / [GEICO](/investor-masters/companies/geico/) → [护城河](/investor-masters/concepts/moat/) / [能力圈](/investor-masters/concepts/circle-of-competence/) / [反脆弱与仓位管理](/investor-masters/concepts/antifragility-and-position-sizing/) → [静态能力圈 vs 可审计能力圈](/investor-masters/dialogues/static-vs-auditable-circle/) / [交易型反脆弱 vs 资本结构型反脆弱](/investor-masters/dialogues/trading-vs-capital-structure-antifragility/)
 - **我想直接从最近提纯过的公司样本读**: [RELX](/investor-masters/companies/relx/)、[Sage](/investor-masters/companies/sage/)、[PG&E](/investor-masters/companies/pge/)、[Brookfield](/investor-masters/companies/brookfield/)、[Apollo](/investor-masters/companies/apollo/)、[Heineken](/investor-masters/companies/heineken/)
+- **我想看最近一季 13F 发生了什么**: [13F趋势](/investor-masters/institutions/13f-trends/)
 - **我带着一个具体问题来**: [投资十问](/investor-masters/ten-questions/)
 
 ## 精选语录墙
 
-> “它既可以帮助你识别复利者，也能帮助你识别护城河的弱点。”
-
-> “当别人在你身上看到了你自己都不曾看到的品质，这是一件非常神奇的事。”
-
 > “这点上我是很直白的。”
 
 > “如果你得到了20、30、40年的长期指引，你一路上可以犯很多错误。”
+
+> “这就是为什么年轻时要多承担些风险很重要。”
+
+> “重要的是，你能收获多少真实的经历。”
 
 ## 对话与争议
 
@@ -55,11 +56,11 @@ description: "把分散的投资访谈、合伙人信和机构材料，编译成
 
 ## 最近更新
 
+- `2026-05-18` 新增 13F 趋势雷达和季度档案
 - `2026-05-16` 为机构页 13F 持仓补充公司简介
 - `2026-05-16` 新增段永平相关机构 H&H International Investment
 - `2026-05-16` 重写 13F 变化摘要口径
 - `2026-05-15` 为已披露 Q1 2026 的机构补入股数/份额
 - `2026-05-15` 更新机构页 13F 到 Q1 2026 抓取口径
 - `2026-04-30` 接入 Oakmark 现代价值投资线
-- `2026-04-12` 新增 Duquesne Family Office 机构页
-- `2026-04-11` 为机构页统一补入近四个季度 13F 持仓
+- `2026-04-30` 吸收 Paul Tudor Jones 最新长访谈

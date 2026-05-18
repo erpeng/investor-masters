@@ -45,6 +45,19 @@ Oakmark 的文化不是单一明星经理拍脑袋。访谈里尼格伦反复强
 13F 只覆盖美国公开股票多头及部分期权披露，且有季度滞后，不代表机构完整组合；`持仓总市值变化` 也只是这张 13F 表内的可见市值变化。
 Oakmark 是基金品牌；这里使用管理公司 Harris Associates L.P. 的 13F 作为机构级公开美股切片。
 
+### 13F 趋势雷达（最近一季横向）
+
+最近一季：`Q1 2026` vs `Q4 2025`。这里合并原“变化摘要”：先看 13F 总市值变化，再看前十大、权重和股数变化；跨机构共振回到季度趋势页统一比较。
+
+- 持仓总市值变化：从 `$79.12bn` 到 `$75.03bn`，下降 `-$4.09bn`（-5.2%）。粗拆：主动仓位变化 `$1.43bn`，价格变化 `-$5.52bn`；主要由价格变化拖累。
+- 新进前 10：Targa Res
+- 退出前 10：Warner Bros Discovery
+- 权重上升：NFLX（+1.3 pct）, Targa Res（+0.6 pct）, Salesforce（+0.4 pct）, Corteva（+0.4 pct）, Gartner（+0.4 pct）
+- 权重下降：Warner Bros Discovery（-1.7 pct）, Deere（-1.5 pct）, COF（-0.8 pct）, Iqvia Hldgs（-0.5 pct）, General Mtrs（-0.5 pct）
+- 显著加仓：Salesforce（股数 +5,126,665，+52.4%）, NFLX（股数 +9,827,233，+30200.5%）, Gartner（股数 +2,171,790，+225.3%）, Icon（股数 +1,841,151，+73.3%）, Fiserv（股数 +4,182,927，+26.9%）
+- 显著减仓：Warner Bros Discovery（股数 -45,980,770，-58.3%）, Deere（股数 -2,616,555，-83.5%）, Phillips 66（股数 -4,844,064，-34.7%）, Conocophillips（股数 -6,574,096，-27.4%）, Eog Res（股数 -3,241,054，-44.0%）
+- 横向趋势页：[Q1 2026](/investor-masters/institutions/13f-trends-2026-q1/)
+
 ### 近四个已披露季度前 10 大持仓
 
 #### Q1 2026
@@ -97,17 +110,7 @@ Oakmark 是基金品牌；这里使用管理公司 Harris Associates L.P. 的 13
 - `Conocophillips` Conocophillips（大型独立油气勘探生产商，核心看低成本资源、油气价格和股东回报）：`13F 占比 2.8%`，市值约 `$1.74bn`，股数/份额 `19,380,459`。
 - `Phillips 66` Phillips 66（炼油、管道和化工公司，现金流受炼油价差、运输资产和资本回报影响）：`13F 占比 2.6%`，市值约 `$1.60bn`，股数/份额 `13,449,090`。
 - `Keurig Dr Pepper` Keurig Dr Pepper Inc（饮料和咖啡系统公司，核心看品牌组合、渠道和咖啡胶囊生态）：`13F 占比 2.5%`，市值约 `$1.56bn`，股数/份额 `47,118,176`。
-- `Charter Communications N` Charter Communications Inc N（美国有线宽带运营商，核心看宽带用户、移动捆绑和资本开支强度）：`13F 占比 2.4%`，市值约 `$1.50bn`，股数/份额 `3,672,367`。
-
-### 变化摘要（Q1 2026 vs Q4 2025）
-
-- 持仓总市值变化：从 `$79.12bn` 到 `$75.03bn`，下降 `-$4.09bn`（-5.2%）。粗拆：主动仓位变化 `$1.43bn`，价格变化 `-$5.52bn`；主要由价格变化拖累。
-- 新进前 10：Targa Res
-- 退出前 10：Warner Bros Discovery
-- 权重上升：NFLX（+1.3 pct）, Targa Res（+0.6 pct）, Salesforce（+0.4 pct）, Corteva（+0.4 pct）, Gartner（+0.4 pct）
-- 权重下降：Warner Bros Discovery（-1.7 pct）, Deere（-1.5 pct）, COF（-0.8 pct）, Iqvia Hldgs（-0.5 pct）, General Mtrs（-0.5 pct）
-- 显著加仓：Salesforce（股数 +5,126,665，+52.4%）, NFLX（股数 +9,827,233，+30200.5%）, Gartner（股数 +2,171,790，+225.3%）, Icon（股数 +1,841,151，+73.3%）, Fiserv（股数 +4,182,927，+26.9%）
-- 显著减仓：Warner Bros Discovery（股数 -45,980,770，-58.3%）, Deere（股数 -2,616,555，-83.5%）, Phillips 66（股数 -4,844,064，-34.7%）, Conocophillips（股数 -6,574,096，-27.4%）, Eog Res（股数 -3,241,054，-44.0%）
+- `CHTR` Charter Communications Inc N（Charter，美国有线宽带运营商，核心看宽带用户、移动捆绑和资本开支强度）：`13F 占比 2.4%`，市值约 `$1.50bn`，股数/份额 `3,672,367`。
 
 ### 数据来源
 

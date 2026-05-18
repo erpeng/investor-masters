@@ -44,6 +44,19 @@ Duquesne 当前最重要的激励结构，不是 fee model，而是 `own capital
 
 13F 只覆盖美国公开股票多头及部分期权披露，且有季度滞后，不代表机构完整组合；`持仓总市值变化` 也只是这张 13F 表内的可见市值变化。
 
+### 13F 趋势雷达（最近一季横向）
+
+最近一季：`Q1 2026` vs `Q4 2025`。这里合并原“变化摘要”：先看 13F 总市值变化，再看前十大、权重和股数变化；跨机构共振回到季度趋势页统一比较。
+
+- 持仓总市值变化：从 `$4.49bn` 到 `$3.38bn`，下降 `-$1.12bn`（-24.9%）。粗拆：主动仓位变化 `-$1.03bn`，价格变化 `-$0.09bn`；主要由主动仓位变化拖累。
+- 新进前 10：Invesco Exchange Traded call, Ypf Sociedad Anonima, Ishares, Bbb Foods, Alcoa, Newamsterdam Pharma Company
+- 退出前 10：Select Sector Spdr, Invesco Exchange Traded, TEVA, Woodward, AMZN, CPNG
+- 权重上升：Natera（+5.3 pct）, Ypf Sociedad Anonima（+3.9 pct）, Stmicroelectronics N V（+2.2 pct）, Ishares call（+1.8 pct）, Ishares（+1.4 pct）
+- 权重下降：AMZN（-3.5 pct）, CPNG（-2.1 pct）, MELI（-2.0 pct）, TEVA（-2.0 pct）, Woodward（-1.7 pct）
+- 显著加仓：Natera（股数 +552,249，+22.0%）, Ypf Sociedad Anonima（股数 +2,628,972，+433.1%）, Stmicroelectronics N V（股数 +1,839,325，+237.8%）, Adma Biologics（股数 +1,293,410，+512.9%）, AMZN call（股数 +100,000，+100.0%）
+- 显著减仓：AMZN（股数 -692,140，-93.8%）, Woodward（股数 -379,575，-64.2%）, TEVA（股数 -3,497,585，-59.5%）, CPNG（股数 -4,105,424，-60.6%）, MELI（股数 -44,383，-94.1%）
+- 横向趋势页：[Q1 2026](/investor-masters/institutions/13f-trends-2026-q1/)
+
 ### 近四个已披露季度前 10 大持仓
 
 #### Q1 2026
@@ -65,7 +78,7 @@ Duquesne 当前最重要的激励结构，不是 fee model，而是 `own capital
 - `Select Sector Spdr` Select Sector Spdr Tr（行业 ETF 工具，用来表达美股特定行业板块暴露）：`13F 占比 6.7%`，市值约 `$0.30bn`，股数/份额 `5,495,600`。
 - `Insmed` Insmed Inc（罕见病和肺部疾病生物制药公司，核心看临床管线、商业化药物和适应症扩展）：`13F 占比 5.7%`，市值约 `$0.26bn`，股数/份额 `1,481,752`。
 - `Invesco Exchange Traded` Invesco Exchange Traded Fd T（Invesco ETF 工具，用来表达指数、行业或主题暴露）：`13F 占比 5.0%`，市值约 `$0.22bn`，股数/份额 `1,173,925`。
-- `Teva Pharmaceutical Inds` Teva Pharmaceutical Inds Ltd（仿制药和专科药公司，核心看债务去化、核心药物增长和诉讼风险）：`13F 占比 4.1%`，市值约 `$0.18bn`，股数/份额 `5,874,870`。
+- `TEVA` Teva Pharmaceutical Inds Ltd（梯瓦制药，仿制药和专科药公司，核心看债务去化、核心药物增长和诉讼风险）：`13F 占比 4.1%`，市值约 `$0.18bn`，股数/份额 `5,874,870`。
 - `Woodward` Woodward Inc（航空航天和工业控制系统供应商，核心看发动机、能源控制和工业订单）：`13F 占比 4.0%`，市值约 `$0.18bn`，股数/份额 `590,930`。
 - `AMZN` Amazon Com Inc（电商、物流、AWS 云和广告共同构成的平台公司，长期变量是基础设施外部化能力）：`13F 占比 3.8%`，市值约 `$0.17bn`，股数/份额 `737,940`。
 - `TSM` Taiwan Semiconductor Mfg Ltd（台积电，全球领先晶圆代工厂，是先进制程和先进封装产能的关键瓶颈）：`13F 占比 3.7%`，市值约 `$0.17bn`，股数/份额 `543,085`。
@@ -76,7 +89,7 @@ Duquesne 当前最重要的激励结构，不是 fee model，而是 `own capital
 
 - `Natera` Natera Inc（基因检测公司，核心看无创产检、肿瘤 MRD 检测和临床报销渗透）：`13F 占比 12.7%`，市值约 `$0.52bn`，股数/份额 `3,214,532`。
 - `Insmed` Insmed Inc（罕见病和肺部疾病生物制药公司，核心看临床管线、商业化药物和适应症扩展）：`13F 占比 8.6%`，市值约 `$0.35bn`，股数/份额 `2,423,435`。
-- `Teva Pharmaceutical Inds` Teva Pharmaceutical Inds Ltd（仿制药和专科药公司，核心看债务去化、核心药物增长和诉讼风险）：`13F 占比 8.3%`，市值约 `$0.34bn`，股数/份额 `16,593,935`。
+- `TEVA` Teva Pharmaceutical Inds Ltd（梯瓦制药，仿制药和专科药公司，核心看债务去化、核心药物增长和诉讼风险）：`13F 占比 8.3%`，市值约 `$0.34bn`，股数/份额 `16,593,935`。
 - `TSM` Taiwan Semiconductor Mfg Ltd（台积电，全球领先晶圆代工厂，是先进制程和先进封装产能的关键瓶颈）：`13F 占比 5.3%`，市值约 `$0.21bn`，股数/份额 `765,085`。
 - `Woodward` Woodward Inc（航空航天和工业控制系统供应商，核心看发动机、能源控制和工业订单）：`13F 占比 3.9%`，市值约 `$0.16bn`，股数/份额 `633,015`。
 - `CPNG` Coupang Inc（Coupang，韩国电商与物流平台，优势来自高频消费、仓配密度和会员体系）：`13F 占比 3.7%`，市值约 `$0.15bn`，股数/份额 `4,633,124`。
@@ -88,7 +101,7 @@ Duquesne 当前最重要的激励结构，不是 fee model，而是 `own capital
 #### Q2 2025
 
 - `Natera` Natera Inc（基因检测公司，核心看无创产检、肿瘤 MRD 检测和临床报销渗透）：`13F 占比 12.8%`，市值约 `$0.52bn`，股数/份额 `3,085,190`。
-- `Teva Pharmaceutical Inds` Teva Pharmaceutical Inds Ltd（仿制药和专科药公司，核心看债务去化、核心药物增长和诉讼风险）：`13F 占比 6.6%`，市值约 `$0.27bn`，股数/份额 `15,968,935`。
+- `TEVA` Teva Pharmaceutical Inds Ltd（梯瓦制药，仿制药和专科药公司，核心看债务去化、核心药物增长和诉讼风险）：`13F 占比 6.6%`，市值约 `$0.27bn`，股数/份额 `15,968,935`。
 - `Insmed` Insmed Inc（罕见病和肺部疾病生物制药公司，核心看临床管线、商业化药物和适应症扩展）：`13F 占比 5.6%`，市值约 `$0.23bn`，股数/份额 `2,253,435`。
 - `Woodward` Woodward Inc（航空航天和工业控制系统供应商，核心看发动机、能源控制和工业订单）：`13F 占比 5.1%`，市值约 `$0.21bn`，股数/份额 `848,910`。
 - `TSM` Taiwan Semiconductor Mfg Ltd（台积电，全球领先晶圆代工厂，是先进制程和先进封装产能的关键瓶颈）：`13F 占比 4.3%`，市值约 `$0.17bn`，股数/份额 `765,085`。
@@ -97,16 +110,6 @@ Duquesne 当前最重要的激励结构，不是 fee model，而是 `own capital
 - `Entegris` Entegris Inc（半导体材料和污染控制公司，服务先进制程中的高纯材料、过滤和化学品管理）：`13F 占比 3.3%`，市值约 `$0.13bn`，股数/份额 `1,645,885`。
 - `CPNG` Coupang Inc（Coupang，韩国电商与物流平台，优势来自高频消费、仓配密度和会员体系）：`13F 占比 3.0%`，市值约 `$0.12bn`，股数/份额 `4,105,424`。
 - `FLTR` Flutter Entmt Plc（Flutter，全球线上博彩和体育投注平台，FanDuel 是美国市场核心增长资产）：`13F 占比 2.8%`，市值约 `$0.12bn`，股数/份额 `405,320`。
-
-### 变化摘要（Q1 2026 vs Q4 2025）
-
-- 持仓总市值变化：从 `$4.49bn` 到 `$3.38bn`，下降 `-$1.12bn`（-24.9%）。粗拆：主动仓位变化 `-$1.03bn`，价格变化 `-$0.09bn`；主要由主动仓位变化拖累。
-- 新进前 10：Invesco Exchange Traded call, Ypf Sociedad Anonima, Ishares, Bbb Foods, Alcoa, Newamsterdam Pharma Company
-- 退出前 10：Select Sector Spdr, Invesco Exchange Traded, Teva Pharmaceutical Inds, Woodward, AMZN, CPNG
-- 权重上升：Natera（+5.3 pct）, Ypf Sociedad Anonima（+3.9 pct）, Stmicroelectronics N V（+2.2 pct）, Ishares call（+1.8 pct）, Ishares（+1.4 pct）
-- 权重下降：AMZN（-3.5 pct）, CPNG（-2.1 pct）, MELI（-2.0 pct）, Teva Pharmaceutical Inds（-2.0 pct）, Woodward（-1.7 pct）
-- 显著加仓：Natera（股数 +552,249，+22.0%）, Ypf Sociedad Anonima（股数 +2,628,972，+433.1%）, Stmicroelectronics N V（股数 +1,839,325，+237.8%）, Adma Biologics（股数 +1,293,410，+512.9%）, AMZN call（股数 +100,000，+100.0%）
-- 显著减仓：AMZN（股数 -692,140，-93.8%）, Woodward（股数 -379,575，-64.2%）, Teva Pharmaceutical Inds（股数 -3,497,585，-59.5%）, CPNG（股数 -4,105,424，-60.6%）, MELI（股数 -44,383，-94.1%）
 
 ### 数据来源
 

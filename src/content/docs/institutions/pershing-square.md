@@ -38,6 +38,19 @@ Pershing 的机构哲学，可以压成一句话：`寻找高质量但暂时迷�
 
 13F 只覆盖美国公开股票多头及部分期权披露，且有季度滞后，不代表机构完整组合；`持仓总市值变化` 也只是这张 13F 表内的可见市值变化。
 
+### 13F 趋势雷达（最近一季横向）
+
+最近一季：`Q1 2026` vs `Q4 2025`。这里合并原“变化摘要”：先看 13F 总市值变化，再看前十大、权重和股数变化；跨机构共振回到季度趋势页统一比较。
+
+- 持仓总市值变化：从 `$15.53bn` 到 `$13.71bn`，下降 `-$1.81bn`（-11.7%）。粗拆：主动仓位变化 `-$0.51bn`，价格变化 `-$1.30bn`；主要由价格变化拖累。
+- 新进前 10：MSFT, Hertz Global Hldgs
+- 退出前 10：Hilton Worldwide Hldgs, GOOGL
+- 权重上升：AMZN（+3.1 pct）, QSR（+2.2 pct）
+- 权重下降：GOOG（-11.8 pct）, GOOGL（-1.3 pct）, Howard Hughes Holdings（-1.0 pct）, BN（-0.5 pct）
+- 显著加仓：AMZN（股数 +1,844,157，+19.2%）
+- 显著减仓：GOOG（股数 -5,852,145，-94.9%）, GOOGL（股数 -645,921，-95.2%）, BN（股数 -1,705,881，-2.8%）
+- 横向趋势页：[Q1 2026](/investor-masters/institutions/13f-trends-2026-q1/)
+
 ### 近四个已披露季度前 10 大持仓
 
 #### Q1 2026
@@ -75,7 +88,7 @@ Pershing 的机构哲学，可以压成一句话：`寻找高质量但暂时迷�
 - `QSR` Restaurant Brands Intl Inc（Restaurant Brands，汉堡王、Tim Hortons、Popeyes 等连锁餐饮品牌的特许经营平台）：`13F 占比 10.0%`，市值约 `$1.47bn`，股数/份额 `22,915,496`。
 - `AMZN` Amazon Com Inc（电商、物流、AWS 云和广告共同构成的平台公司，长期变量是基础设施外部化能力）：`13F 占比 8.7%`，市值约 `$1.28bn`，股数/份额 `5,823,316`。
 - `GOOGL` Alphabet Inc（Alphabet 的 A 类股，核心资产是 Google 搜索、YouTube、广告网络、Android 和 Google Cloud）：`13F 占比 8.0%`，市值约 `$1.18bn`，股数/份额 `4,843,973`。
-- `Chipotle Mexican Grill` Chipotle Mexican Grill Inc（快休闲餐饮连锁，核心看门店扩张、同店销售、数字点餐和运营效率）：`13F 占比 5.8%`，市值约 `$0.84bn`，股数/份额 `21,541,177`。
+- `CMG` Chipotle Mexican Grill Inc（Chipotle，美式快休闲餐饮连锁，核心看门店扩张、同店销售和数字化运营效率）：`13F 占比 5.8%`，市值约 `$0.84bn`，股数/份额 `21,541,177`。
 - `Hilton Worldwide Hldgs` Hilton Worldwide Hldgs Inc（全球酒店品牌和管理平台，轻资产模式依赖品牌、会员体系和管理费）：`13F 占比 5.4%`，市值约 `$0.79bn`，股数/份额 `3,030,578`。
 - `Seaport Entmt Group` Seaport Entmt Group Inc（从 Howard Hughes 分拆的娱乐和地产资产公司，核心看 Seaport 资产运营和变现）：`13F 占比 0.8%`，市值约 `$0.12bn`，股数/份额 `5,023,780`。
 
@@ -86,21 +99,11 @@ Pershing 的机构哲学，可以压成一句话：`寻找高质量但暂时迷�
 - `QSR` Restaurant Brands Intl Inc（Restaurant Brands，汉堡王、Tim Hortons、Popeyes 等连锁餐饮品牌的特许经营平台）：`13F 占比 11.1%`，市值约 `$1.52bn`，股数/份额 `23,000,914`。
 - `AMZN` Amazon Com Inc（电商、物流、AWS 云和广告共同构成的平台公司，长期变量是基础设施外部化能力）：`13F 占比 9.3%`，市值约 `$1.28bn`，股数/份额 `5,823,316`。
 - `Howard Hughes Holdings` Howard Hughes Holdings Inc（综合地产开发和社区运营平台，核心看 master-planned communities 和资产变现）：`13F 占比 9.3%`，市值约 `$1.27bn`，股数/份额 `18,852,064`。
-- `Chipotle Mexican Grill` Chipotle Mexican Grill Inc（快休闲餐饮连锁，核心看门店扩张、同店销售、数字点餐和运营效率）：`13F 占比 8.8%`，市值约 `$1.21bn`，股数/份额 `21,541,177`。
+- `CMG` Chipotle Mexican Grill Inc（Chipotle，美式快休闲餐饮连锁，核心看门店扩张、同店销售和数字化运营效率）：`13F 占比 8.8%`，市值约 `$1.21bn`，股数/份额 `21,541,177`。
 - `GOOG` Alphabet Inc（Alphabet 的 C 类股，核心资产是 Google 搜索、YouTube、广告网络、Android 和 Google Cloud）：`13F 占比 8.2%`，市值约 `$1.12bn`，股数/份额 `6,324,031`。
 - `GOOGL` Alphabet Inc（Alphabet 的 A 类股，核心资产是 Google 搜索、YouTube、广告网络、Android 和 Google Cloud）：`13F 占比 6.9%`，市值约 `$0.95bn`，股数/份额 `5,362,980`。
 - `Hilton Worldwide Hldgs` Hilton Worldwide Hldgs Inc（全球酒店品牌和管理平台，轻资产模式依赖品牌、会员体系和管理费）：`13F 占比 5.9%`，市值约 `$0.81bn`，股数/份额 `3,030,578`。
 - `Hertz Global Hldgs` Hertz Global Hldgs Inc（汽车租赁公司，核心看车队残值、旅游/商务需求和债务成本）：`13F 占比 0.8%`，市值约 `$0.10bn`，股数/份额 `15,241,127`。
-
-### 变化摘要（Q1 2026 vs Q4 2025）
-
-- 持仓总市值变化：从 `$15.53bn` 到 `$13.71bn`，下降 `-$1.81bn`（-11.7%）。粗拆：主动仓位变化 `-$0.51bn`，价格变化 `-$1.30bn`；主要由价格变化拖累。
-- 新进前 10：MSFT, Hertz Global Hldgs
-- 退出前 10：Hilton Worldwide Hldgs, GOOGL
-- 权重上升：AMZN（+3.1 pct）, QSR（+2.2 pct）
-- 权重下降：GOOG（-11.8 pct）, GOOGL（-1.3 pct）, Howard Hughes Holdings（-1.0 pct）, BN（-0.5 pct）
-- 显著加仓：AMZN（股数 +1,844,157，+19.2%）
-- 显著减仓：GOOG（股数 -5,852,145，-94.9%）, GOOGL（股数 -645,921，-95.2%）, BN（股数 -1,705,881，-2.8%）
 
 ### 数据来源
 

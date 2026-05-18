@@ -57,6 +57,19 @@ Third Point 官方策略页几乎把它的骨架写成了一句话：
 
 13F 只覆盖美国公开股票多头及部分期权披露，且有季度滞后，不代表机构完整组合；`持仓总市值变化` 也只是这张 13F 表内的可见市值变化。
 
+### 13F 趋势雷达（最近一季横向）
+
+最近一季：`Q1 2026` vs `Q4 2025`。这里合并原“变化摘要”：先看 13F 总市值变化，再看前十大、权重和股数变化；跨机构共振回到季度趋势页统一比较。
+
+- 持仓总市值变化：从 `$7.27bn` 到 `$2.08bn`，下降 `-$5.19bn`（-71.4%）。粗拆：主动仓位变化 `-$5.14bn`，价格变化 `-$0.05bn`；主要由主动仓位变化拖累。
+- 新进前 10：CRS, Mastec, DHR, TSM, Api Group, LYV
+- 退出前 10：PCG, NVDA, MSFT, UNP, BN, Norfolk Southn
+- 权重上升：AMZN（+12.5 pct）, Telephone Data Sys（+9.6 pct）, CRH（+5.1 pct）, Somnigroup International（+3.9 pct）, TSM（+2.7 pct）
+- 权重下降：NVDA（-6.0 pct）, UNP（-4.6 pct）, Norfolk Southn（-2.5 pct）, COF（-2.4 pct）, Sharkninja（-1.2 pct）
+- 显著加仓：Ars Pharmaceuticals（股数 +443,763，+79.8%）
+- 显著减仓：NVDA（股数 -2,760,000，-93.6%）, UNP（股数 -1,710,000，-94.5%）, Norfolk Southn（股数 -875,000，-89.7%）, COF（股数 -960,000，-87.3%）, LYV（股数 -1,260,000，-73.0%）
+- 横向趋势页：[Q1 2026](/investor-masters/institutions/13f-trends-2026-q1/)
+
 ### 近四个已披露季度前 10 大持仓
 
 #### Q1 2026
@@ -65,9 +78,9 @@ Third Point 官方策略页几乎把它的骨架写成了一句话：
 - `Telephone Data Sys` Telephone & Data Sys Inc（区域通信和无线业务公司，核心看频谱资产、用户流失和资本结构）：`13F 占比 13.3%`，市值约 `$0.28bn`，股数/份额 `6,600,000`。
 - `CRH` Crh Plc（建筑材料和基础设施材料公司，受益于道路、住宅和公共工程建设需求）：`13F 占比 9.6%`，市值约 `$0.20bn`，股数/份额 `1,900,000`。
 - `Somnigroup International` Somnigroup International Inc（睡眠产品和床垫品牌公司，核心看品牌、零售渠道和耐用品消费周期）：`13F 占比 8.1%`，市值约 `$0.17bn`，股数/份额 `2,270,769`。
-- `Carpenter Technology` Carpenter Technology Corp（特种合金和高性能材料公司，服务航空航天、医疗和能源等高要求场景）：`13F 占比 5.9%`，市值约 `$0.12bn`，股数/份额 `310,000`。
+- `CRS` Carpenter Technology Corp（Carpenter Technology，特种合金和高性能材料公司，服务航空航天、医疗和能源等场景）：`13F 占比 5.9%`，市值约 `$0.12bn`，股数/份额 `310,000`。
 - `Mastec` Mastec Inc（基础设施施工服务公司，服务通信、电力、清洁能源和管道项目）：`13F 占比 4.9%`，市值约 `$0.10bn`，股数/份额 `320,000`。
-- `Danaher Del` Danaher Corp Del（生命科学、诊断和环境检测平台公司，核心看仪器耗材、并购整合和运营体系）：`13F 占比 4.8%`，市值约 `$0.10bn`，股数/份额 `525,000`。
+- `DHR` Danaher Corp Del（丹纳赫，生命科学、诊断和环境检测平台公司，核心看仪器耗材、并购整合和运营体系）：`13F 占比 4.8%`，市值约 `$0.10bn`，股数/份额 `525,000`。
 - `TSM` Taiwan Semiconductor Manufac（台积电，全球领先晶圆代工厂，是先进制程和先进封装产能的关键瓶颈）：`13F 占比 4.5%`，市值约 `$0.09bn`，股数/份额 `275,000`。
 - `Api Group` Api Group Corp（安全、专业和工业服务公司，核心看消防安全、检测维护和外包服务需求）：`13F 占比 3.9%`，市值约 `$0.08bn`，股数/份额 `2,030,000`。
 - `LYV` Live Nation Entertainment In（Live Nation，演唱会、票务和场馆平台，核心看现场娱乐需求与 Ticketmaster 网络）：`13F 占比 3.4%`，市值约 `$0.07bn`，股数/份额 `465,000`。
@@ -110,16 +123,6 @@ Third Point 官方策略页几乎把它的骨架写成了一句话：
 - `BN` Brookfield Corp（Brookfield，全球另类资产和基础设施平台，核心是长期资本、运营资产和资本循环）：`13F 占比 3.8%`，市值约 `$0.29bn`，股数/份额 `4,675,000`。
 - `Apollo Global Mgmt` Apollo Global Mgmt Inc（另类资产管理平台，覆盖信贷、保险资产、私募和退休资金管理）：`13F 占比 3.3%`，市值约 `$0.25bn`，股数/份额 `2,175,000`。
 - `Costar Group` Costar Group Inc（商业地产数据和在线房产平台，核心资产是地产数据库、订阅客户和网络效应）：`13F 占比 3.3%`，市值约 `$0.25bn`，股数/份额 `3,085,000`。
-
-### 变化摘要（Q1 2026 vs Q4 2025）
-
-- 持仓总市值变化：从 `$7.27bn` 到 `$2.08bn`，下降 `-$5.19bn`（-71.4%）。粗拆：主动仓位变化 `-$5.14bn`，价格变化 `-$0.05bn`；主要由主动仓位变化拖累。
-- 新进前 10：Carpenter Technology, Mastec, Danaher Del, TSM, Api Group, LYV
-- 退出前 10：PCG, NVDA, MSFT, UNP, BN, Norfolk Southn
-- 权重上升：AMZN（+12.5 pct）, Telephone Data Sys（+9.6 pct）, CRH（+5.1 pct）, Somnigroup International（+3.9 pct）, TSM（+2.7 pct）
-- 权重下降：NVDA（-6.0 pct）, UNP（-4.6 pct）, Norfolk Southn（-2.5 pct）, COF（-2.4 pct）, Sharkninja（-1.2 pct）
-- 显著加仓：Ars Pharmaceuticals（股数 +443,763，+79.8%）
-- 显著减仓：NVDA（股数 -2,760,000，-93.6%）, UNP（股数 -1,710,000，-94.5%）, Norfolk Southn（股数 -875,000，-89.7%）, COF（股数 -960,000，-87.3%）, LYV（股数 -1,260,000，-73.0%）
 
 ### 数据来源
 

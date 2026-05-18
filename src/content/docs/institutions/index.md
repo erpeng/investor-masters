@@ -5,6 +5,7 @@ description: "激励结构决定投资人能做什么，而不只是想做什么
 ---
 读机构页的重点，不是规模大小，而是看清楚：一家机构靠什么保护时间维度、靠什么把理念写进制度。
 
+- [13F 趋势](/investor-masters/institutions/13f-trends/): 把最近季度的 13F 横向拉齐，看哪些股票出现跨机构共振、分歧和集中度变化。
 - [Nomad Investment Partnership](/investor-masters/institutions/nomad-investment-partnership/): 为什么 Sleep 能拿亚马逊二十年。
 - [AKO Capital](/investor-masters/institutions/ako-capital/): 为什么 quality investing 只有在 specialist teams 和反馈闭环里才真正制度化。
 - [Maverick Capital](/investor-masters/institutions/maverick-capital/): 为什么 Tiger 学徒制会长成行业专家制和建设性 long/short。

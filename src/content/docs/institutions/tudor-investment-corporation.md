@@ -49,6 +49,19 @@ Tudor 这类机构最需要保护的，不是“别交易”，而是“别在�
 
 13F 只覆盖美国公开股票多头及部分期权披露，且有季度滞后，不代表机构完整组合；`持仓总市值变化` 也只是这张 13F 表内的可见市值变化。
 
+### 13F 趋势雷达（最近一季横向）
+
+最近一季：`Q1 2026` vs `Q4 2025`。这里合并原“变化摘要”：先看 13F 总市值变化，再看前十大、权重和股数变化；跨机构共振回到季度趋势页统一比较。
+
+- 持仓总市值变化：从 `$54.03bn` 到 `$53.87bn`，下降 `-$0.16bn`（-0.3%）。粗拆：主动仓位变化 `$2.31bn`，价格变化 `-$2.47bn`；价格变化是主因，主动仓位变化部分抵消。
+- 新进前 10：SPY, Spdr Gold Shares call
+- 退出前 10：Ishares Core Sp, GOOGL put
+- 权重上升：IWM call（+1.3 pct）, SPY call（+1.0 pct）, SPY（+0.8 pct）, Spdr Gold Shares put（+0.8 pct）, Spdr Gold Shares call（+0.7 pct）
+- 权重下降：IWM put（-3.3 pct）, Ishares Core Sp（-1.5 pct）, QQQ call（-0.9 pct）, SPY put（-0.7 pct）, GOOGL put（-0.7 pct）
+- 显著加仓：Tetra Tech Us（股数 +29,507,018，+4813.7%）, IWM call（股数 +2,818,700，+30.7%）, Spdr Gold Shares put（股数 +936,800，+312.0%）, Spdr Gold Shares call（股数 +851,200，+175.6%）, TSLA put（股数 +691,500，+284.5%）
+- 显著减仓：IWM put（股数 -7,483,400，-26.7%）, Ishares Core Sp（股数 -1,195,670，-77.7%）, QQQ call（股数 -687,700，-23.1%）, GOOGL put（股数 -1,082,100，-59.7%）, AAPL put（股数 -1,040,100，-65.6%）
+- 横向趋势页：[Q1 2026](/investor-masters/institutions/13f-trends-2026-q1/)
+
 ### 近四个已披露季度前 10 大持仓
 
 #### Q1 2026
@@ -74,8 +87,8 @@ Tudor 这类机构最需要保护的，不是“别交易”，而是“别在�
 - `Ishares Core Sp` Ishares Core S&P 500 Etf - Us Etp（iShares 标普 500 ETF，用来表达美国大盘指数暴露）：`13F 占比 1.8%`，市值约 `$0.98bn`，股数/份额 `1,539,680`。
 - `SPY` State Street Spdr S&P 500 Etf Trust - Us Etp call（标普 500 ETF，用来表达美国大盘指数暴露，也常被交易型机构用于期权和对冲）：`13F 占比 1.4%`，市值约 `$0.75bn`，股数/份额 `3,214,700`。
 - `NVDA` Nvidia Corp - Us put（AI 加速计算平台，GPU、网络和 CUDA 生态共同支撑数据中心算力需求）：`13F 占比 1.2%`，市值约 `$0.64bn`，股数/份额 `3,438,400`。
+- `GOOGL` Alphabet, Inc. put（Alphabet 的 A 类股，核心资产是 Google 搜索、YouTube、广告网络、Android 和 Google Cloud）：`13F 占比 1.1%`，市值约 `$0.57bn`，股数/份额 `1,813,900`。
 - `State Street Energy` State Street Energy Select Sector Spdr Etf - Us Et put（能源行业 ETF/期权工具，用来表达油气和能源股板块暴露）：`13F 占比 1.0%`，市值约 `$0.55bn`，股数/份额 `12,373,800`。
-- `State Street Utilities` State Street Utilities Select Sector Spdr Etf - Us put（公用事业 ETF/期权工具，用来表达电力、燃气和公用事业板块暴露）：`13F 占比 0.9%`，市值约 `$0.47bn`，股数/份额 `11,026,600`。
 
 #### Q3 2025
 
@@ -102,16 +115,6 @@ Tudor 这类机构最需要保护的，不是“别交易”，而是“别在�
 - `META` Meta Platforms Inc - Us call（Meta，社交网络、广告系统和 AI 推荐平台，核心资产是 Facebook、Instagram、WhatsApp 和广告模型）：`13F 占比 0.7%`，市值约 `$0.32bn`，股数/份额 `440,200`。
 - `AMD` Advanced Micro Devices Inc - Us call（CPU、GPU 和 AI 加速芯片公司，核心看数据中心份额和异构计算产品节奏）：`13F 占比 0.6%`，市值约 `$0.28bn`，股数/份额 `1,955,700`。
 - `Ishares Bitcoin Trust` Ishares Bitcoin Trust Etf - Us Etp（现货比特币 ETF，用来表达比特币价格暴露）：`13F 占比 0.6%`，市值约 `$0.27bn`，股数/份额 `4,489,444`。
-
-### 变化摘要（Q1 2026 vs Q4 2025）
-
-- 持仓总市值变化：从 `$54.03bn` 到 `$53.87bn`，下降 `-$0.16bn`（-0.3%）。粗拆：主动仓位变化 `$2.31bn`，价格变化 `-$2.47bn`；价格变化是主因，主动仓位变化部分抵消。
-- 新进前 10：SPY, Spdr Gold Shares call
-- 退出前 10：Ishares Core Sp, State Street Utilities put
-- 权重上升：IWM call（+1.3 pct）, SPY call（+1.0 pct）, SPY（+0.8 pct）, Spdr Gold Shares put（+0.8 pct）, Spdr Gold Shares call（+0.7 pct）
-- 权重下降：IWM put（-3.3 pct）, Ishares Core Sp（-1.5 pct）, QQQ call（-0.9 pct）, SPY put（-0.7 pct）, AAPL put（-0.5 pct）
-- 显著加仓：Tetra Tech Us（股数 +29,507,018，+4813.7%）, IWM call（股数 +2,818,700，+30.7%）, Spdr Gold Shares put（股数 +936,800，+312.0%）, Spdr Gold Shares call（股数 +851,200，+175.6%）, TSLA put（股数 +691,500，+284.5%）
-- 显著减仓：IWM put（股数 -7,483,400，-26.7%）, Ishares Core Sp（股数 -1,195,670，-77.7%）, QQQ call（股数 -687,700，-23.1%）, AAPL put（股数 -1,040,100，-65.6%）, QQQ（股数 -361,434，-59.9%）
 
 ### 数据来源
 
