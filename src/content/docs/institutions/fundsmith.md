@@ -51,6 +51,7 @@ Fundsmith 当前在这批资料中基本没有第二位真正能代表机构哲�
 - 显著加仓：无
 - 显著减仓：IDXX（股数 -410,249，-21.9%）, SYK（股数 -626,095，-17.0%）, MAR（股数 -609,055，-15.3%）, GOOGL（股数 -542,321，-15.5%）, PM（股数 -1,011,434，-16.5%）
 - 横向趋势页：[Q1 2026](/investor-masters/institutions/13f-trends-2026-q1/)
+- 单机构长线趋势页：[13F趋势-Fundsmith](/investor-masters/institutions/13f-trends-fundsmith/)
 
 ### 近四个已披露季度前 10 大持仓
 
