@@ -679,6 +679,9 @@ def build_link_maps():
         elif src.stem == "13F趋势-Tudor":
             slug = "13f-trends-tudor"
             title = "13F 趋势 - Tudor"
+        elif src.stem == "13F趋势-Himalaya":
+            slug = "13f-trends-himalaya"
+            title = "13F 趋势 - Himalaya"
         else:
             match = re.match(r"13F趋势-(\d{4})Q([1-4])$", src.stem)
             if not match:
@@ -1009,6 +1012,10 @@ def compile_institutions():
             title = "13F 趋势 - Tudor"
             slug = "13f-trends-tudor"
             description = "Tudor Investment Corporation 从 2023Q1 到 2026Q1 的单机构 13F 持仓变化。"
+        elif stem == "13F趋势-Himalaya":
+            title = "13F 趋势 - Himalaya"
+            slug = "13f-trends-himalaya"
+            description = "Himalaya Capital 从 2023Q1 到 2026Q1 的单机构 13F 持仓变化。"
         else:
             match = re.match(r"13F趋势-(\d{4})Q([1-4])$", stem)
             if not match:

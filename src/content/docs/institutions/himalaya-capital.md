@@ -55,6 +55,7 @@ Himalaya 的机构哲学几乎可以直接压成四个词：`business owners / m
 - 显著加仓：CROX（股数 +258,934，+41.2%）
 - 显著减仓：BAC（股数 -7,433,400，-71.3%）
 - 横向趋势页：[Q1 2026](/investor-masters/institutions/13f-trends-2026-q1/)
+- 单机构长线趋势页：[13F趋势-Himalaya](/investor-masters/institutions/13f-trends-himalaya/)
 
 ### 近四个已披露季度前 10 大持仓
 

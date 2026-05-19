@@ -23,6 +23,7 @@ description: "把机构 13F 按季度横向拉齐，观察跨机构持仓趋势�
 
 ## 单机构专题
 
+- [Himalaya Capital：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-himalaya/)
 - [Tudor Investment Corporation：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-tudor/)
 - [Duquesne Family Office：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-duquesne/)
 
