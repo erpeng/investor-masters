@@ -21,6 +21,11 @@ description: "把机构 13F 按季度横向拉齐，观察跨机构持仓趋势�
 
 所以这组 13F 更像一个系统状态读数：最容易讲的 AI 故事已经充分拥挤，聪明钱开始问下一层问题：谁控制电力、工程、测试、网络、设备、工业气体、资本开支效率和真实现金流。
 
+## 单机构专题
+
+- [Tudor Investment Corporation：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-tudor/)
+- [Duquesne Family Office：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-duquesne/)
+
 ## 季度档案
 
 - [Q1 2026](/investor-masters/institutions/13f-trends-2026-q1/)

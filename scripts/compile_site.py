@@ -673,6 +673,12 @@ def build_link_maps():
         if src.stem == "13F趋势":
             slug = "13f-trends"
             title = "13F 趋势"
+        elif src.stem == "13F趋势-Duquesne":
+            slug = "13f-trends-duquesne"
+            title = "13F 趋势 - Duquesne"
+        elif src.stem == "13F趋势-Tudor":
+            slug = "13f-trends-tudor"
+            title = "13F 趋势 - Tudor"
         else:
             match = re.match(r"13F趋势-(\d{4})Q([1-4])$", src.stem)
             if not match:
@@ -995,6 +1001,14 @@ def compile_institutions():
             title = "13F 趋势"
             slug = "13f-trends"
             description = "把机构 13F 按季度横向拉齐，观察跨机构持仓趋势。"
+        elif stem == "13F趋势-Duquesne":
+            title = "13F 趋势 - Duquesne"
+            slug = "13f-trends-duquesne"
+            description = "Duquesne Family Office 从 2023Q1 到 2026Q1 的单机构 13F 持仓变化。"
+        elif stem == "13F趋势-Tudor":
+            title = "13F 趋势 - Tudor"
+            slug = "13f-trends-tudor"
+            description = "Tudor Investment Corporation 从 2023Q1 到 2026Q1 的单机构 13F 持仓变化。"
         else:
             match = re.match(r"13F趋势-(\d{4})Q([1-4])$", stem)
             if not match:

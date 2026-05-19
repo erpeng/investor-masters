@@ -56,6 +56,7 @@ Duquesne 当前最重要的激励结构，不是 fee model，而是 `own capital
 - 显著加仓：Natera（股数 +552,249，+22.0%）, Ypf Sociedad Anonima（股数 +2,628,972，+433.1%）, Stmicroelectronics N V（股数 +1,839,325，+237.8%）, Adma Biologics（股数 +1,293,410，+512.9%）, AMZN call（股数 +100,000，+100.0%）
 - 显著减仓：AMZN（股数 -692,140，-93.8%）, Woodward（股数 -379,575，-64.2%）, TEVA（股数 -3,497,585，-59.5%）, CPNG（股数 -4,105,424，-60.6%）, MELI（股数 -44,383，-94.1%）
 - 横向趋势页：[Q1 2026](/investor-masters/institutions/13f-trends-2026-q1/)
+- 单机构长线趋势页：[13F趋势-Duquesne](/investor-masters/institutions/13f-trends-duquesne/)
 
 ### 近四个已披露季度前 10 大持仓
 

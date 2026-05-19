@@ -53,14 +53,15 @@ Tudor 这类机构最需要保护的，不是“别交易”，而是“别在�
 
 最近一季：`Q1 2026` vs `Q4 2025`。这里合并原“变化摘要”：先看 13F 总市值变化，再看前十大、权重和股数变化；跨机构共振回到季度趋势页统一比较。
 
-- 持仓总市值变化：从 `$54.03bn` 到 `$53.87bn`，下降 `-$0.16bn`（-0.3%）。粗拆：主动仓位变化 `$2.31bn`，价格变化 `-$2.47bn`；价格变化是主因，主动仓位变化部分抵消。
-- 新进前 10：SPY, Spdr Gold Shares call
-- 退出前 10：Ishares Core Sp, GOOGL put
-- 权重上升：IWM call（+1.3 pct）, SPY call（+1.0 pct）, SPY（+0.8 pct）, Spdr Gold Shares put（+0.8 pct）, Spdr Gold Shares call（+0.7 pct）
-- 权重下降：IWM put（-3.3 pct）, Ishares Core Sp（-1.5 pct）, QQQ call（-0.9 pct）, SPY put（-0.7 pct）, GOOGL put（-0.7 pct）
-- 显著加仓：Tetra Tech Us（股数 +29,507,018，+4813.7%）, IWM call（股数 +2,818,700，+30.7%）, Spdr Gold Shares put（股数 +936,800，+312.0%）, Spdr Gold Shares call（股数 +851,200，+175.6%）, TSLA put（股数 +691,500，+284.5%）
-- 显著减仓：IWM put（股数 -7,483,400，-26.7%）, Ishares Core Sp（股数 -1,195,670，-77.7%）, QQQ call（股数 -687,700，-23.1%）, GOOGL put（股数 -1,082,100，-59.7%）, AAPL put（股数 -1,040,100，-65.6%）
+- 持仓总市值变化：从 `$54.03bn` 到 `$53.87bn`，下降 `-$0.16bn`（-0.3%）。粗拆：主动仓位变化 `$2.39bn`，价格变化 `-$2.55bn`；价格变化是主因，主动仓位变化部分抵消。
+- 新进前 10：SPY, Spdr Gold Shares call, Spdr Gold Shares put
+- 退出前 10：Ishares Core Sp, SPY put, GOOGL put
+- 权重上升：IWM call（+1.3 pct）, SPY call（+1.1 pct）, SPY（+0.8 pct）, Spdr Gold Shares put（+0.8 pct）, Spdr Gold Shares call（+0.7 pct）
+- 权重下降：IWM put（-3.3 pct）, Ishares Core Sp（-1.5 pct）, SPY put（-1.1 pct）, QQQ call（-0.9 pct）, GOOGL put（-0.7 pct）
+- 显著加仓：Tetra Tech Us（股数 +29,507,018，+4813.7%）, IWM call（股数 +2,818,700，+30.7%）, SPY call（股数 +950,000，+125.0%）, SPY（股数 +674,583，+151.8%）, Spdr Gold Shares put（股数 +936,800，+312.0%）
+- 显著减仓：IWM put（股数 -7,483,400，-26.7%）, Ishares Core Sp（股数 -1,195,670，-77.7%）, SPY put（股数 -865,000，-96.1%）, QQQ call（股数 -687,700，-23.1%）, GOOGL put（股数 -1,082,100，-59.7%）
 - 横向趋势页：[Q1 2026](/investor-masters/institutions/13f-trends-2026-q1/)
+- 单机构长线趋势页：[13F趋势-Tudor](/investor-masters/institutions/13f-trends-tudor/)
 
 ### 近四个已披露季度前 10 大持仓
 
@@ -70,12 +71,12 @@ Tudor 这类机构最需要保护的，不是“别交易”，而是“别在�
 - `IWM` Ishares Russell 2000 Etf - Us Etp call（iShares Russell 2000 ETF，用来表达美国小盘股指数暴露）：`13F 占比 5.5%`，市值约 `$2.98bn`，股数/份额 `11,998,000`。
 - `QQQ` Invesco Qqq Trust Series 1 - Us Etp put（纳斯达克 100 ETF，用来表达大型科技和成长股指数暴露）：`13F 占比 3.9%`，市值约 `$2.11bn`，股数/份额 `3,659,700`。
 - `QQQ` Invesco Qqq Trust Series 1 - Us Etp call（纳斯达克 100 ETF，用来表达大型科技和成长股指数暴露）：`13F 占比 2.4%`，市值约 `$1.32bn`，股数/份额 `2,285,700`。
-- `SPY` State Street Spdr S&P 500 Etf Trust - Us Etp call（标普 500 ETF，用来表达美国大盘指数暴露，也常被交易型机构用于期权和对冲）：`13F 占比 2.4%`，市值约 `$1.30bn`，股数/份额 `3,604,500`。
-- `SPY` State Street Spdr S&P 500 Etf Trust - Us Etp（标普 500 ETF，用来表达美国大盘指数暴露，也常被交易型机构用于期权和对冲）：`13F 占比 1.4%`，市值约 `$0.77bn`，股数/份额 `1,561,264`。
-- `State Street Energy` State Street Energy Select Sector Spdr Etf - Us Et put（能源行业 ETF/期权工具，用来表达油气和能源股板块暴露）：`13F 占比 1.4%`，市值约 `$0.73bn`，股数/份额 `11,955,200`。
-- `SPY` State Street Spdr S&P Regional Banking Etf - Us Et put（标普 500 ETF，用来表达美国大盘指数暴露，也常被交易型机构用于期权和对冲）：`13F 占比 1.3%`，市值约 `$0.70bn`，股数/份额 `8,091,200`。
+- `SPY` State Street Spdr S&P 500 Etf Trust - Us Etp call（标普 500 ETF，用来表达美国大盘指数暴露，也常被交易型机构用于期权和对冲）：`13F 占比 2.1%`，市值约 `$1.11bn`，股数/份额 `1,710,000`。
+- `XLE` State Street Energy Select Sector Spdr Etf - Us Et put：`13F 占比 1.4%`，市值约 `$0.73bn`，股数/份额 `11,955,200`。
+- `SPY` State Street Spdr S&P 500 Etf Trust - Us Etp（标普 500 ETF，用来表达美国大盘指数暴露，也常被交易型机构用于期权和对冲）：`13F 占比 1.4%`，市值约 `$0.73bn`，股数/份额 `1,119,113`。
 - `NVDA` Nvidia Corp - Us put（AI 加速计算平台，GPU、网络和 CUDA 生态共同支撑数据中心算力需求）：`13F 占比 1.3%`，市值约 `$0.68bn`，股数/份额 `3,927,200`。
 - `Spdr Gold Shares` Spdr Gold Shares - Us Etp call（黄金 ETF，用来表达黄金价格暴露）：`13F 占比 1.1%`，市值约 `$0.57bn`，股数/份额 `1,335,900`。
+- `Spdr Gold Shares` Spdr Gold Shares - Us Etp put（黄金 ETF，用来表达黄金价格暴露）：`13F 占比 1.0%`，市值约 `$0.53bn`，股数/份额 `1,237,100`。
 
 #### Q4 2025
 
@@ -83,12 +84,12 @@ Tudor 这类机构最需要保护的，不是“别交易”，而是“别在�
 - `IWM` Ishares Russell 2000 Etf - Us Etp call（iShares Russell 2000 ETF，用来表达美国小盘股指数暴露）：`13F 占比 4.2%`，市值约 `$2.26bn`，股数/份额 `9,179,300`。
 - `QQQ` Invesco Qqq Trust Series 1 - Us Etp put（纳斯达克 100 ETF，用来表达大型科技和成长股指数暴露）：`13F 占比 3.9%`，市值约 `$2.10bn`，股数/份额 `3,421,200`。
 - `QQQ` Invesco Qqq Trust Series 1 - Us Etp call（纳斯达克 100 ETF，用来表达大型科技和成长股指数暴露）：`13F 占比 3.4%`，市值约 `$1.83bn`，股数/份额 `2,973,400`。
-- `SPY` State Street Spdr S&P 500 Etf Trust - Us Etp put（标普 500 ETF，用来表达美国大盘指数暴露，也常被交易型机构用于期权和对冲）：`13F 占比 2.0%`，市值约 `$1.09bn`，股数/份额 `7,081,000`。
 - `Ishares Core Sp` Ishares Core S&P 500 Etf - Us Etp（iShares 标普 500 ETF，用来表达美国大盘指数暴露）：`13F 占比 1.8%`，市值约 `$0.98bn`，股数/份额 `1,539,680`。
-- `SPY` State Street Spdr S&P 500 Etf Trust - Us Etp call（标普 500 ETF，用来表达美国大盘指数暴露，也常被交易型机构用于期权和对冲）：`13F 占比 1.4%`，市值约 `$0.75bn`，股数/份额 `3,214,700`。
 - `NVDA` Nvidia Corp - Us put（AI 加速计算平台，GPU、网络和 CUDA 生态共同支撑数据中心算力需求）：`13F 占比 1.2%`，市值约 `$0.64bn`，股数/份额 `3,438,400`。
+- `SPY` State Street Spdr S&P 500 Etf Trust - Us Etp put（标普 500 ETF，用来表达美国大盘指数暴露，也常被交易型机构用于期权和对冲）：`13F 占比 1.1%`，市值约 `$0.61bn`，股数/份额 `900,000`。
 - `GOOGL` Alphabet, Inc. put（Alphabet 的 A 类股，核心资产是 Google 搜索、YouTube、广告网络、Android 和 Google Cloud）：`13F 占比 1.1%`，市值约 `$0.57bn`，股数/份额 `1,813,900`。
-- `State Street Energy` State Street Energy Select Sector Spdr Etf - Us Et put（能源行业 ETF/期权工具，用来表达油气和能源股板块暴露）：`13F 占比 1.0%`，市值约 `$0.55bn`，股数/份额 `12,373,800`。
+- `XLE` State Street Energy Select Sector Spdr Etf - Us Et put：`13F 占比 1.0%`，市值约 `$0.55bn`，股数/份额 `12,373,800`。
+- `SPY` State Street Spdr S&P 500 Etf Trust - Us Etp call（标普 500 ETF，用来表达美国大盘指数暴露，也常被交易型机构用于期权和对冲）：`13F 占比 1.0%`，市值约 `$0.52bn`，股数/份额 `760,000`。
 
 #### Q3 2025
 
@@ -98,8 +99,8 @@ Tudor 这类机构最需要保护的，不是“别交易”，而是“别在�
 - `QQQ` Invesco Qqq Trust Series 1 - Us Etp put（纳斯达克 100 ETF，用来表达大型科技和成长股指数暴露）：`13F 占比 3.8%`，市值约 `$2.24bn`，股数/份额 `3,729,900`。
 - `QQQ` Invesco Qqq Trust Series 1 - Us Etp call（纳斯达克 100 ETF，用来表达大型科技和成长股指数暴露）：`13F 占比 3.6%`，市值约 `$2.09bn`，股数/份额 `3,485,500`。
 - `SPY` Spdr S&P 500 Etf Trust - Us Etp（标普 500 ETF，用来表达美国大盘指数暴露，也常被交易型机构用于期权和对冲）：`13F 占比 1.6%`，市值约 `$0.97bn`，股数/份额 `1,453,780`。
-- `Energy Select Sector` Energy Select Sector Spdr Fund - Us Etp put（能源行业 ETF/期权工具，用来表达油气和能源股板块暴露）：`13F 占比 0.9%`，市值约 `$0.55bn`，股数/份额 `6,206,200`。
-- `Utilities Select Sector` Utilities Select Sector Spdr Fund - Us Etp put（公用事业 ETF/期权工具，用来表达电力、燃气和公用事业板块暴露）：`13F 占比 0.7%`，市值约 `$0.44bn`，股数/份额 `4,988,300`。
+- `XLE` Energy Select Sector Spdr Fund - Us Etp put：`13F 占比 0.9%`，市值约 `$0.55bn`，股数/份额 `6,206,200`。
+- `XLU` Utilities Select Sector Spdr Fund - Us Etp put：`13F 占比 0.7%`，市值约 `$0.44bn`，股数/份额 `4,988,300`。
 - `Ishares China Largecap` Ishares China Large-Cap Etf - Us Etp put（中国大盘股 ETF/期权工具，用来表达中国互联网和金融龙头暴露）：`13F 占比 0.7%`，市值约 `$0.39bn`，股数/份额 `9,370,900`。
 - `Ishares China Largecap` Ishares China Large-Cap Etf - Us Etp call（中国大盘股 ETF/期权工具，用来表达中国互联网和金融龙头暴露）：`13F 占比 0.7%`，市值约 `$0.38bn`，股数/份额 `9,332,200`。
 
@@ -110,8 +111,8 @@ Tudor 这类机构最需要保护的，不是“别交易”，而是“别在�
 - `QQQ` Invesco Qqq Trust Series 1 - Us Etp put（纳斯达克 100 ETF，用来表达大型科技和成长股指数暴露）：`13F 占比 4.4%`，市值约 `$2.02bn`，股数/份额 `3,662,600`。
 - `SPY` Spdr S&P 500 Etf Trust - Us Etp（标普 500 ETF，用来表达美国大盘指数暴露，也常被交易型机构用于期权和对冲）：`13F 占比 2.7%`，市值约 `$1.23bn`，股数/份额 `1,987,813`。
 - `QQQ` Invesco Qqq Trust Series 1 - Us Etp call（纳斯达克 100 ETF，用来表达大型科技和成长股指数暴露）：`13F 占比 2.7%`，市值约 `$1.22bn`，股数/份额 `2,205,900`。
-- `Energy Select Sector` Energy Select Sector Spdr Fund - Us Etp put（能源行业 ETF/期权工具，用来表达油气和能源股板块暴露）：`13F 占比 0.9%`，市值约 `$0.43bn`，股数/份额 `5,067,000`。
-- `Utilities Select Sector` Utilities Select Sector Spdr Fund - Us Etp put（公用事业 ETF/期权工具，用来表达电力、燃气和公用事业板块暴露）：`13F 占比 0.8%`，市值约 `$0.38bn`，股数/份额 `4,644,100`。
+- `XLE` Energy Select Sector Spdr Fund - Us Etp put：`13F 占比 0.9%`，市值约 `$0.43bn`，股数/份额 `5,067,000`。
+- `XLU` Utilities Select Sector Spdr Fund - Us Etp put：`13F 占比 0.8%`，市值约 `$0.38bn`，股数/份额 `4,644,100`。
 - `META` Meta Platforms Inc - Us call（Meta，社交网络、广告系统和 AI 推荐平台，核心资产是 Facebook、Instagram、WhatsApp 和广告模型）：`13F 占比 0.7%`，市值约 `$0.32bn`，股数/份额 `440,200`。
 - `AMD` Advanced Micro Devices Inc - Us call（CPU、GPU 和 AI 加速芯片公司，核心看数据中心份额和异构计算产品节奏）：`13F 占比 0.6%`，市值约 `$0.28bn`，股数/份额 `1,955,700`。
 - `Ishares Bitcoin Trust` Ishares Bitcoin Trust Etf - Us Etp（现货比特币 ETF，用来表达比特币价格暴露）：`13F 占比 0.6%`，市值约 `$0.27bn`，股数/份额 `4,489,444`。
