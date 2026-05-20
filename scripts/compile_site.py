@@ -676,6 +676,9 @@ def build_link_maps():
         elif src.stem == "13F趋势-Duquesne":
             slug = "13f-trends-duquesne"
             title = "13F 趋势 - Duquesne"
+        elif src.stem == "13F趋势-HH":
+            slug = "13f-trends-hh"
+            title = "13F 趋势 - H&H"
         elif src.stem == "13F趋势-Tudor":
             slug = "13f-trends-tudor"
             title = "13F 趋势 - Tudor"
@@ -1011,6 +1014,10 @@ def compile_institutions():
             title = "13F 趋势 - Duquesne"
             slug = "13f-trends-duquesne"
             description = "Duquesne Family Office 从 2023Q1 到 2026Q1 的单机构 13F 持仓变化。"
+        elif stem == "13F趋势-HH":
+            title = "13F 趋势 - H&H"
+            slug = "13f-trends-hh"
+            description = "H&H International Investment 从 2023Q1 到 2026Q1 的单机构 13F 持仓变化。"
         elif stem == "13F趋势-Tudor":
             title = "13F 趋势 - Tudor"
             slug = "13f-trends-tudor"
