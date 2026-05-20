@@ -23,6 +23,7 @@ description: "把机构 13F 按季度横向拉齐，观察跨机构持仓趋势�
 
 ## 单机构专题
 
+- [AKO Capital：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-ako/)
 - [H&H International Investment：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-hh/)
 - [Fundsmith：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-fundsmith/)
 - [Himalaya Capital：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-himalaya/)

@@ -688,6 +688,9 @@ def build_link_maps():
         elif src.stem == "13F趋势-Fundsmith":
             slug = "13f-trends-fundsmith"
             title = "13F 趋势 - Fundsmith"
+        elif src.stem == "13F趋势-AKO":
+            slug = "13f-trends-ako"
+            title = "13F 趋势 - AKO"
         else:
             match = re.match(r"13F趋势-(\d{4})Q([1-4])$", src.stem)
             if not match:
@@ -1030,6 +1033,10 @@ def compile_institutions():
             title = "13F 趋势 - Fundsmith"
             slug = "13f-trends-fundsmith"
             description = "Fundsmith 从 2023Q1 到 2026Q1 的单机构 13F 持仓变化。"
+        elif stem == "13F趋势-AKO":
+            title = "13F 趋势 - AKO"
+            slug = "13f-trends-ako"
+            description = "AKO Capital 从 2023Q1 到 2026Q1 的单机构 13F 持仓变化。"
         else:
             match = re.match(r"13F趋势-(\d{4})Q([1-4])$", stem)
             if not match:
