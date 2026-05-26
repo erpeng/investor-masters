@@ -61,6 +61,7 @@ Maverick 的文化骨架，不像 Bridgewater 那样高调写原则，也不像 
 - 显著加仓：NU（股数 +10,729,747，+91.6%）, BSX（股数 +1,250,835，+42.5%）, Mcdonalds（股数 +281,647，+2261.7%）, Biotechne（股数 +888,798，+23.1%）, Natera（股数 +227,605，+24.1%）
 - 显著减仓：PM（股数 -1,609,777，-73.9%）, MSFT（股数 -424,849，-36.9%）, TSM（股数 -421,292，-25.4%）, GOOG（股数 -268,806，-23.5%）, DIS（股数 -699,642，-99.0%）
 - 横向趋势页：[Q1 2026](/investor-masters/institutions/13f-trends-2026-q1/)
+- 单机构长线趋势页：[13F趋势-Maverick](/investor-masters/institutions/13f-trends-maverick/)
 
 ### 近四个已披露季度前 10 大持仓
 

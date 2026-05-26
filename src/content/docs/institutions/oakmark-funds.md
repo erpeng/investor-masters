@@ -57,6 +57,7 @@ Oakmark 是基金品牌；这里使用管理公司 Harris Associates L.P. 的 13
 - 显著加仓：Salesforce（股数 +5,126,665，+52.4%）, NFLX（股数 +9,827,233，+30200.5%）, Gartner（股数 +2,171,790，+225.3%）, Icon（股数 +1,841,151，+73.3%）, Fiserv（股数 +4,182,927，+26.9%）
 - 显著减仓：Warner Bros Discovery（股数 -45,980,770，-58.3%）, Deere（股数 -2,616,555，-83.5%）, Phillips 66（股数 -4,844,064，-34.7%）, Conocophillips（股数 -6,574,096，-27.4%）, Eog Res（股数 -3,241,054，-44.0%）
 - 横向趋势页：[Q1 2026](/investor-masters/institutions/13f-trends-2026-q1/)
+- 单机构长线趋势页：[13F趋势-Oakmark](/investor-masters/institutions/13f-trends-oakmark/)
 
 ### 近四个已披露季度前 10 大持仓
 

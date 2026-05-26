@@ -688,6 +688,9 @@ def build_link_maps():
         elif src.stem == "13F趋势-Lone Pine":
             slug = "13f-trends-lone-pine"
             title = "13F 趋势 - Lone Pine"
+        elif src.stem == "13F趋势-Greenlight":
+            slug = "13f-trends-greenlight"
+            title = "13F 趋势 - Greenlight"
         elif src.stem == "13F趋势-Fundsmith":
             slug = "13f-trends-fundsmith"
             title = "13F 趋势 - Fundsmith"
@@ -703,6 +706,12 @@ def build_link_maps():
         elif src.stem == "13F趋势-Pershing":
             slug = "13f-trends-pershing"
             title = "13F 趋势 - Pershing"
+        elif src.stem == "13F趋势-Maverick":
+            slug = "13f-trends-maverick"
+            title = "13F 趋势 - Maverick"
+        elif src.stem == "13F趋势-Oakmark":
+            slug = "13f-trends-oakmark"
+            title = "13F 趋势 - Oakmark"
         else:
             match = re.match(r"13F趋势-(\d{4})Q([1-4])$", src.stem)
             if not match:
@@ -1045,6 +1054,10 @@ def compile_institutions():
             title = "13F 趋势 - Lone Pine"
             slug = "13f-trends-lone-pine"
             description = "Lone Pine Capital 从 2023Q1 到 2026Q1 的单机构 13F 持仓变化。"
+        elif stem == "13F趋势-Greenlight":
+            title = "13F 趋势 - Greenlight"
+            slug = "13f-trends-greenlight"
+            description = "Greenlight Capital / DME 从 2023Q1 到 2026Q1 的单机构 13F 持仓变化。"
         elif stem == "13F趋势-Fundsmith":
             title = "13F 趋势 - Fundsmith"
             slug = "13f-trends-fundsmith"
@@ -1065,6 +1078,14 @@ def compile_institutions():
             title = "13F 趋势 - Pershing"
             slug = "13f-trends-pershing"
             description = "Pershing Square 从 2023Q1 到 2026Q1 的单机构 13F 持仓变化。"
+        elif stem == "13F趋势-Maverick":
+            title = "13F 趋势 - Maverick"
+            slug = "13f-trends-maverick"
+            description = "Maverick Capital 从 2023Q1 到 2026Q1 的单机构 13F 持仓变化。"
+        elif stem == "13F趋势-Oakmark":
+            title = "13F 趋势 - Oakmark"
+            slug = "13f-trends-oakmark"
+            description = "Oakmark / Harris Associates 从 2023Q1 到 2026Q1 的单机构 13F 持仓变化。"
         else:
             match = re.match(r"13F趋势-(\d{4})Q([1-4])$", stem)
             if not match:

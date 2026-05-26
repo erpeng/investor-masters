@@ -63,6 +63,7 @@ Greenlight 近年主要通过 DME Capital Management, LP 披露；历史 Greenli
 - 显著加仓：Td Synnex（股数 +423,040，+748.9%）, Peloton Interactive（股数 +9,867,480，+4003.7%）, Bkv（股数 +1,407,600，+109.3%）, Sotera Health（股数 +1,604,410，+347.8%）, Victorias Secret And（股数 +519,020，+29.9%）
 - 显著减仓：Weatherford Intl（股数 -597,899，-80.4%）, Fluor（股数 -808,550，-14.6%）, Spdr Gold Tr（股数 -70,950，-41.6%）, Dht Holdings（股数 -2,093,894，-28.4%）, Core Natural Resources（股数 -242,340，-11.5%）
 - 横向趋势页：[Q1 2026](/investor-masters/institutions/13f-trends-2026-q1/)
+- 单机构长线趋势页：[13F趋势-Greenlight](/investor-masters/institutions/13f-trends-greenlight/)
 
 ### 近四个已披露季度前 10 大持仓
 
