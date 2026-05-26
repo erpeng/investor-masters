@@ -50,6 +50,7 @@ Pershing 的机构哲学，可以压成一句话：`寻找高质量但暂时迷�
 - 显著加仓：AMZN（股数 +1,844,157，+19.2%）
 - 显著减仓：GOOG（股数 -5,852,145，-94.9%）, GOOGL（股数 -645,921，-95.2%）, BN（股数 -1,705,881，-2.8%）
 - 横向趋势页：[Q1 2026](/investor-masters/institutions/13f-trends-2026-q1/)
+- 单机构长线趋势页：[13F趋势-Pershing](/investor-masters/institutions/13f-trends-pershing/)
 
 ### 近四个已披露季度前 10 大持仓
 

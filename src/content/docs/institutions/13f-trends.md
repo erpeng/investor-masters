@@ -23,10 +23,14 @@ description: "把机构 13F 按季度横向拉齐，观察跨机构持仓趋势�
 
 ## 单机构专题
 
+- [Pershing Square：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-pershing/)
+- [Baillie Gifford：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-baillie/)
+- [Baupost Group：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-baupost/)
 - [AKO Capital：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-ako/)
 - [H&H International Investment：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-hh/)
 - [Fundsmith：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-fundsmith/)
 - [Himalaya Capital：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-himalaya/)
+- [Lone Pine Capital：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-lone-pine/)
 - [Tudor Investment Corporation：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-tudor/)
 - [Duquesne Family Office：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-duquesne/)
 

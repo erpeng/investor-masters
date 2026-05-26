@@ -685,12 +685,24 @@ def build_link_maps():
         elif src.stem == "13F趋势-Himalaya":
             slug = "13f-trends-himalaya"
             title = "13F 趋势 - Himalaya"
+        elif src.stem == "13F趋势-Lone Pine":
+            slug = "13f-trends-lone-pine"
+            title = "13F 趋势 - Lone Pine"
         elif src.stem == "13F趋势-Fundsmith":
             slug = "13f-trends-fundsmith"
             title = "13F 趋势 - Fundsmith"
         elif src.stem == "13F趋势-AKO":
             slug = "13f-trends-ako"
             title = "13F 趋势 - AKO"
+        elif src.stem == "13F趋势-Baillie":
+            slug = "13f-trends-baillie"
+            title = "13F 趋势 - Baillie Gifford"
+        elif src.stem == "13F趋势-Baupost":
+            slug = "13f-trends-baupost"
+            title = "13F 趋势 - Baupost"
+        elif src.stem == "13F趋势-Pershing":
+            slug = "13f-trends-pershing"
+            title = "13F 趋势 - Pershing"
         else:
             match = re.match(r"13F趋势-(\d{4})Q([1-4])$", src.stem)
             if not match:
@@ -1029,6 +1041,10 @@ def compile_institutions():
             title = "13F 趋势 - Himalaya"
             slug = "13f-trends-himalaya"
             description = "Himalaya Capital 从 2023Q1 到 2026Q1 的单机构 13F 持仓变化。"
+        elif stem == "13F趋势-Lone Pine":
+            title = "13F 趋势 - Lone Pine"
+            slug = "13f-trends-lone-pine"
+            description = "Lone Pine Capital 从 2023Q1 到 2026Q1 的单机构 13F 持仓变化。"
         elif stem == "13F趋势-Fundsmith":
             title = "13F 趋势 - Fundsmith"
             slug = "13f-trends-fundsmith"
@@ -1037,6 +1053,18 @@ def compile_institutions():
             title = "13F 趋势 - AKO"
             slug = "13f-trends-ako"
             description = "AKO Capital 从 2023Q1 到 2026Q1 的单机构 13F 持仓变化。"
+        elif stem == "13F趋势-Baillie":
+            title = "13F 趋势 - Baillie Gifford"
+            slug = "13f-trends-baillie"
+            description = "Baillie Gifford 从 2023Q1 到 2026Q1 的单机构 13F 持仓变化。"
+        elif stem == "13F趋势-Baupost":
+            title = "13F 趋势 - Baupost"
+            slug = "13f-trends-baupost"
+            description = "Baupost Group 从 2023Q1 到 2026Q1 的单机构 13F 持仓变化。"
+        elif stem == "13F趋势-Pershing":
+            title = "13F 趋势 - Pershing"
+            slug = "13f-trends-pershing"
+            description = "Pershing Square 从 2023Q1 到 2026Q1 的单机构 13F 持仓变化。"
         else:
             match = re.match(r"13F趋势-(\d{4})Q([1-4])$", stem)
             if not match:

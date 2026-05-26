@@ -61,6 +61,7 @@ Baupost 的机构哲学可以压成一句话：`先问风险是否值得承担�
 - 显著加仓：AMZN（股数 +997,363，+47.0%）, FERG（股数 +305,376，+26.9%）, Americold Realty Trust（股数 +4,305,115，+123.9%）, GOOG（股数 +93,950，+8.6%）, WCC（股数 +18,050，+1.3%）
 - 显著减仓：WTW（股数 -464,475，-34.2%）, LBTYK（股数 -9,567,990，-41.7%）, EXP（股数 -292,485，-24.7%）, UNP（股数 -86,259，-5.3%）
 - 横向趋势页：[Q1 2026](/investor-masters/institutions/13f-trends-2026-q1/)
+- 单机构长线趋势页：[13F趋势-Baupost](/investor-masters/institutions/13f-trends-baupost/)
 
 ### 近四个已披露季度前 10 大持仓
 

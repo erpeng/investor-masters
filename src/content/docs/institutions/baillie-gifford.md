@@ -54,6 +54,7 @@ Baillie Gifford 的核心文化约束，不是高频奖惩，而是合伙制、�
 - 显著加仓：Makemytrip（股数 +9,857,927，+191.2%）, Axon Enterprise（股数 +817,149，+49.7%）, Credicorp（股数 +1,296,605，+90.5%）, APP（股数 +533,783，+8.7%）, Samsara（股数 +9,863,279，+20.7%）
 - 显著减仓：NFLX（股数 -15,134,366，-41.0%）, The Trade Desk（股数 -22,155,614，-99.3%）, Microsoft（股数 -1,666,810，-30.1%）, CPNG（股数 -25,465,852，-17.4%）, NVDA（股数 -3,119,040，-7.1%）
 - 横向趋势页：[Q1 2026](/investor-masters/institutions/13f-trends-2026-q1/)
+- 单机构长线趋势页：[13F趋势-Baillie](/investor-masters/institutions/13f-trends-baillie/)
 
 ### 近四个已披露季度前 10 大持仓
 
