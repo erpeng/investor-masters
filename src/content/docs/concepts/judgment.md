@@ -19,16 +19,21 @@ description: "判断力 在这批资料 里的最佳入口。"
 
 [托德·库姆斯](/investor-masters/investors/todd-combs/) 补上的，则是判断力里经常被忽略的一环：你能不能保留 [空头视角](/investor-masters/concepts/short-perspective/)，让自己持续面对负面案例、反证链和失败路径。对他来说，思维灵活不是“什么都愿意试”，而是即使已经倾向做多，也仍然能从反面把公司重新审一遍，防止研究滑向自我确认。
 
+[弗朗索瓦·罗雄](/investor-masters/investors/francois-rochon/) 又补了一层：判断力必须能容纳错误，尤其是 omission errors。一个投资人如果只复盘亏钱交易，却不复盘因为恐惧、价格锚定或理解不足而错过的伟大公司，长期判断力会被系统性高估。
+
 ## 相关概念
 
 - [能力圈](/investor-masters/concepts/circle-of-competence/)
 - [第二层思维](/investor-masters/concepts/second-level-thinking/)
 - [反脆弱与仓位管理](/investor-masters/concepts/antifragility-and-position-sizing/)
 - [空头视角](/investor-masters/concepts/short-perspective/)
+- [所有者收益](/investor-masters/concepts/owners-earnings/)
 - [看懂边界 vs 品味判断](/investor-masters/dialogues/boundary-vs-taste/)
+- [审计式质量 vs 艺术式质量](/investor-masters/dialogues/audit-quality-vs-art-quality/)
 
 ## 主要来源
 
-- [深度翻译  与纳瓦尔的长篇对话（1）财富的创造](/investor-masters/sources/source-73/)
-- [深度翻译  与纳瓦尔的长篇对话（2）培养判断力](/investor-masters/sources/source-74/)
+- [深度翻译  与纳瓦尔的长篇对话（1）财富的创造](/investor-masters/sources/source-90/)
+- [深度翻译  与纳瓦尔的长篇对话（2）培养判断力](/investor-masters/sources/source-91/)
 - [2.5万字｜巴菲特投资接班人托德·库姆斯首度揭秘，如何获得这份梦想工作：有四个获取人生长期复利的要素，好奇心和毅力永远不嫌多](/investor-masters/sources/source-01/)
+- [Meb Faber｜弗朗索瓦·罗雄：耐心、谦逊与理性](/investor-masters/sources/source-33/)

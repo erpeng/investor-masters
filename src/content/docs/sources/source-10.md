@@ -1,17 +1,16 @@
 ---
-title: "CFO｜李·安斯利：对冲不是目的，理解企业才是"
+title: "Bloomberg｜David Tepper：2013美国复苏与风险偏好"
 slug: "sources/source-10"
-description: "李·安斯利从 CFO 视角解释 Maverick 如何看资本配置、管理层诚信、短仓、监管与公司沟通。"
+description: "原始材料来源页。"
 ---
 
-**原文件名**: `CFO｜李·安斯利：对冲不是目的，理解企业才是.md`  
-**外部来源**: https://www.cfo.com/news/lee-ainslie-not-hedging-a-bit/676108/
+**原文件名**: `Bloomberg｜David Tepper：2013美国复苏与风险偏好.md`  
 
 
 ## 摘要
 
-李·安斯利从 CFO 视角解释 Maverick 如何看资本配置、管理层诚信、短仓、监管与公司沟通。
+原始材料来源页。
 
 ## 节选
 
-> 整理说明： > 本页依据 CFO.com 的公开长访谈原文整理。它是 print 版访谈的 extended version，重点保留对 CFO、资本结构、短仓关系与监管的判断。
+这条材料承接 2010 年后金融危机政策底：Tepper 对美国增长、风险资产和 Appaloosa 背景做了更完整表述，也提供了 1998 年俄罗斯危机亏损等重要边界线索。

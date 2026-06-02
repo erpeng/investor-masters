@@ -1,18 +1,17 @@
 ---
-title: "李录最新交流剖析新秩序：通过“四两拨千斤”，中国还可以释放很多改革红利……"
+title: "原文｜TIFF｜塞思·卡拉曼：价值投资问答节选"
 slug: "sources/source-70"
-description: "中国有机会在国际秩序重塑中占据对自己有利的位置"
+description: "从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML。"
 ---
 
-**原文件名**: `李录最新交流剖析新秩序：通过“四两拨千斤”，中国还可以释放很多改革红利…….md`  
-**外部来源**: https://mp.weixin.qq.com/s?__biz=MzA4NTQ1MzEyNQ==&mid=2663497814&idx=1&sn=5da347b87df1d7a34f5e9de9d6173703&scene=21&poc_token=HGAg2WmjjdJvA7cPWTbQyzqBcLj_LhZb4JfWmq12
+**原文件名**: `原文｜TIFF｜塞思·卡拉曼：价值投资问答节选.md`  
+**外部来源**: https://www.valuewalk.com/seth-klarman-speech-tiff-2009-on-value-investing-full-transcript/
 
-**时间**: 2025年4月26日 10:02
 
 ## 摘要
 
-中国有机会在国际秩序重塑中占据对自己有利的位置
+从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML。
 
 ## 节选
 
-“中国还有好多比较容易的改革红利，是因为观念上的堵塞没有被疏通起来。疏通以后就可以在比较短的时间之内加速，把经济迅速地从依赖外需和内需结合，变成主要由内需驱动。”
+- 对应整理稿：[[现有资料/TIFF｜塞思·卡拉曼：价值投资问答节选.md]] - 抓取时间：`2026-04-20` - 抽取方式：`HTML` - 原始域名：`www.valuewalk.com`

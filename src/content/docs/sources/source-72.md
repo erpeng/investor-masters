@@ -1,18 +1,17 @@
 ---
-title: "比亚迪，巴菲特的例外，李录口中的“非卖品”"
+title: "原文｜Third Point｜2025Q1 investor letter：催化剂、动态敞口与信用协同"
 slug: "sources/source-72"
-description: "一只符合格雷厄姆标准的股票"
+description: "从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：PDF。"
 ---
 
-**原文件名**: `比亚迪，巴菲特的例外，李录口中的“非卖品”.md`  
-**外部来源**: https://mp.weixin.qq.com/s/5bWfwikznrJSe72_cekZLA
+**原文件名**: `原文｜Third Point｜2025Q1 investor letter：催化剂、动态敞口与信用协同.md`  
+**外部来源**: https://assets.thirdpointlimited.com/f/166217/x/1c4003f091/tpil-q1-2025-investor-letter_02052025_final.pdf
 
-**时间**: 2024年11月23日 10:02
 
 ## 摘要
 
-一只符合格雷厄姆标准的股票
+从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：PDF。
 
 ## 节选
 
-2003年，比亚迪刚提出要造车时，遭到无数机构投资者的反对，甚至有几家持有比亚迪的基金抛售了比亚迪的股票。
+- 对应整理稿：[[现有资料/Third Point｜2025Q1 investor letter：催化剂、动态敞口与信用协同.md]] - 抓取时间：`2026-04-20` - 抽取方式：`PDF` - 原始域名：`assets.thirdpointlimited.com`

@@ -56,6 +56,6 @@ description: "事件驱动 在这批资料 里的最佳入口。"
 
 ## 主要来源
 
-- [Third Point｜2024Q4 investor letter：第二层思维、事件驱动与跨资产框架](/investor-masters/sources/source-30/)
-- [Third Point｜2025Q1 investor letter：催化剂、动态敞口与信用协同](/investor-masters/sources/source-31/)
-- [CNBC｜丹·勒布：更动荡市场中的 event-driven 组合](/investor-masters/sources/source-11/)
+- [Third Point｜2024Q4 investor letter：第二层思维、事件驱动与跨资产框架](/investor-masters/sources/source-45/)
+- [Third Point｜2025Q1 investor letter：催化剂、动态敞口与信用协同](/investor-masters/sources/source-46/)
+- [CNBC｜丹·勒布：更动荡市场中的 event-driven 组合](/investor-masters/sources/source-19/)

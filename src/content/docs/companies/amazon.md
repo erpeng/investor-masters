@@ -14,19 +14,25 @@ description: "这是一家最适合放在一起比较的公司: 比尔·米勒�
 ## 公司点评
 
 ### [尼克·斯利普](/investor-masters/investors/nick-sleep/) / [凯斯·扎卡里亚](/investor-masters/investors/qais-zakaria/)
-> “在游牧人看来， 亚马逊是少数几个可以与客户“共享规模经济”的公司之一，它是“加速版的开市客（Costco）”，拥有持续与对手竞争的实力。” ——来源：[一家低调的传奇机构，“黏住”亚马逊、开市客、伯克希尔大赚特赚](/investor-masters/sources/source-36/)
+> “在游牧人看来， 亚马逊是少数几个可以与客户“共享规模经济”的公司之一，它是“加速版的开市客（Costco）”，拥有持续与对手竞争的实力。” ——来源：[一家低调的传奇机构，“黏住”亚马逊、开市客、伯克希尔大赚特赚](/investor-masters/sources/source-53/)
 
 在他们那里，亚马逊最重要的不是电商身份，而是把规模收益不断返还给客户的能力。
 
 ### [比尔·米勒](/investor-masters/investors/bill-miller/)
-> “比尔·米勒：大概还是会放20%左右在亚马逊。市场里可以买的东西很多，但真正能和它比肩的公司不多。如果亚马逊是20%，那你可以在Meta、阿里巴巴和谷歌各放10%。我觉得微软偏贵，苹果也一样。” ——来源：[重注亚马逊、比特币的人！比尔·米勒经典对谈：如何避免被偏见带偏](/investor-masters/sources/source-82/)
+> “比尔·米勒：大概还是会放20%左右在亚马逊。市场里可以买的东西很多，但真正能和它比肩的公司不多。如果亚马逊是20%，那你可以在Meta、阿里巴巴和谷歌各放10%。我觉得微软偏贵，苹果也一样。” ——来源：[重注亚马逊、比特币的人！比尔·米勒经典对谈：如何避免被偏见带偏](/investor-masters/sources/source-99/)
 
 米勒把亚马逊当成未来价值远高于当前价格的代表样本。但第二轮再看，这个判断的关键不只是“看得远”，而是先把问题重新描述对：如果你把亚马逊看成卖书公司，它会显得贵；如果你把它看成高效现金流平台，再去问未来五年配送中心怎么扩、客户体验怎么变，估值语言就完全不同了。
 
 ### [霍华德·马克斯](/investor-masters/investors/howard-marks/)
-> “那是2002年的事了，当时正值网络泡沫破灭，有很多债券都以巨大的折扣进行交易，亚马逊就有几种债券。假设亚马逊有一种10年期债券的收益率是12%， 还有一种5年期债券的收益率是15%（具体数字是我编的）。” ——来源：[关于耐心与杠杆！霍华德与摩根的最新对话：历史不会重演，但人类的行为却总是重复](/investor-masters/sources/source-40/)
+> “那是2002年的事了，当时正值网络泡沫破灭，有很多债券都以巨大的折扣进行交易，亚马逊就有几种债券。假设亚马逊有一种10年期债券的收益率是12%， 还有一种5年期债券的收益率是15%（具体数字是我编的）。” ——来源：[关于耐心与杠杆！霍华德与摩根的最新对话：历史不会重演，但人类的行为却总是重复](/investor-masters/sources/source-57/)
 
 这说明亚马逊在这批资料里不只是一只成长股，也是一只曾经被信用市场错误定价的资产。在霍华德那条线里，亚马逊不是“伟大公司信仰”，而是市场在恐慌中把存活概率和风险结构一起算错的样本。
+
+### [大卫·泰珀](/investor-masters/investors/david-tepper/)
+
+Tepper / Appaloosa 给亚马逊补的是仓位切换视角。[13F趋势-Appaloosa](/investor-masters/institutions/13f-trends-appaloosa/) 显示，`AMZN` 在 2023Q2 起就是 Appaloosa 的核心平台股之一；2026Q1 股数从上一季 `2.18m` 增至 `4.32m`，权重升至 `15.2%`，成为第一大 13F 持仓。
+
+这条线不等同于 Sleep / Miller 的长期亚马逊信仰。对 Appaloosa 来说，亚马逊更像在中国政策交易收缩后重新做大的美国平台核心腿。
 
 ## 分歧与共识
 
@@ -38,4 +44,5 @@ description: "这是一家最适合放在一起比较的公司: 比尔·米勒�
 - [凯斯·扎卡里亚](/investor-masters/investors/qais-zakaria/)
 - [比尔·米勒](/investor-masters/investors/bill-miller/)
 - [霍华德·马克斯](/investor-masters/investors/howard-marks/)
+- [大卫·泰珀](/investor-masters/investors/david-tepper/)
 - [开市客](/investor-masters/companies/costco/)

@@ -19,9 +19,13 @@ description: "台积电在这批资料里主要是“稀缺制造能力”的样
 安德森关注的是组织与能力的不可复制性。
 
 ### [劳伦斯·伯恩斯](/investor-masters/investors/lawrence-burns/)
-> “在 AI这个主题里，我们的布局是沿着整条价值链展开的。 比如在硬件层面，我们持有英伟达、阿斯麦和台积电。” ——来源：[近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-masters/sources/source-80/)
+> “在 AI这个主题里，我们的布局是沿着整条价值链展开的。 比如在硬件层面，我们持有英伟达、阿斯麦和台积电。” ——来源：[近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-masters/sources/source-97/)
 
 这是把台积电放进系统性配置框架的说法。
+
+### [大卫·泰珀](/investor-masters/investors/david-tepper/)
+
+Appaloosa 的 `TSM` 轨迹把台积电接到政策/AI/半导体三条线的交汇处。[13F趋势-Appaloosa](/investor-masters/institutions/13f-trends-appaloosa/) 显示，`TSM` 从 2025Q2 起进入前十大，2026Q1 股数升至 `1.33m`，权重约 `7.6%`，成为第五大 13F 持仓。它不是 Tepper 单独讲过的公司 投资论点，但在公开组合里是 AI 基础设施和地缘/供应链瓶颈的重要表达腿。
 
 ## 分歧与共识
 
@@ -31,5 +35,6 @@ description: "台积电在这批资料里主要是“稀缺制造能力”的样
 
 - [詹姆斯·安德森](/investor-masters/investors/james-anderson/)
 - [劳伦斯·伯恩斯](/investor-masters/investors/lawrence-burns/)
+- [大卫·泰珀](/investor-masters/investors/david-tepper/)
 - [英伟达](/investor-masters/companies/nvidia/)
 - [ASML](/investor-masters/companies/asml/)

@@ -1,17 +1,17 @@
 ---
-title: "Third Point｜2025Q1 investor letter：催化剂、动态敞口与信用协同"
+title: "Joys of Compounding｜史蒂芬·曼德尔：来自 Lone Pine 的经验课"
 slug: "sources/source-31"
-description: "依据 Third Point 2025Q1 investor letter，整理 Dan Loeb 对动态降敞口、催化剂仓位、信用协同与 flexible allocation 的官方表达。"
+description: "史蒂芬·曼德尔回顾 Lone Pine 的创立、文化、领导力、人才培养与长期 alpha 的来源。"
 ---
 
-**原文件名**: `Third Point｜2025Q1 investor letter：催化剂、动态敞口与信用协同.md`  
-**外部来源**: https://assets.thirdpointlimited.com/f/166217/x/1c4003f091/tpil-q1-2025-investor-letter_02052025_final.pdf
+**原文件名**: `Joys of Compounding｜史蒂芬·曼德尔：来自 Lone Pine 的经验课.md`  
+**外部来源**: https://colossus.com/episode/lessons-from-steve-mandel/
 
 
 ## 摘要
 
-依据 Third Point 2025Q1 investor letter，整理 Dan Loeb 对动态降敞口、催化剂仓位、信用协同与 flexible allocation 的官方表达。
+史蒂芬·曼德尔回顾 Lone Pine 的创立、文化、领导力、人才培养与长期 alpha 的来源。
 
 ## 节选
 
-- `主角`：丹·勒布（Dan Loeb）/ Third Point - `场景`：`2025Q1` investor letter - `时间`：`2025-05-02` - `核心价值`：如果 `2024Q4` 信讲的是方法框架，这封信讲的是框架在动荡环境里如何实际落地。
+> 整理说明： > 本页依据 Colossus 官方节目页、Apple Podcasts 官方页面与公开可见 show notes 整理而成。 > 官方完整 transcript 当前需要登录可见，因此本页不是官方完整逐字稿，而是基于官方音频元信息、官方 show notes 与公开简介的审校整理版。

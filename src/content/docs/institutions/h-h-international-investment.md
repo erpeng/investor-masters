@@ -33,8 +33,8 @@ H&H 没有像 Fundsmith 或 Oaktree 那样的公开机构备忘录，因此不�
 
 ## 标志性公开材料
 
-- [段永平：抄捷径是阴沟里翻船最快的方法](/investor-masters/sources/source-71/)：理解 `本分 / 平常心 / Stop Doing List` 的核心材料。
-- [“打孔机”只打了不到10个孔！段永平与方三文最新对话，详解“投资中如何真正算看懂”……](/investor-masters/sources/source-34/)：理解 `看懂生意 / 打孔机 / 极少出手` 的核心材料。
+- [段永平：抄捷径是阴沟里翻船最快的方法](/investor-masters/sources/source-88/)：理解 `本分 / 平常心 / Stop Doing List` 的核心材料。
+- [“打孔机”只打了不到10个孔！段永平与方三文最新对话，详解“投资中如何真正算看懂”……](/investor-masters/sources/source-51/)：理解 `看懂生意 / 打孔机 / 极少出手` 的核心材料。
 - [SEC EDGAR: H&H International Investment, LLC](https://www.sec.gov/edgar/browse/?CIK=1759760)：H&H 13F 披露来源。
 
 ## 13F 持仓（近四个季度）

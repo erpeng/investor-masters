@@ -1,17 +1,17 @@
 ---
-title: "Harvard Business School｜塞思·卡拉曼：危机中的 Baupost 与价值纪律"
+title: "CNBC｜丹·勒布：更动荡市场中的 event-driven 组合"
 slug: "sources/source-19"
-description: "依据 MarketFolly 转录的 HBS 访谈，整理塞思·卡拉曼关于价值投资、现金、风险优先、危机干预与 Baupost 客户结构的关键判断。"
+description: "依据 CNBC 对 Dan Loeb 经济俱乐部发言的摘要，整理 Third Point 在更动荡市场环境下转向 event-driven / catalyst-oriented 组合的最新表达。"
 ---
 
-**原文件名**: `Harvard Business School｜塞思·卡拉曼：危机中的 Baupost 与价值纪律.md`  
-**外部来源**: https://www.marketfolly.com/2008/12/interview-with-seth-klarman-of-baupost.html
+**原文件名**: `CNBC｜丹·勒布：更动荡市场中的 event-driven 组合.md`  
+**外部来源**: https://www.cnbc.com/video/2025/04/23/third-point-ceo-dan-loeb-i-wouldnt-underestimate-the-resilience-of-the-american-economy.html
 
 
 ## 摘要
 
-依据 MarketFolly 转录的 HBS 访谈，整理塞思·卡拉曼关于价值投资、现金、风险优先、危机干预与 Baupost 客户结构的关键判断。
+依据 CNBC 对 Dan Loeb 经济俱乐部发言的摘要，整理 Third Point 在更动荡市场环境下转向 event-driven / catalyst-oriented 组合的最新表达。
 
 ## 节选
 
-> 整理说明： > 本页依据 MarketFolly 转录的 Harvard Business School 访谈整理。它是理解危机中的 Klarman / Baupost 最重要的一篇公开材料之一。
+> 整理说明： > CNBC 当前公开的是摘要页与节目信息，不是完整逐字 transcript。本页只整理页面明确给出的核心要点。

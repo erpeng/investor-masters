@@ -1,17 +1,16 @@
 ---
-title: "Colossus｜大卫·艾因霍恩：长短仓、反动量与价值投资"
+title: "CNBC｜David Tepper：2020疫情冲击与nibbling-tech"
 slug: "sources/source-16"
-description: "依据 Colossus 官方节目页可见的 show notes 与节目介绍，整理大卫·艾因霍恩关于 Greenlight 演化、反动量、选股流程、做空、组合与 LP 关系的关键判断。"
+description: "原始材料来源页。"
 ---
 
-**原文件名**: `Colossus｜大卫·艾因霍恩：长短仓、反动量与价值投资.md`  
-**外部来源**: https://www.joincolossus.com/episode/einhorn-the-long-and-short-of-investing/
+**原文件名**: `CNBC｜David Tepper：2020疫情冲击与nibbling-tech.md`  
 
 
 ## 摘要
 
-依据 Colossus 官方节目页可见的 show notes 与节目介绍，整理大卫·艾因霍恩关于 Greenlight 演化、反动量、选股流程、做空、组合与 LP 关系的关键判断。
+原始材料来源页。
 
 ## 节选
 
-> 整理说明： > 本页依据 Colossus 官方节目页公开可见的 `节目介绍 + 时间轴 + show notes` 整理。完整 transcript 需要登录后查看，因此这里只保留页面明确给出的主题与可验证判断，不把不可见内容硬写成逐字转录。
+这是 Tepper 危机处理中最好的边界样本之一：他开始买入一些科技股，但同时承认市场仍可能继续下跌。它避免把 2010 材料误读成“只要跌就重仓买”。

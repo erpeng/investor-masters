@@ -1,17 +1,17 @@
 ---
-title: "原文｜Edison｜尼克·特雷恩：Lindsell Train 的长期持有方法"
+title: "Third Point｜2025Q1 investor letter：催化剂、动态敞口与信用协同"
 slug: "sources/source-46"
-description: "从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML。"
+description: "依据 Third Point 2025Q1 investor letter，整理 Dan Loeb 对动态降敞口、催化剂仓位、信用协同与 flexible allocation 的官方表达。"
 ---
 
-**原文件名**: `原文｜Edison｜尼克·特雷恩：Lindsell Train 的长期持有方法.md`  
-**外部来源**: https://www.edisongroup.com/edison-tv/lindsell-train-fund-manager-interview-with-nick-train/27489/
+**原文件名**: `Third Point｜2025Q1 investor letter：催化剂、动态敞口与信用协同.md`  
+**外部来源**: https://assets.thirdpointlimited.com/f/166217/x/1c4003f091/tpil-q1-2025-investor-letter_02052025_final.pdf
 
 
 ## 摘要
 
-从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML。
+依据 Third Point 2025Q1 investor letter，整理 Dan Loeb 对动态降敞口、催化剂仓位、信用协同与 flexible allocation 的官方表达。
 
 ## 节选
 
-- 对应整理稿：[[现有资料/Edison｜尼克·特雷恩：Lindsell Train 的长期持有方法.md]] - 抓取时间：`2026-04-20` - 抽取方式：`HTML` - 原始域名：`www.edisongroup.com`
+- `主角`：丹·勒布（Dan Loeb）/ Third Point - `场景`：`2025Q1` investor letter - `时间`：`2025-05-02` - `核心价值`：如果 `2024Q4` 信讲的是方法框架，这封信讲的是框架在动荡环境里如何实际落地。

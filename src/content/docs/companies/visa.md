@@ -18,7 +18,15 @@ Visa 在这批资料里承担的是一个非常清晰的角色：好行业往往
 
 在史密斯这里，Visa 更像行业 economics 的范例。
 
+### [弗朗索瓦·罗雄](/investor-masters/investors/francois-rochon/)
+
+Rochon 读 Visa 的重点，是支付网络如何把双边网络、品牌、规模和低资本强度转成长期 owner earnings。它不是因为行业听起来“高质量”才重要，而是因为交易量、网络接受度、定价权和资本回报共同形成了可持续现金收益。
+
+这让 Visa 同时承担两个角色：在 Terry Smith 这里，它是双寡头好行业样本；在 Rochon 这里，它是合理价格下的长期 owner earnings 样本。
+
 ## 相关页面
 
 - [特里·史密斯](/investor-masters/investors/terry-smith/)
+- [弗朗索瓦·罗雄](/investor-masters/investors/francois-rochon/)
+- [所有者收益](/investor-masters/concepts/owners-earnings/)
 - [可口可乐](/investor-masters/companies/coca-cola/)

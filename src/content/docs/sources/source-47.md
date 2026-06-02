@@ -1,17 +1,17 @@
 ---
-title: "原文｜Harvard Business School｜塞思·卡拉曼：危机中的 Baupost 与价值纪律"
+title: "Value Investing with Legends｜塞思·卡拉曼：逆向纪律、耐心资本与 Baupost"
 slug: "sources/source-47"
-description: "从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML。"
+description: "依据 Value Investing with Legends 官方节目简介与公开可见 topic 列表，整理塞思·卡拉曼关于市场低效、逆向纪律、跨资产评估、耐心资本与 AI 的最新系统表达。"
 ---
 
-**原文件名**: `原文｜Harvard Business School｜塞思·卡拉曼：危机中的 Baupost 与价值纪律.md`  
-**外部来源**: https://www.marketfolly.com/2008/12/interview-with-seth-klarman-of-baupost.html
+**原文件名**: `Value Investing with Legends｜塞思·卡拉曼：逆向纪律、耐心资本与 Baupost.md`  
+**外部来源**: https://valueinvestingwithlegends.libsyn.com/seth-klarman-contrarian-investing-discipline-and-building-baupost
 
 
 ## 摘要
 
-从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML。
+依据 Value Investing with Legends 官方节目简介与公开可见 topic 列表，整理塞思·卡拉曼关于市场低效、逆向纪律、跨资产评估、耐心资本与 AI 的最新系统表达。
 
 ## 节选
 
-- 对应整理稿：[[现有资料/Harvard Business School｜塞思·卡拉曼：危机中的 Baupost 与价值纪律.md]] - 抓取时间：`2026-04-20` - 抽取方式：`HTML` - 原始域名：`www.marketfolly.com`
+> 整理说明： > 本页依据节目官方简介与公开可见 key topics 整理。官方页面未公开完整 transcript，因此这里只保留节目简介明确给出的主题与结构，不假装掌握逐字内容。

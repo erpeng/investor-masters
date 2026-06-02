@@ -348,6 +348,6 @@ Q1 2026 的 `WAT / CSCO` 新进前十，比 `AMZN` 权重上升更有信号。�
 - [SEC 13F Q1 2023 filing detail](https://www.sec.gov/Archives/edgar/data/1376879/000137687923000005/0001376879-23-000005-index.html)
 - [尼科莱·坦根](/investor-masters/investors/nicolai-tangen/)
 - [AKO Capital](/investor-masters/institutions/ako-capital/)
-- [Capital Allocators｜尼科莱·坦根：掌管全球最大主权财富基金](/investor-masters/sources/source-14/)
-- [J.P. Morgan｜AKO Capital：数据如何进入主观投资流程](/investor-masters/sources/source-20/)
+- [Capital Allocators｜尼科莱·坦根：掌管全球最大主权财富基金](/investor-masters/sources/source-22/)
+- [J.P. Morgan｜AKO Capital：数据如何进入主观投资流程](/investor-masters/sources/source-30/)
 - [AKO Capital 官网](https://www.akocapital.com/)

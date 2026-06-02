@@ -19,23 +19,28 @@ description: "企业文化 在这批资料 里的最佳入口。"
 
 [Lone Pine Capital](/investor-masters/institutions/lone-pine-capital/) 则把文化推进成了另一类更适合 Tiger Cub 机构的问题：如果一套方法早期高度依赖创始人的研究品味，那后来怎样把它写成 `留人 / 领导梯队 / cross-functional growth / co-CIO` 这种可以持续运转的组织结构。到这里，文化不再只是“我们怎么做事”，而是“这套做事方式能不能在创始人之后继续成立”。
 
+[弗朗索瓦·罗雄](/investor-masters/investors/francois-rochon/) 给企业文化补了一条资本配置线：优秀文化不只是员工氛围或客户口碑，而是管理层能不能长期把资本当所有者资本来配置。[Constellation Software](/investor-masters/companies/constellation-software/) 和 [Markel](/investor-masters/companies/markel/) 这类样本，恰好说明文化如何变成 owner earnings 的长期变量。
+
 ## 相关概念
 
 - [护城河](/investor-masters/concepts/moat/)
 - [判断力](/investor-masters/concepts/judgment/)
 - [质量模式](/investor-masters/concepts/quality-patterns/)
+- [所有者收益](/investor-masters/concepts/owners-earnings/)
 - [变化驱动投资](/investor-masters/concepts/investing-behind-change/)
 - [AKO Capital](/investor-masters/institutions/ako-capital/)
 - [Berkshire Hathaway](/investor-masters/institutions/berkshire-hathaway/)
 - [Bridgewater Associates](/investor-masters/institutions/bridgewater-associates/)
 - [Lone Pine Capital](/investor-masters/institutions/lone-pine-capital/)
 - [Himalaya Capital](/investor-masters/institutions/himalaya-capital/)
+- [Giverny Capital](/investor-masters/institutions/giverny-capital/)
 
 ## 主要来源
 
-- [Capital Allocators｜尼科莱·坦根：掌管全球最大主权财富基金](/investor-masters/sources/source-14/)
-- [J.P. Morgan｜AKO Capital：数据如何进入主观投资流程](/investor-masters/sources/source-20/)
+- [Capital Allocators｜尼科莱·坦根：掌管全球最大主权财富基金](/investor-masters/sources/source-22/)
+- [J.P. Morgan｜AKO Capital：数据如何进入主观投资流程](/investor-masters/sources/source-30/)
 - [2021年李录与格林沃尔德深度对话：我们想投资的是那些可以在巨大不确定性中泰然处之的公司……](/investor-masters/sources/source-06/)
 - [2.7万字｜ “巴菲特女弟子”深度对话：真正懂资本配置的CEO，往往做决策更理性，也更能创造长期价值](/investor-masters/sources/source-04/)
-- [全世界最懂AI的金融人，是怎么管理投资的？——看桥水“务实派”如何警示未来 （下）  泉果探照灯](/investor-masters/sources/source-39/)
-- [Joys of Compounding｜史蒂芬·曼德尔：来自 Lone Pine 的经验课](/investor-masters/sources/source-21/)
+- [全世界最懂AI的金融人，是怎么管理投资的？——看桥水“务实派”如何警示未来 （下）  泉果探照灯](/investor-masters/sources/source-56/)
+- [Joys of Compounding｜史蒂芬·曼德尔：来自 Lone Pine 的经验课](/investor-masters/sources/source-31/)
+- [Value Investor Insight｜弗朗索瓦·罗雄：Crème de la Crème](/investor-masters/sources/source-49/)

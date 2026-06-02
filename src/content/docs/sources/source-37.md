@@ -1,19 +1,17 @@
 ---
-title: "为什么投资需要专业之外的“意外信息源”？——暗能量诺奖得主的投资洞察（上）| 泉果探照灯"
+title: "Richer Wiser Happier｜弗朗索瓦·罗雄：精英中的精英"
 slug: "sources/source-37"
-description: "投资最有价值的信息，可能藏在哪些人的脑袋里？"
+description: "原始材料来源页。"
 ---
 
-**原文件名**: `为什么投资需要专业之外的“意外信息源”？——暗能量诺奖得主的投资洞察（上） 泉果探照灯.md`  
-**外部来源**: https://mp.weixin.qq.com/s/K4h4wwEzLMFWMG5VQXTcgQ
+**原文件名**: `Richer Wiser Happier｜弗朗索瓦·罗雄：精英中的精英.md`  
+**外部来源**: Richer Wiser Happier / The Investor's Podcast Network
 
-**作者**: 原创 泉果探照灯  
-**时间**: 2026年2月6日 11:59
 
 ## 摘要
 
-投资最有价值的信息，可能藏在哪些人的脑袋里？
+原始材料来源页。
 
 ## 节选
 
-就在几周前，掌管着“全球最大钱袋子”的挪威主权基金掌门人Nicolai Tangen（尼科莱·坦根），与因发现了“暗能量”而闻名遐迩的诺贝尔物理学奖得主Saul Perlmutter（索尔·珀尔马特），以“专业投资”为主题，展开了一场非常特别的对谈。
+这是 [[investors/弗朗索瓦·罗雄]] 最适合进入人物页的长访谈入口。它不是单一股票 pitch，而是把 Rochon 的长期复利观、错误观、性格约束和 Giverny 的年报文化放在同一个语境里。

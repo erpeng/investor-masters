@@ -37,6 +37,8 @@ description: "反脆弱与仓位管理 在这批资料 里的最佳入口。"
 
 [李录](/investor-masters/investors/li-lu/) 则给了这个概念一个很少见的 owner 版本。对他来说，真正看懂一家公司时，价格大跌并不自动意味着风险变大，反而可能是对理解深度的一次测试：如果企业真实能力没坏、市场只是放大了认知偏差，那么 `下跌 50%-60% 时更大规模增持` 才是反脆弱的动作。也因此，李录把反脆弱从“别被打死”推进到了“当别人被价格吓退时，你是否有资格利用波动”。这比纯仓位技术更难，因为它要求前面的理解深度和管理层判断都已经成立。
 
+[大卫·泰珀](/investor-masters/investors/david-tepper/) 把这页补上另一种政策函数版本。对他来说，反脆弱不是永远留现金，也不是永远分散，而是当政策反应函数改变时，仓位必须能跟着资产价格分布一起改写。2010 年的风险资产多头、2022 年的 leaning short、2024 年的中国刺激交易，本质上是同一套动作的三个方向：政策和流动性给出不对称赔率时进攻，政策和流动性反向时收缩或翻到另一边。危险也在这里：如果普通投资人只复制 “buy everything” 口号，而没有 Appaloosa 那种快速撤退和工具化表达能力，所谓反脆弱会立刻变成脆弱。
+
 ## 相关概念
 
 - [第二层思维](/investor-masters/concepts/second-level-thinking/)
@@ -48,6 +50,7 @@ description: "反脆弱与仓位管理 在这批资料 里的最佳入口。"
 - [少犯错游戏 vs 多赢家游戏](/investor-masters/dialogues/fewer-losers-vs-more-winners/)
 - [周期位置 vs 制度裂缝](/investor-masters/dialogues/cycle-position-vs-structural-fracture/)
 - [方向判断正确 vs 交易结构正确](/investor-masters/dialogues/direction-right-vs-structure-right/)
+- [政策底 vs 估值底](/investor-masters/dialogues/policy-put-vs-valuation-floor/)
 - [比亚迪](/investor-masters/companies/byd/)
 - [Bridgewater Associates](/investor-masters/institutions/bridgewater-associates/)
 - [Berkshire Hathaway](/investor-masters/institutions/berkshire-hathaway/)
@@ -57,14 +60,18 @@ description: "反脆弱与仓位管理 在这批资料 里的最佳入口。"
 
 ## 主要来源
 
-- [Druckenmiller深度解析（附中英对照）](/investor-masters/sources/source-17/)
-- [深度翻译  传奇交易员保罗·都铎·琼斯谈AI风险、泡沫与巴菲特](/investor-masters/sources/source-75/)
-- [关于耐心与杠杆！霍华德与摩根的最新对话：历史不会重演，但人类的行为却总是重复](/investor-masters/sources/source-40/)
-- [适合投资者反复听的思维方式！霍华德·马克斯在沃顿的最新对话，关于成长还是价值、卖出还是持有，更多制胜还是减少犯错……](/investor-masters/sources/source-81/)
+- [Druckenmiller深度解析（附中英对照）](/investor-masters/sources/source-26/)
+- [深度翻译  传奇交易员保罗·都铎·琼斯谈AI风险、泡沫与巴菲特](/investor-masters/sources/source-92/)
+- [关于耐心与杠杆！霍华德与摩根的最新对话：历史不会重演，但人类的行为却总是重复](/investor-masters/sources/source-57/)
+- [适合投资者反复听的思维方式！霍华德·马克斯在沃顿的最新对话，关于成长还是价值、卖出还是持有，更多制胜还是减少犯错……](/investor-masters/sources/source-98/)
 - [3.2万字｜潘兴广场比尔·阿克曼最有价值的一场对话，深谈价值投资、核心战役以及如何从人生谷底“爬坑”……](/investor-masters/sources/source-08/)
-- [小心！过去15年的“陷阱”，让我们遗忘了“分散投资”——看桥水“务实派”如何警示未来（上）   泉果探照灯](/investor-masters/sources/source-60/)
-- [全世界最懂AI的金融人，是怎么管理投资的？——看桥水“务实派”如何警示未来 （下）  泉果探照灯](/investor-masters/sources/source-39/)
-- [“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-masters/sources/source-33/)
+- [小心！过去15年的“陷阱”，让我们遗忘了“分散投资”——看桥水“务实派”如何警示未来（上）   泉果探照灯](/investor-masters/sources/source-77/)
+- [全世界最懂AI的金融人，是怎么管理投资的？——看桥水“务实派”如何警示未来 （下）  泉果探照灯](/investor-masters/sources/source-56/)
+- [“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-masters/sources/source-50/)
 - [2.7万字｜ “巴菲特女弟子”深度对话：真正懂资本配置的CEO，往往做决策更理性，也更能创造长期价值](/investor-masters/sources/source-04/)
-- [日本“特拉斯时刻”算轻量版！城堡投资格里芬最新交流，犀利点评美国债务、移民、美联储、AI等热门话题](/investor-masters/sources/source-65/)
-- [李录亲述：为什么能拿住比亚迪23年？](/investor-masters/sources/source-69/)
+- [日本“特拉斯时刻”算轻量版！城堡投资格里芬最新交流，犀利点评美国债务、移民、美联储、AI等热门话题](/investor-masters/sources/source-82/)
+- [李录亲述：为什么能拿住比亚迪23年？](/investor-masters/sources/source-86/)
+- [CNBC｜David Tepper：2010 QE与Everything交易](/investor-masters/sources/source-13/)
+- [CNBC｜David Tepper：2022全球央行紧缩与leaning-short](/investor-masters/sources/source-17/)
+- [CNBC｜David Tepper：2024中国刺激与buy-everything](/investor-masters/sources/source-18/)
+- [13F趋势-Appaloosa](/investor-masters/institutions/13f-trends-appaloosa/)

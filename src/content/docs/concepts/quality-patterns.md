@@ -41,6 +41,8 @@ AKO Capital 把这个问题讲得尤其清楚。它不是先看几项财务比�
 
 这层分流很重要。它避免了 concepts 被扩成一本 AKO 术语表，同时保留了 AKO 最值得学习的部分：不是把世界重新命名，而是把判断拆得更细。
 
+[弗朗索瓦·罗雄](/investor-masters/investors/francois-rochon/) 给质量模式补了另一种读法：质量不只是一组可审计模式，也是一套未来 [所有者收益](/investor-masters/concepts/owners-earnings/) 的可持续性判断。AKO 更像把质量拆成 pattern library；Rochon 更像把质量压回 `owner earnings + 管理层 + 文化 + 合理价格` 的综合判断。
+
 ## 相关概念
 
 - [护城河](/investor-masters/concepts/moat/)
@@ -49,9 +51,12 @@ AKO Capital 把这个问题讲得尤其清楚。它不是先看几项财务比�
 - [友好中介](/investor-masters/concepts/friendly-middlemen/)
 - [收费站型生意](/investor-masters/concepts/toll-roads/)
 - [企业文化](/investor-masters/concepts/corporate-culture/)
+- [所有者收益](/investor-masters/concepts/owners-earnings/)
 - [AKO Capital](/investor-masters/institutions/ako-capital/)
+- [Giverny Capital](/investor-masters/institutions/giverny-capital/)
 
 ## 主要来源
 
-- [J.P. Morgan｜AKO Capital：数据如何进入主观投资流程](/investor-masters/sources/source-20/)
+- [J.P. Morgan｜AKO Capital：数据如何进入主观投资流程](/investor-masters/sources/source-30/)
+- [Compounding Quality｜弗朗索瓦·罗雄：所有者收益、错误榜单与质量投资](/investor-masters/sources/source-25/)
 - [AKO Quality Investing](https://www.akocapital.com/quality-investing/)

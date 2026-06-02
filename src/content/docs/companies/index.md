@@ -26,6 +26,7 @@ description: "不是公司百科，而是“为什么顶级投资人反复提到
 - [Apollo](/investor-masters/companies/apollo/): Third Point 公开权益切片里更靠近信用与另类资管平台的样本。
 - [可口可乐](/investor-masters/companies/coca-cola/): `超级企业 / 动态护城河 / 成熟公司里的长期成长逻辑` 如何汇到一起。
 - [Alphabet](/investor-masters/companies/alphabet/): AI 恐慌下被错误重描述的平台样本。
+- [Constellation Software](/investor-masters/companies/constellation-software/): Rochon 版本的管理层、文化与资本配置复利样本。
 - [Netflix](/investor-masters/companies/netflix/): GAAP 盈利和订阅用户价值脱节时，现代价值投资如何重做经济账。
 - [Salesforce](/investor-masters/companies/salesforce/): AI 冲击下，SaaS 经常性收入、切换成本和定价权如何被重新估值。
 - [Airbnb](/investor-masters/companies/airbnb/): 增长投入是不是长期价值创造，如何和 Booking / Meta 元宇宙区别开。
@@ -38,7 +39,7 @@ description: "不是公司百科，而是“为什么顶级投资人反复提到
 
 ## 从哪类公司开始读
 
-- **高质量复利样本**: [开市客](/investor-masters/companies/costco/)、[可口可乐](/investor-masters/companies/coca-cola/)、[微软](/investor-masters/companies/microsoft/)、[Visa](/investor-masters/companies/visa/)、[ADP](/investor-masters/companies/adp/)、[伯克希尔·哈撒韦](/investor-masters/companies/berkshire-hathaway/)、[帝亚吉欧](/investor-masters/companies/diageo/)、[Heineken](/investor-masters/companies/heineken/)、[伦敦证券交易所集团](/investor-masters/companies/london-stock-exchange-group/)、[RELX](/investor-masters/companies/relx/)、[Sage](/investor-masters/companies/sage/)
+- **高质量复利样本**: [开市客](/investor-masters/companies/costco/)、[可口可乐](/investor-masters/companies/coca-cola/)、[微软](/investor-masters/companies/microsoft/)、[Visa](/investor-masters/companies/visa/)、[ADP](/investor-masters/companies/adp/)、[伯克希尔·哈撒韦](/investor-masters/companies/berkshire-hathaway/)、[Constellation Software](/investor-masters/companies/constellation-software/)、[O'Reilly Automotive](/investor-masters/companies/oreilly-automotive/)、[Markel](/investor-masters/companies/markel/)、[帝亚吉欧](/investor-masters/companies/diageo/)、[Heineken](/investor-masters/companies/heineken/)、[伦敦证券交易所集团](/investor-masters/companies/london-stock-exchange-group/)、[RELX](/investor-masters/companies/relx/)、[Sage](/investor-masters/companies/sage/)
 - **平台与科技赢家**: [亚马逊](/investor-masters/companies/amazon/)、[苹果](/investor-masters/companies/apple/)、[腾讯](/investor-masters/companies/tencent/)、[Meta](/investor-masters/companies/meta/)、[Alphabet](/investor-masters/companies/alphabet/)、[Netflix](/investor-masters/companies/netflix/)、[Salesforce](/investor-masters/companies/salesforce/)、[Airbnb](/investor-masters/companies/airbnb/)、[英伟达](/investor-masters/companies/nvidia/)、[台积电](/investor-masters/companies/tsmc/)、[ASML](/investor-masters/companies/asml/)、[Waymo](/investor-masters/companies/waymo/)
 - **战役与治理修复样本**: [Chipotle](/investor-masters/companies/chipotle/)、[General Growth](/investor-masters/companies/general-growth/)、[Canadian Pacific](/investor-masters/companies/canadian-pacific/)、[Wendy's](/investor-masters/companies/wendys/)、[Tim Hortons](/investor-masters/companies/tim-hortons/)
 - **Third Point 公开主轴样本**: [PG&E](/investor-masters/companies/pge/)、[Union Pacific](/investor-masters/companies/union-pacific/)、[CRH](/investor-masters/companies/crh/)、[Brookfield](/investor-masters/companies/brookfield/)、[Apollo](/investor-masters/companies/apollo/)、[Capital One](/investor-masters/companies/capital-one/)、[Live Nation](/investor-masters/companies/live-nation/)、[亚马逊](/investor-masters/companies/amazon/)、[英伟达](/investor-masters/companies/nvidia/)
@@ -46,6 +47,7 @@ description: "不是公司百科，而是“为什么顶级投资人反复提到
 - **中国与新一代平台**: [阿里巴巴](/investor-masters/companies/alibaba/)、[美团](/investor-masters/companies/meituan/)、[拼多多](/investor-masters/companies/pdd/)、[小红书](/investor-masters/companies/xiaohongshu/)、[MiniMax](/investor-masters/companies/minimax/)、[百度](/investor-masters/companies/baidu/)
 - **中国全球制造与工程师文化**: [比亚迪](/investor-masters/companies/byd/)
 - **边界与反例**: [诺和诺德](/investor-masters/companies/novo-nordisk/)、[Teva](/investor-masters/companies/teva/)、[Coinbase](/investor-masters/companies/coinbase/)、[Silvergate Capital](/investor-masters/companies/silvergate-capital/)、[BlackBerry](/investor-masters/companies/blackberry/)、[Valeant](/investor-masters/companies/valeant/)、[Herbalife](/investor-masters/companies/herbalife/)
+- **Rochon / Giverny 的 owner earnings 样本**: [Constellation Software](/investor-masters/companies/constellation-software/)、[CarMax](/investor-masters/companies/carmax/)、[Markel](/investor-masters/companies/markel/)、[O'Reilly Automotive](/investor-masters/companies/oreilly-automotive/)、[Alphabet](/investor-masters/companies/alphabet/)、[Meta](/investor-masters/companies/meta/)、[Visa](/investor-masters/companies/visa/)
 
 ## 按最近提纯后的分歧读
 
@@ -59,6 +61,7 @@ description: "不是公司百科，而是“为什么顶级投资人反复提到
 - **如果你关心“好资产模板靠什么成立”**: 先看 [Universal Music Group](/investor-masters/companies/universal-music-group/)、[Howard Hughes](/investor-masters/companies/howard-hughes/)、[Chipotle](/investor-masters/companies/chipotle/)
 - **如果你关心“业务没修好时该不该先拆结构”**: 先看 [Kraft Heinz](/investor-masters/companies/kraft-heinz/)、[Chipotle](/investor-masters/companies/chipotle/)
 - **如果你关心“工程师文化怎样变成长期持有资格”**: 先看 [比亚迪](/investor-masters/companies/byd/)
+- **如果你关心“owner earnings 怎样把质量和价格接起来”**: 先看 [Constellation Software](/investor-masters/companies/constellation-software/)、[O'Reilly Automotive](/investor-masters/companies/oreilly-automotive/)、[Visa](/investor-masters/companies/visa/)
 - **如果你关心“方法在哪些地方会失效”**: 先看 [Herbalife](/investor-masters/companies/herbalife/)、[Valeant](/investor-masters/companies/valeant/)、[诺和诺德](/investor-masters/companies/novo-nordisk/)
 
 ## 全部公司
@@ -87,6 +90,10 @@ description: "不是公司百科，而是“为什么顶级投资人反复提到
 - [微软](/investor-masters/companies/microsoft/)
 - [Meta](/investor-masters/companies/meta/)
 - [Alphabet](/investor-masters/companies/alphabet/)
+- [Constellation Software](/investor-masters/companies/constellation-software/)
+- [CarMax](/investor-masters/companies/carmax/)
+- [Markel](/investor-masters/companies/markel/)
+- [O'Reilly Automotive](/investor-masters/companies/oreilly-automotive/)
 - [Netflix](/investor-masters/companies/netflix/)
 - [Salesforce](/investor-masters/companies/salesforce/)
 - [Airbnb](/investor-masters/companies/airbnb/)
@@ -140,8 +147,10 @@ description: "不是公司百科，而是“为什么顶级投资人反复提到
 - [CRH](/investor-masters/companies/crh/)
 - [Canadian Pacific](/investor-masters/companies/canadian-pacific/)
 - [Capital One](/investor-masters/companies/capital-one/)
+- [CarMax](/investor-masters/companies/carmax/)
 - [Chipotle](/investor-masters/companies/chipotle/)
 - [Coinbase](/investor-masters/companies/coinbase/)
+- [Constellation Software](/investor-masters/companies/constellation-software/)
 - [GEICO](/investor-masters/companies/geico/)
 - [General Growth](/investor-masters/companies/general-growth/)
 - [Heineken](/investor-masters/companies/heineken/)
@@ -149,9 +158,11 @@ description: "不是公司百科，而是“为什么顶级投资人反复提到
 - [Howard Hughes](/investor-masters/companies/howard-hughes/)
 - [Kraft Heinz](/investor-masters/companies/kraft-heinz/)
 - [Live Nation](/investor-masters/companies/live-nation/)
+- [Markel](/investor-masters/companies/markel/)
 - [Meta](/investor-masters/companies/meta/)
 - [MiniMax](/investor-masters/companies/minimax/)
 - [Netflix](/investor-masters/companies/netflix/)
+- [O'Reilly Automotive](/investor-masters/companies/oreilly-automotive/)
 - [PG&E](/investor-masters/companies/pge/)
 - [Palantir](/investor-masters/companies/palantir/)
 - [RELX](/investor-masters/companies/relx/)

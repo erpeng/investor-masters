@@ -1,17 +1,18 @@
 ---
-title: "原文｜S&P Global｜肯·格里芬：Citadel、AI 与独立思考"
+title: "“打孔机”只打了不到10个孔！段永平与方三文最新对话，详解“投资中如何真正算看懂”……"
 slug: "sources/source-51"
-description: "从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML（全文 transcript 转录）。"
+description: "畅聊苹果、英伟达、伯克希尔、拼多多……"
 ---
 
-**原文件名**: `原文｜S&P Global｜肯·格里芬：Citadel、AI 与独立思考.md`  
-**外部来源**: https://www.spglobal.com/en/research-insights/podcasts/leaders/ken-griffin-on-building-citadel-ai-and-independent-thinking
+**原文件名**: `“打孔机”只打了不到10个孔！段永平与方三文最新对话，详解“投资中如何真正算看懂”…….md`  
+**外部来源**: https://mp.weixin.qq.com/s/yREiBYnmeWhn5kuOtQZn3w
 
+**时间**: 2025年11月11日 19:10
 
 ## 摘要
 
-从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML（全文 transcript 转录）。
+畅聊苹果、英伟达、伯克希尔、拼多多……
 
 ## 节选
 
-- 对应整理稿：[[现有资料/S&P Global｜肯·格里芬：Citadel、AI 与独立思考.md]] - 抓取时间：`2026-04-20` - 抽取方式：`HTML` - 原始域名：`www.spglobal.com` - 备注：命令行抓取返回错误页，本存档依据公开可访问页面的 `View Full Transcript` 全文转录。
+“人们关心的是我们做过什么，其实 我们之所以成为我们，很大的原因是因为我们不做的那些事情。”

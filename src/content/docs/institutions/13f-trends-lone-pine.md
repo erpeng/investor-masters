@@ -372,5 +372,5 @@ Lone Pine 的 13F 适合问：这家公司是不是处在真正会改变行业�
 - [SEC 13F Q1 2023 filing detail](https://www.sec.gov/Archives/edgar/data/1061165/000090266423003075/0000902664-23-003075-index.html)
 - [Lone Pine Capital](/investor-masters/institutions/lone-pine-capital/)
 - [史蒂芬·曼德尔](/investor-masters/investors/stephen-mandel/)
-- [Colossus｜史蒂芬·曼德尔：顺着变化下注](/investor-masters/sources/source-15/)
-- [Joys of Compounding｜史蒂芬·曼德尔：来自 Lone Pine 的经验课](/investor-masters/sources/source-21/)
+- [Colossus｜史蒂芬·曼德尔：顺着变化下注](/investor-masters/sources/source-23/)
+- [Joys of Compounding｜史蒂芬·曼德尔：来自 Lone Pine 的经验课](/investor-masters/sources/source-31/)

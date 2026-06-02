@@ -24,7 +24,7 @@ description: "把老虎基金学徒制压成行业专家制的人。"
 >
 > “行业专家制，是 Maverick 的制度底盘。”
 >
-> ——来源：[McKinsey｜李·安斯利：走进 Maverick Capital，传统多空基金如何研究企业](/investor-masters/sources/source-22/)
+> ——来源：[McKinsey｜李·安斯利：走进 Maverick Capital，传统多空基金如何研究企业](/investor-masters/sources/source-32/)
 
 > 验证卡：现有公开资料能够确认 Maverick 长期是极具代表性的 老虎幼崽 机构，但没有找到足够硬的官方或权威机构口径，能把李·安斯利个人或 Maverick 全阶段年化收益率稳定地钉住。因此这里对年化回报保守写作 `未公开`，不拿二手整理数字硬充。更稳妥的判断仍应回到他的机构类型学位置：少而深、长期多空、靠行业内部胜负差赚钱。
 
@@ -107,5 +107,5 @@ description: "把老虎基金学徒制压成行业专家制的人。"
 
 ## 主要来源
 
-- [McKinsey｜李·安斯利：走进 Maverick Capital，传统多空基金如何研究企业](/investor-masters/sources/source-22/)
-- [CFO｜李·安斯利：对冲不是目的，理解企业才是](/investor-masters/sources/source-10/)
+- [McKinsey｜李·安斯利：走进 Maverick Capital，传统多空基金如何研究企业](/investor-masters/sources/source-32/)
+- [CFO｜李·安斯利：对冲不是目的，理解企业才是](/investor-masters/sources/source-11/)

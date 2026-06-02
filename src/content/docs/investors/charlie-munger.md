@@ -48,7 +48,7 @@ description: "用多学科框架压缩复杂世界的人。"
 
 > “我努力成为一个有用的人。”
 >
-> ——来源：[莫尼什·帕伯莱：芒格会将简单的想法认真执行](/investor-masters/sources/source-77/)
+> ——来源：[莫尼什·帕伯莱：芒格会将简单的想法认真执行](/investor-masters/sources/source-94/)
 
 **形成的结论**
 
@@ -74,7 +74,7 @@ description: "用多学科框架压缩复杂世界的人。"
 
   > “把一个简单的想法认真对待。”
   >
-  > ——来源：[莫尼什·帕伯莱：芒格会将简单的想法认真执行](/investor-masters/sources/source-77/)
+  > ——来源：[莫尼什·帕伯莱：芒格会将简单的想法认真执行](/investor-masters/sources/source-94/)
 
 - `怎么识别伪精确和隐藏风险`: 他对那种“表面上分散、底层却高度相关”的结构尤其敏感。对他来说，真正危险的不是你算得不够细，而是你把不可精确的东西假装成可精确。
 
@@ -94,7 +94,7 @@ description: "用多学科框架压缩复杂世界的人。"
 
   > “我努力成为一个有用的人。”
   >
-  > ——来源：[莫尼什·帕伯莱：芒格会将简单的想法认真执行](/investor-masters/sources/source-77/)
+  > ——来源：[莫尼什·帕伯莱：芒格会将简单的想法认真执行](/investor-masters/sources/source-94/)
 
 **画像判断**
 
@@ -131,5 +131,5 @@ description: "用多学科框架压缩复杂世界的人。"
 ## 主要来源
 
 - [2万字｜2008年芒格在加州理工与物理学家的罕见对谈，全程都是智慧四溅](/investor-masters/sources/source-07/)
-- [莫尼什·帕伯莱：芒格会将简单的想法认真执行](/investor-masters/sources/source-77/)
+- [莫尼什·帕伯莱：芒格会将简单的想法认真执行](/investor-masters/sources/source-94/)
 - [Charlie Munger - Wikipedia](https://en.wikipedia.org/wiki/Charlie_Munger)

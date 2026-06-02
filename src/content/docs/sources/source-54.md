@@ -1,17 +1,19 @@
 ---
-title: "原文｜Third Point｜2024Q4 investor letter：第二层思维、事件驱动与跨资产框架"
+title: "为什么投资需要专业之外的“意外信息源”？——暗能量诺奖得主的投资洞察（上）| 泉果探照灯"
 slug: "sources/source-54"
-description: "从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：PDF。"
+description: "投资最有价值的信息，可能藏在哪些人的脑袋里？"
 ---
 
-**原文件名**: `原文｜Third Point｜2024Q4 investor letter：第二层思维、事件驱动与跨资产框架.md`  
-**外部来源**: https://assets.thirdpointlimited.com/f/166217/x/bc70b1b6dc/third-point-q4-2024-investor-letter_tpil.pdf
+**原文件名**: `为什么投资需要专业之外的“意外信息源”？——暗能量诺奖得主的投资洞察（上） 泉果探照灯.md`  
+**外部来源**: https://mp.weixin.qq.com/s/K4h4wwEzLMFWMG5VQXTcgQ
 
+**作者**: 原创 泉果探照灯  
+**时间**: 2026年2月6日 11:59
 
 ## 摘要
 
-从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：PDF。
+投资最有价值的信息，可能藏在哪些人的脑袋里？
 
 ## 节选
 
-- 对应整理稿：[[现有资料/Third Point｜2024Q4 investor letter：第二层思维、事件驱动与跨资产框架.md]] - 抓取时间：`2026-04-20` - 抽取方式：`PDF` - 原始域名：`assets.thirdpointlimited.com`
+就在几周前，掌管着“全球最大钱袋子”的挪威主权基金掌门人Nicolai Tangen（尼科莱·坦根），与因发现了“暗能量”而闻名遐迩的诺贝尔物理学奖得主Saul Perlmutter（索尔·珀尔马特），以“专业投资”为主题，展开了一场非常特别的对谈。

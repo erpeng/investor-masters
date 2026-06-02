@@ -1,18 +1,17 @@
 ---
-title: "最近卖光美股！82岁吉姆·罗杰斯：我现在坐拥大量现金，策略上和巴菲特完全一样"
+title: "原文｜S&P Global｜肯·格里芬：Citadel、AI 与独立思考"
 slug: "sources/source-68"
-description: "持有一些中国股票，还是二三十年前买的"
+description: "从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML（全文 transcript 转录）。"
 ---
 
-**原文件名**: `最近卖光美股！82岁吉姆·罗杰斯：我现在坐拥大量现金，策略上和巴菲特完全一样.md`  
-**外部来源**: https://mp.weixin.qq.com/s/sOnWjwdtDRIgtpIFlvR7vw
+**原文件名**: `原文｜S&P Global｜肯·格里芬：Citadel、AI 与独立思考.md`  
+**外部来源**: https://www.spglobal.com/en/research-insights/podcasts/leaders/ken-griffin-on-building-citadel-ai-and-independent-thinking
 
-**时间**: 2025年5月28日 15:01
 
 ## 摘要
 
-持有一些中国股票，还是二三十年前买的
+从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML（全文 transcript 转录）。
 
 ## 节选
 
-“我最近卖掉了所有的美国股票，因为我知道，我以前见过这样的派对场景。再说一遍：我很担心。”
+- 对应整理稿：[[现有资料/S&P Global｜肯·格里芬：Citadel、AI 与独立思考.md]] - 抓取时间：`2026-04-20` - 抽取方式：`HTML` - 原始域名：`www.spglobal.com` - 备注：命令行抓取返回错误页，本存档依据公开可访问页面的 `View Full Transcript` 全文转录。

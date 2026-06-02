@@ -1,18 +1,17 @@
 ---
-title: "日本“特拉斯时刻”算轻量版！城堡投资格里芬最新交流，犀利点评美国债务、移民、美联储、AI等热门话题"
+title: "原文｜McKinsey｜李·安斯利：走进 Maverick Capital，传统多空基金如何研究企业"
 slug: "sources/source-65"
-description: "关税和移民政策都是弊大于利"
+description: "从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML（页面正文转录）。"
 ---
 
-**原文件名**: `日本“特拉斯时刻”算轻量版！城堡投资格里芬最新交流，犀利点评美国债务、移民、美联储、AI等热门话题.md`  
-**外部来源**: https://mp.weixin.qq.com/s/ckPisZuDEpmqV2025WPK0A
+**原文件名**: `原文｜McKinsey｜李·安斯利：走进 Maverick Capital，传统多空基金如何研究企业.md`  
+**外部来源**: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/inside-a-hedge-fund-an-interview-with-the-managing-partner-of-maverick-capital
 
-**时间**: 2026年1月23日 11:32
 
 ## 摘要
 
-关税和移民政策都是弊大于利
+从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML（页面正文转录）。
 
 ## 节选
 
-“ 债券义警回来了。”在1月21日的达沃斯论坛对话中，城堡投资创始人肯·格里芬（Ken Griffin）用一句老派的市场警告，把气氛拉回到债市的冷峻事实。
+- 对应整理稿：[[现有资料/McKinsey｜李·安斯利：走进 Maverick Capital，传统多空基金如何研究企业.md]] - 抓取时间：`2026-04-20` - 抽取方式：`HTML` - 原始域名：`www.mckinsey.com` - 备注：站点命令行抓取长时间无响应，本存档依据公开可访问页面正文转录。

@@ -1,19 +1,16 @@
 ---
-title: "一家低调的传奇机构，“黏住”亚马逊、开市客、伯克希尔大赚特赚"
+title: "Reuters｜David Tepper：2021能源与通胀交易"
 slug: "sources/source-36"
-description: "游牧人基金的历史，也是一部美妙的投资史"
+description: "原始材料来源页。"
 ---
 
-**原文件名**: `一家低调的传奇机构，“黏住”亚马逊、开市客、伯克希尔大赚特赚.md`  
-**外部来源**: https://mp.weixin.qq.com/s/r8dgjM1KrUtT9yC9L5fZUg
+**原文件名**: `Reuters｜David Tepper：2021能源与通胀交易.md`  
 
-**作者**: 原创 伊娜  
-**时间**: 2023年8月14日 15:01
 
 ## 摘要
 
-游牧人基金的历史，也是一部美妙的投资史
+原始材料来源页。
 
 ## 节选
 
-二季度亚马逊业绩大超预期。8月3日，亚马逊交出了FAAMG中最亮眼的二季报：期内营收1344亿美元，增长近11%，扭转过去一年持续个位数增长颓势；净利润同比扭亏为盈，达67.5亿美元，创下2021年四季度以来新高，而上年同期净亏损是20.28亿美元。
+- Reuters wire via Rigzone, 2021-06-17 - 场景：Robin Hood Investors Conference, conversation with Paul Tudor Jones

@@ -12,13 +12,13 @@ description: "把分散的投资访谈、合伙人信和机构材料，编译成
 
 ## 从哪里开始
 
-- **我想了解价值投资**: [沃伦·巴菲特](/investor-masters/investors/warren-buffett/)、[查理·芒格](/investor-masters/investors/charlie-munger/)、[特里·史密斯](/investor-masters/investors/terry-smith/)、[李录](/investor-masters/investors/li-lu/)、[尼克·特雷恩](/investor-masters/investors/nick-train/)、[比尔·尼格伦](/investor-masters/investors/bill-nygren/)
+- **我想了解价值投资**: [沃伦·巴菲特](/investor-masters/investors/warren-buffett/)、[查理·芒格](/investor-masters/investors/charlie-munger/)、[特里·史密斯](/investor-masters/investors/terry-smith/)、[弗朗索瓦·罗雄](/investor-masters/investors/francois-rochon/)、[李录](/investor-masters/investors/li-lu/)、[尼克·特雷恩](/investor-masters/investors/nick-train/)、[比尔·尼格伦](/investor-masters/investors/bill-nygren/)
 - **我想了解经典 long/short / event-driven**: [大卫·艾因霍恩](/investor-masters/investors/david-einhorn/)、[李·安斯利](/investor-masters/investors/lee-ainslie/)、[史蒂芬·曼德尔](/investor-masters/investors/stephen-mandel/)、[丹·勒布](/investor-masters/investors/dan-loeb/)
 - **我想了解成长投资**: [詹姆斯·安德森](/investor-masters/investors/james-anderson/)、[汤姆·斯莱特](/investor-masters/investors/tom-slater/)、[劳伦斯·伯恩斯](/investor-masters/investors/lawrence-burns/)
 - **我想了解 Tiger Cub 这条线**: [李·安斯利](/investor-masters/investors/lee-ainslie/)、[史蒂芬·曼德尔](/investor-masters/investors/stephen-mandel/)
-- **我想了解宏观与风险**: [霍华德·马克斯](/investor-masters/investors/howard-marks/)、[斯坦利·德鲁肯米勒](/investor-masters/investors/stanley-druckenmiller/)、[保罗·都铎·琼斯](/investor-masters/investors/paul-tudor-jones/)、[格雷格·詹森](/investor-masters/investors/greg-jensen/)
+- **我想了解宏观与风险**: [霍华德·马克斯](/investor-masters/investors/howard-marks/)、[斯坦利·德鲁肯米勒](/investor-masters/investors/stanley-druckenmiller/)、[大卫·泰珀](/investor-masters/investors/david-tepper/)、[保罗·都铎·琼斯](/investor-masters/investors/paul-tudor-jones/)、[格雷格·詹森](/investor-masters/investors/greg-jensen/)
 - **我想看最不寻常的思维**: [尼克·斯利普](/investor-masters/investors/nick-sleep/)、[尼科莱·坦根](/investor-masters/investors/nicolai-tangen/)、[纳瓦尔·拉维坎特](/investor-masters/investors/naval-ravikant/)
-- **我想直接从方法分歧读进去**: [不懂不碰 vs 未来信息才重要](/investor-masters/dialogues/certainty-vs-future/)、[方向判断正确 vs 交易结构正确](/investor-masters/dialogues/direction-right-vs-structure-right/)、[质量价值 vs 成长非共识](/investor-masters/dialogues/quality-vs-growth/)、[保守的风险语言 vs 激进的仓位语言](/investor-masters/dialogues/risk-and-conviction/)、[复利信仰 vs 流动性信仰](/investor-masters/dialogues/compound-faith-vs-liquidity-faith/)、[永久复利 vs 七年价值重估](/investor-masters/dialogues/permanent-compounding-vs-seven-year-revaluation/)、[少犯错游戏 vs 多赢家游戏](/investor-masters/dialogues/fewer-losers-vs-more-winners/)
+- **我想直接从方法分歧读进去**: [不懂不碰 vs 未来信息才重要](/investor-masters/dialogues/certainty-vs-future/)、[方向判断正确 vs 交易结构正确](/investor-masters/dialogues/direction-right-vs-structure-right/)、[质量价值 vs 成长非共识](/investor-masters/dialogues/quality-vs-growth/)、[审计式质量 vs 艺术式质量](/investor-masters/dialogues/audit-quality-vs-art-quality/)、[政策底 vs 估值底](/investor-masters/dialogues/policy-put-vs-valuation-floor/)、[保守的风险语言 vs 激进的仓位语言](/investor-masters/dialogues/risk-and-conviction/)、[复利信仰 vs 流动性信仰](/investor-masters/dialogues/compound-faith-vs-liquidity-faith/)、[永久复利 vs 七年价值重估](/investor-masters/dialogues/permanent-compounding-vs-seven-year-revaluation/)、[少犯错游戏 vs 多赢家游戏](/investor-masters/dialogues/fewer-losers-vs-more-winners/)
 - **我想沿 Berkshire 这一支往下读**: [Berkshire Hathaway](/investor-masters/institutions/berkshire-hathaway/) → [伯克希尔·哈撒韦](/investor-masters/companies/berkshire-hathaway/) / [GEICO](/investor-masters/companies/geico/) → [护城河](/investor-masters/concepts/moat/) / [能力圈](/investor-masters/concepts/circle-of-competence/) / [反脆弱与仓位管理](/investor-masters/concepts/antifragility-and-position-sizing/) → [静态能力圈 vs 可审计能力圈](/investor-masters/dialogues/static-vs-auditable-circle/) / [交易型反脆弱 vs 资本结构型反脆弱](/investor-masters/dialogues/trading-vs-capital-structure-antifragility/)
 - **我想直接从最近提纯过的公司样本读**: [RELX](/investor-masters/companies/relx/)、[Sage](/investor-masters/companies/sage/)、[PG&E](/investor-masters/companies/pge/)、[Brookfield](/investor-masters/companies/brookfield/)、[Apollo](/investor-masters/companies/apollo/)、[Heineken](/investor-masters/companies/heineken/)
 - **我想看最近一季 13F 发生了什么**: [13F趋势](/investor-masters/institutions/13f-trends/)
@@ -26,13 +26,13 @@ description: "把分散的投资访谈、合伙人信和机构材料，编译成
 
 ## 精选语录墙
 
-> “查理和我在科学、原则和哲学上一拍即合，沃伦和我在风险评估、上行、下行等资本配置上很投缘。”
+> “What I learned from him was sizing. It's not whether you're right or wrong — it's how much you make when you're right and how much you lose when you're wrong.”
 
-> “每周80小时和月度业绩汇报真的很无聊，即便你做得很好。”
+> “我受不了成功。”
 
-> “做空难得多……只有很少很少很少的人真正知道自己在干什么。”
+> “就凭你刚听到的这些信息量，我买了一个不算很大的英伟达仓位——但足以让我受伤或赚到钱。”
 
-> “永远不要投资于现在——想象18个月后的世界。”
+> “我觉得这是我们这个行业里最常见、也最致命的错误，（追求精细精准的）分析到最后，反而开始害你。”
 
 ## 对话与争议
 
@@ -56,11 +56,11 @@ description: "把分散的投资访谈、合伙人信和机构材料，编译成
 
 ## 最近更新
 
+- `2026-06-02` 按 skill 重生成 Giverny 单机构 13F 趋势页
+- `2026-06-02` 按 skill 重生成 Appaloosa 单机构 13F 趋势页
+- `2026-06-01` 新增 François Rochon / Giverny Capital 支线
 - `2026-05-26` 新增 Oakmark 单机构 13F 趋势页
 - `2026-05-26` 新增 Greenlight 单机构 13F 趋势页
 - `2026-05-26` 新增 Maverick Capital 单机构 13F 趋势页
 - `2026-05-26` 新增 Pershing Square 单机构 13F 趋势页
 - `2026-05-26` 新增 Baillie Gifford 单机构 13F 趋势页
-- `2026-05-26` 新增 Lone Pine 单机构 13F 趋势页
-- `2026-05-26` 新增 Baupost Group 单机构 13F 趋势页
-- `2026-05-20` 新增 AKO Capital 单机构 13F 趋势页

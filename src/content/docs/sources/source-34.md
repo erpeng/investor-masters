@@ -1,18 +1,17 @@
 ---
-title: "“打孔机”只打了不到10个孔！段永平与方三文最新对话，详解“投资中如何真正算看懂”……"
+title: "Money Makers｜尼克·特雷恩：少做反而赚得更多"
 slug: "sources/source-34"
-description: "畅聊苹果、英伟达、伯克希尔、拼多多……"
+description: "依据 Money Makers 公开全文，整理 Nick Train 关于 slow buy and hold、能力圈、三类偏好公司与忽略宏观的核心表达。"
 ---
 
-**原文件名**: `“打孔机”只打了不到10个孔！段永平与方三文最新对话，详解“投资中如何真正算看懂”…….md`  
-**外部来源**: https://mp.weixin.qq.com/s/yREiBYnmeWhn5kuOtQZn3w
+**原文件名**: `Money Makers｜尼克·特雷恩：少做反而赚得更多.md`  
+**外部来源**: https://money-makers.co/nick-train-interview/
 
-**时间**: 2025年11月11日 19:10
 
 ## 摘要
 
-畅聊苹果、英伟达、伯克希尔、拼多多……
+依据 Money Makers 公开全文，整理 Nick Train 关于 slow buy and hold、能力圈、三类偏好公司与忽略宏观的核心表达。
 
 ## 节选
 
-“人们关心的是我们做过什么，其实 我们之所以成为我们，很大的原因是因为我们不做的那些事情。”
+- `主角`：尼克·特雷恩（Nick Train） - `场景`：Money Makers 长访谈 - `时间`：`2015-10-03` - `核心价值`：这是 Nick Train 公开材料里最像“自我定义”的一篇。它把 `slow buy and hold / 极低换手 / 三类偏好公司 / 能力圈 / 忽略宏观` 一次讲清楚。

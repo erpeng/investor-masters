@@ -18,9 +18,13 @@ Uber 在这批资料里最值得看的，不是网约车公司的常规财务问
 >
 > “我们今年做的一个最有意思的研究，测算优步目前在美国覆盖了多少城市里程。答案大约是1%。”
 >
-> ——来源：[要站在变化的一边！70岁“木头姐”兴奋盘点2026大机会：现在就是黄金时间](/investor-masters/sources/source-78/)
+> ——来源：[要站在变化的一边！70岁“木头姐”兴奋盘点2026大机会：现在就是黄金时间](/investor-masters/sources/source-95/)
 
 在 Cathie 这里，Uber 的关键不是拥有最好自动驾驶系统，而是它是不是已经占住了用户入口和流量接口。也就是说，这页真正讲的是：在同一条 Robotaxi 链上，平台提供方、第二名运营者和导流入口，最后分到的价值并不一样。
+
+### [大卫·泰珀](/investor-masters/investors/david-tepper/)
+
+Appaloosa 的 `UBER` 是 2026Q1 最明显的主动加仓之一。[13F趋势-Appaloosa](/investor-masters/institutions/13f-trends-appaloosa/) 显示，`UBER` 股数从 2025Q4 的约 `1.85m` 增至 2026Q1 的约 `6.33m`，权重升至 `7.7%`，成为第四大 13F 持仓。它在 Tepper 这里更像风险资产重新配平后的平台 beta，而不是单独展开过的公司质量论证。
 
 ## 分歧与共识
 
@@ -29,6 +33,7 @@ Uber 在这批资料里最值得看的，不是网约车公司的常规财务问
 ## 相关页面
 
 - [凯茜·伍德](/investor-masters/investors/cathie-wood/)
+- [大卫·泰珀](/investor-masters/investors/david-tepper/)
 - [特斯拉](/investor-masters/companies/tesla/)
 - [Waymo](/investor-masters/companies/waymo/)
 - [ARK Invest](/investor-masters/institutions/ark-invest/)

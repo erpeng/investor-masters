@@ -1,17 +1,17 @@
 ---
-title: "原文｜Money Makers｜尼克·特雷恩：少做反而赚得更多"
+title: "Value Investor Insight｜弗朗索瓦·罗雄：Crème de la Crème"
 slug: "sources/source-49"
-description: "从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML（页面正文转录）。"
+description: "原始材料来源页。"
 ---
 
-**原文件名**: `原文｜Money Makers｜尼克·特雷恩：少做反而赚得更多.md`  
-**外部来源**: https://money-makers.co/nick-train-interview/
+**原文件名**: `Value Investor Insight｜弗朗索瓦·罗雄：Crème de la Crème.md`  
+**外部来源**: Value Investor Insight
 
 
 ## 摘要
 
-从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML（页面正文转录）。
+原始材料来源页。
 
 ## 节选
 
-- 对应整理稿：[[现有资料/Money Makers｜尼克·特雷恩：少做反而赚得更多.md]] - 抓取时间：`2026-04-20` - 抽取方式：`HTML` - 原始域名：`money-makers.co` - 备注：站点对命令行抓取返回 `403`，本存档依据公开可访问页面正文转录。
+这是 Rochon 早期公开方法材料之一，价值在于把 `买顶级企业、用合理价格、长期持有` 的框架落实到公司样本和错误复盘上。

@@ -84,6 +84,13 @@ INVESTOR_META = {
         "holdings": "微软、诺和诺德",
         "methods": "高质量复利 / 少犯错 / 长期持有",
     },
+    "弗朗索瓦·罗雄": {
+        "slug": "francois-rochon",
+        "tagline": "把所有者收益、质量企业和错误复盘绑成长期复利方法的人。",
+        "institution": ("Giverny Capital", "institutions/giverny-capital"),
+        "holdings": "Alphabet、Berkshire、Meta、Visa、O'Reilly",
+        "methods": "所有者收益 / 质量投资 / 错误复盘",
+    },
     "段永平": {
         "slug": "duan-yongping",
         "tagline": "把“不懂不碰”执行到生活方式里的投资人。",
@@ -139,6 +146,13 @@ INVESTOR_META = {
         "institution": ("Duquesne Family Office", "institutions/duquesne-family-office"),
         "holdings": "宏观趋势、成长拐点",
         "methods": "仓位 / 趋势 / 快速修正",
+    },
+    "大卫·泰珀": {
+        "slug": "david-tepper",
+        "tagline": "把政策反应函数、困境资产和仓位切换压成 Appaloosa 方法的人。",
+        "institution": ("Appaloosa Management", "institutions/appaloosa-management"),
+        "holdings": "政策交易、中国互联网、大科技、半导体、电力",
+        "methods": "政策反应函数 / 困境资产 / 高机动仓位",
     },
     "保罗·都铎·琼斯": {
         "slug": "paul-tudor-jones",
@@ -256,6 +270,7 @@ INVESTOR_INFO_SOURCES = {
     "李·安斯利": "李·安斯利的信息来源带有非常强的 Tiger 味道：少而深的行业覆盖、长期关系网络、对管理层和 CFO 的持续交叉验证，以及对资本配置和透明度的反复追问。对他来说，信息优势不是拿到一条神秘消息，而是比别人更持续、更立体地理解一个行业和其中的赢家、输家。",
     "尼克·特雷恩": "尼克·特雷恩的信息来源极其克制，核心还是年报、长期经营记录、品牌与 franchise 的持续表现，以及管理层质量和资本配置行为的长期可验证证据。他几乎不靠宏观预测来形成判断，更像是在少数能看懂的长期资产里反复确认“这家公司十年后二十年后是否仍然更强”。",
     "特里·史密斯": "特里·史密斯的信息来源偏向企业基本面本身，而不是外部故事。他反复盯收入质量、资本回报率、现金流、管理层纪律和竞争地位，核心是从企业长期报表里提炼出“这是不是一台高质量复利机器”。他不太依赖宏观预测，也不太依赖复杂渠道优势。",
+    "弗朗索瓦·罗雄": "弗朗索瓦·罗雄的信息来源偏向长期企业所有者视角。他主要依赖年报、年度信、管理层资本配置、企业文化和长期 owner earnings，而不是短期市场新闻。对他来说，真正有价值的信息，是能帮助判断一家高质量企业未来几年真实所有者收益是否仍能复利的信息。",
     "段永平": "段永平的信息来源很克制，几乎都围绕“我能不能真正看懂”展开。他更看重产品体验、企业常识、管理层取向和长期商业逻辑，而不是市场上铺天盖地的信息流。对他来说，来源不是越多越好，而是能不能帮助自己建立足够清楚的能力圈边界。",
     "詹姆斯·安德森": "安德森的信息来源更像变化探测器。他会持续跟踪技术、创业公司、创始人、产业结构变化和极少数可能变成超级赢家的企业，把这些信息组合成对未来分布的判断。相比看静态指标，他更看谁正在真正改变世界，以及这种改变会不会被市场长期低估。",
     "汤姆·斯莱特": "斯莱特延续了 Baillie Gifford 的成长信息系统，重点不是短期数字，而是技术渗透、价值链位置、未上市资产动向和少数卓越公司的长期扩张路径。他的信息来源天然更靠近前沿行业参与者和长期产业趋势，而不是传统价值投资者常用的低估值筛选。",
@@ -264,6 +279,7 @@ INVESTOR_INFO_SOURCES = {
     "比尔·阿克曼": "阿克曼的信息来源更像一套战役情报系统。他会围绕少数核心标的做深研究，结合管理层、资本结构、治理问题、行业错配和公开表达，逐步把投资论点推到市场台前。对他来说，信息不只是用来理解公司，也是用来组织一场能够推动结果的行动。",
     "丹·勒布": "丹·勒布的信息来源更像一套事件驱动情报系统。他不仅看公司价值本身，也持续跟踪资本结构、董事会和管理层决策、潜在催化剂、监管或交易事件，以及 equity 与 credit 之间的错配。对他来说，信息价值不止在“便不便宜”，而在“什么时候、通过什么路径会重新定价”。",
     "斯坦利·德鲁肯米勒": "德鲁肯米勒的信息来源很有辨识度：他既看宏观与价格，也高度依赖自己信任的专家网络。现有资料里最鲜明的一点是，他会非常认真观察那些在细分领域比自己懂得多得多的人在看什么、买什么，再用自己的模式识别和仓位能力把这些线索转成下注。换句话说，他不是靠自己懂所有细节，而是靠识别谁真的懂，以及市场会怎样消化这些变化。",
+    "大卫·泰珀": "泰珀的信息来源更像政策和市场状态仪表盘：央行、财政、流动性、信用环境、资产间相对赔率和公开价格共同构成他的判断入口。对他来说，关键不是知道更多公司细节，而是知道什么时候政策反应函数已经改变了资产价格分布，以及仓位该怎样随之切换。",
     "保罗·都铎·琼斯": "PTJ 的信息来源更像交易员 cockpit：全球市场价格、流动性、政策变量、恐惧与贪婪、失衡和催化剂。他不追求把所有信息都收进来，而是把信息压成可执行预案：什么情况下试探，什么情况下重拳，什么情况下立刻撤退。",
     "托德·库姆斯": "托德·库姆斯的信息来源偏经营化而非市场化。现有资料显示，他会从单店模型、回本周期、投资回报率这类非常具体的经营指标切入，把复杂企业先拆成可验证的小单元，再决定是否值得下注。这让他的信息入口更像运营视角，而不是交易视角。",
     "泰德·韦施勒": "韦施勒的信息来源看起来低噪音、重关系、重清晰表达。现有资料里，他更像那种通过长期跟踪企业、管理层和少数高质量机会来形成判断的投资人，而不是靠频繁切换信息渠道。他依赖的不是花哨的情报优势，而是持续积累的商业理解和人与人的判断。",
@@ -297,6 +313,7 @@ COMPANY_META = {
 
 INSTITUTION_META = {
     "ARK Invest": {"slug": "ark-invest"},
+    "Appaloosa Management": {"slug": "appaloosa-management"},
     "AKO Capital": {"slug": "ako-capital"},
     "Baillie Gifford": {"slug": "baillie-gifford"},
     "Berkshire Hathaway": {"slug": "berkshire-hathaway"},
@@ -310,6 +327,7 @@ INSTITUTION_META = {
     "Oakmark Funds": {"slug": "oakmark-funds"},
     "Pershing Square": {"slug": "pershing-square"},
     "Fundsmith": {"slug": "fundsmith"},
+    "Giverny Capital": {"slug": "giverny-capital"},
     "Greenlight Capital": {"slug": "greenlight-capital"},
     "Baupost Group": {"slug": "baupost-group"},
     "Himalaya Capital": {"slug": "himalaya-capital"},
@@ -331,7 +349,9 @@ CONCEPT_META = {
     "收费站型生意": {"slug": "toll-roads"},
     "变化驱动投资": {"slug": "investing-behind-change"},
     "Oakmark会计": {"slug": "oakmark-accounting"},
+    "所有者收益": {"slug": "owners-earnings"},
     "趋势交易": {"slug": "trend-trading"},
+    "政策反应函数": {"slug": "policy-reaction-function"},
     "时间套利": {"slug": "time-arbitrage"},
     "超级赢家": {"slug": "super-winners"},
     "反脆弱与仓位管理": {"slug": "antifragility-and-position-sizing"},
@@ -368,6 +388,10 @@ COMPANY_SLUG_OVERRIDES = {
     "Netflix": "netflix",
     "Salesforce": "salesforce",
     "Airbnb": "airbnb",
+    "Constellation Software": "constellation-software",
+    "CarMax": "carmax",
+    "Markel": "markel",
+    "O'Reilly Automotive": "oreilly-automotive",
     "BlackBerry": "blackberry",
     "Coinbase": "coinbase",
     "GEICO": "geico",
@@ -389,6 +413,7 @@ DIALOGUE_SLUG_OVERRIDES = {
     "保守的风险语言 vs 激进的仓位语言": "risk-and-conviction",
     "复利信仰 vs 流动性信仰": "compound-faith-vs-liquidity-faith",
     "永久复利 vs 七年价值重估": "permanent-compounding-vs-seven-year-revaluation",
+    "审计式质量 vs 艺术式质量": "audit-quality-vs-art-quality",
     "不懂不碰 vs 未来信息才重要": "certainty-vs-future",
     "看懂边界 vs 品味判断": "boundary-vs-taste",
     "制度保护时间 vs 性格保护时间": "institution-vs-temperament",
@@ -398,6 +423,7 @@ DIALOGUE_SLUG_OVERRIDES = {
     "方向判断正确 vs 交易结构正确": "direction-right-vs-structure-right",
     "静态能力圈 vs 可审计能力圈": "static-vs-auditable-circle",
     "交易型反脆弱 vs 资本结构型反脆弱": "trading-vs-capital-structure-antifragility",
+    "政策底 vs 估值底": "policy-put-vs-valuation-floor",
     "可验证现金流 vs 站在变化的一边": "verifiable-cashflow-vs-stand-with-change",
     "周期位置 vs 制度裂缝": "cycle-position-vs-structural-fracture",
     "制度裂缝 vs 制度红利": "structural-fracture-vs-reform-dividend",
@@ -694,6 +720,9 @@ def build_link_maps():
         elif src.stem == "13F趋势-Fundsmith":
             slug = "13f-trends-fundsmith"
             title = "13F 趋势 - Fundsmith"
+        elif src.stem == "13F趋势-Giverny":
+            slug = "13f-trends-giverny"
+            title = "13F 趋势 - Giverny"
         elif src.stem == "13F趋势-AKO":
             slug = "13f-trends-ako"
             title = "13F 趋势 - AKO"
@@ -712,6 +741,9 @@ def build_link_maps():
         elif src.stem == "13F趋势-Oakmark":
             slug = "13f-trends-oakmark"
             title = "13F 趋势 - Oakmark"
+        elif src.stem == "13F趋势-Appaloosa":
+            slug = "13f-trends-appaloosa"
+            title = "13F 趋势 - Appaloosa"
         else:
             match = re.match(r"13F趋势-(\d{4})Q([1-4])$", src.stem)
             if not match:
@@ -1062,6 +1094,10 @@ def compile_institutions():
             title = "13F 趋势 - Fundsmith"
             slug = "13f-trends-fundsmith"
             description = "Fundsmith 从 2023Q1 到 2026Q1 的单机构 13F 持仓变化。"
+        elif stem == "13F趋势-Giverny":
+            title = "13F 趋势 - Giverny"
+            slug = "13f-trends-giverny"
+            description = "Giverny Capital 从 2023Q1 到 2026Q1 的单机构 13F 持仓变化。"
         elif stem == "13F趋势-AKO":
             title = "13F 趋势 - AKO"
             slug = "13f-trends-ako"
@@ -1086,6 +1122,10 @@ def compile_institutions():
             title = "13F 趋势 - Oakmark"
             slug = "13f-trends-oakmark"
             description = "Oakmark / Harris Associates 从 2023Q1 到 2026Q1 的单机构 13F 持仓变化。"
+        elif stem == "13F趋势-Appaloosa":
+            title = "13F 趋势 - Appaloosa"
+            slug = "13f-trends-appaloosa"
+            description = "Appaloosa Management 从 2023Q1 到 2026Q1 的单机构 13F 持仓变化。"
         else:
             match = re.match(r"13F趋势-(\d{4})Q([1-4])$", stem)
             if not match:

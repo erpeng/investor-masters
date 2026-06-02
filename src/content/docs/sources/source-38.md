@@ -1,19 +1,17 @@
 ---
-title: "为什么比尔·米勒能够拿住亚马逊26年？一场深度对话还原很多精彩细节"
+title: "S&P Global｜肯·格里芬：Citadel、AI 与独立思考"
 slug: "sources/source-38"
-description: "多元学科思维的投资实践"
+description: "依据 S&P Global 公开 transcript，整理 Ken Griffin 关于 AI、edge、独立思考与 Citadel 组织能力的最新表达。"
 ---
 
-**原文件名**: `为什么比尔·米勒能够拿住亚马逊26年？一场深度对话还原很多精彩细节.md`  
-**外部来源**: https://mp.weixin.qq.com/s/kvYKuHCqslEJSTx1-kFTLw
+**原文件名**: `S&P Global｜肯·格里芬：Citadel、AI 与独立思考.md`  
+**外部来源**: https://www.spglobal.com/en/research-insights/podcasts/leaders/ken-griffin-on-building-citadel-ai-and-independent-thinking
 
-**作者**: 最近听了一场两个多小时的访谈，主持人是投资作家威廉 ·格林（William Green），嘉宾是《巴菲特之道》作者罗伯特·哈格斯特罗姆（Robert Hagstrom）。  
-**时间**: 2025年8月25日 15:02
 
 ## 摘要
 
-多元学科思维的投资实践
+依据 S&P Global 公开 transcript，整理 Ken Griffin 关于 AI、edge、独立思考与 Citadel 组织能力的最新表达。
 
 ## 节选
 
-最近听了一场两个多小时的访谈，主持人是投资作家威廉 ·格林（William Green），嘉宾是《巴菲特之道》作者罗伯特·哈格斯特罗姆（Robert Hagstrom）。
+- `主角`：肯·格里芬（Ken Griffin） - `场景`：S&P Global / Leaders Podcast - `时间`：`2025-06-17` - `核心价值`：这篇是理解现代 Citadel 最好的窗口之一。它把 `AI / 预测未来 / 独立思考 / 数据质量 / 持续学习` 放在同一条线上。

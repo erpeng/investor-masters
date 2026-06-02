@@ -27,10 +27,13 @@ description: "护城河 在这批资料 里的最佳入口。"
 
 [李录](/investor-masters/investors/li-lu/) 则把护城河往“巨大不确定性里还能不能泰然处之”这条线推进了一步。到了他这里，护城河不只是市场份额、成本和品牌，也包括管理层是否真的具备 `第一性思维 + 工程师执行 + 受托人精神` 这种极稀缺的组合。[比亚迪](/investor-masters/companies/byd/) 之所以重要，不是因为它证明了汽车行业很好，而是因为它让李录相信：当企业家和组织足够特殊时，原本被视作坟场的行业也可能长出极深的护城河。也因此，李录版本的护城河比很多人更强调“人和组织的长期可信度”。
 
+[弗朗索瓦·罗雄](/investor-masters/investors/francois-rochon/) 给护城河补了一层 owner earnings 约束：护城河不是漂亮叙事，而是企业能否长期把竞争优势转成真实所有者收益。对 Rochon 来说，管理层和文化也属于护城河的一部分，因为它们决定资本能否被理性再投资。
+
 ## 相关概念
 
 - [能力圈](/investor-masters/concepts/circle-of-competence/)
 - [质量模式](/investor-masters/concepts/quality-patterns/)
+- [所有者收益](/investor-masters/concepts/owners-earnings/)
 - [共享规模经济](/investor-masters/concepts/scale-economies-shared/)
 - [经常性收入](/investor-masters/concepts/recurring-revenues/)
 - [友好中介](/investor-masters/concepts/friendly-middlemen/)
@@ -40,19 +43,22 @@ description: "护城河 在这批资料 里的最佳入口。"
 - [可口可乐](/investor-masters/companies/coca-cola/)
 - [开市客](/investor-masters/companies/costco/)
 - [Alphabet](/investor-masters/companies/alphabet/)
+- [Constellation Software](/investor-masters/companies/constellation-software/)
 - [比亚迪](/investor-masters/companies/byd/)
 - [Universal Music Group](/investor-masters/companies/universal-music-group/)
 - [GEICO](/investor-masters/companies/geico/)
 - [Berkshire Hathaway](/investor-masters/institutions/berkshire-hathaway/)
 - [Himalaya Capital](/investor-masters/institutions/himalaya-capital/)
+- [Giverny Capital](/investor-masters/institutions/giverny-capital/)
 
 ## 主要来源
 
 - [2万字｜2008年芒格在加州理工与物理学家的罕见对谈，全程都是智慧四溅](/investor-masters/sources/source-07/)
 - [4万字对话｜72岁传奇投资人特里·史密斯详述一生，如何塑造自己的投资风格](/investor-masters/sources/source-09/)
-- [巴菲特亲自教授的一堂价值百万的MBA课程：如何在股市里赚大钱](/investor-masters/sources/source-61/)
+- [巴菲特亲自教授的一堂价值百万的MBA课程：如何在股市里赚大钱](/investor-masters/sources/source-78/)
 - [3.2万字｜潘兴广场比尔·阿克曼最有价值的一场对话，深谈价值投资、核心战役以及如何从人生谷底“爬坑”……](/investor-masters/sources/source-08/)
-- [“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-masters/sources/source-33/)
+- [“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-masters/sources/source-50/)
 - [2.7万字｜ “巴菲特女弟子”深度对话：真正懂资本配置的CEO，往往做决策更理性，也更能创造长期价值](/investor-masters/sources/source-04/)
 - [2021年李录与格林沃尔德深度对话：我们想投资的是那些可以在巨大不确定性中泰然处之的公司……](/investor-masters/sources/source-06/)
-- [李录亲述：为什么能拿住比亚迪23年？](/investor-masters/sources/source-69/)
+- [李录亲述：为什么能拿住比亚迪23年？](/investor-masters/sources/source-86/)
+- [Value Investor Insight｜弗朗索瓦·罗雄：Crème de la Crème](/investor-masters/sources/source-49/)

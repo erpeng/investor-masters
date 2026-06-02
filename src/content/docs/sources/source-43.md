@@ -1,17 +1,19 @@
 ---
-title: "原文｜CNBC｜丹·勒布：更动荡市场中的 event-driven 组合"
+title: "Ted Weschler-2022-Q&A-Podcast（NFM）"
 slug: "sources/source-43"
-description: "从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML。"
+description: "Greg Abel（实体业务-大方向资本配置）、Ajt Jain（保险业务）、Ted Weschler（证券投资）的三剑客组合已正式确立"
 ---
 
-**原文件名**: `原文｜CNBC｜丹·勒布：更动荡市场中的 event-driven 组合.md`  
-**外部来源**: https://www.cnbc.com/video/2025/04/23/third-point-ceo-dan-loeb-i-wouldnt-underestimate-the-resilience-of-the-american-economy.html
+**原文件名**: `Ted Weschler-2022-Q&A-Podcast（NFM）.md`  
+**外部来源**: https://mp.weixin.qq.com/s/kd-BqzgbpG8D21VCwFIRiQ
 
+**作者**: 原创 臧文浩  
+**时间**: 2025年12月9日 12:29
 
 ## 摘要
 
-从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML。
+Greg Abel（实体业务-大方向资本配置）、Ajt Jain（保险业务）、Ted Weschler（证券投资）的三剑客组合已正式确立
 
 ## 节选
 
-- 对应整理稿：[[现有资料/CNBC｜丹·勒布：更动荡市场中的 event-driven 组合.md]] - 抓取时间：`2026-04-20` - 抽取方式：`HTML` - 原始域名：`www.cnbc.com`
+BRK昨日官宣人事调整，引人注目的是Todd Combs（2011-2025）离开加入JPMorgan，原因众说纷纭。但结果是清晰明朗的：

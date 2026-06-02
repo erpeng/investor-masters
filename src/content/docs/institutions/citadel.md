@@ -42,10 +42,10 @@ CNBC 总部访谈里，Ken 直接把 `pursuit of talent` 说成 创始原则；S
 
 ## 标志性公开材料
 
-- [Stanford GSB｜肯·格里芬：投资、竞争与未来](/investor-masters/sources/source-26/)
-- [S&P Global｜肯·格里芬：Citadel、AI 与独立思考](/investor-masters/sources/source-25/)
-- [CNBC｜肯·格里芬：Citadel 总部首场电视长访谈](/investor-masters/sources/source-13/)
-- [日本“特拉斯时刻”算轻量版！城堡投资格里芬最新交流，犀利点评美国债务、移民、美联储、AI等热门话题](/investor-masters/sources/source-65/)
+- [Stanford GSB｜肯·格里芬：投资、竞争与未来](/investor-masters/sources/source-39/)
+- [S&P Global｜肯·格里芬：Citadel、AI 与独立思考](/investor-masters/sources/source-38/)
+- [CNBC｜肯·格里芬：Citadel 总部首场电视长访谈](/investor-masters/sources/source-21/)
+- [日本“特拉斯时刻”算轻量版！城堡投资格里芬最新交流，犀利点评美国债务、移民、美联储、AI等热门话题](/investor-masters/sources/source-82/)
 
 ## 13F 持仓（近四个季度）
 
@@ -139,7 +139,7 @@ Citadel 能否长期超越“Ken 的延伸”，就看这三点能否留下。
 
 ## 主要来源
 
-- [Stanford GSB｜肯·格里芬：投资、竞争与未来](/investor-masters/sources/source-26/)
-- [S&P Global｜肯·格里芬：Citadel、AI 与独立思考](/investor-masters/sources/source-25/)
-- [CNBC｜肯·格里芬：Citadel 总部首场电视长访谈](/investor-masters/sources/source-13/)
-- [日本“特拉斯时刻”算轻量版！城堡投资格里芬最新交流，犀利点评美国债务、移民、美联储、AI等热门话题](/investor-masters/sources/source-65/)
+- [Stanford GSB｜肯·格里芬：投资、竞争与未来](/investor-masters/sources/source-39/)
+- [S&P Global｜肯·格里芬：Citadel、AI 与独立思考](/investor-masters/sources/source-38/)
+- [CNBC｜肯·格里芬：Citadel 总部首场电视长访谈](/investor-masters/sources/source-21/)
+- [日本“特拉斯时刻”算轻量版！城堡投资格里芬最新交流，犀利点评美国债务、移民、美联储、AI等热门话题](/investor-masters/sources/source-82/)

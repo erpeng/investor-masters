@@ -1,17 +1,17 @@
 ---
-title: "Joys of Compounding｜史蒂芬·曼德尔：来自 Lone Pine 的经验课"
+title: "CNBC｜肯·格里芬：Citadel 总部首场电视长访谈"
 slug: "sources/source-21"
-description: "史蒂芬·曼德尔回顾 Lone Pine 的创立、文化、领导力、人才培养与长期 alpha 的来源。"
+description: "依据 CNBC 公开 transcript，整理 Ken Griffin 关于人才密度、delegation、Citadel 的多策略平台与 depth-not-breadth 的早期官方表达。"
 ---
 
-**原文件名**: `Joys of Compounding｜史蒂芬·曼德尔：来自 Lone Pine 的经验课.md`  
-**外部来源**: https://colossus.com/episode/lessons-from-steve-mandel/
+**原文件名**: `CNBC｜肯·格里芬：Citadel 总部首场电视长访谈.md`  
+**外部来源**: https://www.cnbc.com/2015/11/19/cnbc-exclusive-cnbc-transcript-citadel-founder-ceo-ken-griffin-speaks-with-cnbcs-kate-kelly-on-squawk-on-the-street-today.html
 
 
 ## 摘要
 
-史蒂芬·曼德尔回顾 Lone Pine 的创立、文化、领导力、人才培养与长期 alpha 的来源。
+依据 CNBC 公开 transcript，整理 Ken Griffin 关于人才密度、delegation、Citadel 的多策略平台与 depth-not-breadth 的早期官方表达。
 
 ## 节选
 
-> 整理说明： > 本页依据 Colossus 官方节目页、Apple Podcasts 官方页面与公开可见 show notes 整理而成。 > 官方完整 transcript 当前需要登录可见，因此本页不是官方完整逐字稿，而是基于官方音频元信息、官方 show notes 与公开简介的审校整理版。
+- `主角`：肯·格里芬（Ken Griffin） - `场景`：CNBC / Citadel 总部首场电视访谈 - `时间`：`2015-11-19` - `核心价值`：这篇是理解 Citadel 如何从个人交易者长成平台机构的关键老材料。

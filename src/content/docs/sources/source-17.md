@@ -1,19 +1,16 @@
 ---
-title: "Druckenmiller深度解析（附中英对照）"
+title: "CNBC｜David Tepper：2022全球央行紧缩与leaning-short"
 slug: "sources/source-17"
-description: "融合11次历史采访与13F持仓数据，还原传奇宏观交易员的思维全景。从Nvidia到Teva，从sizing到逆向投资。"
+description: "原始材料来源页。"
 ---
 
-**原文件名**: `Druckenmiller深度解析（附中英对照）.md`  
-**外部来源**: https://mp.weixin.qq.com/s/WPjWSKR8KEY-Fi4bZ0ywfQ
+**原文件名**: `CNBC｜David Tepper：2022全球央行紧缩与leaning-short.md`  
 
-**作者**: 原创 LIQUIDITY NOTES  
-**时间**: 2026年2月28日 09:33
 
 ## 摘要
 
-融合11次历史采访与13F持仓数据，还原传奇宏观交易员的思维全景。从Nvidia到Teva，从sizing到逆向投资。
+原始材料来源页。
 
 ## 节选
 
-我选一个可能会让你意外的，因为它一点也不性感，跟AI什么的都没关系，但我觉得它很好地体现了我们Duquesne的投资流程。
+这条材料是 2010 的反面镜像。2010 年的核心是宽松与政策托底，2022 年则是全球央行收紧、流动性撤退、估值和盈利预期承压。它证明 Tepper 的核心不是多头偏见，而是跟随政策/流动性反应函数切换仓位。

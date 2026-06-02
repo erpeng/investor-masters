@@ -31,10 +31,13 @@ description: "能力圈 在这批资料 里的最佳入口。"
 
 Tiger Cub 这一支也给能力圈补了两种非常实用的版本。[李·安斯利](/investor-masters/investors/lee-ainslie/) 的版本，是 `行业专家制`：能力圈不是“我大概熟悉这个行业”，而是机构里真的有人长期只做这一块，对竞争格局、管理层和资本配置理解到接近非内幕人极限。[史蒂芬·曼德尔](/investor-masters/investors/stephen-mandel/) 的版本，则是 `变化驱动能力圈`：你不只要理解行业今天怎么运转，还要知道哪几类变化会真正改写结果，以及这家公司是否有能力顺着变化继续变强。
 
+[弗朗索瓦·罗雄](/investor-masters/investors/francois-rochon/) 的能力圈不是“只买熟悉行业”，而是能否对企业未来 owner earnings、管理层和竞争优势建立足够清楚的判断。这个补充很重要：如果你只是熟悉产品，却无法估计长期现金创造能力，那还不算真正进入能力圈。
+
 ## 相关概念
 
 - [护城河](/investor-masters/concepts/moat/)
 - [质量模式](/investor-masters/concepts/quality-patterns/)
+- [所有者收益](/investor-masters/concepts/owners-earnings/)
 - [变化驱动投资](/investor-masters/concepts/investing-behind-change/)
 - [克隆策略](/investor-masters/concepts/cloning/)
 - [判断力](/investor-masters/concepts/judgment/)
@@ -44,15 +47,17 @@ Tiger Cub 这一支也给能力圈补了两种非常实用的版本。[李·安�
 - [方向判断正确 vs 交易结构正确](/investor-masters/dialogues/direction-right-vs-structure-right/)
 - [Berkshire Hathaway](/investor-masters/institutions/berkshire-hathaway/)
 - [Himalaya Capital](/investor-masters/institutions/himalaya-capital/)
+- [Giverny Capital](/investor-masters/institutions/giverny-capital/)
 
 ## 主要来源
 
-- [段永平：抄捷径是阴沟里翻船最快的方法](/investor-masters/sources/source-71/)
-- [巴菲特亲自教授的一堂价值百万的MBA课程：如何在股市里赚大钱](/investor-masters/sources/source-61/)
+- [段永平：抄捷径是阴沟里翻船最快的方法](/investor-masters/sources/source-88/)
+- [巴菲特亲自教授的一堂价值百万的MBA课程：如何在股市里赚大钱](/investor-masters/sources/source-78/)
 - [2万字｜2008年芒格在加州理工与物理学家的罕见对谈，全程都是智慧四溅](/investor-masters/sources/source-07/)
 - [3.2万字｜潘兴广场比尔·阿克曼最有价值的一场对话，深谈价值投资、核心战役以及如何从人生谷底“爬坑”……](/investor-masters/sources/source-08/)
-- [“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-masters/sources/source-33/)
-- [Ted Weschler-2022-Q&A-Podcast（NFM）](/investor-masters/sources/source-28/)
+- [“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-masters/sources/source-50/)
+- [Ted Weschler-2022-Q&A-Podcast（NFM）](/investor-masters/sources/source-43/)
 - [2021年李录与格林沃尔德深度对话：我们想投资的是那些可以在巨大不确定性中泰然处之的公司……](/investor-masters/sources/source-06/)
-- [McKinsey｜李·安斯利：走进 Maverick Capital，传统多空基金如何研究企业](/investor-masters/sources/source-22/)
-- [Colossus｜史蒂芬·曼德尔：顺着变化下注](/investor-masters/sources/source-15/)
+- [McKinsey｜李·安斯利：走进 Maverick Capital，传统多空基金如何研究企业](/investor-masters/sources/source-32/)
+- [Richer Wiser Happier｜弗朗索瓦·罗雄：精英中的精英](/investor-masters/sources/source-37/)
+- [Colossus｜史蒂芬·曼德尔：顺着变化下注](/investor-masters/sources/source-23/)

@@ -31,9 +31,19 @@ Alphabet 在这批资料里最重要的不是“它是不是好公司”，而�
 
 这条判断对 Alphabet 页的补充是：市场对它的误读不只来自 AI 恐慌，也来自把所有大型科技股上涨都当成估值泡沫。尼格伦提醒的是，要拆开看：价格涨了，是因为倍数涨，还是因为价值真的涨。
 
+### [弗朗索瓦·罗雄](/investor-masters/investors/francois-rochon/)
+
+Rochon 读 Alphabet 的入口更接近 [所有者收益](/investor-masters/concepts/owners-earnings/)：AI 当然会改变搜索、广告和云，但真正的问题是 Alphabet 能不能继续把技术优势、数据、分发和工程能力转成长期 owner earnings。它不是“AI 主题股”，而是一台需要重新检验护城河、管理层资本配置和合理价格的现金流机器。
+
+这个补充让 Alphabet 多了一种质量投资读法：当市场把 AI 冲击讲成短期叙事时，Rochon 会把问题拉回五年后企业真实收益能力有没有被增强或破坏。
+
+### [大卫·泰珀](/investor-masters/investors/david-tepper/)
+
+Appaloosa 的 `GOOG` 更像可切换平台腿。[13F趋势-Appaloosa](/investor-masters/institutions/13f-trends-appaloosa/) 显示，`GOOG` 在 2024Q4 权重约 `8.1%`，2026Q1 仍为第三大持仓，权重约 `8.4%`。在 Tepper 框架里，Alphabet 不是单独的 AI 恐慌重描述样本，而是在平台科技、半导体和政策交易之间重新配平时保留的美国平台暴露。
+
 ## 分歧与共识
 
-四个人都承认 Alphabet 很强，但各自的进入语言不同：阿克曼看 `AI 恐慌下的错误重描述`，安德森看 `平台吸值能力与认知迟到`，米勒看 `重仓候选中的未来价值赔率`，尼格伦看 `价值增长 vs 倍数扩张`。
+五个人都承认 Alphabet 很强，但各自的进入语言不同：阿克曼看 `AI 恐慌下的错误重描述`，安德森看 `平台吸值能力与认知迟到`，米勒看 `重仓候选中的未来价值赔率`，尼格伦看 `价值增长 vs 倍数扩张`，Rochon 看 `AI 叙事背后的 owner earnings`。
 
 ## 相关页面
 
@@ -41,6 +51,9 @@ Alphabet 在这批资料里最重要的不是“它是不是好公司”，而�
 - [詹姆斯·安德森](/investor-masters/investors/james-anderson/)
 - [比尔·米勒](/investor-masters/investors/bill-miller/)
 - [比尔·尼格伦](/investor-masters/investors/bill-nygren/)
+- [弗朗索瓦·罗雄](/investor-masters/investors/francois-rochon/)
+- [大卫·泰珀](/investor-masters/investors/david-tepper/)
+- [所有者收益](/investor-masters/concepts/owners-earnings/)
 - [永久复利 vs 七年价值重估](/investor-masters/dialogues/permanent-compounding-vs-seven-year-revaluation/)
 - [微软](/investor-masters/companies/microsoft/)
 - [Meta](/investor-masters/companies/meta/)

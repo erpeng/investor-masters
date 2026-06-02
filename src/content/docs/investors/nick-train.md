@@ -24,7 +24,7 @@ description: "把极低换手、能力圈边界和长期特许经营持有推到
 >
 > “最可能决定你能否成功的，是找到那套在情绪上最适合你、最能让你长期坚持的方法。”
 >
-> ——来源：[Money Makers｜尼克·特雷恩：少做反而赚得更多](/investor-masters/sources/source-23/)
+> ——来源：[Money Makers｜尼克·特雷恩：少做反而赚得更多](/investor-masters/sources/source-34/)
 
 > 验证卡：Finsbury Growth & Income Trust 官方 factsheet 显示，截至最新披露，其在 Nick Train 管理下的 `10` 年 NAV 累计回报约 `170.3%`，折算年化约 `10.5%`；自 `2000` 年 `12` 月 manager appointment 以来累计回报约 `622.1%`。这和他的低换手方法非常一致：不是靠高频择时，而是靠少数长期持有标的持续复利。依据：[Finsbury Growth & Income Trust factsheet](https://www.finsburygt.com/download_file/force/326/1)。
 
@@ -108,6 +108,6 @@ description: "把极低换手、能力圈边界和长期特许经营持有推到
 
 ## 主要来源
 
-- [Money Makers｜尼克·特雷恩：少做反而赚得更多](/investor-masters/sources/source-23/)
-- [The Value Perspective｜尼克·特雷恩：长期概率、英国市场与质量识别](/investor-masters/sources/source-29/)
-- [Edison｜尼克·特雷恩：Lindsell Train 的长期持有方法](/investor-masters/sources/source-18/)
+- [Money Makers｜尼克·特雷恩：少做反而赚得更多](/investor-masters/sources/source-34/)
+- [The Value Perspective｜尼克·特雷恩：长期概率、英国市场与质量识别](/investor-masters/sources/source-44/)
+- [Edison｜尼克·特雷恩：Lindsell Train 的长期持有方法](/investor-masters/sources/source-27/)

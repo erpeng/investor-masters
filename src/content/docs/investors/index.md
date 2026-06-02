@@ -34,6 +34,7 @@ description: "从人物、约束和边界切入理解不同投资方法。"
 | [大卫·艾因霍恩](/investor-masters/investors/david-einhorn/) | 反动量、会计审问、多空结构 | 高 | 1-5年 | 中 | 经典价值 / long-short | [Greenlight Capital](/investor-masters/institutions/greenlight-capital/) | 未公开 | “他对市场采取的是一种反动量的方法。” |
 | [尼克·特雷恩](/investor-masters/investors/nick-train/) | 慢买入、长持有、特许经营 | 极高 | 5年+/永久 | 低 | 质量价值 | [Lindsell Train](/investor-masters/institutions/lindsell-train/) | 约 10.5%（[Finsbury 官方 factsheet](https://www.finsburygt.com/download_file/force/326/1)） | “他和 Lindsell 最认同、也最适合自己的方法，是巴菲特式的‘慢买入、长持有’视角。” |
 | [特里·史密斯](/investor-masters/investors/terry-smith/) | 高质量复利、少犯错 | 高 | 5年+ | 低 | 质量价值 | [Fundsmith](/investor-masters/institutions/fundsmith/) | 约 13.5%（[Fundsmith 官方 factsheet](https://www.fundsmith.co.uk/factsheet/)） | “所有汽车公司都是坏公司，没有例外。” |
+| [弗朗索瓦·罗雄](/investor-masters/investors/francois-rochon/) | 所有者收益、高质量企业、错误复盘 | 高 | 5年+/永久 | 低 | 质量价值 | [Giverny Capital](/investor-masters/institutions/giverny-capital/) | 未公开 | “推断：长期优势来自理性、谦逊、耐心和 owner earnings 复利。” |
 | [段永平](/investor-masters/investors/duan-yongping/) | 本分、看懂、长期主义 | 极高 | 5年+/永久 | 低 | 质量价值 | 独立 | 未公开 | “Stop Doing List没有short cut（捷径）。” |
 | [詹姆斯·安德森](/investor-masters/investors/james-anderson/) | 理解变化、超级赢家 | 高 | 5年+ | 中 | 成长 | [Baillie Gifford](/investor-masters/institutions/baillie-gifford/) / SMT | 未公开 | “伟大的公司各有各的独特，平庸的公司却都差不多。” |
 | [汤姆·斯莱特](/investor-masters/investors/tom-slater/) | 约束迁移、成长分布 | 高 | 5年+ | 中 | 成长 | [Baillie Gifford](/investor-masters/institutions/baillie-gifford/) / SMT | 未公开 | “我们真正想做的，是找到少数几家真正卓越的企业。” |
@@ -42,6 +43,7 @@ description: "从人物、约束和边界切入理解不同投资方法。"
 | [比尔·阿克曼](/investor-masters/investors/bill-ackman/) | 战役、催化剂、主动所有者 | 极高 | 1-5年 | 中高 | 价值 / 事件驱动 | [Pershing Square](/investor-masters/institutions/pershing-square/) | 约 16.2%（[PSH 2025 年报](https://assets.pershingsquareholdings.com/wp-content/uploads/2026/02/18175039/Pershing-Square-Holdings-Ltd.-2025-Annual-Report.pdf)） | “我是从阅读伯克希尔·哈撒韦的年度报告开始的。” |
 | [丹·勒布](/investor-masters/investors/dan-loeb/) | 事件驱动、催化剂、跨资本结构 | 中高 | 1-5年 | 中高 | 价值 / 事件驱动 | [Third Point](/investor-masters/institutions/third-point/) | 约 13.0%（[Third Point 官方月报](https://assets.thirdpointlimited.com/f/166217/x/cafeb5e071/2023-04-april-monthly-report-tpil.pdf)） | “经济与政策的交叉影响，使第二层思维变得格外重要。” |
 | [斯坦利·德鲁肯米勒](/investor-masters/investors/stanley-druckenmiller/) | 趋势、仓位、快速修正 | 高 | <1年/1-5年 | 高 | 宏观 | [Duquesne Family Office](/investor-masters/institutions/duquesne-family-office/) | 未公开 | “永远不要投资于现在——想象18个月后的世界。” |
+| [大卫·泰珀](/investor-masters/investors/david-tepper/) | 政策反应函数、困境资产、仓位切换 | 高 | <1年/1-5年 | 极高 | 宏观 / 困境 / 事件驱动 | [Appaloosa Management](/investor-masters/institutions/appaloosa-management/) | 未公开 | “推断：政策和流动性改变资产价格分布时，赔率表必须重写。” |
 | [保罗·都铎·琼斯](/investor-masters/investors/paul-tudor-jones/) | 流动性、趋势、风险管理 | 策略依赖 | <1年/趋势持续期 | 极高 | 宏观 / 交易 | [Tudor Investment Corporation](/investor-masters/institutions/tudor-investment-corporation/) | 未公开 | “我这辈子再也不会长期持有任何东西，也不会完全相信任何东西。” |
 | [托德·库姆斯](/investor-masters/investors/todd-combs/) | 简化、单店经济学 | 中高 | 1-5年/5年+ | 低 | 质量价值 | [伯克希尔·哈撒韦](/investor-masters/institutions/berkshire-hathaway/) / GEICO | 未公开 | “单店模型往往比整体财报更能揭示商业本质。” |
 | [泰德·韦施勒](/investor-masters/investors/ted-weschler/) | 清晰、长期、文化匹配 | 中高 | 5年+ | 低 | 质量价值 | [伯克希尔·哈撒韦](/investor-masters/institutions/berkshire-hathaway/) | 未公开 | “他说的话非常清晰，而且很有道理。” |
@@ -70,6 +72,7 @@ description: "从人物、约束和边界切入理解不同投资方法。"
 - [大卫·艾因霍恩](/investor-masters/investors/david-einhorn/)
 - [尼克·特雷恩](/investor-masters/investors/nick-train/)
 - [特里·史密斯](/investor-masters/investors/terry-smith/)
+- [弗朗索瓦·罗雄](/investor-masters/investors/francois-rochon/)
 - [段永平](/investor-masters/investors/duan-yongping/)
 - [詹姆斯·安德森](/investor-masters/investors/james-anderson/)
 - [汤姆·斯莱特](/investor-masters/investors/tom-slater/)
@@ -78,6 +81,7 @@ description: "从人物、约束和边界切入理解不同投资方法。"
 - [比尔·阿克曼](/investor-masters/investors/bill-ackman/)
 - [丹·勒布](/investor-masters/investors/dan-loeb/)
 - [斯坦利·德鲁肯米勒](/investor-masters/investors/stanley-druckenmiller/)
+- [大卫·泰珀](/investor-masters/investors/david-tepper/)
 - [保罗·都铎·琼斯](/investor-masters/investors/paul-tudor-jones/)
 - [托德·库姆斯](/investor-masters/investors/todd-combs/)
 - [泰德·韦施勒](/investor-masters/investors/ted-weschler/)

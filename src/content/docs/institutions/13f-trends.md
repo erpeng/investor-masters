@@ -31,11 +31,13 @@ description: "把机构 13F 按季度横向拉齐，观察跨机构持仓趋势�
 - [AKO Capital：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-ako/)
 - [H&H International Investment：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-hh/)
 - [Fundsmith：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-fundsmith/)
+- [Giverny Capital：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-giverny/)
 - [Himalaya Capital：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-himalaya/)
 - [Lone Pine Capital：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-lone-pine/)
 - [Greenlight Capital / DME：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-greenlight/)
 - [Tudor Investment Corporation：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-tudor/)
 - [Duquesne Family Office：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-duquesne/)
+- [Appaloosa Management：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-appaloosa/)
 
 ## 季度档案
 
@@ -72,7 +74,7 @@ description: "把机构 13F 按季度横向拉齐，观察跨机构持仓趋势�
 
 - 隐含逻辑：13F 对长期集中型机构更有解释力，因为它们换手低、仓位集中，单季股数变化更可能代表 投资论点 变化；对宏观、量化、多策略和交易型机构解释力更弱，因为仓位可能来自对冲、期权结构、指数暴露、做市或短周期风险管理。
 - 权重是启发式评分，不是精确数学真理；它的作用是让长期集中型机构的同向动作更靠前，同时降低交易型机构噪音。
-- 长期集中型：Berkshire=1.5, Pershing=1.4, Fundsmith=1.4, Himalaya=1.4, H&H=1.4, AKO=1.3。
+- 长期集中型：Berkshire=1.5, Pershing=1.4, Fundsmith=1.4, Giverny=1.4, Himalaya=1.4, H&H=1.4, AKO=1.3。
 - 基本面多头/对冲型：Baillie=1.1, Oaktree=0.9, ARK=1.0, Third Point=1.0, Greenlight=1.0, Baupost=1.1, Lone Pine=1.0, Maverick=0.9, Oakmark=1.1。
 - 宏观/交易型：Bridgewater=0.6, Duquesne=0.8, Tudor=0.6。
 - 多策略/交易型：Citadel=0.5。

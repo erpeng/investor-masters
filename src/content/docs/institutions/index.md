@@ -22,6 +22,7 @@ description: "激励结构决定投资人能做什么，而不只是想做什么
 
 ## 全部机构
 - [ARK Invest](/investor-masters/institutions/ark-invest/)
+- [Appaloosa Management](/investor-masters/institutions/appaloosa-management/)
 - [AKO Capital](/investor-masters/institutions/ako-capital/)
 - [Baillie Gifford](/investor-masters/institutions/baillie-gifford/)
 - [Berkshire Hathaway](/investor-masters/institutions/berkshire-hathaway/)
@@ -35,6 +36,7 @@ description: "激励结构决定投资人能做什么，而不只是想做什么
 - [Oakmark Funds](/investor-masters/institutions/oakmark-funds/)
 - [Pershing Square](/investor-masters/institutions/pershing-square/)
 - [Fundsmith](/investor-masters/institutions/fundsmith/)
+- [Giverny Capital](/investor-masters/institutions/giverny-capital/)
 - [Greenlight Capital](/investor-masters/institutions/greenlight-capital/)
 - [Baupost Group](/investor-masters/institutions/baupost-group/)
 - [Himalaya Capital](/investor-masters/institutions/himalaya-capital/)

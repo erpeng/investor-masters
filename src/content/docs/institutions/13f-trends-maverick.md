@@ -373,5 +373,5 @@ Maverick 的方法核心是 赢家 vs 输家。13F 只给 赢家 或 long candid
 - [SEC 13F Q1 2023 filing detail](https://www.sec.gov/Archives/edgar/data/934639/000094787123000583/0000947871-23-000583-index.html)
 - [李·安斯利](/investor-masters/investors/lee-ainslie/)
 - [Maverick Capital](/investor-masters/institutions/maverick-capital/)
-- [McKinsey｜李·安斯利：走进 Maverick Capital，传统多空基金如何研究企业](/investor-masters/sources/source-22/)
-- [CFO｜李·安斯利：对冲不是目的，理解企业才是](/investor-masters/sources/source-10/)
+- [McKinsey｜李·安斯利：走进 Maverick Capital，传统多空基金如何研究企业](/investor-masters/sources/source-32/)
+- [CFO｜李·安斯利：对冲不是目的，理解企业才是](/investor-masters/sources/source-11/)

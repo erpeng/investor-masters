@@ -1,17 +1,17 @@
 ---
-title: "Money Makers｜尼克·特雷恩：少做反而赚得更多"
+title: "Colossus｜史蒂芬·曼德尔：顺着变化下注"
 slug: "sources/source-23"
-description: "依据 Money Makers 公开全文，整理 Nick Train 关于 slow buy and hold、能力圈、三类偏好公司与忽略宏观的核心表达。"
+description: "史蒂芬·曼德尔谈投资行业如何变化、为什么做空更难、为什么仍要深入企业内部，以及 Lone Pine 如何围绕变化建立研究优势。"
 ---
 
-**原文件名**: `Money Makers｜尼克·特雷恩：少做反而赚得更多.md`  
-**外部来源**: https://money-makers.co/nick-train-interview/
+**原文件名**: `Colossus｜史蒂芬·曼德尔：顺着变化下注.md`  
+**外部来源**: https://joincolossus.com/episode/mandel-investing-behind-change/
 
 
 ## 摘要
 
-依据 Money Makers 公开全文，整理 Nick Train 关于 slow buy and hold、能力圈、三类偏好公司与忽略宏观的核心表达。
+史蒂芬·曼德尔谈投资行业如何变化、为什么做空更难、为什么仍要深入企业内部，以及 Lone Pine 如何围绕变化建立研究优势。
 
 ## 节选
 
-- `主角`：尼克·特雷恩（Nick Train） - `场景`：Money Makers 长访谈 - `时间`：`2015-10-03` - `核心价值`：这是 Nick Train 公开材料里最像“自我定义”的一篇。它把 `slow buy and hold / 极低换手 / 三类偏好公司 / 能力圈 / 忽略宏观` 一次讲清楚。
+> 整理说明： > 本页依据 Colossus 节目页、公开节目简介、可见 transcript 开头与公开 show notes 整理而成。 > 这不是官方完整逐字稿，但核心主题与判断均来自官方节目页和公开可核验摘要。

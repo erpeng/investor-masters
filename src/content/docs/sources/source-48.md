@@ -1,17 +1,17 @@
 ---
-title: "原文｜McKinsey｜李·安斯利：走进 Maverick Capital，传统多空基金如何研究企业"
+title: "Value Investor Insight｜弗朗索瓦·罗雄：Affordable Quality"
 slug: "sources/source-48"
-description: "从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML（页面正文转录）。"
+description: "原始材料来源页。"
 ---
 
-**原文件名**: `原文｜McKinsey｜李·安斯利：走进 Maverick Capital，传统多空基金如何研究企业.md`  
-**外部来源**: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/inside-a-hedge-fund-an-interview-with-the-managing-partner-of-maverick-capital
+**原文件名**: `Value Investor Insight｜弗朗索瓦·罗雄：Affordable Quality.md`  
+**外部来源**: Value Investor Insight
 
 
 ## 摘要
 
-从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML（页面正文转录）。
+原始材料来源页。
 
 ## 节选
 
-- 对应整理稿：[[现有资料/McKinsey｜李·安斯利：走进 Maverick Capital，传统多空基金如何研究企业.md]] - 抓取时间：`2026-04-20` - 抽取方式：`HTML` - 原始域名：`www.mckinsey.com` - 备注：站点命令行抓取长时间无响应，本存档依据公开可访问页面正文转录。
+这篇材料是 Rochon 在平台公司和高质量成长股被重新定价后的重要更新。它把 `quality` 和 `valuation discipline` 放在一起，而不是把质量投资讲成无条件买好公司。

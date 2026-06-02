@@ -1,19 +1,17 @@
 ---
-title: "全世界最懂AI的金融人，是怎么管理投资的？——看桥水“务实派”如何警示未来 （下） | 泉果探照灯"
+title: "Stanford GSB｜肯·格里芬：投资、竞争与未来"
 slug: "sources/source-39"
-description: "当你围绕“机器人是什么”去重新设计流程，效率的提升才真正爆发。"
+description: "依据 Stanford GSB 公开文章页，整理 Ken Griffin 关于 winning、组织竞争与长期 ambition 的最新表达。"
 ---
 
-**原文件名**: `全世界最懂AI的金融人，是怎么管理投资的？——看桥水“务实派”如何警示未来 （下）  泉果探照灯.md`  
-**外部来源**: https://mp.weixin.qq.com/s/MSuAm2bmVTLy1jEYeLwmMQ
+**原文件名**: `Stanford GSB｜肯·格里芬：投资、竞争与未来.md`  
+**外部来源**: https://www.gsb.stanford.edu/insights/ken-griffin-investing-winning-why-hes-focused-future
 
-**作者**: 原创 泉果探照灯  
-**时间**: 2025年12月24日 11:29
 
 ## 摘要
 
-当你围绕“机器人是什么”去重新设计流程，效率的提升才真正爆发。
+依据 Stanford GSB 公开文章页，整理 Ken Griffin 关于 winning、组织竞争与长期 ambition 的最新表达。
 
 ## 节选
 
-在前两期【泉果探照灯】中，我们分享了桥水基金首席投资官Greg Jensen关于对未来资本市场一定要“分散投资”的警示，以及他的决策基础和逻辑推演过程。
+> 整理说明： > Stanford GSB 当前公开页面提供的是节目摘要与部分关键引语，不是完整 transcript。本页只使用页面可见的明确表述。
