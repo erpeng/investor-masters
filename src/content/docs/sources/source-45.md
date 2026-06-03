@@ -1,17 +1,19 @@
 ---
-title: "Third Point｜2024Q4 investor letter：第二层思维、事件驱动与跨资产框架"
+title: "Ted Weschler-2022-Q&A-Podcast（NFM）"
 slug: "sources/source-45"
-description: "依据 Third Point 2024Q4 investor letter，整理 Dan Loeb 对第二层思维、跨资产配置、质量股与事件驱动并存的官方表达。"
+description: "Greg Abel（实体业务-大方向资本配置）、Ajt Jain（保险业务）、Ted Weschler（证券投资）的三剑客组合已正式确立"
 ---
 
-**原文件名**: `Third Point｜2024Q4 investor letter：第二层思维、事件驱动与跨资产框架.md`  
-**外部来源**: https://assets.thirdpointlimited.com/f/166217/x/bc70b1b6dc/third-point-q4-2024-investor-letter_tpil.pdf
+**原文件名**: `Ted Weschler-2022-Q&A-Podcast（NFM）.md`  
+**外部来源**: https://mp.weixin.qq.com/s/kd-BqzgbpG8D21VCwFIRiQ
 
+**作者**: 原创 臧文浩  
+**时间**: 2025年12月9日 12:29
 
 ## 摘要
 
-依据 Third Point 2024Q4 investor letter，整理 Dan Loeb 对第二层思维、跨资产配置、质量股与事件驱动并存的官方表达。
+Greg Abel（实体业务-大方向资本配置）、Ajt Jain（保险业务）、Ted Weschler（证券投资）的三剑客组合已正式确立
 
 ## 节选
 
-- `主角`：丹·勒布（Dan Loeb）/ Third Point - `场景`：`2024Q4` investor letter - `时间`：`2025-02-04` - `核心价值`：这封信是 Third Point 今天最像“官方方法说明书”的材料之一。它把 `event-driven + quality + idiosyncratic themes + second-order thinking + 跨资产` 放在同一页里。
+BRK昨日官宣人事调整，引人注目的是Todd Combs（2011-2025）离开加入JPMorgan，原因众说纷纭。但结果是清晰明朗的：

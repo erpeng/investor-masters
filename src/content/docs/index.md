@@ -13,7 +13,7 @@ description: "把分散的投资访谈、合伙人信和机构材料，编译成
 ## 从哪里开始
 
 - **我想了解价值投资**: [沃伦·巴菲特](/investor-masters/investors/warren-buffett/)、[查理·芒格](/investor-masters/investors/charlie-munger/)、[特里·史密斯](/investor-masters/investors/terry-smith/)、[弗朗索瓦·罗雄](/investor-masters/investors/francois-rochon/)、[李录](/investor-masters/investors/li-lu/)、[尼克·特雷恩](/investor-masters/investors/nick-train/)、[比尔·尼格伦](/investor-masters/investors/bill-nygren/)
-- **我想了解经典 long/short / event-driven**: [大卫·艾因霍恩](/investor-masters/investors/david-einhorn/)、[李·安斯利](/investor-masters/investors/lee-ainslie/)、[史蒂芬·曼德尔](/investor-masters/investors/stephen-mandel/)、[丹·勒布](/investor-masters/investors/dan-loeb/)
+- **我想了解经典 long/short / event-driven**: [大卫·艾因霍恩](/investor-masters/investors/david-einhorn/)、[李·安斯利](/investor-masters/investors/lee-ainslie/)、[史蒂芬·曼德尔](/investor-masters/investors/stephen-mandel/)、[丹·勒布](/investor-masters/investors/dan-loeb/)、[迈克尔·洛温斯坦与托马斯·科尔曼](/investor-masters/investors/michael-lowenstein-thomas-coleman/)
 - **我想了解成长投资**: [詹姆斯·安德森](/investor-masters/investors/james-anderson/)、[汤姆·斯莱特](/investor-masters/investors/tom-slater/)、[劳伦斯·伯恩斯](/investor-masters/investors/lawrence-burns/)
 - **我想了解 Tiger Cub 这条线**: [李·安斯利](/investor-masters/investors/lee-ainslie/)、[史蒂芬·曼德尔](/investor-masters/investors/stephen-mandel/)
 - **我想了解宏观与风险**: [霍华德·马克斯](/investor-masters/investors/howard-marks/)、[斯坦利·德鲁肯米勒](/investor-masters/investors/stanley-druckenmiller/)、[大卫·泰珀](/investor-masters/investors/david-tepper/)、[保罗·都铎·琼斯](/investor-masters/investors/paul-tudor-jones/)、[格雷格·詹森](/investor-masters/investors/greg-jensen/)
@@ -56,6 +56,7 @@ description: "把分散的投资访谈、合伙人信和机构材料，编译成
 
 ## 最近更新
 
+- `2026-06-02` 新增 Kensico Capital Management 投资大师专题包
 - `2026-06-02` 按 skill 重生成 Giverny 单机构 13F 趋势页
 - `2026-06-02` 按 skill 重生成 Appaloosa 单机构 13F 趋势页
 - `2026-06-01` 新增 François Rochon / Giverny Capital 支线
@@ -63,4 +64,3 @@ description: "把分散的投资访谈、合伙人信和机构材料，编译成
 - `2026-05-26` 新增 Greenlight 单机构 13F 趋势页
 - `2026-05-26` 新增 Maverick Capital 单机构 13F 趋势页
 - `2026-05-26` 新增 Pershing Square 单机构 13F 趋势页
-- `2026-05-26` 新增 Baillie Gifford 单机构 13F 趋势页

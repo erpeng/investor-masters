@@ -364,7 +364,7 @@ Tudor 的披露尤其不能用来抄仓位，因为你不知道净敞口、执�
 - [SEC 13F Q3 2023 filing detail](https://www.sec.gov/Archives/edgar/data/923093/000095012323011017/0000950123-23-011017-index.html)
 - [SEC 13F Q2 2023 filing detail](https://www.sec.gov/Archives/edgar/data/923093/000095012323007999/0000950123-23-007999-index.html)
 - [SEC 13F Q1 2023 filing detail](https://www.sec.gov/Archives/edgar/data/923093/000095012323005121/0000950123-23-005121-index.html)
-- [深度翻译  传奇交易员保罗·都铎·琼斯谈AI风险、泡沫与巴菲特](/investor-masters/sources/source-92/)
+- [深度翻译  传奇交易员保罗·都铎·琼斯谈AI风险、泡沫与巴菲特](/investor-masters/sources/source-94/)
 - 保罗·都铎·琼斯-Invest-Like-the-Best-交易AI风险访谈-source-audit
 - [趋势交易](/investor-masters/concepts/trend-trading/)
 - [复利信仰 vs 流动性信仰](/investor-masters/dialogues/compound-faith-vs-liquidity-faith/)

@@ -32,5 +32,5 @@ description: "把方法冲突显性化的对照页。"
 
 ## 主要来源
 
-- [日本“特拉斯时刻”算轻量版！城堡投资格里芬最新交流，犀利点评美国债务、移民、美联储、AI等热门话题](/investor-masters/sources/source-82/)
-- [李录最新交流剖析新秩序：通过“四两拨千斤”，中国还可以释放很多改革红利……](/investor-masters/sources/source-87/)
+- [日本“特拉斯时刻”算轻量版！城堡投资格里芬最新交流，犀利点评美国债务、移民、美联储、AI等热门话题](/investor-masters/sources/source-84/)
+- [李录最新交流剖析新秩序：通过“四两拨千斤”，中国还可以释放很多改革红利……](/investor-masters/sources/source-89/)

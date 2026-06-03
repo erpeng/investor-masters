@@ -41,6 +41,7 @@ description: "激励结构决定投资人能做什么，而不只是想做什么
 - [Baupost Group](/investor-masters/institutions/baupost-group/)
 - [Himalaya Capital](/investor-masters/institutions/himalaya-capital/)
 - [H&H International Investment](/investor-masters/institutions/h-h-international-investment/)
+- [Kensico Capital Management](/investor-masters/institutions/kensico-capital-management/)
 - [Lone Pine Capital](/investor-masters/institutions/lone-pine-capital/)
 - [Maverick Capital](/investor-masters/institutions/maverick-capital/)
 - [Third Point](/investor-masters/institutions/third-point/)

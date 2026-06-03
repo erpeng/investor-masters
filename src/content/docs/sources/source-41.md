@@ -1,17 +1,17 @@
 ---
-title: "TIP｜弗朗索瓦·罗雄：AI驱动市场中的长期投资"
+title: "Stanford GSB｜肯·格里芬：投资、竞争与未来"
 slug: "sources/source-41"
-description: "原始材料来源页。"
+description: "依据 Stanford GSB 公开文章页，整理 Ken Griffin 关于 winning、组织竞争与长期 ambition 的最新表达。"
 ---
 
-**原文件名**: `TIP｜弗朗索瓦·罗雄：AI驱动市场中的长期投资.md`  
-**外部来源**: The Investor's Podcast Network
+**原文件名**: `Stanford GSB｜肯·格里芬：投资、竞争与未来.md`  
+**外部来源**: https://www.gsb.stanford.edu/insights/ken-griffin-investing-winning-why-hes-focused-future
 
 
 ## 摘要
 
-原始材料来源页。
+依据 Stanford GSB 公开文章页，整理 Ken Griffin 关于 winning、组织竞争与长期 ambition 的最新表达。
 
 ## 节选
 
-这篇材料用于补 Rochon 在 AI 驱动市场中的最新口径：不是预测 AI 主题涨跌，而是回到企业长期 owner earnings、竞争优势和估值赔率。
+> 整理说明： > Stanford GSB 当前公开页面提供的是节目摘要与部分关键引语，不是完整 transcript。本页只使用页面可见的明确表述。

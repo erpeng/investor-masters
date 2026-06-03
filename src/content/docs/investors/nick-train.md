@@ -109,5 +109,5 @@ description: "把极低换手、能力圈边界和长期特许经营持有推到
 ## 主要来源
 
 - [Money Makers｜尼克·特雷恩：少做反而赚得更多](/investor-masters/sources/source-34/)
-- [The Value Perspective｜尼克·特雷恩：长期概率、英国市场与质量识别](/investor-masters/sources/source-44/)
+- [The Value Perspective｜尼克·特雷恩：长期概率、英国市场与质量识别](/investor-masters/sources/source-46/)
 - [Edison｜尼克·特雷恩：Lindsell Train 的长期持有方法](/investor-masters/sources/source-27/)

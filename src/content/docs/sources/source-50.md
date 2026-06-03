@@ -1,19 +1,17 @@
 ---
-title: "“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则"
+title: "Value Investor Insight｜弗朗索瓦·罗雄：Affordable Quality"
 slug: "sources/source-50"
-description: "在普通股中寻找价值"
+description: "原始材料来源页。"
 ---
 
-**原文件名**: `“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则.md`  
-**外部来源**: https://mp.weixin.qq.com/s/Rltex4fozpUHwk-d29Trng
+**原文件名**: `Value Investor Insight｜弗朗索瓦·罗雄：Affordable Quality.md`  
+**外部来源**: Value Investor Insight
 
-**作者**: 原创 聪明投资者  
-**时间**: 2025年7月8日 15:01
 
 ## 摘要
 
-在普通股中寻找价值
+原始材料来源页。
 
 ## 节选
 
-担任首席执行官的经历让我更加深刻地体会到企业领导者所面临的关键挑战，那便是如何在短期需求与长期目标之间找到平衡点。
+这篇材料是 Rochon 在平台公司和高质量成长股被重新定价后的重要更新。它把 `quality` 和 `valuation discipline` 放在一起，而不是把质量投资讲成无条件买好公司。

@@ -1,17 +1,17 @@
 ---
-title: "Third Point｜2025Q1 investor letter：催化剂、动态敞口与信用协同"
+title: "The Value Perspective｜尼克·特雷恩：长期概率、英国市场与质量识别"
 slug: "sources/source-46"
-description: "依据 Third Point 2025Q1 investor letter，整理 Dan Loeb 对动态降敞口、催化剂仓位、信用协同与 flexible allocation 的官方表达。"
+description: "依据 The Value Perspective 公开节目简介，整理 Nick Train 对长期概率、英国市场变化与 quality 识别的最新表达。"
 ---
 
-**原文件名**: `Third Point｜2025Q1 investor letter：催化剂、动态敞口与信用协同.md`  
-**外部来源**: https://assets.thirdpointlimited.com/f/166217/x/1c4003f091/tpil-q1-2025-investor-letter_02052025_final.pdf
+**原文件名**: `The Value Perspective｜尼克·特雷恩：长期概率、英国市场与质量识别.md`  
+**外部来源**: https://schroderstvp.podbean.com/e/the-value-perspective-with-nick-train/
 
 
 ## 摘要
 
-依据 Third Point 2025Q1 investor letter，整理 Dan Loeb 对动态降敞口、催化剂仓位、信用协同与 flexible allocation 的官方表达。
+依据 The Value Perspective 公开节目简介，整理 Nick Train 对长期概率、英国市场变化与 quality 识别的最新表达。
 
 ## 节选
 
-- `主角`：丹·勒布（Dan Loeb）/ Third Point - `场景`：`2025Q1` investor letter - `时间`：`2025-05-02` - `核心价值`：如果 `2024Q4` 信讲的是方法框架，这封信讲的是框架在动荡环境里如何实际落地。
+> 整理说明： > 本页依据节目官方简介与公开可见主题整理。当前公开页面未提供完整 transcript，因此这里只保留页面明确给出的结构性信息，不伪造逐字对话。

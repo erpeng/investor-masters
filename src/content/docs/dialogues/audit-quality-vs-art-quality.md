@@ -42,6 +42,6 @@ Rochon 同样要求质量和价格，但他更愿意把投资讲成长期手艺�
 ## 主要来源
 
 - [4万字对话｜72岁传奇投资人特里·史密斯详述一生，如何塑造自己的投资风格](/investor-masters/sources/source-09/)
-- [要足够重视糟糕管理的影响！“英国巴菲特”特里·史密斯最新持有人信，反思诺和诺德的投资](/investor-masters/sources/source-96/)
+- [要足够重视糟糕管理的影响！“英国巴菲特”特里·史密斯最新持有人信，反思诺和诺德的投资](/investor-masters/sources/source-98/)
 - [Richer Wiser Happier｜弗朗索瓦·罗雄：精英中的精英](/investor-masters/sources/source-37/)
 - [Compounding Quality｜弗朗索瓦·罗雄：所有者收益、错误榜单与质量投资](/investor-masters/sources/source-25/)

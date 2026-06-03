@@ -1,17 +1,17 @@
 ---
-title: "Value Investor Insight｜弗朗索瓦·罗雄：Affordable Quality"
+title: "Third Point｜2025Q1 investor letter：催化剂、动态敞口与信用协同"
 slug: "sources/source-48"
-description: "原始材料来源页。"
+description: "依据 Third Point 2025Q1 investor letter，整理 Dan Loeb 对动态降敞口、催化剂仓位、信用协同与 flexible allocation 的官方表达。"
 ---
 
-**原文件名**: `Value Investor Insight｜弗朗索瓦·罗雄：Affordable Quality.md`  
-**外部来源**: Value Investor Insight
+**原文件名**: `Third Point｜2025Q1 investor letter：催化剂、动态敞口与信用协同.md`  
+**外部来源**: https://assets.thirdpointlimited.com/f/166217/x/1c4003f091/tpil-q1-2025-investor-letter_02052025_final.pdf
 
 
 ## 摘要
 
-原始材料来源页。
+依据 Third Point 2025Q1 investor letter，整理 Dan Loeb 对动态降敞口、催化剂仓位、信用协同与 flexible allocation 的官方表达。
 
 ## 节选
 
-这篇材料是 Rochon 在平台公司和高质量成长股被重新定价后的重要更新。它把 `quality` 和 `valuation discipline` 放在一起，而不是把质量投资讲成无条件买好公司。
+- `主角`：丹·勒布（Dan Loeb）/ Third Point - `场景`：`2025Q1` investor letter - `时间`：`2025-05-02` - `核心价值`：如果 `2024Q4` 信讲的是方法框架，这封信讲的是框架在动荡环境里如何实际落地。

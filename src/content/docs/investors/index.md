@@ -59,6 +59,7 @@ description: "从人物、约束和边界切入理解不同投资方法。"
 | [特蕾西·布里特·库尔](/investor-masters/investors/tracy-britt-cool/) | 长期经营、文化优先、资本配置 | 中高 | 5年+ | 低 | 质量价值 / 经营型投资 | Kanbrick / 前 [伯克希尔](/investor-masters/institutions/berkshire-hathaway/) | 未公开 | “长期主义不是口号，而是看一个人或一家公司的结构是否允许长期。” |
 | [塞思·卡拉曼](/investor-masters/investors/seth-klarman/) | 风险优先、耐心资本、跨资产价值 | 中高 | 1-5年/5年+ | 中高 | 深度价值 / 特殊情境 | [Baupost Group](/investor-masters/institutions/baupost-group/) | 约 19.0%（[Bloomberg 人物报道](https://www.bloomberg.com/news/articles/2010-06-17/the-financial-life-seth-klarman)） | “我们认为把回报目标当成硬指标，本身就是一种疯狂。” |
 | [纳瓦尔·拉维坎特](/investor-masters/investors/naval-ravikant/) | 知识、判断力、品味 | 中 | 5年+ | 中 | 创业投资 / 成长 | 独立 / 创业者投资人 | 未公开 | “到了某个阶段，你的判断力已经强到你根本解释不出来了。那时候，它就叫‘品味’。” |
+| [迈克尔·洛温斯坦与托马斯·科尔曼](/investor-masters/investors/michael-lowenstein-thomas-coleman/) | 低公开曝光、组合型证据、允许赢家改变形状 | 高 | 1-5年/赢家延长 | 中 | 质量成长 / 基本面集中 | [Kensico Capital Management](/investor-masters/institutions/kensico-capital-management/) | 未公开 | “推断：当公开话语很少时，连续 13F 行为比漂亮叙事更重要。” |
 
 
 ## 全部投资人
@@ -69,6 +70,7 @@ description: "从人物、约束和边界切入理解不同投资方法。"
 - [比尔·米勒](/investor-masters/investors/bill-miller/)
 - [比尔·尼格伦](/investor-masters/investors/bill-nygren/)
 - [李·安斯利](/investor-masters/investors/lee-ainslie/)
+- [迈克尔·洛温斯坦与托马斯·科尔曼](/investor-masters/investors/michael-lowenstein-thomas-coleman/)
 - [大卫·艾因霍恩](/investor-masters/investors/david-einhorn/)
 - [尼克·特雷恩](/investor-masters/investors/nick-train/)
 - [特里·史密斯](/investor-masters/investors/terry-smith/)

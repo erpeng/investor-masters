@@ -106,7 +106,7 @@ description: "知道什么时候该把仓位做大的人。"
   >
   > “我的优势不在于智商，而在于扣扳机。”
   >
-  > ——来源：[接下来三到四年，我其实挺兴奋！“对冲大神”德鲁肯米勒罕见交流，细谈近年来的投资决策与如何扣扳机](/investor-masters/sources/source-81/)、[宏观判断主要来自公司经营本身！“对冲大神”德鲁肯米勒：机会大到一定程度时先参与再说，看好贝森特和沃什的“财政+货币”组合](/investor-masters/sources/source-75/)
+  > ——来源：[接下来三到四年，我其实挺兴奋！“对冲大神”德鲁肯米勒罕见交流，细谈近年来的投资决策与如何扣扳机](/investor-masters/sources/source-83/)、[宏观判断主要来自公司经营本身！“对冲大神”德鲁肯米勒：机会大到一定程度时先参与再说，看好贝森特和沃什的“财政+货币”组合](/investor-masters/sources/source-77/)
 
 **画像判断**
 
@@ -143,6 +143,6 @@ description: "知道什么时候该把仓位做大的人。"
 ## 主要来源
 
 - [Druckenmiller深度解析（附中英对照）](/investor-masters/sources/source-26/)
-- [接下来三到四年，我其实挺兴奋！“对冲大神”德鲁肯米勒罕见交流，细谈近年来的投资决策与如何扣扳机](/investor-masters/sources/source-81/)
-- [宏观判断主要来自公司经营本身！“对冲大神”德鲁肯米勒：机会大到一定程度时先参与再说，看好贝森特和沃什的“财政+货币”组合](/investor-masters/sources/source-75/)
+- [接下来三到四年，我其实挺兴奋！“对冲大神”德鲁肯米勒罕见交流，细谈近年来的投资决策与如何扣扳机](/investor-masters/sources/source-83/)
+- [宏观判断主要来自公司经营本身！“对冲大神”德鲁肯米勒：机会大到一定程度时先参与再说，看好贝森特和沃什的“财政+货币”组合](/investor-masters/sources/source-77/)
 - [Stanley Druckenmiller - Wikipedia](https://en.wikipedia.org/wiki/Stanley_Druckenmiller)

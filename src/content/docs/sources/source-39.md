@@ -1,17 +1,16 @@
 ---
-title: "Stanford GSB｜肯·格里芬：投资、竞争与未来"
+title: "SEC｜Kensico Capital Management：2023-2026 13F持仓轨迹"
 slug: "sources/source-39"
-description: "依据 Stanford GSB 公开文章页，整理 Ken Griffin 关于 winning、组织竞争与长期 ambition 的最新表达。"
+description: "原始材料来源页。"
 ---
 
-**原文件名**: `Stanford GSB｜肯·格里芬：投资、竞争与未来.md`  
-**外部来源**: https://www.gsb.stanford.edu/insights/ken-griffin-investing-winning-why-hes-focused-future
+**原文件名**: `SEC｜Kensico Capital Management：2023-2026 13F持仓轨迹.md`  
 
 
 ## 摘要
 
-依据 Stanford GSB 公开文章页，整理 Ken Griffin 关于 winning、组织竞争与长期 ambition 的最新表达。
+原始材料来源页。
 
 ## 节选
 
-> 整理说明： > Stanford GSB 当前公开页面提供的是节目摘要与部分关键引语，不是完整 transcript。本页只使用页面可见的明确表述。
+- SEC 13F information table：`KENSICO CAPITAL MANAGEMENT CORP`，CIK `0001113000` - 展示窗口：`2023Q1-2026Q1`，并用 `2022Q4` 计算 `2023Q1` 主动变化。

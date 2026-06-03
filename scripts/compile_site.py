@@ -63,6 +63,13 @@ INVESTOR_META = {
         "holdings": "行业多空、管理层研究",
         "methods": "行业专家制 / 长短仓 / 资本配置判断",
     },
+    "迈克尔·洛温斯坦与托马斯·科尔曼": {
+        "slug": "michael-lowenstein-thomas-coleman",
+        "tagline": "用低公开曝光和连续组合行为证明自己的 Kensico 核心人物。",
+        "institution": ("Kensico Capital Management", "institutions/kensico-capital-management"),
+        "holdings": "AppLovin、Howmet、FICO、Alphabet、Visa",
+        "methods": "低公开曝光 / 组合型证据 / 集中持仓",
+    },
     "大卫·艾因霍恩": {
         "slug": "david-einhorn",
         "tagline": "把反动量、会计审问与多空结构写进机构语言的人。",
@@ -332,6 +339,7 @@ INSTITUTION_META = {
     "Baupost Group": {"slug": "baupost-group"},
     "Himalaya Capital": {"slug": "himalaya-capital"},
     "H&H International Investment": {"slug": "h-h-international-investment"},
+    "Kensico Capital Management": {"slug": "kensico-capital-management"},
     "Lone Pine Capital": {"slug": "lone-pine-capital"},
     "Maverick Capital": {"slug": "maverick-capital"},
     "Third Point": {"slug": "third-point"},
@@ -432,6 +440,7 @@ DIALOGUE_SLUG_OVERRIDES = {
     "未来分布 vs 负债端现实": "future-distribution-vs-liability-reality",
     "放弃做空 vs 保留空头脑": "stop-shorting-vs-keep-a-short-mind",
     "好生意自己是催化剂 vs 价值需要被推动": "business-itself-vs-value-needs-pushing",
+    "访谈型方法论 vs 组合型证据": "interviews-vs-portfolio-evidence",
 }
 
 
@@ -744,6 +753,9 @@ def build_link_maps():
         elif src.stem == "13F趋势-Appaloosa":
             slug = "13f-trends-appaloosa"
             title = "13F 趋势 - Appaloosa"
+        elif src.stem == "13F趋势-Kensico":
+            slug = "13f-trends-kensico"
+            title = "13F 趋势 - Kensico"
         else:
             match = re.match(r"13F趋势-(\d{4})Q([1-4])$", src.stem)
             if not match:
@@ -1126,6 +1138,10 @@ def compile_institutions():
             title = "13F 趋势 - Appaloosa"
             slug = "13f-trends-appaloosa"
             description = "Appaloosa Management 从 2023Q1 到 2026Q1 的单机构 13F 持仓变化。"
+        elif stem == "13F趋势-Kensico":
+            title = "13F 趋势 - Kensico"
+            slug = "13f-trends-kensico"
+            description = "Kensico Capital Management 从 2023Q1 到 2026Q1 的单机构 13F 持仓变化。"
         else:
             match = re.match(r"13F趋势-(\d{4})Q([1-4])$", stem)
             if not match:

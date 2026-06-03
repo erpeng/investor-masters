@@ -33,11 +33,11 @@ Giverny 的核心哲学可以压成一句话：以企业所有者身份买入少
 
 - [Richer Wiser Happier｜弗朗索瓦·罗雄：精英中的精英](/investor-masters/sources/source-37/)：人物和方法总览。
 - [Compounding Quality｜弗朗索瓦·罗雄：所有者收益、错误榜单与质量投资](/investor-masters/sources/source-25/)：owner earnings、质量和错误复盘。
-- [Value Investor Insight｜弗朗索瓦·罗雄：Crème de la Crème](/investor-masters/sources/source-49/)：早期质量企业筛选和公司样本。
-- [Value Investor Insight｜弗朗索瓦·罗雄：Affordable Quality](/investor-masters/sources/source-48/)：合理价格下的质量投资。
-- [TWST｜弗朗索瓦·罗雄：耐心是价值投资的关键](/investor-masters/sources/source-42/)：耐心和长期所有者视角。
+- [Value Investor Insight｜弗朗索瓦·罗雄：Crème de la Crème](/investor-masters/sources/source-51/)：早期质量企业筛选和公司样本。
+- [Value Investor Insight｜弗朗索瓦·罗雄：Affordable Quality](/investor-masters/sources/source-50/)：合理价格下的质量投资。
+- [TWST｜弗朗索瓦·罗雄：耐心是价值投资的关键](/investor-masters/sources/source-44/)：耐心和长期所有者视角。
 - [Meb Faber｜弗朗索瓦·罗雄：耐心、谦逊与理性](/investor-masters/sources/source-33/)：近年访谈和错误文化。
-- [TIP｜弗朗索瓦·罗雄：AI驱动市场中的长期投资](/investor-masters/sources/source-41/)：AI 语境下仍回到 owner earnings。
+- [TIP｜弗朗索瓦·罗雄：AI驱动市场中的长期投资](/investor-masters/sources/source-43/)：AI 语境下仍回到 owner earnings。
 - [Giverny letters](https://givernycapital.com/en/letters-to-our-partners/)：年度信入口。
 
 ## 13F 持仓（近四个季度）

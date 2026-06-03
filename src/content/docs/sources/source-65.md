@@ -1,17 +1,17 @@
 ---
-title: "原文｜McKinsey｜李·安斯利：走进 Maverick Capital，传统多空基金如何研究企业"
+title: "原文｜Edison｜尼克·特雷恩：Lindsell Train 的长期持有方法"
 slug: "sources/source-65"
-description: "从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML（页面正文转录）。"
+description: "从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML。"
 ---
 
-**原文件名**: `原文｜McKinsey｜李·安斯利：走进 Maverick Capital，传统多空基金如何研究企业.md`  
-**外部来源**: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/inside-a-hedge-fund-an-interview-with-the-managing-partner-of-maverick-capital
+**原文件名**: `原文｜Edison｜尼克·特雷恩：Lindsell Train 的长期持有方法.md`  
+**外部来源**: https://www.edisongroup.com/edison-tv/lindsell-train-fund-manager-interview-with-nick-train/27489/
 
 
 ## 摘要
 
-从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML（页面正文转录）。
+从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML。
 
 ## 节选
 
-- 对应整理稿：[[现有资料/McKinsey｜李·安斯利：走进 Maverick Capital，传统多空基金如何研究企业.md]] - 抓取时间：`2026-04-20` - 抽取方式：`HTML` - 原始域名：`www.mckinsey.com` - 备注：站点命令行抓取长时间无响应，本存档依据公开可访问页面正文转录。
+- 对应整理稿：[[现有资料/Edison｜尼克·特雷恩：Lindsell Train 的长期持有方法.md]] - 抓取时间：`2026-04-20` - 抽取方式：`HTML` - 原始域名：`www.edisongroup.com`

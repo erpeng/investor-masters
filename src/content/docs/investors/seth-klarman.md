@@ -114,6 +114,6 @@ description: "把高现金、逆向纪律与耐心资本写成机构宪法的人
 
 ## 主要来源
 
-- [Value Investing with Legends｜塞思·卡拉曼：逆向纪律、耐心资本与 Baupost](/investor-masters/sources/source-47/)
+- [Value Investing with Legends｜塞思·卡拉曼：逆向纪律、耐心资本与 Baupost](/investor-masters/sources/source-49/)
 - [Harvard Business School｜塞思·卡拉曼：危机中的 Baupost 与价值纪律](/investor-masters/sources/source-29/)
-- [TIFF｜塞思·卡拉曼：价值投资问答节选](/investor-masters/sources/source-40/)
+- [TIFF｜塞思·卡拉曼：价值投资问答节选](/investor-masters/sources/source-42/)
