@@ -347,5 +347,5 @@ Fundsmith 是“一人即机构”的典型样本。若未来持续出现大幅�
 - [特里·史密斯](/investor-masters/investors/terry-smith/)
 - [Fundsmith](/investor-masters/institutions/fundsmith/)
 - [4万字对话｜72岁传奇投资人特里·史密斯详述一生，如何塑造自己的投资风格](/investor-masters/sources/source-09/)
-- [要足够重视糟糕管理的影响！“英国巴菲特”特里·史密斯最新持有人信，反思诺和诺德的投资](/investor-masters/sources/source-98/)
+- [要足够重视糟糕管理的影响！“英国巴菲特”特里·史密斯最新持有人信，反思诺和诺德的投资](/investor-masters/sources/source-110/)
 - [Fundsmith factsheet](https://www.fundsmith.co.uk/factsheet/)

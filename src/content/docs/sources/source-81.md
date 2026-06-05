@@ -1,18 +1,17 @@
 ---
-title: "执掌1.3万亿美元的尼古拉·坦根最新对话，揭秘全球最大主权财富基金的运营与理念"
+title: "原文｜Motley Fool｜大卫·艾因霍恩：透明度、监管失灵与揭弊式做空"
 slug: "sources/source-81"
-description: "高质量的投资很重要"
+description: "从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML。"
 ---
 
-**原文件名**: `执掌1.3万亿美元的尼古拉·坦根最新对话，揭秘全球最大主权财富基金的运营与理念.md`  
-**外部来源**: https://mp.weixin.qq.com/s?__biz=MzA4NTQ1MzEyNQ==&mid=2663487870&idx=1&sn=1846695e91bcf27d3f36e9081cbe80bc&scene=21&poc_token=HKUR2WmjxPQ_CzhXZZS1g9a55J0bOIxCA7QSK9ic
+**原文件名**: `原文｜Motley Fool｜大卫·艾因霍恩：透明度、监管失灵与揭弊式做空.md`  
+**外部来源**: https://www.fool.com/investing/general/2011/01/06/a-foolish-interview-with-david-einhorn.aspx
 
-**时间**: 2023年12月27日 15:00
 
 ## 摘要
 
-高质量的投资很重要
+从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML。
 
 ## 节选
 
-尼古拉·坦根（Nicolai Tangen）是挪威央行投资管理公司（Norges Bank Investment Management）的首席执行官，负责管理运营全球最大的主权财富基金—— 规模1.3万亿美元的挪威主权财富基金 。
+- 对应整理稿：[[现有资料/Motley Fool｜大卫·艾因霍恩：透明度、监管失灵与揭弊式做空.md]] - 抓取时间：`2026-04-20` - 抽取方式：`HTML` - 原始域名：`www.fool.com`

@@ -29,12 +29,15 @@ description: "护城河 在这批资料 里的最佳入口。"
 
 [弗朗索瓦·罗雄](/investor-masters/investors/francois-rochon/) 给护城河补了一层 owner earnings 约束：护城河不是漂亮叙事，而是企业能否长期把竞争优势转成真实所有者收益。对 Rochon 来说，管理层和文化也属于护城河的一部分，因为它们决定资本能否被理性再投资。
 
+[帕特·多尔西](/investor-masters/investors/pat-dorsey/) 则把护城河最容易被误用的地方挑了出来：护城河不是投资结论，只是第一道门。真正的问题是这家公司有没有足够长的再投资跑道，管理层能不能把资本投到高回报机会里，以及企业价值增长能不能变成股东价值增长。Dorsey 的版本很适合防止“好公司标签化”：高市场份额、技术热度、热门产品都不自动构成护城河；成熟但缺乏 runway 的好公司，也未必是好投资。
+
 ## 相关概念
 
 - [能力圈](/investor-masters/concepts/circle-of-competence/)
 - [质量模式](/investor-masters/concepts/quality-patterns/)
 - [所有者收益](/investor-masters/concepts/owners-earnings/)
 - [共享规模经济](/investor-masters/concepts/scale-economies-shared/)
+- [静态护城河 vs 再投资跑道](/investor-masters/dialogues/static-moat-vs-reinvestment-runway/)
 - [经常性收入](/investor-masters/concepts/recurring-revenues/)
 - [友好中介](/investor-masters/concepts/friendly-middlemen/)
 - [收费站型生意](/investor-masters/concepts/toll-roads/)
@@ -50,15 +53,18 @@ description: "护城河 在这批资料 里的最佳入口。"
 - [Berkshire Hathaway](/investor-masters/institutions/berkshire-hathaway/)
 - [Himalaya Capital](/investor-masters/institutions/himalaya-capital/)
 - [Giverny Capital](/investor-masters/institutions/giverny-capital/)
+- [Dorsey Asset Management](/investor-masters/institutions/dorsey-asset-management/)
 
 ## 主要来源
 
 - [2万字｜2008年芒格在加州理工与物理学家的罕见对谈，全程都是智慧四溅](/investor-masters/sources/source-07/)
 - [4万字对话｜72岁传奇投资人特里·史密斯详述一生，如何塑造自己的投资风格](/investor-masters/sources/source-09/)
-- [巴菲特亲自教授的一堂价值百万的MBA课程：如何在股市里赚大钱](/investor-masters/sources/source-80/)
+- [巴菲特亲自教授的一堂价值百万的MBA课程：如何在股市里赚大钱](/investor-masters/sources/source-92/)
 - [3.2万字｜潘兴广场比尔·阿克曼最有价值的一场对话，深谈价值投资、核心战役以及如何从人生谷底“爬坑”……](/investor-masters/sources/source-08/)
-- [“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-masters/sources/source-52/)
+- [“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-masters/sources/source-64/)
 - [2.7万字｜ “巴菲特女弟子”深度对话：真正懂资本配置的CEO，往往做决策更理性，也更能创造长期价值](/investor-masters/sources/source-04/)
 - [2021年李录与格林沃尔德深度对话：我们想投资的是那些可以在巨大不确定性中泰然处之的公司……](/investor-masters/sources/source-06/)
-- [李录亲述：为什么能拿住比亚迪23年？](/investor-masters/sources/source-88/)
-- [Value Investor Insight｜弗朗索瓦·罗雄：Crème de la Crème](/investor-masters/sources/source-51/)
+- [李录亲述：为什么能拿住比亚迪23年？](/investor-masters/sources/source-100/)
+- [Value Investor Insight｜弗朗索瓦·罗雄：Crème de la Crème](/investor-masters/sources/source-63/)
+- [Pat Dorsey｜Competitive Advantage and Capital Allocation 2026](/investor-masters/sources/source-42/)
+- [Pat Dorsey｜Manual of Ideas 护城河访谈组](/investor-masters/sources/source-43/)

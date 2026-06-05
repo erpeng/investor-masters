@@ -1,10 +1,11 @@
 ---
-title: "SEC｜Kensico Capital Management：2023-2026 13F持仓轨迹"
+title: "Meb Faber｜弗朗索瓦·罗雄：耐心、谦逊与理性"
 slug: "sources/source-39"
 description: "原始材料来源页。"
 ---
 
-**原文件名**: `SEC｜Kensico Capital Management：2023-2026 13F持仓轨迹.md`  
+**原文件名**: `Meb Faber｜弗朗索瓦·罗雄：耐心、谦逊与理性.md`  
+**外部来源**: The Meb Faber Show
 
 
 ## 摘要
@@ -13,4 +14,4 @@ description: "原始材料来源页。"
 
 ## 节选
 
-- SEC 13F information table：`KENSICO CAPITAL MANAGEMENT CORP`，CIK `0001113000` - 展示窗口：`2023Q1-2026Q1`，并用 `2022Q4` 计算 `2023Q1` 主动变化。
+这是近年访谈，价值在于把 Rochon 三十年业绩、错误复盘和性格纪律重新放到当前市场环境里。

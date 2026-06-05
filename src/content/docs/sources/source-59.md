@@ -1,17 +1,17 @@
 ---
-title: "关于耐心与杠杆！霍华德与摩根的最新对话：历史不会重演，但人类的行为却总是重复"
+title: "Third Point｜2024Q4 investor letter：第二层思维、事件驱动与跨资产框架"
 slug: "sources/source-59"
-description: "原始材料来源页。"
+description: "依据 Third Point 2024Q4 investor letter，整理 Dan Loeb 对第二层思维、跨资产配置、质量股与事件驱动并存的官方表达。"
 ---
 
-**原文件名**: `关于耐心与杠杆！霍华德与摩根的最新对话：历史不会重演，但人类的行为却总是重复.md`  
+**原文件名**: `Third Point｜2024Q4 investor letter：第二层思维、事件驱动与跨资产框架.md`  
+**外部来源**: https://assets.thirdpointlimited.com/f/166217/x/bc70b1b6dc/third-point-q4-2024-investor-letter_tpil.pdf
 
-**作者**: 摩根·豪塞尔是畅销书《金钱心理学》(The Psychology of Money)和《一如既往》(Same As Ever)的作者，也是Collaborative Fund的合伙人。  
 
 ## 摘要
 
-原始材料来源页。
+依据 Third Point 2024Q4 investor letter，整理 Dan Loeb 对第二层思维、跨资产配置、质量股与事件驱动并存的官方表达。
 
 ## 节选
 
-最近，橡树资本创始人霍华德·马克斯跟摩根·豪塞尔（Morgan Housel）做了一场对话。
+- `主角`：丹·勒布（Dan Loeb）/ Third Point - `场景`：`2024Q4` investor letter - `时间`：`2025-02-04` - `核心价值`：这封信是 Third Point 今天最像“官方方法说明书”的材料之一。它把 `event-driven + quality + idiosyncratic themes + second-order thinking + 跨资产` 放在同一页里。

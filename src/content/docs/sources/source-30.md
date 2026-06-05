@@ -1,17 +1,17 @@
 ---
-title: "J.P. Morgan｜AKO Capital：数据如何进入主观投资流程"
+title: "Compounding Quality｜弗朗索瓦·罗雄：所有者收益、错误榜单与质量投资"
 slug: "sources/source-30"
-description: "帕特里克·哈格里夫斯解释 AKO 的质量投资框架、五个专业团队、行为语言分析、数据反馈闭环与大语言模型使用边界。"
+description: "原始材料来源页。"
 ---
 
-**原文件名**: `J.P. Morgan｜AKO Capital：数据如何进入主观投资流程.md`  
-**外部来源**: https://www.jpmorgan.com/insights/podcast-hub/market-matters/trading-insights-ako-capital
+**原文件名**: `Compounding Quality｜弗朗索瓦·罗雄：所有者收益、错误榜单与质量投资.md`  
+**外部来源**: Compounding Quality
 
 
 ## 摘要
 
-帕特里克·哈格里夫斯解释 AKO 的质量投资框架、五个专业团队、行为语言分析、数据反馈闭环与大语言模型使用边界。
+原始材料来源页。
 
 ## 节选
 
-> 整理说明： > 本页依据 J.P. Morgan 页面公开逐字稿清理整理。 > 重点保留对 AKO 机构哲学、组织流程、研究工具与判断边界最有价值的内容，不追求逐字还原全部口语重复。
+这篇访谈最适合补 Rochon 的方法细节：他怎样定义好公司、怎样用所有者收益替代会计利润、怎样区分买错和错过，以及为什么长期复利需要性格保护。

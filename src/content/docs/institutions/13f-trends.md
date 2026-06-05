@@ -23,7 +23,9 @@ description: "把机构 13F 按季度横向拉齐，观察跨机构持仓趋势�
 
 ## 单机构专题
 
+- [Coatue Management：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-coatue/)
 - [Kensico Capital Management：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-kensico/)
+- [Dorsey Asset Management：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-dorsey/)
 - [Oakmark / Harris Associates：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-oakmark/)
 - [Maverick Capital：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-maverick/)
 - [Pershing Square：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-pershing/)

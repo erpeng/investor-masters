@@ -1,17 +1,19 @@
 ---
-title: "原文｜S&P Global｜肯·格里芬：Citadel、AI 与独立思考"
+title: "全世界最懂AI的金融人，是怎么管理投资的？——看桥水“务实派”如何警示未来 （下） | 泉果探照灯"
 slug: "sources/source-70"
-description: "从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML（全文 transcript 转录）。"
+description: "当你围绕“机器人是什么”去重新设计流程，效率的提升才真正爆发。"
 ---
 
-**原文件名**: `原文｜S&P Global｜肯·格里芬：Citadel、AI 与独立思考.md`  
-**外部来源**: https://www.spglobal.com/en/research-insights/podcasts/leaders/ken-griffin-on-building-citadel-ai-and-independent-thinking
+**原文件名**: `全世界最懂AI的金融人，是怎么管理投资的？——看桥水“务实派”如何警示未来 （下）  泉果探照灯.md`  
+**外部来源**: https://mp.weixin.qq.com/s/MSuAm2bmVTLy1jEYeLwmMQ
 
+**作者**: 原创 泉果探照灯  
+**时间**: 2025年12月24日 11:29
 
 ## 摘要
 
-从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML（全文 transcript 转录）。
+当你围绕“机器人是什么”去重新设计流程，效率的提升才真正爆发。
 
 ## 节选
 
-- 对应整理稿：[[现有资料/S&P Global｜肯·格里芬：Citadel、AI 与独立思考.md]] - 抓取时间：`2026-04-20` - 抽取方式：`HTML` - 原始域名：`www.spglobal.com` - 备注：命令行抓取返回错误页，本存档依据公开可访问页面的 `View Full Transcript` 全文转录。
+在前两期【泉果探照灯】中，我们分享了桥水基金首席投资官Greg Jensen关于对未来资本市场一定要“分散投资”的警示，以及他的决策基础和逻辑推演过程。

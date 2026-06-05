@@ -1,17 +1,17 @@
 ---
-title: "Stanford GSB｜肯·格里芬：投资、竞争与未来"
+title: "Motley Fool｜大卫·艾因霍恩：透明度、监管失灵与揭弊式做空"
 slug: "sources/source-41"
-description: "依据 Stanford GSB 公开文章页，整理 Ken Griffin 关于 winning、组织竞争与长期 ambition 的最新表达。"
+description: "依据 Motley Fool 对谈，整理大卫·艾因霍恩关于 Allied、SEC、卖方偏见、评级机构与金融体系结构性失灵的判断。"
 ---
 
-**原文件名**: `Stanford GSB｜肯·格里芬：投资、竞争与未来.md`  
-**外部来源**: https://www.gsb.stanford.edu/insights/ken-griffin-investing-winning-why-hes-focused-future
+**原文件名**: `Motley Fool｜大卫·艾因霍恩：透明度、监管失灵与揭弊式做空.md`  
+**外部来源**: https://www.fool.com/investing/general/2011/01/06/a-foolish-interview-with-david-einhorn.aspx
 
 
 ## 摘要
 
-依据 Stanford GSB 公开文章页，整理 Ken Griffin 关于 winning、组织竞争与长期 ambition 的最新表达。
+依据 Motley Fool 对谈，整理大卫·艾因霍恩关于 Allied、SEC、卖方偏见、评级机构与金融体系结构性失灵的判断。
 
 ## 节选
 
-> 整理说明： > Stanford GSB 当前公开页面提供的是节目摘要与部分关键引语，不是完整 transcript。本页只使用页面可见的明确表述。
+> 整理说明： > 本页依据 Motley Fool 公开采访原文整理。重点不是重复 Allied 历史，而是提炼艾因霍恩最鲜明的 `forensic investing` 气质：怀疑 gatekeepers、重透明度、把制度失灵也纳入研究。

@@ -1,17 +1,17 @@
 ---
-title: "Richer Wiser Happier｜弗朗索瓦·罗雄：精英中的精英"
+title: "Joys of Compounding｜史蒂芬·曼德尔：来自 Lone Pine 的经验课"
 slug: "sources/source-37"
-description: "原始材料来源页。"
+description: "史蒂芬·曼德尔回顾 Lone Pine 的创立、文化、领导力、人才培养与长期 alpha 的来源。"
 ---
 
-**原文件名**: `Richer Wiser Happier｜弗朗索瓦·罗雄：精英中的精英.md`  
-**外部来源**: Richer Wiser Happier / The Investor's Podcast Network
+**原文件名**: `Joys of Compounding｜史蒂芬·曼德尔：来自 Lone Pine 的经验课.md`  
+**外部来源**: https://colossus.com/episode/lessons-from-steve-mandel/
 
 
 ## 摘要
 
-原始材料来源页。
+史蒂芬·曼德尔回顾 Lone Pine 的创立、文化、领导力、人才培养与长期 alpha 的来源。
 
 ## 节选
 
-这是 [[investors/弗朗索瓦·罗雄]] 最适合进入人物页的长访谈入口。它不是单一股票 pitch，而是把 Rochon 的长期复利观、错误观、性格约束和 Giverny 的年报文化放在同一个语境里。
+> 整理说明： > 本页依据 Colossus 官方节目页、Apple Podcasts 官方页面与公开可见 show notes 整理而成。 > 官方完整 transcript 当前需要登录可见，因此本页不是官方完整逐字稿，而是基于官方音频元信息、官方 show notes 与公开简介的审校整理版。

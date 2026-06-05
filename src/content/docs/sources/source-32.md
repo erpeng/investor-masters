@@ -1,17 +1,19 @@
 ---
-title: "McKinsey｜李·安斯利：走进 Maverick Capital，传统多空基金如何研究企业"
+title: "Druckenmiller深度解析（附中英对照）"
 slug: "sources/source-32"
-description: "李·安斯利解释 Maverick 如何用行业专家制、长期基本面研究、管理层判断和建设性关系管理来做传统多空投资。"
+description: "融合11次历史采访与13F持仓数据，还原传奇宏观交易员的思维全景。从Nvidia到Teva，从sizing到逆向投资。"
 ---
 
-**原文件名**: `McKinsey｜李·安斯利：走进 Maverick Capital，传统多空基金如何研究企业.md`  
-**外部来源**: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/inside-a-hedge-fund-an-interview-with-the-managing-partner-of-maverick-capital
+**原文件名**: `Druckenmiller深度解析（附中英对照）.md`  
+**外部来源**: https://mp.weixin.qq.com/s/WPjWSKR8KEY-Fi4bZ0ywfQ
 
+**作者**: 原创 LIQUIDITY NOTES  
+**时间**: 2026年2月28日 09:33
 
 ## 摘要
 
-李·安斯利解释 Maverick 如何用行业专家制、长期基本面研究、管理层判断和建设性关系管理来做传统多空投资。
+融合11次历史采访与13F持仓数据，还原传奇宏观交易员的思维全景。从Nvidia到Teva，从sizing到逆向投资。
 
 ## 节选
 
-> 整理说明： > 本页依据 McKinsey 官方访谈原文整理，重点保留对 Maverick 研究组织、管理层判断、资本配置、透明度与长短仓关系最有价值的段落。
+我选一个可能会让你意外的，因为它一点也不性感，跟AI什么的都没关系，但我觉得它很好地体现了我们Duquesne的投资流程。

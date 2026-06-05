@@ -1,17 +1,17 @@
 ---
-title: "Meb Faber｜弗朗索瓦·罗雄：耐心、谦逊与理性"
+title: "Edison｜尼克·特雷恩：Lindsell Train 的长期持有方法"
 slug: "sources/source-33"
-description: "原始材料来源页。"
+description: "依据 Edison 节目简介，整理 Nick Train 关于管理层质量、长期与短期、run winners、利益一致与 succession 的公开表达。"
 ---
 
-**原文件名**: `Meb Faber｜弗朗索瓦·罗雄：耐心、谦逊与理性.md`  
-**外部来源**: The Meb Faber Show
+**原文件名**: `Edison｜尼克·特雷恩：Lindsell Train 的长期持有方法.md`  
+**外部来源**: https://www.edisongroup.com/edison-tv/lindsell-train-fund-manager-interview-with-nick-train/27489/
 
 
 ## 摘要
 
-原始材料来源页。
+依据 Edison 节目简介，整理 Nick Train 关于管理层质量、长期与短期、run winners、利益一致与 succession 的公开表达。
 
 ## 节选
 
-这是近年访谈，价值在于把 Rochon 三十年业绩、错误复盘和性格纪律重新放到当前市场环境里。
+> 整理说明： > Edison 页面当前公开的是节目简介与 topics 列表，而不是完整 transcript。本页只整理页面明确给出的讨论范围。

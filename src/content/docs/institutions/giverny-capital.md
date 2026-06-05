@@ -31,13 +31,13 @@ Giverny 的核心哲学可以压成一句话：以企业所有者身份买入少
 
 ## 标志性公开材料
 
-- [Richer Wiser Happier｜弗朗索瓦·罗雄：精英中的精英](/investor-masters/sources/source-37/)：人物和方法总览。
-- [Compounding Quality｜弗朗索瓦·罗雄：所有者收益、错误榜单与质量投资](/investor-masters/sources/source-25/)：owner earnings、质量和错误复盘。
-- [Value Investor Insight｜弗朗索瓦·罗雄：Crème de la Crème](/investor-masters/sources/source-51/)：早期质量企业筛选和公司样本。
-- [Value Investor Insight｜弗朗索瓦·罗雄：Affordable Quality](/investor-masters/sources/source-50/)：合理价格下的质量投资。
-- [TWST｜弗朗索瓦·罗雄：耐心是价值投资的关键](/investor-masters/sources/source-44/)：耐心和长期所有者视角。
-- [Meb Faber｜弗朗索瓦·罗雄：耐心、谦逊与理性](/investor-masters/sources/source-33/)：近年访谈和错误文化。
-- [TIP｜弗朗索瓦·罗雄：AI驱动市场中的长期投资](/investor-masters/sources/source-43/)：AI 语境下仍回到 owner earnings。
+- [Richer Wiser Happier｜弗朗索瓦·罗雄：精英中的精英](/investor-masters/sources/source-46/)：人物和方法总览。
+- [Compounding Quality｜弗朗索瓦·罗雄：所有者收益、错误榜单与质量投资](/investor-masters/sources/source-30/)：owner earnings、质量和错误复盘。
+- [Value Investor Insight｜弗朗索瓦·罗雄：Crème de la Crème](/investor-masters/sources/source-63/)：早期质量企业筛选和公司样本。
+- [Value Investor Insight｜弗朗索瓦·罗雄：Affordable Quality](/investor-masters/sources/source-62/)：合理价格下的质量投资。
+- [TWST｜弗朗索瓦·罗雄：耐心是价值投资的关键](/investor-masters/sources/source-56/)：耐心和长期所有者视角。
+- [Meb Faber｜弗朗索瓦·罗雄：耐心、谦逊与理性](/investor-masters/sources/source-39/)：近年访谈和错误文化。
+- [TIP｜弗朗索瓦·罗雄：AI驱动市场中的长期投资](/investor-masters/sources/source-55/)：AI 语境下仍回到 owner earnings。
 - [Giverny letters](https://givernycapital.com/en/letters-to-our-partners/)：年度信入口。
 
 ## 13F 持仓（近四个季度）
@@ -131,8 +131,8 @@ Giverny 最大的机构问题，是 Rochon 个人判断和机构制度之间的�
 ## 主要来源
 
 - [弗朗索瓦·罗雄](/investor-masters/investors/francois-rochon/)
-- [Richer Wiser Happier｜弗朗索瓦·罗雄：精英中的精英](/investor-masters/sources/source-37/)
-- [Compounding Quality｜弗朗索瓦·罗雄：所有者收益、错误榜单与质量投资](/investor-masters/sources/source-25/)
+- [Richer Wiser Happier｜弗朗索瓦·罗雄：精英中的精英](/investor-masters/sources/source-46/)
+- [Compounding Quality｜弗朗索瓦·罗雄：所有者收益、错误榜单与质量投资](/investor-masters/sources/source-30/)
 - [Giverny Capital: About Us](https://givernycapital.com/en/about-us/)
 - [Giverny Capital: François Rochon](https://givernycapital.com/en/our-team/francois-rochon/)
 - [Giverny Capital: Letters](https://givernycapital.com/en/letters-to-our-partners/)

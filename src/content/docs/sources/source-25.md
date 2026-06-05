@@ -1,11 +1,10 @@
 ---
-title: "Compounding Quality｜弗朗索瓦·罗雄：所有者收益、错误榜单与质量投资"
+title: "Coatue｜Philippe Laffont：CNBC 2025 AI与Fantastic 40访谈"
 slug: "sources/source-25"
 description: "原始材料来源页。"
 ---
 
-**原文件名**: `Compounding Quality｜弗朗索瓦·罗雄：所有者收益、错误榜单与质量投资.md`  
-**外部来源**: Compounding Quality
+**原文件名**: `Coatue｜Philippe Laffont：CNBC 2025 AI与Fantastic 40访谈.md`  
 
 
 ## 摘要
@@ -14,4 +13,4 @@ description: "原始材料来源页。"
 
 ## 节选
 
-这篇访谈最适合补 Rochon 的方法细节：他怎样定义好公司、怎样用所有者收益替代会计利润、怎样区分买错和错过，以及为什么长期复利需要性格保护。
+这条官方转载材料承担 Philippe Laffont 近年公开方法口径：AI 不是孤立主题，而是重写软件、基础设施、生产率和企业竞争格局的长期变化。

@@ -33,8 +33,8 @@ Himalaya 的机构哲学几乎可以直接压成四个词：`business owners / m
 ## 标志性公开材料
 
 - [2021年李录与格林沃尔德深度对话：我们想投资的是那些可以在巨大不确定性中泰然处之的公司……](/investor-masters/sources/source-06/)：理解李录方法主线的核心材料。
-- [李录亲述：为什么能拿住比亚迪23年？](/investor-masters/sources/source-88/)：理解机构如何把长期所有者逻辑落到具体公司上的最好样本。
-- [李录最新交流剖析新秩序：通过“四两拨千斤”，中国还可以释放很多改革红利……](/investor-masters/sources/source-89/)：理解李录如何把资本市场与制度环境纳入投资框架。
+- [李录亲述：为什么能拿住比亚迪23年？](/investor-masters/sources/source-100/)：理解机构如何把长期所有者逻辑落到具体公司上的最好样本。
+- [李录最新交流剖析新秩序：通过“四两拨千斤”，中国还可以释放很多改革红利……](/investor-masters/sources/source-101/)：理解李录如何把资本市场与制度环境纳入投资框架。
 - [Himalaya Capital 官方简介](https://www.himcap.com/)：机构自我描述最直接的来源。
 
 ## 13F 持仓（近四个季度）

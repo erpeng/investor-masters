@@ -24,7 +24,7 @@ description: "把投资理解成情报学与组织训练的人。"
 
 > “如果你能问得好，问得准，做好准备，你就能从对方那里获取别人得不到的信息。”
 >
-> ——来源：[一名“特工”的“投资情报学”，和他掌管的全球最大的钱袋子｜泉果探照灯](/investor-masters/sources/source-54/)
+> ——来源：[一名“特工”的“投资情报学”，和他掌管的全球最大的钱袋子｜泉果探照灯](/investor-masters/sources/source-66/)
 
 > “它最开始是一家专做中盘股深度研究的机构……后来越来越转向质量投资。”
 >
@@ -76,7 +76,7 @@ description: "把投资理解成情报学与组织训练的人。"
   >
   > “好公司……总会做出一些了不起的事，总能变出点出人意料的东西。”
   >
-  > ——来源：[一名“特工”的“投资情报学”，和他掌管的全球最大的钱袋子｜泉果探照灯](/investor-masters/sources/source-54/)、[Capital Allocators｜尼科莱·坦根：掌管全球最大主权财富基金](/investor-masters/sources/source-22/)
+  > ——来源：[一名“特工”的“投资情报学”，和他掌管的全球最大的钱袋子｜泉果探照灯](/investor-masters/sources/source-66/)、[Capital Allocators｜尼科莱·坦根：掌管全球最大主权财富基金](/investor-masters/sources/source-22/)
 
 - `最爱把问题压回哪一层`：他会把问题压回 `你到底凭什么知道这是真的`，以及 `这个组织是不是把正确的训练和反馈写进流程了`。
 
@@ -84,7 +84,7 @@ description: "把投资理解成情报学与组织训练的人。"
   >
   > “流程存在的目的，是阻止我们犯下大错。”
   >
-  > ——来源：[一名“特工”的“投资情报学”，和他掌管的全球最大的钱袋子｜泉果探照灯](/investor-masters/sources/source-54/)、[J.P. Morgan｜AKO Capital：数据如何进入主观投资流程](/investor-masters/sources/source-30/)
+  > ——来源：[一名“特工”的“投资情报学”，和他掌管的全球最大的钱袋子｜泉果探照灯](/investor-masters/sources/source-66/)、[J.P. Morgan｜AKO Capital：数据如何进入主观投资流程](/investor-masters/sources/source-36/)
 
 - `在哪类问题上更兴奋、更具体`：他一谈到研究训练、企业文化、客户、风险承担和组织设计，就会明显变具体。
 
@@ -100,7 +100,7 @@ description: "把投资理解成情报学与组织训练的人。"
   >
   > “这只基金的风险承担是高度分层授权的。”
   >
-  > ——来源：[一名“特工”的“投资情报学”，和他掌管的全球最大的钱袋子｜泉果探照灯](/investor-masters/sources/source-54/)、[Capital Allocators｜尼科莱·坦根：掌管全球最大主权财富基金](/investor-masters/sources/source-22/)
+  > ——来源：[一名“特工”的“投资情报学”，和他掌管的全球最大的钱袋子｜泉果探照灯](/investor-masters/sources/source-66/)、[Capital Allocators｜尼科莱·坦根：掌管全球最大主权财富基金](/investor-masters/sources/source-22/)
 
 - `怎么谈错误`：谈错误时不像自责型经理，更像训练官。他更关心如何把错误翻译成下一次决策的约束。
 
@@ -114,7 +114,7 @@ description: "把投资理解成情报学与组织训练的人。"
   >
   > “他们想谈的是企业文化。”
   >
-  > ——来源：[执掌1.3万亿美元的尼古拉·坦根最新对话，揭秘全球最大主权财富基金的运营与理念](/investor-masters/sources/source-81/)、[Capital Allocators｜尼科莱·坦根：掌管全球最大主权财富基金](/investor-masters/sources/source-22/)
+  > ——来源：[执掌1.3万亿美元的尼古拉·坦根最新对话，揭秘全球最大主权财富基金的运营与理念](/investor-masters/sources/source-93/)、[Capital Allocators｜尼科莱·坦根：掌管全球最大主权财富基金](/investor-masters/sources/source-22/)
 
 - `怎么谈时间`：他对时间的理解有两层。一层是质量投资必须让复利有时间兑现；另一层是人生和组织都要不断进入新的学习曲线。
 
@@ -122,7 +122,7 @@ description: "把投资理解成情报学与组织训练的人。"
   >
   > “人生很短，我们需要继续学习。”
   >
-  > ——来源：[J.P. Morgan｜AKO Capital：数据如何进入主观投资流程](/investor-masters/sources/source-30/)、[Capital Allocators｜尼科莱·坦根：掌管全球最大主权财富基金](/investor-masters/sources/source-22/)
+  > ——来源：[J.P. Morgan｜AKO Capital：数据如何进入主观投资流程](/investor-masters/sources/source-36/)、[Capital Allocators｜尼科莱·坦根：掌管全球最大主权财富基金](/investor-masters/sources/source-22/)
 
 - `回答姿态`：他既像采访官，也像搭建者。问别人时锋利，讲自己时又不断回到文化、流程和训练。
 
@@ -160,10 +160,10 @@ description: "把投资理解成情报学与组织训练的人。"
 
 ## 主要来源
 
-- [一名“特工”的“投资情报学”，和他掌管的全球最大的钱袋子｜泉果探照灯](/investor-masters/sources/source-54/)
-- [执掌1.3万亿美元的尼古拉·坦根最新对话，揭秘全球最大主权财富基金的运营与理念](/investor-masters/sources/source-81/)
+- [一名“特工”的“投资情报学”，和他掌管的全球最大的钱袋子｜泉果探照灯](/investor-masters/sources/source-66/)
+- [执掌1.3万亿美元的尼古拉·坦根最新对话，揭秘全球最大主权财富基金的运营与理念](/investor-masters/sources/source-93/)
 - [Capital Allocators｜尼科莱·坦根：掌管全球最大主权财富基金](/investor-masters/sources/source-22/)
-- [最新对话！霍华德·马克斯vs最大主权基金掌门：如何判断决策的质量](/investor-masters/sources/source-86/)
+- [最新对话！霍华德·马克斯vs最大主权基金掌门：如何判断决策的质量](/investor-masters/sources/source-98/)
 - [AKO Capital](/investor-masters/institutions/ako-capital/)
 - [Norges Bank IM 官方简介](https://www.nbim.no/en/the-fund/news-list/2020/nicolai-tangen-appointed-chief-executive-officer-of-norges-bank-investment-management/)
 - [Nicolai Tangen - Wikipedia](https://en.wikipedia.org/wiki/Nicolai_Tangen)

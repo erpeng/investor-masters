@@ -1,19 +1,17 @@
 ---
-title: "宝藏对话！斯坦·德鲁肯米勒vs斯科特·贝森特，宏观分析方法、美国“政治熊市”、贸易战与比特币无所不谈……"
+title: "原文｜Harvard Business School｜塞思·卡拉曼：危机中的 Baupost 与价值纪律"
 slug: "sources/source-78"
-description: "“我职业生涯里70%的钱都是靠债券和货币交易赚来的”"
+description: "从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML。"
 ---
 
-**原文件名**: `宝藏对话！斯坦·德鲁肯米勒vs斯科特·贝森特，宏观分析方法、美国“政治熊市”、贸易战与比特币无所不谈…….md`  
-**外部来源**: https://mp.weixin.qq.com/s/RaR1EEXiMH3QFzU2LHPuJg
+**原文件名**: `原文｜Harvard Business School｜塞思·卡拉曼：危机中的 Baupost 与价值纪律.md`  
+**外部来源**: https://www.marketfolly.com/2008/12/interview-with-seth-klarman-of-baupost.html
 
-**作者**: 过去60天上传到YouTube的原创内容，已经超过了电视行业过去60年的总和；  
-**时间**: 2025年7月1日 15:01
 
 ## 摘要
 
-“我职业生涯里70%的钱都是靠债券和货币交易赚来的”
+从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML。
 
 ## 节选
 
-这是斯坦·德鲁肯米勒（Stan Druckenmiller）在2019年一场小型闭门交流中半开玩笑地说的一句话。话音落地，台下笑声一片。
+- 对应整理稿：[[现有资料/Harvard Business School｜塞思·卡拉曼：危机中的 Baupost 与价值纪律.md]] - 抓取时间：`2026-04-20` - 抽取方式：`HTML` - 原始域名：`www.marketfolly.com`

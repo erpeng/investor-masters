@@ -1,17 +1,19 @@
 ---
-title: "原文｜CNBC｜肯·格里芬：Citadel 总部首场电视长访谈"
+title: "“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则"
 slug: "sources/source-64"
-description: "从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML。"
+description: "在普通股中寻找价值"
 ---
 
-**原文件名**: `原文｜CNBC｜肯·格里芬：Citadel 总部首场电视长访谈.md`  
-**外部来源**: https://www.cnbc.com/2015/11/19/cnbc-exclusive-cnbc-transcript-citadel-founder-ceo-ken-griffin-speaks-with-cnbcs-kate-kelly-on-squawk-on-the-street-today.html
+**原文件名**: `“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则.md`  
+**外部来源**: https://mp.weixin.qq.com/s/Rltex4fozpUHwk-d29Trng
 
+**作者**: 原创 聪明投资者  
+**时间**: 2025年7月8日 15:01
 
 ## 摘要
 
-从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML。
+在普通股中寻找价值
 
 ## 节选
 
-- 对应整理稿：[[现有资料/CNBC｜肯·格里芬：Citadel 总部首场电视长访谈.md]] - 抓取时间：`2026-04-20` - 抽取方式：`HTML` - 原始域名：`www.cnbc.com`
+担任首席执行官的经历让我更加深刻地体会到企业领导者所面临的关键挑战，那便是如何在短期需求与长期目标之间找到平衡点。

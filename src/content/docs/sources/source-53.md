@@ -1,18 +1,17 @@
 ---
-title: "“打孔机”只打了不到10个孔！段永平与方三文最新对话，详解“投资中如何真正算看懂”……"
+title: "Stanford GSB｜肯·格里芬：投资、竞争与未来"
 slug: "sources/source-53"
-description: "畅聊苹果、英伟达、伯克希尔、拼多多……"
+description: "依据 Stanford GSB 公开文章页，整理 Ken Griffin 关于 winning、组织竞争与长期 ambition 的最新表达。"
 ---
 
-**原文件名**: `“打孔机”只打了不到10个孔！段永平与方三文最新对话，详解“投资中如何真正算看懂”…….md`  
-**外部来源**: https://mp.weixin.qq.com/s/yREiBYnmeWhn5kuOtQZn3w
+**原文件名**: `Stanford GSB｜肯·格里芬：投资、竞争与未来.md`  
+**外部来源**: https://www.gsb.stanford.edu/insights/ken-griffin-investing-winning-why-hes-focused-future
 
-**时间**: 2025年11月11日 19:10
 
 ## 摘要
 
-畅聊苹果、英伟达、伯克希尔、拼多多……
+依据 Stanford GSB 公开文章页，整理 Ken Griffin 关于 winning、组织竞争与长期 ambition 的最新表达。
 
 ## 节选
 
-“人们关心的是我们做过什么，其实 我们之所以成为我们，很大的原因是因为我们不做的那些事情。”
+> 整理说明： > Stanford GSB 当前公开页面提供的是节目摘要与部分关键引语，不是完整 transcript。本页只使用页面可见的明确表述。

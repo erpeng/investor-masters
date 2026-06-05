@@ -34,6 +34,7 @@ description: "从人物、约束和边界切入理解不同投资方法。"
 | [大卫·艾因霍恩](/investor-masters/investors/david-einhorn/) | 反动量、会计审问、多空结构 | 高 | 1-5年 | 中 | 经典价值 / long-short | [Greenlight Capital](/investor-masters/institutions/greenlight-capital/) | 未公开 | “他对市场采取的是一种反动量的方法。” |
 | [尼克·特雷恩](/investor-masters/investors/nick-train/) | 慢买入、长持有、特许经营 | 极高 | 5年+/永久 | 低 | 质量价值 | [Lindsell Train](/investor-masters/institutions/lindsell-train/) | 约 10.5%（[Finsbury 官方 factsheet](https://www.finsburygt.com/download_file/force/326/1)） | “他和 Lindsell 最认同、也最适合自己的方法，是巴菲特式的‘慢买入、长持有’视角。” |
 | [特里·史密斯](/investor-masters/investors/terry-smith/) | 高质量复利、少犯错 | 高 | 5年+ | 低 | 质量价值 | [Fundsmith](/investor-masters/institutions/fundsmith/) | 约 13.5%（[Fundsmith 官方 factsheet](https://www.fundsmith.co.uk/factsheet/)） | “所有汽车公司都是坏公司，没有例外。” |
+| [帕特·多尔西](/investor-masters/investors/pat-dorsey/) | 护城河、再投资跑道、资本配置 | 高 | 3-5年/5年+ | 低 | 质量价值 | [Dorsey Asset Management](/investor-masters/institutions/dorsey-asset-management/) | 未公开 | “推断：护城河不是终点，必须接上 runway 和 capital allocation。” |
 | [弗朗索瓦·罗雄](/investor-masters/investors/francois-rochon/) | 所有者收益、高质量企业、错误复盘 | 高 | 5年+/永久 | 低 | 质量价值 | [Giverny Capital](/investor-masters/institutions/giverny-capital/) | 未公开 | “推断：长期优势来自理性、谦逊、耐心和 owner earnings 复利。” |
 | [段永平](/investor-masters/investors/duan-yongping/) | 本分、看懂、长期主义 | 极高 | 5年+/永久 | 低 | 质量价值 | 独立 | 未公开 | “Stop Doing List没有short cut（捷径）。” |
 | [詹姆斯·安德森](/investor-masters/investors/james-anderson/) | 理解变化、超级赢家 | 高 | 5年+ | 中 | 成长 | [Baillie Gifford](/investor-masters/institutions/baillie-gifford/) / SMT | 未公开 | “伟大的公司各有各的独特，平庸的公司却都差不多。” |
@@ -60,6 +61,7 @@ description: "从人物、约束和边界切入理解不同投资方法。"
 | [塞思·卡拉曼](/investor-masters/investors/seth-klarman/) | 风险优先、耐心资本、跨资产价值 | 中高 | 1-5年/5年+ | 中高 | 深度价值 / 特殊情境 | [Baupost Group](/investor-masters/institutions/baupost-group/) | 约 19.0%（[Bloomberg 人物报道](https://www.bloomberg.com/news/articles/2010-06-17/the-financial-life-seth-klarman)） | “我们认为把回报目标当成硬指标，本身就是一种疯狂。” |
 | [纳瓦尔·拉维坎特](/investor-masters/investors/naval-ravikant/) | 知识、判断力、品味 | 中 | 5年+ | 中 | 创业投资 / 成长 | 独立 / 创业者投资人 | 未公开 | “到了某个阶段，你的判断力已经强到你根本解释不出来了。那时候，它就叫‘品味’。” |
 | [迈克尔·洛温斯坦与托马斯·科尔曼](/investor-masters/investors/michael-lowenstein-thomas-coleman/) | 低公开曝光、组合型证据、允许赢家改变形状 | 高 | 1-5年/赢家延长 | 中 | 质量成长 / 基本面集中 | [Kensico Capital Management](/investor-masters/institutions/kensico-capital-management/) | 未公开 | “推断：当公开话语很少时，连续 13F 行为比漂亮叙事更重要。” |
+| [菲利普·拉丰](/investor-masters/investors/philippe-laffont/) | 公私一体科技投资、AI stack、Tiger Cub 成长研究 | 高 | 1-5年/跨阶段 | 中高 | 成长 / 科技 / 公私一体 | [Coatue Management](/investor-masters/institutions/coatue-management/) | 部分公开 | “推断：技术变化要同时被私募网络、公开市场仓位和价值链瓶颈验证。” |
 
 
 ## 全部投资人
@@ -74,6 +76,8 @@ description: "从人物、约束和边界切入理解不同投资方法。"
 - [大卫·艾因霍恩](/investor-masters/investors/david-einhorn/)
 - [尼克·特雷恩](/investor-masters/investors/nick-train/)
 - [特里·史密斯](/investor-masters/investors/terry-smith/)
+- [帕特·多尔西](/investor-masters/investors/pat-dorsey/)
+- [菲利普·拉丰](/investor-masters/investors/philippe-laffont/)
 - [弗朗索瓦·罗雄](/investor-masters/investors/francois-rochon/)
 - [段永平](/investor-masters/investors/duan-yongping/)
 - [詹姆斯·安德森](/investor-masters/investors/james-anderson/)

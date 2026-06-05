@@ -1,17 +1,19 @@
 ---
-title: "原文｜McKinsey｜李·安斯利：走进 Maverick Capital，传统多空基金如何研究企业"
+title: "一家低调的传奇机构，“黏住”亚马逊、开市客、伯克希尔大赚特赚"
 slug: "sources/source-67"
-description: "从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML（页面正文转录）。"
+description: "游牧人基金的历史，也是一部美妙的投资史"
 ---
 
-**原文件名**: `原文｜McKinsey｜李·安斯利：走进 Maverick Capital，传统多空基金如何研究企业.md`  
-**外部来源**: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/inside-a-hedge-fund-an-interview-with-the-managing-partner-of-maverick-capital
+**原文件名**: `一家低调的传奇机构，“黏住”亚马逊、开市客、伯克希尔大赚特赚.md`  
+**外部来源**: https://mp.weixin.qq.com/s/r8dgjM1KrUtT9yC9L5fZUg
 
+**作者**: 原创 伊娜  
+**时间**: 2023年8月14日 15:01
 
 ## 摘要
 
-从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML（页面正文转录）。
+游牧人基金的历史，也是一部美妙的投资史
 
 ## 节选
 
-- 对应整理稿：[[现有资料/McKinsey｜李·安斯利：走进 Maverick Capital，传统多空基金如何研究企业.md]] - 抓取时间：`2026-04-20` - 抽取方式：`HTML` - 原始域名：`www.mckinsey.com` - 备注：站点命令行抓取长时间无响应，本存档依据公开可访问页面正文转录。
+二季度亚马逊业绩大超预期。8月3日，亚马逊交出了FAAMG中最亮眼的二季报：期内营收1344亿美元，增长近11%，扭转过去一年持续个位数增长颓势；净利润同比扭亏为盈，达67.5亿美元，创下2021年四季度以来新高，而上年同期净亏损是20.28亿美元。

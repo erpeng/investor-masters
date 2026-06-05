@@ -31,9 +31,9 @@ Baillie Gifford 的核心文化约束，不是高频奖惩，而是合伙制、�
 
 ## 标志性公开材料
 
-- [如何看待高成长与经典价值？柏基“传奇基金经理”詹姆斯·安德森2019年深度撰文](/investor-masters/sources/source-76/)：机构成长哲学与反传统价值框架的重要载体。
+- [如何看待高成长与经典价值？柏基“传奇基金经理”詹姆斯·安德森2019年深度撰文](/investor-masters/sources/source-88/)：机构成长哲学与反传统价值框架的重要载体。
 - [2.5万字｜柏基“传奇基金经理”安德森的罕见深访：伟大公司各有各的独特，平庸公司却都差不多……](/investor-masters/sources/source-02/)：安德森个人方法，也可视为机构成长文化的口述版。
-- [近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-masters/sources/source-99/)：现任掌舵人的执行口径，能看到理念如何延续到中国和 AI 场景。
+- [近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-masters/sources/source-111/)：现任掌舵人的执行口径，能看到理念如何延续到中国和 AI 场景。
 - [Baillie Gifford About Us](https://www.bailliegifford.com/en/uk/individual-investors/about-us/)：官方层面对规模、持有期、合伙制结构的说明。
 
 ## 13F 持仓（近四个季度）

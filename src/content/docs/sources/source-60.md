@@ -1,18 +1,17 @@
 ---
-title: "卓越投资永远来自卓越判断！霍华德·马克斯内部对话，细谈当下做投资选择时最关键的要素"
+title: "Third Point｜2025Q1 investor letter：催化剂、动态敞口与信用协同"
 slug: "sources/source-60"
-description: "每一笔投资都必须审慎选择"
+description: "依据 Third Point 2025Q1 investor letter，整理 Dan Loeb 对动态降敞口、催化剂仓位、信用协同与 flexible allocation 的官方表达。"
 ---
 
-**原文件名**: `卓越投资永远来自卓越判断！霍华德·马克斯内部对话，细谈当下做投资选择时最关键的要素.md`  
-**外部来源**: https://mp.weixin.qq.com/s/8lqBPHIJia08kSnrDns7JQ
+**原文件名**: `Third Point｜2025Q1 investor letter：催化剂、动态敞口与信用协同.md`  
+**外部来源**: https://assets.thirdpointlimited.com/f/166217/x/1c4003f091/tpil-q1-2025-investor-letter_02052025_final.pdf
 
-**时间**: 2026年3月16日 15:31
 
 ## 摘要
 
-每一笔投资都必须审慎选择
+依据 Third Point 2025Q1 investor letter，整理 Dan Loeb 对动态降敞口、催化剂仓位、信用协同与 flexible allocation 的官方表达。
 
 ## 节选
 
-因为很多核心的投资想法，霍华德 ·马克斯已经讲了很多遍，但每一次，不同的情景下，确实又有不同的共鸣点。
+- `主角`：丹·勒布（Dan Loeb）/ Third Point - `场景`：`2025Q1` investor letter - `时间`：`2025-05-02` - `核心价值`：如果 `2024Q4` 信讲的是方法框架，这封信讲的是框架在动荡环境里如何实际落地。

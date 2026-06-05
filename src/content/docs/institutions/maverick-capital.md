@@ -40,7 +40,7 @@ Maverick 的文化骨架，不像 Bridgewater 那样高调写原则，也不像 
 
 ## 标志性公开材料
 
-- [McKinsey｜李·安斯利：走进 Maverick Capital，传统多空基金如何研究企业](/investor-masters/sources/source-32/)
+- [McKinsey｜李·安斯利：走进 Maverick Capital，传统多空基金如何研究企业](/investor-masters/sources/source-38/)
 - [CFO｜李·安斯利：对冲不是目的，理解企业才是](/investor-masters/sources/source-11/)
 
 ## 13F 持仓（近四个季度）
@@ -132,5 +132,5 @@ Maverick 最值得继续观察的问题，不是“Lee 的风格好不好”，�
 
 ## 主要来源
 
-- [McKinsey｜李·安斯利：走进 Maverick Capital，传统多空基金如何研究企业](/investor-masters/sources/source-32/)
+- [McKinsey｜李·安斯利：走进 Maverick Capital，传统多空基金如何研究企业](/investor-masters/sources/source-38/)
 - [CFO｜李·安斯利：对冲不是目的，理解企业才是](/investor-masters/sources/source-11/)

@@ -1,17 +1,16 @@
 ---
-title: "Edison｜尼克·特雷恩：Lindsell Train 的长期持有方法"
+title: "Coatue｜官网与平台定位"
 slug: "sources/source-27"
-description: "依据 Edison 节目简介，整理 Nick Train 关于管理层质量、长期与短期、run winners、利益一致与 succession 的公开表达。"
+description: "原始材料来源页。"
 ---
 
-**原文件名**: `Edison｜尼克·特雷恩：Lindsell Train 的长期持有方法.md`  
-**外部来源**: https://www.edisongroup.com/edison-tv/lindsell-train-fund-manager-interview-with-nick-train/27489/
+**原文件名**: `Coatue｜官网与平台定位.md`  
 
 
 ## 摘要
 
-依据 Edison 节目简介，整理 Nick Train 关于管理层质量、长期与短期、run winners、利益一致与 succession 的公开表达。
+原始材料来源页。
 
 ## 节选
 
-> 整理说明： > Edison 页面当前公开的是节目简介与 topics 列表，而不是完整 transcript。本页只整理页面明确给出的讨论范围。
+Coatue 官网用于确认机构自我定位：围绕技术创新、创始人伙伴关系、公开市场与私募市场形成一体化投资平台。

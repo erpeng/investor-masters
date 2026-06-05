@@ -1,17 +1,19 @@
 ---
-title: "原文｜Motley Fool｜大卫·艾因霍恩：透明度、监管失灵与揭弊式做空"
+title: "为什么比尔·米勒能够拿住亚马逊26年？一场深度对话还原很多精彩细节"
 slug: "sources/source-69"
-description: "从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML。"
+description: "多元学科思维的投资实践"
 ---
 
-**原文件名**: `原文｜Motley Fool｜大卫·艾因霍恩：透明度、监管失灵与揭弊式做空.md`  
-**外部来源**: https://www.fool.com/investing/general/2011/01/06/a-foolish-interview-with-david-einhorn.aspx
+**原文件名**: `为什么比尔·米勒能够拿住亚马逊26年？一场深度对话还原很多精彩细节.md`  
+**外部来源**: https://mp.weixin.qq.com/s/kvYKuHCqslEJSTx1-kFTLw
 
+**作者**: 最近听了一场两个多小时的访谈，主持人是投资作家威廉 ·格林（William Green），嘉宾是《巴菲特之道》作者罗伯特·哈格斯特罗姆（Robert Hagstrom）。  
+**时间**: 2025年8月25日 15:02
 
 ## 摘要
 
-从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML。
+多元学科思维的投资实践
 
 ## 节选
 
-- 对应整理稿：[[现有资料/Motley Fool｜大卫·艾因霍恩：透明度、监管失灵与揭弊式做空.md]] - 抓取时间：`2026-04-20` - 抽取方式：`HTML` - 原始域名：`www.fool.com`
+最近听了一场两个多小时的访谈，主持人是投资作家威廉 ·格林（William Green），嘉宾是《巴菲特之道》作者罗伯特·哈格斯特罗姆（Robert Hagstrom）。

@@ -27,5 +27,5 @@ description: "共享规模经济 在这批资料 里的最佳入口。"
 
 ## 主要来源
 
-- [一家低调的传奇机构，“黏住”亚马逊、开市客、伯克希尔大赚特赚](/investor-masters/sources/source-55/)
-- [莫尼什·帕伯莱：芒格会将简单的想法认真执行](/investor-masters/sources/source-96/)
+- [一家低调的传奇机构，“黏住”亚马逊、开市客、伯克希尔大赚特赚](/investor-masters/sources/source-67/)
+- [莫尼什·帕伯莱：芒格会将简单的想法认真执行](/investor-masters/sources/source-108/)

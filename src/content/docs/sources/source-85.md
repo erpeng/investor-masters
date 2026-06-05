@@ -1,18 +1,17 @@
 ---
-title: "时隔近两年伯克希尔再次回购！格雷格·阿贝尔上任后首次访谈：税后年薪全部购买伯克希尔，以后每一年都会如此……"
+title: "原文｜Third Point｜2024Q4 investor letter：第二层思维、事件驱动与跨资产框架"
 slug: "sources/source-85"
-description: "巴菲特基本上每天都在办公室"
+description: "从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：PDF。"
 ---
 
-**原文件名**: `时隔近两年伯克希尔再次回购！格雷格·阿贝尔上任后首次访谈：税后年薪全部购买伯克希尔，以后每一年都会如此…….md`  
-**外部来源**: https://mp.weixin.qq.com/s/tQc1GholYtGnDWoiW3c71A
+**原文件名**: `原文｜Third Point｜2024Q4 investor letter：第二层思维、事件驱动与跨资产框架.md`  
+**外部来源**: https://assets.thirdpointlimited.com/f/166217/x/bc70b1b6dc/third-point-q4-2024-investor-letter_tpil.pdf
 
-**时间**: 2026年3月6日 12:21
 
 ## 摘要
 
-巴菲特基本上每天都在办公室
+从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：PDF。
 
 ## 节选
 
-刚刚发布完第一封伯克希尔股东信的格雷格 ·阿贝尔 (Greg Abel) ，延续巴菲特的传统，美东时间 3月5日接受了 CNBC 三位王牌主持人的 “轮番轰炸”。
+- 对应整理稿：[[现有资料/Third Point｜2024Q4 investor letter：第二层思维、事件驱动与跨资产框架.md]] - 抓取时间：`2026-04-20` - 抽取方式：`PDF` - 原始域名：`assets.thirdpointlimited.com`

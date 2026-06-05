@@ -1,19 +1,17 @@
 ---
-title: "小心！过去15年的“陷阱”，让我们遗忘了“分散投资”——看桥水“务实派”如何警示未来（上） |  泉果探照灯"
+title: "原文｜McKinsey｜李·安斯利：走进 Maverick Capital，传统多空基金如何研究企业"
 slug: "sources/source-79"
-description: "投资经验“失效”？美联储“收编”？西方发达国家“巴西化”？"
+description: "从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML（页面正文转录）。"
 ---
 
-**原文件名**: `小心！过去15年的“陷阱”，让我们遗忘了“分散投资”——看桥水“务实派”如何警示未来（上）   泉果探照灯.md`  
-**外部来源**: https://mp.weixin.qq.com/s/A18J7QPlwPv-6K-zJcWkjA
+**原文件名**: `原文｜McKinsey｜李·安斯利：走进 Maverick Capital，传统多空基金如何研究企业.md`  
+**外部来源**: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/inside-a-hedge-fund-an-interview-with-the-managing-partner-of-maverick-capital
 
-**作者**: 原创 泉果探照灯  
-**时间**: 2025年12月17日 22:56
 
 ## 摘要
 
-投资经验“失效”？美联储“收编”？西方发达国家“巴西化”？
+从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML（页面正文转录）。
 
 ## 节选
 
-■ 过去的15年是一个被粉饰的“陷阱”——这让大多数人放弃了分散投资，因为它似乎不再起作用了，你只要买美国股票就好了。
+- 对应整理稿：[[现有资料/McKinsey｜李·安斯利：走进 Maverick Capital，传统多空基金如何研究企业.md]] - 抓取时间：`2026-04-20` - 抽取方式：`HTML` - 原始域名：`www.mckinsey.com` - 备注：站点命令行抓取长时间无响应，本存档依据公开可访问页面正文转录。

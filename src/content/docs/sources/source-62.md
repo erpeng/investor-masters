@@ -1,17 +1,17 @@
 ---
-title: "原文｜CNBC｜丹·勒布：更动荡市场中的 event-driven 组合"
+title: "Value Investor Insight｜弗朗索瓦·罗雄：Affordable Quality"
 slug: "sources/source-62"
-description: "从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML。"
+description: "原始材料来源页。"
 ---
 
-**原文件名**: `原文｜CNBC｜丹·勒布：更动荡市场中的 event-driven 组合.md`  
-**外部来源**: https://www.cnbc.com/video/2025/04/23/third-point-ceo-dan-loeb-i-wouldnt-underestimate-the-resilience-of-the-american-economy.html
+**原文件名**: `Value Investor Insight｜弗朗索瓦·罗雄：Affordable Quality.md`  
+**外部来源**: Value Investor Insight
 
 
 ## 摘要
 
-从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML。
+原始材料来源页。
 
 ## 节选
 
-- 对应整理稿：[[现有资料/CNBC｜丹·勒布：更动荡市场中的 event-driven 组合.md]] - 抓取时间：`2026-04-20` - 抽取方式：`HTML` - 原始域名：`www.cnbc.com`
+这篇材料是 Rochon 在平台公司和高质量成长股被重新定价后的重要更新。它把 `quality` 和 `valuation discipline` 放在一起，而不是把质量投资讲成无条件买好公司。

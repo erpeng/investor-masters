@@ -91,6 +91,20 @@ INVESTOR_META = {
         "holdings": "微软、诺和诺德",
         "methods": "高质量复利 / 少犯错 / 长期持有",
     },
+    "帕特·多尔西": {
+        "slug": "pat-dorsey",
+        "tagline": "把护城河、再投资跑道和资本配置接成同一条价值链的人。",
+        "institution": ("Dorsey Asset Management", "institutions/dorsey-asset-management"),
+        "holdings": "ASML、Danaher、AerCap、Sunbelt、AppLovin",
+        "methods": "护城河 / 再投资跑道 / 资本配置",
+    },
+    "菲利普·拉丰": {
+        "slug": "philippe-laffont",
+        "tagline": "把 Tiger 式深研究、私募科技网络和公开市场仓位连成一套技术投资系统的人。",
+        "institution": ("Coatue Management", "institutions/coatue-management"),
+        "holdings": "TSM、GE Vernova、Lam Research、Applied Materials、Broadcom、Eaton",
+        "methods": "公私一体科技投资 / AI stack / Tiger Cub 成长研究",
+    },
     "弗朗索瓦·罗雄": {
         "slug": "francois-rochon",
         "tagline": "把所有者收益、质量企业和错误复盘绑成长期复利方法的人。",
@@ -334,6 +348,8 @@ INSTITUTION_META = {
     "Oakmark Funds": {"slug": "oakmark-funds"},
     "Pershing Square": {"slug": "pershing-square"},
     "Fundsmith": {"slug": "fundsmith"},
+    "Dorsey Asset Management": {"slug": "dorsey-asset-management"},
+    "Coatue Management": {"slug": "coatue-management"},
     "Giverny Capital": {"slug": "giverny-capital"},
     "Greenlight Capital": {"slug": "greenlight-capital"},
     "Baupost Group": {"slug": "baupost-group"},
@@ -348,6 +364,7 @@ INSTITUTION_META = {
 CONCEPT_META = {
     "护城河": {"slug": "moat"},
     "质量模式": {"slug": "quality-patterns"},
+    "公私一体科技投资": {"slug": "public-private-tech-investing"},
     "能力圈": {"slug": "circle-of-competence"},
     "事件驱动": {"slug": "event-driven"},
     "第二层思维": {"slug": "second-level-thinking"},
@@ -441,6 +458,8 @@ DIALOGUE_SLUG_OVERRIDES = {
     "放弃做空 vs 保留空头脑": "stop-shorting-vs-keep-a-short-mind",
     "好生意自己是催化剂 vs 价值需要被推动": "business-itself-vs-value-needs-pushing",
     "访谈型方法论 vs 组合型证据": "interviews-vs-portfolio-evidence",
+    "静态护城河 vs 再投资跑道": "static-moat-vs-reinvestment-runway",
+    "公开市场股票 vs 私募成长网络": "public-market-stocks-vs-private-growth-network",
 }
 
 
@@ -756,6 +775,12 @@ def build_link_maps():
         elif src.stem == "13F趋势-Kensico":
             slug = "13f-trends-kensico"
             title = "13F 趋势 - Kensico"
+        elif src.stem == "13F趋势-Dorsey":
+            slug = "13f-trends-dorsey"
+            title = "13F 趋势 - Dorsey"
+        elif src.stem == "13F趋势-Coatue":
+            slug = "13f-trends-coatue"
+            title = "13F 趋势 - Coatue"
         else:
             match = re.match(r"13F趋势-(\d{4})Q([1-4])$", src.stem)
             if not match:
@@ -1142,6 +1167,14 @@ def compile_institutions():
             title = "13F 趋势 - Kensico"
             slug = "13f-trends-kensico"
             description = "Kensico Capital Management 从 2023Q1 到 2026Q1 的单机构 13F 持仓变化。"
+        elif stem == "13F趋势-Dorsey":
+            title = "13F 趋势 - Dorsey"
+            slug = "13f-trends-dorsey"
+            description = "Dorsey Asset Management 从 2023Q1 到 2026Q1 的单机构 13F 持仓变化。"
+        elif stem == "13F趋势-Coatue":
+            title = "13F 趋势 - Coatue"
+            slug = "13f-trends-coatue"
+            description = "Coatue Management 从 2023Q1 到 2026Q1 的单机构 13F 持仓变化。"
         else:
             match = re.match(r"13F趋势-(\d{4})Q([1-4])$", stem)
             if not match:

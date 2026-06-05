@@ -35,6 +35,6 @@ PTJ 的风险语言更像流动性和执行语言。他不只是问观点是否�
 
 ## 主要来源
 
-- [关于耐心与杠杆！霍华德与摩根的最新对话：历史不会重演，但人类的行为却总是重复](/investor-masters/sources/source-59/)
-- [Druckenmiller深度解析（附中英对照）](/investor-masters/sources/source-26/)
-- [深度翻译  传奇交易员保罗·都铎·琼斯谈AI风险、泡沫与巴菲特](/investor-masters/sources/source-94/)
+- [关于耐心与杠杆！霍华德与摩根的最新对话：历史不会重演，但人类的行为却总是重复](/investor-masters/sources/source-71/)
+- [Druckenmiller深度解析（附中英对照）](/investor-masters/sources/source-32/)
+- [深度翻译  传奇交易员保罗·都铎·琼斯谈AI风险、泡沫与巴菲特](/investor-masters/sources/source-106/)

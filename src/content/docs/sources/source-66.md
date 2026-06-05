@@ -1,17 +1,19 @@
 ---
-title: "原文｜Harvard Business School｜塞思·卡拉曼：危机中的 Baupost 与价值纪律"
+title: "一名“特工”的“投资情报学”，和他掌管的全球最大的钱袋子｜泉果探照灯"
 slug: "sources/source-66"
-description: "从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML。"
+description: "投资和竞技一样，都是高压之下的表现艺术。"
 ---
 
-**原文件名**: `原文｜Harvard Business School｜塞思·卡拉曼：危机中的 Baupost 与价值纪律.md`  
-**外部来源**: https://www.marketfolly.com/2008/12/interview-with-seth-klarman-of-baupost.html
+**原文件名**: `一名“特工”的“投资情报学”，和他掌管的全球最大的钱袋子｜泉果探照灯.md`  
+**外部来源**: https://mp.weixin.qq.com/s/bwHK4ufuHj32X-QdzE8X4g
 
+**作者**: 原创 泉果探照灯  
+**时间**: 2025年8月18日 20:18
 
 ## 摘要
 
-从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML。
+投资和竞技一样，都是高压之下的表现艺术。
 
 ## 节选
 
-- 对应整理稿：[[现有资料/Harvard Business School｜塞思·卡拉曼：危机中的 Baupost 与价值纪律.md]] - 抓取时间：`2026-04-20` - 抽取方式：`HTML` - 原始域名：`www.marketfolly.com`
+真正的优势，不在于比别人聪明，而在于：你问得比别人更深，听得比别人更细，准备得比别人更充分。
