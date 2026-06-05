@@ -115,9 +115,9 @@ Ken Griffin 最值得单独读的地方，不是“最成功的对冲基金创�
 
 ## 主要来源
 
-- [Stanford GSB｜肯·格里芬：投资、竞争与未来](/investor-masters/sources/source-53/)
-- [S&P Global｜肯·格里芬：Citadel、AI 与独立思考](/investor-masters/sources/source-47/)
+- [Stanford GSB｜肯·格里芬：投资、竞争与未来](/investor-masters/sources/source-54/)
+- [S&P Global｜肯·格里芬：Citadel、AI 与独立思考](/investor-masters/sources/source-48/)
 - [CNBC｜肯·格里芬：Citadel 总部首场电视长访谈](/investor-masters/sources/source-21/)
-- [日本“特拉斯时刻”算轻量版！城堡投资格里芬最新交流，犀利点评美国债务、移民、美联储、AI等热门话题](/investor-masters/sources/source-96/)
+- [日本“特拉斯时刻”算轻量版！城堡投资格里芬最新交流，犀利点评美国债务、移民、美联储、AI等热门话题](/investor-masters/sources/source-97/)
 - [Kenneth C. Griffin - Wikipedia](https://en.wikipedia.org/wiki/Kenneth_C._Griffin)
 - [Kenneth C. Griffin | Citadel](https://www.citadel.com/our-teams/leadership/kenneth-c-griffin/)

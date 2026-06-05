@@ -18,7 +18,9 @@ description: "把 Tiger 式深研究、私募科技网络和公开市场仓位�
 
 ## 来时路
 
-公开资料通常把 Philippe Laffont 与 Tiger Management 背景、1999 年创立 Coatue 绑定。这个路径重要，因为它解释了两件事：第一，他不是传统 VC 出身，而是从二级市场研究和风险管理进入科技；第二，Coatue 后来长成公私一体平台，不是单纯风格漂移，而是沿技术公司生命周期扩展信息源。
+公开 CTEK 材料给出的履历线索很干净：Philippe Laffont 有 MIT 计算机科学背景，早期在 McKinsey 做电信相关工作，随后在 Tiger Management 做电信股票研究，1999 年创立 Coatue。
+
+这个路径本身就解释了 Coatue 的形状。他不是传统 VC 出身，也不是只靠财务报表筛公司的二级研究员。他的底层语境是：技术先改变产业结构，再改变资本市场可投资对象；如果只看上市公司，你会错过创新早期信号；如果只看私募叙事，你又会错过公开市场价格和资本约束。
 
 ## 人物分析
 
@@ -38,7 +40,4 @@ description: "把 Tiger 式深研究、私募科技网络和公开市场仓位�
 
 ## 主要来源
 
-- [Coatue｜官网与平台定位](/investor-masters/sources/source-27/)
-- [Coatue｜CTEK与Fantastic 40](/investor-masters/sources/source-24/)
-- [Coatue｜Philippe Laffont：CNBC 2025 AI与Fantastic 40访谈](/investor-masters/sources/source-25/)
-- [SEC｜Coatue Management：2023-2026 13F持仓轨迹](/investor-masters/sources/source-48/)
+现有资料暂未涉及。

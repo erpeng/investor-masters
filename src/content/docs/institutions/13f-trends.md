@@ -7,7 +7,7 @@ description: "把机构 13F 按季度横向拉齐，观察跨机构持仓趋势�
 
 阅读时先记住三条：第一，13F 有滞后；第二，股价上涨不等于加仓，所以这里把股数变化和权重变化分开；第三，长期集中型机构和交易型机构不能同权解释。
 
-最近抓取时间：`2026-05-18 14:41 CST`。
+最近抓取时间：`2026-06-05 18:47 CST`。
 
 ## 趋势解读
 
@@ -16,7 +16,8 @@ description: "把机构 13F 按季度横向拉齐，观察跨机构持仓趋势�
 - Q2 2025 还能看到很清楚的一阶共识：`NVDA`、`AMZN`、`Salesforce`、`MSFT` 等平台和 AI 核心资产仍是主要加仓对象。
 - Q3 2025 开始分化，铁路、电力、公用事业、`ASML`、`TLN`、`PCG`、`UNP` 等现实资产与供给约束开始进入视野。
 - Q4 2025 里 AI 仍强，但大科技和消费金融/支付网络的分歧扩大，`META`、`GOOG/GOOGL`、`AMZN`、`MSFT`、`TSM` 同时出现在买入侧和卖出侧。
-- Q1 2026 的变化更清楚：`NVDA` 进入分歧/减仓区，新增线索转向 `AVGO`、`ASML`、`TER`、`Argan`、`HUT`、`LIN`、`Sunbelt Rentals` 等 AI 二阶基础设施、工程、电力、设备、测试、网络和工业气体约束。
+- Q1 2026 的变化更清楚：`NVDA` 进入分歧/减仓区，新增线索转向 `AVGO`、`ASML`、`TER`、`Argan`、`HUT`、`LIN`、`SUNB` 等 AI 二阶基础设施、工程、电力、设备、测试、网络和工业气体约束。
+- 新增 Dorsey 后还有一个质量投资侧信号：集中型质量机构也不是静态守仓，Dorsey 在 2026Q1 让 `SUNB / APP / SPGI / UBER` 进入前十，同时让 `BKNG / AZO / GOOG / ENOV` 退出前十。这让 `moat` 必须继续被 `runway / capital allocation / opportunity cost` 约束。
 - 同期 `SPY PUT`、`QQQ PUT` 等工具信号变重，说明机构不是全面撤退，而是在“结构性多头 + 风险对冲”之间重新配平。
 
 所以这组 13F 更像一个系统状态读数：最容易讲的 AI 故事已经充分拥挤，聪明钱开始问下一层问题：谁控制电力、工程、测试、网络、设备、工业气体、资本开支效率和真实现金流。
@@ -38,8 +39,8 @@ description: "把机构 13F 按季度横向拉齐，观察跨机构持仓趋势�
 - [Himalaya Capital：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-himalaya/)
 - [Lone Pine Capital：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-lone-pine/)
 - [Greenlight Capital / DME：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-greenlight/)
-- [Tudor Investment Corporation：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-tudor/)
 - [Duquesne Family Office：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-duquesne/)
+- [Tudor Investment Corporation：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-tudor/)
 - [Appaloosa Management：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-appaloosa/)
 
 ## 季度档案
@@ -77,7 +78,7 @@ description: "把机构 13F 按季度横向拉齐，观察跨机构持仓趋势�
 
 - 隐含逻辑：13F 对长期集中型机构更有解释力，因为它们换手低、仓位集中，单季股数变化更可能代表 投资论点 变化；对宏观、量化、多策略和交易型机构解释力更弱，因为仓位可能来自对冲、期权结构、指数暴露、做市或短周期风险管理。
 - 权重是启发式评分，不是精确数学真理；它的作用是让长期集中型机构的同向动作更靠前，同时降低交易型机构噪音。
-- 长期集中型：Berkshire=1.5, Pershing=1.4, Fundsmith=1.4, Giverny=1.4, Himalaya=1.4, H&H=1.4, AKO=1.3。
+- 长期集中型：Berkshire=1.5, Pershing=1.4, Fundsmith=1.4, Himalaya=1.4, H&H=1.4, Giverny=1.4, Dorsey=1.3, AKO=1.3。
 - 基本面多头/对冲型：Baillie=1.1, Oaktree=0.9, ARK=1.0, Third Point=1.0, Greenlight=1.0, Baupost=1.1, Lone Pine=1.0, Maverick=0.9, Oakmark=1.1。
 - 宏观/交易型：Bridgewater=0.6, Duquesne=0.8, Tudor=0.6。
 - 多策略/交易型：Citadel=0.5。

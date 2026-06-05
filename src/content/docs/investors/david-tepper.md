@@ -117,8 +117,8 @@ Tepper 方法的底层影响，不像 Buffett 那样主要来自企业所有者�
 - [CNBC｜David Tepper：2022全球央行紧缩与leaning-short](/investor-masters/sources/source-17/)
 - [CNBC｜David Tepper：2024中国刺激与buy-everything](/investor-masters/sources/source-18/)
 - [Bloomberg｜David Tepper：2013美国复苏与风险偏好](/investor-masters/sources/source-10/)
-- [Reuters｜David Tepper：2021能源与通胀交易](/investor-masters/sources/source-45/)
-- [Fortune｜David Tepper：2014-nervous-time](/investor-masters/sources/source-34/)
+- [Reuters｜David Tepper：2021能源与通胀交易](/investor-masters/sources/source-46/)
+- [Fortune｜David Tepper：2014-nervous-time](/investor-masters/sources/source-35/)
 
 ### 二手事实来源
 

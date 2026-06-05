@@ -1,10 +1,10 @@
 ---
-title: "Reuters｜David Tepper：2021能源与通胀交易"
+title: "Pat Dorsey｜Ten Lessons from Ten Years 2026"
 slug: "sources/source-45"
 description: "原始材料来源页。"
 ---
 
-**原文件名**: `Reuters｜David Tepper：2021能源与通胀交易.md`  
+**原文件名**: `Pat Dorsey｜Ten Lessons from Ten Years 2026.md`  
 
 
 ## 摘要
@@ -13,4 +13,4 @@ description: "原始材料来源页。"
 
 ## 节选
 
-- Reuters wire via Rigzone, 2021-06-17 - 场景：Robin Hood Investors Conference, conversation with Paul Tudor Jones
+这份 2026 年 presentation 更偏机构经营和管理人自我约束，不是股票筛选课。它适合支撑 Dorsey Asset Management 的资本结构、客户选择、组织文化和错误处理方式。

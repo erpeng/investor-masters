@@ -43,12 +43,12 @@ Coatue 值得单独读，是因为它不是普通“科技基金”。它把公�
 
 ## 标志性公开材料
 
-- [Coatue｜官网与平台定位](/investor-masters/sources/source-27/)
+- [Coatue｜官网与平台定位](/investor-masters/sources/source-28/)
 - [Coatue｜CTEK与Fantastic 40](/investor-masters/sources/source-24/)
 - [Coatue｜Philippe Laffont：CNBC 2025 AI与Fantastic 40访谈](/investor-masters/sources/source-25/)
-- [Coatue｜Thomas Laffont：2026 Upfront AI公开私募市场](/investor-masters/sources/source-26/)
-- [SEC｜Coatue Management：ADV与13F官方资料](/investor-masters/sources/source-49/)
-- [SEC｜Coatue Management：2023-2026 13F持仓轨迹](/investor-masters/sources/source-48/)
+- [Coatue｜Thomas Laffont：2026 Upfront AI公开私募市场](/investor-masters/sources/source-27/)
+- [SEC｜Coatue Management：ADV与13F官方资料](/investor-masters/sources/source-50/)
+- [SEC｜Coatue Management：2023-2026 13F持仓轨迹](/investor-masters/sources/source-49/)
 
 ## 13F 持仓（近四个季度）
 

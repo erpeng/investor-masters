@@ -1,11 +1,11 @@
 ---
-title: "原文｜Edison｜尼克·特雷恩：Lindsell Train 的长期持有方法"
+title: "原文｜CNBC｜肯·格里芬：Citadel 总部首场电视长访谈"
 slug: "sources/source-77"
 description: "从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML。"
 ---
 
-**原文件名**: `原文｜Edison｜尼克·特雷恩：Lindsell Train 的长期持有方法.md`  
-**外部来源**: https://www.edisongroup.com/edison-tv/lindsell-train-fund-manager-interview-with-nick-train/27489/
+**原文件名**: `原文｜CNBC｜肯·格里芬：Citadel 总部首场电视长访谈.md`  
+**外部来源**: https://www.cnbc.com/2015/11/19/cnbc-exclusive-cnbc-transcript-citadel-founder-ceo-ken-griffin-speaks-with-cnbcs-kate-kelly-on-squawk-on-the-street-today.html
 
 
 ## 摘要
@@ -14,4 +14,4 @@ description: "从公开原始链接抓取的原文存档，供与整理稿对照
 
 ## 节选
 
-- 对应整理稿：[[现有资料/Edison｜尼克·特雷恩：Lindsell Train 的长期持有方法.md]] - 抓取时间：`2026-04-20` - 抽取方式：`HTML` - 原始域名：`www.edisongroup.com`
+- 对应整理稿：[[现有资料/CNBC｜肯·格里芬：Citadel 总部首场电视长访谈.md]] - 抓取时间：`2026-04-20` - 抽取方式：`HTML` - 原始域名：`www.cnbc.com`

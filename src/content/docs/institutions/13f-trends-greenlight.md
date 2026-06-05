@@ -331,6 +331,23 @@ Greenlight 的公开材料一直强调 多空 和市场结构意识。13F 只能
 - 稳定观察：`BHF / PCG / SNX`，分别对应利率/保险负债、公用事业监管回报和 IT 渠道周期。
 - 反向复盘：`GPK / CPRI / CNC / KD / TEVA / GLD`，这些减仓或退出项需要检查是 投资论点 变化、估值修复完成，还是换到更好的特殊情况。
 
+## 最近一季可抄作业 / 趋势跟踪排序
+
+价格口径：`13F 季末价或隐含价` 使用 Q1 2026 13F 的 `value / shares` 反算；当前价使用 2026-06-05 行情快照（主要为 Nasdaq quote API，`BN / BRK.B / VSCO` 使用 finance fallback）。13F 有季度滞后，本栏只判断“现在还适不适合抄”，不倒推机构当季真实想法。 Greenlight/DME 更适合抄问题和催化剂：公开 13F 只是多头切片，不代表完整 多空 book。
+
+| 优先级 | 标的/资产线 | 13F 证据 | 机构手法解释 | 13F 季末价或隐含价 | 当前价 | 13F 后涨幅 | 抄作业结论 | 下一步验证 |
+|---|---|---|---|---:|---:|---:|---|---|
+| 1 | `GRBK` 住房链/土地开发 | 第一大，Q1 占 19.1%，当前 +7.7% | Greenlight 的核心问题通常是市场错价和催化剂，`GRBK` 是最明确表达 | `$64.36` | `$69.32` | `+7.7%` | 可作为第一研究对象，但要用地产周期压力测试 | 看订单、毛利率、土地储备、利率敏感性和回购 |
+| 1 | `FLR / CNR / BHF / PCG` 周期、保险和公用事业错价 | 仍在前排，涨幅 -5.2% 到 +8.2% | 这组符合 Greenlight 的价值/事件/周期混合手法 | `FLR $46.36` / `CNR $104.72` / `BHF $59.49` / `PCG $17.79` | `FLR $50.16` / `CNR $100.12` / `BHF $62.36` / `PCG $16.87` | `+8.2%` / `-4.4%` / `+4.8%` / `-5.2%` | 可抄问题清单，不是质量股清单 | 看项目执行、铁路周期、资本回报、监管和负债 |
+| 2 | `ACHC / VSCO / DHT` 新进前十 | 三者新进前十，`ACHC` +8.2%、`DHT` -11.1%、`VSCO` +16.4% | 这是事件/困境/周期篮子，需逐个拆催化剂 | `ACHC $23.30` / `VSCO $46.64` / `DHT $18.15` | `ACHC $25.21` / `VSCO $54.30` / `DHT $16.14` | `+8.2%` / `+16.4%` / `-11.1%` | 可研究，但每个都要先找具体催化剂和 downside | 看医院经营、零售品牌修复、油轮运价和资本配置 |
+| 3 | `PENN / PTON / SNX` 高弹性事件线 | `PENN` 新进前十，`PTON / SNX` 股数大增 | 价格已明显反应，不能把事件仓位当长期复利仓 | `PENN $14.78` / `PTON ~$4.42` / `SNX ~$166.30` | `PENN $19.63` / `PTON $6.11` / `SNX $277.57` | `+32.8%` / `~+38.2%` / `~+66.9%` | 只适合复盘或等待新催化剂，当前不适合按 13F 追 | 看 ESPN Bet/监管、Peloton 重组现金流、SNX 利润率和 AI 服务器需求 |
+
+### 反向复盘
+
+- `GPK / CPRI / CNC / KD / TEVA`：退出前十，说明 Greenlight 对包装、奢侈零售、医保/医疗服务和仿制药机会排序下移。
+- `WFRD / FLR / GLD / DHT / CNR`：显著减仓不能只看成看空，可能是事件兑现、风险预算切换或对冲需求变化。
+- 对 Greenlight，跌了不是买入理由，必须能说清楚催化剂、资产价值和错误定价在哪里。
+
 ## 继续观察
 
 - Q2 2026 `GRBK` 是否继续维持高权重；如果仍接近第一大仓，住宅/利率敏感仍是 Greenlight 的中心表达。
@@ -362,6 +379,6 @@ Greenlight 的公开材料一直强调 多空 和市场结构意识。13F 只能
 - [SEC 13F Q1 2023 filing detail（Greenlight Capital Inc）](https://www.sec.gov/Archives/edgar/data/1079114/000117266123002282/0001172661-23-002282-index.html)
 - [Greenlight Capital](/investor-masters/institutions/greenlight-capital/)
 - [大卫·艾因霍恩](/investor-masters/investors/david-einhorn/)
-- [Colossus｜大卫·艾因霍恩：长短仓、反动量与价值投资](/investor-masters/sources/source-29/)
+- [Colossus｜大卫·艾因霍恩：长短仓、反动量与价值投资](/investor-masters/sources/source-30/)
 - [CNBC｜大卫·艾因霍恩：被动化时代的价值投资与分拆机会](/investor-masters/sources/source-20/)
-- [Motley Fool｜大卫·艾因霍恩：透明度、监管失灵与揭弊式做空](/investor-masters/sources/source-41/)
+- [Motley Fool｜大卫·艾因霍恩：透明度、监管失灵与揭弊式做空](/investor-masters/sources/source-42/)

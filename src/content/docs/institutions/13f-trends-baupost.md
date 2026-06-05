@@ -328,6 +328,23 @@ Baupost 的历史气质是高现金、逆向和跨资产比较。13F 看不到�
 
 `LBTYK` 退出前十、`FIS / DG` 退出前十，说明部分旧逆向仓位优先级下降。但这不能推出 Baupost 放弃特殊情况，因为很多特殊机会根本不在 13F 里。
 
+## 最近一季可抄作业 / 趋势跟踪排序
+
+价格口径：`13F 季末价或隐含价` 使用 Q1 2026 13F 的 `value / shares` 反算；当前价使用 2026-06-05 行情快照（主要为 Nasdaq quote API，`BN / BRK.B / VSCO` 使用 finance fallback）。13F 有季度滞后，本栏只判断“现在还适不适合抄”，不倒推机构当季真实想法。 Baupost 的 13F 只是公开权益切片，抄作业应抄“问题和催化剂”，不是把它当完整组合。
+
+| 优先级 | 标的/资产线 | 13F 证据 | 机构手法解释 | 13F 季末价或隐含价 | 当前价 | 13F 后涨幅 | 抄作业结论 | 下一步验证 |
+|---|---|---|---|---:|---:|---:|---|---|
+| 1 | `QSR / FERG / AON / WTW / V` 现金流质量与再定价 | `FERG / AON / V` 新进前十，`QSR` 仍第二大；价格多为横盘或下跌 | Baupost 更适合抄“可解释的错价 + 现金流质量” | `QSR $74.14` / `FERG $234.27` / `AON $326.24` / `WTW $292.37` / `V $299.31` | `QSR $71.32` / `FERG $230.27` / `AON $322.24` / `WTW $258.59` / `V $322.44` | `-3.8%` / `-1.7%` / `-1.2%` / `-11.6%` / `+7.7%` | 这是最适合抄研究的问题集：市场是否低估了稳态现金流和再定价 | 看同店/加盟经济、分销利润率、保险经纪有机增长、支付量和估值折扣 |
+| 1 | `UNP` 运输周期与运营杠杆 | 仍在前十，当前 +9.2% | 铁路是典型价值/周期质量混合资产，适合 Baupost 式问题研究 | `$242.54` | `$264.80` | `+9.2%` | 仍可研究，不算追涨 | 看货运量、价格、劳动力成本、资本开支和服务质量 |
+| 2 | `AMZN` 平台现金流 | 股数 +47.0%，第一大，当前 +21.3% | 这更像 Baupost 接受平台现金流错价，而不是传统深度价值 | `$208.49` | `$252.85` | `+21.3%` | 可研究但赔率已变薄，需要 AWS/广告/零售效率继续验证 | 看 FCF、capex 强度、AWS 增速和广告利润率 |
+| 3 | `WCC / ELV / GOOG` 已涨的价值线索 | 仍在前十或被加仓，但 Q1 后涨幅 +28.7% 到 +36.9% | 方向可能对，但价格已过过滤线 | `WCC $274.37` / `ELV $293.11` / `GOOG $286.10` | `WCC $365.33` / `ELV $401.24` / `GOOG $368.23` | `+33.2%` / `+36.9%` / `+28.7%` | 降级为复盘或等待回撤，不适合机械抄 | 看工业分销周期、医保政策风险、搜索/AI 竞争和监管 |
+
+### 反向复盘
+
+- `FIS / DG / LBTYK`：退出前十，说明 Baupost 在支付处理、折扣零售和媒体资产上的机会成本排序下移。
+- `WTW`：股数 -34.2%，但价格也下跌约 -11.6%；不能因为跌了就抄，先确认减仓原因是估值纪律还是 投资论点 走弱。
+- `AMZN` 加仓后上涨 +21.3%，说明公开 13F 已经有滞后，后续抄的是平台现金流问题，不是追单。
+
 ## 继续观察
 
 - `AMZN` 是否连续加仓或保持第一大；这是 Q1 2026 最大主动信号能否延续的关键。
@@ -360,6 +377,6 @@ Baupost 的历史气质是高现金、逆向和跨资产比较。13F 看不到�
 - [SEC 13F Q1 2023 filing detail](https://www.sec.gov/Archives/edgar/data/1061768/000156761923006061/0001567619-23-006061-index.html)
 - [塞思·卡拉曼](/investor-masters/investors/seth-klarman/)
 - [Baupost Group](/investor-masters/institutions/baupost-group/)
-- [Value Investing with Legends｜塞思·卡拉曼：逆向纪律、耐心资本与 Baupost](/investor-masters/sources/source-61/)
-- [Harvard Business School｜塞思·卡拉曼：危机中的 Baupost 与价值纪律](/investor-masters/sources/source-35/)
-- [TIFF｜塞思·卡拉曼：价值投资问答节选](/investor-masters/sources/source-54/)
+- [Value Investing with Legends｜塞思·卡拉曼：逆向纪律、耐心资本与 Baupost](/investor-masters/sources/source-62/)
+- [Harvard Business School｜塞思·卡拉曼：危机中的 Baupost 与价值纪律](/investor-masters/sources/source-36/)
+- [TIFF｜塞思·卡拉曼：价值投资问答节选](/investor-masters/sources/source-55/)

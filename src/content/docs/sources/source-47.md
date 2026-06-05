@@ -1,17 +1,17 @@
 ---
-title: "S&P Global｜肯·格里芬：Citadel、AI 与独立思考"
+title: "Richer Wiser Happier｜弗朗索瓦·罗雄：精英中的精英"
 slug: "sources/source-47"
-description: "依据 S&P Global 公开 transcript，整理 Ken Griffin 关于 AI、edge、独立思考与 Citadel 组织能力的最新表达。"
+description: "原始材料来源页。"
 ---
 
-**原文件名**: `S&P Global｜肯·格里芬：Citadel、AI 与独立思考.md`  
-**外部来源**: https://www.spglobal.com/en/research-insights/podcasts/leaders/ken-griffin-on-building-citadel-ai-and-independent-thinking
+**原文件名**: `Richer Wiser Happier｜弗朗索瓦·罗雄：精英中的精英.md`  
+**外部来源**: Richer Wiser Happier / The Investor's Podcast Network
 
 
 ## 摘要
 
-依据 S&P Global 公开 transcript，整理 Ken Griffin 关于 AI、edge、独立思考与 Citadel 组织能力的最新表达。
+原始材料来源页。
 
 ## 节选
 
-- `主角`：肯·格里芬（Ken Griffin） - `场景`：S&P Global / Leaders Podcast - `时间`：`2025-06-17` - `核心价值`：这篇是理解现代 Citadel 最好的窗口之一。它把 `AI / 预测未来 / 独立思考 / 数据质量 / 持续学习` 放在同一条线上。
+这是 [[investors/弗朗索瓦·罗雄]] 最适合进入人物页的长访谈入口。它不是单一股票 pitch，而是把 Rochon 的长期复利观、错误观、性格约束和 Giverny 的年报文化放在同一个语境里。

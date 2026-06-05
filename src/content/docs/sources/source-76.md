@@ -1,11 +1,11 @@
 ---
-title: "原文｜CNBC｜肯·格里芬：Citadel 总部首场电视长访谈"
+title: "原文｜CNBC｜大卫·艾因霍恩：被动化时代的价值投资与分拆机会"
 slug: "sources/source-76"
 description: "从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML。"
 ---
 
-**原文件名**: `原文｜CNBC｜肯·格里芬：Citadel 总部首场电视长访谈.md`  
-**外部来源**: https://www.cnbc.com/2015/11/19/cnbc-exclusive-cnbc-transcript-citadel-founder-ceo-ken-griffin-speaks-with-cnbcs-kate-kelly-on-squawk-on-the-street-today.html
+**原文件名**: `原文｜CNBC｜大卫·艾因霍恩：被动化时代的价值投资与分拆机会.md`  
+**外部来源**: https://www.cnbc.com/2024/04/03/cnbc-exclusive-cnbc-transcript-greenlight-capital-co-founder-president-david-einhorn-speaks-with-cnbcs-scott-wapner-on-power-lunch-today.html
 
 
 ## 摘要
@@ -14,4 +14,4 @@ description: "从公开原始链接抓取的原文存档，供与整理稿对照
 
 ## 节选
 
-- 对应整理稿：[[现有资料/CNBC｜肯·格里芬：Citadel 总部首场电视长访谈.md]] - 抓取时间：`2026-04-20` - 抽取方式：`HTML` - 原始域名：`www.cnbc.com`
+- 对应整理稿：[[现有资料/CNBC｜大卫·艾因霍恩：被动化时代的价值投资与分拆机会.md]] - 抓取时间：`2026-04-20` - 抽取方式：`HTML` - 原始域名：`www.cnbc.com` - 备注：原整理稿里的 `nbcuniversalnewsgroup.com` 转录链接已失效；本存档改用当前可访问的 CNBC 正式 transcript 页面。

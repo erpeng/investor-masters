@@ -97,13 +97,13 @@ Rochon 方法最值得警惕的边界，是“质量叙事过强”。当一家�
 
 ### 一手来源
 
-- [Richer Wiser Happier｜弗朗索瓦·罗雄：精英中的精英](/investor-masters/sources/source-46/)
-- [Compounding Quality｜弗朗索瓦·罗雄：所有者收益、错误榜单与质量投资](/investor-masters/sources/source-30/)
-- [Value Investor Insight｜弗朗索瓦·罗雄：Crème de la Crème](/investor-masters/sources/source-63/)
-- [Value Investor Insight｜弗朗索瓦·罗雄：Affordable Quality](/investor-masters/sources/source-62/)
-- [TWST｜弗朗索瓦·罗雄：耐心是价值投资的关键](/investor-masters/sources/source-56/)
-- [Meb Faber｜弗朗索瓦·罗雄：耐心、谦逊与理性](/investor-masters/sources/source-39/)
-- [TIP｜弗朗索瓦·罗雄：AI驱动市场中的长期投资](/investor-masters/sources/source-55/)
+- [Richer Wiser Happier｜弗朗索瓦·罗雄：精英中的精英](/investor-masters/sources/source-47/)
+- [Compounding Quality｜弗朗索瓦·罗雄：所有者收益、错误榜单与质量投资](/investor-masters/sources/source-31/)
+- [Value Investor Insight｜弗朗索瓦·罗雄：Crème de la Crème](/investor-masters/sources/source-64/)
+- [Value Investor Insight｜弗朗索瓦·罗雄：Affordable Quality](/investor-masters/sources/source-63/)
+- [TWST｜弗朗索瓦·罗雄：耐心是价值投资的关键](/investor-masters/sources/source-57/)
+- [Meb Faber｜弗朗索瓦·罗雄：耐心、谦逊与理性](/investor-masters/sources/source-40/)
+- [TIP｜弗朗索瓦·罗雄：AI驱动市场中的长期投资](/investor-masters/sources/source-56/)
 
 ### 二手事实来源
 

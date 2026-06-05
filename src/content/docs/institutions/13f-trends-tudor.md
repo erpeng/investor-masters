@@ -330,9 +330,23 @@ PTJ 的核心不是“找到伟大公司并陪它复利”，而是避免在流�
 
 如果一个工具只出现一季，先当交易看；如果某类工具连续多季在前排，比如 `IWM / QQQ / SPY`，才说明它是 Tudor 可见 13F 的稳定语言。对这种机构，连续性不一定体现为同一家公司，而可能体现为同一类风险反复被交易。
 
-### 5. 13F 的价值是发现风险问题，不是抄作业
 
-Tudor 的披露尤其不能用来抄仓位，因为你不知道净敞口、执行价、到期日，也不知道期货和外汇 book。更好的用法是：看到它把哪些市场变量放到前排，然后反问自己，当前市场真正需要被监控的风险在哪里。
+## 最近一季可抄作业 / 趋势跟踪排序
+
+价格口径：`13F 季末价或隐含价` 使用 Q1 2026 13F 的 `value / shares` 反算；当前价使用 2026-06-05 行情快照（主要为 Nasdaq quote API，`BN / BRK.B / VSCO` 使用 finance fallback）。13F 有季度滞后，本栏只判断“现在还适不适合抄”，不倒推机构当季真实想法。 Tudor 的 13F 尤其不能按普通股票抄；它更像风险仪表盘。PUT/CALL 没有执行价、期限和对冲腿，表格里的 `N/A` 是有意保守处理。
+
+| 优先级 | 标的/资产线 | 13F 证据 | 机构手法解释 | 13F 季末价或隐含价 | 当前价 | 13F 后涨幅 | 抄作业结论 | 下一步验证 |
+|---|---|---|---|---:|---:|---:|---|---|
+| 1 | `IWM put / IWM call` 小盘和流动性波动 | `IWM put` 第一大 9.5%，`IWM call` 第二大 5.5% | 这是小盘/融资条件/市场广度的双边风险表达，不是方向单 | `N/A（期权）` | `IWM $290.75` | `N/A` | 可以抄“监控小盘和流动性”，不能抄期权仓位 | 看 Russell 2000 相对 SPY、信用利差、金融条件、波动率期限结构 |
+| 1 | `QQQ put / QQQ call / NVDA put` 大型科技拥挤风险 | `QQQ put/call` 均在前十，`NVDA put` 1.3% | Tudor 在交易 AI/大科技波动，不等于看空或看多单一股票 | `N/A（期权）` | `QQQ $734.20` / `NVDA $215.99` | `N/A` | 可抄风险问题：AI 交易是否拥挤、波动是否被低估 | 看纳指动量、盈利上修、估值、期权偏斜和资金拥挤 |
+| 2 | `SPY / SPY call` 大盘 beta | `SPY` 新进前十，`SPY call` 股数 +125.0% | 这是在保留大盘反弹弹性，不是长期指数投资建议 | `SPY ~$673.80` / `SPY call N/A` | `SPY $754.60` | `SPY ~+12.0%` | 可观察大盘 beta，但不是本页最强可抄对象 | 看市场广度、盈利预期、降息路径和大盘估值 |
+| 2 | `GLD call / GLD put / XLE put` 黄金和能源风险 | 黄金 call/put 同时进入前十，`XLE put` 仍在前排 | 这是通胀、实际利率、美元和能源冲击的波动表达 | `N/A（期权）` | `GLD $409.79` / `XLE $58.75` | `N/A` | 抄的是风险监控清单，不是买 GLD 或 XLE | 看实际利率、美元、油价、地缘风险和能源现金流 |
+
+### 反向复盘
+
+- `SPY put / IVV / GOOGL put`：退出前十或大幅减仓，说明 Tudor 在 Q1 调整了大盘保护和单股科技风险表达。
+- `IWM put` 虽减仓但仍第一大，说明小盘/流动性尾部风险仍是仪表盘第一行。
+- 对 Tudor，最有价值的是发现市场正在反复交易哪些风险：小盘、纳指、黄金、能源和单股 AI 波动，而不是复制任何一个期权头寸。
 
 ## 继续观察
 
@@ -364,7 +378,7 @@ Tudor 的披露尤其不能用来抄仓位，因为你不知道净敞口、执�
 - [SEC 13F Q3 2023 filing detail](https://www.sec.gov/Archives/edgar/data/923093/000095012323011017/0000950123-23-011017-index.html)
 - [SEC 13F Q2 2023 filing detail](https://www.sec.gov/Archives/edgar/data/923093/000095012323007999/0000950123-23-007999-index.html)
 - [SEC 13F Q1 2023 filing detail](https://www.sec.gov/Archives/edgar/data/923093/000095012323005121/0000950123-23-005121-index.html)
-- [深度翻译  传奇交易员保罗·都铎·琼斯谈AI风险、泡沫与巴菲特](/investor-masters/sources/source-106/)
+- [深度翻译  传奇交易员保罗·都铎·琼斯谈AI风险、泡沫与巴菲特](/investor-masters/sources/source-107/)
 - 保罗·都铎·琼斯-Invest-Like-the-Best-交易AI风险访谈-source-audit
 - [趋势交易](/investor-masters/concepts/trend-trading/)
 - [复利信仰 vs 流动性信仰](/investor-masters/dialogues/compound-faith-vs-liquidity-faith/)

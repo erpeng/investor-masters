@@ -1,17 +1,17 @@
 ---
-title: "McKinsey｜李·安斯利：走进 Maverick Capital，传统多空基金如何研究企业"
+title: "Joys of Compounding｜史蒂芬·曼德尔：来自 Lone Pine 的经验课"
 slug: "sources/source-38"
-description: "李·安斯利解释 Maverick 如何用行业专家制、长期基本面研究、管理层判断和建设性关系管理来做传统多空投资。"
+description: "史蒂芬·曼德尔回顾 Lone Pine 的创立、文化、领导力、人才培养与长期 alpha 的来源。"
 ---
 
-**原文件名**: `McKinsey｜李·安斯利：走进 Maverick Capital，传统多空基金如何研究企业.md`  
-**外部来源**: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/inside-a-hedge-fund-an-interview-with-the-managing-partner-of-maverick-capital
+**原文件名**: `Joys of Compounding｜史蒂芬·曼德尔：来自 Lone Pine 的经验课.md`  
+**外部来源**: https://colossus.com/episode/lessons-from-steve-mandel/
 
 
 ## 摘要
 
-李·安斯利解释 Maverick 如何用行业专家制、长期基本面研究、管理层判断和建设性关系管理来做传统多空投资。
+史蒂芬·曼德尔回顾 Lone Pine 的创立、文化、领导力、人才培养与长期 alpha 的来源。
 
 ## 节选
 
-> 整理说明： > 本页依据 McKinsey 官方访谈原文整理，重点保留对 Maverick 研究组织、管理层判断、资本配置、透明度与长短仓关系最有价值的段落。
+> 整理说明： > 本页依据 Colossus 官方节目页、Apple Podcasts 官方页面与公开可见 show notes 整理而成。 > 官方完整 transcript 当前需要登录可见，因此本页不是官方完整逐字稿，而是基于官方音频元信息、官方 show notes 与公开简介的审校整理版。

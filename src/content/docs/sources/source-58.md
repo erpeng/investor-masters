@@ -1,17 +1,19 @@
 ---
-title: "The Value Perspective｜尼克·特雷恩：长期概率、英国市场与质量识别"
+title: "Ted Weschler-2022-Q&A-Podcast（NFM）"
 slug: "sources/source-58"
-description: "依据 The Value Perspective 公开节目简介，整理 Nick Train 对长期概率、英国市场变化与 quality 识别的最新表达。"
+description: "Greg Abel（实体业务-大方向资本配置）、Ajt Jain（保险业务）、Ted Weschler（证券投资）的三剑客组合已正式确立"
 ---
 
-**原文件名**: `The Value Perspective｜尼克·特雷恩：长期概率、英国市场与质量识别.md`  
-**外部来源**: https://schroderstvp.podbean.com/e/the-value-perspective-with-nick-train/
+**原文件名**: `Ted Weschler-2022-Q&A-Podcast（NFM）.md`  
+**外部来源**: https://mp.weixin.qq.com/s/kd-BqzgbpG8D21VCwFIRiQ
 
+**作者**: 原创 臧文浩  
+**时间**: 2025年12月9日 12:29
 
 ## 摘要
 
-依据 The Value Perspective 公开节目简介，整理 Nick Train 对长期概率、英国市场变化与 quality 识别的最新表达。
+Greg Abel（实体业务-大方向资本配置）、Ajt Jain（保险业务）、Ted Weschler（证券投资）的三剑客组合已正式确立
 
 ## 节选
 
-> 整理说明： > 本页依据节目官方简介与公开可见主题整理。当前公开页面未提供完整 transcript，因此这里只保留页面明确给出的结构性信息，不伪造逐字对话。
+BRK昨日官宣人事调整，引人注目的是Todd Combs（2011-2025）离开加入JPMorgan，原因众说纷纭。但结果是清晰明朗的：

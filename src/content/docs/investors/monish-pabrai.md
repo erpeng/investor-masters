@@ -24,7 +24,7 @@ description: "把复制优秀先例当成正式方法的人。"
 
 > “我很早就了解到克隆和复制的力量。”
 >
-> ——来源：[莫尼什·帕伯莱：芒格会将简单的想法认真执行](/investor-masters/sources/source-108/)
+> ——来源：[莫尼什·帕伯莱：芒格会将简单的想法认真执行](/investor-masters/sources/source-109/)
 
 > 验证卡：现有资料更聚焦思想与人物关系，没有展开完整业绩表。但在这套库里，帕伯莱的重要性并不依赖净值曲线，而依赖他把“克隆”从被人遮掩的行为，变成了明确的投资方法论。
 
@@ -48,7 +48,7 @@ description: "把复制优秀先例当成正式方法的人。"
 
 > “极少数人是克隆高手，而这些人拥有了整个世界。”
 >
-> ——来源：[莫尼什·帕伯莱：芒格会将简单的想法认真执行](/investor-masters/sources/source-108/)
+> ——来源：[莫尼什·帕伯莱：芒格会将简单的想法认真执行](/investor-masters/sources/source-109/)
 
 **形成的结论**
 
@@ -64,25 +64,25 @@ description: "把复制优秀先例当成正式方法的人。"
   > 
   > “极少数人是克隆高手，而这些人拥有了整个世界。”
   >
-  > ——来源：[莫尼什·帕伯莱：芒格会将简单的想法认真执行](/investor-masters/sources/source-108/)
+  > ——来源：[莫尼什·帕伯莱：芒格会将简单的想法认真执行](/investor-masters/sources/source-109/)
 
 - `最爱把问题压回哪一层`: 他总把问题压回“这个东西是不是已经被别人验证过”，而不是停留在我要不要发明一套全新方法。
 
   > “把一个简单的想法认真执行。”
   >
-  > ——来源：[莫尼什·帕伯莱：芒格会将简单的想法认真执行](/investor-masters/sources/source-108/)
+  > ——来源：[莫尼什·帕伯莱：芒格会将简单的想法认真执行](/investor-masters/sources/source-109/)
 
 - `怎么处理不确定性`: 不是靠更多原创判断，而是靠借力已验证的伟大先例，把不确定性降到自己真正能承受的范围。
 
   > “我很早就了解到克隆和复制的力量。”
   >
-  > ——来源：[莫尼什·帕伯莱：芒格会将简单的想法认真执行](/investor-masters/sources/source-108/)
+  > ——来源：[莫尼什·帕伯莱：芒格会将简单的想法认真执行](/investor-masters/sources/source-109/)
 
 - `回答姿态`: 更像公开承认师承关系的实用主义者，不像需要证明自己多原创的人。
 
   > “极少数人是克隆高手，而这些人拥有了整个世界。”
   >
-  > ——来源：[莫尼什·帕伯莱：芒格会将简单的想法认真执行](/investor-masters/sources/source-108/)
+  > ——来源：[莫尼什·帕伯莱：芒格会将简单的想法认真执行](/investor-masters/sources/source-109/)
 
 **画像判断**
 
@@ -118,6 +118,6 @@ description: "把复制优秀先例当成正式方法的人。"
 
 ## 主要来源
 
-- [莫尼什·帕伯莱：芒格会将简单的想法认真执行](/investor-masters/sources/source-108/)
+- [莫尼什·帕伯莱：芒格会将简单的想法认真执行](/investor-masters/sources/source-109/)
 - [Mohnish Pabrai - Wikipedia](https://en.wikipedia.org/wiki/Mohnish_Pabrai)
 - [Pabrai Funds 官方资料](https://www.pabraifunds.com/)

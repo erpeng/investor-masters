@@ -38,8 +38,8 @@ Ted 又把这件事补得更完整一点。他并不主张只读自己最熟的�
 
 ## 主要来源
 
-- [段永平：抄捷径是阴沟里翻船最快的方法](/investor-masters/sources/source-102/)
-- [“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-masters/sources/source-64/)
+- [段永平：抄捷径是阴沟里翻船最快的方法](/investor-masters/sources/source-103/)
+- [“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-masters/sources/source-65/)
 - [2.5万字｜巴菲特投资接班人托德·库姆斯首度揭秘，如何获得这份梦想工作：有四个获取人生长期复利的要素，好奇心和毅力永远不嫌多](/investor-masters/sources/source-01/)
-- [Ted Weschler-2022-Q&A-Podcast（NFM）](/investor-masters/sources/source-57/)
+- [Ted Weschler-2022-Q&A-Podcast（NFM）](/investor-masters/sources/source-58/)
 - [2021年李录与格林沃尔德深度对话：我们想投资的是那些可以在巨大不确定性中泰然处之的公司……](/investor-masters/sources/source-06/)

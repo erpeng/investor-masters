@@ -34,7 +34,7 @@ description: "空头视角 在这批资料 里的最佳入口。"
 ## 主要来源
 
 - [2.5万字｜巴菲特投资接班人托德·库姆斯首度揭秘，如何获得这份梦想工作：有四个获取人生长期复利的要素，好奇心和毅力永远不嫌多](/investor-masters/sources/source-01/)
-- [“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-masters/sources/source-64/)
-- [McKinsey｜李·安斯利：走进 Maverick Capital，传统多空基金如何研究企业](/investor-masters/sources/source-38/)
+- [“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-masters/sources/source-65/)
+- [McKinsey｜李·安斯利：走进 Maverick Capital，传统多空基金如何研究企业](/investor-masters/sources/source-39/)
 - [CFO｜李·安斯利：对冲不是目的，理解企业才是](/investor-masters/sources/source-11/)
-- [Colossus｜史蒂芬·曼德尔：顺着变化下注](/investor-masters/sources/source-28/)
+- [Colossus｜史蒂芬·曼德尔：顺着变化下注](/investor-masters/sources/source-29/)

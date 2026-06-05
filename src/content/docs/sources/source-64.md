@@ -1,19 +1,17 @@
 ---
-title: "“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则"
+title: "Value Investor Insight｜弗朗索瓦·罗雄：Crème de la Crème"
 slug: "sources/source-64"
-description: "在普通股中寻找价值"
+description: "原始材料来源页。"
 ---
 
-**原文件名**: `“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则.md`  
-**外部来源**: https://mp.weixin.qq.com/s/Rltex4fozpUHwk-d29Trng
+**原文件名**: `Value Investor Insight｜弗朗索瓦·罗雄：Crème de la Crème.md`  
+**外部来源**: Value Investor Insight
 
-**作者**: 原创 聪明投资者  
-**时间**: 2025年7月8日 15:01
 
 ## 摘要
 
-在普通股中寻找价值
+原始材料来源页。
 
 ## 节选
 
-担任首席执行官的经历让我更加深刻地体会到企业领导者所面临的关键挑战，那便是如何在短期需求与长期目标之间找到平衡点。
+这是 Rochon 早期公开方法材料之一，价值在于把 `买顶级企业、用合理价格、长期持有` 的框架落实到公司样本和错误复盘上。

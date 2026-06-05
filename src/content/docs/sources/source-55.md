@@ -1,17 +1,17 @@
 ---
-title: "TIP｜弗朗索瓦·罗雄：AI驱动市场中的长期投资"
+title: "TIFF｜塞思·卡拉曼：价值投资问答节选"
 slug: "sources/source-55"
-description: "原始材料来源页。"
+description: "依据 ValueWalk 对 TIFF 2009 问答的公开介绍，整理塞思·卡拉曼在危机后价值投资语境中的补充定位。"
 ---
 
-**原文件名**: `TIP｜弗朗索瓦·罗雄：AI驱动市场中的长期投资.md`  
-**外部来源**: The Investor's Podcast Network
+**原文件名**: `TIFF｜塞思·卡拉曼：价值投资问答节选.md`  
+**外部来源**: https://www.valuewalk.com/seth-klarman-speech-tiff-2009-on-value-investing-full-transcript/
 
 
 ## 摘要
 
-原始材料来源页。
+依据 ValueWalk 对 TIFF 2009 问答的公开介绍，整理塞思·卡拉曼在危机后价值投资语境中的补充定位。
 
 ## 节选
 
-这篇材料用于补 Rochon 在 AI 驱动市场中的最新口径：不是预测 AI 主题涨跌，而是回到企业长期 owner earnings、竞争优势和估值赔率。
+> 整理说明： > 页面公开可见部分只给出访谈背景说明，并提示完整文件嵌在外部文档中；当前未能直接读取完整 transcript。因此本页只保留页面明确说明的信息，用作来源登记与边界说明，不把不可见内容硬扩写。

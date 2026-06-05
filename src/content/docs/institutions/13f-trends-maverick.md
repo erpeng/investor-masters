@@ -341,6 +341,22 @@ Maverick 的公开多头会自然落在热门主题里，但它的方法不是�
 
 Maverick 的方法核心是 赢家 vs 输家。13F 只给 赢家 或 long candidates 的一侧，看不到它在哪些同行、供应链或替代品上做了反向表达。没有这半边，就不能判断净行业暴露。
 
+## 最近一季可抄作业 / 趋势跟踪排序
+
+价格口径：`13F 季末价或隐含价` 使用 Q1 2026 13F 的 `value / shares` 反算；当前价使用 2026-06-05 行情快照（主要为 Nasdaq quote API，`BN / BRK.B / VSCO` 使用 finance fallback）。13F 有季度滞后，本栏只判断“现在还适不适合抄”，不倒推机构当季真实想法。 Maverick 是多空/基本面交易型机构，公开 13F 只能看 long book 的主题，不代表完整净敞口。
+
+| 优先级 | 标的/资产线 | 13F 证据 | 机构手法解释 | 13F 季末价或隐含价 | 当前价 | 13F 后涨幅 | 抄作业结论 | 下一步验证 |
+|---|---|---|---|---:|---:|---:|---|---|
+| 1 | `NU / BSX / RTX` 价格未抢跑的新增/保留线索 | `NU / RTX` 新进前十，`BSX` 股数 +42.5%；价格 -21.0% 到 -5.8% | 这组比 AI 半导体更有赔率，但要先验证基本面 | `NU $14.29` / `BSX $62.00` / `RTX $190.57` | `NU $12.12` / `BSX $48.99` / `RTX $179.59` | `-15.2%` / `-21.0%` / `-5.8%` | 可列第一研究池，尤其适合找“市场为何反着走” | 看信贷损失、医疗器械增长、防务订单、发动机召回和现金流 |
+| 2 | `NVDA / AMZN / MSFT` 大盘 AI/平台核心 | 仍在前十，涨幅 +16.0% 到 +23.6% | 方向未必错，但不是最有赔率的新信号 | `NVDA $174.77` / `AMZN $209.46` / `MSFT $370.39` | `NVDA $215.99` / `AMZN $252.85` / `MSFT $429.72` | `+23.6%` / `+20.7%` / `+16.0%` | 可研究但需要基本面继续上修 | 看 AI capex、云增速、平台利润率和估值 |
+| 3 | `TSM / ASML / AMAT / AGX` 已涨的设备/工程链 | `ASML / AMAT / AGX` 新进前十或升权，但涨幅 +29.2% 到 +44.2% | 这是 AI 供应链和工程周期暴露，价格已透支一部分 | `TSM $336.33` / `ASML $1308.67` / `AMAT $338.85` / `AGX $540.99` | `TSM $436.93` / `ASML $1690.58` / `AMAT $488.49` / `AGX $765.75` | `+29.9%` / `+29.2%` / `+44.2%` / `+41.5%` | 降级为复盘或等待回撤，不适合机械追 | 看设备订单、工程 backlog、margin、AI capex 是否继续上修 |
+
+### 反向复盘
+
+- `GOOG / PM / COF / UNP`：退出前十，说明 Maverick 在平台、烟草、金融和铁路之间做了机会成本切换。
+- `MSFT / TSM / GOOG / PM` 等显著减股后仍有上涨或稳定，不能把减仓简单写成看空；更可能是风险预算和相对赔率调整。
+- 公开 long book 看不到 short book；Maverick 的“可抄”必须比长期多头更保守。
+
 ## 继续观察
 
 - `ASML / TSM / AMAT / NVDA` 是否继续同时留在前十；这是半导体链条暴露是否扩散的关键。
@@ -373,5 +389,5 @@ Maverick 的方法核心是 赢家 vs 输家。13F 只给 赢家 或 long candid
 - [SEC 13F Q1 2023 filing detail](https://www.sec.gov/Archives/edgar/data/934639/000094787123000583/0000947871-23-000583-index.html)
 - [李·安斯利](/investor-masters/investors/lee-ainslie/)
 - [Maverick Capital](/investor-masters/institutions/maverick-capital/)
-- [McKinsey｜李·安斯利：走进 Maverick Capital，传统多空基金如何研究企业](/investor-masters/sources/source-38/)
+- [McKinsey｜李·安斯利：走进 Maverick Capital，传统多空基金如何研究企业](/investor-masters/sources/source-39/)
 - [CFO｜李·安斯利：对冲不是目的，理解企业才是](/investor-masters/sources/source-11/)

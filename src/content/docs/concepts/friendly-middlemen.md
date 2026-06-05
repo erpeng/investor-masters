@@ -24,5 +24,5 @@ description: "友好中介 在这批资料 里的最佳入口。"
 
 ## 主要来源
 
-- [J.P. Morgan｜AKO Capital：数据如何进入主观投资流程](/investor-masters/sources/source-36/)
+- [J.P. Morgan｜AKO Capital：数据如何进入主观投资流程](/investor-masters/sources/source-37/)
 - [AKO Quality Investing](https://www.akocapital.com/quality-investing/)

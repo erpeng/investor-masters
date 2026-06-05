@@ -24,7 +24,7 @@ Michael B. Lowenstein 与 Thomas J. Coleman 最值得放进投资大师系列的
 
 **验证卡**
 
-公开材料通常把 Kensico Capital Management 与 Michael B. Lowenstein、Thomas J. Coleman 绑定；SEC 13F 披露主体为 `KENSICO CAPITAL MANAGEMENT CORP`，CIK `0001113000`。最新可见季度为 `2026Q1`，13F 总市值约 `$4.90bn`，第一大仓 `APP`，第二大仓 `HWM`，前五集中度超过七成。依据：[SEC｜Kensico Capital Management：ADV与13F官方资料](/investor-masters/sources/source-52/)、[13F趋势-Kensico](/investor-masters/institutions/13f-trends-kensico/)。
+公开材料通常把 Kensico Capital Management 与 Michael B. Lowenstein、Thomas J. Coleman 绑定；SEC 13F 披露主体为 `KENSICO CAPITAL MANAGEMENT CORP`，CIK `0001113000`。最新可见季度为 `2026Q1`，13F 总市值约 `$4.90bn`，第一大仓 `APP`，第二大仓 `HWM`，前五集中度超过七成。依据：[SEC｜Kensico Capital Management：ADV与13F官方资料](/investor-masters/sources/source-53/)、[13F趋势-Kensico](/investor-masters/institutions/13f-trends-kensico/)。
 
 ## 来时路
 
@@ -90,8 +90,8 @@ Maverick / Lone Pine 有更多可引用访谈来解释研究制度；Kensico 的
 
 ## 主要来源
 
-- [SEC｜Kensico Capital Management：ADV与13F官方资料](/investor-masters/sources/source-52/)
-- [SEC｜Kensico Capital Management：2023-2026 13F持仓轨迹](/investor-masters/sources/source-51/)
+- [SEC｜Kensico Capital Management：ADV与13F官方资料](/investor-masters/sources/source-53/)
+- [SEC｜Kensico Capital Management：2023-2026 13F持仓轨迹](/investor-masters/sources/source-52/)
 - Kensico Capital Management-低公开曝光基本面组合-source-audit
 - [Kensico Capital Management](/investor-masters/institutions/kensico-capital-management/)
 - [13F趋势-Kensico](/investor-masters/institutions/13f-trends-kensico/)

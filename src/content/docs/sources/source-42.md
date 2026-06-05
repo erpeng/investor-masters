@@ -1,16 +1,17 @@
 ---
-title: "Pat Dorsey｜Competitive Advantage and Capital Allocation 2026"
+title: "Motley Fool｜大卫·艾因霍恩：透明度、监管失灵与揭弊式做空"
 slug: "sources/source-42"
-description: "原始材料来源页。"
+description: "依据 Motley Fool 对谈，整理大卫·艾因霍恩关于 Allied、SEC、卖方偏见、评级机构与金融体系结构性失灵的判断。"
 ---
 
-**原文件名**: `Pat Dorsey｜Competitive Advantage and Capital Allocation 2026.md`  
+**原文件名**: `Motley Fool｜大卫·艾因霍恩：透明度、监管失灵与揭弊式做空.md`  
+**外部来源**: https://www.fool.com/investing/general/2011/01/06/a-foolish-interview-with-david-einhorn.aspx
 
 
 ## 摘要
 
-原始材料来源页。
+依据 Motley Fool 对谈，整理大卫·艾因霍恩关于 Allied、SEC、卖方偏见、评级机构与金融体系结构性失灵的判断。
 
 ## 节选
 
-这份 2026 年 6 月 presentation 是 Pat Dorsey / Dorsey Asset Management 对护城河、再投资和资本配置框架的最新公开版本。它适合承担方法主干责任。
+> 整理说明： > 本页依据 Motley Fool 公开采访原文整理。重点不是重复 Allied 历史，而是提炼艾因霍恩最鲜明的 `forensic investing` 气质：怀疑 gatekeepers、重透明度、把制度失灵也纳入研究。

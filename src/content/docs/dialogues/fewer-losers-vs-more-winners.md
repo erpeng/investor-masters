@@ -33,6 +33,6 @@ description: "把方法冲突显性化的对照页。"
 
 ## 主要来源
 
-- [适合投资者反复听的思维方式！霍华德·马克斯在沃顿的最新对话，关于成长还是价值、卖出还是持有，更多制胜还是减少犯错……](/investor-masters/sources/source-112/)
-- [如何看待高成长与经典价值？柏基“传奇基金经理”詹姆斯·安德森2019年深度撰文](/investor-masters/sources/source-88/)
-- [要站在变化的一边！70岁“木头姐”兴奋盘点2026大机会：现在就是黄金时间](/investor-masters/sources/source-109/)
+- [适合投资者反复听的思维方式！霍华德·马克斯在沃顿的最新对话，关于成长还是价值、卖出还是持有，更多制胜还是减少犯错……](/investor-masters/sources/source-113/)
+- [如何看待高成长与经典价值？柏基“传奇基金经理”詹姆斯·安德森2019年深度撰文](/investor-masters/sources/source-89/)
+- [要站在变化的一边！70岁“木头姐”兴奋盘点2026大机会：现在就是黄金时间](/investor-masters/sources/source-110/)

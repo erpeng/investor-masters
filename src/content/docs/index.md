@@ -58,10 +58,10 @@ description: "把分散的投资访谈、合伙人信和机构材料，编译成
 ## 最近更新
 
 - `2026-06-05` 吸收 Dorsey Asset Management 支线
+- `2026-06-05` 修正 Dorsey / Coatue 人物页材料优先级
+- `2026-06-05` Dorsey 纳入 13F 横向榜单
 - `2026-06-02` 新增 Kensico Capital Management 投资大师专题包
 - `2026-06-02` 按 skill 重生成 Giverny 单机构 13F 趋势页
 - `2026-06-02` 按 skill 重生成 Appaloosa 单机构 13F 趋势页
 - `2026-06-01` 新增 François Rochon / Giverny Capital 支线
 - `2026-05-26` 新增 Oakmark 单机构 13F 趋势页
-- `2026-05-26` 新增 Greenlight 单机构 13F 趋势页
-- `2026-05-26` 新增 Maverick Capital 单机构 13F 趋势页
