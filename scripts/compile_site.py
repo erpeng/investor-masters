@@ -541,6 +541,19 @@ def parse_sections(body: str) -> dict[str, str]:
     return {k: "\n".join(v).strip() for k, v in sections.items()}
 
 
+def section_first(sections: dict[str, str], *names: str) -> str:
+    for name in names:
+        text = sections.get(name, "").strip()
+        if text:
+            return text
+    return ""
+
+
+def section_join(sections: dict[str, str], *names: str) -> str:
+    parts = [sections[name].strip() for name in names if sections.get(name, "").strip()]
+    return "\n\n".join(parts)
+
+
 def strip_images(text: str) -> str:
     kept = []
     for line in text.splitlines():
@@ -978,6 +991,18 @@ def compile_investors():
         source_path = WIKI_DIR / "investors" / f"{name}.md"
         fm, body = parse_frontmatter(source_path.read_text(encoding="utf-8"))
         sections = parse_sections(body)
+        intro_text = section_first(sections, "简介") or section_join(
+            sections, "一句话定位", "为什么值得读", "为什么值得单独读"
+        )
+        analysis_text = section_first(sections, "人物分析") or section_join(
+            sections, "核心方法", "优势来源", "人物感"
+        )
+        failure_text = section_first(sections, "失误、边界与失效条件") or section_first(
+            sections, "典型错误和边界"
+        )
+        source_text = section_first(sections, "主要来源") or section_join(
+            sections, "先说代表材料", "先说证据等级", "代表材料", "关联入口"
+        )
         annualized = INVESTOR_ANNUALIZED_RETURNS.get(name, "未公开")
         institution_name, institution_path = meta["institution"]
         if institution_path:
@@ -987,7 +1012,7 @@ def compile_investors():
         output = DOCS_DIR / "investors" / f"{meta['slug']}.md"
         quote = convert_wikilinks(
             translate_common_phrases(
-                first_blockquote(sections.get("人物分析", "")) or first_quote(sections.get("标志性语录", ""))
+                first_blockquote(analysis_text) or first_quote(sections.get("标志性语录", ""))
             ),
             output,
         )
@@ -1001,7 +1026,7 @@ def compile_investors():
             f"**代表性持仓**: {meta['holdings']}  ",
             f"**核心方法**: {meta['methods']}\n",
             "## 简介\n",
-            convert_wikilinks(translate_common_phrases(sections.get("简介", "现有资料暂未涉及。")), output),
+            convert_wikilinks(translate_common_phrases(intro_text or "现有资料暂未涉及。"), output),
             "\n## 来时路\n",
             convert_wikilinks(
                 translate_common_phrases(
@@ -1010,10 +1035,10 @@ def compile_investors():
                 output,
             ),
             "\n## 人物分析\n",
-            convert_wikilinks(translate_common_phrases(sections.get("人物分析", "当前语料未涉及。")), output),
+            convert_wikilinks(translate_common_phrases(analysis_text or "当前语料未涉及。"), output),
             "\n## 失误、边界与失效条件\n",
             convert_wikilinks(
-                translate_common_phrases(sections.get("失误、边界与失效条件", "当前语料未涉及。")),
+                translate_common_phrases(failure_text or "当前语料未涉及。"),
                 output,
             ),
             "\n## 对我有什么启发\n",
@@ -1021,7 +1046,7 @@ def compile_investors():
             "\n## 横向定位\n",
             convert_wikilinks(translate_common_phrases(sections.get("横向定位", "当前语料未涉及。")), output),
             "\n## 主要来源\n",
-            convert_wikilinks(sections.get("主要来源", "当前语料未涉及。"), output),
+            convert_wikilinks(source_text or "当前语料未涉及。", output),
         ]
         write(output, "\n".join([p for p in pieces if p]))
 

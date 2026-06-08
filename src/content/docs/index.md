@@ -58,6 +58,7 @@ description: "把分散的投资访谈、合伙人信和机构材料，编译成
 
 ## 最近更新
 
+- `2026-06-08` 修复新人物页站点栏目缺失
 - `2026-06-08` 新增 Brad Gerstner / Altimeter Capital 投资大师专题包
 - `2026-06-06` 2026Q1 横向 13F 增加抄作业榜
 - `2026-06-05` 吸收 Dorsey Asset Management 支线
@@ -65,4 +66,3 @@ description: "把分散的投资访谈、合伙人信和机构材料，编译成
 - `2026-06-05` Dorsey 纳入 13F 横向榜单
 - `2026-06-02` 新增 Kensico Capital Management 投资大师专题包
 - `2026-06-02` 按 skill 重生成 Giverny 单机构 13F 趋势页
-- `2026-06-02` 按 skill 重生成 Appaloosa 单机构 13F 趋势页
