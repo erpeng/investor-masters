@@ -37,6 +37,7 @@ description: "跨人物阅读时，最容易反复出现的那几根骨架。"
 - [政策反应函数](/investor-masters/concepts/policy-reaction-function/)
 - [时间套利](/investor-masters/concepts/time-arbitrage/)
 - [超级赢家](/investor-masters/concepts/super-winners/)
+- [幂律与超级周期](/investor-masters/concepts/power-law-supercycles/)
 - [反脆弱与仓位管理](/investor-masters/concepts/antifragility-and-position-sizing/)
 - [空头视角](/investor-masters/concepts/short-perspective/)
 - [企业文化](/investor-masters/concepts/corporate-culture/)

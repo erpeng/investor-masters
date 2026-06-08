@@ -1,17 +1,18 @@
 ---
-title: "原文｜CNBC｜肯·格里芬：Citadel 总部首场电视长访谈"
+title: "“打孔机”只打了不到10个孔！段永平与方三文最新对话，详解“投资中如何真正算看懂”……"
 slug: "sources/source-77"
-description: "从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML。"
+description: "畅聊苹果、英伟达、伯克希尔、拼多多……"
 ---
 
-**原文件名**: `原文｜CNBC｜肯·格里芬：Citadel 总部首场电视长访谈.md`  
-**外部来源**: https://www.cnbc.com/2015/11/19/cnbc-exclusive-cnbc-transcript-citadel-founder-ceo-ken-griffin-speaks-with-cnbcs-kate-kelly-on-squawk-on-the-street-today.html
+**原文件名**: `“打孔机”只打了不到10个孔！段永平与方三文最新对话，详解“投资中如何真正算看懂”…….md`  
+**外部来源**: https://mp.weixin.qq.com/s/yREiBYnmeWhn5kuOtQZn3w
 
+**时间**: 2025年11月11日 19:10
 
 ## 摘要
 
-从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML。
+畅聊苹果、英伟达、伯克希尔、拼多多……
 
 ## 节选
 
-- 对应整理稿：[[现有资料/CNBC｜肯·格里芬：Citadel 总部首场电视长访谈.md]] - 抓取时间：`2026-04-20` - 抽取方式：`HTML` - 原始域名：`www.cnbc.com`
+“人们关心的是我们做过什么，其实 我们之所以成为我们，很大的原因是因为我们不做的那些事情。”

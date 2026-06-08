@@ -1,10 +1,10 @@
 ---
-title: "CNBC｜Appaloosa：2019-family-office转型"
+title: "Bloomberg｜David Tepper：2013美国复苏与风险偏好"
 slug: "sources/source-12"
 description: "原始材料来源页。"
 ---
 
-**原文件名**: `CNBC｜Appaloosa：2019-family-office转型.md`  
+**原文件名**: `Bloomberg｜David Tepper：2013美国复苏与风险偏好.md`  
 
 
 ## 摘要
@@ -13,4 +13,4 @@ description: "原始材料来源页。"
 
 ## 节选
 
-这条不是访谈，但对 Appaloosa 机构页很关键。它说明 Appaloosa 从传统外部资本 hedge fund 逐步转向更接近 family office 的资本结构，这会改变时间压力、赎回压力和仓位自由度。
+这条材料承接 2010 年后金融危机政策底：Tepper 对美国增长、风险资产和 Appaloosa 背景做了更完整表述，也提供了 1998 年俄罗斯危机亏损等重要边界线索。

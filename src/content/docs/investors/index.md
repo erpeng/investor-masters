@@ -62,6 +62,7 @@ description: "从人物、约束和边界切入理解不同投资方法。"
 | [纳瓦尔·拉维坎特](/investor-masters/investors/naval-ravikant/) | 知识、判断力、品味 | 中 | 5年+ | 中 | 创业投资 / 成长 | 独立 / 创业者投资人 | 未公开 | “到了某个阶段，你的判断力已经强到你根本解释不出来了。那时候，它就叫‘品味’。” |
 | [迈克尔·洛温斯坦与托马斯·科尔曼](/investor-masters/investors/michael-lowenstein-thomas-coleman/) | 低公开曝光、组合型证据、允许赢家改变形状 | 高 | 1-5年/赢家延长 | 中 | 质量成长 / 基本面集中 | [Kensico Capital Management](/investor-masters/institutions/kensico-capital-management/) | 未公开 | “推断：当公开话语很少时，连续 13F 行为比漂亮叙事更重要。” |
 | [菲利普·拉丰](/investor-masters/investors/philippe-laffont/) | 公私一体科技投资、AI stack、Tiger Cub 成长研究 | 高 | 1-5年/跨阶段 | 中高 | 成长 / 科技 / 公私一体 | [Coatue Management](/investor-masters/institutions/coatue-management/) | 部分公开 | “推断：技术变化要同时被私募网络、公开市场仓位和价值链瓶颈验证。” |
+| [布拉德·格斯特纳](/investor-masters/investors/brad-gerstner/) | 公私一体、幂律、AI 超级周期、股东纪律 | 极高 | 1-5年/跨阶段 | 中高 | 成长 / 科技 / 公私一体 | [Altimeter Capital](/investor-masters/institutions/altimeter-capital/) | 未公开 | “推断：supercycle 只有落到公开仓位、资本配置和赔率，才不是科技叙事。” |
 
 
 ## 全部投资人
@@ -78,6 +79,7 @@ description: "从人物、约束和边界切入理解不同投资方法。"
 - [特里·史密斯](/investor-masters/investors/terry-smith/)
 - [帕特·多尔西](/investor-masters/investors/pat-dorsey/)
 - [菲利普·拉丰](/investor-masters/investors/philippe-laffont/)
+- [布拉德·格斯特纳](/investor-masters/investors/brad-gerstner/)
 - [弗朗索瓦·罗雄](/investor-masters/investors/francois-rochon/)
 - [段永平](/investor-masters/investors/duan-yongping/)
 - [詹姆斯·安德森](/investor-masters/investors/james-anderson/)

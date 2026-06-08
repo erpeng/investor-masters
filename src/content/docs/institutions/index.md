@@ -38,6 +38,7 @@ description: "激励结构决定投资人能做什么，而不只是想做什么
 - [Fundsmith](/investor-masters/institutions/fundsmith/)
 - [Dorsey Asset Management](/investor-masters/institutions/dorsey-asset-management/)
 - [Coatue Management](/investor-masters/institutions/coatue-management/)
+- [Altimeter Capital](/investor-masters/institutions/altimeter-capital/)
 - [Giverny Capital](/investor-masters/institutions/giverny-capital/)
 - [Greenlight Capital](/investor-masters/institutions/greenlight-capital/)
 - [Baupost Group](/investor-masters/institutions/baupost-group/)

@@ -1,19 +1,17 @@
 ---
-title: "“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则"
+title: "Stanford GSB｜肯·格里芬：投资、竞争与未来"
 slug: "sources/source-65"
-description: "在普通股中寻找价值"
+description: "依据 Stanford GSB 公开文章页，整理 Ken Griffin 关于 winning、组织竞争与长期 ambition 的最新表达。"
 ---
 
-**原文件名**: `“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则.md`  
-**外部来源**: https://mp.weixin.qq.com/s/Rltex4fozpUHwk-d29Trng
+**原文件名**: `Stanford GSB｜肯·格里芬：投资、竞争与未来.md`  
+**外部来源**: https://www.gsb.stanford.edu/insights/ken-griffin-investing-winning-why-hes-focused-future
 
-**作者**: 原创 聪明投资者  
-**时间**: 2025年7月8日 15:01
 
 ## 摘要
 
-在普通股中寻找价值
+依据 Stanford GSB 公开文章页，整理 Ken Griffin 关于 winning、组织竞争与长期 ambition 的最新表达。
 
 ## 节选
 
-担任首席执行官的经历让我更加深刻地体会到企业领导者所面临的关键挑战，那便是如何在短期需求与长期目标之间找到平衡点。
+> 整理说明： > Stanford GSB 当前公开页面提供的是节目摘要与部分关键引语，不是完整 transcript。本页只使用页面可见的明确表述。

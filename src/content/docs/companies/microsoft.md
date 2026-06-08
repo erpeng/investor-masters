@@ -24,17 +24,22 @@ description: "微软在这批资料里是“高质量老平台重新进入增长
 这解释了他为什么能在 8 倍 PE 时重仓微软。
 
 ### [詹姆斯·安德森](/investor-masters/investors/james-anderson/)
-> “而安德森面对的是另一幅图景：微软、谷歌、亚马逊、 M eta、特斯拉 ，包括我们熟悉的阿里、腾讯，这些公司在极大规模下依然保持高增长，回报结构更像 “幂律分布” ， 极少数赢家决定了大部分收益。背后是技术、数据、网络效应和 “规模报酬递增”的崛起，是知识密集型经济替代资产密集型经济。” ——来源：[如何看待高成长与经典价值？柏基“传奇基金经理”詹姆斯·安德森2019年深度撰文](/investor-masters/sources/source-89/)
+> “而安德森面对的是另一幅图景：微软、谷歌、亚马逊、 M eta、特斯拉 ，包括我们熟悉的阿里、腾讯，这些公司在极大规模下依然保持高增长，回报结构更像 “幂律分布” ， 极少数赢家决定了大部分收益。背后是技术、数据、网络效应和 “规模报酬递增”的崛起，是知识密集型经济替代资产密集型经济。” ——来源：[如何看待高成长与经典价值？柏基“传奇基金经理”詹姆斯·安德森2019年深度撰文](/investor-masters/sources/source-100/)
 
 安德森在乎的不是便宜，而是幂律赢家继续扩张。
 
+### [比尔·阿克曼](/investor-masters/investors/bill-ackman/)
+
+Pershing 的 `MSFT` 是 2026Q1 最明确的新核心仓之一。[13F趋势-Pershing](/investor-masters/institutions/13f-trends-pershing/) 显示，`MSFT` 本季新进前十大并直接占 13F 组合约 `15.3%`，与 `AMZN` 继续加股、`GOOG/GOOGL` 大幅退出一起，构成 Ackman 在平台资产内部重排 opportunity cost 的证据。这里的微软不是“老平台重新增长”的历史样本，而是 AI 时代现金流确定性和平台质量被重新比较后的新选择。
+
 ## 分歧与共识
 
-史密斯读微软是“高质量公司偶尔也会被错杀”，安德森读微软是“大公司仍可能保持高增长”。两者并不矛盾，但时间框架和估值语言明显不同。
+史密斯读微软是“高质量公司偶尔也会被错杀”，安德森读微软是“大公司仍可能保持高增长”，Ackman 则把它读成 2026Q1 平台重排里的新核心仓。三者并不矛盾，但时间框架和估值语言明显不同。
 
 ## 相关页面
 
 - [特里·史密斯](/investor-masters/investors/terry-smith/)
 - [詹姆斯·安德森](/investor-masters/investors/james-anderson/)
+- [比尔·阿克曼](/investor-masters/investors/bill-ackman/)
 - [Alphabet](/investor-masters/companies/alphabet/)
 - [Meta](/investor-masters/companies/meta/)

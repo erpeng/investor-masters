@@ -1,17 +1,17 @@
 ---
-title: "原文｜CFO｜李·安斯利：对冲不是目的，理解企业才是"
+title: "Value Investor Insight｜弗朗索瓦·罗雄：Affordable Quality"
 slug: "sources/source-74"
-description: "从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML。"
+description: "原始材料来源页。"
 ---
 
-**原文件名**: `原文｜CFO｜李·安斯利：对冲不是目的，理解企业才是.md`  
-**外部来源**: https://www.cfo.com/news/lee-ainslie-not-hedging-a-bit/676108/
+**原文件名**: `Value Investor Insight｜弗朗索瓦·罗雄：Affordable Quality.md`  
+**外部来源**: Value Investor Insight
 
 
 ## 摘要
 
-从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML。
+原始材料来源页。
 
 ## 节选
 
-- 对应整理稿：[[现有资料/CFO｜李·安斯利：对冲不是目的，理解企业才是.md]] - 抓取时间：`2026-04-20` - 抽取方式：`HTML` - 原始域名：`www.cfo.com` - 备注：依据本地抓取 HTML 清洗正文，去掉站点导航与订阅噪音。
+这篇材料是 Rochon 在平台公司和高质量成长股被重新定价后的重要更新。它把 `quality` 和 `valuation discipline` 放在一起，而不是把质量投资讲成无条件买好公司。

@@ -1,10 +1,10 @@
 ---
-title: "Bloomberg｜David Tepper：2013美国复苏与风险偏好"
+title: "Altimeter Capital｜官网与SEC事实"
 slug: "sources/source-10"
 description: "原始材料来源页。"
 ---
 
-**原文件名**: `Bloomberg｜David Tepper：2013美国复苏与风险偏好.md`  
+**原文件名**: `Altimeter Capital｜官网与SEC事实.md`  
 
 
 ## 摘要
@@ -13,4 +13,4 @@ description: "原始材料来源页。"
 
 ## 节选
 
-这条材料承接 2010 年后金融危机政策底：Tepper 对美国增长、风险资产和 Appaloosa 背景做了更完整表述，也提供了 1998 年俄罗斯危机亏损等重要边界线索。
+- Altimeter official site: https://www.altimeter.com/home - SEC submissions: https://data.sec.gov/submissions/CIK0001541617.json - SEC latest 13F index: https://www.sec.gov/Archives/edgar/data/1541617/000154161726000006/0001541617-26-000006-index.html

@@ -39,9 +39,9 @@ Baupost 的机构哲学可以压成一句话：`先问风险是否值得承担�
 
 ## 标志性公开材料
 
-- [Value Investing with Legends｜塞思·卡拉曼：逆向纪律、耐心资本与 Baupost](/investor-masters/sources/source-62/)
-- [Harvard Business School｜塞思·卡拉曼：危机中的 Baupost 与价值纪律](/investor-masters/sources/source-36/)
-- [TIFF｜塞思·卡拉曼：价值投资问答节选](/investor-masters/sources/source-55/)
+- [Value Investing with Legends｜塞思·卡拉曼：逆向纪律、耐心资本与 Baupost](/investor-masters/sources/source-73/)
+- [Harvard Business School｜塞思·卡拉曼：危机中的 Baupost 与价值纪律](/investor-masters/sources/source-46/)
+- [TIFF｜塞思·卡拉曼：价值投资问答节选](/investor-masters/sources/source-66/)
 
 ## 13F 持仓（近四个季度）
 
@@ -132,6 +132,6 @@ Baupost 最值得持续观察的问题，是这套高度依赖纪律、资本边
 
 ## 主要来源
 
-- [Value Investing with Legends｜塞思·卡拉曼：逆向纪律、耐心资本与 Baupost](/investor-masters/sources/source-62/)
-- [Harvard Business School｜塞思·卡拉曼：危机中的 Baupost 与价值纪律](/investor-masters/sources/source-36/)
-- [TIFF｜塞思·卡拉曼：价值投资问答节选](/investor-masters/sources/source-55/)
+- [Value Investing with Legends｜塞思·卡拉曼：逆向纪律、耐心资本与 Baupost](/investor-masters/sources/source-73/)
+- [Harvard Business School｜塞思·卡拉曼：危机中的 Baupost 与价值纪律](/investor-masters/sources/source-46/)
+- [TIFF｜塞思·卡拉曼：价值投资问答节选](/investor-masters/sources/source-66/)

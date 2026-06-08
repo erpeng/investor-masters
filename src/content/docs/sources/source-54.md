@@ -1,17 +1,16 @@
 ---
-title: "Stanford GSB｜肯·格里芬：投资、竞争与未来"
+title: "Pat Dorsey｜Manual of Ideas 护城河访谈组"
 slug: "sources/source-54"
-description: "依据 Stanford GSB 公开文章页，整理 Ken Griffin 关于 winning、组织竞争与长期 ambition 的最新表达。"
+description: "原始材料来源页。"
 ---
 
-**原文件名**: `Stanford GSB｜肯·格里芬：投资、竞争与未来.md`  
-**外部来源**: https://www.gsb.stanford.edu/insights/ken-griffin-investing-winning-why-hes-focused-future
+**原文件名**: `Pat Dorsey｜Manual of Ideas 护城河访谈组.md`  
 
 
 ## 摘要
 
-依据 Stanford GSB 公开文章页，整理 Ken Griffin 关于 winning、组织竞争与长期 ambition 的最新表达。
+原始材料来源页。
 
 ## 节选
 
-> 整理说明： > Stanford GSB 当前公开页面提供的是节目摘要与部分关键引语，不是完整 transcript。本页只使用页面可见的明确表述。
+这组材料覆盖 2012 和 2014 年 Pat Dorsey 与 Manual of Ideas / MOI Global 的访谈。它是理解 Dorsey 护城河方法从 Morningstar 框架走向资产管理实践的主干访谈。

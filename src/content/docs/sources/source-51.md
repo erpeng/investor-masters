@@ -1,16 +1,17 @@
 ---
-title: "SEC｜Dorsey Asset Management：2023-2026 13F持仓轨迹"
+title: "Money Makers｜尼克·特雷恩：少做反而赚得更多"
 slug: "sources/source-51"
-description: "原始材料来源页。"
+description: "依据 Money Makers 公开全文，整理 Nick Train 关于 slow buy and hold、能力圈、三类偏好公司与忽略宏观的核心表达。"
 ---
 
-**原文件名**: `SEC｜Dorsey Asset Management：2023-2026 13F持仓轨迹.md`  
+**原文件名**: `Money Makers｜尼克·特雷恩：少做反而赚得更多.md`  
+**外部来源**: https://money-makers.co/nick-train-interview/
 
 
 ## 摘要
 
-原始材料来源页。
+依据 Money Makers 公开全文，整理 Nick Train 关于 slow buy and hold、能力圈、三类偏好公司与忽略宏观的核心表达。
 
 ## 节选
 
-这是 Dorsey Asset Management, LLC 的 SEC 13F 公开持仓轨迹。CIK 为 `0001671657`。本轮覆盖 `2023Q1-2026Q1`，并用 `2022Q4` 作为前置季计算 `2023Q1` 变化。
+- `主角`：尼克·特雷恩（Nick Train） - `场景`：Money Makers 长访谈 - `时间`：`2015-10-03` - `核心价值`：这是 Nick Train 公开材料里最像“自我定义”的一篇。它把 `slow buy and hold / 极低换手 / 三类偏好公司 / 能力圈 / 忽略宏观` 一次讲清楚。

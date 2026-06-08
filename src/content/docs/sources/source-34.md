@@ -1,17 +1,16 @@
 ---
-title: "Edison｜尼克·特雷恩：Lindsell Train 的长期持有方法"
+title: "Coatue｜CTEK与Fantastic 40"
 slug: "sources/source-34"
-description: "依据 Edison 节目简介，整理 Nick Train 关于管理层质量、长期与短期、run winners、利益一致与 succession 的公开表达。"
+description: "原始材料来源页。"
 ---
 
-**原文件名**: `Edison｜尼克·特雷恩：Lindsell Train 的长期持有方法.md`  
-**外部来源**: https://www.edisongroup.com/edison-tv/lindsell-train-fund-manager-interview-with-nick-train/27489/
+**原文件名**: `Coatue｜CTEK与Fantastic 40.md`  
 
 
 ## 摘要
 
-依据 Edison 节目简介，整理 Nick Train 关于管理层质量、长期与短期、run winners、利益一致与 succession 的公开表达。
+原始材料来源页。
 
 ## 节选
 
-> 整理说明： > Edison 页面当前公开的是节目简介与 topics 列表，而不是完整 transcript。本页只整理页面明确给出的讨论范围。
+CTEK / Coatue Growth Innovation Index 用来观察 Coatue 如何把技术创新从私募网络、数据、行业地图转成公开市场和指数化观察框架。`Why CTEK` 同时补充了 Philippe Laffont 的公开履历：MIT 计算机科学背景、McKinsey 电信业务经历、Tiger Management 电信股票研究，以及 1999 年创立 Coatue。

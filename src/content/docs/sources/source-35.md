@@ -1,10 +1,10 @@
 ---
-title: "Fortune｜David Tepper：2014-nervous-time"
+title: "Coatue｜Philippe Laffont：CNBC 2025 AI与Fantastic 40访谈"
 slug: "sources/source-35"
 description: "原始材料来源页。"
 ---
 
-**原文件名**: `Fortune｜David Tepper：2014-nervous-time.md`  
+**原文件名**: `Coatue｜Philippe Laffont：CNBC 2025 AI与Fantastic 40访谈.md`  
 
 
 ## 摘要
@@ -13,4 +13,4 @@ description: "原始材料来源页。"
 
 ## 节选
 
-- Fortune, 2014-05-15 - 场景：SALT Conference 相关报道
+这条官方转载材料承担 Philippe Laffont 近年公开方法口径：AI 不是孤立主题，而是重写软件、基础设施、生产率和企业竞争格局的长期变化。

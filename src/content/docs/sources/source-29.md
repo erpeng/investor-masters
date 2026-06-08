@@ -1,17 +1,17 @@
 ---
-title: "Colossus｜史蒂芬·曼德尔：顺着变化下注"
+title: "CNBC｜丹·勒布：更动荡市场中的 event-driven 组合"
 slug: "sources/source-29"
-description: "史蒂芬·曼德尔谈投资行业如何变化、为什么做空更难、为什么仍要深入企业内部，以及 Lone Pine 如何围绕变化建立研究优势。"
+description: "依据 CNBC 对 Dan Loeb 经济俱乐部发言的摘要，整理 Third Point 在更动荡市场环境下转向 event-driven / catalyst-oriented 组合的最新表达。"
 ---
 
-**原文件名**: `Colossus｜史蒂芬·曼德尔：顺着变化下注.md`  
-**外部来源**: https://joincolossus.com/episode/mandel-investing-behind-change/
+**原文件名**: `CNBC｜丹·勒布：更动荡市场中的 event-driven 组合.md`  
+**外部来源**: https://www.cnbc.com/video/2025/04/23/third-point-ceo-dan-loeb-i-wouldnt-underestimate-the-resilience-of-the-american-economy.html
 
 
 ## 摘要
 
-史蒂芬·曼德尔谈投资行业如何变化、为什么做空更难、为什么仍要深入企业内部，以及 Lone Pine 如何围绕变化建立研究优势。
+依据 CNBC 对 Dan Loeb 经济俱乐部发言的摘要，整理 Third Point 在更动荡市场环境下转向 event-driven / catalyst-oriented 组合的最新表达。
 
 ## 节选
 
-> 整理说明： > 本页依据 Colossus 节目页、公开节目简介、可见 transcript 开头与公开 show notes 整理而成。 > 这不是官方完整逐字稿，但核心主题与判断均来自官方节目页和公开可核验摘要。
+> 整理说明： > CNBC 当前公开的是摘要页与节目信息，不是完整逐字 transcript。本页只整理页面明确给出的核心要点。

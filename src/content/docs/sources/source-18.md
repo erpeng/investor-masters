@@ -1,10 +1,10 @@
 ---
-title: "CNBC｜David Tepper：2024中国刺激与buy-everything"
+title: "Brad Gerstner｜Masters in Business transcript 2023"
 slug: "sources/source-18"
 description: "原始材料来源页。"
 ---
 
-**原文件名**: `CNBC｜David Tepper：2024中国刺激与buy-everything.md`  
+**原文件名**: `Brad Gerstner｜Masters in Business transcript 2023.md`  
 
 
 ## 摘要
@@ -13,4 +13,4 @@ description: "原始材料来源页。"
 
 ## 节选
 
-这条材料用于观察 Tepper 如何把美国 QE 时代的政策反应函数迁移到中国资产。它不是“看好中国”的静态观点，而是看到政策组合变化后，快速把赔率表重写。
+- Ritholtz / Bloomberg Masters in Business transcript: https://ritholtz.com/2023/11/transcript-brad-gerstner/

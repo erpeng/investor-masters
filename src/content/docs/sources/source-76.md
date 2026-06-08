@@ -1,17 +1,19 @@
 ---
-title: "原文｜CNBC｜大卫·艾因霍恩：被动化时代的价值投资与分拆机会"
+title: "“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则"
 slug: "sources/source-76"
-description: "从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML。"
+description: "在普通股中寻找价值"
 ---
 
-**原文件名**: `原文｜CNBC｜大卫·艾因霍恩：被动化时代的价值投资与分拆机会.md`  
-**外部来源**: https://www.cnbc.com/2024/04/03/cnbc-exclusive-cnbc-transcript-greenlight-capital-co-founder-president-david-einhorn-speaks-with-cnbcs-scott-wapner-on-power-lunch-today.html
+**原文件名**: `“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则.md`  
+**外部来源**: https://mp.weixin.qq.com/s/Rltex4fozpUHwk-d29Trng
 
+**作者**: 原创 聪明投资者  
+**时间**: 2025年7月8日 15:01
 
 ## 摘要
 
-从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML。
+在普通股中寻找价值
 
 ## 节选
 
-- 对应整理稿：[[现有资料/CNBC｜大卫·艾因霍恩：被动化时代的价值投资与分拆机会.md]] - 抓取时间：`2026-04-20` - 抽取方式：`HTML` - 原始域名：`www.cnbc.com` - 备注：原整理稿里的 `nbcuniversalnewsgroup.com` 转录链接已失效；本存档改用当前可访问的 CNBC 正式 transcript 页面。
+担任首席执行官的经历让我更加深刻地体会到企业领导者所面临的关键挑战，那便是如何在短期需求与长期目标之间找到平衡点。

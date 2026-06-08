@@ -1,19 +1,17 @@
 ---
-title: "全世界最懂AI的金融人，是怎么管理投资的？——看桥水“务实派”如何警示未来 （下） | 泉果探照灯"
+title: "Third Point｜2024Q4 investor letter：第二层思维、事件驱动与跨资产框架"
 slug: "sources/source-71"
-description: "当你围绕“机器人是什么”去重新设计流程，效率的提升才真正爆发。"
+description: "依据 Third Point 2024Q4 investor letter，整理 Dan Loeb 对第二层思维、跨资产配置、质量股与事件驱动并存的官方表达。"
 ---
 
-**原文件名**: `全世界最懂AI的金融人，是怎么管理投资的？——看桥水“务实派”如何警示未来 （下）  泉果探照灯.md`  
-**外部来源**: https://mp.weixin.qq.com/s/MSuAm2bmVTLy1jEYeLwmMQ
+**原文件名**: `Third Point｜2024Q4 investor letter：第二层思维、事件驱动与跨资产框架.md`  
+**外部来源**: https://assets.thirdpointlimited.com/f/166217/x/bc70b1b6dc/third-point-q4-2024-investor-letter_tpil.pdf
 
-**作者**: 原创 泉果探照灯  
-**时间**: 2025年12月24日 11:29
 
 ## 摘要
 
-当你围绕“机器人是什么”去重新设计流程，效率的提升才真正爆发。
+依据 Third Point 2024Q4 investor letter，整理 Dan Loeb 对第二层思维、跨资产配置、质量股与事件驱动并存的官方表达。
 
 ## 节选
 
-在前两期【泉果探照灯】中，我们分享了桥水基金首席投资官Greg Jensen关于对未来资本市场一定要“分散投资”的警示，以及他的决策基础和逻辑推演过程。
+- `主角`：丹·勒布（Dan Loeb）/ Third Point - `场景`：`2024Q4` investor letter - `时间`：`2025-02-04` - `核心价值`：这封信是 Third Point 今天最像“官方方法说明书”的材料之一。它把 `event-driven + quality + idiosyncratic themes + second-order thinking + 跨资产` 放在同一页里。

@@ -1,18 +1,17 @@
 ---
-title: "持续把简单的事做对！“超级投资者”沃尔特·施洛斯的一生"
+title: "原文｜Stanford GSB｜肯·格里芬：投资、竞争与未来"
 slug: "sources/source-95"
-description: "普通人如何用原则跑赢市场"
+description: "从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML。"
 ---
 
-**原文件名**: `持续把简单的事做对！“超级投资者”沃尔特·施洛斯的一生.md`  
-**外部来源**: https://mp.weixin.qq.com/s/8UDQ-S6rV4933fNjbuYh1A
+**原文件名**: `原文｜Stanford GSB｜肯·格里芬：投资、竞争与未来.md`  
+**外部来源**: https://www.gsb.stanford.edu/insights/ken-griffin-investing-winning-why-hes-focused-future
 
-**时间**: 2026年1月27日 11:32
 
 ## 摘要
 
-普通人如何用原则跑赢市场
+从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML。
 
 ## 节选
 
-沃尔特 ·施洛斯是美国最杰出的价值投资者之一，他被同门师兄、好友沃伦·巴菲特称为“超级投资者”。
+- 对应整理稿：[[现有资料/Stanford GSB｜肯·格里芬：投资、竞争与未来.md]] - 抓取时间：`2026-04-20` - 抽取方式：`HTML` - 原始域名：`www.gsb.stanford.edu`

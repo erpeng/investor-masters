@@ -1,17 +1,17 @@
 ---
-title: "原文｜CNBC｜丹·勒布：更动荡市场中的 event-driven 组合"
+title: "Value Investor Insight｜弗朗索瓦·罗雄：Crème de la Crème"
 slug: "sources/source-75"
-description: "从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML。"
+description: "原始材料来源页。"
 ---
 
-**原文件名**: `原文｜CNBC｜丹·勒布：更动荡市场中的 event-driven 组合.md`  
-**外部来源**: https://www.cnbc.com/video/2025/04/23/third-point-ceo-dan-loeb-i-wouldnt-underestimate-the-resilience-of-the-american-economy.html
+**原文件名**: `Value Investor Insight｜弗朗索瓦·罗雄：Crème de la Crème.md`  
+**外部来源**: Value Investor Insight
 
 
 ## 摘要
 
-从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML。
+原始材料来源页。
 
 ## 节选
 
-- 对应整理稿：[[现有资料/CNBC｜丹·勒布：更动荡市场中的 event-driven 组合.md]] - 抓取时间：`2026-04-20` - 抽取方式：`HTML` - 原始域名：`www.cnbc.com`
+这是 Rochon 早期公开方法材料之一，价值在于把 `买顶级企业、用合理价格、长期持有` 的框架落实到公司样本和错误复盘上。

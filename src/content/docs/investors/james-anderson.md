@@ -48,7 +48,7 @@ description: "愿意为超级赢家承担长时间误解的人。"
 
 > “我们需要更清晰地阐释‘高成长投资’的底层逻辑。”
 >
-> ——来源：[如何看待高成长与经典价值？柏基“传奇基金经理”詹姆斯·安德森2019年深度撰文](/investor-masters/sources/source-89/)
+> ——来源：[如何看待高成长与经典价值？柏基“传奇基金经理”詹姆斯·安德森2019年深度撰文](/investor-masters/sources/source-100/)
 
 **形成的结论**
 
@@ -68,13 +68,13 @@ description: "愿意为超级赢家承担长时间误解的人。"
 
   > “很多真正的平台级成长公司，在尚未盈利、甚至尚未上市前，就已具备了‘递增回报结构’。”
   >
-  > ——来源：[如何看待高成长与经典价值？柏基“传奇基金经理”詹姆斯·安德森2019年深度撰文](/investor-masters/sources/source-89/)
+  > ——来源：[如何看待高成长与经典价值？柏基“传奇基金经理”詹姆斯·安德森2019年深度撰文](/investor-masters/sources/source-100/)
 
 - `怎么处理不确定性`: 不是缩回安全区域，而是接受失败会很多，但真正的大赢家会极度不对称地补偿这些失败。
 
   > “换句话说，是时候让那些仍困于‘现代投资组合理论’和‘均衡经济学’模型的人，停止把自己视为理性与科学的代言人了。”
   >
-  > ——来源：[如何看待高成长与经典价值？柏基“传奇基金经理”詹姆斯·安德森2019年深度撰文](/investor-masters/sources/source-89/)
+  > ——来源：[如何看待高成长与经典价值？柏基“传奇基金经理”詹姆斯·安德森2019年深度撰文](/investor-masters/sources/source-100/)
 
 - `怎么定义失败`: 他并不把失败理解成方法被否定，反而把它当成幂律世界的必要成本。真正重要的，是单次成功创造的价值能不能远大于多次失败的损失。
 
@@ -82,7 +82,7 @@ description: "愿意为超级赢家承担长时间误解的人。"
   >
   > “即便最终失败，我们也愿意为这种努力鼓掌。”
   >
-  > ——来源：[如何看待高成长与经典价值？柏基“传奇基金经理”詹姆斯·安德森2019年深度撰文](/investor-masters/sources/source-89/)
+  > ——来源：[如何看待高成长与经典价值？柏基“传奇基金经理”詹姆斯·安德森2019年深度撰文](/investor-masters/sources/source-100/)
 
 - `怎么谈时间`: 他的时间单位天然是十年级别，而不是下一轮风格轮动。
 
@@ -94,7 +94,7 @@ description: "愿意为超级赢家承担长时间误解的人。"
 
   > “我们需要更清晰地阐释‘高成长投资’的底层逻辑。”
   >
-  > ——来源：[如何看待高成长与经典价值？柏基“传奇基金经理”詹姆斯·安德森2019年深度撰文](/investor-masters/sources/source-89/)
+  > ——来源：[如何看待高成长与经典价值？柏基“传奇基金经理”詹姆斯·安德森2019年深度撰文](/investor-masters/sources/source-100/)
 
 **画像判断**
 
@@ -131,6 +131,6 @@ description: "愿意为超级赢家承担长时间误解的人。"
 ## 主要来源
 
 - [2.5万字｜柏基“传奇基金经理”安德森的罕见深访：伟大公司各有各的独特，平庸公司却都差不多……](/investor-masters/sources/source-02/)
-- [如何看待高成长与经典价值？柏基“传奇基金经理”詹姆斯·安德森2019年深度撰文](/investor-masters/sources/source-89/)
+- [如何看待高成长与经典价值？柏基“传奇基金经理”詹姆斯·安德森2019年深度撰文](/investor-masters/sources/source-100/)
 - [Baillie Gifford 官方资料](https://www.bailliegifford.com/en/uk/individual-investors/fund-centre/scottish-mortgage-investment-trust/)
 - [James Anderson - Wikipedia](https://en.wikipedia.org/wiki/James_Anderson_(fund_manager))

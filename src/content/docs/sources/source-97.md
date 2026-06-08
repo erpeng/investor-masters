@@ -1,18 +1,17 @@
 ---
-title: "日本“特拉斯时刻”算轻量版！城堡投资格里芬最新交流，犀利点评美国债务、移民、美联储、AI等热门话题"
+title: "原文｜Third Point｜2024Q4 investor letter：第二层思维、事件驱动与跨资产框架"
 slug: "sources/source-97"
-description: "关税和移民政策都是弊大于利"
+description: "从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：PDF。"
 ---
 
-**原文件名**: `日本“特拉斯时刻”算轻量版！城堡投资格里芬最新交流，犀利点评美国债务、移民、美联储、AI等热门话题.md`  
-**外部来源**: https://mp.weixin.qq.com/s/ckPisZuDEpmqV2025WPK0A
+**原文件名**: `原文｜Third Point｜2024Q4 investor letter：第二层思维、事件驱动与跨资产框架.md`  
+**外部来源**: https://assets.thirdpointlimited.com/f/166217/x/bc70b1b6dc/third-point-q4-2024-investor-letter_tpil.pdf
 
-**时间**: 2026年1月23日 11:32
 
 ## 摘要
 
-关税和移民政策都是弊大于利
+从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：PDF。
 
 ## 节选
 
-“ 债券义警回来了。”在1月21日的达沃斯论坛对话中，城堡投资创始人肯·格里芬（Ken Griffin）用一句老派的市场警告，把气氛拉回到债市的冷峻事实。
+- 对应整理稿：[[现有资料/Third Point｜2024Q4 investor letter：第二层思维、事件驱动与跨资产框架.md]] - 抓取时间：`2026-04-20` - 抽取方式：`PDF` - 原始域名：`assets.thirdpointlimited.com`

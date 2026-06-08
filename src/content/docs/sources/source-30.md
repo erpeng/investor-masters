@@ -1,17 +1,17 @@
 ---
-title: "Colossus｜大卫·艾因霍恩：长短仓、反动量与价值投资"
+title: "CNBC｜大卫·艾因霍恩：被动化时代的价值投资与分拆机会"
 slug: "sources/source-30"
-description: "依据 Colossus 官方节目页可见的 show notes 与节目介绍，整理大卫·艾因霍恩关于 Greenlight 演化、反动量、选股流程、做空、组合与 LP 关系的关键判断。"
+description: "依据 CNBC Power Lunch 公开 transcript，整理大卫·艾因霍恩关于分拆策略、被动化造成的市场错价、继续做空以及黄金对冲的完整判断。"
 ---
 
-**原文件名**: `Colossus｜大卫·艾因霍恩：长短仓、反动量与价值投资.md`  
-**外部来源**: https://www.joincolossus.com/episode/einhorn-the-long-and-short-of-investing/
+**原文件名**: `CNBC｜大卫·艾因霍恩：被动化时代的价值投资与分拆机会.md`  
+**外部来源**: https://www.cnbc.com/2024/04/03/cnbc-exclusive-cnbc-transcript-greenlight-capital-co-founder-president-david-einhorn-speaks-with-cnbcs-scott-wapner-on-power-lunch-today.html
 
 
 ## 摘要
 
-依据 Colossus 官方节目页可见的 show notes 与节目介绍，整理大卫·艾因霍恩关于 Greenlight 演化、反动量、选股流程、做空、组合与 LP 关系的关键判断。
+依据 CNBC Power Lunch 公开 transcript，整理大卫·艾因霍恩关于分拆策略、被动化造成的市场错价、继续做空以及黄金对冲的完整判断。
 
 ## 节选
 
-> 整理说明： > 本页依据 Colossus 官方节目页公开可见的 `节目介绍 + 时间轴 + show notes` 整理。完整 transcript 需要登录后查看，因此这里只保留页面明确给出的主题与可验证判断，不把不可见内容硬写成逐字转录。
+> 整理说明： > 本页依据 CNBC / NBCUniversal News Group 公开 transcript 整理，重点保留艾因霍恩对 `分拆 / 被动化 / 市场结构 / 做空 / 黄金` 的原始口径。

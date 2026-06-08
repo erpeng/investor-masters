@@ -1,19 +1,17 @@
 ---
-title: "为什么比尔·米勒能够拿住亚马逊26年？一场深度对话还原很多精彩细节"
+title: "The Value Perspective｜尼克·特雷恩：长期概率、英国市场与质量识别"
 slug: "sources/source-70"
-description: "多元学科思维的投资实践"
+description: "依据 The Value Perspective 公开节目简介，整理 Nick Train 对长期概率、英国市场变化与 quality 识别的最新表达。"
 ---
 
-**原文件名**: `为什么比尔·米勒能够拿住亚马逊26年？一场深度对话还原很多精彩细节.md`  
-**外部来源**: https://mp.weixin.qq.com/s/kvYKuHCqslEJSTx1-kFTLw
+**原文件名**: `The Value Perspective｜尼克·特雷恩：长期概率、英国市场与质量识别.md`  
+**外部来源**: https://schroderstvp.podbean.com/e/the-value-perspective-with-nick-train/
 
-**作者**: 最近听了一场两个多小时的访谈，主持人是投资作家威廉 ·格林（William Green），嘉宾是《巴菲特之道》作者罗伯特·哈格斯特罗姆（Robert Hagstrom）。  
-**时间**: 2025年8月25日 15:02
 
 ## 摘要
 
-多元学科思维的投资实践
+依据 The Value Perspective 公开节目简介，整理 Nick Train 对长期概率、英国市场变化与 quality 识别的最新表达。
 
 ## 节选
 
-最近听了一场两个多小时的访谈，主持人是投资作家威廉 ·格林（William Green），嘉宾是《巴菲特之道》作者罗伯特·哈格斯特罗姆（Robert Hagstrom）。
+> 整理说明： > 本页依据节目官方简介与公开可见主题整理。当前公开页面未提供完整 transcript，因此这里只保留页面明确给出的结构性信息，不伪造逐字对话。

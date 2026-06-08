@@ -132,7 +132,7 @@ Tudor 的难点在于：交易员方法比长期所有者方法更难制度化�
 
 ## 主要来源
 
-- [深度翻译  传奇交易员保罗·都铎·琼斯谈AI风险、泡沫与巴菲特](/investor-masters/sources/source-107/)
+- [深度翻译  传奇交易员保罗·都铎·琼斯谈AI风险、泡沫与巴菲特](/investor-masters/sources/source-118/)
 - [Colossus / Invest Like the Best: You Retire, You Die](https://colossus.com/episode/you-retire-you-die/)
 - [SEC EDGAR: Tudor Investment Corp Et Al CIK 0000923093](https://www.sec.gov/edgar/browse/?CIK=923093)
 - [SEC 13F Q4 2025 accession 000090266426001113](https://www.sec.gov/Archives/edgar/data/923093/000090266426001113/0000902664-26-001113-index.html)

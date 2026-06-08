@@ -1,17 +1,16 @@
 ---
-title: "Capital Allocators｜尼科莱·坦根：掌管全球最大主权财富基金"
+title: "CNBC｜Appaloosa：2019-family-office转型"
 slug: "sources/source-22"
-description: "尼科莱·坦根谈 AKO 的形成、质量投资、客户至上、主权基金的治理结构与“普遍所有者”视角。"
+description: "原始材料来源页。"
 ---
 
-**原文件名**: `Capital Allocators｜尼科莱·坦根：掌管全球最大主权财富基金.md`  
-**外部来源**: https://www.capitalallocators.com/podcast/overseeing-the-largest-sovereign-wealth-fund/
+**原文件名**: `CNBC｜Appaloosa：2019-family-office转型.md`  
 
 
 ## 摘要
 
-尼科莱·坦根谈 AKO 的形成、质量投资、客户至上、主权基金的治理结构与“普遍所有者”视角。
+原始材料来源页。
 
 ## 节选
 
-> 整理说明： > 这不是官方逐字稿。 > 本页依据 Capital Allocators 节目页、同题 YouTube 公开自动字幕，以及公开可核验的节目摘要整理而成，重点保留对投资方法和机构约束最有价值的段落。
+这条不是访谈，但对 Appaloosa 机构页很关键。它说明 Appaloosa 从传统外部资本 hedge fund 逐步转向更接近 family office 的资本结构，这会改变时间压力、赎回压力和仓位自由度。

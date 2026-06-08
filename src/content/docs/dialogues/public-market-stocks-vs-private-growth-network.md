@@ -5,7 +5,7 @@ description: "把方法冲突显性化的对照页。"
 ---
 ## 问题
 
-Coatue 把一个老问题推到台面上：技术投资到底应该相信公开市场的财报、估值和流动性，还是相信私募网络里的创始人、产品和早期用户信号？
+Coatue 和 Altimeter 把一个老问题推到台面上：技术投资到底应该相信公开市场的财报、估值和流动性，还是相信私募网络里的创始人、产品和早期用户信号？
 
 ## A：公开市场股票
 
@@ -18,6 +18,10 @@ Coatue 把一个老问题推到台面上：技术投资到底应该相信公开�
 ## Coatue 的折中
 
 Coatue 的方法不是二选一，而是让两边互相校验：私募网络告诉它“变化可能在哪里发生”，公开市场和 13F 仓位告诉它“哪一层已经成为可投资瓶颈”。`2026Q1` 的 `TSM / GEV / LRCX / AMAT / AVGO / ETN / CEG` 就比一句“AI 很强”更硬。
+
+## Altimeter 的折中
+
+Altimeter 更强调 founder network、public/private crossover 和 power law。私募网络帮助它更早看见平台周期，公开市场切片则负责把这个判断落到价格、流动性和股东纪律上。`2026Q1` 的 `NVDA / META / UBER / TSM / CRWV / ARM` 说明它不是只押一个 AI 标签，而是在公开市场里重排 AI 平台、芯片、算力云和应用承接层。
 
 ## 什么时候公开市场胜
 
@@ -38,6 +42,9 @@ Coatue 的方法不是二选一，而是让两边互相校验：私募网络告�
 ## 相关页面
 
 - [菲利普·拉丰](/investor-masters/investors/philippe-laffont/)
+- [布拉德·格斯特纳](/investor-masters/investors/brad-gerstner/)
 - [Coatue Management](/investor-masters/institutions/coatue-management/)
+- [Altimeter Capital](/investor-masters/institutions/altimeter-capital/)
 - [公私一体科技投资](/investor-masters/concepts/public-private-tech-investing/)
 - [13F趋势-Coatue](/investor-masters/institutions/13f-trends-coatue/)
+- [13F趋势-Altimeter](/investor-masters/institutions/13f-trends-altimeter/)

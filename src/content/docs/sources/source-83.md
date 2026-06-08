@@ -1,17 +1,17 @@
 ---
-title: "原文｜S&P Global｜肯·格里芬：Citadel、AI 与独立思考"
+title: "关于耐心与杠杆！霍华德与摩根的最新对话：历史不会重演，但人类的行为却总是重复"
 slug: "sources/source-83"
-description: "从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML（全文 transcript 转录）。"
+description: "原始材料来源页。"
 ---
 
-**原文件名**: `原文｜S&P Global｜肯·格里芬：Citadel、AI 与独立思考.md`  
-**外部来源**: https://www.spglobal.com/en/research-insights/podcasts/leaders/ken-griffin-on-building-citadel-ai-and-independent-thinking
+**原文件名**: `关于耐心与杠杆！霍华德与摩根的最新对话：历史不会重演，但人类的行为却总是重复.md`  
 
+**作者**: 摩根·豪塞尔是畅销书《金钱心理学》(The Psychology of Money)和《一如既往》(Same As Ever)的作者，也是Collaborative Fund的合伙人。  
 
 ## 摘要
 
-从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML（全文 transcript 转录）。
+原始材料来源页。
 
 ## 节选
 
-- 对应整理稿：[[现有资料/S&P Global｜肯·格里芬：Citadel、AI 与独立思考.md]] - 抓取时间：`2026-04-20` - 抽取方式：`HTML` - 原始域名：`www.spglobal.com` - 备注：命令行抓取返回错误页，本存档依据公开可访问页面的 `View Full Transcript` 全文转录。
+最近，橡树资本创始人霍华德·马克斯跟摩根·豪塞尔（Morgan Housel）做了一场对话。

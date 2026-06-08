@@ -19,12 +19,12 @@ Meta 在这批资料里既是负面情绪中被严重低估的公司，也是 AI
 这是一种典型的质量投资者逆情绪下注。
 
 ### [比尔·米勒](/investor-masters/investors/bill-miller/)
-> “比尔·米勒：当然，我在自己管理的基金里投了钱。其他比较大的持仓有加密货币银行Silvergate Capital——我昨天还加仓，结果今天又跌了13%。还有Meta，这是个大头寸。再比如百度、美泰（Mattel）、ADT、Gannett，这些也算比较大的持仓，不过和亚马逊没法比。” ——来源：[重注亚马逊、比特币的人！比尔·米勒经典对谈：如何避免被偏见带偏](/investor-masters/sources/source-114/)
+> “比尔·米勒：当然，我在自己管理的基金里投了钱。其他比较大的持仓有加密货币银行Silvergate Capital——我昨天还加仓，结果今天又跌了13%。还有Meta，这是个大头寸。再比如百度、美泰（Mattel）、ADT、Gannett，这些也算比较大的持仓，不过和亚马逊没法比。” ——来源：[重注亚马逊、比特币的人！比尔·米勒经典对谈：如何避免被偏见带偏](/investor-masters/sources/source-125/)
 
 在米勒这里，Meta 是便宜到荒谬的未来价值样本。
 
 ### [格雷格·詹森](/investor-masters/investors/greg-jensen/)
-> “格雷格 这是最难抢的，因为顶尖的AI科学家本来就极度稀缺。如果你是Meta，有电、有芯片，那么你就要直接去买科学家，高薪挖人。但问题是，你挖过来的人，也很容易被更高的价格挖走。” ——来源：[小心！过去15年的“陷阱”，让我们遗忘了“分散投资”——看桥水“务实派”如何警示未来（上）   泉果探照灯](/investor-masters/sources/source-92/)
+> “格雷格 这是最难抢的，因为顶尖的AI科学家本来就极度稀缺。如果你是Meta，有电、有芯片，那么你就要直接去买科学家，高薪挖人。但问题是，你挖过来的人，也很容易被更高的价格挖走。” ——来源：[小心！过去15年的“陷阱”，让我们遗忘了“分散投资”——看桥水“务实派”如何警示未来（上）   泉果探照灯](/investor-masters/sources/source-103/)
 
 这展示的是另一种组织竞争视角。
 
@@ -44,9 +44,17 @@ Rochon 对 Meta 的补充，不是简单重复“负面情绪错杀”，而是�
 
 `META` 在 Appaloosa 2023-2026 的公开轨迹里是平台科技篮子的一部分。[13F趋势-Appaloosa](/investor-masters/institutions/13f-trends-appaloosa/) 显示，它在 2023Q2-Q4 权重较高，2025Q4 仍有约 `5.7%`，但 2026Q1 降至约 `3.4%`。这说明 Appaloosa 会持有平台股，但不会把它们都处理成永久核心仓。
 
+### [布拉德·格斯特纳](/investor-masters/investors/brad-gerstner/)
+
+Altimeter 的 `META` 是 Gerstner 公开方法里最能把资本配置和 AI 平台联系起来的仓位。[13F趋势-Altimeter](/investor-masters/institutions/13f-trends-altimeter/) 显示，`META` 在 2026Q1 从 `18.3%` 升至 `19.6%`，股数从约 `1.85m` 增至 `1.95m`，仍是第二大公开持仓。结合他 2022 年对 Meta 的公开信，这条 13F 线索说明 Altimeter 不是只买 AI 资本开支上游，也在押平台公司把 AI 投入转成广告效率和用户产品改善。
+
+### [比尔·阿克曼](/investor-masters/investors/bill-ackman/)
+
+Pershing 的 `META` 在 2026Q1 不是新买，但仍是约 `11.1%` 的核心仓。[13F趋势-Pershing](/investor-masters/institutions/13f-trends-pershing/) 显示，`META` 2025Q4 新进前排后，2026Q1 股数基本不动。把它和 `AMZN` 加仓、`MSFT` 新进、`GOOG/GOOGL` 大幅退出一起读，Meta 更像 Ackman 平台现金流篮子里继续保留的一条腿。
+
 ## 分歧与共识
 
-史密斯和米勒都把 Meta 读成情绪错杀，詹森补了一层 AI 时代资源竞争，尼格伦则补了一层资本配置边界，Rochon 进一步把它拉回 owner earnings：AI 投入是否真能扩大长期现金收益，而不是只制造一个新叙事。
+史密斯和米勒都把 Meta 读成情绪错杀，詹森补了一层 AI 时代资源竞争，尼格伦则补了一层资本配置边界，Rochon 进一步把它拉回 owner earnings；Altimeter 和 Pershing 的 13F 证据则说明，Meta 仍是平台现金流和 AI 广告效率重估里的核心候选，而不是单纯旧社交网络。
 
 ## 相关页面
 
@@ -56,6 +64,8 @@ Rochon 对 Meta 的补充，不是简单重复“负面情绪错杀”，而是�
 - [比尔·尼格伦](/investor-masters/investors/bill-nygren/)
 - [弗朗索瓦·罗雄](/investor-masters/investors/francois-rochon/)
 - [大卫·泰珀](/investor-masters/investors/david-tepper/)
+- [布拉德·格斯特纳](/investor-masters/investors/brad-gerstner/)
+- [比尔·阿克曼](/investor-masters/investors/bill-ackman/)
 - [Oakmark会计](/investor-masters/concepts/oakmark-accounting/)
 - [所有者收益](/investor-masters/concepts/owners-earnings/)
 - [微软](/investor-masters/companies/microsoft/)

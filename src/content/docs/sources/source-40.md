@@ -1,17 +1,17 @@
 ---
-title: "Meb Faber｜弗朗索瓦·罗雄：耐心、谦逊与理性"
+title: "Colossus｜大卫·艾因霍恩：长短仓、反动量与价值投资"
 slug: "sources/source-40"
-description: "原始材料来源页。"
+description: "依据 Colossus 官方节目页可见的 show notes 与节目介绍，整理大卫·艾因霍恩关于 Greenlight 演化、反动量、选股流程、做空、组合与 LP 关系的关键判断。"
 ---
 
-**原文件名**: `Meb Faber｜弗朗索瓦·罗雄：耐心、谦逊与理性.md`  
-**外部来源**: The Meb Faber Show
+**原文件名**: `Colossus｜大卫·艾因霍恩：长短仓、反动量与价值投资.md`  
+**外部来源**: https://www.joincolossus.com/episode/einhorn-the-long-and-short-of-investing/
 
 
 ## 摘要
 
-原始材料来源页。
+依据 Colossus 官方节目页可见的 show notes 与节目介绍，整理大卫·艾因霍恩关于 Greenlight 演化、反动量、选股流程、做空、组合与 LP 关系的关键判断。
 
 ## 节选
 
-这是近年访谈，价值在于把 Rochon 三十年业绩、错误复盘和性格纪律重新放到当前市场环境里。
+> 整理说明： > 本页依据 Colossus 官方节目页公开可见的 `节目介绍 + 时间轴 + show notes` 整理。完整 transcript 需要登录后查看，因此这里只保留页面明确给出的主题与可验证判断，不把不可见内容硬写成逐字转录。

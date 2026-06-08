@@ -1,10 +1,10 @@
 ---
-title: "Coatue｜AI Is Expanding Across the Stack"
+title: "CNBC｜David Tepper：2010 QE与Everything交易"
 slug: "sources/source-23"
 description: "原始材料来源页。"
 ---
 
-**原文件名**: `Coatue｜AI Is Expanding Across the Stack.md`  
+**原文件名**: `CNBC｜David Tepper：2010 QE与Everything交易.md`  
 
 
 ## 摘要
@@ -13,4 +13,4 @@ description: "原始材料来源页。"
 
 ## 节选
 
-这条 Coatue perspective 用来支撑“沿 AI stack 读机会”的方法，而不是把 Coatue 简化成单一 AI 主题买家。
+- CNBC transcript/excerpts, Squawk Box, 2010-09-24 - 主角：David Tepper, Appaloosa Management

@@ -1,11 +1,10 @@
 ---
-title: "Value Investor Insight｜弗朗索瓦·罗雄：Crème de la Crème"
+title: "SEC｜Kensico Capital Management：ADV与13F官方资料"
 slug: "sources/source-64"
 description: "原始材料来源页。"
 ---
 
-**原文件名**: `Value Investor Insight｜弗朗索瓦·罗雄：Crème de la Crème.md`  
-**外部来源**: Value Investor Insight
+**原文件名**: `SEC｜Kensico Capital Management：ADV与13F官方资料.md`  
 
 
 ## 摘要
@@ -14,4 +13,4 @@ description: "原始材料来源页。"
 
 ## 节选
 
-这是 Rochon 早期公开方法材料之一，价值在于把 `买顶级企业、用合理价格、长期持有` 的框架落实到公司样本和错误复盘上。
+- SEC Investment Adviser Public Disclosure / Form ADV PDF - SEC EDGAR：`KENSICO CAPITAL MANAGEMENT CORP`，CIK `0001113000`

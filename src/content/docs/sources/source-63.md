@@ -1,11 +1,10 @@
 ---
-title: "Value Investor Insight｜弗朗索瓦·罗雄：Affordable Quality"
+title: "SEC｜Kensico Capital Management：2023-2026 13F持仓轨迹"
 slug: "sources/source-63"
 description: "原始材料来源页。"
 ---
 
-**原文件名**: `Value Investor Insight｜弗朗索瓦·罗雄：Affordable Quality.md`  
-**外部来源**: Value Investor Insight
+**原文件名**: `SEC｜Kensico Capital Management：2023-2026 13F持仓轨迹.md`  
 
 
 ## 摘要
@@ -14,4 +13,4 @@ description: "原始材料来源页。"
 
 ## 节选
 
-这篇材料是 Rochon 在平台公司和高质量成长股被重新定价后的重要更新。它把 `quality` 和 `valuation discipline` 放在一起，而不是把质量投资讲成无条件买好公司。
+- SEC 13F information table：`KENSICO CAPITAL MANAGEMENT CORP`，CIK `0001113000` - 展示窗口：`2023Q1-2026Q1`，并用 `2022Q4` 计算 `2023Q1` 主动变化。

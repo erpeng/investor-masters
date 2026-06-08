@@ -1,10 +1,10 @@
 ---
-title: "CNBC｜David Tepper：2010 QE与Everything交易"
+title: "Brad Gerstner｜20VC Supercycles and Power Law 2022"
 slug: "sources/source-13"
 description: "原始材料来源页。"
 ---
 
-**原文件名**: `CNBC｜David Tepper：2010 QE与Everything交易.md`  
+**原文件名**: `Brad Gerstner｜20VC Supercycles and Power Law 2022.md`  
 
 
 ## 摘要
@@ -13,4 +13,4 @@ description: "原始材料来源页。"
 
 ## 节选
 
-- CNBC transcript/excerpts, Squawk Box, 2010-09-24 - 主角：David Tepper, Appaloosa Management
+- 20VC / Harry Stebbings: https://www.thetwentyminutevc.com/brad-gerstner

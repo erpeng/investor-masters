@@ -1,18 +1,17 @@
 ---
-title: "卓越投资永远来自卓越判断！霍华德·马克斯内部对话，细谈当下做投资选择时最关键的要素"
+title: "Value Investing with Legends｜塞思·卡拉曼：逆向纪律、耐心资本与 Baupost"
 slug: "sources/source-73"
-description: "每一笔投资都必须审慎选择"
+description: "依据 Value Investing with Legends 官方节目简介与公开可见 topic 列表，整理塞思·卡拉曼关于市场低效、逆向纪律、跨资产评估、耐心资本与 AI 的最新系统表达。"
 ---
 
-**原文件名**: `卓越投资永远来自卓越判断！霍华德·马克斯内部对话，细谈当下做投资选择时最关键的要素.md`  
-**外部来源**: https://mp.weixin.qq.com/s/8lqBPHIJia08kSnrDns7JQ
+**原文件名**: `Value Investing with Legends｜塞思·卡拉曼：逆向纪律、耐心资本与 Baupost.md`  
+**外部来源**: https://valueinvestingwithlegends.libsyn.com/seth-klarman-contrarian-investing-discipline-and-building-baupost
 
-**时间**: 2026年3月16日 15:31
 
 ## 摘要
 
-每一笔投资都必须审慎选择
+依据 Value Investing with Legends 官方节目简介与公开可见 topic 列表，整理塞思·卡拉曼关于市场低效、逆向纪律、跨资产评估、耐心资本与 AI 的最新系统表达。
 
 ## 节选
 
-因为很多核心的投资想法，霍华德 ·马克斯已经讲了很多遍，但每一次，不同的情景下，确实又有不同的共鸣点。
+> 整理说明： > 本页依据节目官方简介与公开可见 key topics 整理。官方页面未公开完整 transcript，因此这里只保留节目简介明确给出的主题与结构，不假装掌握逐字内容。

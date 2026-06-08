@@ -363,5 +363,5 @@ Kensico 的困难在于：它没有大量公开长访谈来解释自己的方法
 - [SEC 13F Q2 2023 filing detail](https://www.sec.gov/Archives/edgar/data/1113000/000095012323008069/0000950123-23-008069-index.html)
 - [SEC 13F Q1 2023 filing detail](https://www.sec.gov/Archives/edgar/data/1113000/000095012323005257/0000950123-23-005257-index.html)
 - Kensico Capital Management-低公开曝光基本面组合-source-audit
-- [SEC｜Kensico Capital Management：ADV与13F官方资料](/investor-masters/sources/source-53/)
-- [SEC｜Kensico Capital Management：2023-2026 13F持仓轨迹](/investor-masters/sources/source-52/)
+- [SEC｜Kensico Capital Management：ADV与13F官方资料](/investor-masters/sources/source-64/)
+- [SEC｜Kensico Capital Management：2023-2026 13F持仓轨迹](/investor-masters/sources/source-63/)

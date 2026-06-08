@@ -24,7 +24,7 @@ description: "把事件驱动、催化剂与跨资本结构配置绑成一台组
 >
 > “它的优势来自协作文化，以及在股票和信用之间灵活配置资本的能力。”
 >
-> ——来源：[Third Point｜2024Q4 investor letter：第二层思维、事件驱动与跨资产框架](/investor-masters/sources/source-60/)
+> ——来源：[Third Point｜2024Q4 investor letter：第二层思维、事件驱动与跨资产框架](/investor-masters/sources/source-71/)
 
 > 验证卡：Third Point 官方月报写得很直接：`Third Point Offshore Fund Ltd. has generated 13.0% annualized net returns since inception.` 可直接视作自成立以来约 `13.0%` 的净年化收益率。这份成绩的关键不只是绝对收益，而是它长期来自 `事件驱动 + 跨资本结构 + 动态敞口` 的复合打法。依据：[Third Point Investors Limited monthly report](https://assets.thirdpointlimited.com/f/166217/x/cafeb5e071/2023-04-april-monthly-report-tpil.pdf)。
 
@@ -113,6 +113,6 @@ description: "把事件驱动、催化剂与跨资本结构配置绑成一台组
 
 ## 主要来源
 
-- [CNBC｜丹·勒布：更动荡市场中的 event-driven 组合](/investor-masters/sources/source-19/)
-- [Third Point｜2024Q4 investor letter：第二层思维、事件驱动与跨资产框架](/investor-masters/sources/source-60/)
-- [Third Point｜2025Q1 investor letter：催化剂、动态敞口与信用协同](/investor-masters/sources/source-61/)
+- [CNBC｜丹·勒布：更动荡市场中的 event-driven 组合](/investor-masters/sources/source-29/)
+- [Third Point｜2024Q4 investor letter：第二层思维、事件驱动与跨资产框架](/investor-masters/sources/source-71/)
+- [Third Point｜2025Q1 investor letter：催化剂、动态敞口与信用协同](/investor-masters/sources/source-72/)

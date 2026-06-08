@@ -1,17 +1,17 @@
 ---
-title: "CNBC｜肯·格里芬：Citadel 总部首场电视长访谈"
+title: "CFO｜李·安斯利：对冲不是目的，理解企业才是"
 slug: "sources/source-21"
-description: "依据 CNBC 公开 transcript，整理 Ken Griffin 关于人才密度、delegation、Citadel 的多策略平台与 depth-not-breadth 的早期官方表达。"
+description: "李·安斯利从 CFO 视角解释 Maverick 如何看资本配置、管理层诚信、短仓、监管与公司沟通。"
 ---
 
-**原文件名**: `CNBC｜肯·格里芬：Citadel 总部首场电视长访谈.md`  
-**外部来源**: https://www.cnbc.com/2015/11/19/cnbc-exclusive-cnbc-transcript-citadel-founder-ceo-ken-griffin-speaks-with-cnbcs-kate-kelly-on-squawk-on-the-street-today.html
+**原文件名**: `CFO｜李·安斯利：对冲不是目的，理解企业才是.md`  
+**外部来源**: https://www.cfo.com/news/lee-ainslie-not-hedging-a-bit/676108/
 
 
 ## 摘要
 
-依据 CNBC 公开 transcript，整理 Ken Griffin 关于人才密度、delegation、Citadel 的多策略平台与 depth-not-breadth 的早期官方表达。
+李·安斯利从 CFO 视角解释 Maverick 如何看资本配置、管理层诚信、短仓、监管与公司沟通。
 
 ## 节选
 
-- `主角`：肯·格里芬（Ken Griffin） - `场景`：CNBC / Citadel 总部首场电视访谈 - `时间`：`2015-11-19` - `核心价值`：这篇是理解 Citadel 如何从个人交易者长成平台机构的关键老材料。
+> 整理说明： > 本页依据 CFO.com 的公开长访谈原文整理。它是 print 版访谈的 extended version，重点保留对 CFO、资本结构、短仓关系与监管的判断。

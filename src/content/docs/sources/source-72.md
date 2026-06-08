@@ -1,17 +1,17 @@
 ---
-title: "关于耐心与杠杆！霍华德与摩根的最新对话：历史不会重演，但人类的行为却总是重复"
+title: "Third Point｜2025Q1 investor letter：催化剂、动态敞口与信用协同"
 slug: "sources/source-72"
-description: "原始材料来源页。"
+description: "依据 Third Point 2025Q1 investor letter，整理 Dan Loeb 对动态降敞口、催化剂仓位、信用协同与 flexible allocation 的官方表达。"
 ---
 
-**原文件名**: `关于耐心与杠杆！霍华德与摩根的最新对话：历史不会重演，但人类的行为却总是重复.md`  
+**原文件名**: `Third Point｜2025Q1 investor letter：催化剂、动态敞口与信用协同.md`  
+**外部来源**: https://assets.thirdpointlimited.com/f/166217/x/1c4003f091/tpil-q1-2025-investor-letter_02052025_final.pdf
 
-**作者**: 摩根·豪塞尔是畅销书《金钱心理学》(The Psychology of Money)和《一如既往》(Same As Ever)的作者，也是Collaborative Fund的合伙人。  
 
 ## 摘要
 
-原始材料来源页。
+依据 Third Point 2025Q1 investor letter，整理 Dan Loeb 对动态降敞口、催化剂仓位、信用协同与 flexible allocation 的官方表达。
 
 ## 节选
 
-最近，橡树资本创始人霍华德·马克斯跟摩根·豪塞尔（Morgan Housel）做了一场对话。
+- `主角`：丹·勒布（Dan Loeb）/ Third Point - `场景`：`2025Q1` investor letter - `时间`：`2025-05-02` - `核心价值`：如果 `2024Q4` 信讲的是方法框架，这封信讲的是框架在动荡环境里如何实际落地。

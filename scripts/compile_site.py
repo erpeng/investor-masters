@@ -105,6 +105,13 @@ INVESTOR_META = {
         "holdings": "TSM、GE Vernova、Lam Research、Applied Materials、Broadcom、Eaton",
         "methods": "公私一体科技投资 / AI stack / Tiger Cub 成长研究",
     },
+    "布拉德·格斯特纳": {
+        "slug": "brad-gerstner",
+        "tagline": "把 founder network、public/private crossover 和 power law 压成公开组合语言的人。",
+        "institution": ("Altimeter Capital", "institutions/altimeter-capital"),
+        "holdings": "Nvidia、Meta、Uber、TSM、CoreWeave、Arm、Snowflake",
+        "methods": "公私一体 / 幂律 / AI 超级周期 / 股东纪律",
+    },
     "弗朗索瓦·罗雄": {
         "slug": "francois-rochon",
         "tagline": "把所有者收益、质量企业和错误复盘绑成长期复利方法的人。",
@@ -296,6 +303,7 @@ INVESTOR_INFO_SOURCES = {
     "詹姆斯·安德森": "安德森的信息来源更像变化探测器。他会持续跟踪技术、创业公司、创始人、产业结构变化和极少数可能变成超级赢家的企业，把这些信息组合成对未来分布的判断。相比看静态指标，他更看谁正在真正改变世界，以及这种改变会不会被市场长期低估。",
     "汤姆·斯莱特": "斯莱特延续了 Baillie Gifford 的成长信息系统，重点不是短期数字，而是技术渗透、价值链位置、未上市资产动向和少数卓越公司的长期扩张路径。他的信息来源天然更靠近前沿行业参与者和长期产业趋势，而不是传统价值投资者常用的低估值筛选。",
     "劳伦斯·伯恩斯": "伯恩斯的信息来源带有很强的产业链研究特征。现有资料显示，他擅长沿着 AI 和科技价值链去拆解机会，从硬件、基础设施到应用层逐层看清楚价值是如何传导的。这意味着他获得信息的方式，更像研究一个系统，而不是只盯一家公司的财务表。",
+    "布拉德·格斯特纳": "格斯特纳的信息来源是公私一体的 crossover 网络：创业者、私募成长公司、公开市场财报和价格、SEC 13F、平台周期和资本配置纪律一起进入判断。对他来说，早期网络负责发现 supercycle，公开市场负责验证收入、估值、流动性和股东回报。",
     "莫尼什·帕伯莱": "帕伯莱的信息来源高度依赖可借鉴的先例。他最典型的方法不是从零发明判断，而是研究历史上的成功投资、伟大投资人的公开持仓、股东信和可复制案例，然后在新的标的上寻找相似结构。这使他的来源系统天然带有“克隆”和模式迁移的味道。",
     "比尔·阿克曼": "阿克曼的信息来源更像一套战役情报系统。他会围绕少数核心标的做深研究，结合管理层、资本结构、治理问题、行业错配和公开表达，逐步把投资论点推到市场台前。对他来说，信息不只是用来理解公司，也是用来组织一场能够推动结果的行动。",
     "丹·勒布": "丹·勒布的信息来源更像一套事件驱动情报系统。他不仅看公司价值本身，也持续跟踪资本结构、董事会和管理层决策、潜在催化剂、监管或交易事件，以及 equity 与 credit 之间的错配。对他来说，信息价值不止在“便不便宜”，而在“什么时候、通过什么路径会重新定价”。",
@@ -350,6 +358,7 @@ INSTITUTION_META = {
     "Fundsmith": {"slug": "fundsmith"},
     "Dorsey Asset Management": {"slug": "dorsey-asset-management"},
     "Coatue Management": {"slug": "coatue-management"},
+    "Altimeter Capital": {"slug": "altimeter-capital"},
     "Giverny Capital": {"slug": "giverny-capital"},
     "Greenlight Capital": {"slug": "greenlight-capital"},
     "Baupost Group": {"slug": "baupost-group"},
@@ -379,6 +388,7 @@ CONCEPT_META = {
     "政策反应函数": {"slug": "policy-reaction-function"},
     "时间套利": {"slug": "time-arbitrage"},
     "超级赢家": {"slug": "super-winners"},
+    "幂律与超级周期": {"slug": "power-law-supercycles"},
     "反脆弱与仓位管理": {"slug": "antifragility-and-position-sizing"},
     "空头视角": {"slug": "short-perspective"},
     "企业文化": {"slug": "corporate-culture"},
@@ -431,6 +441,7 @@ COMPANY_SLUG_OVERRIDES = {
     "Capital One": "capital-one",
     "Live Nation": "live-nation",
     "伦敦证券交易所集团": "london-stock-exchange-group",
+    "S&P Global": "s-p-global",
 }
 
 DIALOGUE_SLUG_OVERRIDES = {
@@ -460,6 +471,7 @@ DIALOGUE_SLUG_OVERRIDES = {
     "访谈型方法论 vs 组合型证据": "interviews-vs-portfolio-evidence",
     "静态护城河 vs 再投资跑道": "static-moat-vs-reinvestment-runway",
     "公开市场股票 vs 私募成长网络": "public-market-stocks-vs-private-growth-network",
+    "分散化风控 vs 幂律风控": "diversification-vs-power-law-risk",
 }
 
 
@@ -781,6 +793,9 @@ def build_link_maps():
         elif src.stem == "13F趋势-Coatue":
             slug = "13f-trends-coatue"
             title = "13F 趋势 - Coatue"
+        elif src.stem == "13F趋势-Altimeter":
+            slug = "13f-trends-altimeter"
+            title = "13F 趋势 - Altimeter"
         else:
             match = re.match(r"13F趋势-(\d{4})Q([1-4])$", src.stem)
             if not match:
@@ -1175,6 +1190,10 @@ def compile_institutions():
             title = "13F 趋势 - Coatue"
             slug = "13f-trends-coatue"
             description = "Coatue Management 从 2023Q1 到 2026Q1 的单机构 13F 持仓变化。"
+        elif stem == "13F趋势-Altimeter":
+            title = "13F 趋势 - Altimeter"
+            slug = "13f-trends-altimeter"
+            description = "Altimeter Capital 从 2023Q1 到 2026Q1 的单机构 13F 持仓变化。"
         else:
             match = re.match(r"13F趋势-(\d{4})Q([1-4])$", stem)
             if not match:
