@@ -1,10 +1,10 @@
 ---
-title: "Coatue｜Philippe Laffont：Merrill Let’s Talk Alts AI公私市场访谈"
+title: "Coatue｜Philippe Laffont：CNBC 2025 AI与Fantastic 40访谈"
 slug: "sources/source-36"
 description: "原始材料来源页。"
 ---
 
-**原文件名**: `Coatue｜Philippe Laffont：Merrill Let’s Talk Alts AI公私市场访谈.md`  
+**原文件名**: `Coatue｜Philippe Laffont：CNBC 2025 AI与Fantastic 40访谈.md`  
 
 
 ## 摘要
@@ -13,4 +13,4 @@ description: "原始材料来源页。"
 
 ## 节选
 
-这条 Merrill / Bank of America `Let's Talk Alts` 访谈是 Philippe Laffont 直接谈 AI、公私市场和组合构建的代表材料。它比 Coatue 官网和 CTEK 更适合支撑人物页，但仍然不是完整投资流程披露。
+这条官方转载材料承担 Philippe Laffont 近年公开方法口径：AI 不是孤立主题，而是重写软件、基础设施、生产率和企业竞争格局的长期变化。

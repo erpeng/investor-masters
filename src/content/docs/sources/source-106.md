@@ -1,18 +1,17 @@
 ---
-title: "持续把简单的事做对！“超级投资者”沃尔特·施洛斯的一生"
+title: "原文｜Third Point｜2024Q4 investor letter：第二层思维、事件驱动与跨资产框架"
 slug: "sources/source-106"
-description: "普通人如何用原则跑赢市场"
+description: "从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：PDF。"
 ---
 
-**原文件名**: `持续把简单的事做对！“超级投资者”沃尔特·施洛斯的一生.md`  
-**外部来源**: https://mp.weixin.qq.com/s/8UDQ-S6rV4933fNjbuYh1A
+**原文件名**: `原文｜Third Point｜2024Q4 investor letter：第二层思维、事件驱动与跨资产框架.md`  
+**外部来源**: https://assets.thirdpointlimited.com/f/166217/x/bc70b1b6dc/third-point-q4-2024-investor-letter_tpil.pdf
 
-**时间**: 2026年1月27日 11:32
 
 ## 摘要
 
-普通人如何用原则跑赢市场
+从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：PDF。
 
 ## 节选
 
-沃尔特 ·施洛斯是美国最杰出的价值投资者之一，他被同门师兄、好友沃伦·巴菲特称为“超级投资者”。
+- 对应整理稿：[[现有资料/Third Point｜2024Q4 investor letter：第二层思维、事件驱动与跨资产框架.md]] - 抓取时间：`2026-04-20` - 抽取方式：`PDF` - 原始域名：`assets.thirdpointlimited.com`

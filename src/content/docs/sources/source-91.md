@@ -1,17 +1,19 @@
 ---
-title: "原文｜McKinsey｜李·安斯利：走进 Maverick Capital，传统多空基金如何研究企业"
+title: "全世界最懂AI的金融人，是怎么管理投资的？——看桥水“务实派”如何警示未来 （下） | 泉果探照灯"
 slug: "sources/source-91"
-description: "从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML（页面正文转录）。"
+description: "当你围绕“机器人是什么”去重新设计流程，效率的提升才真正爆发。"
 ---
 
-**原文件名**: `原文｜McKinsey｜李·安斯利：走进 Maverick Capital，传统多空基金如何研究企业.md`  
-**外部来源**: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/inside-a-hedge-fund-an-interview-with-the-managing-partner-of-maverick-capital
+**原文件名**: `全世界最懂AI的金融人，是怎么管理投资的？——看桥水“务实派”如何警示未来 （下）  泉果探照灯.md`  
+**外部来源**: https://mp.weixin.qq.com/s/MSuAm2bmVTLy1jEYeLwmMQ
 
+**作者**: 原创 泉果探照灯  
+**时间**: 2025年12月24日 11:29
 
 ## 摘要
 
-从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML（页面正文转录）。
+当你围绕“机器人是什么”去重新设计流程，效率的提升才真正爆发。
 
 ## 节选
 
-- 对应整理稿：[[现有资料/McKinsey｜李·安斯利：走进 Maverick Capital，传统多空基金如何研究企业.md]] - 抓取时间：`2026-04-20` - 抽取方式：`HTML` - 原始域名：`www.mckinsey.com` - 备注：站点命令行抓取长时间无响应，本存档依据公开可访问页面正文转录。
+在前两期【泉果探照灯】中，我们分享了桥水基金首席投资官Greg Jensen关于对未来资本市场一定要“分散投资”的警示，以及他的决策基础和逻辑推演过程。

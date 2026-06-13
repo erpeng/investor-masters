@@ -1,19 +1,16 @@
 ---
-title: "全世界最懂AI的金融人，是怎么管理投资的？——看桥水“务实派”如何警示未来 （下） | 泉果探照灯"
+title: "Yale Investments｜Partners与People"
 slug: "sources/source-82"
-description: "当你围绕“机器人是什么”去重新设计流程，效率的提升才真正爆发。"
+description: "原始材料来源页。"
 ---
 
-**原文件名**: `全世界最懂AI的金融人，是怎么管理投资的？——看桥水“务实派”如何警示未来 （下）  泉果探照灯.md`  
-**外部来源**: https://mp.weixin.qq.com/s/MSuAm2bmVTLy1jEYeLwmMQ
+**原文件名**: `Yale Investments｜Partners与People.md`  
 
-**作者**: 原创 泉果探照灯  
-**时间**: 2025年12月24日 11:29
 
 ## 摘要
 
-当你围绕“机器人是什么”去重新设计流程，效率的提升才真正爆发。
+原始材料来源页。
 
 ## 节选
 
-在前两期【泉果探照灯】中，我们分享了桥水基金首席投资官Greg Jensen关于对未来资本市场一定要“分散投资”的警示，以及他的决策基础和逻辑推演过程。
+Yale Investments 关于 partners 与 team 的官方页面，用来支撑 Yale Model 中最容易被忽视的一层：外部管理人关系和内部团队判断。

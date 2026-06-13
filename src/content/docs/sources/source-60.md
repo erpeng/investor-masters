@@ -1,10 +1,11 @@
 ---
-title: "SEC｜Coatue Management：2023-2026 13F持仓轨迹"
+title: "Richer Wiser Happier｜弗朗索瓦·罗雄：精英中的精英"
 slug: "sources/source-60"
 description: "原始材料来源页。"
 ---
 
-**原文件名**: `SEC｜Coatue Management：2023-2026 13F持仓轨迹.md`  
+**原文件名**: `Richer Wiser Happier｜弗朗索瓦·罗雄：精英中的精英.md`  
+**外部来源**: Richer Wiser Happier / The Investor's Podcast Network
 
 
 ## 摘要
@@ -13,4 +14,4 @@ description: "原始材料来源页。"
 
 ## 节选
 
-- SEC 13F information table：`COATUE MANAGEMENT LLC`，CIK `0001135730` - 展示窗口：`2023Q1-2026Q1`，并用 `2022Q4` 计算 `2023Q1` 主动变化。
+这是 [[investors/弗朗索瓦·罗雄]] 最适合进入人物页的长访谈入口。它不是单一股票 pitch，而是把 Rochon 的长期复利观、错误观、性格约束和 Giverny 的年报文化放在同一个语境里。

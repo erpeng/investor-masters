@@ -1,19 +1,16 @@
 ---
-title: "为什么比尔·米勒能够拿住亚马逊26年？一场深度对话还原很多精彩细节"
+title: "Yale Investments｜Endowment与Yale Model"
 slug: "sources/source-81"
-description: "多元学科思维的投资实践"
+description: "原始材料来源页。"
 ---
 
-**原文件名**: `为什么比尔·米勒能够拿住亚马逊26年？一场深度对话还原很多精彩细节.md`  
-**外部来源**: https://mp.weixin.qq.com/s/kvYKuHCqslEJSTx1-kFTLw
+**原文件名**: `Yale Investments｜Endowment与Yale Model.md`  
 
-**作者**: 最近听了一场两个多小时的访谈，主持人是投资作家威廉 ·格林（William Green），嘉宾是《巴菲特之道》作者罗伯特·哈格斯特罗姆（Robert Hagstrom）。  
-**时间**: 2025年8月25日 15:02
 
 ## 摘要
 
-多元学科思维的投资实践
+原始材料来源页。
 
 ## 节选
 
-最近听了一场两个多小时的访谈，主持人是投资作家威廉 ·格林（William Green），嘉宾是《巴菲特之道》作者罗伯特·哈格斯特罗姆（Robert Hagstrom）。
+Yale Investments 官方 Endowment 页面，用来确认 Yale Endowment 的使命、支出政策、长期资产配置约束和 Yale Model 的官方表达。

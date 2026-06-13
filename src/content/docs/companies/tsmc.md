@@ -19,7 +19,7 @@ description: "台积电在这批资料里主要是“稀缺制造能力”的样
 安德森关注的是组织与能力的不可复制性。
 
 ### [劳伦斯·伯恩斯](/investor-masters/investors/lawrence-burns/)
-> “在 AI这个主题里，我们的布局是沿着整条价值链展开的。 比如在硬件层面，我们持有英伟达、阿斯麦和台积电。” ——来源：[近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-masters/sources/source-123/)
+> “在 AI这个主题里，我们的布局是沿着整条价值链展开的。 比如在硬件层面，我们持有英伟达、阿斯麦和台积电。” ——来源：[近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-masters/sources/source-132/)
 
 这是把台积电放进系统性配置框架的说法。
 
@@ -31,9 +31,15 @@ Appaloosa 的 `TSM` 轨迹把台积电接到政策/AI/半导体三条线的交�
 
 Altimeter 的 `TSM` 是 AI supercycle 里“硬件链不只押 Nvidia”的证据。[13F趋势-Altimeter](/investor-masters/institutions/13f-trends-altimeter/) 显示，`TSM` 在 2026Q1 从 `5.6%` 升到 `8.1%`，股数从约 `1.22m` 增至 `1.37m`。这条线和 `NVDA / META / UBER / CRWV / ARM` 放在一起看，说明 Gerstner 把 AI 平台、芯片、算力云和先进制造当成同一个资本开支周期的不同承接层。
 
+### [丹·勒布](/investor-masters/investors/dan-loeb/)
+
+Third Point 的 `TSM` 不是简单加仓信号，而是缩表后的制造瓶颈留存。[13F趋势-Third Point](/investor-masters/institutions/13f-trends-third-point/) 显示，`TSM` 在 `2026Q1` 进入前十大，约 `$92.9m`、`275k` 股、权重 `4.5%`；但上一季已有 `425k` 股，Q1 股数实际下降。
+
+这说明 Loeb 并没有把 AI 暴露完全砍掉，而是从 `NVDA / MSFT` 这类更拥挤的大盘 beta，留下少量更靠先进制造瓶颈的表达。
+
 ## 分歧与共识
 
-共识在于台积电的稀缺性；分歧不大，只是一个更强调制造能力的独特性，一个更强调它在 AI 链条中的中性受益位置。Appaloosa 和 Altimeter 的 2026Q1 13F 把它进一步推到 AI 基础设施的公开组合核心。
+共识在于台积电的稀缺性；分歧不大，只是一个更强调制造能力的独特性，一个更强调它在 AI 链条中的中性受益位置。Appaloosa 和 Altimeter 的 2026Q1 13F 把它进一步推到 AI 基础设施的公开组合核心；Third Point 则提醒：即使在缩表中，先进制造瓶颈也可能被留下。
 
 ## 相关页面
 
@@ -41,5 +47,6 @@ Altimeter 的 `TSM` 是 AI supercycle 里“硬件链不只押 Nvidia”的证�
 - [劳伦斯·伯恩斯](/investor-masters/investors/lawrence-burns/)
 - [大卫·泰珀](/investor-masters/investors/david-tepper/)
 - [布拉德·格斯特纳](/investor-masters/investors/brad-gerstner/)
+- [丹·勒布](/investor-masters/investors/dan-loeb/)
 - [英伟达](/investor-masters/companies/nvidia/)
 - [ASML](/investor-masters/companies/asml/)

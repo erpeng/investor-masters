@@ -1,11 +1,10 @@
 ---
-title: "TWST｜弗朗索瓦·罗雄：耐心是价值投资的关键"
+title: "Simons Foundation｜五条原则与量化遗产"
 slug: "sources/source-68"
 description: "原始材料来源页。"
 ---
 
-**原文件名**: `TWST｜弗朗索瓦·罗雄：耐心是价值投资的关键.md`  
-**外部来源**: The Wall Street Transcript
+**原文件名**: `Simons Foundation｜五条原则与量化遗产.md`  
 
 
 ## 摘要
@@ -14,4 +13,4 @@ description: "原始材料来源页。"
 
 ## 节选
 
-这篇较早访谈适合补 Rochon 方法的“旧底盘”：耐心、长期 owner earnings、少数高质量企业和对宏观预测的克制。
+Simons 公开演讲与 Simons Foundation 材料中反复出现的几条原则，用来补足人物页的“可迁移部分”：做新事、与优秀伙伴合作、被美驱动、坚持、把好运转化为机构。

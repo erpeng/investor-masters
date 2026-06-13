@@ -1,10 +1,10 @@
 ---
-title: "CNBC｜David Tepper：2010 QE与Everything交易"
+title: "CNBC｜Appaloosa：2019-family-office转型"
 slug: "sources/source-23"
 description: "原始材料来源页。"
 ---
 
-**原文件名**: `CNBC｜David Tepper：2010 QE与Everything交易.md`  
+**原文件名**: `CNBC｜Appaloosa：2019-family-office转型.md`  
 
 
 ## 摘要
@@ -13,4 +13,4 @@ description: "原始材料来源页。"
 
 ## 节选
 
-- CNBC transcript/excerpts, Squawk Box, 2010-09-24 - 主角：David Tepper, Appaloosa Management
+这条不是访谈，但对 Appaloosa 机构页很关键。它说明 Appaloosa 从传统外部资本 hedge fund 逐步转向更接近 family office 的资本结构，这会改变时间压力、赎回压力和仓位自由度。

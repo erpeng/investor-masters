@@ -42,9 +42,9 @@ description: "不是公司百科，而是“为什么顶级投资人反复提到
 
 - **高质量复利样本**: [开市客](/investor-masters/companies/costco/)、[可口可乐](/investor-masters/companies/coca-cola/)、[微软](/investor-masters/companies/microsoft/)、[Visa](/investor-masters/companies/visa/)、[ADP](/investor-masters/companies/adp/)、[伯克希尔·哈撒韦](/investor-masters/companies/berkshire-hathaway/)、[Constellation Software](/investor-masters/companies/constellation-software/)、[O'Reilly Automotive](/investor-masters/companies/oreilly-automotive/)、[Markel](/investor-masters/companies/markel/)、[帝亚吉欧](/investor-masters/companies/diageo/)、[Heineken](/investor-masters/companies/heineken/)、[伦敦证券交易所集团](/investor-masters/companies/london-stock-exchange-group/)、[RELX](/investor-masters/companies/relx/)、[Sage](/investor-masters/companies/sage/)
 - **平台与科技赢家**: [亚马逊](/investor-masters/companies/amazon/)、[苹果](/investor-masters/companies/apple/)、[腾讯](/investor-masters/companies/tencent/)、[Meta](/investor-masters/companies/meta/)、[Alphabet](/investor-masters/companies/alphabet/)、[Netflix](/investor-masters/companies/netflix/)、[Salesforce](/investor-masters/companies/salesforce/)、[Airbnb](/investor-masters/companies/airbnb/)、[AppLovin](/investor-masters/companies/applovin/)、[Uber](/investor-masters/companies/uber/)、[英伟达](/investor-masters/companies/nvidia/)、[台积电](/investor-masters/companies/tsmc/)、[ASML](/investor-masters/companies/asml/)、[Waymo](/investor-masters/companies/waymo/)
-- **2026Q1 13F 联动线索**: [Uber](/investor-masters/companies/uber/)、[AppLovin](/investor-masters/companies/applovin/)、[Sunbelt Rentals](/investor-masters/companies/sunbelt-rentals/)、[S&P Global](/investor-masters/companies/s-p-global/)、[Linde](/investor-masters/companies/linde/)
+- **2026Q1 13F 联动线索**: [Uber](/investor-masters/companies/uber/)、[AppLovin](/investor-masters/companies/applovin/)、[Sunbelt Rentals](/investor-masters/companies/sunbelt-rentals/)、[S&P Global](/investor-masters/companies/s-p-global/)、[Linde](/investor-masters/companies/linde/)、[Telephone and Data Systems](/investor-masters/companies/telephone-and-data-systems/)、[Somnigroup International](/investor-masters/companies/somnigroup-international/)、[Carpenter Technology](/investor-masters/companies/carpenter-technology/)、[MasTec](/investor-masters/companies/mastec/)、[API Group](/investor-masters/companies/api-group/)
 - **战役与治理修复样本**: [Chipotle](/investor-masters/companies/chipotle/)、[General Growth](/investor-masters/companies/general-growth/)、[Canadian Pacific](/investor-masters/companies/canadian-pacific/)、[Wendy's](/investor-masters/companies/wendys/)、[Tim Hortons](/investor-masters/companies/tim-hortons/)
-- **Third Point 公开主轴样本**: [PG&E](/investor-masters/companies/pge/)、[Union Pacific](/investor-masters/companies/union-pacific/)、[CRH](/investor-masters/companies/crh/)、[Brookfield](/investor-masters/companies/brookfield/)、[Apollo](/investor-masters/companies/apollo/)、[Capital One](/investor-masters/companies/capital-one/)、[Live Nation](/investor-masters/companies/live-nation/)、[亚马逊](/investor-masters/companies/amazon/)、[英伟达](/investor-masters/companies/nvidia/)
+- **Third Point 公开主轴样本**: [PG&E](/investor-masters/companies/pge/)、[Union Pacific](/investor-masters/companies/union-pacific/)、[CRH](/investor-masters/companies/crh/)、[Brookfield](/investor-masters/companies/brookfield/)、[Apollo](/investor-masters/companies/apollo/)、[Capital One](/investor-masters/companies/capital-one/)、[Live Nation](/investor-masters/companies/live-nation/)、[亚马逊](/investor-masters/companies/amazon/)、[英伟达](/investor-masters/companies/nvidia/)、[Telephone and Data Systems](/investor-masters/companies/telephone-and-data-systems/)、[Somnigroup International](/investor-masters/companies/somnigroup-international/)、[Carpenter Technology](/investor-masters/companies/carpenter-technology/)、[MasTec](/investor-masters/companies/mastec/)、[API Group](/investor-masters/companies/api-group/)
 - **阿克曼式长期资产样本**: [Universal Music Group](/investor-masters/companies/universal-music-group/)、[Alphabet](/investor-masters/companies/alphabet/)、[Howard Hughes](/investor-masters/companies/howard-hughes/)
 - **中国与新一代平台**: [阿里巴巴](/investor-masters/companies/alibaba/)、[美团](/investor-masters/companies/meituan/)、[拼多多](/investor-masters/companies/pdd/)、[小红书](/investor-masters/companies/xiaohongshu/)、[MiniMax](/investor-masters/companies/minimax/)、[百度](/investor-masters/companies/baidu/)
 - **中国全球制造与工程师文化**: [比亚迪](/investor-masters/companies/byd/)
@@ -118,6 +118,11 @@ description: "不是公司百科，而是“为什么顶级投资人反复提到
 - [Sunbelt Rentals](/investor-masters/companies/sunbelt-rentals/)
 - [S&P Global](/investor-masters/companies/s-p-global/)
 - [Linde](/investor-masters/companies/linde/)
+- [Telephone and Data Systems](/investor-masters/companies/telephone-and-data-systems/)
+- [Somnigroup International](/investor-masters/companies/somnigroup-international/)
+- [Carpenter Technology](/investor-masters/companies/carpenter-technology/)
+- [MasTec](/investor-masters/companies/mastec/)
+- [API Group](/investor-masters/companies/api-group/)
 - [丹纳赫](/investor-masters/companies/danaher/)
 - [Visa](/investor-masters/companies/visa/)
 - [ADP](/investor-masters/companies/adp/)
@@ -136,14 +141,15 @@ description: "不是公司百科，而是“为什么顶级投资人反复提到
 - [Silvergate Capital](/investor-masters/companies/silvergate-capital/)
 
 - [ADP](/investor-masters/companies/adp/): ADP 在这批资料里不是宏大叙事的公司，而是一个很典型的质量复利持仓样本：业务稳、对就业周期敏感、但市场容易对短期指引反应过度。
+- [API Group](/investor-masters/companies/api-group/): API Group (`APG`) 在 Third Point Q1 2026 里代表的是 `消防安全 / 检测维护 / 专业服务外包` 这条更偏经常性服务的工业线。
 - [ASML](/investor-masters/companies/asml/): ASML 在这批资料里同时承担两种角色：一方面是 Baillie Gifford 欣赏但外界不常问的稀缺公司，另一方面是 AI 价值链上最明确的上游瓶颈之一。
 - [Airbnb](/investor-masters/companies/airbnb/): Airbnb 在这套 wiki 里是 [[investors/比尔·尼格伦]] 解释“增长投入如何被重新还原”的另一个样本。
 - [Alphabet](/investor-masters/companies/alphabet/): Alphabet 在这批资料里最重要的不是“它是不是好公司”，而是市场会不会在 AI 冲击下短暂忘记它到底有多强。
 - [Apollo](/investor-masters/companies/apollo/): Apollo 在这批资料里最重要的意义，不是另类资管公司介绍，而是它作为 Third Point `Q1 2025` 的公开前十样本、以及 `2024Q4` 主要正贡献者之一，帮助你看清丹·勒布的公开权益切片并不只押在主动推动或单一行业上，也会落在更贴近 `信用 / 另类资产 / 资本市场` 语言的金融平台上。
-- [AppLovin](/investor-masters/companies/applovin/): AppLovin 在这批 13F 里不是普通移动广告公司样本，而是 AI 广告模型、应用分发和高弹性估值如何进入集中组合的观察入口。
 
 ## 全部公司
 - [ADP](/investor-masters/companies/adp/)
+- [API Group](/investor-masters/companies/api-group/)
 - [ASML](/investor-masters/companies/asml/)
 - [Airbnb](/investor-masters/companies/airbnb/)
 - [Alphabet](/investor-masters/companies/alphabet/)
@@ -155,6 +161,7 @@ description: "不是公司百科，而是“为什么顶级投资人反复提到
 - [Canadian Pacific](/investor-masters/companies/canadian-pacific/)
 - [Capital One](/investor-masters/companies/capital-one/)
 - [CarMax](/investor-masters/companies/carmax/)
+- [Carpenter Technology](/investor-masters/companies/carpenter-technology/)
 - [Chipotle](/investor-masters/companies/chipotle/)
 - [Coinbase](/investor-masters/companies/coinbase/)
 - [Constellation Software](/investor-masters/companies/constellation-software/)
@@ -167,6 +174,7 @@ description: "不是公司百科，而是“为什么顶级投资人反复提到
 - [Linde](/investor-masters/companies/linde/)
 - [Live Nation](/investor-masters/companies/live-nation/)
 - [Markel](/investor-masters/companies/markel/)
+- [MasTec](/investor-masters/companies/mastec/)
 - [Meta](/investor-masters/companies/meta/)
 - [MiniMax](/investor-masters/companies/minimax/)
 - [Netflix](/investor-masters/companies/netflix/)
@@ -179,8 +187,10 @@ description: "不是公司百科，而是“为什么顶级投资人反复提到
 - [Sage](/investor-masters/companies/sage/)
 - [Salesforce](/investor-masters/companies/salesforce/)
 - [Silvergate Capital](/investor-masters/companies/silvergate-capital/)
+- [Somnigroup International](/investor-masters/companies/somnigroup-international/)
 - [SpaceX](/investor-masters/companies/spacex/)
 - [Sunbelt Rentals](/investor-masters/companies/sunbelt-rentals/)
+- [Telephone and Data Systems](/investor-masters/companies/telephone-and-data-systems/)
 - [Teva](/investor-masters/companies/teva/)
 - [Tim Hortons](/investor-masters/companies/tim-hortons/)
 - [Uber](/investor-masters/companies/uber/)

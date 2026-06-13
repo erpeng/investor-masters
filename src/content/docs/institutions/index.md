@@ -48,3 +48,5 @@ description: "激励结构决定投资人能做什么，而不只是想做什么
 - [Lone Pine Capital](/investor-masters/institutions/lone-pine-capital/)
 - [Maverick Capital](/investor-masters/institutions/maverick-capital/)
 - [Third Point](/investor-masters/institutions/third-point/)
+- [Renaissance Technologies](/investor-masters/institutions/renaissance-technologies/)
+- [Yale Investments Office](/investor-masters/institutions/yale-investments-office/)

@@ -1,17 +1,17 @@
 ---
-title: "Capital Allocators｜尼科莱·坦根：掌管全球最大主权财富基金"
+title: "CNBC｜肯·格里芬：Citadel 总部首场电视长访谈"
 slug: "sources/source-32"
-description: "尼科莱·坦根谈 AKO 的形成、质量投资、客户至上、主权基金的治理结构与“普遍所有者”视角。"
+description: "依据 CNBC 公开 transcript，整理 Ken Griffin 关于人才密度、delegation、Citadel 的多策略平台与 depth-not-breadth 的早期官方表达。"
 ---
 
-**原文件名**: `Capital Allocators｜尼科莱·坦根：掌管全球最大主权财富基金.md`  
-**外部来源**: https://www.capitalallocators.com/podcast/overseeing-the-largest-sovereign-wealth-fund/
+**原文件名**: `CNBC｜肯·格里芬：Citadel 总部首场电视长访谈.md`  
+**外部来源**: https://www.cnbc.com/2015/11/19/cnbc-exclusive-cnbc-transcript-citadel-founder-ceo-ken-griffin-speaks-with-cnbcs-kate-kelly-on-squawk-on-the-street-today.html
 
 
 ## 摘要
 
-尼科莱·坦根谈 AKO 的形成、质量投资、客户至上、主权基金的治理结构与“普遍所有者”视角。
+依据 CNBC 公开 transcript，整理 Ken Griffin 关于人才密度、delegation、Citadel 的多策略平台与 depth-not-breadth 的早期官方表达。
 
 ## 节选
 
-> 整理说明： > 这不是官方逐字稿。 > 本页依据 Capital Allocators 节目页、同题 YouTube 公开自动字幕，以及公开可核验的节目摘要整理而成，重点保留对投资方法和机构约束最有价值的段落。
+- `主角`：肯·格里芬（Ken Griffin） - `场景`：CNBC / Citadel 总部首场电视访谈 - `时间`：`2015-11-19` - `核心价值`：这篇是理解 Citadel 如何从个人交易者长成平台机构的关键老材料。

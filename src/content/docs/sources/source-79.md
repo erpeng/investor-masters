@@ -1,19 +1,17 @@
 ---
-title: "一家低调的传奇机构，“黏住”亚马逊、开市客、伯克希尔大赚特赚"
+title: "Value Investor Insight｜弗朗索瓦·罗雄：Affordable Quality"
 slug: "sources/source-79"
-description: "游牧人基金的历史，也是一部美妙的投资史"
+description: "原始材料来源页。"
 ---
 
-**原文件名**: `一家低调的传奇机构，“黏住”亚马逊、开市客、伯克希尔大赚特赚.md`  
-**外部来源**: https://mp.weixin.qq.com/s/r8dgjM1KrUtT9yC9L5fZUg
+**原文件名**: `Value Investor Insight｜弗朗索瓦·罗雄：Affordable Quality.md`  
+**外部来源**: Value Investor Insight
 
-**作者**: 原创 伊娜  
-**时间**: 2023年8月14日 15:01
 
 ## 摘要
 
-游牧人基金的历史，也是一部美妙的投资史
+原始材料来源页。
 
 ## 节选
 
-二季度亚马逊业绩大超预期。8月3日，亚马逊交出了FAAMG中最亮眼的二季报：期内营收1344亿美元，增长近11%，扭转过去一年持续个位数增长颓势；净利润同比扭亏为盈，达67.5亿美元，创下2021年四季度以来新高，而上年同期净亏损是20.28亿美元。
+这篇材料是 Rochon 在平台公司和高质量成长股被重新定价后的重要更新。它把 `quality` 和 `valuation discipline` 放在一起，而不是把质量投资讲成无条件买好公司。

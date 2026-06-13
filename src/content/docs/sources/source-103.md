@@ -1,19 +1,17 @@
 ---
-title: "小心！过去15年的“陷阱”，让我们遗忘了“分散投资”——看桥水“务实派”如何警示未来（上） |  泉果探照灯"
+title: "原文｜S&P Global｜肯·格里芬：Citadel、AI 与独立思考"
 slug: "sources/source-103"
-description: "投资经验“失效”？美联储“收编”？西方发达国家“巴西化”？"
+description: "从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML（全文 transcript 转录）。"
 ---
 
-**原文件名**: `小心！过去15年的“陷阱”，让我们遗忘了“分散投资”——看桥水“务实派”如何警示未来（上）   泉果探照灯.md`  
-**外部来源**: https://mp.weixin.qq.com/s/A18J7QPlwPv-6K-zJcWkjA
+**原文件名**: `原文｜S&P Global｜肯·格里芬：Citadel、AI 与独立思考.md`  
+**外部来源**: https://www.spglobal.com/en/research-insights/podcasts/leaders/ken-griffin-on-building-citadel-ai-and-independent-thinking
 
-**作者**: 原创 泉果探照灯  
-**时间**: 2025年12月17日 22:56
 
 ## 摘要
 
-投资经验“失效”？美联储“收编”？西方发达国家“巴西化”？
+从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML（全文 transcript 转录）。
 
 ## 节选
 
-■ 过去的15年是一个被粉饰的“陷阱”——这让大多数人放弃了分散投资，因为它似乎不再起作用了，你只要买美国股票就好了。
+- 对应整理稿：[[现有资料/S&P Global｜肯·格里芬：Citadel、AI 与独立思考.md]] - 抓取时间：`2026-04-20` - 抽取方式：`HTML` - 原始域名：`www.spglobal.com` - 备注：命令行抓取返回错误页，本存档依据公开可访问页面的 `View Full Transcript` 全文转录。

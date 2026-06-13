@@ -1,10 +1,11 @@
 ---
-title: "Dorsey Asset Management｜官网方法与团队"
+title: "Compounding Quality｜弗朗索瓦·罗雄：所有者收益、错误榜单与质量投资"
 slug: "sources/source-42"
 description: "原始材料来源页。"
 ---
 
-**原文件名**: `Dorsey Asset Management｜官网方法与团队.md`  
+**原文件名**: `Compounding Quality｜弗朗索瓦·罗雄：所有者收益、错误榜单与质量投资.md`  
+**外部来源**: Compounding Quality
 
 
 ## 摘要
@@ -13,4 +14,4 @@ description: "原始材料来源页。"
 
 ## 节选
 
-这是 Dorsey Asset Management 的官方站点材料，主要承担机构事实、策略边界和团队结构责任。它不是业绩归因材料，也不是完整持仓披露。
+这篇访谈最适合补 Rochon 的方法细节：他怎样定义好公司、怎样用所有者收益替代会计利润、怎样区分买错和错过，以及为什么长期复利需要性格保护。

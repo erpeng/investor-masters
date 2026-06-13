@@ -1,17 +1,17 @@
 ---
-title: "Third Point｜2025Q1 investor letter：催化剂、动态敞口与信用协同"
+title: "TIP｜弗朗索瓦·罗雄：AI驱动市场中的长期投资"
 slug: "sources/source-72"
-description: "依据 Third Point 2025Q1 investor letter，整理 Dan Loeb 对动态降敞口、催化剂仓位、信用协同与 flexible allocation 的官方表达。"
+description: "原始材料来源页。"
 ---
 
-**原文件名**: `Third Point｜2025Q1 investor letter：催化剂、动态敞口与信用协同.md`  
-**外部来源**: https://assets.thirdpointlimited.com/f/166217/x/1c4003f091/tpil-q1-2025-investor-letter_02052025_final.pdf
+**原文件名**: `TIP｜弗朗索瓦·罗雄：AI驱动市场中的长期投资.md`  
+**外部来源**: The Investor's Podcast Network
 
 
 ## 摘要
 
-依据 Third Point 2025Q1 investor letter，整理 Dan Loeb 对动态降敞口、催化剂仓位、信用协同与 flexible allocation 的官方表达。
+原始材料来源页。
 
 ## 节选
 
-- `主角`：丹·勒布（Dan Loeb）/ Third Point - `场景`：`2025Q1` investor letter - `时间`：`2025-05-02` - `核心价值`：如果 `2024Q4` 信讲的是方法框架，这封信讲的是框架在动荡环境里如何实际落地。
+这篇材料用于补 Rochon 在 AI 驱动市场中的最新口径：不是预测 AI 主题涨跌，而是回到企业长期 owner earnings、竞争优势和估值赔率。

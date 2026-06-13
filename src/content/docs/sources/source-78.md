@@ -1,19 +1,17 @@
 ---
-title: "一名“特工”的“投资情报学”，和他掌管的全球最大的钱袋子｜泉果探照灯"
+title: "Value Investing with Legends｜塞思·卡拉曼：逆向纪律、耐心资本与 Baupost"
 slug: "sources/source-78"
-description: "投资和竞技一样，都是高压之下的表现艺术。"
+description: "依据 Value Investing with Legends 官方节目简介与公开可见 topic 列表，整理塞思·卡拉曼关于市场低效、逆向纪律、跨资产评估、耐心资本与 AI 的最新系统表达。"
 ---
 
-**原文件名**: `一名“特工”的“投资情报学”，和他掌管的全球最大的钱袋子｜泉果探照灯.md`  
-**外部来源**: https://mp.weixin.qq.com/s/bwHK4ufuHj32X-QdzE8X4g
+**原文件名**: `Value Investing with Legends｜塞思·卡拉曼：逆向纪律、耐心资本与 Baupost.md`  
+**外部来源**: https://valueinvestingwithlegends.libsyn.com/seth-klarman-contrarian-investing-discipline-and-building-baupost
 
-**作者**: 原创 泉果探照灯  
-**时间**: 2025年8月18日 20:18
 
 ## 摘要
 
-投资和竞技一样，都是高压之下的表现艺术。
+依据 Value Investing with Legends 官方节目简介与公开可见 topic 列表，整理塞思·卡拉曼关于市场低效、逆向纪律、跨资产评估、耐心资本与 AI 的最新系统表达。
 
 ## 节选
 
-真正的优势，不在于比别人聪明，而在于：你问得比别人更深，听得比别人更细，准备得比别人更充分。
+> 整理说明： > 本页依据节目官方简介与公开可见 key topics 整理。官方页面未公开完整 transcript，因此这里只保留节目简介明确给出的主题与结构，不假装掌握逐字内容。

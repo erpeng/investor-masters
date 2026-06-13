@@ -1,17 +1,17 @@
 ---
-title: "Value Investing with Legends｜塞思·卡拉曼：逆向纪律、耐心资本与 Baupost"
+title: "TWST｜弗朗索瓦·罗雄：耐心是价值投资的关键"
 slug: "sources/source-73"
-description: "依据 Value Investing with Legends 官方节目简介与公开可见 topic 列表，整理塞思·卡拉曼关于市场低效、逆向纪律、跨资产评估、耐心资本与 AI 的最新系统表达。"
+description: "原始材料来源页。"
 ---
 
-**原文件名**: `Value Investing with Legends｜塞思·卡拉曼：逆向纪律、耐心资本与 Baupost.md`  
-**外部来源**: https://valueinvestingwithlegends.libsyn.com/seth-klarman-contrarian-investing-discipline-and-building-baupost
+**原文件名**: `TWST｜弗朗索瓦·罗雄：耐心是价值投资的关键.md`  
+**外部来源**: The Wall Street Transcript
 
 
 ## 摘要
 
-依据 Value Investing with Legends 官方节目简介与公开可见 topic 列表，整理塞思·卡拉曼关于市场低效、逆向纪律、跨资产评估、耐心资本与 AI 的最新系统表达。
+原始材料来源页。
 
 ## 节选
 
-> 整理说明： > 本页依据节目官方简介与公开可见 key topics 整理。官方页面未公开完整 transcript，因此这里只保留节目简介明确给出的主题与结构，不假装掌握逐字内容。
+这篇较早访谈适合补 Rochon 方法的“旧底盘”：耐心、长期 owner earnings、少数高质量企业和对宏观预测的克制。

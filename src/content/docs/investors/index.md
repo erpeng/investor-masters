@@ -42,7 +42,7 @@ description: "从人物、约束和边界切入理解不同投资方法。"
 | [劳伦斯·伯恩斯](/investor-masters/investors/lawrence-burns/) | 价值链布局、AI企业端 | 中高 | 1-5年/5年+ | 中 | 成长 | [Baillie Gifford](/investor-masters/institutions/baillie-gifford/) / SMT | 未公开 | “在 AI 这个主题里，我们的布局是沿着整条价值链展开的。” |
 | [莫尼什·帕伯莱](/investor-masters/investors/monish-pabrai/) | 克隆、集中、巴芒学习 | 高 | 5年+ | 低 | 经典价值 | Pabrai Funds | 未公开 | “我很早就了解到克隆和复制的力量。” |
 | [比尔·阿克曼](/investor-masters/investors/bill-ackman/) | 战役、催化剂、主动所有者 | 极高 | 1-5年 | 中高 | 价值 / 事件驱动 | [Pershing Square](/investor-masters/institutions/pershing-square/) | 约 16.2%（[PSH 2025 年报](https://assets.pershingsquareholdings.com/wp-content/uploads/2026/02/18175039/Pershing-Square-Holdings-Ltd.-2025-Annual-Report.pdf)） | “我是从阅读伯克希尔·哈撒韦的年度报告开始的。” |
-| [丹·勒布](/investor-masters/investors/dan-loeb/) | 事件驱动、催化剂、跨资本结构 | 中高 | 1-5年 | 中高 | 价值 / 事件驱动 | [Third Point](/investor-masters/institutions/third-point/) | 约 13.0%（[Third Point 官方月报](https://assets.thirdpointlimited.com/f/166217/x/cafeb5e071/2023-04-april-monthly-report-tpil.pdf)） | “经济与政策的交叉影响，使第二层思维变得格外重要。” |
+| [丹·勒布](/investor-masters/investors/dan-loeb/) | 信用根源、事件驱动、质量/主题、跨资本结构 | 中高 | 1-5年 | 中高 | 价值 / 事件驱动 / 主题 | [Third Point](/investor-masters/institutions/third-point/) | 约 13.0%（[Third Point 官方月报](https://assets.thirdpointlimited.com/f/166217/x/cafeb5e071/2023-04-april-monthly-report-tpil.pdf)） | “今天你必须懂科技，因为科技已经影响到所有行业。” |
 | [斯坦利·德鲁肯米勒](/investor-masters/investors/stanley-druckenmiller/) | 趋势、仓位、快速修正 | 高 | <1年/1-5年 | 高 | 宏观 | [Duquesne Family Office](/investor-masters/institutions/duquesne-family-office/) | 未公开 | “永远不要投资于现在——想象18个月后的世界。” |
 | [大卫·泰珀](/investor-masters/investors/david-tepper/) | 政策反应函数、困境资产、仓位切换 | 高 | <1年/1-5年 | 极高 | 宏观 / 困境 / 事件驱动 | [Appaloosa Management](/investor-masters/institutions/appaloosa-management/) | 未公开 | “推断：政策和流动性改变资产价格分布时，赔率表必须重写。” |
 | [保罗·都铎·琼斯](/investor-masters/investors/paul-tudor-jones/) | 流动性、趋势、风险管理 | 策略依赖 | <1年/趋势持续期 | 极高 | 宏观 / 交易 | [Tudor Investment Corporation](/investor-masters/institutions/tudor-investment-corporation/) | 未公开 | “我这辈子再也不会长期持有任何东西，也不会完全相信任何东西。” |
@@ -52,9 +52,11 @@ description: "从人物、约束和边界切入理解不同投资方法。"
 | [史蒂芬·曼德尔](/investor-masters/investors/stephen-mandel/) | 变化驱动、深企业研究、组织化传承 | 高 | 1-5年/5年+ | 中 | 质量成长 / long-short | [Lone Pine Capital](/investor-masters/institutions/lone-pine-capital/) | 未公开 | “investing behind change。” |
 | [凯斯·扎卡里亚](/investor-masters/investors/qais-zakaria/) | 共享规模经济、长期集中 | 极高 | 5年+ | 低 | 质量价值 | [Nomad](/investor-masters/institutions/nomad-investment-partnership/) | 未公开 | “漫长而简单的游戏。” |
 | [格雷格·詹森](/investor-masters/investors/greg-jensen/) | 制度拐点、分散、知识复利 | 中高 | 1-5年 | 高 | 宏观 | [Bridgewater Associates](/investor-masters/institutions/bridgewater-associates/) | 未公开 | “如果一个你对市场的认识，没有被‘写进系统’，那它就等于不存在。” |
+| [吉姆·西蒙斯](/investor-masters/investors/jim-simons/) | 数据、模型、科学团队、信号工厂 | 极分散/高换手 | 策略依赖/短周期 | 低到中 | 量化 / 统计套利 | [Renaissance Technologies](/investor-masters/institutions/renaissance-technologies/) | 约 39% 费后年化（非官方，Zuckerman/CFA 口径） | “推断：市场不是要被解释，而是要被测量。” |
 | [格雷格·阿贝尔](/investor-masters/investors/greg-abel/) | 经营现实、资本桶排序、owner alignment | 中高 | 5年+ | 中 | 质量价值 / 经营型配置 | [伯克希尔·哈撒韦](/investor-masters/institutions/berkshire-hathaway/) | 未公开 | “我们在配置资本时，始终会看三大方向。” |
 | [凯茜·伍德](/investor-masters/investors/cathie-wood/) | 创新平台、技术收敛、公开市场风投 | 高 | 1-5年/5年+ | 中 | 成长 | [ARK Invest](/investor-masters/institutions/ark-invest/) | 未公开 | “五个创新平台同时演进，并且正在加速融合：机器人、储能、人工智能、多重测序与区块链。” |
 | [尼科莱·坦根](/investor-masters/investors/nicolai-tangen/) | 情报学、提问、组织训练 | 分散 | 5年+ | 中高 | 机构配置 | 挪威主权财富基金 / [AKO Capital](/investor-masters/institutions/ako-capital/) | 未公开 | “真正的优势，不在于比别人聪明，而在于：你问得比别人更深。” |
+| [大卫·史文森](/investor-masters/investors/david-swensen/) | 长钱、流动性预算、manager selection、资产配置 | 分散/多资产 | 5年+/跨代 | 中 | 机构配置 / Endowment | [Yale Investments Office](/investor-masters/institutions/yale-investments-office/) | 约 13.1%（[Yale News 官方讣闻](https://news.yale.edu/2021/05/06/self-confident-yet-selfless-yales-david-swensen-dies-67)） | “推断：真正的优势来自把长期负债端变成投资自由度。” |
 | [李录](/investor-masters/investors/li-lu/) | 知识诚实、专才研究、长期所有者 | 高 | 5年+/永久 | 中 | 质量价值 / 制度红利 | [Himalaya Capital](/investor-masters/institutions/himalaya-capital/) | 未公开 | “你一定要成为这家公司的专才。” |
 | [肯·格里芬](/investor-masters/investors/ken-griffin/) | 平台建造、风险系统、独立思考 | 分散 | 策略依赖 | 高 | 多策略 / 相对价值 | [Citadel](/investor-masters/institutions/citadel/) | 约 19.2%（[CNBC 报道](https://www.cnbc.com/2025/07/01/billionaire-ken-griffins-hedge-funds-at-citadel-are-all-in-the-green-for-2025.html)） | “这里真正强调的，是深度，而不是广度。” |
 | [特蕾西·布里特·库尔](/investor-masters/investors/tracy-britt-cool/) | 长期经营、文化优先、资本配置 | 中高 | 5年+ | 低 | 质量价值 / 经营型投资 | Kanbrick / 前 [伯克希尔](/investor-masters/institutions/berkshire-hathaway/) | 未公开 | “长期主义不是口号，而是看一个人或一家公司的结构是否允许长期。” |
@@ -67,6 +69,8 @@ description: "从人物、约束和边界切入理解不同投资方法。"
 
 ## 全部投资人
 
+- [吉姆·西蒙斯](/investor-masters/investors/jim-simons/)
+- [大卫·史文森](/investor-masters/investors/david-swensen/)
 - [沃伦·巴菲特](/investor-masters/investors/warren-buffett/)
 - [查理·芒格](/investor-masters/investors/charlie-munger/)
 - [霍华德·马克斯](/investor-masters/investors/howard-marks/)

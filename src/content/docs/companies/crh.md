@@ -19,6 +19,8 @@ CRH 在这批资料里最重要的意义，不是建材公司介绍，而是它�
 
 这个变化本身就很说明问题。它意味着 Third Point 在那个季度的公开切片继续往 `基础设施 / 工业 / 特殊情境` 迁移，而不是只保留 `SPY 看跌期权 + AI 平台股` 这种更容易被外界看见的组合外观。
 
+[13F趋势-Third Point](/investor-masters/institutions/13f-trends-third-point/) 显示，到 `2026Q1`，`CRH` 仍是 Third Point 第三大可见 13F 持仓，约 `$199.7m`、`1.90m` 股、权重 `9.6%`。但这不是继续加仓：上一季股数约 `2.60m`，Q1 降到 `1.90m`。权重上升主要来自公开 book 缩表。
+
 ### [丹·勒布](/investor-masters/investors/dan-loeb/)
 
 如果说 `PG&E` 是长期主动推动主轴，`Union Pacific` 是工业基础设施切换的代表，那么 `CRH` 更像丹·勒布当季公开仓位簿的另一条腿：`把一部分资本转向更传统、但更贴近现实资产与资本开支周期的工业资产。`
@@ -31,6 +33,7 @@ CRH 在这批资料里最重要的意义，不是建材公司介绍，而是它�
 
 - [丹·勒布](/investor-masters/investors/dan-loeb/)
 - [Third Point](/investor-masters/institutions/third-point/)
+- [13F趋势-Third Point](/investor-masters/institutions/13f-trends-third-point/)
 - [事件驱动](/investor-masters/concepts/event-driven/)
 - [Union Pacific](/investor-masters/companies/union-pacific/)
 - [Brookfield](/investor-masters/companies/brookfield/)

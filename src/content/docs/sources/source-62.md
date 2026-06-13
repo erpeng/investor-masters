@@ -1,10 +1,10 @@
 ---
-title: "SEC｜Dorsey Asset Management：2023-2026 13F持仓轨迹"
+title: "SEC｜Altimeter Capital：2023-2026 13F持仓轨迹"
 slug: "sources/source-62"
 description: "原始材料来源页。"
 ---
 
-**原文件名**: `SEC｜Dorsey Asset Management：2023-2026 13F持仓轨迹.md`  
+**原文件名**: `SEC｜Altimeter Capital：2023-2026 13F持仓轨迹.md`  
 
 
 ## 摘要
@@ -13,4 +13,4 @@ description: "原始材料来源页。"
 
 ## 节选
 
-这是 Dorsey Asset Management, LLC 的 SEC 13F 公开持仓轨迹。CIK 为 `0001671657`。本轮覆盖 `2023Q1-2026Q1`，并用 `2022Q4` 作为前置季计算 `2023Q1` 变化。
+- SEC submissions: https://data.sec.gov/submissions/CIK0001541617.json - Latest 13F filing detail: https://www.sec.gov/Archives/edgar/data/1541617/000154161726000006/0001541617-26-000006-index.html - Latest information table: https://www.sec.gov/Archives/edgar/data/1541617/000154161726000006/Q12613FvF.xml

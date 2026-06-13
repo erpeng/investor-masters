@@ -210,5 +210,5 @@ Coatue 的可见组合有三层：第一层是公开市场技术平台；第二�
 ## 数据来源
 
 - SEC EDGAR：`COATUE MANAGEMENT LLC`，CIK `0001135730`。
-- [SEC｜Coatue Management：2023-2026 13F持仓轨迹](/investor-masters/sources/source-60/)
+- [SEC｜Coatue Management：2023-2026 13F持仓轨迹](/investor-masters/sources/source-63/)
 - Coatue Management-公私一体科技投资-source-audit

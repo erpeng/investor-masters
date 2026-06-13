@@ -80,11 +80,11 @@ Philippe 的直接访谈和 Coatue 机构材料都指向同一件事：很多重
 
 先读 Coatue Management-公私一体科技投资-source-audit，理解材料边界；再读 [Coatue Management](/investor-masters/institutions/coatue-management/)，看机构结构；然后读 [13F趋势-Coatue](/investor-masters/institutions/13f-trends-coatue/)，看公开行为；最后回到这页，把 Philippe 当成系统架构者，而不是孤立金句型大师。
 
-- [Coatue｜Philippe Laffont：CNBC 2025 AI与Fantastic 40访谈](/investor-masters/sources/source-35/)：Philippe 近年 AI 和创新平台公开口径。
-- [Coatue｜Philippe Laffont：Merrill Let’s Talk Alts AI公私市场访谈](/investor-masters/sources/source-36/)：Philippe 直接谈 AI、公私市场和组合构建的代表材料。
-- [Coatue｜CTEK与Fantastic 40](/investor-masters/sources/source-34/)：CTEK / Fantastic 40 和 Philippe 履历事实。
-- [Coatue｜官网与平台定位](/investor-masters/sources/source-38/)：Coatue 机构定位。
-- [SEC｜Coatue Management：2023-2026 13F持仓轨迹](/investor-masters/sources/source-60/)：公开组合行为证据。
+- [Coatue｜Philippe Laffont：CNBC 2025 AI与Fantastic 40访谈](/investor-masters/sources/source-36/)：Philippe 近年 AI 和创新平台公开口径。
+- [Coatue｜Philippe Laffont：Merrill Let’s Talk Alts AI公私市场访谈](/investor-masters/sources/source-37/)：Philippe 直接谈 AI、公私市场和组合构建的代表材料。
+- [Coatue｜CTEK与Fantastic 40](/investor-masters/sources/source-35/)：CTEK / Fantastic 40 和 Philippe 履历事实。
+- [Coatue｜官网与平台定位](/investor-masters/sources/source-39/)：Coatue 机构定位。
+- [SEC｜Coatue Management：2023-2026 13F持仓轨迹](/investor-masters/sources/source-63/)：公开组合行为证据。
 
 - [Coatue Management](/investor-masters/institutions/coatue-management/)
 - [13F趋势-Coatue](/investor-masters/institutions/13f-trends-coatue/)

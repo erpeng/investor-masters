@@ -10,6 +10,8 @@ description: "对比会逼迫读者形成自己的判断。"
 ## 推荐先读
 
 - [公开市场股票 vs 私募成长网络](/investor-masters/dialogues/public-market-stocks-vs-private-growth-network/): 如果你在读 Coatue，分不清该相信财报和 13F，还是相信私募网络里的早期变化信号。
+- [人类判断 vs 机器信号](/investor-masters/dialogues/human-judgment-vs-machine-signals/): 如果你在读 Simons，分不清什么时候该相信机制理解，什么时候该相信可验证但难解释的机器信号。
+- [选股收益 vs 资产配置收益](/investor-masters/dialogues/security-selection-vs-asset-allocation/): 如果你在读 Swensen，分不清收益到底来自选对公司，还是来自时间结构、流动性和 manager network。
 - [分散化风控 vs 幂律风控](/investor-masters/dialogues/diversification-vs-power-law-risk/): 如果你在读 Altimeter，分不清集中是风险放大，还是 power law 方法内动作。
 - [访谈型方法论 vs 组合型证据](/investor-masters/dialogues/interviews-vs-portfolio-evidence/): 如果你在读低公开曝光机构，分不清该相信公开说法还是组合行为。
 - [静态护城河 vs 再投资跑道](/investor-masters/dialogues/static-moat-vs-reinvestment-runway/): 如果你总把“好公司”直接等同于“好投资”。
@@ -26,7 +28,7 @@ description: "对比会逼迫读者形成自己的判断。"
 - [周期位置 vs 制度裂缝](/investor-masters/dialogues/cycle-position-vs-structural-fracture/): 如果你总觉得“风险高了”，但还说不清危险到底来自摆钟过热，还是梁柱松动。
 - [制度裂缝 vs 制度红利](/investor-masters/dialogues/structural-fracture-vs-reform-dividend/): 如果你也在看制度，但还没想清楚自己到底是在先找裂缝，还是先找能四两拨千斤的疏通点。
 - [安静持有 vs 战役推动](/investor-masters/dialogues/quiet-holding-vs-campaign-push/): 如果你总在“时间自己会工作”与“结果需要我下场推动”之间摇摆。
-- [好生意自己是催化剂 vs 价值需要被推动](/investor-masters/dialogues/business-itself-vs-value-needs-pushing/): 如果你总在“好生意自己会兑现”与“价值需要事件或治理推动”之间摇摆。
+- [好生意自己是催化剂 vs 价值需要被推动](/investor-masters/dialogues/business-itself-vs-value-needs-pushing/): 如果你总在“好生意自己会兑现”与“价值需要事件或治理推动”之间摇摆，尤其适合看 Dan Loeb 如何从纯事件驱动叠加质量和主题判断。
 - [不懂不碰 vs 未来信息才重要](/investor-masters/dialogues/certainty-vs-future/): 如果你总在 `减少动作` 与 `重写世界描述` 之间摇摆。
 - [方向判断正确 vs 交易结构正确](/investor-masters/dialogues/direction-right-vs-structure-right/): 如果你开始意识到，很多错误不是看错，而是还没等真相兑现，你就先被路径淘汰了。
 - [看懂边界 vs 品味判断](/investor-masters/dialogues/boundary-vs-taste/): 如果你关心判断到底是来自收窄决策空间，还是来自长期训练后的内部罗盘。
@@ -36,13 +38,15 @@ description: "对比会逼迫读者形成自己的判断。"
 
 ## 按问题选读
 
-- **认识论问题**: [不懂不碰 vs 未来信息才重要](/investor-masters/dialogues/certainty-vs-future/)、[看懂边界 vs 品味判断](/investor-masters/dialogues/boundary-vs-taste/)、[可验证现金流 vs 站在变化的一边](/investor-masters/dialogues/verifiable-cashflow-vs-stand-with-change/)、[放弃做空 vs 保留空头脑](/investor-masters/dialogues/stop-shorting-vs-keep-a-short-mind/)、[访谈型方法论 vs 组合型证据](/investor-masters/dialogues/interviews-vs-portfolio-evidence/)
-- **风险与路径问题**: [保守的风险语言 vs 激进的仓位语言](/investor-masters/dialogues/risk-and-conviction/)、[分散化风控 vs 幂律风控](/investor-masters/dialogues/diversification-vs-power-law-risk/)、[复利信仰 vs 流动性信仰](/investor-masters/dialogues/compound-faith-vs-liquidity-faith/)、[少犯错游戏 vs 多赢家游戏](/investor-masters/dialogues/fewer-losers-vs-more-winners/)、[方向判断正确 vs 交易结构正确](/investor-masters/dialogues/direction-right-vs-structure-right/)、[交易型反脆弱 vs 资本结构型反脆弱](/investor-masters/dialogues/trading-vs-capital-structure-antifragility/)、[政策底 vs 估值底](/investor-masters/dialogues/policy-put-vs-valuation-floor/)、[周期位置 vs 制度裂缝](/investor-masters/dialogues/cycle-position-vs-structural-fracture/)、[制度裂缝 vs 制度红利](/investor-masters/dialogues/structural-fracture-vs-reform-dividend/)
+- **认识论问题**: [不懂不碰 vs 未来信息才重要](/investor-masters/dialogues/certainty-vs-future/)、[看懂边界 vs 品味判断](/investor-masters/dialogues/boundary-vs-taste/)、[可验证现金流 vs 站在变化的一边](/investor-masters/dialogues/verifiable-cashflow-vs-stand-with-change/)、[放弃做空 vs 保留空头脑](/investor-masters/dialogues/stop-shorting-vs-keep-a-short-mind/)、[访谈型方法论 vs 组合型证据](/investor-masters/dialogues/interviews-vs-portfolio-evidence/)、[人类判断 vs 机器信号](/investor-masters/dialogues/human-judgment-vs-machine-signals/)
+- **风险与路径问题**: [保守的风险语言 vs 激进的仓位语言](/investor-masters/dialogues/risk-and-conviction/)、[分散化风控 vs 幂律风控](/investor-masters/dialogues/diversification-vs-power-law-risk/)、[复利信仰 vs 流动性信仰](/investor-masters/dialogues/compound-faith-vs-liquidity-faith/)、[少犯错游戏 vs 多赢家游戏](/investor-masters/dialogues/fewer-losers-vs-more-winners/)、[方向判断正确 vs 交易结构正确](/investor-masters/dialogues/direction-right-vs-structure-right/)、[交易型反脆弱 vs 资本结构型反脆弱](/investor-masters/dialogues/trading-vs-capital-structure-antifragility/)、[政策底 vs 估值底](/investor-masters/dialogues/policy-put-vs-valuation-floor/)、[周期位置 vs 制度裂缝](/investor-masters/dialogues/cycle-position-vs-structural-fracture/)、[制度裂缝 vs 制度红利](/investor-masters/dialogues/structural-fracture-vs-reform-dividend/)、[选股收益 vs 资产配置收益](/investor-masters/dialogues/security-selection-vs-asset-allocation/)
 - **时间与催化剂问题**: [安静持有 vs 战役推动](/investor-masters/dialogues/quiet-holding-vs-campaign-push/)、[好生意自己是催化剂 vs 价值需要被推动](/investor-masters/dialogues/business-itself-vs-value-needs-pushing/)、[制度保护时间 vs 性格保护时间](/investor-masters/dialogues/institution-vs-temperament/)、[永久复利 vs 七年价值重估](/investor-masters/dialogues/permanent-compounding-vs-seven-year-revaluation/)
 - **质量与成长问题**: [静态护城河 vs 再投资跑道](/investor-masters/dialogues/static-moat-vs-reinvestment-runway/)、[质量价值 vs 成长非共识](/investor-masters/dialogues/quality-vs-growth/)、[审计式质量 vs 艺术式质量](/investor-masters/dialogues/audit-quality-vs-art-quality/)、[未来分布 vs 负债端现实](/investor-masters/dialogues/future-distribution-vs-liability-reality/)、[复制优秀模式 vs 寻找超级赢家](/investor-masters/dialogues/cloning-vs-super-winners/)、[少犯错游戏 vs 多赢家游戏](/investor-masters/dialogues/fewer-losers-vs-more-winners/)、[可验证现金流 vs 站在变化的一边](/investor-masters/dialogues/verifiable-cashflow-vs-stand-with-change/)、[平台收敛赢家 vs 价值链瓶颈赢家](/investor-masters/dialogues/platform-winners-vs-bottleneck-winners/)
 
 ## 全部对话
 
+- [人类判断 vs 机器信号](/investor-masters/dialogues/human-judgment-vs-machine-signals/)
+- [选股收益 vs 资产配置收益](/investor-masters/dialogues/security-selection-vs-asset-allocation/)
 - [质量价值 vs 成长非共识](/investor-masters/dialogues/quality-vs-growth/)
 - [静态护城河 vs 再投资跑道](/investor-masters/dialogues/static-moat-vs-reinvestment-runway/)
 - [放弃做空 vs 保留空头脑](/investor-masters/dialogues/stop-shorting-vs-keep-a-short-mind/)

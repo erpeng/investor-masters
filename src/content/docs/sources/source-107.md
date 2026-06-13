@@ -1,18 +1,17 @@
 ---
-title: "接下来三到四年，我其实挺兴奋！“对冲大神”德鲁肯米勒罕见交流，细谈近年来的投资决策与如何扣扳机"
+title: "原文｜Third Point｜2025Q1 investor letter：催化剂、动态敞口与信用协同"
 slug: "sources/source-107"
-description: "“我的优势不在于智商，而在于扣扳机”"
+description: "从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：PDF。"
 ---
 
-**原文件名**: `接下来三到四年，我其实挺兴奋！“对冲大神”德鲁肯米勒罕见交流，细谈近年来的投资决策与如何扣扳机.md`  
-**外部来源**: https://mp.weixin.qq.com/s/dUXAA5kjtRpNJGXatt-opg
+**原文件名**: `原文｜Third Point｜2025Q1 investor letter：催化剂、动态敞口与信用协同.md`  
+**外部来源**: https://assets.thirdpointlimited.com/f/166217/x/1c4003f091/tpil-q1-2025-investor-letter_02052025_final.pdf
 
-**时间**: 2026年3月2日 15:03
 
 ## 摘要
 
-“我的优势不在于智商，而在于扣扳机”
+从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：PDF。
 
 ## 节选
 
-1、我觉得 “ 逆向思维 ” 这件事被高估了。我确实喜欢那种情形：我有极强的确信，但几乎没有人相信我。那种不被理解，反而会让我更坚定。
+- 对应整理稿：[[现有资料/Third Point｜2025Q1 investor letter：催化剂、动态敞口与信用协同.md]] - 抓取时间：`2026-04-20` - 抽取方式：`PDF` - 原始域名：`assets.thirdpointlimited.com`

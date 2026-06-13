@@ -13,10 +13,12 @@ description: "把分散的投资访谈、合伙人信和机构材料，编译成
 ## 从哪里开始
 
 - **我想了解价值投资**: [沃伦·巴菲特](/investor-masters/investors/warren-buffett/)、[查理·芒格](/investor-masters/investors/charlie-munger/)、[特里·史密斯](/investor-masters/investors/terry-smith/)、[帕特·多尔西](/investor-masters/investors/pat-dorsey/)、[弗朗索瓦·罗雄](/investor-masters/investors/francois-rochon/)、[李录](/investor-masters/investors/li-lu/)、[尼克·特雷恩](/investor-masters/investors/nick-train/)、[比尔·尼格伦](/investor-masters/investors/bill-nygren/)
-- **我想了解经典 long/short / event-driven**: [大卫·艾因霍恩](/investor-masters/investors/david-einhorn/)、[李·安斯利](/investor-masters/investors/lee-ainslie/)、[史蒂芬·曼德尔](/investor-masters/investors/stephen-mandel/)、[丹·勒布](/investor-masters/investors/dan-loeb/)、[迈克尔·洛温斯坦与托马斯·科尔曼](/investor-masters/investors/michael-lowenstein-thomas-coleman/)
+- **我想了解经典 long/short / 事件驱动**: [大卫·艾因霍恩](/investor-masters/investors/david-einhorn/)、[李·安斯利](/investor-masters/investors/lee-ainslie/)、[史蒂芬·曼德尔](/investor-masters/investors/stephen-mandel/)、[丹·勒布](/investor-masters/investors/dan-loeb/)、[迈克尔·洛温斯坦与托马斯·科尔曼](/investor-masters/investors/michael-lowenstein-thomas-coleman/)
 - **我想了解成长投资**: [詹姆斯·安德森](/investor-masters/investors/james-anderson/)、[汤姆·斯莱特](/investor-masters/investors/tom-slater/)、[劳伦斯·伯恩斯](/investor-masters/investors/lawrence-burns/)、[布拉德·格斯特纳](/investor-masters/investors/brad-gerstner/)
 - **我想了解 Tiger Cub / crossover 科技这条线**: [李·安斯利](/investor-masters/investors/lee-ainslie/)、[史蒂芬·曼德尔](/investor-masters/investors/stephen-mandel/)、[菲利普·拉丰](/investor-masters/investors/philippe-laffont/)、[布拉德·格斯特纳](/investor-masters/investors/brad-gerstner/)
 - **我想了解宏观与风险**: [霍华德·马克斯](/investor-masters/investors/howard-marks/)、[斯坦利·德鲁肯米勒](/investor-masters/investors/stanley-druckenmiller/)、[大卫·泰珀](/investor-masters/investors/david-tepper/)、[保罗·都铎·琼斯](/investor-masters/investors/paul-tudor-jones/)、[格雷格·詹森](/investor-masters/investors/greg-jensen/)
+- **我想了解量化与机器信号**: [吉姆·西蒙斯](/investor-masters/investors/jim-simons/)、[Renaissance Technologies](/investor-masters/institutions/renaissance-technologies/)、[量化信号工厂](/investor-masters/concepts/quantitative-signal-factory/)
+- **我想了解长钱资产配置**: [大卫·史文森](/investor-masters/investors/david-swensen/)、[Yale Investments Office](/investor-masters/institutions/yale-investments-office/)、[耶鲁模式](/investor-masters/concepts/yale-model/)
 - **我想看最不寻常的思维**: [尼克·斯利普](/investor-masters/investors/nick-sleep/)、[尼科莱·坦根](/investor-masters/investors/nicolai-tangen/)、[纳瓦尔·拉维坎特](/investor-masters/investors/naval-ravikant/)
 - **我想直接从方法分歧读进去**: [不懂不碰 vs 未来信息才重要](/investor-masters/dialogues/certainty-vs-future/)、[方向判断正确 vs 交易结构正确](/investor-masters/dialogues/direction-right-vs-structure-right/)、[质量价值 vs 成长非共识](/investor-masters/dialogues/quality-vs-growth/)、[静态护城河 vs 再投资跑道](/investor-masters/dialogues/static-moat-vs-reinvestment-runway/)、[分散化风控 vs 幂律风控](/investor-masters/dialogues/diversification-vs-power-law-risk/)、[审计式质量 vs 艺术式质量](/investor-masters/dialogues/audit-quality-vs-art-quality/)、[政策底 vs 估值底](/investor-masters/dialogues/policy-put-vs-valuation-floor/)、[保守的风险语言 vs 激进的仓位语言](/investor-masters/dialogues/risk-and-conviction/)、[复利信仰 vs 流动性信仰](/investor-masters/dialogues/compound-faith-vs-liquidity-faith/)、[永久复利 vs 七年价值重估](/investor-masters/dialogues/permanent-compounding-vs-seven-year-revaluation/)、[少犯错游戏 vs 多赢家游戏](/investor-masters/dialogues/fewer-losers-vs-more-winners/)
 - **我想沿 Berkshire 这一支往下读**: [Berkshire Hathaway](/investor-masters/institutions/berkshire-hathaway/) → [伯克希尔·哈撒韦](/investor-masters/companies/berkshire-hathaway/) / [GEICO](/investor-masters/companies/geico/) → [护城河](/investor-masters/concepts/moat/) / [能力圈](/investor-masters/concepts/circle-of-competence/) / [反脆弱与仓位管理](/investor-masters/concepts/antifragility-and-position-sizing/) → [静态能力圈 vs 可审计能力圈](/investor-masters/dialogues/static-vs-auditable-circle/) / [交易型反脆弱 vs 资本结构型反脆弱](/investor-masters/dialogues/trading-vs-capital-structure-antifragility/)
@@ -26,13 +28,13 @@ description: "把分散的投资访谈、合伙人信和机构材料，编译成
 
 ## 精选语录墙
 
-> “我无法想象自己在未来两到三年内会卖掉英伟达。”
+> “Oakmark和他们一个不太一样的地方就在于，我们更看重预测是否接近真实，而不是一味追求保守。”
 
-> “然后股票涨到800。然后我违反了我在采访中说的一切。我受不了成功。它从150涨到800。我是长期看好的。但我就是承受不了，卖了。”
+> “我们更看重的是每股盈利增长、每股企业价值增长、投入资本回报率，而不只是利润总额。”
 
-> “Maverick 的目标是：对所投资的每一家公司，都比任何非内幕人士更了解它。”
+> “你所掌握的关于任何企业的100%信息都来自过去，而该企业的100%价值却取决于未来。”
 
-> “行业专家制，是 Maverick 的制度底盘。”
+> “如果你要建立优势，你必须看得比市场更远。”
 
 ## 对话与争议
 
@@ -58,11 +60,11 @@ description: "把分散的投资访谈、合伙人信和机构材料，编译成
 
 ## 最近更新
 
+- `2026-06-13` 用最新长访谈重写 Dan Loeb 的三十年演化
+- `2026-06-12` 新增 Third Point 单机构 13F 趋势页
+- `2026-06-12` 补入机器信号与长钱资产配置两条缺口
 - `2026-06-08` 修复新人物页站点栏目缺失
 - `2026-06-08` 新增 Brad Gerstner / Altimeter Capital 投资大师专题包
 - `2026-06-06` 2026Q1 横向 13F 增加抄作业榜
 - `2026-06-05` 吸收 Dorsey Asset Management 支线
 - `2026-06-05` 修正 Dorsey / Coatue 人物页材料优先级
-- `2026-06-05` Dorsey 纳入 13F 横向榜单
-- `2026-06-02` 新增 Kensico Capital Management 投资大师专题包
-- `2026-06-02` 按 skill 重生成 Giverny 单机构 13F 趋势页

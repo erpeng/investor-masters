@@ -16,11 +16,11 @@ description: "把护城河、再投资跑道和资本配置接成同一条价值
 
 Pat Dorsey 这一页不是从“护城河大师”这个标签写出来的，而是从五组材料抽出来的：
 
-- [Pat Dorsey｜Competitive Advantage and Capital Allocation 2026](/investor-masters/sources/source-53/)：最新方法主干，负责 `moat / runway / capital allocation`。
-- [Pat Dorsey｜Manual of Ideas 护城河访谈组](/investor-masters/sources/source-54/)：早期访谈，负责方法生成史和护城河误用边界。
-- [Pat Dorsey｜Ten Lessons from Ten Years 2026](/investor-masters/sources/source-55/)：十年机构经营经验，负责客户选择、复杂度和错误处理。
-- [Dorsey Asset Management｜官网方法与团队](/investor-masters/sources/source-42/)：负责职业路径、策略边界、10-15 个集中持仓和团队事实。
-- [SEC｜Dorsey Asset Management：2023-2026 13F持仓轨迹](/investor-masters/sources/source-62/)：负责公开美股切片和组合行为验证。
+- [Pat Dorsey｜Competitive Advantage and Capital Allocation 2026](/investor-masters/sources/source-55/)：最新方法主干，负责 `moat / runway / capital allocation`。
+- [Pat Dorsey｜Manual of Ideas 护城河访谈组](/investor-masters/sources/source-56/)：早期访谈，负责方法生成史和护城河误用边界。
+- [Pat Dorsey｜Ten Lessons from Ten Years 2026](/investor-masters/sources/source-57/)：十年机构经营经验，负责客户选择、复杂度和错误处理。
+- [Dorsey Asset Management｜官网方法与团队](/investor-masters/sources/source-44/)：负责职业路径、策略边界、10-15 个集中持仓和团队事实。
+- [SEC｜Dorsey Asset Management：2023-2026 13F持仓轨迹](/investor-masters/sources/source-65/)：负责公开美股切片和组合行为验证。
 
 Dorsey 最值得读的地方，不是“护城河”三个字，而是他把护城河从静态赞美词继续往后推：企业有没有再投资跑道，管理层会不会把资本配置成股东价值，才决定一条护城河到底值多少钱。
 

@@ -1,17 +1,19 @@
 ---
-title: "Value Investor Insight｜弗朗索瓦·罗雄：Affordable Quality"
+title: "Ted Weschler-2022-Q&A-Podcast（NFM）"
 slug: "sources/source-74"
-description: "原始材料来源页。"
+description: "Greg Abel（实体业务-大方向资本配置）、Ajt Jain（保险业务）、Ted Weschler（证券投资）的三剑客组合已正式确立"
 ---
 
-**原文件名**: `Value Investor Insight｜弗朗索瓦·罗雄：Affordable Quality.md`  
-**外部来源**: Value Investor Insight
+**原文件名**: `Ted Weschler-2022-Q&A-Podcast（NFM）.md`  
+**外部来源**: https://mp.weixin.qq.com/s/kd-BqzgbpG8D21VCwFIRiQ
 
+**作者**: 原创 臧文浩  
+**时间**: 2025年12月9日 12:29
 
 ## 摘要
 
-原始材料来源页。
+Greg Abel（实体业务-大方向资本配置）、Ajt Jain（保险业务）、Ted Weschler（证券投资）的三剑客组合已正式确立
 
 ## 节选
 
-这篇材料是 Rochon 在平台公司和高质量成长股被重新定价后的重要更新。它把 `quality` 和 `valuation discipline` 放在一起，而不是把质量投资讲成无条件买好公司。
+BRK昨日官宣人事调整，引人注目的是Todd Combs（2011-2025）离开加入JPMorgan，原因众说纷纭。但结果是清晰明朗的：

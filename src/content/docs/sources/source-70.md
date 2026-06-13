@@ -1,17 +1,17 @@
 ---
-title: "The Value Perspective｜尼克·特雷恩：长期概率、英国市场与质量识别"
+title: "Stanford GSB｜肯·格里芬：投资、竞争与未来"
 slug: "sources/source-70"
-description: "依据 The Value Perspective 公开节目简介，整理 Nick Train 对长期概率、英国市场变化与 quality 识别的最新表达。"
+description: "依据 Stanford GSB 公开文章页，整理 Ken Griffin 关于 winning、组织竞争与长期 ambition 的最新表达。"
 ---
 
-**原文件名**: `The Value Perspective｜尼克·特雷恩：长期概率、英国市场与质量识别.md`  
-**外部来源**: https://schroderstvp.podbean.com/e/the-value-perspective-with-nick-train/
+**原文件名**: `Stanford GSB｜肯·格里芬：投资、竞争与未来.md`  
+**外部来源**: https://www.gsb.stanford.edu/insights/ken-griffin-investing-winning-why-hes-focused-future
 
 
 ## 摘要
 
-依据 The Value Perspective 公开节目简介，整理 Nick Train 对长期概率、英国市场变化与 quality 识别的最新表达。
+依据 Stanford GSB 公开文章页，整理 Ken Griffin 关于 winning、组织竞争与长期 ambition 的最新表达。
 
 ## 节选
 
-> 整理说明： > 本页依据节目官方简介与公开可见主题整理。当前公开页面未提供完整 transcript，因此这里只保留页面明确给出的结构性信息，不伪造逐字对话。
+> 整理说明： > Stanford GSB 当前公开页面提供的是节目摘要与部分关键引语，不是完整 transcript。本页只使用页面可见的明确表述。

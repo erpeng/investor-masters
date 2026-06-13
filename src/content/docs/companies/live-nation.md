@@ -21,8 +21,11 @@ Live Nation 在这批资料里最大的价值，是它证明 Third Point 的组�
 - `Q2 2025` 约 `2.99` 亿美元
 - `Q3 2025` 约 `2.21` 亿美元
 - `Q4 2025` 约 `2.46` 亿美元
+- `Q1 2026` 约 `0.71` 亿美元
 
 它不像 PG&E 那样带着明显的主动推动叙事，也不像 Capital One 那样更偏金融赔率。它更像 Third Point 那句官方表述里的另一部分：`有些仓位带事件驱动催化剂，另一些则带质量特征。` Live Nation 正好说明丹·勒布的组合里，质量股和催化剂股可以并存。
+
+但 [13F趋势-Third Point](/investor-masters/institutions/13f-trends-third-point/) 也显示，`LYV` 在 `2026Q1` 股数从上一季约 `1.73m` 大幅降到 `465k`。它仍在前十，是因为公开 book 整体缩表，而不是 Third Point 在 Q1 主动加强现场娱乐线。
 
 ### [丹·勒布](/investor-masters/investors/dan-loeb/)
 
@@ -36,6 +39,7 @@ Live Nation 在这批资料里最大的价值，是它证明 Third Point 的组�
 
 - [丹·勒布](/investor-masters/investors/dan-loeb/)
 - [Third Point](/investor-masters/institutions/third-point/)
+- [13F趋势-Third Point](/investor-masters/institutions/13f-trends-third-point/)
 - [事件驱动](/investor-masters/concepts/event-driven/)
 - [PG&E](/investor-masters/companies/pge/)
 - [Capital One](/investor-masters/companies/capital-one/)

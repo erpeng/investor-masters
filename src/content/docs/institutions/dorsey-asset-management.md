@@ -49,11 +49,11 @@ Dorsey 的机构结构偏简单：单一策略、long-only、集中持股、全�
 
 ## 标志性公开材料
 
-- [Dorsey Asset Management｜官网方法与团队](/investor-masters/sources/source-42/)：机构事实、团队和策略边界。
-- [Pat Dorsey｜Competitive Advantage and Capital Allocation 2026](/investor-masters/sources/source-53/)：护城河、再投资和资本配置框架的最新公开 presentation。
-- [Pat Dorsey｜Ten Lessons from Ten Years 2026](/investor-masters/sources/source-55/)：机构经营、客户选择、简单结构和错误沟通。
-- [Pat Dorsey｜Manual of Ideas 护城河访谈组](/investor-masters/sources/source-54/)：早期护城河和再投资 runway 方法访谈。
-- [SEC｜Dorsey Asset Management：2023-2026 13F持仓轨迹](/investor-masters/sources/source-62/)：公开美股切片的组合行为证据。
+- [Dorsey Asset Management｜官网方法与团队](/investor-masters/sources/source-44/)：机构事实、团队和策略边界。
+- [Pat Dorsey｜Competitive Advantage and Capital Allocation 2026](/investor-masters/sources/source-55/)：护城河、再投资和资本配置框架的最新公开 presentation。
+- [Pat Dorsey｜Ten Lessons from Ten Years 2026](/investor-masters/sources/source-57/)：机构经营、客户选择、简单结构和错误沟通。
+- [Pat Dorsey｜Manual of Ideas 护城河访谈组](/investor-masters/sources/source-56/)：早期护城河和再投资 runway 方法访谈。
+- [SEC｜Dorsey Asset Management：2023-2026 13F持仓轨迹](/investor-masters/sources/source-65/)：公开美股切片的组合行为证据。
 
 ## 13F 持仓（近四个季度）
 
@@ -140,8 +140,8 @@ Dorsey Asset Management 的传承问题，比 Fundsmith 稍微清楚一点：官
 
 ## 主要来源
 
-- [Dorsey Asset Management｜官网方法与团队](/investor-masters/sources/source-42/)
-- [Pat Dorsey｜Competitive Advantage and Capital Allocation 2026](/investor-masters/sources/source-53/)
-- [Pat Dorsey｜Ten Lessons from Ten Years 2026](/investor-masters/sources/source-55/)
-- [Pat Dorsey｜Manual of Ideas 护城河访谈组](/investor-masters/sources/source-54/)
-- [SEC｜Dorsey Asset Management：2023-2026 13F持仓轨迹](/investor-masters/sources/source-62/)
+- [Dorsey Asset Management｜官网方法与团队](/investor-masters/sources/source-44/)
+- [Pat Dorsey｜Competitive Advantage and Capital Allocation 2026](/investor-masters/sources/source-55/)
+- [Pat Dorsey｜Ten Lessons from Ten Years 2026](/investor-masters/sources/source-57/)
+- [Pat Dorsey｜Manual of Ideas 护城河访谈组](/investor-masters/sources/source-56/)
+- [SEC｜Dorsey Asset Management：2023-2026 13F持仓轨迹](/investor-masters/sources/source-65/)

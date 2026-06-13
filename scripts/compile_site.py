@@ -21,6 +21,20 @@ if not VAULT.exists():
 
 
 INVESTOR_META = {
+    "吉姆·西蒙斯": {
+        "slug": "jim-simons",
+        "tagline": "把数学、数据、模型和科学团队压成量化信号工厂的人。",
+        "institution": ("Renaissance Technologies", "institutions/renaissance-technologies"),
+        "holdings": "Medallion、量化信号、统计套利",
+        "methods": "量化信号工厂 / 数据 / 模型 / 科学团队",
+    },
+    "大卫·史文森": {
+        "slug": "david-swensen",
+        "tagline": "把大学 endowment 的长钱结构变成资产配置优势的人。",
+        "institution": ("Yale Investments Office", "institutions/yale-investments-office"),
+        "holdings": "Yale Endowment、另类资产、外部管理人网络",
+        "methods": "耶鲁模式 / 长钱 / 流动性预算 / manager selection",
+    },
     "沃伦·巴菲特": {
         "slug": "warren-buffett",
         "tagline": "把投资变成企业所有者游戏的人。",
@@ -163,10 +177,10 @@ INVESTOR_META = {
     },
     "丹·勒布": {
         "slug": "dan-loeb",
-        "tagline": "把事件驱动、催化剂与跨资本结构配置绑成一台组合机器的人。",
+        "tagline": "把信用根源、事件驱动、质量主题和跨资本结构配置不断升级的人。",
         "institution": ("Third Point", "institutions/third-point"),
-        "holdings": "事件驱动权益、信用机会、主动推动仓位",
-        "methods": "事件驱动 / 催化剂 / 跨资本结构",
+        "holdings": "事件驱动权益、信用机会、AI/能源、保险负债端",
+        "methods": "信用根源 / 事件驱动 / 质量主题 / 跨资本结构",
     },
     "斯坦利·德鲁肯米勒": {
         "slug": "stanley-druckenmiller",
@@ -368,6 +382,8 @@ INSTITUTION_META = {
     "Lone Pine Capital": {"slug": "lone-pine-capital"},
     "Maverick Capital": {"slug": "maverick-capital"},
     "Third Point": {"slug": "third-point"},
+    "Renaissance Technologies": {"slug": "renaissance-technologies"},
+    "Yale Investments Office": {"slug": "yale-investments-office"},
 }
 
 CONCEPT_META = {
@@ -389,6 +405,8 @@ CONCEPT_META = {
     "时间套利": {"slug": "time-arbitrage"},
     "超级赢家": {"slug": "super-winners"},
     "幂律与超级周期": {"slug": "power-law-supercycles"},
+    "量化信号工厂": {"slug": "quantitative-signal-factory"},
+    "耶鲁模式": {"slug": "yale-model"},
     "反脆弱与仓位管理": {"slug": "antifragility-and-position-sizing"},
     "空头视角": {"slug": "short-perspective"},
     "企业文化": {"slug": "corporate-culture"},
@@ -472,6 +490,8 @@ DIALOGUE_SLUG_OVERRIDES = {
     "静态护城河 vs 再投资跑道": "static-moat-vs-reinvestment-runway",
     "公开市场股票 vs 私募成长网络": "public-market-stocks-vs-private-growth-network",
     "分散化风控 vs 幂律风控": "diversification-vs-power-law-risk",
+    "人类判断 vs 机器信号": "human-judgment-vs-machine-signals",
+    "选股收益 vs 资产配置收益": "security-selection-vs-asset-allocation",
 }
 
 
@@ -809,6 +829,9 @@ def build_link_maps():
         elif src.stem == "13F趋势-Altimeter":
             slug = "13f-trends-altimeter"
             title = "13F 趋势 - Altimeter"
+        elif src.stem == "13F趋势-Third Point":
+            slug = "13f-trends-third-point"
+            title = "13F 趋势 - Third Point"
         else:
             match = re.match(r"13F趋势-(\d{4})Q([1-4])$", src.stem)
             if not match:
@@ -1219,6 +1242,10 @@ def compile_institutions():
             title = "13F 趋势 - Altimeter"
             slug = "13f-trends-altimeter"
             description = "Altimeter Capital 从 2023Q1 到 2026Q1 的单机构 13F 持仓变化。"
+        elif stem == "13F趋势-Third Point":
+            title = "13F 趋势 - Third Point"
+            slug = "13f-trends-third-point"
+            description = "Third Point 从 2023Q1 到 2026Q1 的单机构 13F 持仓变化。"
         else:
             match = re.match(r"13F趋势-(\d{4})Q([1-4])$", stem)
             if not match:

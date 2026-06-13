@@ -1,17 +1,17 @@
 ---
-title: "Money Makers｜尼克·特雷恩：少做反而赚得更多"
+title: "McKinsey｜李·安斯利：走进 Maverick Capital，传统多空基金如何研究企业"
 slug: "sources/source-51"
-description: "依据 Money Makers 公开全文，整理 Nick Train 关于 slow buy and hold、能力圈、三类偏好公司与忽略宏观的核心表达。"
+description: "李·安斯利解释 Maverick 如何用行业专家制、长期基本面研究、管理层判断和建设性关系管理来做传统多空投资。"
 ---
 
-**原文件名**: `Money Makers｜尼克·特雷恩：少做反而赚得更多.md`  
-**外部来源**: https://money-makers.co/nick-train-interview/
+**原文件名**: `McKinsey｜李·安斯利：走进 Maverick Capital，传统多空基金如何研究企业.md`  
+**外部来源**: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/inside-a-hedge-fund-an-interview-with-the-managing-partner-of-maverick-capital
 
 
 ## 摘要
 
-依据 Money Makers 公开全文，整理 Nick Train 关于 slow buy and hold、能力圈、三类偏好公司与忽略宏观的核心表达。
+李·安斯利解释 Maverick 如何用行业专家制、长期基本面研究、管理层判断和建设性关系管理来做传统多空投资。
 
 ## 节选
 
-- `主角`：尼克·特雷恩（Nick Train） - `场景`：Money Makers 长访谈 - `时间`：`2015-10-03` - `核心价值`：这是 Nick Train 公开材料里最像“自我定义”的一篇。它把 `slow buy and hold / 极低换手 / 三类偏好公司 / 能力圈 / 忽略宏观` 一次讲清楚。
+> 整理说明： > 本页依据 McKinsey 官方访谈原文整理，重点保留对 Maverick 研究组织、管理层判断、资本配置、透明度与长短仓关系最有价值的段落。

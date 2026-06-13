@@ -19,7 +19,7 @@ ASML 在这批资料里同时承担两种角色：一方面是 Baillie Gifford �
 这句话本身已经说明了它在安德森框架里的位置。
 
 ### [劳伦斯·伯恩斯](/investor-masters/investors/lawrence-burns/)
-> “在 AI这个主题里，我们的布局是沿着整条价值链展开的。 比如在硬件层面，我们持有英伟达、阿斯麦和台积电。” ——来源：[近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-masters/sources/source-123/)
+> “在 AI这个主题里，我们的布局是沿着整条价值链展开的。 比如在硬件层面，我们持有英伟达、阿斯麦和台积电。” ——来源：[近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-masters/sources/source-132/)
 
 这让 ASML 从“被低估讨论度的好公司”变成“系统配置中的关键节点”。
 

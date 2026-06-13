@@ -1,11 +1,10 @@
 ---
-title: "TIP｜弗朗索瓦·罗雄：AI驱动市场中的长期投资"
+title: "SEC｜Kensico Capital Management：ADV与13F官方资料"
 slug: "sources/source-67"
 description: "原始材料来源页。"
 ---
 
-**原文件名**: `TIP｜弗朗索瓦·罗雄：AI驱动市场中的长期投资.md`  
-**外部来源**: The Investor's Podcast Network
+**原文件名**: `SEC｜Kensico Capital Management：ADV与13F官方资料.md`  
 
 
 ## 摘要
@@ -14,4 +13,4 @@ description: "原始材料来源页。"
 
 ## 节选
 
-这篇材料用于补 Rochon 在 AI 驱动市场中的最新口径：不是预测 AI 主题涨跌，而是回到企业长期 owner earnings、竞争优势和估值赔率。
+- SEC Investment Adviser Public Disclosure / Form ADV PDF - SEC EDGAR：`KENSICO CAPITAL MANAGEMENT CORP`，CIK `0001113000`

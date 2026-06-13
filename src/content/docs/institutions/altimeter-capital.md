@@ -52,7 +52,7 @@ Altimeter 偏好能跨越公司生命周期的技术平台机会：早期可由�
 - [Brad Gerstner｜Acquired Altimeter 2022](/investor-masters/sources/source-14/)
 - [Brad Gerstner｜20VC Supercycles and Power Law 2022](/investor-masters/sources/source-13/)
 - [Altimeter｜Meta Time to Get Fit open letter 2022](/investor-masters/sources/source-11/)
-- [SEC｜Altimeter Capital：2023-2026 13F持仓轨迹](/investor-masters/sources/source-59/)
+- [SEC｜Altimeter Capital：2023-2026 13F持仓轨迹](/investor-masters/sources/source-62/)
 
 ## 13F 持仓（近四个季度）
 

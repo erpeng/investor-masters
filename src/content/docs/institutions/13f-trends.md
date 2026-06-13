@@ -25,6 +25,7 @@ description: "把机构 13F 按季度横向拉齐，观察跨机构持仓趋势�
 
 ## 单机构专题
 
+- [Third Point：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-third-point/)
 - [Coatue Management：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-coatue/)
 - [Altimeter Capital：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-altimeter/)
 - [Kensico Capital Management：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-kensico/)

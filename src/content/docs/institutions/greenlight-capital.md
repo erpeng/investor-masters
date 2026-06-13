@@ -40,9 +40,9 @@ Greenlight 的机构哲学可以压成一句话：`在拥挤叙事、复杂披�
 
 ## 标志性公开材料
 
-- [Colossus｜大卫·艾因霍恩：长短仓、反动量与价值投资](/investor-masters/sources/source-40/)
-- [CNBC｜大卫·艾因霍恩：被动化时代的价值投资与分拆机会](/investor-masters/sources/source-30/)
-- [Motley Fool｜大卫·艾因霍恩：透明度、监管失灵与揭弊式做空](/investor-masters/sources/source-52/)
+- [Colossus｜大卫·艾因霍恩：长短仓、反动量与价值投资](/investor-masters/sources/source-41/)
+- [CNBC｜大卫·艾因霍恩：被动化时代的价值投资与分拆机会](/investor-masters/sources/source-31/)
+- [Motley Fool｜大卫·艾因霍恩：透明度、监管失灵与揭弊式做空](/investor-masters/sources/source-54/)
 
 ## 13F 持仓（近四个季度）
 
@@ -134,6 +134,6 @@ Greenlight 未来最值得继续观察的问题，不是“艾因霍恩还会不
 
 ## 主要来源
 
-- [Colossus｜大卫·艾因霍恩：长短仓、反动量与价值投资](/investor-masters/sources/source-40/)
-- [CNBC｜大卫·艾因霍恩：被动化时代的价值投资与分拆机会](/investor-masters/sources/source-30/)
-- [Motley Fool｜大卫·艾因霍恩：透明度、监管失灵与揭弊式做空](/investor-masters/sources/source-52/)
+- [Colossus｜大卫·艾因霍恩：长短仓、反动量与价值投资](/investor-masters/sources/source-41/)
+- [CNBC｜大卫·艾因霍恩：被动化时代的价值投资与分拆机会](/investor-masters/sources/source-31/)
+- [Motley Fool｜大卫·艾因霍恩：透明度、监管失灵与揭弊式做空](/investor-masters/sources/source-54/)

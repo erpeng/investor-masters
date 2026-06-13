@@ -1,19 +1,17 @@
 ---
-title: "Druckenmiller深度解析（附中英对照）"
+title: "David Swensen｜Pioneering Portfolio Management方法摘记"
 slug: "sources/source-43"
-description: "融合11次历史采访与13F持仓数据，还原传奇宏观交易员的思维全景。从Nvidia到Teva，从sizing到逆向投资。"
+description: "原始材料来源页。"
 ---
 
-**原文件名**: `Druckenmiller深度解析（附中英对照）.md`  
-**外部来源**: https://mp.weixin.qq.com/s/WPjWSKR8KEY-Fi4bZ0ywfQ
+**原文件名**: `David Swensen｜Pioneering Portfolio Management方法摘记.md`  
+**外部来源**: David F. Swensen, Pioneering Portfolio Management
 
-**作者**: 原创 LIQUIDITY NOTES  
-**时间**: 2026年2月28日 09:33
 
 ## 摘要
 
-融合11次历史采访与13F持仓数据，还原传奇宏观交易员的思维全景。从Nvidia到Teva，从sizing到逆向投资。
+原始材料来源页。
 
 ## 节选
 
-我选一个可能会让你意外的，因为它一点也不性感，跟AI什么的都没关系，但我觉得它很好地体现了我们Duquesne的投资流程。
+David Swensen《Pioneering Portfolio Management》作为 Yale Model 的方法论主源，承担资产配置哲学、流动性溢价、主动管理选择和长期机构治理的底层解释责任。
