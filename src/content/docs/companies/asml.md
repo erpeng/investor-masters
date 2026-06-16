@@ -23,13 +23,20 @@ ASML 在这批资料里同时承担两种角色：一方面是 Baillie Gifford �
 
 这让 ASML 从“被低估讨论度的好公司”变成“系统配置中的关键节点”。
 
+### [菲利普·拉丰](/investor-masters/investors/philippe-laffont/) / [Coatue Management](/investor-masters/institutions/coatue-management/)
+
+Coatue 在 `2026Q1` 新进/恢复 `ASML`，约 `496k` 股、`$656m`，公开 13F 权重 `2.3%`。它没有进入前十大，但在 [13F趋势-Coatue](/investor-masters/institutions/13f-trends-coatue/) 的新标准页里，被放进“AI 资本开支下一层约束”的观察篮子。
+
+这条线索的重点不是“马上抄 ASML”，而是 Coatue 同时把 `TSM / LRCX / AMAT / AVGO` 放在前排，说明先进制造和设备瓶颈仍是 AI 价值链的核心研究方向；价格上则需要避免把好公司直接等同于好赔率。
+
 ## 分歧与共识
 
-共识在于它的稀缺性非常高；差别只在于安德森更强调“优秀但少被问及”，劳伦斯更强调“价值链瓶颈”。
+共识在于它的稀缺性非常高；差别只在于安德森更强调“优秀但少被问及”，劳伦斯更强调“价值链瓶颈”，Coatue 则把它放进 AI 资本开支约束的公开仓位验证里。
 
 ## 相关页面
 
 - [詹姆斯·安德森](/investor-masters/investors/james-anderson/)
 - [劳伦斯·伯恩斯](/investor-masters/investors/lawrence-burns/)
+- [菲利普·拉丰](/investor-masters/investors/philippe-laffont/)
 - [英伟达](/investor-masters/companies/nvidia/)
 - [台积电](/investor-masters/companies/tsmc/)

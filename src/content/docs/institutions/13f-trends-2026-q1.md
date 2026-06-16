@@ -5,7 +5,7 @@ description: "13F 趋势 - Q1 2026 的跨机构持仓趋势雷达。"
 ---
 抓取时间：`2026-06-06 10:45 CST`。
 
-内容校正：`2026-06-08` 根据后续补齐的 Dorsey、Altimeter、Appaloosa、Pershing 单机构趋势页，补充 Uber 等公司页联动信号。`2026-06-12` 新增 Third Point 单机构趋势页后，补充一个解释约束：Third Point 的 `AMZN / TDS / CRH / SGI` 在 Q1 2026 权重上升主要来自公开 long book 大幅缩表，不应计作主动加仓；`CRS / MTZ / DHR / TSM / APG / LYV` 新进或重回前十，多数也是相对留存导致的前十重排。本页没有伪装成重新抓取；原始横向计算时间仍以上方抓取时间为准。
+内容校正：`2026-06-08` 根据后续补齐的 Dorsey、Altimeter、Appaloosa、Pershing 单机构趋势页，补充 Uber 等公司页联动信号。`2026-06-12` 新增 Third Point 单机构趋势页后，补充一个解释约束：Third Point 的 `AMZN / TDS / CRH / SGI` 在 Q1 2026 权重上升主要来自公开 long book 大幅缩表，不应计作主动加仓；`CRS / MTZ / DHR / TSM / APG / LYV` 新进或重回前十，多数也是相对留存导致的前十重排。`2026-06-16` 按新标准重生成 Coatue 单机构趋势页后，补充 Coatue 观察：`EQIX / ASML` 是 Q1 新进/恢复仓位，`AMAT / ETN` 才是真正进入前十；`TSM` 是第一大仓且股数增加，`GEV / CEG` 仍在前十但股数下降，不能写成主动加仓。本页没有伪装成重新抓取；原始横向计算时间仍以上方抓取时间为准，原始纳入机构数也仍按当时横向计算口径显示。
 
 这页不是买入清单，而是把同一季度多个 13F 披露横向拉齐，用来发现值得继续研究的线索。主榜只看普通股票；ETF、指数工具与个股 PUT/CALL 放到最后的交易信号区。
 
@@ -45,13 +45,24 @@ description: "13F 趋势 - Q1 2026 的跨机构持仓趋势雷达。"
 | 优先级 | 资产线 | 代表标的 | 13F证据 | 参与机构 | 趋势解释 | 价格过滤 | 跟踪结论 | 下一步验证 |
 |---:|---|---|---|---|---|---|---|---|
 | 1 | AI应用/广告/平台变现 | `GOOG/GOOGL` / `AMZN` / `APP` / `META` / `MSFT` | GOOG/GOOGL 净主动 $10.78bn；AMZN 净主动 -$1.38bn；APP 净主动 $0.95bn | AKO / ARK / Baillie / Baupost / Berkshire / Bridgewater / Citadel / Dorsey | AI应用/广告/平台变现 的 13F 信号来自多个标的/机构，不应只抄单一 ticker。 | 部分标的已涨，需降速验证 | 优先跟踪 | 核对收入增速、广告/云/软件转化、单位经济性和资本开支效率。 |
-| 2 | 半导体设备/网络/先进制造 | `TSM` / `TER` / `LRCX` / `CRDO` / `AVGO` | TSM 净主动 -$0.69bn；TER 净主动 $0.37bn；LRCX 净主动 -$0.34bn | ARK / Baillie / Bridgewater / Dorsey / Duquesne / H&H / Lone Pine / Maverick | 半导体设备/网络/先进制造 的 13F 信号来自多个标的/机构，不应只抄单一 ticker。 | 部分标的已涨，需降速验证 | 优先跟踪 | 核对订单/积压、客户资本开支、先进制程/封装和网络升级节奏。 |
+| 2 | 半导体设备/网络/先进制造 | `TSM` / `TER` / `LRCX` / `CRDO` / `AVGO` / `ASML` / `AMAT` | TSM 净主动 -$0.69bn；TER 净主动 $0.37bn；LRCX 净主动 -$0.34bn；Coatue：TSM 第一大且增股、LRCX/AMAT/AVGO 前十、ASML 新进/恢复仓位 | ARK / Baillie / Bridgewater / Coatue / Dorsey / Duquesne / H&H / Lone Pine / Maverick | 半导体设备/网络/先进制造 的 13F 信号来自多个标的/机构，不应只抄单一 ticker。 | 部分标的已涨，需降速验证 | 优先跟踪 | 核对订单/积压、客户资本开支、先进制程/封装和网络升级节奏。 |
 | 3 | 工程/租赁/工业约束 | `SUNB` / `LIN` / `CRS` | SUNB 净主动 $1.11bn；LIN 净主动 $0.28bn；CRS 净主动 $0.01bn | AKO / Dorsey / Duquesne / Lone Pine / Maverick / Oakmark / Third Point | 工程/租赁/工业约束 的 13F 信号来自多个标的/机构，不应只抄单一 ticker。 | 部分标的已涨，需降速验证 | 优先跟踪 | 核对利用率、项目 backlog、租金/价格、客户行业暴露和自由现金流。 |
 | 4 | 本地服务平台/经营杠杆 | `UBER` | Dorsey 和 Appaloosa 主动买入进前十；Altimeter 主动加仓；Pershing 仍为核心持有 | Appaloosa / Altimeter / Dorsey / Pershing | 这不是单一“网约车”信号，而是本地服务网络、广告/会员、自由现金流和自动驾驶成本重排的共同研究线索。 | 13F 后价格基本未抢跑 | 优先跟踪 | 核对订单密度、广告/会员、自动驾驶成本分摊、监管和回购。 |
 | 5 | 指数/宏观风险对冲 | `SPY PUT` / `IVV CALL` / `GLD CALL` / `SPY CALL` / `QQQ PUT` | SPY PUT 净主动 $5.03bn；IVV CALL 净主动 $2.80bn；GLD CALL 净主动 $1.11bn | Bridgewater / Citadel / Duquesne / Greenlight / Oaktree / Third Point / Tudor | 指数/宏观风险对冲 的 13F 信号来自多个标的/机构，不应只抄单一 ticker。 | 部分标的已涨，需降速验证 | 优先跟踪 | 核对净敞口、波动率、政策路径和组合对冲目的。 |
 | 6 | 中国与新兴市场互联网 | `PDD` / `BABA` / `NU` / `TME` | PDD 净主动 $0.63bn；BABA 净主动 -$0.50bn；NU 净主动 $0.24bn | Baillie / H&H / Himalaya / Lone Pine / Maverick / Oaktree / Third Point | 中国与新兴市场互联网 的 13F 信号来自多个标的/机构，不应只抄单一 ticker。 | 未见明显统一追涨障碍或价格缺失 | 优先跟踪 | 核对消费、监管、竞争、利润率和回购/资本回报。 |
-| 7 | AI电力/数据中心基础设施 | `PCG` / `HUT` / `AGX` / `TLN` / `GEV` | PCG 净主动 -$0.58bn；HUT 净主动 $0.33bn；AGX 净主动 $0.22bn | Bridgewater / Greenlight / Lone Pine / Maverick / Third Point | AI电力/数据中心基础设施 的 13F 信号来自多个标的/机构，不应只抄单一 ticker。 | 部分标的已涨，需降速验证 | 优先跟踪 | 核对数据中心订单、电力合同、互联排队和项目交付周期。 |
+| 7 | AI电力/数据中心基础设施 | `PCG` / `HUT` / `AGX` / `TLN` / `GEV` / `ETN` / `EQIX` / `CEG` | PCG 净主动 -$0.58bn；HUT 净主动 $0.33bn；AGX 净主动 $0.22bn；Coatue：GEV/CEG/ETN 前十，EQIX 新进/恢复仓位 | Bridgewater / Coatue / Greenlight / Lone Pine / Maverick / Third Point | AI电力/数据中心基础设施 的 13F 信号来自多个标的/机构，不应只抄单一 ticker。 | 部分标的已涨，需降速验证 | 优先跟踪 | 核对数据中心订单、电力合同、互联排队和项目交付周期。 |
 | 8 | 金融数据/信息收费 | `SPGI` | SPGI 净主动 -$0.21bn | Baillie / Dorsey / Himalaya | 金融数据/信息收费 的 13F 信号来自多个标的/机构，不应只抄单一 ticker。 | 未见明显统一追涨障碍或价格缺失 | 优先跟踪 | 核对订阅留存、发行周期、指数授权和数据产品定价力。 |
+
+### Coatue 补充观察（2026-06-16 单机构页晚于横向页）
+
+这组观察来自 [13F趋势-Coatue](/investor-masters/institutions/13f-trends-coatue/)，生成时间晚于本页原始横向计算，所以只作为校正和跟踪，不改上方原始排名。
+
+| 线索 | 13F 事实 | 读法 |
+|---|---|---|
+| `EQIX / ASML` | `EQIX` 新进/恢复到 `3.7%`，`ASML` 新进/恢复到 `2.3%`。 | 一个落在数据中心互联，一个落在先进制程设备瓶颈；都不是前十，但比普通小仓位更值得跟踪。 |
+| `TSM` | Coatue Q1 2026 第一大仓，`10.8%`，股数从 `8.63m` 增至 `9.28m`。 | 这是 Coatue 组合里最干净的主动增股线索，和横向页里其他机构对 `TSM` 的减仓形成分歧。 |
+| `GEV / CEG / ETN` | `GEV / CEG / ETN` 仍在前十；`GEV / CEG` 股数下降，`ETN` 股数基本稳定。 | AI 电力线仍是核心资产线，但不能把 `GEV / CEG` 的权重位置误读成 Q1 主动加仓。 |
+| `LRCX / AMAT / AVGO` | 三者均在前十；`LRCX` 小幅增股，`AMAT / AVGO` 股数下降或基本持平。 | 半导体设备/网络线继续重要，但 Q1 更多是组合重排和价格/权重结果，不是整条线无差别加仓。 |
 
 ## 共识加仓榜（普通股票；买入分高于卖出分，按风格加权净分、买入机构数、净主动变化排序）
 

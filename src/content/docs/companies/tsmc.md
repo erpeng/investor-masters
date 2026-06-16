@@ -37,9 +37,15 @@ Third Point 的 `TSM` 不是简单加仓信号，而是缩表后的制造瓶颈�
 
 这说明 Loeb 并没有把 AI 暴露完全砍掉，而是从 `NVDA / MSFT` 这类更拥挤的大盘 beta，留下少量更靠先进制造瓶颈的表达。
 
+### [菲利普·拉丰](/investor-masters/investors/philippe-laffont/) / [Coatue Management](/investor-masters/institutions/coatue-management/)
+
+Coatue 在 `2026Q1` 把 `TSM` 推到公开 13F 第一大仓：约 `9.28m` 股、`$3.14bn`，权重 `10.8%`，股数较 `2025Q4` 增加约 `654k`。在 [13F趋势-Coatue](/investor-masters/institutions/13f-trends-coatue/) 里，这不是泛泛押 AI，而是把 AI 资本开支继续拆到先进制造瓶颈。
+
+这条信号和横向页里其他机构对 `TSM` 的减仓形成分歧：Coatue 不是被动留下，而是最新一季继续增股。
+
 ## 分歧与共识
 
-共识在于台积电的稀缺性；分歧不大，只是一个更强调制造能力的独特性，一个更强调它在 AI 链条中的中性受益位置。Appaloosa 和 Altimeter 的 2026Q1 13F 把它进一步推到 AI 基础设施的公开组合核心；Third Point 则提醒：即使在缩表中，先进制造瓶颈也可能被留下。
+共识在于台积电的稀缺性；分歧不大，只是一个更强调制造能力的独特性，一个更强调它在 AI 链条中的中性受益位置。Appaloosa、Altimeter 和 Coatue 的 2026Q1 13F 把它进一步推到 AI 基础设施的公开组合核心；Third Point 则提醒：即使在缩表中，先进制造瓶颈也可能被留下。
 
 ## 相关页面
 
@@ -48,5 +54,6 @@ Third Point 的 `TSM` 不是简单加仓信号，而是缩表后的制造瓶颈�
 - [大卫·泰珀](/investor-masters/investors/david-tepper/)
 - [布拉德·格斯特纳](/investor-masters/investors/brad-gerstner/)
 - [丹·勒布](/investor-masters/investors/dan-loeb/)
+- [菲利普·拉丰](/investor-masters/investors/philippe-laffont/)
 - [英伟达](/investor-masters/companies/nvidia/)
 - [ASML](/investor-masters/companies/asml/)
