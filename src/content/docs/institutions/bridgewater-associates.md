@@ -33,8 +33,8 @@ Bridgewater 在现有资料里最有辨识度的文化，不是“聪明人很�
 
 ## 标志性公开材料
 
-- [小心！过去15年的“陷阱”，让我们遗忘了“分散投资”——看桥水“务实派”如何警示未来（上）   泉果探照灯](/investor-masters/sources/source-112/)：最能看到 Bridgewater 对制度切换、分散和资本流向的机构级阅读。
-- [全世界最懂AI的金融人，是怎么管理投资的？——看桥水“务实派”如何警示未来 （下）  泉果探照灯](/investor-masters/sources/source-91/)：最能看到 Bridgewater 如何理解知识复利、系统、反馈文化与 AI。
+- [小心！过去15年的“陷阱”，让我们遗忘了“分散投资”——看桥水“务实派”如何警示未来（上）   泉果探照灯](/investor-masters/sources/source-114/)：最能看到 Bridgewater 对制度切换、分散和资本流向的机构级阅读。
+- [全世界最懂AI的金融人，是怎么管理投资的？——看桥水“务实派”如何警示未来 （下）  泉果探照灯](/investor-masters/sources/source-93/)：最能看到 Bridgewater 如何理解知识复利、系统、反馈文化与 AI。
 - [Bridgewater Associates 官方介绍](https://www.bridgewater.com/)：当前 vault 里可核验的官方机构入口。
 
 ## 13F 持仓（近四个季度）
@@ -125,6 +125,6 @@ Bridgewater 的真正传承问题，不是“下一个 CIO 是谁”，而是这
 
 ## 主要来源
 
-- [小心！过去15年的“陷阱”，让我们遗忘了“分散投资”——看桥水“务实派”如何警示未来（上）   泉果探照灯](/investor-masters/sources/source-112/)
-- [全世界最懂AI的金融人，是怎么管理投资的？——看桥水“务实派”如何警示未来 （下）  泉果探照灯](/investor-masters/sources/source-91/)
+- [小心！过去15年的“陷阱”，让我们遗忘了“分散投资”——看桥水“务实派”如何警示未来（上）   泉果探照灯](/investor-masters/sources/source-114/)
+- [全世界最懂AI的金融人，是怎么管理投资的？——看桥水“务实派”如何警示未来 （下）  泉果探照灯](/investor-masters/sources/source-93/)
 - [Bridgewater Associates 官方介绍](https://www.bridgewater.com/)

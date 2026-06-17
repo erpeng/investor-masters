@@ -1,10 +1,10 @@
 ---
-title: "CNBC｜David Tepper：2022全球央行紧缩与leaning-short"
+title: "CNBC｜David Tepper：2020疫情冲击与nibbling-tech"
 slug: "sources/source-28"
 description: "原始材料来源页。"
 ---
 
-**原文件名**: `CNBC｜David Tepper：2022全球央行紧缩与leaning-short.md`  
+**原文件名**: `CNBC｜David Tepper：2020疫情冲击与nibbling-tech.md`  
 
 
 ## 摘要
@@ -13,4 +13,4 @@ description: "原始材料来源页。"
 
 ## 节选
 
-这条材料是 2010 的反面镜像。2010 年的核心是宽松与政策托底，2022 年则是全球央行收紧、流动性撤退、估值和盈利预期承压。它证明 Tepper 的核心不是多头偏见，而是跟随政策/流动性反应函数切换仓位。
+这是 Tepper 危机处理中最好的边界样本之一：他开始买入一些科技股，但同时承认市场仍可能继续下跌。它避免把 2010 材料误读成“只要跌就重仓买”。

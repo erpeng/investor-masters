@@ -1,10 +1,10 @@
 ---
-title: "Coatue｜CTEK与Fantastic 40"
+title: "Coatue｜AI Is Expanding Across the Stack"
 slug: "sources/source-35"
 description: "原始材料来源页。"
 ---
 
-**原文件名**: `Coatue｜CTEK与Fantastic 40.md`  
+**原文件名**: `Coatue｜AI Is Expanding Across the Stack.md`  
 
 
 ## 摘要
@@ -13,4 +13,4 @@ description: "原始材料来源页。"
 
 ## 节选
 
-CTEK / Coatue Growth Innovation Index 用来观察 Coatue 如何把技术创新从私募网络、数据、行业地图转成公开市场和指数化观察框架。`Why CTEK` 同时补充了 Philippe Laffont 的公开履历：MIT 计算机科学背景、McKinsey 电信业务经历、Tiger Management 电信股票研究，以及 1999 年创立 Coatue。
+这条 Coatue perspective 用来支撑“沿 AI stack 读机会”的方法，而不是把 Coatue 简化成单一 AI 主题买家。

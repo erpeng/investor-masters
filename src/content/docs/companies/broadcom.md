@@ -4,7 +4,7 @@ slug: "companies/broadcom"
 description: "Broadcom 在这批资料里是 AI 网络、定制芯片和基础设施软件的交叉标的。它的关键变量不是单一芯片周期，而是 hyperscaler ASIC、网络升级、VMware 整合和数据中心资本开支节奏。"
 ---
 
-> **争议与共识**
+> **争议与共识**  
 > Broadcom 在这批资料里是 AI 网络、定制芯片和基础设施软件的交叉标的。它的关键变量不是单一芯片周期，而是 hyperscaler ASIC、网络升级、VMware 整合和数据中心资本开支节奏。
 
 ## 简介

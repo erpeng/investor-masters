@@ -1,10 +1,10 @@
 ---
-title: "CFA Institute｜The Man Who Solved the Market书评"
+title: "Brad Gerstner｜TBPN Where Brad Gerstner Is Investing Billions 2026"
 slug: "sources/source-21"
 description: "原始材料来源页。"
 ---
 
-**原文件名**: `CFA Institute｜The Man Who Solved the Market书评.md`  
+**原文件名**: `Brad Gerstner｜TBPN Where Brad Gerstner Is Investing Billions 2026.md`  
 
 
 ## 摘要
@@ -13,4 +13,4 @@ description: "原始材料来源页。"
 
 ## 节选
 
-CFA Institute 对 Gregory Zuckerman《The Man Who Solved the Market》的书评，用于交叉验证 Simons / Renaissance 的公开业绩口径、组织特征和方法边界。
+- TBPN / Metacast mirror: https://metacast.app/podcast/tbpn/D9fOtj1E/where-brad-gerstner-is-investing-billions/Qs2wawy7

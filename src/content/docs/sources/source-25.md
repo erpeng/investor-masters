@@ -1,10 +1,10 @@
 ---
-title: "CNBC｜David Tepper：2017股票债券与Fed路径"
+title: "CNBC｜David Tepper：2010 QE与Everything交易"
 slug: "sources/source-25"
 description: "原始材料来源页。"
 ---
 
-**原文件名**: `CNBC｜David Tepper：2017股票债券与Fed路径.md`  
+**原文件名**: `CNBC｜David Tepper：2010 QE与Everything交易.md`  
 
 
 ## 摘要
@@ -13,4 +13,4 @@ description: "原始材料来源页。"
 
 ## 节选
 
-- CNBC Squawk Box excerpts/transcript, 2017-03-08
+- CNBC transcript/excerpts, Squawk Box, 2010-09-24 - 主角：David Tepper, Appaloosa Management

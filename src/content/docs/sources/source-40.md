@@ -1,17 +1,16 @@
 ---
-title: "Colossus｜史蒂芬·曼德尔：顺着变化下注"
+title: "Coatue｜官网与平台定位"
 slug: "sources/source-40"
-description: "史蒂芬·曼德尔谈投资行业如何变化、为什么做空更难、为什么仍要深入企业内部，以及 Lone Pine 如何围绕变化建立研究优势。"
+description: "原始材料来源页。"
 ---
 
-**原文件名**: `Colossus｜史蒂芬·曼德尔：顺着变化下注.md`  
-**外部来源**: https://joincolossus.com/episode/mandel-investing-behind-change/
+**原文件名**: `Coatue｜官网与平台定位.md`  
 
 
 ## 摘要
 
-史蒂芬·曼德尔谈投资行业如何变化、为什么做空更难、为什么仍要深入企业内部，以及 Lone Pine 如何围绕变化建立研究优势。
+原始材料来源页。
 
 ## 节选
 
-> 整理说明： > 本页依据 Colossus 节目页、公开节目简介、可见 transcript 开头与公开 show notes 整理而成。 > 这不是官方完整逐字稿，但核心主题与判断均来自官方节目页和公开可核验摘要。
+Coatue 官网用于确认机构自我定位：围绕技术创新、创始人伙伴关系、公开市场与私募市场形成一体化投资平台。

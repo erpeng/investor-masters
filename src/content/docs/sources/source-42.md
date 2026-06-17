@@ -1,17 +1,17 @@
 ---
-title: "Compounding Quality｜弗朗索瓦·罗雄：所有者收益、错误榜单与质量投资"
+title: "Colossus｜大卫·艾因霍恩：长短仓、反动量与价值投资"
 slug: "sources/source-42"
-description: "原始材料来源页。"
+description: "依据 Colossus 官方节目页可见的 show notes 与节目介绍，整理大卫·艾因霍恩关于 Greenlight 演化、反动量、选股流程、做空、组合与 LP 关系的关键判断。"
 ---
 
-**原文件名**: `Compounding Quality｜弗朗索瓦·罗雄：所有者收益、错误榜单与质量投资.md`  
-**外部来源**: Compounding Quality
+**原文件名**: `Colossus｜大卫·艾因霍恩：长短仓、反动量与价值投资.md`  
+**外部来源**: https://www.joincolossus.com/episode/einhorn-the-long-and-short-of-investing/
 
 
 ## 摘要
 
-原始材料来源页。
+依据 Colossus 官方节目页可见的 show notes 与节目介绍，整理大卫·艾因霍恩关于 Greenlight 演化、反动量、选股流程、做空、组合与 LP 关系的关键判断。
 
 ## 节选
 
-这篇访谈最适合补 Rochon 的方法细节：他怎样定义好公司、怎样用所有者收益替代会计利润、怎样区分买错和错过，以及为什么长期复利需要性格保护。
+> 整理说明： > 本页依据 Colossus 官方节目页公开可见的 `节目介绍 + 时间轴 + show notes` 整理。完整 transcript 需要登录后查看，因此这里只保留页面明确给出的主题与可验证判断，不把不可见内容硬写成逐字转录。

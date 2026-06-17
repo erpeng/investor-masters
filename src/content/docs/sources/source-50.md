@@ -1,17 +1,17 @@
 ---
-title: "Joys of Compounding｜史蒂芬·曼德尔：来自 Lone Pine 的经验课"
+title: "J.P. Morgan｜AKO Capital：数据如何进入主观投资流程"
 slug: "sources/source-50"
-description: "史蒂芬·曼德尔回顾 Lone Pine 的创立、文化、领导力、人才培养与长期 alpha 的来源。"
+description: "帕特里克·哈格里夫斯解释 AKO 的质量投资框架、五个专业团队、行为语言分析、数据反馈闭环与大语言模型使用边界。"
 ---
 
-**原文件名**: `Joys of Compounding｜史蒂芬·曼德尔：来自 Lone Pine 的经验课.md`  
-**外部来源**: https://colossus.com/episode/lessons-from-steve-mandel/
+**原文件名**: `J.P. Morgan｜AKO Capital：数据如何进入主观投资流程.md`  
+**外部来源**: https://www.jpmorgan.com/insights/podcast-hub/market-matters/trading-insights-ako-capital
 
 
 ## 摘要
 
-史蒂芬·曼德尔回顾 Lone Pine 的创立、文化、领导力、人才培养与长期 alpha 的来源。
+帕特里克·哈格里夫斯解释 AKO 的质量投资框架、五个专业团队、行为语言分析、数据反馈闭环与大语言模型使用边界。
 
 ## 节选
 
-> 整理说明： > 本页依据 Colossus 官方节目页、Apple Podcasts 官方页面与公开可见 show notes 整理而成。 > 官方完整 transcript 当前需要登录可见，因此本页不是官方完整逐字稿，而是基于官方音频元信息、官方 show notes 与公开简介的审校整理版。
+> 整理说明： > 本页依据 J.P. Morgan 页面公开逐字稿清理整理。 > 重点保留对 AKO 机构哲学、组织流程、研究工具与判断边界最有价值的内容，不追求逐字还原全部口语重复。

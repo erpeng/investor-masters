@@ -350,6 +350,6 @@ Giverny 的公开方法强调 [所有者收益](/investor-masters/concepts/owner
 
 - [弗朗索瓦·罗雄](/investor-masters/investors/francois-rochon/)
 - [Giverny Capital](/investor-masters/institutions/giverny-capital/)
-- [Richer Wiser Happier｜弗朗索瓦·罗雄：精英中的精英](/investor-masters/sources/source-60/)
-- [Compounding Quality｜弗朗索瓦·罗雄：所有者收益、错误榜单与质量投资](/investor-masters/sources/source-42/)
+- [Richer Wiser Happier｜弗朗索瓦·罗雄：精英中的精英](/investor-masters/sources/source-61/)
+- [Compounding Quality｜弗朗索瓦·罗雄：所有者收益、错误榜单与质量投资](/investor-masters/sources/source-43/)
 - [Giverny letters](https://givernycapital.com/en/letters-to-our-partners/)

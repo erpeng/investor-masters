@@ -1,10 +1,10 @@
 ---
-title: "Simons Foundation｜五条原则与量化遗产"
+title: "SEC｜Kensico Capital Management：ADV与13F官方资料"
 slug: "sources/source-68"
 description: "原始材料来源页。"
 ---
 
-**原文件名**: `Simons Foundation｜五条原则与量化遗产.md`  
+**原文件名**: `SEC｜Kensico Capital Management：ADV与13F官方资料.md`  
 
 
 ## 摘要
@@ -13,4 +13,4 @@ description: "原始材料来源页。"
 
 ## 节选
 
-Simons 公开演讲与 Simons Foundation 材料中反复出现的几条原则，用来补足人物页的“可迁移部分”：做新事、与优秀伙伴合作、被美驱动、坚持、把好运转化为机构。
+- SEC Investment Adviser Public Disclosure / Form ADV PDF - SEC EDGAR：`KENSICO CAPITAL MANAGEMENT CORP`，CIK `0001113000`

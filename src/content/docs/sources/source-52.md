@@ -1,17 +1,17 @@
 ---
-title: "Meb Faber｜弗朗索瓦·罗雄：耐心、谦逊与理性"
+title: "McKinsey｜李·安斯利：走进 Maverick Capital，传统多空基金如何研究企业"
 slug: "sources/source-52"
-description: "原始材料来源页。"
+description: "李·安斯利解释 Maverick 如何用行业专家制、长期基本面研究、管理层判断和建设性关系管理来做传统多空投资。"
 ---
 
-**原文件名**: `Meb Faber｜弗朗索瓦·罗雄：耐心、谦逊与理性.md`  
-**外部来源**: The Meb Faber Show
+**原文件名**: `McKinsey｜李·安斯利：走进 Maverick Capital，传统多空基金如何研究企业.md`  
+**外部来源**: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/inside-a-hedge-fund-an-interview-with-the-managing-partner-of-maverick-capital
 
 
 ## 摘要
 
-原始材料来源页。
+李·安斯利解释 Maverick 如何用行业专家制、长期基本面研究、管理层判断和建设性关系管理来做传统多空投资。
 
 ## 节选
 
-这是近年访谈，价值在于把 Rochon 三十年业绩、错误复盘和性格纪律重新放到当前市场环境里。
+> 整理说明： > 本页依据 McKinsey 官方访谈原文整理，重点保留对 Maverick 研究组织、管理层判断、资本配置、透明度与长短仓关系最有价值的段落。

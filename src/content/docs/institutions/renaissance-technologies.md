@@ -40,10 +40,10 @@ Renaissance 的公开可见文化是科学团队文化，而不是明星基金�
 
 ## 标志性公开材料
 
-- [Simons Foundation｜吉姆·西蒙斯：生平、数学与Renaissance](/investor-masters/sources/source-69/)
-- [Renaissance Technologies｜官网与机构定位](/investor-masters/sources/source-58/)
-- [CFA Institute｜The Man Who Solved the Market书评](/investor-masters/sources/source-21/)
-- [Simons Foundation｜五条原则与量化遗产](/investor-masters/sources/source-68/)
+- [Simons Foundation｜吉姆·西蒙斯：生平、数学与Renaissance](/investor-masters/sources/source-70/)
+- [Renaissance Technologies｜官网与机构定位](/investor-masters/sources/source-59/)
+- [CFA Institute｜The Man Who Solved the Market书评](/investor-masters/sources/source-22/)
+- [Simons Foundation｜五条原则与量化遗产](/investor-masters/sources/source-69/)
 
 ## 13F 持仓（近四个季度）
 
@@ -70,8 +70,8 @@ Renaissance 的传承问题不是“下一个明星经理是谁”，而是科�
 
 ## 主要来源
 
-- [Simons Foundation｜吉姆·西蒙斯：生平、数学与Renaissance](/investor-masters/sources/source-69/)
-- [Renaissance Technologies｜官网与机构定位](/investor-masters/sources/source-58/)
-- [CFA Institute｜The Man Who Solved the Market书评](/investor-masters/sources/source-21/)
-- [Simons Foundation｜五条原则与量化遗产](/investor-masters/sources/source-68/)
+- [Simons Foundation｜吉姆·西蒙斯：生平、数学与Renaissance](/investor-masters/sources/source-70/)
+- [Renaissance Technologies｜官网与机构定位](/investor-masters/sources/source-59/)
+- [CFA Institute｜The Man Who Solved the Market书评](/investor-masters/sources/source-22/)
+- [Simons Foundation｜五条原则与量化遗产](/investor-masters/sources/source-69/)
 - 吉姆·西蒙斯-Renaissance-量化革命-source-audit

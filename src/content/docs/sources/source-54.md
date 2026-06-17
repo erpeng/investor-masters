@@ -1,17 +1,17 @@
 ---
-title: "Motley Fool｜大卫·艾因霍恩：透明度、监管失灵与揭弊式做空"
+title: "Money Makers｜尼克·特雷恩：少做反而赚得更多"
 slug: "sources/source-54"
-description: "依据 Motley Fool 对谈，整理大卫·艾因霍恩关于 Allied、SEC、卖方偏见、评级机构与金融体系结构性失灵的判断。"
+description: "依据 Money Makers 公开全文，整理 Nick Train 关于 slow buy and hold、能力圈、三类偏好公司与忽略宏观的核心表达。"
 ---
 
-**原文件名**: `Motley Fool｜大卫·艾因霍恩：透明度、监管失灵与揭弊式做空.md`  
-**外部来源**: https://www.fool.com/investing/general/2011/01/06/a-foolish-interview-with-david-einhorn.aspx
+**原文件名**: `Money Makers｜尼克·特雷恩：少做反而赚得更多.md`  
+**外部来源**: https://money-makers.co/nick-train-interview/
 
 
 ## 摘要
 
-依据 Motley Fool 对谈，整理大卫·艾因霍恩关于 Allied、SEC、卖方偏见、评级机构与金融体系结构性失灵的判断。
+依据 Money Makers 公开全文，整理 Nick Train 关于 slow buy and hold、能力圈、三类偏好公司与忽略宏观的核心表达。
 
 ## 节选
 
-> 整理说明： > 本页依据 Motley Fool 公开采访原文整理。重点不是重复 Allied 历史，而是提炼艾因霍恩最鲜明的 `forensic investing` 气质：怀疑 gatekeepers、重透明度、把制度失灵也纳入研究。
+- `主角`：尼克·特雷恩（Nick Train） - `场景`：Money Makers 长访谈 - `时间`：`2015-10-03` - `核心价值`：这是 Nick Train 公开材料里最像“自我定义”的一篇。它把 `slow buy and hold / 极低换手 / 三类偏好公司 / 能力圈 / 忽略宏观` 一次讲清楚。

@@ -18,7 +18,7 @@ description: "把大学 endowment 的长钱结构变成资产配置优势的人�
 
 如果 Buffett 问的是“哪家公司值得拥有”，Swensen 问的是“一个永续机构应该如何把时间结构变成投资优势”。这是完全不同的游戏。
 
-验证卡：Yale News 官方口径显示，Swensen 自 `1985` 年起管理 Yale Endowment，35 年年化约 `13.1%`，高于 Cambridge Associates endowment universe 平均值约 `3.4pct`，高于 60/40 股票债券组合约 `4.3pct`。依据：[Yale News｜David Swensen讣闻与35年业绩](/investor-masters/sources/source-83/)。
+验证卡：Yale News 官方口径显示，Swensen 自 `1985` 年起管理 Yale Endowment，35 年年化约 `13.1%`，高于 Cambridge Associates endowment universe 平均值约 `3.4pct`，高于 60/40 股票债券组合约 `4.3pct`。依据：[Yale News｜David Swensen讣闻与35年业绩](/investor-masters/sources/source-84/)。
 
 ## 来时路
 
@@ -81,10 +81,10 @@ Swensen 的启发是：投资优势不只来自研究某家公司，也来自你
 
 ## 主要来源
 
-- [Yale News｜David Swensen讣闻与35年业绩](/investor-masters/sources/source-83/)
-- [Yale Investments｜Endowment与Yale Model](/investor-masters/sources/source-81/)
-- [Yale Investments｜Partners与People](/investor-masters/sources/source-82/)
-- [David Swensen｜Pioneering Portfolio Management方法摘记](/investor-masters/sources/source-43/)
+- [Yale News｜David Swensen讣闻与35年业绩](/investor-masters/sources/source-84/)
+- [Yale Investments｜Endowment与Yale Model](/investor-masters/sources/source-82/)
+- [Yale Investments｜Partners与People](/investor-masters/sources/source-83/)
+- [David Swensen｜Pioneering Portfolio Management方法摘记](/investor-masters/sources/source-44/)
 - 大卫·史文森-耶鲁模式-source-audit
 - [Yale Investments Office](/investor-masters/institutions/yale-investments-office/)
 - [耶鲁模式](/investor-masters/concepts/yale-model/)

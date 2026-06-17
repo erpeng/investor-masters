@@ -1,10 +1,11 @@
 ---
-title: "Dorsey Asset Management｜官网方法与团队"
+title: "David Swensen｜Pioneering Portfolio Management方法摘记"
 slug: "sources/source-44"
 description: "原始材料来源页。"
 ---
 
-**原文件名**: `Dorsey Asset Management｜官网方法与团队.md`  
+**原文件名**: `David Swensen｜Pioneering Portfolio Management方法摘记.md`  
+**外部来源**: David F. Swensen, Pioneering Portfolio Management
 
 
 ## 摘要
@@ -13,4 +14,4 @@ description: "原始材料来源页。"
 
 ## 节选
 
-这是 Dorsey Asset Management 的官方站点材料，主要承担机构事实、策略边界和团队结构责任。它不是业绩归因材料，也不是完整持仓披露。
+David Swensen《Pioneering Portfolio Management》作为 Yale Model 的方法论主源，承担资产配置哲学、流动性溢价、主动管理选择和长期机构治理的底层解释责任。

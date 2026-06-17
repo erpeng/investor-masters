@@ -5,9 +5,11 @@ description: "Baupost Group 的机构级哲学、文化与传承。"
 ---
 ## 机构简介
 
-Baupost Group 值得单独读，不只是因为塞思·卡拉曼是价值投资传奇，而是因为它代表了一种很难复制的组织形态：`把逆向、纪律、高现金、跨资产比较和 耐心资本 写成机构宪法。`
+Baupost Group 值得单独读，不只是因为塞思·卡拉曼是价值投资传奇，而是因为它代表了一种很难复制的组织形态：`把逆向、纪律、高现金、跨资产比较、无组合杠杆和 耐心资本 写成机构宪法。`
 
 很多机构会说自己长期主义，但 Baupost 真正稀缺的地方在于，它不只把“长期”写在理念里，也把它写进了资本来源、客户边界和等待方式里。
+
+`2026` 年访谈补出了机构轮廓：Baupost 最初有点像扩展版家族办公室，起始资本约 `2700万美元`；今天约 `40` 位投资专业人士分布在公开股票、信用、私募投资和房地产四个领域，资本不是按资产类别预先分配，而是自下而上流向最有赔率的机会。
 
 ## 投资哲学（机构级）
 
@@ -18,10 +20,14 @@ Baupost 的机构哲学可以压成一句话：`先问风险是否值得承担�
 - `value discipline`：从不把价值投资当流行风格，而是一套长期纪律
 - `耐心资本`：允许机构长期持有高现金并等待真正机会
 - `cross-asset opportunism`：不是股票教派，而是跨资产寻找错价
+- `no portfolio leverage`：不用组合杠杆放大仓位，避免被市场或融资方决定命运
 - `distress readiness`：别人被迫时，Baupost 才更像自己
+- `certainty threshold`：不机械买低倍数，而是不断追问“我们究竟能够确定什么”
 - `team over theater`：重团队与流程，不靠公开表演维持权威
 
 这意味着 Baupost 的 优势来源 从来不只是某个人很聪明，而是它能把“等待”也制度化。
+
+最新材料里的机会集也说明这一点：Baupost 可以同时看公开股票、软件相关信用资产、困境债务、商业地产辅助生活设施、低于重置成本的地产机会，以及围绕数据中心需求储备的土地可选性。这些东西表面上不属于同一资产类别，但在 Baupost 眼里都先回到同一个问题：下行结构和上行赔率是否值得承担。
 
 ## 激励结构与文化
 
@@ -30,6 +36,8 @@ Baupost 的机构哲学可以压成一句话：`先问风险是否值得承担�
 - 卡拉曼很少独占办公室，而是贴近交易与分析团队
 - 机构愿意多年维持高现金，而不为了表面忙碌强找仓位
 - 新增客户时会刻意筛选更长期导向的资本
+- 投资团队分布在多个资产类别，避免把机构锁死在单一机会池里
+- 明确不用组合杠杆，让研究和等待不被融资条件反向支配
 
 这些细节说明 Baupost 的文化骨架不是明星经理制，而是一套 `克制、风险优先、长期客户优先` 的组织边界。
 
@@ -39,9 +47,11 @@ Baupost 的机构哲学可以压成一句话：`先问风险是否值得承担�
 
 ## 标志性公开材料
 
-- [Value Investing with Legends｜塞思·卡拉曼：逆向纪律、耐心资本与 Baupost](/investor-masters/sources/source-78/)
-- [Harvard Business School｜塞思·卡拉曼：危机中的 Baupost 与价值纪律](/investor-masters/sources/source-48/)
-- [TIFF｜塞思·卡拉曼：价值投资问答节选](/investor-masters/sources/source-71/)
+- [Value Investing with Legends｜塞思·卡拉曼：逆向纪律、耐心资本与 Baupost](/investor-masters/sources/source-79/)
+- [Harvard Business School｜塞思·卡拉曼：危机中的 Baupost 与价值纪律](/investor-masters/sources/source-49/)
+- [TIFF｜塞思·卡拉曼：价值投资问答节选](/investor-masters/sources/source-72/)
+- [“安全边际大师”卡拉曼MIT经典演讲：要有健康的投资纪律，能不能睡个安稳觉比什么都重要……](/investor-masters/sources/source-85/)
+- [44年只有5年亏过！“安全边际之父”卡拉曼罕见对话，谈及错失Palantir百亿机会、如何参与AI以及当下投资的三个原则](/investor-masters/sources/source-09/)
 
 ## 13F 持仓（近四个季度）
 
@@ -130,8 +140,14 @@ Baupost 最值得持续观察的问题，是这套高度依赖纪律、资本边
 
 它的难点不是“原则说不清”，恰恰相反，卡拉曼把原则说得太清楚了；难点在于，大多数机构没有 耐心资本，也没有长期忍受无聊与高现金的客户。
 
+另一个继承难点来自 AI 时代：如果确定性门槛过高，机构可能会像错过 Palantir 那样错过幂律机会；如果门槛过低，又会滑向 Baupost 最反感的“新时代叙事”。这要求继任团队既能保留风险纪律，也能在新技术周期里识别真正的 fat pitch。
+
 ## 主要来源
 
-- [Value Investing with Legends｜塞思·卡拉曼：逆向纪律、耐心资本与 Baupost](/investor-masters/sources/source-78/)
-- [Harvard Business School｜塞思·卡拉曼：危机中的 Baupost 与价值纪律](/investor-masters/sources/source-48/)
-- [TIFF｜塞思·卡拉曼：价值投资问答节选](/investor-masters/sources/source-71/)
+- [Value Investing with Legends｜塞思·卡拉曼：逆向纪律、耐心资本与 Baupost](/investor-masters/sources/source-79/)
+- [Harvard Business School｜塞思·卡拉曼：危机中的 Baupost 与价值纪律](/investor-masters/sources/source-49/)
+- [TIFF｜塞思·卡拉曼：价值投资问答节选](/investor-masters/sources/source-72/)
+- [“安全边际大师”卡拉曼MIT经典演讲：要有健康的投资纪律，能不能睡个安稳觉比什么都重要……](/investor-masters/sources/source-85/)
+- [44年只有5年亏过！“安全边际之父”卡拉曼罕见对话，谈及错失Palantir百亿机会、如何参与AI以及当下投资的三个原则](/investor-masters/sources/source-09/)
+- 塞思·卡拉曼-MIT安全边际演讲-source-audit
+- 塞思·卡拉曼-CNBC-AI与安全边际访谈-source-audit

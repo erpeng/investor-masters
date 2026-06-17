@@ -1,10 +1,10 @@
 ---
-title: "Brad Gerstner｜Masters in Business transcript 2023"
+title: "Brad Gerstner｜Invest Like the Best Public and Private Investing 2020"
 slug: "sources/source-18"
 description: "原始材料来源页。"
 ---
 
-**原文件名**: `Brad Gerstner｜Masters in Business transcript 2023.md`  
+**原文件名**: `Brad Gerstner｜Invest Like the Best Public and Private Investing 2020.md`  
 
 
 ## 摘要
@@ -13,4 +13,4 @@ description: "原始材料来源页。"
 
 ## 节选
 
-- Ritholtz / Bloomberg Masters in Business transcript: https://ritholtz.com/2023/11/transcript-brad-gerstner/
+- Invest Like the Best / Colossus, episode 179: https://www.joincolossus.com/episode/gerstner-public-and-private-investing/

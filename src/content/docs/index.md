@@ -12,7 +12,7 @@ description: "把分散的投资访谈、合伙人信和机构材料，编译成
 
 ## 从哪里开始
 
-- **我想了解价值投资**: [沃伦·巴菲特](/investor-masters/investors/warren-buffett/)、[查理·芒格](/investor-masters/investors/charlie-munger/)、[特里·史密斯](/investor-masters/investors/terry-smith/)、[帕特·多尔西](/investor-masters/investors/pat-dorsey/)、[弗朗索瓦·罗雄](/investor-masters/investors/francois-rochon/)、[李录](/investor-masters/investors/li-lu/)、[尼克·特雷恩](/investor-masters/investors/nick-train/)、[比尔·尼格伦](/investor-masters/investors/bill-nygren/)
+- **我想了解价值投资**: [沃伦·巴菲特](/investor-masters/investors/warren-buffett/)、[查理·芒格](/investor-masters/investors/charlie-munger/)、[特里·史密斯](/investor-masters/investors/terry-smith/)、[帕特·多尔西](/investor-masters/investors/pat-dorsey/)、[弗朗索瓦·罗雄](/investor-masters/investors/francois-rochon/)、[塞思·卡拉曼](/investor-masters/investors/seth-klarman/)、[李录](/investor-masters/investors/li-lu/)、[尼克·特雷恩](/investor-masters/investors/nick-train/)、[比尔·尼格伦](/investor-masters/investors/bill-nygren/)
 - **我想了解经典 long/short / 事件驱动**: [大卫·艾因霍恩](/investor-masters/investors/david-einhorn/)、[李·安斯利](/investor-masters/investors/lee-ainslie/)、[史蒂芬·曼德尔](/investor-masters/investors/stephen-mandel/)、[丹·勒布](/investor-masters/investors/dan-loeb/)、[迈克尔·洛温斯坦与托马斯·科尔曼](/investor-masters/investors/michael-lowenstein-thomas-coleman/)
 - **我想了解成长投资**: [詹姆斯·安德森](/investor-masters/investors/james-anderson/)、[汤姆·斯莱特](/investor-masters/investors/tom-slater/)、[劳伦斯·伯恩斯](/investor-masters/investors/lawrence-burns/)、[布拉德·格斯特纳](/investor-masters/investors/brad-gerstner/)
 - **我想了解 Tiger Cub / crossover 科技这条线**: [李·安斯利](/investor-masters/investors/lee-ainslie/)、[史蒂芬·曼德尔](/investor-masters/investors/stephen-mandel/)、[菲利普·拉丰](/investor-masters/investors/philippe-laffont/)、[布拉德·格斯特纳](/investor-masters/investors/brad-gerstner/)
@@ -28,13 +28,13 @@ description: "把分散的投资访谈、合伙人信和机构材料，编译成
 
 ## 精选语录墙
 
-> “如果你要建立优势，你必须看得比市场更远。”
-
 > “很多人会止步于‘估值太高’‘市盈率太贵’，可比尔不会。他会去寻找真正的原因。”
 
 > “研究亚马逊，却不打个电话问管理层未来五年计划建几个中心。第二，即使只看财务报表，如果能顺着现金流往下追，就会发现亚马逊手里有大量现金。”
 
 > “大概还是会放20%左右在亚马逊。市场里可以买的东西很多，但真正能和它比肩的公司不多。”
+
+> “安然（Enron）是我在金额上犯过的最大错误。”
 
 ## 对话与争议
 
@@ -60,6 +60,7 @@ description: "把分散的投资访谈、合伙人信和机构材料，编译成
 
 ## 最近更新
 
+- `2026-06-17` 吸收 Klarman MIT 演讲与 AI 时代长访谈
 - `2026-06-16` 按新标准重生成 Coatue 13F 趋势页
 - `2026-06-13` 用最新长访谈重写 Dan Loeb 的三十年演化
 - `2026-06-12` 新增 Third Point 单机构 13F 趋势页
@@ -67,4 +68,3 @@ description: "把分散的投资访谈、合伙人信和机构材料，编译成
 - `2026-06-08` 修复新人物页站点栏目缺失
 - `2026-06-08` 新增 Brad Gerstner / Altimeter Capital 投资大师专题包
 - `2026-06-06` 2026Q1 横向 13F 增加抄作业榜
-- `2026-06-05` 吸收 Dorsey Asset Management 支线

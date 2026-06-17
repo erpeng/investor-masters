@@ -31,10 +31,10 @@ Yale Investments 的核心文化不是交易速度，而是长期关系和 manag
 
 ## 标志性公开材料
 
-- [Yale News｜David Swensen讣闻与35年业绩](/investor-masters/sources/source-83/)
-- [Yale Investments｜Endowment与Yale Model](/investor-masters/sources/source-81/)
-- [Yale Investments｜Partners与People](/investor-masters/sources/source-82/)
-- [David Swensen｜Pioneering Portfolio Management方法摘记](/investor-masters/sources/source-43/)
+- [Yale News｜David Swensen讣闻与35年业绩](/investor-masters/sources/source-84/)
+- [Yale Investments｜Endowment与Yale Model](/investor-masters/sources/source-82/)
+- [Yale Investments｜Partners与People](/investor-masters/sources/source-83/)
+- [David Swensen｜Pioneering Portfolio Management方法摘记](/investor-masters/sources/source-44/)
 
 ## 13F 持仓（近四个季度）
 
@@ -54,8 +54,8 @@ Swensen 去世后，Yale Investments 的传承问题不是“还能不能找到�
 
 ## 主要来源
 
-- [Yale News｜David Swensen讣闻与35年业绩](/investor-masters/sources/source-83/)
-- [Yale Investments｜Endowment与Yale Model](/investor-masters/sources/source-81/)
-- [Yale Investments｜Partners与People](/investor-masters/sources/source-82/)
-- [David Swensen｜Pioneering Portfolio Management方法摘记](/investor-masters/sources/source-43/)
+- [Yale News｜David Swensen讣闻与35年业绩](/investor-masters/sources/source-84/)
+- [Yale Investments｜Endowment与Yale Model](/investor-masters/sources/source-82/)
+- [Yale Investments｜Partners与People](/investor-masters/sources/source-83/)
+- [David Swensen｜Pioneering Portfolio Management方法摘记](/investor-masters/sources/source-44/)
 - 大卫·史文森-耶鲁模式-source-audit

@@ -45,6 +45,6 @@ description: "所有者收益 在这批资料 里的最佳入口。"
 
 ## 主要来源
 
-- [Compounding Quality｜弗朗索瓦·罗雄：所有者收益、错误榜单与质量投资](/investor-masters/sources/source-42/)
-- [Richer Wiser Happier｜弗朗索瓦·罗雄：精英中的精英](/investor-masters/sources/source-60/)
-- [TIP｜弗朗索瓦·罗雄：AI驱动市场中的长期投资](/investor-masters/sources/source-72/)
+- [Compounding Quality｜弗朗索瓦·罗雄：所有者收益、错误榜单与质量投资](/investor-masters/sources/source-43/)
+- [Richer Wiser Happier｜弗朗索瓦·罗雄：精英中的精英](/investor-masters/sources/source-61/)
+- [TIP｜弗朗索瓦·罗雄：AI驱动市场中的长期投资](/investor-masters/sources/source-73/)

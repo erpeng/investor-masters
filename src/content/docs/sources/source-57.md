@@ -1,10 +1,10 @@
 ---
-title: "Pat Dorsey｜Ten Lessons from Ten Years 2026"
+title: "Pat Dorsey｜Manual of Ideas 护城河访谈组"
 slug: "sources/source-57"
 description: "原始材料来源页。"
 ---
 
-**原文件名**: `Pat Dorsey｜Ten Lessons from Ten Years 2026.md`  
+**原文件名**: `Pat Dorsey｜Manual of Ideas 护城河访谈组.md`  
 
 
 ## 摘要
@@ -13,4 +13,4 @@ description: "原始材料来源页。"
 
 ## 节选
 
-这份 2026 年 presentation 更偏机构经营和管理人自我约束，不是股票筛选课。它适合支撑 Dorsey Asset Management 的资本结构、客户选择、组织文化和错误处理方式。
+这组材料覆盖 2012 和 2014 年 Pat Dorsey 与 Manual of Ideas / MOI Global 的访谈。它是理解 Dorsey 护城河方法从 Morningstar 框架走向资产管理实践的主干访谈。

@@ -32,5 +32,5 @@ description: "把同一个问题横向放到不同投资人身上读。"
 - [买入时机与价格权重如何平衡](/investor-masters/ten-questions/q06/): 18/40
 - [你会在什么时候卖出](/investor-masters/ten-questions/q07/): 19/40
 - [你如何构建和管理组合](/investor-masters/ten-questions/q08/): 35/40
-- [哪类错误最致命](/investor-masters/ten-questions/q09/): 20/40
+- [哪类错误最致命](/investor-masters/ten-questions/q09/): 21/40
 - [你认为市场最常出现的系统性误判是什么](/investor-masters/ten-questions/q10/): 30/40

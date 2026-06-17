@@ -32,7 +32,7 @@ Simons 的重要性在于，他不是简单把数学工具带进投资，而是�
 
 ## 主要来源
 
-- [Simons Foundation｜吉姆·西蒙斯：生平、数学与Renaissance](/investor-masters/sources/source-69/)
-- [Renaissance Technologies｜官网与机构定位](/investor-masters/sources/source-58/)
-- [CFA Institute｜The Man Who Solved the Market书评](/investor-masters/sources/source-21/)
-- [Simons Foundation｜五条原则与量化遗产](/investor-masters/sources/source-68/)
+- [Simons Foundation｜吉姆·西蒙斯：生平、数学与Renaissance](/investor-masters/sources/source-70/)
+- [Renaissance Technologies｜官网与机构定位](/investor-masters/sources/source-59/)
+- [CFA Institute｜The Man Who Solved the Market书评](/investor-masters/sources/source-22/)
+- [Simons Foundation｜五条原则与量化遗产](/investor-masters/sources/source-69/)

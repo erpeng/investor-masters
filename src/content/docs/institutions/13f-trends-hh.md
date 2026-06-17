@@ -363,5 +363,5 @@ Apple、BABA、TSM、OXY 都出现过真实股数变化。段永平式长期持�
 - [SEC 13F Q1 2023 filing detail](https://www.sec.gov/Archives/edgar/data/1759760/000108514623002351/0001085146-23-002351-index.html)
 - [段永平](/investor-masters/investors/duan-yongping/)
 - [H&H International Investment](/investor-masters/institutions/h-h-international-investment/)
-- [段永平：抄捷径是阴沟里翻船最快的方法](/investor-masters/sources/source-123/)
-- [“打孔机”只打了不到10个孔！段永平与方三文最新对话，详解“投资中如何真正算看懂”……](/investor-masters/sources/source-85/)
+- [段永平：抄捷径是阴沟里翻船最快的方法](/investor-masters/sources/source-125/)
+- [“打孔机”只打了不到10个孔！段永平与方三文最新对话，详解“投资中如何真正算看懂”……](/investor-masters/sources/source-87/)

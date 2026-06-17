@@ -4,7 +4,7 @@ slug: "companies/applied-materials"
 description: "Applied Materials 在这批资料里是半导体制造设备平台的代表，覆盖沉积、刻蚀、检测和先进封装等晶圆厂关键环节。它对应的是 AI 算力需求背后的制造资本开支。"
 ---
 
-> **争议与共识**
+> **争议与共识**  
 > Applied Materials 在这批资料里是半导体制造设备平台的代表，覆盖沉积、刻蚀、检测和先进封装等晶圆厂关键环节。它对应的是 AI 算力需求背后的制造资本开支。
 
 ## 简介

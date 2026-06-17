@@ -43,8 +43,8 @@ Kensico 的 13F 暗示：市场里同时存在可审计的长期质量资产、�
 
 ## 标志性公开材料
 
-- [SEC｜Kensico Capital Management：ADV与13F官方资料](/investor-masters/sources/source-67/)：机构注册与 SEC 披露口径。
-- [SEC｜Kensico Capital Management：2023-2026 13F持仓轨迹](/investor-masters/sources/source-66/)：本轮专题的主要行为证据。
+- [SEC｜Kensico Capital Management：ADV与13F官方资料](/investor-masters/sources/source-68/)：机构注册与 SEC 披露口径。
+- [SEC｜Kensico Capital Management：2023-2026 13F持仓轨迹](/investor-masters/sources/source-67/)：本轮专题的主要行为证据。
 - [13F趋势-Kensico](/investor-masters/institutions/13f-trends-kensico/)：按 skill 口径生成的单机构趋势页。
 
 ## 13F 持仓（近四个季度）
@@ -137,8 +137,8 @@ Kensico 的传承问题目前无法从公开材料里回答。它不像 Berkshir
 
 ## 主要来源
 
-- [SEC｜Kensico Capital Management：ADV与13F官方资料](/investor-masters/sources/source-67/)
-- [SEC｜Kensico Capital Management：2023-2026 13F持仓轨迹](/investor-masters/sources/source-66/)
+- [SEC｜Kensico Capital Management：ADV与13F官方资料](/investor-masters/sources/source-68/)
+- [SEC｜Kensico Capital Management：2023-2026 13F持仓轨迹](/investor-masters/sources/source-67/)
 - Kensico Capital Management-低公开曝光基本面组合-source-audit
 - [13F趋势-Kensico](/investor-masters/institutions/13f-trends-kensico/)
 - [SEC Kensico Capital Management Corp filings](https://www.sec.gov/edgar/browse/?CIK=1113000)

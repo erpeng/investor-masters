@@ -14,7 +14,7 @@ description: "伦敦证券交易所集团在这批资料里，是 Nick Train 很
 ## 公司点评
 
 ### [尼克·特雷恩](/investor-masters/investors/nick-train/)
-> “资本主义成功的代理人 - London Stock Exchange、Hargreaves Lansdown、Schroders。” ——来源：[Money Makers｜尼克·特雷恩：少做反而赚得更多](/investor-masters/sources/source-53/)
+> “资本主义成功的代理人 - London Stock Exchange、Hargreaves Lansdown、Schroders。” ——来源：[Money Makers｜尼克·特雷恩：少做反而赚得更多](/investor-masters/sources/source-54/)
 
 这句名单本身就够重要。尼克·特雷恩不是把交易所看成金融股，而是看成一种能长期代理资本主义扩张成果的基础设施。这里最值钱的不是某一轮行情，而是它位于制度接口和分发接口的双重位置。
 

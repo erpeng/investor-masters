@@ -359,5 +359,5 @@ Himalaya 的持仓数很少，所以第一步不是问“这家公司涨跌如�
 - [李录](/investor-masters/investors/li-lu/)
 - [Himalaya Capital](/investor-masters/institutions/himalaya-capital/)
 - [2021年李录与格林沃尔德深度对话：我们想投资的是那些可以在巨大不确定性中泰然处之的公司……](/investor-masters/sources/source-06/)
-- [李录亲述：为什么能拿住比亚迪23年？](/investor-masters/sources/source-121/)
-- [李录最新交流剖析新秩序：通过“四两拨千斤”，中国还可以释放很多改革红利……](/investor-masters/sources/source-122/)
+- [李录亲述：为什么能拿住比亚迪23年？](/investor-masters/sources/source-123/)
+- [李录最新交流剖析新秩序：通过“四两拨千斤”，中国还可以释放很多改革红利……](/investor-masters/sources/source-124/)

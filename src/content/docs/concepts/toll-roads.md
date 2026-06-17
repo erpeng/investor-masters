@@ -27,5 +27,5 @@ description: "收费站型生意 在这批资料 里的最佳入口。"
 
 ## 主要来源
 
-- [J.P. Morgan｜AKO Capital：数据如何进入主观投资流程](/investor-masters/sources/source-49/)
+- [J.P. Morgan｜AKO Capital：数据如何进入主观投资流程](/investor-masters/sources/source-50/)
 - [AKO Quality Investing](https://www.akocapital.com/quality-investing/)

@@ -4,7 +4,7 @@ slug: "companies/constellation-energy"
 description: "Constellation Energy 在这里代表的是美国核电和清洁电力平台。它的关键不是“能源概念”，而是数据中心长期电力需求、购电协议、电价和可用电力供给之间的约束。"
 ---
 
-> **争议与共识**
+> **争议与共识**  
 > Constellation Energy 在这里代表的是美国核电和清洁电力平台。它的关键不是“能源概念”，而是数据中心长期电力需求、购电协议、电价和可用电力供给之间的约束。
 
 ## 简介

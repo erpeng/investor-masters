@@ -1,10 +1,10 @@
 ---
-title: "Yale News｜David Swensen讣闻与35年业绩"
+title: "Yale Investments｜Partners与People"
 slug: "sources/source-83"
 description: "原始材料来源页。"
 ---
 
-**原文件名**: `Yale News｜David Swensen讣闻与35年业绩.md`  
+**原文件名**: `Yale Investments｜Partners与People.md`  
 
 
 ## 摘要
@@ -13,4 +13,4 @@ description: "原始材料来源页。"
 
 ## 节选
 
-Yale News 对 David Swensen 的官方讣闻，是史文森人物页的履历、制度贡献和长期业绩主锚点。
+Yale Investments 关于 partners 与 team 的官方页面，用来支撑 Yale Model 中最容易被忽视的一层：外部管理人关系和内部团队判断。

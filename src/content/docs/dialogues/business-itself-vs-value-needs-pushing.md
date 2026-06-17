@@ -50,8 +50,8 @@ Dan Loeb 的世界则更像另一种时间观。Third Point 的 letters 反复�
 
 ## 主要来源
 
-- [Money Makers｜尼克·特雷恩：少做反而赚得更多](/investor-masters/sources/source-53/)
-- [Edison｜尼克·特雷恩：Lindsell Train 的长期持有方法](/investor-masters/sources/source-46/)
-- [三十年三次蜕变，对冲基金传奇丹·勒布深度访谈：坐稳了，接下来一切只会继续加速](/investor-masters/sources/source-88/)
-- [Third Point｜2024Q4 investor letter：第二层思维、事件驱动与跨资产框架](/investor-masters/sources/source-76/)
-- [Third Point｜2025Q1 investor letter：催化剂、动态敞口与信用协同](/investor-masters/sources/source-77/)
+- [Money Makers｜尼克·特雷恩：少做反而赚得更多](/investor-masters/sources/source-54/)
+- [Edison｜尼克·特雷恩：Lindsell Train 的长期持有方法](/investor-masters/sources/source-47/)
+- [三十年三次蜕变，对冲基金传奇丹·勒布深度访谈：坐稳了，接下来一切只会继续加速](/investor-masters/sources/source-90/)
+- [Third Point｜2024Q4 investor letter：第二层思维、事件驱动与跨资产框架](/investor-masters/sources/source-77/)
+- [Third Point｜2025Q1 investor letter：催化剂、动态敞口与信用协同](/investor-masters/sources/source-78/)

@@ -1,17 +1,17 @@
 ---
-title: "Value Investing with Legends｜塞思·卡拉曼：逆向纪律、耐心资本与 Baupost"
+title: "Third Point｜2025Q1 investor letter：催化剂、动态敞口与信用协同"
 slug: "sources/source-78"
-description: "依据 Value Investing with Legends 官方节目简介与公开可见 topic 列表，整理塞思·卡拉曼关于市场低效、逆向纪律、跨资产评估、耐心资本与 AI 的最新系统表达。"
+description: "依据 Third Point 2025Q1 investor letter，整理 Dan Loeb 对动态降敞口、催化剂仓位、信用协同与 flexible allocation 的官方表达。"
 ---
 
-**原文件名**: `Value Investing with Legends｜塞思·卡拉曼：逆向纪律、耐心资本与 Baupost.md`  
-**外部来源**: https://valueinvestingwithlegends.libsyn.com/seth-klarman-contrarian-investing-discipline-and-building-baupost
+**原文件名**: `Third Point｜2025Q1 investor letter：催化剂、动态敞口与信用协同.md`  
+**外部来源**: https://assets.thirdpointlimited.com/f/166217/x/1c4003f091/tpil-q1-2025-investor-letter_02052025_final.pdf
 
 
 ## 摘要
 
-依据 Value Investing with Legends 官方节目简介与公开可见 topic 列表，整理塞思·卡拉曼关于市场低效、逆向纪律、跨资产评估、耐心资本与 AI 的最新系统表达。
+依据 Third Point 2025Q1 investor letter，整理 Dan Loeb 对动态降敞口、催化剂仓位、信用协同与 flexible allocation 的官方表达。
 
 ## 节选
 
-> 整理说明： > 本页依据节目官方简介与公开可见 key topics 整理。官方页面未公开完整 transcript，因此这里只保留节目简介明确给出的主题与结构，不假装掌握逐字内容。
+- `主角`：丹·勒布（Dan Loeb）/ Third Point - `场景`：`2025Q1` investor letter - `时间`：`2025-05-02` - `核心价值`：如果 `2024Q4` 信讲的是方法框架，这封信讲的是框架在动荡环境里如何实际落地。

@@ -1,17 +1,17 @@
 ---
-title: "Money Makers｜尼克·特雷恩：少做反而赚得更多"
+title: "Meb Faber｜弗朗索瓦·罗雄：耐心、谦逊与理性"
 slug: "sources/source-53"
-description: "依据 Money Makers 公开全文，整理 Nick Train 关于 slow buy and hold、能力圈、三类偏好公司与忽略宏观的核心表达。"
+description: "原始材料来源页。"
 ---
 
-**原文件名**: `Money Makers｜尼克·特雷恩：少做反而赚得更多.md`  
-**外部来源**: https://money-makers.co/nick-train-interview/
+**原文件名**: `Meb Faber｜弗朗索瓦·罗雄：耐心、谦逊与理性.md`  
+**外部来源**: The Meb Faber Show
 
 
 ## 摘要
 
-依据 Money Makers 公开全文，整理 Nick Train 关于 slow buy and hold、能力圈、三类偏好公司与忽略宏观的核心表达。
+原始材料来源页。
 
 ## 节选
 
-- `主角`：尼克·特雷恩（Nick Train） - `场景`：Money Makers 长访谈 - `时间`：`2015-10-03` - `核心价值`：这是 Nick Train 公开材料里最像“自我定义”的一篇。它把 `slow buy and hold / 极低换手 / 三类偏好公司 / 能力圈 / 忽略宏观` 一次讲清楚。
+这是近年访谈，价值在于把 Rochon 三十年业绩、错误复盘和性格纪律重新放到当前市场环境里。

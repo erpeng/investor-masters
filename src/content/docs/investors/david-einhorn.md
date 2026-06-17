@@ -24,7 +24,7 @@ description: "把反动量、会计审问与多空结构写进机构语言的人
 >
 > “市场里有很多证券被严重错定价，而且明显被低估。”
 >
-> ——来源：[Colossus｜大卫·艾因霍恩：长短仓、反动量与价值投资](/investor-masters/sources/source-41/)
+> ——来源：[Colossus｜大卫·艾因霍恩：长短仓、反动量与价值投资](/investor-masters/sources/source-42/)
 
 > 验证卡：Greenlight 的长期成绩与艾因霍恩的地位毋庸置疑，但当前公开可稳定访问、且足够权威的一手口径，并不足以让我在这里负责任地把其全阶段净年化收益率钉成一个确定数字。此前流传的 `12.7%` 更接近二手转引口径，因此这里保守写作 `未公开`。更重要的事实仍然成立：这不是只靠几次 famous short 撑起来的人，而是一整套反动量、会计审问与多空结构的长期实践者。
 
@@ -116,6 +116,6 @@ description: "把反动量、会计审问与多空结构写进机构语言的人
 
 ## 主要来源
 
-- [Colossus｜大卫·艾因霍恩：长短仓、反动量与价值投资](/investor-masters/sources/source-41/)
-- [CNBC｜大卫·艾因霍恩：被动化时代的价值投资与分拆机会](/investor-masters/sources/source-31/)
-- [Motley Fool｜大卫·艾因霍恩：透明度、监管失灵与揭弊式做空](/investor-masters/sources/source-54/)
+- [Colossus｜大卫·艾因霍恩：长短仓、反动量与价值投资](/investor-masters/sources/source-42/)
+- [CNBC｜大卫·艾因霍恩：被动化时代的价值投资与分拆机会](/investor-masters/sources/source-32/)
+- [Motley Fool｜大卫·艾因霍恩：透明度、监管失灵与揭弊式做空](/investor-masters/sources/source-55/)

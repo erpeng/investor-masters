@@ -1,17 +1,17 @@
 ---
-title: "CNBC｜大卫·艾因霍恩：被动化时代的价值投资与分拆机会"
+title: "CNBC｜丹·勒布：更动荡市场中的 event-driven 组合"
 slug: "sources/source-31"
-description: "依据 CNBC Power Lunch 公开 transcript，整理大卫·艾因霍恩关于分拆策略、被动化造成的市场错价、继续做空以及黄金对冲的完整判断。"
+description: "依据 CNBC 对 Dan Loeb 经济俱乐部发言的摘要，整理 Third Point 在更动荡市场环境下转向 event-driven / catalyst-oriented 组合的最新表达。"
 ---
 
-**原文件名**: `CNBC｜大卫·艾因霍恩：被动化时代的价值投资与分拆机会.md`  
-**外部来源**: https://www.cnbc.com/2024/04/03/cnbc-exclusive-cnbc-transcript-greenlight-capital-co-founder-president-david-einhorn-speaks-with-cnbcs-scott-wapner-on-power-lunch-today.html
+**原文件名**: `CNBC｜丹·勒布：更动荡市场中的 event-driven 组合.md`  
+**外部来源**: https://www.cnbc.com/video/2025/04/23/third-point-ceo-dan-loeb-i-wouldnt-underestimate-the-resilience-of-the-american-economy.html
 
 
 ## 摘要
 
-依据 CNBC Power Lunch 公开 transcript，整理大卫·艾因霍恩关于分拆策略、被动化造成的市场错价、继续做空以及黄金对冲的完整判断。
+依据 CNBC 对 Dan Loeb 经济俱乐部发言的摘要，整理 Third Point 在更动荡市场环境下转向 event-driven / catalyst-oriented 组合的最新表达。
 
 ## 节选
 
-> 整理说明： > 本页依据 CNBC / NBCUniversal News Group 公开 transcript 整理，重点保留艾因霍恩对 `分拆 / 被动化 / 市场结构 / 做空 / 黄金` 的原始口径。
+> 整理说明： > CNBC 当前公开的是摘要页与节目信息，不是完整逐字 transcript。本页只整理页面明确给出的核心要点。
