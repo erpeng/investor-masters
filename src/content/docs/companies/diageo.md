@@ -14,12 +14,12 @@ description: "帝亚吉欧在这批资料里，不是“英国消费股”这么
 ## 公司点评
 
 ### [尼克·特雷恩](/investor-masters/investors/nick-train/)
-> “大品牌消费品 - Heineken、Pepsi、Unilever、Diageo。” ——来源：[Money Makers｜尼克·特雷恩：少做反而赚得更多](/investor-masters/sources/source-54/)
+> “大品牌消费品 - Heineken、Pepsi、Unilever、Diageo。” ——来源：[Money Makers｜尼克·特雷恩：少做反而赚得更多](/investor-masters/sources/source-55/)
 
 尼克·特雷恩把帝亚吉欧放进自己最偏爱的第一组公司里，这已经很说明问题。它不是因为便宜才被喜欢，而是因为这类公司更像长期特许经营资产：用户习惯稳定、需求能跨周期、品牌本身能承接定价权。
 
 ### [尼克·特雷恩](/investor-masters/investors/nick-train/)
-> “真正重要的不是下一季度会怎样，而是未来 `50` 年消费者会不会继续要 Johnnie Walker / Burberry。” ——来源：[Money Makers｜尼克·特雷恩：少做反而赚得更多](/investor-masters/sources/source-54/)
+> “真正重要的不是下一季度会怎样，而是未来 `50` 年消费者会不会继续要 Johnnie Walker / Burberry。” ——来源：[Money Makers｜尼克·特雷恩：少做反而赚得更多](/investor-masters/sources/source-55/)
 
 这句话几乎就是帝亚吉欧这页存在的原因。Johnnie Walker 本身就是帝亚吉欧最核心的全球品牌之一，所以这页不是单纯在讲酒，而是在讲尼克·特雷恩如何判断一个品牌型特许经营资产是否值得长期托付资本。
 

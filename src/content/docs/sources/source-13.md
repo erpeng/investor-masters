@@ -1,10 +1,10 @@
 ---
-title: "Bloomberg｜David Tepper：2013美国复苏与风险偏好"
+title: "Altimeter｜Meta Time to Get Fit open letter 2022"
 slug: "sources/source-13"
 description: "原始材料来源页。"
 ---
 
-**原文件名**: `Bloomberg｜David Tepper：2013美国复苏与风险偏好.md`  
+**原文件名**: `Altimeter｜Meta Time to Get Fit open letter 2022.md`  
 
 
 ## 摘要
@@ -13,4 +13,4 @@ description: "原始材料来源页。"
 
 ## 节选
 
-这条材料承接 2010 年后金融危机政策底：Tepper 对美国增长、风险资产和 Appaloosa 背景做了更完整表述，也提供了 1998 年俄罗斯危机亏损等重要边界线索。
+- Medium / Altimeter open letter: https://medium.com/%40alt.cap/time-to-get-fit-an-open-letter-from-altimeter-to-mark-zuckerberg-and-the-meta-board-of-392d94e80a18

@@ -1,17 +1,17 @@
 ---
-title: "Colossus｜大卫·艾因霍恩：长短仓、反动量与价值投资"
+title: "Colossus｜史蒂芬·曼德尔：顺着变化下注"
 slug: "sources/source-42"
-description: "依据 Colossus 官方节目页可见的 show notes 与节目介绍，整理大卫·艾因霍恩关于 Greenlight 演化、反动量、选股流程、做空、组合与 LP 关系的关键判断。"
+description: "史蒂芬·曼德尔谈投资行业如何变化、为什么做空更难、为什么仍要深入企业内部，以及 Lone Pine 如何围绕变化建立研究优势。"
 ---
 
-**原文件名**: `Colossus｜大卫·艾因霍恩：长短仓、反动量与价值投资.md`  
-**外部来源**: https://www.joincolossus.com/episode/einhorn-the-long-and-short-of-investing/
+**原文件名**: `Colossus｜史蒂芬·曼德尔：顺着变化下注.md`  
+**外部来源**: https://joincolossus.com/episode/mandel-investing-behind-change/
 
 
 ## 摘要
 
-依据 Colossus 官方节目页可见的 show notes 与节目介绍，整理大卫·艾因霍恩关于 Greenlight 演化、反动量、选股流程、做空、组合与 LP 关系的关键判断。
+史蒂芬·曼德尔谈投资行业如何变化、为什么做空更难、为什么仍要深入企业内部，以及 Lone Pine 如何围绕变化建立研究优势。
 
 ## 节选
 
-> 整理说明： > 本页依据 Colossus 官方节目页公开可见的 `节目介绍 + 时间轴 + show notes` 整理。完整 transcript 需要登录后查看，因此这里只保留页面明确给出的主题与可验证判断，不把不可见内容硬写成逐字转录。
+> 整理说明： > 本页依据 Colossus 节目页、公开节目简介、可见 transcript 开头与公开 show notes 整理而成。 > 这不是官方完整逐字稿，但核心主题与判断均来自官方节目页和公开可核验摘要。

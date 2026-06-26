@@ -1,10 +1,10 @@
 ---
-title: "CNBC｜David Tepper：2024中国刺激与buy-everything"
+title: "CNBC｜David Tepper：2022全球央行紧缩与leaning-short"
 slug: "sources/source-30"
 description: "原始材料来源页。"
 ---
 
-**原文件名**: `CNBC｜David Tepper：2024中国刺激与buy-everything.md`  
+**原文件名**: `CNBC｜David Tepper：2022全球央行紧缩与leaning-short.md`  
 
 
 ## 摘要
@@ -13,4 +13,4 @@ description: "原始材料来源页。"
 
 ## 节选
 
-这条材料用于观察 Tepper 如何把美国 QE 时代的政策反应函数迁移到中国资产。它不是“看好中国”的静态观点，而是看到政策组合变化后，快速把赔率表重写。
+这条材料是 2010 的反面镜像。2010 年的核心是宽松与政策托底，2022 年则是全球央行收紧、流动性撤退、估值和盈利预期承压。它证明 Tepper 的核心不是多头偏见，而是跟随政策/流动性反应函数切换仓位。

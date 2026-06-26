@@ -98,5 +98,5 @@ Stephen Mandel 最后压出来的结论，大概是：
 
 ## 主要来源
 
-- [Colossus｜史蒂芬·曼德尔：顺着变化下注](/investor-masters/sources/source-41/)
-- [Joys of Compounding｜史蒂芬·曼德尔：来自 Lone Pine 的经验课](/investor-masters/sources/source-51/)
+- [Colossus｜史蒂芬·曼德尔：顺着变化下注](/investor-masters/sources/source-42/)
+- [Joys of Compounding｜史蒂芬·曼德尔：来自 Lone Pine 的经验课](/investor-masters/sources/source-52/)

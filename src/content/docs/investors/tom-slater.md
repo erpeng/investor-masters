@@ -24,7 +24,7 @@ description: "把安德森式成长哲学继续执行下去的人。"
 
 > “我们真正想做的，是找到少数几家真正卓越的企业。”
 >
-> ——来源：[近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-masters/sources/source-134/)
+> ——来源：[近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-masters/sources/source-135/)
 
 > 验证卡：现有资料已给出 SMT 的关键信息：截至 2026 年 1 月底总资产约 152.2 亿英镑，2025 年股价回报 24.7%，净值回报 22.3%。这为汤姆的投资实践提供了足够清楚的机构成绩背景。
 
@@ -48,7 +48,7 @@ description: "把安德森式成长哲学继续执行下去的人。"
 
 > “如果真正的约束就在于，能不能以足够低的成本进入太空，那么 SpaceX掌握的，就是那个最关键的瓶颈。”
 >
-> ——来源：[近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-masters/sources/source-134/)
+> ——来源：[近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-masters/sources/source-135/)
 
 **形成的结论**
 
@@ -62,25 +62,25 @@ description: "把安德森式成长哲学继续执行下去的人。"
 
   > “我们真正想做的，是找到少数几家真正卓越的企业。”
   >
-  > ——来源：[近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-masters/sources/source-134/)
+  > ——来源：[近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-masters/sources/source-135/)
 
 - `最爱把问题压回哪一层`: 他总把问题压回系统中的关键瓶颈，而不是只说某个赛道大不大。
 
   > “如果真正的约束就在于，能不能以足够低的成本进入太空，那么 SpaceX掌握的，就是那个最关键的瓶颈。”
   >
-  > ——来源：[近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-masters/sources/source-134/)
+  > ——来源：[近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-masters/sources/source-135/)
 
 - `怎么处理不确定性`: 不是靠短期数字确认，而是靠识别长期价值链中最有可能被重写的部分。
 
   > “我们真正想做的，是找到少数几家真正卓越的企业。”
   >
-  > ——来源：[近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-masters/sources/source-134/)
+  > ——来源：[近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-masters/sources/source-135/)
 
 - `回答姿态`: 更像长期成长体系里的结构分析师，而不是情绪型布道者。
 
   > “如果真正的约束就在于……”
   >
-  > ——来源：[近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-masters/sources/source-134/)
+  > ——来源：[近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-masters/sources/source-135/)
 
 **画像判断**
 
@@ -116,5 +116,5 @@ description: "把安德森式成长哲学继续执行下去的人。"
 
 ## 主要来源
 
-- [近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-masters/sources/source-134/)
+- [近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-masters/sources/source-135/)
 - [Baillie Gifford 官方资料](https://www.bailliegifford.com/en/uk/individual-investors/fund-centre/scottish-mortgage-investment-trust/)

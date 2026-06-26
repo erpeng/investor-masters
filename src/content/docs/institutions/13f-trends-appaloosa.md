@@ -377,7 +377,7 @@ Tepper 的典型优势不是“永远喜欢某类资产”，而是判断政策�
 - [SEC 13F Q2 2023 filing detail](https://www.sec.gov/Archives/edgar/data/1656456/000165645623000003/0001656456-23-000003-index.html)
 - [SEC 13F Q1 2023 filing detail](https://www.sec.gov/Archives/edgar/data/1656456/000165645623000002/0001656456-23-000002-index.html)
 - 大卫·泰珀-Appaloosa-政策反应函数访谈组-source-audit
-- [CNBC｜David Tepper：2010 QE与Everything交易](/investor-masters/sources/source-25/)
-- [CNBC｜David Tepper：2022全球央行紧缩与leaning-short](/investor-masters/sources/source-29/)
-- [CNBC｜David Tepper：2024中国刺激与buy-everything](/investor-masters/sources/source-30/)
+- [CNBC｜David Tepper：2010 QE与Everything交易](/investor-masters/sources/source-26/)
+- [CNBC｜David Tepper：2022全球央行紧缩与leaning-short](/investor-masters/sources/source-30/)
+- [CNBC｜David Tepper：2024中国刺激与buy-everything](/investor-masters/sources/source-31/)
 - [政策反应函数](/investor-masters/concepts/policy-reaction-function/)

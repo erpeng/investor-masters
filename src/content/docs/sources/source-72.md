@@ -1,17 +1,17 @@
 ---
-title: "TIFF｜塞思·卡拉曼：价值投资问答节选"
+title: "Stanford GSB｜肯·格里芬：投资、竞争与未来"
 slug: "sources/source-72"
-description: "依据 ValueWalk 对 TIFF 2009 问答的公开介绍，整理塞思·卡拉曼在危机后价值投资语境中的补充定位。"
+description: "依据 Stanford GSB 公开文章页，整理 Ken Griffin 关于 winning、组织竞争与长期 ambition 的最新表达。"
 ---
 
-**原文件名**: `TIFF｜塞思·卡拉曼：价值投资问答节选.md`  
-**外部来源**: https://www.valuewalk.com/seth-klarman-speech-tiff-2009-on-value-investing-full-transcript/
+**原文件名**: `Stanford GSB｜肯·格里芬：投资、竞争与未来.md`  
+**外部来源**: https://www.gsb.stanford.edu/insights/ken-griffin-investing-winning-why-hes-focused-future
 
 
 ## 摘要
 
-依据 ValueWalk 对 TIFF 2009 问答的公开介绍，整理塞思·卡拉曼在危机后价值投资语境中的补充定位。
+依据 Stanford GSB 公开文章页，整理 Ken Griffin 关于 winning、组织竞争与长期 ambition 的最新表达。
 
 ## 节选
 
-> 整理说明： > 页面公开可见部分只给出访谈背景说明，并提示完整文件嵌在外部文档中；当前未能直接读取完整 transcript。因此本页只保留页面明确说明的信息，用作来源登记与边界说明，不把不可见内容硬扩写。
+> 整理说明： > Stanford GSB 当前公开页面提供的是节目摘要与部分关键引语，不是完整 transcript。本页只使用页面可见的明确表述。

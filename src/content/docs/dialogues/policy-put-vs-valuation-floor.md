@@ -41,7 +41,7 @@ description: "把方法冲突显性化的对照页。"
 
 ## 主要来源
 
-- [CNBC｜David Tepper：2010 QE与Everything交易](/investor-masters/sources/source-25/)
-- [CNBC｜David Tepper：2024中国刺激与buy-everything](/investor-masters/sources/source-30/)
-- [CNBC｜David Tepper：2022全球央行紧缩与leaning-short](/investor-masters/sources/source-29/)
+- [CNBC｜David Tepper：2010 QE与Everything交易](/investor-masters/sources/source-26/)
+- [CNBC｜David Tepper：2024中国刺激与buy-everything](/investor-masters/sources/source-31/)
+- [CNBC｜David Tepper：2022全球央行紧缩与leaning-short](/investor-masters/sources/source-30/)
 - [13F趋势-Appaloosa](/investor-masters/institutions/13f-trends-appaloosa/)

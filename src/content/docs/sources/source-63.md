@@ -1,16 +1,17 @@
 ---
-title: "SEC｜Altimeter Capital：2023-2026 13F持仓轨迹"
+title: "S&P Global｜肯·格里芬：Citadel、AI 与独立思考"
 slug: "sources/source-63"
-description: "原始材料来源页。"
+description: "依据 S&P Global 公开 transcript，整理 Ken Griffin 关于 AI、edge、独立思考与 Citadel 组织能力的最新表达。"
 ---
 
-**原文件名**: `SEC｜Altimeter Capital：2023-2026 13F持仓轨迹.md`  
+**原文件名**: `S&P Global｜肯·格里芬：Citadel、AI 与独立思考.md`  
+**外部来源**: https://www.spglobal.com/en/research-insights/podcasts/leaders/ken-griffin-on-building-citadel-ai-and-independent-thinking
 
 
 ## 摘要
 
-原始材料来源页。
+依据 S&P Global 公开 transcript，整理 Ken Griffin 关于 AI、edge、独立思考与 Citadel 组织能力的最新表达。
 
 ## 节选
 
-- SEC submissions: https://data.sec.gov/submissions/CIK0001541617.json - Latest 13F filing detail: https://www.sec.gov/Archives/edgar/data/1541617/000154161726000006/0001541617-26-000006-index.html - Latest information table: https://www.sec.gov/Archives/edgar/data/1541617/000154161726000006/Q12613FvF.xml
+- `主角`：肯·格里芬（Ken Griffin） - `场景`：S&P Global / Leaders Podcast - `时间`：`2025-06-17` - `核心价值`：这篇是理解现代 Citadel 最好的窗口之一。它把 `AI / 预测未来 / 独立思考 / 数据质量 / 持续学习` 放在同一条线上。

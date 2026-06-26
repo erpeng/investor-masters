@@ -33,6 +33,6 @@ description: "时间套利 在这批资料 里的最佳入口。"
 
 ## 主要来源
 
-- [经典｜比尔·米勒的投资“大师课”：你所掌握的企业信息完全来自过去，而企业价值却取决于未来](/investor-masters/sources/source-130/)
+- [经典｜比尔·米勒的投资“大师课”：你所掌握的企业信息完全来自过去，而企业价值却取决于未来](/investor-masters/sources/source-131/)
 - [2.5万字｜比尔·尼格伦最新长谈，一位25年长期跑赢大盘的传奇投资人，如何与时俱进的价值投资……已付费](/investor-masters/sources/source-03/)
-- [TWST｜弗朗索瓦·罗雄：耐心是价值投资的关键](/investor-masters/sources/source-74/)
+- [TWST｜弗朗索瓦·罗雄：耐心是价值投资的关键](/investor-masters/sources/source-75/)

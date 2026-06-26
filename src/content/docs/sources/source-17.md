@@ -1,10 +1,10 @@
 ---
-title: "Brad Gerstner｜Goldman Sachs Great Investors 2022"
+title: "Brad Gerstner｜Art of Investing Essentialist Patriot 2023"
 slug: "sources/source-17"
 description: "原始材料来源页。"
 ---
 
-**原文件名**: `Brad Gerstner｜Goldman Sachs Great Investors 2022.md`  
+**原文件名**: `Brad Gerstner｜Art of Investing Essentialist Patriot 2023.md`  
 
 
 ## 摘要
@@ -13,4 +13,4 @@ description: "原始材料来源页。"
 
 ## 节选
 
-- Goldman Sachs Exchanges / Great Investors: https://www.goldmansachs.com/insights/podcasts/episodes/06-17-22-brad-gerstner-katie-koch.html
+- The Art of Investing / Colossus: https://colossus.com/episode/gerstner-brad-gerstner-investor-essentialist-patriot/

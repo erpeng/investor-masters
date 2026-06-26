@@ -74,13 +74,13 @@ Meta 公开信是理解 Gerstner 的关键材料。它说明 Altimeter 不是只
 
 ## 主要来源
 
-- [Brad Gerstner｜Invest Like the Best Public and Private Investing 2020](/investor-masters/sources/source-18/)
-- [Brad Gerstner｜Acquired Altimeter 2022](/investor-masters/sources/source-15/)
-- [Brad Gerstner｜20VC Supercycles and Power Law 2022](/investor-masters/sources/source-14/)
-- [Brad Gerstner｜Masters in Business transcript 2023](/investor-masters/sources/source-19/)
-- [Brad Gerstner｜Meb Faber AI Supercycle 2024](/investor-masters/sources/source-20/)
-- [Brad Gerstner｜TBPN Where Brad Gerstner Is Investing Billions 2026](/investor-masters/sources/source-21/)
-- [Altimeter｜Meta Time to Get Fit open letter 2022](/investor-masters/sources/source-12/)
+- [Brad Gerstner｜Invest Like the Best Public and Private Investing 2020](/investor-masters/sources/source-19/)
+- [Brad Gerstner｜Acquired Altimeter 2022](/investor-masters/sources/source-16/)
+- [Brad Gerstner｜20VC Supercycles and Power Law 2022](/investor-masters/sources/source-15/)
+- [Brad Gerstner｜Masters in Business transcript 2023](/investor-masters/sources/source-20/)
+- [Brad Gerstner｜Meb Faber AI Supercycle 2024](/investor-masters/sources/source-21/)
+- [Brad Gerstner｜TBPN Where Brad Gerstner Is Investing Billions 2026](/investor-masters/sources/source-22/)
+- [Altimeter｜Meta Time to Get Fit open letter 2022](/investor-masters/sources/source-13/)
 
 - [Altimeter Capital](/investor-masters/institutions/altimeter-capital/)
 - [13F趋势-Altimeter](/investor-masters/institutions/13f-trends-altimeter/)

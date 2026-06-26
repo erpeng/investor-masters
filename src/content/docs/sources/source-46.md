@@ -1,19 +1,16 @@
 ---
-title: "Druckenmiller深度解析（附中英对照）"
+title: "Dorsey Asset Management｜官网方法与团队"
 slug: "sources/source-46"
-description: "融合11次历史采访与13F持仓数据，还原传奇宏观交易员的思维全景。从Nvidia到Teva，从sizing到逆向投资。"
+description: "原始材料来源页。"
 ---
 
-**原文件名**: `Druckenmiller深度解析（附中英对照）.md`  
-**外部来源**: https://mp.weixin.qq.com/s/WPjWSKR8KEY-Fi4bZ0ywfQ
+**原文件名**: `Dorsey Asset Management｜官网方法与团队.md`  
 
-**作者**: 原创 LIQUIDITY NOTES  
-**时间**: 2026年2月28日 09:33
 
 ## 摘要
 
-融合11次历史采访与13F持仓数据，还原传奇宏观交易员的思维全景。从Nvidia到Teva，从sizing到逆向投资。
+原始材料来源页。
 
 ## 节选
 
-我选一个可能会让你意外的，因为它一点也不性感，跟AI什么的都没关系，但我觉得它很好地体现了我们Duquesne的投资流程。
+这是 Dorsey Asset Management 的官方站点材料，主要承担机构事实、策略边界和团队结构责任。它不是业绩归因材料，也不是完整持仓披露。

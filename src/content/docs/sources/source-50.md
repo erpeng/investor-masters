@@ -1,17 +1,17 @@
 ---
-title: "J.P. Morgan｜AKO Capital：数据如何进入主观投资流程"
+title: "Harvard Business School｜塞思·卡拉曼：危机中的 Baupost 与价值纪律"
 slug: "sources/source-50"
-description: "帕特里克·哈格里夫斯解释 AKO 的质量投资框架、五个专业团队、行为语言分析、数据反馈闭环与大语言模型使用边界。"
+description: "依据 MarketFolly 转录的 HBS 访谈，整理塞思·卡拉曼关于价值投资、现金、风险优先、危机干预与 Baupost 客户结构的关键判断。"
 ---
 
-**原文件名**: `J.P. Morgan｜AKO Capital：数据如何进入主观投资流程.md`  
-**外部来源**: https://www.jpmorgan.com/insights/podcast-hub/market-matters/trading-insights-ako-capital
+**原文件名**: `Harvard Business School｜塞思·卡拉曼：危机中的 Baupost 与价值纪律.md`  
+**外部来源**: https://www.marketfolly.com/2008/12/interview-with-seth-klarman-of-baupost.html
 
 
 ## 摘要
 
-帕特里克·哈格里夫斯解释 AKO 的质量投资框架、五个专业团队、行为语言分析、数据反馈闭环与大语言模型使用边界。
+依据 MarketFolly 转录的 HBS 访谈，整理塞思·卡拉曼关于价值投资、现金、风险优先、危机干预与 Baupost 客户结构的关键判断。
 
 ## 节选
 
-> 整理说明： > 本页依据 J.P. Morgan 页面公开逐字稿清理整理。 > 重点保留对 AKO 机构哲学、组织流程、研究工具与判断边界最有价值的内容，不追求逐字还原全部口语重复。
+> 整理说明： > 本页依据 MarketFolly 转录的 Harvard Business School 访谈整理。它是理解危机中的 Klarman / Baupost 最重要的一篇公开材料之一。

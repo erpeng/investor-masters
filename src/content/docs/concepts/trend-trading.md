@@ -41,5 +41,5 @@ PTJ 的版本恰好同时反对这两种。没有趋势不该重拳，没有预�
 
 ## 主要来源
 
-- [深度翻译  传奇交易员保罗·都铎·琼斯谈AI风险、泡沫与巴菲特](/investor-masters/sources/source-129/)
+- [深度翻译  传奇交易员保罗·都铎·琼斯谈AI风险、泡沫与巴菲特](/investor-masters/sources/source-130/)
 - [Colossus / Invest Like the Best: You Retire, You Die](https://colossus.com/episode/you-retire-you-die/)

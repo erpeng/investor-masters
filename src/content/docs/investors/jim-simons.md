@@ -18,7 +18,7 @@ description: "把数学、数据、模型和科学团队压成量化信号工厂
 
 如果巴菲特代表“企业所有者脑内判断”，德鲁肯米勒代表“未来状态 + 仓位勇气”，Simons 代表的是另一种极端：当你不再问“这家公司值多少钱”，而是问“市场噪音里有没有可重复提取的微弱统计偏差”，投资游戏会变成完全不同的东西。
 
-验证卡：Medallion Fund 的长期业绩是公开投资史上的极端异常值。现有可用口径主要来自 Gregory Zuckerman《The Man Who Solved the Market》及 CFA Institute 书评等二手材料，常见表述为 `1988-2018` 年约 `39% 费后年化`。这个数字不能当作 Renaissance 官方完整披露，但足以说明：这不是普通主动管理跑赢，而是另一种投资物种。依据：[CFA Institute｜The Man Who Solved the Market书评](/investor-masters/sources/source-22/)。
+验证卡：Medallion Fund 的长期业绩是公开投资史上的极端异常值。现有可用口径主要来自 Gregory Zuckerman《The Man Who Solved the Market》及 CFA Institute 书评等二手材料，常见表述为 `1988-2018` 年约 `39% 费后年化`。这个数字不能当作 Renaissance 官方完整披露，但足以说明：这不是普通主动管理跑赢，而是另一种投资物种。依据：[CFA Institute｜The Man Who Solved the Market书评](/investor-masters/sources/source-23/)。
 
 ## 来时路
 
@@ -80,10 +80,10 @@ Greg Jensen 也把投资写进系统，但 Bridgewater 的系统更偏宏观因�
 
 ## 主要来源
 
-- [Simons Foundation｜吉姆·西蒙斯：生平、数学与Renaissance](/investor-masters/sources/source-70/)
-- [Renaissance Technologies｜官网与机构定位](/investor-masters/sources/source-59/)
-- [CFA Institute｜The Man Who Solved the Market书评](/investor-masters/sources/source-22/)
-- [Simons Foundation｜五条原则与量化遗产](/investor-masters/sources/source-69/)
+- [Simons Foundation｜吉姆·西蒙斯：生平、数学与Renaissance](/investor-masters/sources/source-71/)
+- [Renaissance Technologies｜官网与机构定位](/investor-masters/sources/source-60/)
+- [CFA Institute｜The Man Who Solved the Market书评](/investor-masters/sources/source-23/)
+- [Simons Foundation｜五条原则与量化遗产](/investor-masters/sources/source-70/)
 - 吉姆·西蒙斯-Renaissance-量化革命-source-audit
 - [Renaissance Technologies](/investor-masters/institutions/renaissance-technologies/)
 - [量化信号工厂](/investor-masters/concepts/quantitative-signal-factory/)

@@ -1,16 +1,17 @@
 ---
-title: "CNBC｜Appaloosa：2019-family-office转型"
+title: "CFO｜李·安斯利：对冲不是目的，理解企业才是"
 slug: "sources/source-24"
-description: "原始材料来源页。"
+description: "李·安斯利从 CFO 视角解释 Maverick 如何看资本配置、管理层诚信、短仓、监管与公司沟通。"
 ---
 
-**原文件名**: `CNBC｜Appaloosa：2019-family-office转型.md`  
+**原文件名**: `CFO｜李·安斯利：对冲不是目的，理解企业才是.md`  
+**外部来源**: https://www.cfo.com/news/lee-ainslie-not-hedging-a-bit/676108/
 
 
 ## 摘要
 
-原始材料来源页。
+李·安斯利从 CFO 视角解释 Maverick 如何看资本配置、管理层诚信、短仓、监管与公司沟通。
 
 ## 节选
 
-这条不是访谈，但对 Appaloosa 机构页很关键。它说明 Appaloosa 从传统外部资本 hedge fund 逐步转向更接近 family office 的资本结构，这会改变时间压力、赎回压力和仓位自由度。
+> 整理说明： > 本页依据 CFO.com 的公开长访谈原文整理。它是 print 版访谈的 extended version，重点保留对 CFO、资本结构、短仓关系与监管的判断。

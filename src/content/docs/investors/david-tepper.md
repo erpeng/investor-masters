@@ -24,13 +24,13 @@ Tepper / Appaloosa 这条线是本库里补齐 [斯坦利·德鲁肯米勒](/inv
 
 **验证卡**
 
-公开事实显示，Tepper 1993 年共同创立 Appaloosa Management，长期以困境债务、事件驱动和宏观交易闻名；2019 年前后，Appaloosa 开始向更接近 family office 的结构转变。当前可见 SEC 13F 口径下，`Appaloosa LP` 最近披露为 `2026Q1`，13F 可见市值约 `$5.93bn`，第一大持仓为 `AMZN`，同时仍保留 `MU / GOOGL / UBER / TSM / BABA / NVDA` 等高机动暴露。依据：[CNBC｜Appaloosa：2019-family-office转型](/investor-masters/sources/source-24/)、SEC 13F、[13F趋势-Appaloosa](/investor-masters/institutions/13f-trends-appaloosa/)。
+公开事实显示，Tepper 1993 年共同创立 Appaloosa Management，长期以困境债务、事件驱动和宏观交易闻名；2019 年前后，Appaloosa 开始向更接近 family office 的结构转变。当前可见 SEC 13F 口径下，`Appaloosa LP` 最近披露为 `2026Q1`，13F 可见市值约 `$5.93bn`，第一大持仓为 `AMZN`，同时仍保留 `MU / GOOGL / UBER / TSM / BABA / NVDA` 等高机动暴露。依据：[CNBC｜Appaloosa：2019-family-office转型](/investor-masters/sources/source-25/)、SEC 13F、[13F趋势-Appaloosa](/investor-masters/institutions/13f-trends-appaloosa/)。
 
 ## 来时路
 
 **早期环境**
 
-公开可核验事实显示，Tepper 出生于匹兹堡，在 University of Pittsburgh 与 Carnegie Mellon University 受教育，后来进入金融业，并曾在 Goldman Sachs 信用/高收益相关岗位工作。推断：这条路径很重要，因为它让他不是从“买好公司长期持有”的语言进入市场，而是从信用、债务、危机资产和资本结构压力进入市场。依据：公开职业事实 + [CNBC｜David Tepper：2018 CMU长访谈](/investor-masters/sources/source-27/)。
+公开可核验事实显示，Tepper 出生于匹兹堡，在 University of Pittsburgh 与 Carnegie Mellon University 受教育，后来进入金融业，并曾在 Goldman Sachs 信用/高收益相关岗位工作。推断：这条路径很重要，因为它让他不是从“买好公司长期持有”的语言进入市场，而是从信用、债务、危机资产和资本结构压力进入市场。依据：公开职业事实 + [CNBC｜David Tepper：2018 CMU长访谈](/investor-masters/sources/source-28/)。
 
 **关键影响**
 
@@ -110,19 +110,19 @@ Tepper 方法的底层影响，不像 Buffett 那样主要来自企业所有者�
 
 ### 一手来源
 
-- [CNBC｜David Tepper：2010 QE与Everything交易](/investor-masters/sources/source-25/)
-- [CNBC｜David Tepper：2018 CMU长访谈](/investor-masters/sources/source-27/)
-- [CNBC｜David Tepper：2017股票债券与Fed路径](/investor-masters/sources/source-26/)
-- [CNBC｜David Tepper：2020疫情冲击与nibbling-tech](/investor-masters/sources/source-28/)
-- [CNBC｜David Tepper：2022全球央行紧缩与leaning-short](/investor-masters/sources/source-29/)
-- [CNBC｜David Tepper：2024中国刺激与buy-everything](/investor-masters/sources/source-30/)
-- [Bloomberg｜David Tepper：2013美国复苏与风险偏好](/investor-masters/sources/source-13/)
-- [Reuters｜David Tepper：2021能源与通胀交易](/investor-masters/sources/source-60/)
-- [Fortune｜David Tepper：2014-nervous-time](/investor-masters/sources/source-48/)
+- [CNBC｜David Tepper：2010 QE与Everything交易](/investor-masters/sources/source-26/)
+- [CNBC｜David Tepper：2018 CMU长访谈](/investor-masters/sources/source-28/)
+- [CNBC｜David Tepper：2017股票债券与Fed路径](/investor-masters/sources/source-27/)
+- [CNBC｜David Tepper：2020疫情冲击与nibbling-tech](/investor-masters/sources/source-29/)
+- [CNBC｜David Tepper：2022全球央行紧缩与leaning-short](/investor-masters/sources/source-30/)
+- [CNBC｜David Tepper：2024中国刺激与buy-everything](/investor-masters/sources/source-31/)
+- [Bloomberg｜David Tepper：2013美国复苏与风险偏好](/investor-masters/sources/source-14/)
+- [Reuters｜David Tepper：2021能源与通胀交易](/investor-masters/sources/source-61/)
+- [Fortune｜David Tepper：2014-nervous-time](/investor-masters/sources/source-49/)
 
 ### 二手事实来源
 
-- [CNBC｜Appaloosa：2019-family-office转型](/investor-masters/sources/source-24/)
+- [CNBC｜Appaloosa：2019-family-office转型](/investor-masters/sources/source-25/)
 - [13F趋势-Appaloosa](/investor-masters/institutions/13f-trends-appaloosa/)
 - [David Tepper - Wikipedia](https://en.wikipedia.org/wiki/David_Tepper)
 - [Appaloosa LP SEC filings](https://www.sec.gov/edgar/browse/?CIK=1656456)

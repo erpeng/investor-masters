@@ -1,10 +1,10 @@
 ---
-title: "Brad Gerstner｜TBPN Where Brad Gerstner Is Investing Billions 2026"
+title: "Brad Gerstner｜Meb Faber AI Supercycle 2024"
 slug: "sources/source-21"
 description: "原始材料来源页。"
 ---
 
-**原文件名**: `Brad Gerstner｜TBPN Where Brad Gerstner Is Investing Billions 2026.md`  
+**原文件名**: `Brad Gerstner｜Meb Faber AI Supercycle 2024.md`  
 
 
 ## 摘要
@@ -13,4 +13,4 @@ description: "原始材料来源页。"
 
 ## 节选
 
-- TBPN / Metacast mirror: https://metacast.app/podcast/tbpn/D9fOtj1E/where-brad-gerstner-is-investing-billions/Qs2wawy7
+- Meb Faber Show, episode #551: https://www.themebfabershow.com/episodes/a0Pmy0Vj2Xy

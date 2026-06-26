@@ -1,17 +1,16 @@
 ---
-title: "Stanford GSB｜肯·格里芬：投资、竞争与未来"
+title: "Simons Foundation｜吉姆·西蒙斯：生平、数学与Renaissance"
 slug: "sources/source-71"
-description: "依据 Stanford GSB 公开文章页，整理 Ken Griffin 关于 winning、组织竞争与长期 ambition 的最新表达。"
+description: "原始材料来源页。"
 ---
 
-**原文件名**: `Stanford GSB｜肯·格里芬：投资、竞争与未来.md`  
-**外部来源**: https://www.gsb.stanford.edu/insights/ken-griffin-investing-winning-why-hes-focused-future
+**原文件名**: `Simons Foundation｜吉姆·西蒙斯：生平、数学与Renaissance.md`  
 
 
 ## 摘要
 
-依据 Stanford GSB 公开文章页，整理 Ken Griffin 关于 winning、组织竞争与长期 ambition 的最新表达。
+原始材料来源页。
 
 ## 节选
 
-> 整理说明： > Stanford GSB 当前公开页面提供的是节目摘要与部分关键引语，不是完整 transcript。本页只使用页面可见的明确表述。
+Simons Foundation 对 Jim Simons 生平、数学事业、Renaissance Technologies 和慈善工作的官方回顾。它承担人物页的履历骨架和方法生成史责任，不承担 Medallion 具体策略细节。

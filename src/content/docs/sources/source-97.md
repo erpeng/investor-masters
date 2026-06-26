@@ -1,11 +1,11 @@
 ---
-title: "原文｜CNBC｜丹·勒布：更动荡市场中的 event-driven 组合"
+title: "原文｜CFO｜李·安斯利：对冲不是目的，理解企业才是"
 slug: "sources/source-97"
 description: "从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML。"
 ---
 
-**原文件名**: `原文｜CNBC｜丹·勒布：更动荡市场中的 event-driven 组合.md`  
-**外部来源**: https://www.cnbc.com/video/2025/04/23/third-point-ceo-dan-loeb-i-wouldnt-underestimate-the-resilience-of-the-american-economy.html
+**原文件名**: `原文｜CFO｜李·安斯利：对冲不是目的，理解企业才是.md`  
+**外部来源**: https://www.cfo.com/news/lee-ainslie-not-hedging-a-bit/676108/
 
 
 ## 摘要
@@ -14,4 +14,4 @@ description: "从公开原始链接抓取的原文存档，供与整理稿对照
 
 ## 节选
 
-- 对应整理稿：[[现有资料/CNBC｜丹·勒布：更动荡市场中的 event-driven 组合.md]] - 抓取时间：`2026-04-20` - 抽取方式：`HTML` - 原始域名：`www.cnbc.com`
+- 对应整理稿：[[现有资料/CFO｜李·安斯利：对冲不是目的，理解企业才是.md]] - 抓取时间：`2026-04-20` - 抽取方式：`HTML` - 原始域名：`www.cfo.com` - 备注：依据本地抓取 HTML 清洗正文，去掉站点导航与订阅噪音。

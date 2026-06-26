@@ -43,9 +43,9 @@ Edison 访谈把 `alignment of interests`、`management quality` 和 `让赢家�
 
 ## 标志性公开材料
 
-- [Money Makers｜尼克·特雷恩：少做反而赚得更多](/investor-masters/sources/source-54/)
-- [The Value Perspective｜尼克·特雷恩：长期概率、英国市场与质量识别](/investor-masters/sources/source-76/)
-- [Edison｜尼克·特雷恩：Lindsell Train 的长期持有方法](/investor-masters/sources/source-47/)
+- [Money Makers｜尼克·特雷恩：少做反而赚得更多](/investor-masters/sources/source-55/)
+- [The Value Perspective｜尼克·特雷恩：长期概率、英国市场与质量识别](/investor-masters/sources/source-77/)
+- [Edison｜尼克·特雷恩：Lindsell Train 的长期持有方法](/investor-masters/sources/source-48/)
 
 ## 13F 持仓（近四个季度）
 
@@ -66,6 +66,6 @@ Lindsell Train 未来最值得继续观察的问题，不是“还能不能再�
 
 ## 主要来源
 
-- [Money Makers｜尼克·特雷恩：少做反而赚得更多](/investor-masters/sources/source-54/)
-- [The Value Perspective｜尼克·特雷恩：长期概率、英国市场与质量识别](/investor-masters/sources/source-76/)
-- [Edison｜尼克·特雷恩：Lindsell Train 的长期持有方法](/investor-masters/sources/source-47/)
+- [Money Makers｜尼克·特雷恩：少做反而赚得更多](/investor-masters/sources/source-55/)
+- [The Value Perspective｜尼克·特雷恩：长期概率、英国市场与质量识别](/investor-masters/sources/source-77/)
+- [Edison｜尼克·特雷恩：Lindsell Train 的长期持有方法](/investor-masters/sources/source-48/)

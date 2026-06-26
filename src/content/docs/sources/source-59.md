@@ -1,10 +1,10 @@
 ---
-title: "Renaissance Technologies｜官网与机构定位"
+title: "Pat Dorsey｜Ten Lessons from Ten Years 2026"
 slug: "sources/source-59"
 description: "原始材料来源页。"
 ---
 
-**原文件名**: `Renaissance Technologies｜官网与机构定位.md`  
+**原文件名**: `Pat Dorsey｜Ten Lessons from Ten Years 2026.md`  
 
 
 ## 摘要
@@ -13,4 +13,4 @@ description: "原始材料来源页。"
 
 ## 节选
 
-Renaissance Technologies 官网用于确认机构事实和自我定位：这是一家由科学家、数学家、工程师和研究者驱动的系统化投资机构，而不是传统主观选股平台。
+这份 2026 年 presentation 更偏机构经营和管理人自我约束，不是股票筛选课。它适合支撑 Dorsey Asset Management 的资本结构、客户选择、组织文化和错误处理方式。

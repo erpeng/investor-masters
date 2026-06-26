@@ -1,10 +1,10 @@
 ---
-title: "Brad Gerstner｜Meb Faber AI Supercycle 2024"
+title: "Brad Gerstner｜Masters in Business transcript 2023"
 slug: "sources/source-20"
 description: "原始材料来源页。"
 ---
 
-**原文件名**: `Brad Gerstner｜Meb Faber AI Supercycle 2024.md`  
+**原文件名**: `Brad Gerstner｜Masters in Business transcript 2023.md`  
 
 
 ## 摘要
@@ -13,4 +13,4 @@ description: "原始材料来源页。"
 
 ## 节选
 
-- Meb Faber Show, episode #551: https://www.themebfabershow.com/episodes/a0Pmy0Vj2Xy
+- Ritholtz / Bloomberg Masters in Business transcript: https://ritholtz.com/2023/11/transcript-brad-gerstner/

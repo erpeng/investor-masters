@@ -1,10 +1,10 @@
 ---
-title: "CNBC｜David Tepper：2018 CMU长访谈"
+title: "CNBC｜David Tepper：2017股票债券与Fed路径"
 slug: "sources/source-27"
 description: "原始材料来源页。"
 ---
 
-**原文件名**: `CNBC｜David Tepper：2018 CMU长访谈.md`  
+**原文件名**: `CNBC｜David Tepper：2017股票债券与Fed路径.md`  
 
 
 ## 摘要
@@ -13,4 +13,4 @@ description: "原始材料来源页。"
 
 ## 节选
 
-- CNBC transcript, Scott Wapner interview at Carnegie Mellon University, 2018-09-13 - 主角：David Tepper, Appaloosa Management
+- CNBC Squawk Box excerpts/transcript, 2017-03-08

@@ -1,10 +1,10 @@
 ---
-title: "Brad Gerstner｜Invest Like the Best Public and Private Investing 2020"
+title: "Brad Gerstner｜Goldman Sachs Great Investors 2022"
 slug: "sources/source-18"
 description: "原始材料来源页。"
 ---
 
-**原文件名**: `Brad Gerstner｜Invest Like the Best Public and Private Investing 2020.md`  
+**原文件名**: `Brad Gerstner｜Goldman Sachs Great Investors 2022.md`  
 
 
 ## 摘要
@@ -13,4 +13,4 @@ description: "原始材料来源页。"
 
 ## 节选
 
-- Invest Like the Best / Colossus, episode 179: https://www.joincolossus.com/episode/gerstner-public-and-private-investing/
+- Goldman Sachs Exchanges / Great Investors: https://www.goldmansachs.com/insights/podcasts/episodes/06-17-22-brad-gerstner-katie-koch.html

@@ -1,11 +1,11 @@
 ---
-title: "David Swensen｜Pioneering Portfolio Management方法摘记"
+title: "Compounding Quality｜弗朗索瓦·罗雄：所有者收益、错误榜单与质量投资"
 slug: "sources/source-44"
 description: "原始材料来源页。"
 ---
 
-**原文件名**: `David Swensen｜Pioneering Portfolio Management方法摘记.md`  
-**外部来源**: David F. Swensen, Pioneering Portfolio Management
+**原文件名**: `Compounding Quality｜弗朗索瓦·罗雄：所有者收益、错误榜单与质量投资.md`  
+**外部来源**: Compounding Quality
 
 
 ## 摘要
@@ -14,4 +14,4 @@ description: "原始材料来源页。"
 
 ## 节选
 
-David Swensen《Pioneering Portfolio Management》作为 Yale Model 的方法论主源，承担资产配置哲学、流动性溢价、主动管理选择和长期机构治理的底层解释责任。
+这篇访谈最适合补 Rochon 的方法细节：他怎样定义好公司、怎样用所有者收益替代会计利润、怎样区分买错和错过，以及为什么长期复利需要性格保护。

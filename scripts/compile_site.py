@@ -868,7 +868,10 @@ def build_link_maps():
 
 def build_source_maps():
     mapping = {}
-    raw_files = sorted(RAW_DIR.glob("*.md"))
+    raw_files = sorted(
+        path for path in RAW_DIR.glob("*.md")
+        if path.read_text(encoding="utf-8").strip()
+    )
     for idx, path in enumerate(raw_files, start=1):
         slug = f"sources/{source_slug(path.name, idx)}"
         mapping[path.stem] = slug

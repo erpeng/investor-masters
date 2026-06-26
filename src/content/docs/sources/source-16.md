@@ -1,10 +1,10 @@
 ---
-title: "Brad Gerstner｜Art of Investing Essentialist Patriot 2023"
+title: "Brad Gerstner｜Acquired Altimeter 2022"
 slug: "sources/source-16"
 description: "原始材料来源页。"
 ---
 
-**原文件名**: `Brad Gerstner｜Art of Investing Essentialist Patriot 2023.md`  
+**原文件名**: `Brad Gerstner｜Acquired Altimeter 2022.md`  
 
 
 ## 摘要
@@ -13,4 +13,4 @@ description: "原始材料来源页。"
 
 ## 节选
 
-- The Art of Investing / Colossus: https://colossus.com/episode/gerstner-brad-gerstner-investor-essentialist-patriot/
+- Acquired: Altimeter with Brad Gerstner: https://www.acquired.fm/episodes/altimeter-with-brad-gerstner

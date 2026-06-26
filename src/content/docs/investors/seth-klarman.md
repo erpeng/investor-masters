@@ -18,17 +18,21 @@ description: "把高现金、逆向纪律与耐心资本写成机构宪法的人
 
 很多人把卡拉曼想成一个抽象的传统价值投资者，但现有材料更像在提醒你：他其实是一位极度机构化的风险工程师。Baupost 能长期活下来，不只是因为他会算便宜，而是因为他同时设计了资本来源、等待方式、团队文化、机会边界和不被迫行动的结构。
 
-`2026` 年 CNBC 访谈让这条线变得更清楚：在 AI、数据中心、困境债和美国政策风险同时出现的环境里，他并没有退回“拒绝变化”的老价值姿态，而是把问题压成一句更硬的话：当不确定性上升时，投资人不能用更高倍数假装未来更确定。
+`2026` 年 CNBC 访谈和 Ritholtz / Masters in Business 长访谈让这条线变得更清楚：在 AI、数据中心、困境债、巨型 IPO 和美国政策风险同时出现的环境里，他并没有退回“拒绝变化”的老价值姿态，而是把问题压成一句更硬的话：当不确定性上升时，投资人不能用更高倍数假装未来更确定。
 
 原文锚点：
 
 > “我们的价值投资方法，是不断问自己：我们究竟能够确定的是什么？”
 >
-> ——来源：[44年只有5年亏过！“安全边际之父”卡拉曼罕见对话，谈及错失Palantir百亿机会、如何参与AI以及当下投资的三个原则](/investor-masters/sources/source-09/)
+> ——来源：[44年只有5年亏过！“安全边际之父”卡拉曼罕见对话，谈及错失Palantir百亿机会、如何参与AI以及当下投资的三个原则](/investor-masters/sources/source-10/)
 
 > “归根到底，能不能睡个安稳觉比什么都重要。”
 >
-> ——来源：[“安全边际大师”卡拉曼MIT经典演讲：要有健康的投资纪律，能不能睡个安稳觉比什么都重要……](/investor-masters/sources/source-85/)
+> ——来源：[“安全边际大师”卡拉曼MIT经典演讲：要有健康的投资纪律，能不能睡个安稳觉比什么都重要……](/investor-masters/sources/source-86/)
+
+> “便宜本身，并不是一种策略。”
+>
+> ——来源：[2万字｜传奇价值投资者赛斯·卡拉曼深度对话：他人被迫交易时，要有能力抓住机会已付费](/investor-masters/sources/source-08/)
 
 > 验证卡：Bloomberg 在 `2010` 年对 Seth Klarman 的人物报道里直接写到，Baupost 自 `1983` 年以来净年化回报约 `19%`，显著高于同期标普 `500`。这很重要，因为它说明 Baupost 不是只靠“谨慎”活着，而是真把谨慎转成了长期复利。依据：[Bloomberg, The Financial Life: Seth Klarman](https://www.bloomberg.com/news/articles/2010-06-17/the-financial-life-seth-klarman)。
 
@@ -55,6 +59,7 @@ description: "把高现金、逆向纪律与耐心资本写成机构宪法的人
 - `2007` 年 MIT 演讲，在危机前夜把“安全边际”讲成风险、杠杆和睡眠质量的系统
 - `2008` 年危机中，高现金与困境资产买入被证明不是拖累，而是组织优势
 - `2026` 年 AI 访谈中，他把老价值语言放进新技术周期：不站在 AI 最前沿，但必须理解 AI，并等待真正落到击球区的 fat pitch
+- `2026` 年 Ritholtz 长访谈中，他又把现金、历史、团队所有权和大型 IPO 放到同一张图里：价值投资不是便宜标签，而是在别人被迫交易时仍保有行动能力
 
 **形成的结论**
 
@@ -92,11 +97,17 @@ description: "把高现金、逆向纪律与耐心资本写成机构宪法的人
 
 他把 AI 相关公司分成三类：AI 赢家、AI 输家、AI 无关。Baupost 不追逐大模型公司，而是研究被冷落的 AI 无关公司、被错杀的软件信用资产、可以受益于数据中心需求的土地，以及 Amazon / Google 这类现金流机器。这不是反科技，而是用安全边际重新审问科技叙事。
 
+Ritholtz 访谈又补了一层：AI 已经是结构性变化，Baupost 自己也必须理解和使用 AI，但卡拉曼不愿把“AI 很重要”直接翻译成“任何价格都能买”。所以他的参与方式更像绕开最热的一阶叙事：不买自己看不清的 AI 赢家，避免真实 AI 输家，寻找市场误判的非输家，以及以折价方式拿到数据中心相关的私募 / 地产选择权。
+
+**SpaceX 与市场温度计**
+
+他对 SpaceX 的表述也很克制：合规不允许讨论个别证券，Baupost 也没有以私人或其他形式持有 SpaceX。但他把 SpaceX 这类巨型 IPO 看成市场温度计：如果一批巨大、未盈利或高估值私募公司集中上市，可能既说明情绪过热，也会从二级市场抽走资金。这里真正重要的不是 SpaceX 本身，而是卡拉曼如何用供给、流动性和投资者被迫行为来读市场。
+
 ## 失误、边界与失效条件
 
 新材料给出了一个很重要的反例：Palantir。卡拉曼回忆，Baupost 曾有机会买入 `4000万-5000万美元` 的 Palantir 风险投资份额，团队做了大量研究，也准备出价，但交易最终没有完成；事后看，这可能是几十亿美元甚至上百亿美元级别的错失。
 
-这个错误有价值，因为它不是“纪律不够”的错误，而是“纪律太慢或确定性门槛太高”的错误。对卡拉曼来说，安全边际能保护本金；但对幂律型机会来说，等到所有东西都足够确定，机会本身可能已经消失。
+这个错误有价值，因为它不是“纪律不够”的错误，而是“纪律太慢或确定性门槛太高”的错误。Ritholtz 访谈还把这一点推进到更宽的边界：Baupost 曾经低估硅谷和 VC 生态，也曾在某些阶段持有过多现金。对卡拉曼来说，安全边际能保护本金；但对幂律型机会来说，等到所有东西都足够确定，机会本身可能已经消失。
 
 方法边界因此更清楚：
 
@@ -104,6 +115,7 @@ description: "把高现金、逆向纪律与耐心资本写成机构宪法的人
 - 如果把逆向误解成“逢跌就买”，会失去他最看重的纪律门槛
 - 如果只会做公开股票，而不会跨资产比较机会，Baupost 式 优势来源 会大幅削弱
 - 如果在 AI 这类幂律技术周期里过度等待确定性，就可能错过少数极端赢家
+- 如果把现金选择权绝对化，机会成本会被延迟确认，尤其在长期牛市和技术幂律周期里
 - 如果把卡拉曼误读成“只会囤现金”，就会看不见他其实是在为危机中的进攻保留火力
 
 ## 对我有什么启发
@@ -130,12 +142,14 @@ MIT 演讲里的“能不能睡个安稳觉”不是鸡汤，而是风险预算�
 
 ## 主要来源
 
-- [Value Investing with Legends｜塞思·卡拉曼：逆向纪律、耐心资本与 Baupost](/investor-masters/sources/source-79/)
-- [Harvard Business School｜塞思·卡拉曼：危机中的 Baupost 与价值纪律](/investor-masters/sources/source-49/)
-- [TIFF｜塞思·卡拉曼：价值投资问答节选](/investor-masters/sources/source-72/)
-- [“安全边际大师”卡拉曼MIT经典演讲：要有健康的投资纪律，能不能睡个安稳觉比什么都重要……](/investor-masters/sources/source-85/)
-- [44年只有5年亏过！“安全边际之父”卡拉曼罕见对话，谈及错失Palantir百亿机会、如何参与AI以及当下投资的三个原则](/investor-masters/sources/source-09/)
+- [Value Investing with Legends｜塞思·卡拉曼：逆向纪律、耐心资本与 Baupost](/investor-masters/sources/source-80/)
+- [Harvard Business School｜塞思·卡拉曼：危机中的 Baupost 与价值纪律](/investor-masters/sources/source-50/)
+- [TIFF｜塞思·卡拉曼：价值投资问答节选](/investor-masters/sources/source-73/)
+- [“安全边际大师”卡拉曼MIT经典演讲：要有健康的投资纪律，能不能睡个安稳觉比什么都重要……](/investor-masters/sources/source-86/)
+- [44年只有5年亏过！“安全边际之父”卡拉曼罕见对话，谈及错失Palantir百亿机会、如何参与AI以及当下投资的三个原则](/investor-masters/sources/source-10/)
+- [2万字｜传奇价值投资者赛斯·卡拉曼深度对话：他人被迫交易时，要有能力抓住机会已付费](/investor-masters/sources/source-08/)
 - 塞思·卡拉曼-MIT安全边际演讲-source-audit
 - 塞思·卡拉曼-CNBC-AI与安全边际访谈-source-audit
+- 塞思·卡拉曼-Ritholtz-Masters-in-Business-2026访谈-source-audit
 - [Baupost Group](/investor-masters/institutions/baupost-group/)
 - [13F趋势-Baupost](/investor-masters/institutions/13f-trends-baupost/)

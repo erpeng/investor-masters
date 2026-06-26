@@ -51,13 +51,13 @@ Tiger Cub 这一支也给能力圈补了两种非常实用的版本。[李·安�
 
 ## 主要来源
 
-- [段永平：抄捷径是阴沟里翻船最快的方法](/investor-masters/sources/source-125/)
-- [巴菲特亲自教授的一堂价值百万的MBA课程：如何在股市里赚大钱](/investor-masters/sources/source-115/)
+- [段永平：抄捷径是阴沟里翻船最快的方法](/investor-masters/sources/source-126/)
+- [巴菲特亲自教授的一堂价值百万的MBA课程：如何在股市里赚大钱](/investor-masters/sources/source-116/)
 - [2万字｜2008年芒格在加州理工与物理学家的罕见对谈，全程都是智慧四溅](/investor-masters/sources/source-07/)
-- [3.2万字｜潘兴广场比尔·阿克曼最有价值的一场对话，深谈价值投资、核心战役以及如何从人生谷底“爬坑”……](/investor-masters/sources/source-08/)
-- [“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-masters/sources/source-86/)
-- [Ted Weschler-2022-Q&A-Podcast（NFM）](/investor-masters/sources/source-75/)
+- [3.2万字｜潘兴广场比尔·阿克曼最有价值的一场对话，深谈价值投资、核心战役以及如何从人生谷底“爬坑”……](/investor-masters/sources/source-09/)
+- [“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-masters/sources/source-87/)
+- [Ted Weschler-2022-Q&A-Podcast（NFM）](/investor-masters/sources/source-76/)
 - [2021年李录与格林沃尔德深度对话：我们想投资的是那些可以在巨大不确定性中泰然处之的公司……](/investor-masters/sources/source-06/)
-- [McKinsey｜李·安斯利：走进 Maverick Capital，传统多空基金如何研究企业](/investor-masters/sources/source-52/)
-- [Richer Wiser Happier｜弗朗索瓦·罗雄：精英中的精英](/investor-masters/sources/source-61/)
-- [Colossus｜史蒂芬·曼德尔：顺着变化下注](/investor-masters/sources/source-41/)
+- [McKinsey｜李·安斯利：走进 Maverick Capital，传统多空基金如何研究企业](/investor-masters/sources/source-53/)
+- [Richer Wiser Happier｜弗朗索瓦·罗雄：精英中的精英](/investor-masters/sources/source-62/)
+- [Colossus｜史蒂芬·曼德尔：顺着变化下注](/investor-masters/sources/source-42/)
