@@ -1,0 +1,5 @@
+interface:
+  display_name: "底部确认框架"
+  short_description: "跨资产卖压释放、底部确认、观察清单和完整报告生成工具"
+  default_prompt: "Use $bottom-confirmation-framework to judge whether 贵州茅台 has entered a bottom-confirmation zone."
+
