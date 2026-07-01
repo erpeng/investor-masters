@@ -1,6 +1,6 @@
 ---
 name: bottom-confirmation-framework
-description: Use when the user asks whether an asset, stock, company, ETF, commodity, sector, or market has bottomed, whether sell pressure has been released, or requests 底部判断, 底部确认, 卖压释放, 恐慌抛售, ETF赎回, 杠杆平仓, 机构减仓, 批价, 库存, 沽空, 南向, 北向, or price-action confirmation analysis.
+description: 'Use when the user asks whether an asset, stock, company, ETF, commodity, sector, or market has bottomed, whether sell pressure has been released, or requests 底部判断, 底部确认, 卖压释放, 恐慌抛售, ETF赎回, 杠杆平仓, 机构减仓, 批价, 库存, 沽空, 南向, 北向, or price-action confirmation analysis.'
 ---
 
 # Bottom Confirmation Framework
@@ -42,4 +42,3 @@ Default to Chinese. For current market facts, browse or use live data tools; pri
 | Using one-day rebound as confirmation | Require follow-through, repeated support, or confirming high-frequency data. |
 | Ignoring asset-specific proxies | Load the asset map and replace irrelevant metrics. |
 | Writing only narrative | Include tables for key data, current status, and tracking checklist. |
-
