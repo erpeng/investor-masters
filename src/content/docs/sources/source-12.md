@@ -1,11 +1,13 @@
 ---
-title: "Altimeter Capital｜官网与SEC事实"
+title: "4万字对话｜72岁传奇投资人特里·史密斯详述一生，如何塑造自己的投资风格"
 slug: "sources/source-12"
 description: "原始材料来源页。"
 ---
 
-**原文件名**: `Altimeter Capital｜官网与SEC事实.md`  
+**原文件名**: `4万字对话｜72岁传奇投资人特里·史密斯详述一生，如何塑造自己的投资风格.md`  
 
+**作者**: 原创 威廉·格林  
+**时间**: 2025年3月1日 10:01
 
 ## 摘要
 
@@ -13,4 +15,4 @@ description: "原始材料来源页。"
 
 ## 节选
 
-- Altimeter official site: https://www.altimeter.com/home - SEC submissions: https://data.sec.gov/submissions/CIK0001541617.json - SEC latest 13F index: https://www.sec.gov/Archives/edgar/data/1541617/000154161726000006/0001541617-26-000006-index.html
+《更富有、更睿智、更快乐》的作者威廉·格林最近在播客中请到了英国传奇投资人特里·史密斯（Terry Smith）。

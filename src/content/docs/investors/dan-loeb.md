@@ -134,11 +134,11 @@ Dan Loeb 不是单纯主动推动型投资人，也不是纯质量投资人。�
 
 ## 主要来源
 
-- [三十年三次蜕变，对冲基金传奇丹·勒布深度访谈：坐稳了，接下来一切只会继续加速](/investor-masters/sources/source-91/)
+- [三十年三次蜕变，对冲基金传奇丹·勒布深度访谈：坐稳了，接下来一切只会继续加速](/investor-masters/sources/source-96/)
 - 丹·勒布-Invest-Like-the-Best三十年蜕变访谈-source-audit
-- [CNBC｜丹·勒布：更动荡市场中的 event-driven 组合](/investor-masters/sources/source-32/)
-- [Third Point｜2024Q4 investor letter：第二层思维、事件驱动与跨资产框架](/investor-masters/sources/source-78/)
-- [Third Point｜2025Q1 investor letter：催化剂、动态敞口与信用协同](/investor-masters/sources/source-79/)
+- [CNBC｜丹·勒布：更动荡市场中的 event-driven 组合](/investor-masters/sources/source-34/)
+- [Third Point｜2024Q4 investor letter：第二层思维、事件驱动与跨资产框架](/investor-masters/sources/source-81/)
+- [Third Point｜2025Q1 investor letter：催化剂、动态敞口与信用协同](/investor-masters/sources/source-82/)
 - [Third Point](/investor-masters/institutions/third-point/)
 - [13F趋势-Third Point](/investor-masters/institutions/13f-trends-third-point/)
 - [事件驱动](/investor-masters/concepts/event-driven/)

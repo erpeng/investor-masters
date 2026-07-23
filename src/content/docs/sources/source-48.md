@@ -1,17 +1,16 @@
 ---
-title: "Edison｜尼克·特雷恩：Lindsell Train 的长期持有方法"
+title: "Dorsey Asset Management｜官网方法与团队"
 slug: "sources/source-48"
-description: "依据 Edison 节目简介，整理 Nick Train 关于管理层质量、长期与短期、run winners、利益一致与 succession 的公开表达。"
+description: "原始材料来源页。"
 ---
 
-**原文件名**: `Edison｜尼克·特雷恩：Lindsell Train 的长期持有方法.md`  
-**外部来源**: https://www.edisongroup.com/edison-tv/lindsell-train-fund-manager-interview-with-nick-train/27489/
+**原文件名**: `Dorsey Asset Management｜官网方法与团队.md`  
 
 
 ## 摘要
 
-依据 Edison 节目简介，整理 Nick Train 关于管理层质量、长期与短期、run winners、利益一致与 succession 的公开表达。
+原始材料来源页。
 
 ## 节选
 
-> 整理说明： > Edison 页面当前公开的是节目简介与 topics 列表，而不是完整 transcript。本页只整理页面明确给出的讨论范围。
+这是 Dorsey Asset Management 的官方站点材料，主要承担机构事实、策略边界和团队结构责任。它不是业绩归因材料，也不是完整持仓披露。

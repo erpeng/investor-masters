@@ -41,9 +41,15 @@ Rochon 读 Alphabet 的入口更接近 [所有者收益](/investor-masters/conce
 
 Appaloosa 的 `GOOG` 更像可切换平台腿。[13F趋势-Appaloosa](/investor-masters/institutions/13f-trends-appaloosa/) 显示，`GOOG` 在 2024Q4 权重约 `8.1%`，2026Q1 仍为第三大持仓，权重约 `8.4%`。在 Tepper 框架里，Alphabet 不是单独的 AI 恐慌重描述样本，而是在平台科技、半导体和政策交易之间重新配平时保留的美国平台暴露。
 
+### [加文·贝克](/investor-masters/investors/gavin-baker/)
+
+Atreides 2026Q1 持有约 `555.0k` 股 Alphabet A 类股，价值约 `$159.6m`，占普通股票切片约 `3.9%`；股数较上季小幅增加约 `7.9%`。在 Baker 框架里，这更像 AI 巨头相对估值和平台位置的重新分类：同样投入模型与算力的公司，市场是否给出了互相矛盾的收入和利润假设。
+
+但这只是公开普通股切片。Atreides 同时使用指数 PUT 和个股 CALL，不能把 Alphabet 新仓单独外推成完整组合方向。
+
 ## 分歧与共识
 
-五个人都承认 Alphabet 很强，但各自的进入语言不同：阿克曼看 `AI 恐慌下的错误重描述`，安德森看 `平台吸值能力与认知迟到`，米勒看 `重仓候选中的未来价值赔率`，尼格伦看 `价值增长 vs 倍数扩张`，Rochon 看 `AI 叙事背后的 owner earnings`。
+不同投资人的进入语言并不相同：阿克曼看 `AI 恐慌下的错误重描述`，安德森看 `平台吸值能力与认知迟到`，米勒看 `重仓候选中的未来价值赔率`，尼格伦看 `价值增长 vs 倍数扩张`，Rochon 看 `AI 叙事背后的 owner earnings`，Baker 则看 AI 巨头之间的相对分类和估值一致性。
 
 ## 相关页面
 
@@ -53,6 +59,7 @@ Appaloosa 的 `GOOG` 更像可切换平台腿。[13F趋势-Appaloosa](/investor-
 - [比尔·尼格伦](/investor-masters/investors/bill-nygren/)
 - [弗朗索瓦·罗雄](/investor-masters/investors/francois-rochon/)
 - [大卫·泰珀](/investor-masters/investors/david-tepper/)
+- [加文·贝克](/investor-masters/investors/gavin-baker/)
 - [所有者收益](/investor-masters/concepts/owners-earnings/)
 - [永久复利 vs 七年价值重估](/investor-masters/dialogues/permanent-compounding-vs-seven-year-revaluation/)
 - [微软](/investor-masters/companies/microsoft/)

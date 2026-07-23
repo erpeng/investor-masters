@@ -1,10 +1,10 @@
 ---
-title: "Renaissance Technologies｜官网与机构定位"
+title: "Pat Dorsey｜Manual of Ideas 护城河访谈组"
 slug: "sources/source-60"
 description: "原始材料来源页。"
 ---
 
-**原文件名**: `Renaissance Technologies｜官网与机构定位.md`  
+**原文件名**: `Pat Dorsey｜Manual of Ideas 护城河访谈组.md`  
 
 
 ## 摘要
@@ -13,4 +13,4 @@ description: "原始材料来源页。"
 
 ## 节选
 
-Renaissance Technologies 官网用于确认机构事实和自我定位：这是一家由科学家、数学家、工程师和研究者驱动的系统化投资机构，而不是传统主观选股平台。
+这组材料覆盖 2012 和 2014 年 Pat Dorsey 与 Manual of Ideas / MOI Global 的访谈。它是理解 Dorsey 护城河方法从 Morningstar 框架走向资产管理实践的主干访谈。

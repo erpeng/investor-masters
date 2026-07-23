@@ -1,10 +1,11 @@
 ---
-title: "Yale News｜David Swensen讣闻与35年业绩"
+title: "Value Investor Insight｜弗朗索瓦·罗雄：Crème de la Crème"
 slug: "sources/source-85"
 description: "原始材料来源页。"
 ---
 
-**原文件名**: `Yale News｜David Swensen讣闻与35年业绩.md`  
+**原文件名**: `Value Investor Insight｜弗朗索瓦·罗雄：Crème de la Crème.md`  
+**外部来源**: Value Investor Insight
 
 
 ## 摘要
@@ -13,4 +14,4 @@ description: "原始材料来源页。"
 
 ## 节选
 
-Yale News 对 David Swensen 的官方讣闻，是史文森人物页的履历、制度贡献和长期业绩主锚点。
+这是 Rochon 早期公开方法材料之一，价值在于把 `买顶级企业、用合理价格、长期持有` 的框架落实到公司样本和错误复盘上。

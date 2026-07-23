@@ -1,17 +1,18 @@
 ---
-title: "原文｜Edison｜尼克·特雷恩：Lindsell Train 的长期持有方法"
+title: "卓越投资永远来自卓越判断！霍华德·马克斯内部对话，细谈当下做投资选择时最关键的要素"
 slug: "sources/source-101"
-description: "从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML。"
+description: "每一笔投资都必须审慎选择"
 ---
 
-**原文件名**: `原文｜Edison｜尼克·特雷恩：Lindsell Train 的长期持有方法.md`  
-**外部来源**: https://www.edisongroup.com/edison-tv/lindsell-train-fund-manager-interview-with-nick-train/27489/
+**原文件名**: `卓越投资永远来自卓越判断！霍华德·马克斯内部对话，细谈当下做投资选择时最关键的要素.md`  
+**外部来源**: https://mp.weixin.qq.com/s/8lqBPHIJia08kSnrDns7JQ
 
+**时间**: 2026年3月16日 15:31
 
 ## 摘要
 
-从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML。
+每一笔投资都必须审慎选择
 
 ## 节选
 
-- 对应整理稿：[[现有资料/Edison｜尼克·特雷恩：Lindsell Train 的长期持有方法.md]] - 抓取时间：`2026-04-20` - 抽取方式：`HTML` - 原始域名：`www.edisongroup.com`
+因为很多核心的投资想法，霍华德 ·马克斯已经讲了很多遍，但每一次，不同的情景下，确实又有不同的共鸣点。

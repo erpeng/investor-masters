@@ -64,7 +64,7 @@ description: "把现代无形资产、七年估值和卖出纪律接回价值投
 
   > “你可以把它理解为，我们看的是‘Oakmark会计’，而不只是照着GAAP会计去看。”
   >
-  > ——来源：[2.5万字｜比尔·尼格伦最新长谈，一位25年长期跑赢大盘的传奇投资人，如何与时俱进的价值投资……已付费](/investor-masters/sources/source-03/)
+  > ——来源：[2.5万字｜比尔·尼格伦最新长谈，一位25年长期跑赢大盘的传奇投资人，如何与时俱进的价值投资……已付费](/investor-masters/sources/source-04/)
 
 - `最爱把问题压回哪一层`: 他总把问题压回可排序的企业价值，而不是抽象风格标签。
 
@@ -126,7 +126,7 @@ description: "把现代无形资产、七年估值和卖出纪律接回价值投
 
 ### 一手来源
 
-- [2.5万字｜比尔·尼格伦最新长谈，一位25年长期跑赢大盘的传奇投资人，如何与时俱进的价值投资……已付费](/investor-masters/sources/source-03/)
+- [2.5万字｜比尔·尼格伦最新长谈，一位25年长期跑赢大盘的传奇投资人，如何与时俱进的价值投资……已付费](/investor-masters/sources/source-04/)
 - [The Synopsis / Apple Podcasts: Interview. Bill Nygren on 25 Years of Beating the Market](https://podcasts.apple.com/us/podcast/interview-bill-nygren-on-25-years-of-beating-the-market/id1699073398?i=1000756827196)
 - [Podscan transcript metadata](https://podscan.fm/podcasts/the-synopsis/episodes/interview-bill-nygren-on-25-years-of-beating-the-market)
 

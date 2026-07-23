@@ -1,19 +1,17 @@
 ---
-title: "Ted Weschler-2022-Q&A-Podcast（NFM）"
+title: "TIFF｜塞思·卡拉曼：价值投资问答节选"
 slug: "sources/source-76"
-description: "Greg Abel（实体业务-大方向资本配置）、Ajt Jain（保险业务）、Ted Weschler（证券投资）的三剑客组合已正式确立"
+description: "依据 ValueWalk 对 TIFF 2009 问答的公开介绍，整理塞思·卡拉曼在危机后价值投资语境中的补充定位。"
 ---
 
-**原文件名**: `Ted Weschler-2022-Q&A-Podcast（NFM）.md`  
-**外部来源**: https://mp.weixin.qq.com/s/kd-BqzgbpG8D21VCwFIRiQ
+**原文件名**: `TIFF｜塞思·卡拉曼：价值投资问答节选.md`  
+**外部来源**: https://www.valuewalk.com/seth-klarman-speech-tiff-2009-on-value-investing-full-transcript/
 
-**作者**: 原创 臧文浩  
-**时间**: 2025年12月9日 12:29
 
 ## 摘要
 
-Greg Abel（实体业务-大方向资本配置）、Ajt Jain（保险业务）、Ted Weschler（证券投资）的三剑客组合已正式确立
+依据 ValueWalk 对 TIFF 2009 问答的公开介绍，整理塞思·卡拉曼在危机后价值投资语境中的补充定位。
 
 ## 节选
 
-BRK昨日官宣人事调整，引人注目的是Todd Combs（2011-2025）离开加入JPMorgan，原因众说纷纭。但结果是清晰明朗的：
+> 整理说明： > 页面公开可见部分只给出访谈背景说明，并提示完整文件嵌在外部文档中；当前未能直接读取完整 transcript。因此本页只保留页面明确说明的信息，用作来源登记与边界说明，不把不可见内容硬扩写。

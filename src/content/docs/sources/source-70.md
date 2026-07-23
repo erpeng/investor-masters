@@ -1,10 +1,10 @@
 ---
-title: "Simons Foundation｜五条原则与量化遗产"
+title: "SEC｜Dorsey Asset Management：2023-2026 13F持仓轨迹"
 slug: "sources/source-70"
 description: "原始材料来源页。"
 ---
 
-**原文件名**: `Simons Foundation｜五条原则与量化遗产.md`  
+**原文件名**: `SEC｜Dorsey Asset Management：2023-2026 13F持仓轨迹.md`  
 
 
 ## 摘要
@@ -13,4 +13,4 @@ description: "原始材料来源页。"
 
 ## 节选
 
-Simons 公开演讲与 Simons Foundation 材料中反复出现的几条原则，用来补足人物页的“可迁移部分”：做新事、与优秀伙伴合作、被美驱动、坚持、把好运转化为机构。
+这是 Dorsey Asset Management, LLC 的 SEC 13F 公开持仓轨迹。CIK 为 `0001671657`。本轮覆盖 `2023Q1-2026Q1`，并用 `2022Q4` 作为前置季计算 `2023Q1` 变化。

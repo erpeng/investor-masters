@@ -1,18 +1,18 @@
 ---
-title: "最新对话！霍华德·马克斯vs最大主权基金掌门：如何判断决策的质量"
+title: "执掌1.3万亿美元的尼古拉·坦根最新对话，揭秘全球最大主权财富基金的运营与理念"
 slug: "sources/source-122"
-description: "美股处于周期的中间位置……"
+description: "高质量的投资很重要"
 ---
 
-**原文件名**: `最新对话！霍华德·马克斯vs最大主权基金掌门：如何判断决策的质量.md`  
-**外部来源**: https://mp.weixin.qq.com/s/S01HNPGBIxBL6jZcrjLCkw
+**原文件名**: `执掌1.3万亿美元的尼古拉·坦根最新对话，揭秘全球最大主权财富基金的运营与理念.md`  
+**外部来源**: https://mp.weixin.qq.com/s?__biz=MzA4NTQ1MzEyNQ==&mid=2663487870&idx=1&sn=1846695e91bcf27d3f36e9081cbe80bc&scene=21&poc_token=HKUR2WmjxPQ_CzhXZZS1g9a55J0bOIxCA7QSK9ic
 
-**时间**: 2024年6月14日 11:37
+**时间**: 2023年12月27日 15:00
 
 ## 摘要
 
-美股处于周期的中间位置……
+高质量的投资很重要
 
 ## 节选
 
-2、人们最常犯的错误是什么？就是大家总以为，一旦市场朝着一个方向发展，它就会一直这样发展下去；
+尼古拉·坦根（Nicolai Tangen）是挪威央行投资管理公司（Norges Bank Investment Management）的首席执行官，负责管理运营全球最大的主权财富基金—— 规模1.3万亿美元的挪威主权财富基金 。

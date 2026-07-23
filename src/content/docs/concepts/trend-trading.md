@@ -32,6 +32,7 @@ PTJ 的版本恰好同时反对这两种。没有趋势不该重拳，没有预�
 
 ## 相关概念
 
+- [催化剂与兑现路径](/investor-masters/concepts/catalysts-and-realization-paths/)
 - [反脆弱与仓位管理](/investor-masters/concepts/antifragility-and-position-sizing/)
 - [判断力](/investor-masters/concepts/judgment/)
 - [变化驱动投资](/investor-masters/concepts/investing-behind-change/)
@@ -41,5 +42,5 @@ PTJ 的版本恰好同时反对这两种。没有趋势不该重拳，没有预�
 
 ## 主要来源
 
-- [深度翻译  传奇交易员保罗·都铎·琼斯谈AI风险、泡沫与巴菲特](/investor-masters/sources/source-130/)
+- [深度翻译  传奇交易员保罗·都铎·琼斯谈AI风险、泡沫与巴菲特](/investor-masters/sources/source-135/)
 - [Colossus / Invest Like the Best: You Retire, You Die](https://colossus.com/episode/you-retire-you-die/)

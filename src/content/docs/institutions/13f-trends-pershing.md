@@ -364,4 +364,4 @@ Pershing 的核心不是“买便宜股票”，而是把少数公司变成可�
 - [SEC 13F Q1 2023 filing detail](https://www.sec.gov/Archives/edgar/data/1336528/000117266123002303/0001172661-23-002303-index.html)
 - [比尔·阿克曼](/investor-masters/investors/bill-ackman/)
 - [Pershing Square](/investor-masters/institutions/pershing-square/)
-- [3.2万字｜潘兴广场比尔·阿克曼最有价值的一场对话，深谈价值投资、核心战役以及如何从人生谷底“爬坑”……](/investor-masters/sources/source-09/)
+- [3.2万字｜潘兴广场比尔·阿克曼最有价值的一场对话，深谈价值投资、核心战役以及如何从人生谷底“爬坑”……](/investor-masters/sources/source-10/)

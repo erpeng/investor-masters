@@ -24,15 +24,15 @@ description: "把高现金、逆向纪律与耐心资本写成机构宪法的人
 
 > “我们的价值投资方法，是不断问自己：我们究竟能够确定的是什么？”
 >
-> ——来源：[44年只有5年亏过！“安全边际之父”卡拉曼罕见对话，谈及错失Palantir百亿机会、如何参与AI以及当下投资的三个原则](/investor-masters/sources/source-10/)
+> ——来源：[44年只有5年亏过！“安全边际之父”卡拉曼罕见对话，谈及错失Palantir百亿机会、如何参与AI以及当下投资的三个原则](/investor-masters/sources/source-11/)
 
 > “归根到底，能不能睡个安稳觉比什么都重要。”
 >
-> ——来源：[“安全边际大师”卡拉曼MIT经典演讲：要有健康的投资纪律，能不能睡个安稳觉比什么都重要……](/investor-masters/sources/source-86/)
+> ——来源：[“安全边际大师”卡拉曼MIT经典演讲：要有健康的投资纪律，能不能睡个安稳觉比什么都重要……](/investor-masters/sources/source-90/)
 
 > “便宜本身，并不是一种策略。”
 >
-> ——来源：[2万字｜传奇价值投资者赛斯·卡拉曼深度对话：他人被迫交易时，要有能力抓住机会已付费](/investor-masters/sources/source-08/)
+> ——来源：[2万字｜传奇价值投资者赛斯·卡拉曼深度对话：他人被迫交易时，要有能力抓住机会已付费](/investor-masters/sources/source-09/)
 
 > 验证卡：Bloomberg 在 `2010` 年对 Seth Klarman 的人物报道里直接写到，Baupost 自 `1983` 年以来净年化回报约 `19%`，显著高于同期标普 `500`。这很重要，因为它说明 Baupost 不是只靠“谨慎”活着，而是真把谨慎转成了长期复利。依据：[Bloomberg, The Financial Life: Seth Klarman](https://www.bloomberg.com/news/articles/2010-06-17/the-financial-life-seth-klarman)。
 
@@ -142,12 +142,12 @@ MIT 演讲里的“能不能睡个安稳觉”不是鸡汤，而是风险预算�
 
 ## 主要来源
 
-- [Value Investing with Legends｜塞思·卡拉曼：逆向纪律、耐心资本与 Baupost](/investor-masters/sources/source-80/)
-- [Harvard Business School｜塞思·卡拉曼：危机中的 Baupost 与价值纪律](/investor-masters/sources/source-50/)
-- [TIFF｜塞思·卡拉曼：价值投资问答节选](/investor-masters/sources/source-73/)
-- [“安全边际大师”卡拉曼MIT经典演讲：要有健康的投资纪律，能不能睡个安稳觉比什么都重要……](/investor-masters/sources/source-86/)
-- [44年只有5年亏过！“安全边际之父”卡拉曼罕见对话，谈及错失Palantir百亿机会、如何参与AI以及当下投资的三个原则](/investor-masters/sources/source-10/)
-- [2万字｜传奇价值投资者赛斯·卡拉曼深度对话：他人被迫交易时，要有能力抓住机会已付费](/investor-masters/sources/source-08/)
+- [Value Investing with Legends｜塞思·卡拉曼：逆向纪律、耐心资本与 Baupost](/investor-masters/sources/source-83/)
+- [Harvard Business School｜塞思·卡拉曼：危机中的 Baupost 与价值纪律](/investor-masters/sources/source-52/)
+- [TIFF｜塞思·卡拉曼：价值投资问答节选](/investor-masters/sources/source-76/)
+- [“安全边际大师”卡拉曼MIT经典演讲：要有健康的投资纪律，能不能睡个安稳觉比什么都重要……](/investor-masters/sources/source-90/)
+- [44年只有5年亏过！“安全边际之父”卡拉曼罕见对话，谈及错失Palantir百亿机会、如何参与AI以及当下投资的三个原则](/investor-masters/sources/source-11/)
+- [2万字｜传奇价值投资者赛斯·卡拉曼深度对话：他人被迫交易时，要有能力抓住机会已付费](/investor-masters/sources/source-09/)
 - 塞思·卡拉曼-MIT安全边际演讲-source-audit
 - 塞思·卡拉曼-CNBC-AI与安全边际访谈-source-audit
 - 塞思·卡拉曼-Ritholtz-Masters-in-Business-2026访谈-source-audit

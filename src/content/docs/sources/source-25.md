@@ -1,10 +1,10 @@
 ---
-title: "CNBC｜Appaloosa：2019-family-office转型"
+title: "CFA Institute｜The Man Who Solved the Market书评"
 slug: "sources/source-25"
 description: "原始材料来源页。"
 ---
 
-**原文件名**: `CNBC｜Appaloosa：2019-family-office转型.md`  
+**原文件名**: `CFA Institute｜The Man Who Solved the Market书评.md`  
 
 
 ## 摘要
@@ -13,4 +13,4 @@ description: "原始材料来源页。"
 
 ## 节选
 
-这条不是访谈，但对 Appaloosa 机构页很关键。它说明 Appaloosa 从传统外部资本 hedge fund 逐步转向更接近 family office 的资本结构，这会改变时间压力、赎回压力和仓位自由度。
+CFA Institute 对 Gregory Zuckerman《The Man Who Solved the Market》的书评，用于交叉验证 Simons / Renaissance 的公开业绩口径、组织特征和方法边界。

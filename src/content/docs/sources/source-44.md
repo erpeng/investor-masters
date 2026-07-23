@@ -1,17 +1,17 @@
 ---
-title: "Compounding Quality｜弗朗索瓦·罗雄：所有者收益、错误榜单与质量投资"
+title: "Colossus｜史蒂芬·曼德尔：顺着变化下注"
 slug: "sources/source-44"
-description: "原始材料来源页。"
+description: "史蒂芬·曼德尔谈投资行业如何变化、为什么做空更难、为什么仍要深入企业内部，以及 Lone Pine 如何围绕变化建立研究优势。"
 ---
 
-**原文件名**: `Compounding Quality｜弗朗索瓦·罗雄：所有者收益、错误榜单与质量投资.md`  
-**外部来源**: Compounding Quality
+**原文件名**: `Colossus｜史蒂芬·曼德尔：顺着变化下注.md`  
+**外部来源**: https://joincolossus.com/episode/mandel-investing-behind-change/
 
 
 ## 摘要
 
-原始材料来源页。
+史蒂芬·曼德尔谈投资行业如何变化、为什么做空更难、为什么仍要深入企业内部，以及 Lone Pine 如何围绕变化建立研究优势。
 
 ## 节选
 
-这篇访谈最适合补 Rochon 的方法细节：他怎样定义好公司、怎样用所有者收益替代会计利润、怎样区分买错和错过，以及为什么长期复利需要性格保护。
+> 整理说明： > 本页依据 Colossus 节目页、公开节目简介、可见 transcript 开头与公开 show notes 整理而成。 > 这不是官方完整逐字稿，但核心主题与判断均来自官方节目页和公开可核验摘要。

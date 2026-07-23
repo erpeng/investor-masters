@@ -1,10 +1,10 @@
 ---
-title: "Coatue｜Thomas Laffont：2026 Upfront AI公开私募市场"
+title: "Coatue｜Philippe Laffont：CNBC 2025 AI与Fantastic 40访谈"
 slug: "sources/source-40"
 description: "原始材料来源页。"
 ---
 
-**原文件名**: `Coatue｜Thomas Laffont：2026 Upfront AI公开私募市场.md`  
+**原文件名**: `Coatue｜Philippe Laffont：CNBC 2025 AI与Fantastic 40访谈.md`  
 
 
 ## 摘要
@@ -13,4 +13,4 @@ description: "原始材料来源页。"
 
 ## 节选
 
-Thomas Laffont 的公开访谈用于补足 Coatue 在 AI、公开市场和私募市场之间的观察方式。它更像机构网络证据，不是 Philippe Laffont 个人方法的替代。
+这条官方转载材料承担 Philippe Laffont 近年公开方法口径：AI 不是孤立主题，而是重写软件、基础设施、生产率和企业竞争格局的长期变化。

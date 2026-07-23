@@ -1,18 +1,17 @@
 ---
-title: "如何看待高成长与经典价值？柏基“传奇基金经理”詹姆斯·安德森2019年深度撰文"
+title: "原文｜Stanford GSB｜肯·格里芬：投资、竞争与未来"
 slug: "sources/source-112"
-description: "两者间的分歧没有看起来那么大"
+description: "从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML。"
 ---
 
-**原文件名**: `如何看待高成长与经典价值？柏基“传奇基金经理”詹姆斯·安德森2019年深度撰文.md`  
-**外部来源**: https://mp.weixin.qq.com/s/0K_Lxv69-s7mjIb414M54g
+**原文件名**: `原文｜Stanford GSB｜肯·格里芬：投资、竞争与未来.md`  
+**外部来源**: https://www.gsb.stanford.edu/insights/ken-griffin-investing-winning-why-hes-focused-future
 
-**时间**: 2025年12月2日 15:02
 
 ## 摘要
 
-两者间的分歧没有看起来那么大
+从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML。
 
 ## 节选
 
-素有 “世界级伟大公司收集者”之称的 詹姆斯 ·安德森 在 2019年亲笔撰写的一篇雄文——《格雷厄姆还是增长？》 （ Graham or Growth?）
+- 对应整理稿：[[现有资料/Stanford GSB｜肯·格里芬：投资、竞争与未来.md]] - 抓取时间：`2026-04-20` - 抽取方式：`HTML` - 原始域名：`www.gsb.stanford.edu`

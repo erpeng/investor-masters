@@ -1,17 +1,17 @@
 ---
-title: "Value Investing with Legends｜塞思·卡拉曼：逆向纪律、耐心资本与 Baupost"
+title: "The Value Perspective｜尼克·特雷恩：长期概率、英国市场与质量识别"
 slug: "sources/source-80"
-description: "依据 Value Investing with Legends 官方节目简介与公开可见 topic 列表，整理塞思·卡拉曼关于市场低效、逆向纪律、跨资产评估、耐心资本与 AI 的最新系统表达。"
+description: "依据 The Value Perspective 公开节目简介，整理 Nick Train 对长期概率、英国市场变化与 quality 识别的最新表达。"
 ---
 
-**原文件名**: `Value Investing with Legends｜塞思·卡拉曼：逆向纪律、耐心资本与 Baupost.md`  
-**外部来源**: https://valueinvestingwithlegends.libsyn.com/seth-klarman-contrarian-investing-discipline-and-building-baupost
+**原文件名**: `The Value Perspective｜尼克·特雷恩：长期概率、英国市场与质量识别.md`  
+**外部来源**: https://schroderstvp.podbean.com/e/the-value-perspective-with-nick-train/
 
 
 ## 摘要
 
-依据 Value Investing with Legends 官方节目简介与公开可见 topic 列表，整理塞思·卡拉曼关于市场低效、逆向纪律、跨资产评估、耐心资本与 AI 的最新系统表达。
+依据 The Value Perspective 公开节目简介，整理 Nick Train 对长期概率、英国市场变化与 quality 识别的最新表达。
 
 ## 节选
 
-> 整理说明： > 本页依据节目官方简介与公开可见 key topics 整理。官方页面未公开完整 transcript，因此这里只保留节目简介明确给出的主题与结构，不假装掌握逐字内容。
+> 整理说明： > 本页依据节目官方简介与公开可见主题整理。当前公开页面未提供完整 transcript，因此这里只保留页面明确给出的结构性信息，不伪造逐字对话。

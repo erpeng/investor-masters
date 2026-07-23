@@ -404,4 +404,4 @@ Oakmark 的价值框架不是“PE 低就买”。它要买的是市场价格低
 - [Oakmark会计](/investor-masters/concepts/oakmark-accounting/)
 - [时间套利](/investor-masters/concepts/time-arbitrage/)
 - [永久复利 vs 七年价值重估](/investor-masters/dialogues/permanent-compounding-vs-seven-year-revaluation/)
-- [2.5万字｜比尔·尼格伦最新长谈，一位25年长期跑赢大盘的传奇投资人，如何与时俱进的价值投资……已付费](/investor-masters/sources/source-03/)
+- [2.5万字｜比尔·尼格伦最新长谈，一位25年长期跑赢大盘的传奇投资人，如何与时俱进的价值投资……已付费](/investor-masters/sources/source-04/)

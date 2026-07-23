@@ -65,6 +65,7 @@ description: "从人物、约束和边界切入理解不同投资方法。"
 | [迈克尔·洛温斯坦与托马斯·科尔曼](/investor-masters/investors/michael-lowenstein-thomas-coleman/) | 低公开曝光、组合型证据、允许赢家改变形状 | 高 | 1-5年/赢家延长 | 中 | 质量成长 / 基本面集中 | [Kensico Capital Management](/investor-masters/institutions/kensico-capital-management/) | 未公开 | “推断：当公开话语很少时，连续 13F 行为比漂亮叙事更重要。” |
 | [菲利普·拉丰](/investor-masters/investors/philippe-laffont/) | 公私一体科技投资、AI stack、Tiger Cub 成长研究 | 高 | 1-5年/跨阶段 | 中高 | 成长 / 科技 / 公私一体 | [Coatue Management](/investor-masters/institutions/coatue-management/) | 部分公开 | “推断：技术变化要同时被私募网络、公开市场仓位和价值链瓶颈验证。” |
 | [布拉德·格斯特纳](/investor-masters/investors/brad-gerstner/) | 公私一体、幂律、AI 超级周期、股东纪律 | 极高 | 1-5年/跨阶段 | 中高 | 成长 / 科技 / 公私一体 | [Altimeter Capital](/investor-masters/institutions/altimeter-capital/) | 未公开 | “推断：supercycle 只有落到公开仓位、资本配置和赔率，才不是科技叙事。” |
+| [加文·贝克](/investor-masters/investors/gavin-baker/) | 物理瓶颈、错误分类、因子风险、快速纠错 | 策略依赖 | 1-5年/长期跟踪 | 中高 | 成长 / 科技 / long-short / 公私一体 | [Atreides Management](/investor-masters/institutions/atreides-management/) | 未公开 | “推断：技术叙事必须经过物理约束、相邻估值和组合相关性的共同审计。” |
 
 
 ## 全部投资人
@@ -84,6 +85,7 @@ description: "从人物、约束和边界切入理解不同投资方法。"
 - [帕特·多尔西](/investor-masters/investors/pat-dorsey/)
 - [菲利普·拉丰](/investor-masters/investors/philippe-laffont/)
 - [布拉德·格斯特纳](/investor-masters/investors/brad-gerstner/)
+- [加文·贝克](/investor-masters/investors/gavin-baker/)
 - [弗朗索瓦·罗雄](/investor-masters/investors/francois-rochon/)
 - [段永平](/investor-masters/investors/duan-yongping/)
 - [詹姆斯·安德森](/investor-masters/investors/james-anderson/)

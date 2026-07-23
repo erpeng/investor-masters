@@ -1,16 +1,17 @@
 ---
-title: "Coatue｜AI Is Expanding Across the Stack"
+title: "CNBC｜肯·格里芬：Citadel 总部首场电视长访谈"
 slug: "sources/source-36"
-description: "原始材料来源页。"
+description: "依据 CNBC 公开 transcript，整理 Ken Griffin 关于人才密度、delegation、Citadel 的多策略平台与 depth-not-breadth 的早期官方表达。"
 ---
 
-**原文件名**: `Coatue｜AI Is Expanding Across the Stack.md`  
+**原文件名**: `CNBC｜肯·格里芬：Citadel 总部首场电视长访谈.md`  
+**外部来源**: https://www.cnbc.com/2015/11/19/cnbc-exclusive-cnbc-transcript-citadel-founder-ceo-ken-griffin-speaks-with-cnbcs-kate-kelly-on-squawk-on-the-street-today.html
 
 
 ## 摘要
 
-原始材料来源页。
+依据 CNBC 公开 transcript，整理 Ken Griffin 关于人才密度、delegation、Citadel 的多策略平台与 depth-not-breadth 的早期官方表达。
 
 ## 节选
 
-这条 Coatue perspective 用来支撑“沿 AI stack 读机会”的方法，而不是把 Coatue 简化成单一 AI 主题买家。
+- `主角`：肯·格里芬（Ken Griffin） - `场景`：CNBC / Citadel 总部首场电视访谈 - `时间`：`2015-11-19` - `核心价值`：这篇是理解 Citadel 如何从个人交易者长成平台机构的关键老材料。

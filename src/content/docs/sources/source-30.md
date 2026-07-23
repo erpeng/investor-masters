@@ -1,10 +1,10 @@
 ---
-title: "CNBC｜David Tepper：2022全球央行紧缩与leaning-short"
+title: "CNBC｜David Tepper：2018 CMU长访谈"
 slug: "sources/source-30"
 description: "原始材料来源页。"
 ---
 
-**原文件名**: `CNBC｜David Tepper：2022全球央行紧缩与leaning-short.md`  
+**原文件名**: `CNBC｜David Tepper：2018 CMU长访谈.md`  
 
 
 ## 摘要
@@ -13,4 +13,4 @@ description: "原始材料来源页。"
 
 ## 节选
 
-这条材料是 2010 的反面镜像。2010 年的核心是宽松与政策托底，2022 年则是全球央行收紧、流动性撤退、估值和盈利预期承压。它证明 Tepper 的核心不是多头偏见，而是跟随政策/流动性反应函数切换仓位。
+- CNBC transcript, Scott Wapner interview at Carnegie Mellon University, 2018-09-13 - 主角：David Tepper, Appaloosa Management

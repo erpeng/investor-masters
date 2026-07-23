@@ -15,11 +15,13 @@ Baillie Gifford 这边更克制，也更拆链。[劳伦斯·伯恩斯](/investo
 
 Druckenmiller 的语法又更短。他未必要完整画出价值链，也不一定要像 Cathie 那样押整个平台收敛。他真正擅长的是，当趋势已经足够大、而市场还没完全跟上时，先抓住最硬的承接者。[英伟达](/investor-masters/companies/nvidia/) 在他那里几乎就是范本：不是因为他最懂 GPU，而是因为他足够快地意识到，真正重要的是 AI 浪潮本身，以及哪家公司最先直接承接这轮资本开支。他的赢家语法更像 `趋势确认 -> 找最硬承接腿 -> sizing`。
 
+[加文·贝克](/investor-masters/investors/gavin-baker/) 的语法更像“先找系统的流量阀”。他不只问谁最终拿走价值，而是问哪一个物理约束正在控制泡沫形成速度：电力够不够、晶圆由谁扩、设备是否满载、建设由现金流还是债务融资。TSMC 产能纪律在这里不是公司推荐，而是整个 AI 资本开支系统的状态变量。瓶颈若保持，过度建设被推迟；瓶颈若突然解除，赢家也可能先经历供给过剩。
+
 ## 为什么这组对照重要
 
 这组对照最重要的地方，是它逼你承认：就算你也相信技术浪潮是真的，下注方式仍然完全可能错。你可以因为只押最终平台赢家而错过先吃掉大部分利润的瓶颈层；也可以因为只盯瓶颈而错过后来把价值继续往上游或平台层重新集中的资产；还可以因为非要等自己“全懂了”才动手，而错过 Druckenmiller 式那种先参与再放大的窗口。
 
-把这三种赢家语法放到一张桌子上，你会更清楚自己到底更擅长哪一种。你是更会读平台收敛后的价值汇聚，还是更会拆价值链找卡位者，还是更会在方向足够大时先抓最硬的承接腿？这不是风格标签，而是下注单位和错误偏好的差别。
+把这四种赢家语法放到一张桌子上，你会更清楚自己到底更擅长哪一种。你是更会读平台收敛后的价值汇聚，更会拆价值链找卡位者，更会在方向足够大时先抓最硬的承接腿，还是更会追踪控制扩产速度的系统阀门？这不是风格标签，而是下注单位和错误偏好的差别。
 
 ## 相关页面
 
@@ -27,8 +29,10 @@ Druckenmiller 的语法又更短。他未必要完整画出价值链，也不一
 - [汤姆·斯莱特](/investor-masters/investors/tom-slater/)
 - [劳伦斯·伯恩斯](/investor-masters/investors/lawrence-burns/)
 - [斯坦利·德鲁肯米勒](/investor-masters/investors/stanley-druckenmiller/)
+- [加文·贝克](/investor-masters/investors/gavin-baker/)
 - [特斯拉](/investor-masters/companies/tesla/)
 - [SpaceX](/investor-masters/companies/spacex/)
 - [英伟达](/investor-masters/companies/nvidia/)
 - [Palantir](/investor-masters/companies/palantir/)
 - [超级赢家](/investor-masters/concepts/super-winners/)
+- [物理瓶颈](/investor-masters/concepts/physical-bottlenecks/)

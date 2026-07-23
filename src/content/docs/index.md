@@ -20,6 +20,7 @@ description: "把分散的投资访谈、合伙人信和机构材料，编译成
 - **我想了解量化与机器信号**: [吉姆·西蒙斯](/investor-masters/investors/jim-simons/)、[Renaissance Technologies](/investor-masters/institutions/renaissance-technologies/)、[量化信号工厂](/investor-masters/concepts/quantitative-signal-factory/)
 - **我想了解长钱资产配置**: [大卫·史文森](/investor-masters/investors/david-swensen/)、[Yale Investments Office](/investor-masters/institutions/yale-investments-office/)、[耶鲁模式](/investor-masters/concepts/yale-model/)
 - **我想看最不寻常的思维**: [尼克·斯利普](/investor-masters/investors/nick-sleep/)、[尼科莱·坦根](/investor-masters/investors/nicolai-tangen/)、[纳瓦尔·拉维坎特](/investor-masters/investors/naval-ravikant/)
+- **我想理解价值为什么会兑现**: [催化剂与兑现路径](/investor-masters/concepts/catalysts-and-realization-paths/) → [事件驱动](/investor-masters/concepts/event-driven/) / [趋势交易](/investor-masters/concepts/trend-trading/) / [政策反应函数](/investor-masters/concepts/policy-reaction-function/) / [好生意自己是催化剂 vs 价值需要被推动](/investor-masters/dialogues/business-itself-vs-value-needs-pushing/)
 - **我想直接从方法分歧读进去**: [不懂不碰 vs 未来信息才重要](/investor-masters/dialogues/certainty-vs-future/)、[方向判断正确 vs 交易结构正确](/investor-masters/dialogues/direction-right-vs-structure-right/)、[质量价值 vs 成长非共识](/investor-masters/dialogues/quality-vs-growth/)、[静态护城河 vs 再投资跑道](/investor-masters/dialogues/static-moat-vs-reinvestment-runway/)、[分散化风控 vs 幂律风控](/investor-masters/dialogues/diversification-vs-power-law-risk/)、[审计式质量 vs 艺术式质量](/investor-masters/dialogues/audit-quality-vs-art-quality/)、[政策底 vs 估值底](/investor-masters/dialogues/policy-put-vs-valuation-floor/)、[保守的风险语言 vs 激进的仓位语言](/investor-masters/dialogues/risk-and-conviction/)、[复利信仰 vs 流动性信仰](/investor-masters/dialogues/compound-faith-vs-liquidity-faith/)、[永久复利 vs 七年价值重估](/investor-masters/dialogues/permanent-compounding-vs-seven-year-revaluation/)、[少犯错游戏 vs 多赢家游戏](/investor-masters/dialogues/fewer-losers-vs-more-winners/)
 - **我想沿 Berkshire 这一支往下读**: [Berkshire Hathaway](/investor-masters/institutions/berkshire-hathaway/) → [伯克希尔·哈撒韦](/investor-masters/companies/berkshire-hathaway/) / [GEICO](/investor-masters/companies/geico/) → [护城河](/investor-masters/concepts/moat/) / [能力圈](/investor-masters/concepts/circle-of-competence/) / [反脆弱与仓位管理](/investor-masters/concepts/antifragility-and-position-sizing/) → [静态能力圈 vs 可审计能力圈](/investor-masters/dialogues/static-vs-auditable-circle/) / [交易型反脆弱 vs 资本结构型反脆弱](/investor-masters/dialogues/trading-vs-capital-structure-antifragility/)
 - **我想直接从最近提纯过的公司样本读**: [RELX](/investor-masters/companies/relx/)、[Sage](/investor-masters/companies/sage/)、[PG&E](/investor-masters/companies/pge/)、[Brookfield](/investor-masters/companies/brookfield/)、[Apollo](/investor-masters/companies/apollo/)、[Heineken](/investor-masters/companies/heineken/)
@@ -28,13 +29,13 @@ description: "把分散的投资访谈、合伙人信和机构材料，编译成
 
 ## 精选语录墙
 
-> “我们在投资决策上完全搞砸了——因为我们当时过于执着于‘等系统化完再行动’。”
+> “我们更看重的是每股盈利增长、每股企业价值增长、投入资本回报率，而不只是利润总额。”
 
-> “我们被自己的系统‘紧身衣’困住了。”
+> “你所掌握的关于任何企业的100%信息都来自过去，而该企业的100%价值却取决于未来。”
 
-> “我们始终看的，是伯克希尔旗下每一家公司的经济前景，而且是从长期角度去看。”
+> “如果你要建立优势，你必须看得比市场更远。”
 
-> “我们在配置资本时，始终会看三大方向。”
+> “很多人会止步于‘估值太高’‘市盈率太贵’，可比尔不会。他会去寻找真正的原因。”
 
 ## 对话与争议
 
@@ -60,11 +61,11 @@ description: "把分散的投资访谈、合伙人信和机构材料，编译成
 
 ## 最近更新
 
+- `2026-07-23` 建立 Gavin Baker / Atreides 完整专题包
 - `2026-06-26` 补入卡拉曼 Masters in Business 长访谈
+- `2026-06-26` 新增催化剂与兑现路径概念
 - `2026-06-17` 吸收 Klarman MIT 演讲与 AI 时代长访谈
 - `2026-06-16` 按新标准重生成 Coatue 13F 趋势页
 - `2026-06-13` 用最新长访谈重写 Dan Loeb 的三十年演化
 - `2026-06-12` 新增 Third Point 单机构 13F 趋势页
 - `2026-06-12` 补入机器信号与长钱资产配置两条缺口
-- `2026-06-08` 修复新人物页站点栏目缺失
-- `2026-06-08` 新增 Brad Gerstner / Altimeter Capital 投资大师专题包

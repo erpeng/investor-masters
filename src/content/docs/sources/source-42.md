@@ -1,17 +1,16 @@
 ---
-title: "Colossus｜史蒂芬·曼德尔：顺着变化下注"
+title: "Coatue｜Thomas Laffont：2026 Upfront AI公开私募市场"
 slug: "sources/source-42"
-description: "史蒂芬·曼德尔谈投资行业如何变化、为什么做空更难、为什么仍要深入企业内部，以及 Lone Pine 如何围绕变化建立研究优势。"
+description: "原始材料来源页。"
 ---
 
-**原文件名**: `Colossus｜史蒂芬·曼德尔：顺着变化下注.md`  
-**外部来源**: https://joincolossus.com/episode/mandel-investing-behind-change/
+**原文件名**: `Coatue｜Thomas Laffont：2026 Upfront AI公开私募市场.md`  
 
 
 ## 摘要
 
-史蒂芬·曼德尔谈投资行业如何变化、为什么做空更难、为什么仍要深入企业内部，以及 Lone Pine 如何围绕变化建立研究优势。
+原始材料来源页。
 
 ## 节选
 
-> 整理说明： > 本页依据 Colossus 节目页、公开节目简介、可见 transcript 开头与公开 show notes 整理而成。 > 这不是官方完整逐字稿，但核心主题与判断均来自官方节目页和公开可核验摘要。
+Thomas Laffont 的公开访谈用于补足 Coatue 在 AI、公开市场和私募市场之间的观察方式。它更像机构网络证据，不是 Philippe Laffont 个人方法的替代。

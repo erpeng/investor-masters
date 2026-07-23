@@ -33,7 +33,7 @@ Swensen 的贡献，是把 endowment management 从保守的股票债券组合�
 
 ## 主要来源
 
-- [Yale News｜David Swensen讣闻与35年业绩](/investor-masters/sources/source-85/)
-- [Yale Investments｜Endowment与Yale Model](/investor-masters/sources/source-83/)
-- [Yale Investments｜Partners与People](/investor-masters/sources/source-84/)
-- [David Swensen｜Pioneering Portfolio Management方法摘记](/investor-masters/sources/source-45/)
+- [Yale News｜David Swensen讣闻与35年业绩](/investor-masters/sources/source-88/)
+- [Yale Investments｜Endowment与Yale Model](/investor-masters/sources/source-86/)
+- [Yale Investments｜Partners与People](/investor-masters/sources/source-87/)
+- [David Swensen｜Pioneering Portfolio Management方法摘记](/investor-masters/sources/source-47/)

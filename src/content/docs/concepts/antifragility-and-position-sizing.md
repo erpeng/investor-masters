@@ -39,9 +39,14 @@ description: "反脆弱与仓位管理 在这批资料 里的最佳入口。"
 
 [大卫·泰珀](/investor-masters/investors/david-tepper/) 把这页补上另一种政策函数版本。对他来说，反脆弱不是永远留现金，也不是永远分散，而是当政策反应函数改变时，仓位必须能跟着资产价格分布一起改写。2010 年的风险资产多头、2022 年的 leaning short、2024 年的中国刺激交易，本质上是同一套动作的三个方向：政策和流动性给出不对称赔率时进攻，政策和流动性反向时收缩或翻到另一边。危险也在这里：如果普通投资人只复制 “buy everything” 口号，而没有 Appaloosa 那种快速撤退和工具化表达能力，所谓反脆弱会立刻变成脆弱。
 
+[加文·贝克](/investor-masters/investors/gavin-baker/) 又补了一种“性格 + 因子 + 纠错”的版本。他说“只要你在亏钱，你就是错了”，重点不是把价格当真理，而是先取消自我免责，再区分 thesis 被证伪和价格暂时背离。他也明确知道自己不容易早早恐慌，更容易在很晚时逆势加仓；这种性格如果不被流程约束，会把韧性变成固执。
+
+他的 Fidelity / Barra 训练还提醒：不同股票可能只是同一个因子的不同名字。组合看似分散，底层却一起暴露在科技、增长、动量或利率上；历史上有效的 long/short pairing，也可能因相关性重写而失效。因此反脆弱不只问单股仓位多大，还要问相关性是不是突然合并、对冲是否仍有意义、方向正确但时间错误时能不能活到兑现。
+
 ## 相关概念
 
 - [第二层思维](/investor-masters/concepts/second-level-thinking/)
+- [催化剂与兑现路径](/investor-masters/concepts/catalysts-and-realization-paths/)
 - [时间套利](/investor-masters/concepts/time-arbitrage/)
 - [空头视角](/investor-masters/concepts/short-perspective/)
 - [趋势交易](/investor-masters/concepts/trend-trading/)
@@ -60,18 +65,23 @@ description: "反脆弱与仓位管理 在这批资料 里的最佳入口。"
 
 ## 主要来源
 
-- [Druckenmiller深度解析（附中英对照）](/investor-masters/sources/source-47/)
-- [深度翻译  传奇交易员保罗·都铎·琼斯谈AI风险、泡沫与巴菲特](/investor-masters/sources/source-130/)
-- [关于耐心与杠杆！霍华德与摩根的最新对话：历史不会重演，但人类的行为却总是重复](/investor-masters/sources/source-95/)
-- [适合投资者反复听的思维方式！霍华德·马克斯在沃顿的最新对话，关于成长还是价值、卖出还是持有，更多制胜还是减少犯错……](/investor-masters/sources/source-136/)
-- [3.2万字｜潘兴广场比尔·阿克曼最有价值的一场对话，深谈价值投资、核心战役以及如何从人生谷底“爬坑”……](/investor-masters/sources/source-09/)
-- [小心！过去15年的“陷阱”，让我们遗忘了“分散投资”——看桥水“务实派”如何警示未来（上）   泉果探照灯](/investor-masters/sources/source-115/)
-- [全世界最懂AI的金融人，是怎么管理投资的？——看桥水“务实派”如何警示未来 （下）  泉果探照灯](/investor-masters/sources/source-94/)
-- [“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-masters/sources/source-87/)
-- [2.7万字｜ “巴菲特女弟子”深度对话：真正懂资本配置的CEO，往往做决策更理性，也更能创造长期价值](/investor-masters/sources/source-04/)
-- [日本“特拉斯时刻”算轻量版！城堡投资格里芬最新交流，犀利点评美国债务、移民、美联储、AI等热门话题](/investor-masters/sources/source-120/)
-- [李录亲述：为什么能拿住比亚迪23年？](/investor-masters/sources/source-124/)
-- [CNBC｜David Tepper：2010 QE与Everything交易](/investor-masters/sources/source-26/)
-- [CNBC｜David Tepper：2022全球央行紧缩与leaning-short](/investor-masters/sources/source-30/)
-- [CNBC｜David Tepper：2024中国刺激与buy-everything](/investor-masters/sources/source-31/)
+- [Druckenmiller深度解析（附中英对照）](/investor-masters/sources/source-49/)
+- [深度翻译  传奇交易员保罗·都铎·琼斯谈AI风险、泡沫与巴菲特](/investor-masters/sources/source-135/)
+- [关于耐心与杠杆！霍华德与摩根的最新对话：历史不会重演，但人类的行为却总是重复](/investor-masters/sources/source-100/)
+- [适合投资者反复听的思维方式！霍华德·马克斯在沃顿的最新对话，关于成长还是价值、卖出还是持有，更多制胜还是减少犯错……](/investor-masters/sources/source-141/)
+- [3.2万字｜潘兴广场比尔·阿克曼最有价值的一场对话，深谈价值投资、核心战役以及如何从人生谷底“爬坑”……](/investor-masters/sources/source-10/)
+- [小心！过去15年的“陷阱”，让我们遗忘了“分散投资”——看桥水“务实派”如何警示未来（上）   泉果探照灯](/investor-masters/sources/source-120/)
+- [全世界最懂AI的金融人，是怎么管理投资的？——看桥水“务实派”如何警示未来 （下）  泉果探照灯](/investor-masters/sources/source-99/)
+- [“巴菲特投资接班人”托德·库姆斯经验之谈：投资中的三个简化原则](/investor-masters/sources/source-91/)
+- [2.7万字｜ “巴菲特女弟子”深度对话：真正懂资本配置的CEO，往往做决策更理性，也更能创造长期价值](/investor-masters/sources/source-05/)
+- [日本“特拉斯时刻”算轻量版！城堡投资格里芬最新交流，犀利点评美国债务、移民、美联储、AI等热门话题](/investor-masters/sources/source-125/)
+- [李录亲述：为什么能拿住比亚迪23年？](/investor-masters/sources/source-129/)
+- [CNBC｜David Tepper：2010 QE与Everything交易](/investor-masters/sources/source-28/)
+- [CNBC｜David Tepper：2022全球央行紧缩与leaning-short](/investor-masters/sources/source-32/)
+- [CNBC｜David Tepper：2024中国刺激与buy-everything](/investor-masters/sources/source-33/)
 - [13F趋势-Appaloosa](/investor-masters/institutions/13f-trends-appaloosa/)
+- [加文·贝克](/investor-masters/investors/gavin-baker/)
+- [Atreides Management](/investor-masters/institutions/atreides-management/)
+- [13F趋势-Atreides](/investor-masters/institutions/13f-trends-atreides/)
+- [“只要你在亏钱，你就是错了！”加文·贝克2.2万字长谈，一场关于AI、市场以及投资这门手艺的大师课](/investor-masters/sources/source-89/)
+- [“科技投资大神”加文·贝克最新对话，细谈前沿模型、晶圆及巨头格局：如果只能盯一个指标来判断AI泡沫，我会盯台积电产能决策……](/investor-masters/sources/source-93/)

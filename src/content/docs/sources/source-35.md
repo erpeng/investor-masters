@@ -1,17 +1,17 @@
 ---
-title: "Capital Allocators｜尼科莱·坦根：掌管全球最大主权财富基金"
+title: "CNBC｜大卫·艾因霍恩：被动化时代的价值投资与分拆机会"
 slug: "sources/source-35"
-description: "尼科莱·坦根谈 AKO 的形成、质量投资、客户至上、主权基金的治理结构与“普遍所有者”视角。"
+description: "依据 CNBC Power Lunch 公开 transcript，整理大卫·艾因霍恩关于分拆策略、被动化造成的市场错价、继续做空以及黄金对冲的完整判断。"
 ---
 
-**原文件名**: `Capital Allocators｜尼科莱·坦根：掌管全球最大主权财富基金.md`  
-**外部来源**: https://www.capitalallocators.com/podcast/overseeing-the-largest-sovereign-wealth-fund/
+**原文件名**: `CNBC｜大卫·艾因霍恩：被动化时代的价值投资与分拆机会.md`  
+**外部来源**: https://www.cnbc.com/2024/04/03/cnbc-exclusive-cnbc-transcript-greenlight-capital-co-founder-president-david-einhorn-speaks-with-cnbcs-scott-wapner-on-power-lunch-today.html
 
 
 ## 摘要
 
-尼科莱·坦根谈 AKO 的形成、质量投资、客户至上、主权基金的治理结构与“普遍所有者”视角。
+依据 CNBC Power Lunch 公开 transcript，整理大卫·艾因霍恩关于分拆策略、被动化造成的市场错价、继续做空以及黄金对冲的完整判断。
 
 ## 节选
 
-> 整理说明： > 这不是官方逐字稿。 > 本页依据 Capital Allocators 节目页、同题 YouTube 公开自动字幕，以及公开可核验的节目摘要整理而成，重点保留对投资方法和机构约束最有价值的段落。
+> 整理说明： > 本页依据 CNBC / NBCUniversal News Group 公开 transcript 整理，重点保留艾因霍恩对 `分拆 / 被动化 / 市场结构 / 做空 / 黄金` 的原始口径。

@@ -1,16 +1,17 @@
 ---
-title: "CNBC｜David Tepper：2010 QE与Everything交易"
+title: "CFO｜李·安斯利：对冲不是目的，理解企业才是"
 slug: "sources/source-26"
-description: "原始材料来源页。"
+description: "李·安斯利从 CFO 视角解释 Maverick 如何看资本配置、管理层诚信、短仓、监管与公司沟通。"
 ---
 
-**原文件名**: `CNBC｜David Tepper：2010 QE与Everything交易.md`  
+**原文件名**: `CFO｜李·安斯利：对冲不是目的，理解企业才是.md`  
+**外部来源**: https://www.cfo.com/news/lee-ainslie-not-hedging-a-bit/676108/
 
 
 ## 摘要
 
-原始材料来源页。
+李·安斯利从 CFO 视角解释 Maverick 如何看资本配置、管理层诚信、短仓、监管与公司沟通。
 
 ## 节选
 
-- CNBC transcript/excerpts, Squawk Box, 2010-09-24 - 主角：David Tepper, Appaloosa Management
+> 整理说明： > 本页依据 CFO.com 的公开长访谈原文整理。它是 print 版访谈的 extended version，重点保留对 CFO、资本结构、短仓关系与监管的判断。

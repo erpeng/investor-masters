@@ -1,10 +1,10 @@
 ---
-title: "CNBC｜David Tepper：2024中国刺激与buy-everything"
+title: "CNBC｜David Tepper：2020疫情冲击与nibbling-tech"
 slug: "sources/source-31"
 description: "原始材料来源页。"
 ---
 
-**原文件名**: `CNBC｜David Tepper：2024中国刺激与buy-everything.md`  
+**原文件名**: `CNBC｜David Tepper：2020疫情冲击与nibbling-tech.md`  
 
 
 ## 摘要
@@ -13,4 +13,4 @@ description: "原始材料来源页。"
 
 ## 节选
 
-这条材料用于观察 Tepper 如何把美国 QE 时代的政策反应函数迁移到中国资产。它不是“看好中国”的静态观点，而是看到政策组合变化后，快速把赔率表重写。
+这是 Tepper 危机处理中最好的边界样本之一：他开始买入一些科技股，但同时承认市场仍可能继续下跌。它避免把 2010 材料误读成“只要跌就重仓买”。

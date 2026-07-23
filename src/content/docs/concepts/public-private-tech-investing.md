@@ -15,12 +15,15 @@ description: "公私一体科技投资 在这批资料 里的最佳入口。"
 
 - [Coatue Management](/investor-masters/institutions/coatue-management/) / [菲利普·拉丰](/investor-masters/investors/philippe-laffont/) 是最直接样本。
 - [Altimeter Capital](/investor-masters/institutions/altimeter-capital/) / [布拉德·格斯特纳](/investor-masters/investors/brad-gerstner/) 是另一条直接样本，更强调 founder network、public/private crossover、power law 和 AI supercycle。
+- [Atreides Management](/investor-masters/institutions/atreides-management/) / [加文·贝克](/investor-masters/investors/gavin-baker/) 把这套结构推向 long/short 科技投资：私募端判断一项技术会不会在规模形成前变得人人皆知，公开市场端则用相邻公司的估值、股数变化、因子相关性和期权工具继续校准。
 - [ARK Invest](/investor-masters/institutions/ark-invest/) 是另一个公开市场创新平台样本，但更偏公开研究和技术平台收敛。
 - [Lone Pine Capital](/investor-masters/institutions/lone-pine-capital/) 和 [Maverick Capital](/investor-masters/institutions/maverick-capital/) 提供 Tiger Cub 深研究的前身。
 
 ## 哪些行为能验证
 
 Coatue 13F 里从 `NVDA / META / AMD` 迁到 `TSM / GEV / LRCX / AMAT / AVGO / ETN / CEG`，说明它不是只看应用层，而会沿 AI 资本开支链条寻找瓶颈。Altimeter 2026Q1 的 `NVDA / META / UBER / TSM / CRWV / ARM` 则说明另一类 crossover 机构会把 AI 平台、芯片、算力云和应用承接点放在同一个公开组合里验证。
+
+Atreides 2026Q1 的普通股前列同时出现 `ALAB / U / CIEN / MU / NVDA / LITE / COHR`，而披露中还有 `QQQ PUT` 和个股 CALL。这不是一张简单的 AI 多头清单，而是一套从晶圆、内存、互连、光通信到软件平台的相对价值和风险表达。只有把普通股和期权分开，公私一体研究才不会被误读成长-only 叙事。
 
 ## 最大误用风险
 
@@ -30,8 +33,12 @@ Coatue 13F 里从 `NVDA / META / AMD` 迁到 `TSM / GEV / LRCX / AMAT / AVGO / E
 
 - [Coatue Management](/investor-masters/institutions/coatue-management/)
 - [Altimeter Capital](/investor-masters/institutions/altimeter-capital/)
+- [Atreides Management](/investor-masters/institutions/atreides-management/)
 - [菲利普·拉丰](/investor-masters/investors/philippe-laffont/)
 - [布拉德·格斯特纳](/investor-masters/investors/brad-gerstner/)
+- [加文·贝克](/investor-masters/investors/gavin-baker/)
 - [13F趋势-Coatue](/investor-masters/institutions/13f-trends-coatue/)
 - [13F趋势-Altimeter](/investor-masters/institutions/13f-trends-altimeter/)
+- [13F趋势-Atreides](/investor-masters/institutions/13f-trends-atreides/)
+- [物理瓶颈](/investor-masters/concepts/physical-bottlenecks/)
 - [公开市场股票 vs 私募成长网络](/investor-masters/dialogues/public-market-stocks-vs-private-growth-network/)

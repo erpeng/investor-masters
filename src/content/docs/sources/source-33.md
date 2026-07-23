@@ -1,17 +1,16 @@
 ---
-title: "CNBC｜大卫·艾因霍恩：被动化时代的价值投资与分拆机会"
+title: "CNBC｜David Tepper：2024中国刺激与buy-everything"
 slug: "sources/source-33"
-description: "依据 CNBC Power Lunch 公开 transcript，整理大卫·艾因霍恩关于分拆策略、被动化造成的市场错价、继续做空以及黄金对冲的完整判断。"
+description: "原始材料来源页。"
 ---
 
-**原文件名**: `CNBC｜大卫·艾因霍恩：被动化时代的价值投资与分拆机会.md`  
-**外部来源**: https://www.cnbc.com/2024/04/03/cnbc-exclusive-cnbc-transcript-greenlight-capital-co-founder-president-david-einhorn-speaks-with-cnbcs-scott-wapner-on-power-lunch-today.html
+**原文件名**: `CNBC｜David Tepper：2024中国刺激与buy-everything.md`  
 
 
 ## 摘要
 
-依据 CNBC Power Lunch 公开 transcript，整理大卫·艾因霍恩关于分拆策略、被动化造成的市场错价、继续做空以及黄金对冲的完整判断。
+原始材料来源页。
 
 ## 节选
 
-> 整理说明： > 本页依据 CNBC / NBCUniversal News Group 公开 transcript 整理，重点保留艾因霍恩对 `分拆 / 被动化 / 市场结构 / 做空 / 黄金` 的原始口径。
+这条材料用于观察 Tepper 如何把美国 QE 时代的政策反应函数迁移到中国资产。它不是“看好中国”的静态观点，而是看到政策组合变化后，快速把赔率表重写。

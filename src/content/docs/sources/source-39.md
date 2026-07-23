@@ -1,10 +1,10 @@
 ---
-title: "Coatue｜Philippe Laffont：Merrill Let’s Talk Alts AI公私市场访谈"
+title: "Coatue｜CTEK与Fantastic 40"
 slug: "sources/source-39"
 description: "原始材料来源页。"
 ---
 
-**原文件名**: `Coatue｜Philippe Laffont：Merrill Let’s Talk Alts AI公私市场访谈.md`  
+**原文件名**: `Coatue｜CTEK与Fantastic 40.md`  
 
 
 ## 摘要
@@ -13,4 +13,4 @@ description: "原始材料来源页。"
 
 ## 节选
 
-这条 Merrill / Bank of America `Let's Talk Alts` 访谈是 Philippe Laffont 直接谈 AI、公私市场和组合构建的代表材料。它比 Coatue 官网和 CTEK 更适合支撑人物页，但仍然不是完整投资流程披露。
+CTEK / Coatue Growth Innovation Index 用来观察 Coatue 如何把技术创新从私募网络、数据、行业地图转成公开市场和指数化观察框架。`Why CTEK` 同时补充了 Philippe Laffont 的公开履历：MIT 计算机科学背景、McKinsey 电信业务经历、Tiger Management 电信股票研究，以及 1999 年创立 Coatue。

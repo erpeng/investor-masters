@@ -1,17 +1,16 @@
 ---
-title: "TIFF｜塞思·卡拉曼：价值投资问答节选"
+title: "Simons Foundation｜五条原则与量化遗产"
 slug: "sources/source-73"
-description: "依据 ValueWalk 对 TIFF 2009 问答的公开介绍，整理塞思·卡拉曼在危机后价值投资语境中的补充定位。"
+description: "原始材料来源页。"
 ---
 
-**原文件名**: `TIFF｜塞思·卡拉曼：价值投资问答节选.md`  
-**外部来源**: https://www.valuewalk.com/seth-klarman-speech-tiff-2009-on-value-investing-full-transcript/
+**原文件名**: `Simons Foundation｜五条原则与量化遗产.md`  
 
 
 ## 摘要
 
-依据 ValueWalk 对 TIFF 2009 问答的公开介绍，整理塞思·卡拉曼在危机后价值投资语境中的补充定位。
+原始材料来源页。
 
 ## 节选
 
-> 整理说明： > 页面公开可见部分只给出访谈背景说明，并提示完整文件嵌在外部文档中；当前未能直接读取完整 transcript。因此本页只保留页面明确说明的信息，用作来源登记与边界说明，不把不可见内容硬扩写。
+Simons 公开演讲与 Simons Foundation 材料中反复出现的几条原则，用来补足人物页的“可迁移部分”：做新事、与优秀伙伴合作、被美驱动、坚持、把好运转化为机构。

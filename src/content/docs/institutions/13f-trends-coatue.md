@@ -318,5 +318,5 @@ Coatue 的公开 13F 至少有三层含义。
 - [SEC 13F 2023Q3 filing detail](https://www.sec.gov/Archives/edgar/data/1135730/000091957423006173/0000919574-23-006173-index.html)
 - [SEC 13F 2023Q2 filing detail](https://www.sec.gov/Archives/edgar/data/1135730/000091957423004562/0000919574-23-004562-index.html)
 - [SEC 13F 2023Q1 filing detail](https://www.sec.gov/Archives/edgar/data/1135730/000091957423003144/0000919574-23-003144-index.html)
-- [SEC｜Coatue Management：2023-2026 13F持仓轨迹](/investor-masters/sources/source-65/)
+- [SEC｜Coatue Management：2023-2026 13F持仓轨迹](/investor-masters/sources/source-68/)
 - Coatue Management-公私一体科技投资-source-audit

@@ -1,10 +1,10 @@
 ---
-title: "Brad Gerstner｜TBPN Where Brad Gerstner Is Investing Billions 2026"
+title: "Brad Gerstner｜Masters in Business transcript 2023"
 slug: "sources/source-22"
 description: "原始材料来源页。"
 ---
 
-**原文件名**: `Brad Gerstner｜TBPN Where Brad Gerstner Is Investing Billions 2026.md`  
+**原文件名**: `Brad Gerstner｜Masters in Business transcript 2023.md`  
 
 
 ## 摘要
@@ -13,4 +13,4 @@ description: "原始材料来源页。"
 
 ## 节选
 
-- TBPN / Metacast mirror: https://metacast.app/podcast/tbpn/D9fOtj1E/where-brad-gerstner-is-investing-billions/Qs2wawy7
+- Ritholtz / Bloomberg Masters in Business transcript: https://ritholtz.com/2023/11/transcript-brad-gerstner/

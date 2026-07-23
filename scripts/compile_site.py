@@ -126,6 +126,13 @@ INVESTOR_META = {
         "holdings": "Nvidia、Meta、Uber、TSM、CoreWeave、Arm、Snowflake",
         "methods": "公私一体 / 幂律 / AI 超级周期 / 股东纪律",
     },
+    "加文·贝克": {
+        "slug": "gavin-baker",
+        "tagline": "把科技投资还原为供需、物理瓶颈、错误分类和风险因子，并用亏损迫使自己更新判断的人。",
+        "institution": ("Atreides Management", "institutions/atreides-management"),
+        "holdings": "Astera Labs、Unity、Ciena、Micron、Nvidia、Amazon",
+        "methods": "物理瓶颈 / 错误分类 / 因子风险 / 快速纠错",
+    },
     "弗朗索瓦·罗雄": {
         "slug": "francois-rochon",
         "tagline": "把所有者收益、质量企业和错误复盘绑成长期复利方法的人。",
@@ -318,6 +325,7 @@ INVESTOR_INFO_SOURCES = {
     "汤姆·斯莱特": "斯莱特延续了 Baillie Gifford 的成长信息系统，重点不是短期数字，而是技术渗透、价值链位置、未上市资产动向和少数卓越公司的长期扩张路径。他的信息来源天然更靠近前沿行业参与者和长期产业趋势，而不是传统价值投资者常用的低估值筛选。",
     "劳伦斯·伯恩斯": "伯恩斯的信息来源带有很强的产业链研究特征。现有资料显示，他擅长沿着 AI 和科技价值链去拆解机会，从硬件、基础设施到应用层逐层看清楚价值是如何传导的。这意味着他获得信息的方式，更像研究一个系统，而不是只盯一家公司的财务表。",
     "布拉德·格斯特纳": "格斯特纳的信息来源是公私一体的 crossover 网络：创业者、私募成长公司、公开市场财报和价格、SEC 13F、平台周期和资本配置纪律一起进入判断。对他来说，早期网络负责发现 supercycle，公开市场负责验证收入、估值、流动性和股东回报。",
+    "加文·贝克": "加文·贝克的信息来源是一套产业与组合双重传感器：公开公司财报、管理层和产业链访谈、私募科技网络、供需与产能数据、相邻公司估值、价格反馈和因子相关性同时进入判断。对他来说，长期产业跟踪负责积累分辨率，亏损和价格分歧负责强制触发复核。",
     "莫尼什·帕伯莱": "帕伯莱的信息来源高度依赖可借鉴的先例。他最典型的方法不是从零发明判断，而是研究历史上的成功投资、伟大投资人的公开持仓、股东信和可复制案例，然后在新的标的上寻找相似结构。这使他的来源系统天然带有“克隆”和模式迁移的味道。",
     "比尔·阿克曼": "阿克曼的信息来源更像一套战役情报系统。他会围绕少数核心标的做深研究，结合管理层、资本结构、治理问题、行业错配和公开表达，逐步把投资论点推到市场台前。对他来说，信息不只是用来理解公司，也是用来组织一场能够推动结果的行动。",
     "丹·勒布": "丹·勒布的信息来源更像一套事件驱动情报系统。他不仅看公司价值本身，也持续跟踪资本结构、董事会和管理层决策、潜在催化剂、监管或交易事件，以及 equity 与 credit 之间的错配。对他来说，信息价值不止在“便不便宜”，而在“什么时候、通过什么路径会重新定价”。",
@@ -373,6 +381,7 @@ INSTITUTION_META = {
     "Dorsey Asset Management": {"slug": "dorsey-asset-management"},
     "Coatue Management": {"slug": "coatue-management"},
     "Altimeter Capital": {"slug": "altimeter-capital"},
+    "Atreides Management": {"slug": "atreides-management"},
     "Giverny Capital": {"slug": "giverny-capital"},
     "Greenlight Capital": {"slug": "greenlight-capital"},
     "Baupost Group": {"slug": "baupost-group"},
@@ -388,9 +397,11 @@ INSTITUTION_META = {
 
 CONCEPT_META = {
     "护城河": {"slug": "moat"},
+    "物理瓶颈": {"slug": "physical-bottlenecks"},
     "质量模式": {"slug": "quality-patterns"},
     "公私一体科技投资": {"slug": "public-private-tech-investing"},
     "能力圈": {"slug": "circle-of-competence"},
+    "催化剂与兑现路径": {"slug": "catalysts-and-realization-paths"},
     "事件驱动": {"slug": "event-driven"},
     "第二层思维": {"slug": "second-level-thinking"},
     "共享规模经济": {"slug": "scale-economies-shared"},
@@ -829,6 +840,9 @@ def build_link_maps():
         elif src.stem == "13F趋势-Altimeter":
             slug = "13f-trends-altimeter"
             title = "13F 趋势 - Altimeter"
+        elif src.stem == "13F趋势-Atreides":
+            slug = "13f-trends-atreides"
+            title = "13F 趋势 - Atreides"
         elif src.stem == "13F趋势-Third Point":
             slug = "13f-trends-third-point"
             title = "13F 趋势 - Third Point"
@@ -1245,6 +1259,10 @@ def compile_institutions():
             title = "13F 趋势 - Altimeter"
             slug = "13f-trends-altimeter"
             description = "Altimeter Capital 从 2023Q1 到 2026Q1 的单机构 13F 持仓变化。"
+        elif stem == "13F趋势-Atreides":
+            title = "13F 趋势 - Atreides"
+            slug = "13f-trends-atreides"
+            description = "Atreides Management 从 2023Q1 到 2026Q1 的单机构 13F 持仓变化，普通股与期权分开解释。"
         elif stem == "13F趋势-Third Point":
             title = "13F 趋势 - Third Point"
             slug = "13f-trends-third-point"

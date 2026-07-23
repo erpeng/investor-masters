@@ -1,17 +1,17 @@
 ---
-title: "CNBC｜肯·格里芬：Citadel 总部首场电视长访谈"
+title: "CNBC｜丹·勒布：更动荡市场中的 event-driven 组合"
 slug: "sources/source-34"
-description: "依据 CNBC 公开 transcript，整理 Ken Griffin 关于人才密度、delegation、Citadel 的多策略平台与 depth-not-breadth 的早期官方表达。"
+description: "依据 CNBC 对 Dan Loeb 经济俱乐部发言的摘要，整理 Third Point 在更动荡市场环境下转向 event-driven / catalyst-oriented 组合的最新表达。"
 ---
 
-**原文件名**: `CNBC｜肯·格里芬：Citadel 总部首场电视长访谈.md`  
-**外部来源**: https://www.cnbc.com/2015/11/19/cnbc-exclusive-cnbc-transcript-citadel-founder-ceo-ken-griffin-speaks-with-cnbcs-kate-kelly-on-squawk-on-the-street-today.html
+**原文件名**: `CNBC｜丹·勒布：更动荡市场中的 event-driven 组合.md`  
+**外部来源**: https://www.cnbc.com/video/2025/04/23/third-point-ceo-dan-loeb-i-wouldnt-underestimate-the-resilience-of-the-american-economy.html
 
 
 ## 摘要
 
-依据 CNBC 公开 transcript，整理 Ken Griffin 关于人才密度、delegation、Citadel 的多策略平台与 depth-not-breadth 的早期官方表达。
+依据 CNBC 对 Dan Loeb 经济俱乐部发言的摘要，整理 Third Point 在更动荡市场环境下转向 event-driven / catalyst-oriented 组合的最新表达。
 
 ## 节选
 
-- `主角`：肯·格里芬（Ken Griffin） - `场景`：CNBC / Citadel 总部首场电视访谈 - `时间`：`2015-11-19` - `核心价值`：这篇是理解 Citadel 如何从个人交易者长成平台机构的关键老材料。
+> 整理说明： > CNBC 当前公开的是摘要页与节目信息，不是完整逐字 transcript。本页只整理页面明确给出的核心要点。

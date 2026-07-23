@@ -1,19 +1,17 @@
 ---
-title: "如何判断一家公司在崩塌，还是在涅槃重生？AI时代人类的投资优势（下） | 泉果探照灯"
+title: "原文｜S&P Global｜肯·格里芬：Citadel、AI 与独立思考"
 slug: "sources/source-111"
-description: "真正的伟大是“赢”的同时，把比赛提升到更高的层次"
+description: "从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML（全文 transcript 转录）。"
 ---
 
-**原文件名**: `如何判断一家公司在崩塌，还是在涅槃重生？AI时代人类的投资优势（下）  泉果探照灯.md`  
-**外部来源**: https://mp.weixin.qq.com/s/pbEWTUP52DBZWKOpJ-US4w
+**原文件名**: `原文｜S&P Global｜肯·格里芬：Citadel、AI 与独立思考.md`  
+**外部来源**: https://www.spglobal.com/en/research-insights/podcasts/leaders/ken-griffin-on-building-citadel-ai-and-independent-thinking
 
-**作者**: 原创 泉果探照灯  
-**时间**: 2026年3月13日 11:59
 
 ## 摘要
 
-真正的伟大是“赢”的同时，把比赛提升到更高的层次
+从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML（全文 transcript 转录）。
 
 ## 节选
 
-乔丹可能是历史上最优秀的运动员之一。他的水准极高，如果你跟不上，他会让你在那个体系里很难待下去。
+- 对应整理稿：[[现有资料/S&P Global｜肯·格里芬：Citadel、AI 与独立思考.md]] - 抓取时间：`2026-04-20` - 抽取方式：`HTML` - 原始域名：`www.spglobal.com` - 备注：命令行抓取返回错误页，本存档依据公开可访问页面的 `View Full Transcript` 全文转录。

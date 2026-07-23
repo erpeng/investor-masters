@@ -1,17 +1,17 @@
 ---
-title: "David Swensen｜Pioneering Portfolio Management方法摘记"
+title: "Colossus｜大卫·艾因霍恩：长短仓、反动量与价值投资"
 slug: "sources/source-45"
-description: "原始材料来源页。"
+description: "依据 Colossus 官方节目页可见的 show notes 与节目介绍，整理大卫·艾因霍恩关于 Greenlight 演化、反动量、选股流程、做空、组合与 LP 关系的关键判断。"
 ---
 
-**原文件名**: `David Swensen｜Pioneering Portfolio Management方法摘记.md`  
-**外部来源**: David F. Swensen, Pioneering Portfolio Management
+**原文件名**: `Colossus｜大卫·艾因霍恩：长短仓、反动量与价值投资.md`  
+**外部来源**: https://www.joincolossus.com/episode/einhorn-the-long-and-short-of-investing/
 
 
 ## 摘要
 
-原始材料来源页。
+依据 Colossus 官方节目页可见的 show notes 与节目介绍，整理大卫·艾因霍恩关于 Greenlight 演化、反动量、选股流程、做空、组合与 LP 关系的关键判断。
 
 ## 节选
 
-David Swensen《Pioneering Portfolio Management》作为 Yale Model 的方法论主源，承担资产配置哲学、流动性溢价、主动管理选择和长期机构治理的底层解释责任。
+> 整理说明： > 本页依据 Colossus 官方节目页公开可见的 `节目介绍 + 时间轴 + show notes` 整理。完整 transcript 需要登录后查看，因此这里只保留页面明确给出的主题与可验证判断，不把不可见内容硬写成逐字转录。

@@ -21,9 +21,11 @@ description: "跨人物阅读时，最容易反复出现的那几根骨架。"
 ## 全部概念
 
 - [护城河](/investor-masters/concepts/moat/)
+- [物理瓶颈](/investor-masters/concepts/physical-bottlenecks/)
 - [质量模式](/investor-masters/concepts/quality-patterns/)
 - [公私一体科技投资](/investor-masters/concepts/public-private-tech-investing/)
 - [能力圈](/investor-masters/concepts/circle-of-competence/)
+- [催化剂与兑现路径](/investor-masters/concepts/catalysts-and-realization-paths/)
 - [事件驱动](/investor-masters/concepts/event-driven/)
 - [第二层思维](/investor-masters/concepts/second-level-thinking/)
 - [共享规模经济](/investor-masters/concepts/scale-economies-shared/)

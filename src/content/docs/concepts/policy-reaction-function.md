@@ -30,6 +30,7 @@ description: "政策反应函数 在这批资料 里的最佳入口。"
 **容易混淆的概念**
 
 - [趋势交易](/investor-masters/concepts/trend-trading/)：趋势交易更关心价格、流动性和催化剂是否已经形成路径；政策反应函数更关心制度动作如何改变资产分布。
+- [催化剂与兑现路径](/investor-masters/concepts/catalysts-and-realization-paths/)：政策反应函数是其中一种兑现路径，它回答的是制度玩家如何重写资产价格分布。
 - [反脆弱与仓位管理](/investor-masters/concepts/antifragility-and-position-sizing/)：政策函数判断对了，还要有能活到兑现的仓位结构。
 - [第二层思维](/investor-masters/concepts/second-level-thinking/)：政策新闻是一层，市场已经如何定价政策是第二层。
 
@@ -41,8 +42,8 @@ description: "政策反应函数 在这批资料 里的最佳入口。"
 
 ## 主要来源
 
-- [CNBC｜David Tepper：2010 QE与Everything交易](/investor-masters/sources/source-26/)
-- [CNBC｜David Tepper：2022全球央行紧缩与leaning-short](/investor-masters/sources/source-30/)
-- [CNBC｜David Tepper：2024中国刺激与buy-everything](/investor-masters/sources/source-31/)
-- [CNBC｜David Tepper：2018 CMU长访谈](/investor-masters/sources/source-28/)
+- [CNBC｜David Tepper：2010 QE与Everything交易](/investor-masters/sources/source-28/)
+- [CNBC｜David Tepper：2022全球央行紧缩与leaning-short](/investor-masters/sources/source-32/)
+- [CNBC｜David Tepper：2024中国刺激与buy-everything](/investor-masters/sources/source-33/)
+- [CNBC｜David Tepper：2018 CMU长访谈](/investor-masters/sources/source-30/)
 - [13F趋势-Appaloosa](/investor-masters/institutions/13f-trends-appaloosa/)

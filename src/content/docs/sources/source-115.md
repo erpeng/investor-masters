@@ -1,19 +1,17 @@
 ---
-title: "小心！过去15年的“陷阱”，让我们遗忘了“分散投资”——看桥水“务实派”如何警示未来（上） |  泉果探照灯"
+title: "原文｜Third Point｜2025Q1 investor letter：催化剂、动态敞口与信用协同"
 slug: "sources/source-115"
-description: "投资经验“失效”？美联储“收编”？西方发达国家“巴西化”？"
+description: "从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：PDF。"
 ---
 
-**原文件名**: `小心！过去15年的“陷阱”，让我们遗忘了“分散投资”——看桥水“务实派”如何警示未来（上）   泉果探照灯.md`  
-**外部来源**: https://mp.weixin.qq.com/s/A18J7QPlwPv-6K-zJcWkjA
+**原文件名**: `原文｜Third Point｜2025Q1 investor letter：催化剂、动态敞口与信用协同.md`  
+**外部来源**: https://assets.thirdpointlimited.com/f/166217/x/1c4003f091/tpil-q1-2025-investor-letter_02052025_final.pdf
 
-**作者**: 原创 泉果探照灯  
-**时间**: 2025年12月17日 22:56
 
 ## 摘要
 
-投资经验“失效”？美联储“收编”？西方发达国家“巴西化”？
+从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：PDF。
 
 ## 节选
 
-■ 过去的15年是一个被粉饰的“陷阱”——这让大多数人放弃了分散投资，因为它似乎不再起作用了，你只要买美国股票就好了。
+- 对应整理稿：[[现有资料/Third Point｜2025Q1 investor letter：催化剂、动态敞口与信用协同.md]] - 抓取时间：`2026-04-20` - 抽取方式：`PDF` - 原始域名：`assets.thirdpointlimited.com`

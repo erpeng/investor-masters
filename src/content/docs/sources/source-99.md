@@ -1,17 +1,19 @@
 ---
-title: "原文｜CNBC｜大卫·艾因霍恩：被动化时代的价值投资与分拆机会"
+title: "全世界最懂AI的金融人，是怎么管理投资的？——看桥水“务实派”如何警示未来 （下） | 泉果探照灯"
 slug: "sources/source-99"
-description: "从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML。"
+description: "当你围绕“机器人是什么”去重新设计流程，效率的提升才真正爆发。"
 ---
 
-**原文件名**: `原文｜CNBC｜大卫·艾因霍恩：被动化时代的价值投资与分拆机会.md`  
-**外部来源**: https://www.cnbc.com/2024/04/03/cnbc-exclusive-cnbc-transcript-greenlight-capital-co-founder-president-david-einhorn-speaks-with-cnbcs-scott-wapner-on-power-lunch-today.html
+**原文件名**: `全世界最懂AI的金融人，是怎么管理投资的？——看桥水“务实派”如何警示未来 （下）  泉果探照灯.md`  
+**外部来源**: https://mp.weixin.qq.com/s/MSuAm2bmVTLy1jEYeLwmMQ
 
+**作者**: 原创 泉果探照灯  
+**时间**: 2025年12月24日 11:29
 
 ## 摘要
 
-从公开原始链接抓取的原文存档，供与整理稿对照引用。抽取方式：HTML。
+当你围绕“机器人是什么”去重新设计流程，效率的提升才真正爆发。
 
 ## 节选
 
-- 对应整理稿：[[现有资料/CNBC｜大卫·艾因霍恩：被动化时代的价值投资与分拆机会.md]] - 抓取时间：`2026-04-20` - 抽取方式：`HTML` - 原始域名：`www.cnbc.com` - 备注：原整理稿里的 `nbcuniversalnewsgroup.com` 转录链接已失效；本存档改用当前可访问的 CNBC 正式 transcript 页面。
+在前两期【泉果探照灯】中，我们分享了桥水基金首席投资官Greg Jensen关于对未来资本市场一定要“分散投资”的警示，以及他的决策基础和逻辑推演过程。

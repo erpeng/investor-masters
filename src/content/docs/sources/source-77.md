@@ -1,17 +1,17 @@
 ---
-title: "The Value Perspective｜尼克·特雷恩：长期概率、英国市场与质量识别"
+title: "TIP｜弗朗索瓦·罗雄：AI驱动市场中的长期投资"
 slug: "sources/source-77"
-description: "依据 The Value Perspective 公开节目简介，整理 Nick Train 对长期概率、英国市场变化与 quality 识别的最新表达。"
+description: "原始材料来源页。"
 ---
 
-**原文件名**: `The Value Perspective｜尼克·特雷恩：长期概率、英国市场与质量识别.md`  
-**外部来源**: https://schroderstvp.podbean.com/e/the-value-perspective-with-nick-train/
+**原文件名**: `TIP｜弗朗索瓦·罗雄：AI驱动市场中的长期投资.md`  
+**外部来源**: The Investor's Podcast Network
 
 
 ## 摘要
 
-依据 The Value Perspective 公开节目简介，整理 Nick Train 对长期概率、英国市场变化与 quality 识别的最新表达。
+原始材料来源页。
 
 ## 节选
 
-> 整理说明： > 本页依据节目官方简介与公开可见主题整理。当前公开页面未提供完整 transcript，因此这里只保留页面明确给出的结构性信息，不伪造逐字对话。
+这篇材料用于补 Rochon 在 AI 驱动市场中的最新口径：不是预测 AI 主题涨跌，而是回到企业长期 owner earnings、竞争优势和估值赔率。

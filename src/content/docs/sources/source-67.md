@@ -1,10 +1,10 @@
 ---
-title: "SEC｜Dorsey Asset Management：2023-2026 13F持仓轨迹"
+title: "SEC｜Atreides Management：2022Q4-2026Q1 13F持仓轨迹"
 slug: "sources/source-67"
 description: "原始材料来源页。"
 ---
 
-**原文件名**: `SEC｜Dorsey Asset Management：2023-2026 13F持仓轨迹.md`  
+**原文件名**: `SEC｜Atreides Management：2022Q4-2026Q1 13F持仓轨迹.md`  
 
 
 ## 摘要
@@ -13,4 +13,4 @@ description: "原始材料来源页。"
 
 ## 节选
 
-这是 Dorsey Asset Management, LLC 的 SEC 13F 公开持仓轨迹。CIK 为 `0001671657`。本轮覆盖 `2023Q1-2026Q1`，并用 `2022Q4` 作为前置季计算 `2023Q1` 变化。
+- SEC submissions： - 最新申报： - 最新持仓表： - 最新申报汇总： - 行情来源：Yahoo Finance 日线；抓取时间 `2026-07-23 23:12 CST`，统一使用最后一个完整交易日 `2026-07-22` 收盘。`SATS` 的 Yahoo 最后可用价停在 `2026-07-17`，已单独标注。

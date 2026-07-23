@@ -50,12 +50,12 @@ Ritholtz 访谈给出的 AI 参与方式，也符合这种机构逻辑：Baupost
 
 ## 标志性公开材料
 
-- [Value Investing with Legends｜塞思·卡拉曼：逆向纪律、耐心资本与 Baupost](/investor-masters/sources/source-80/)
-- [Harvard Business School｜塞思·卡拉曼：危机中的 Baupost 与价值纪律](/investor-masters/sources/source-50/)
-- [TIFF｜塞思·卡拉曼：价值投资问答节选](/investor-masters/sources/source-73/)
-- [“安全边际大师”卡拉曼MIT经典演讲：要有健康的投资纪律，能不能睡个安稳觉比什么都重要……](/investor-masters/sources/source-86/)
-- [44年只有5年亏过！“安全边际之父”卡拉曼罕见对话，谈及错失Palantir百亿机会、如何参与AI以及当下投资的三个原则](/investor-masters/sources/source-10/)
-- [2万字｜传奇价值投资者赛斯·卡拉曼深度对话：他人被迫交易时，要有能力抓住机会已付费](/investor-masters/sources/source-08/)
+- [Value Investing with Legends｜塞思·卡拉曼：逆向纪律、耐心资本与 Baupost](/investor-masters/sources/source-83/)
+- [Harvard Business School｜塞思·卡拉曼：危机中的 Baupost 与价值纪律](/investor-masters/sources/source-52/)
+- [TIFF｜塞思·卡拉曼：价值投资问答节选](/investor-masters/sources/source-76/)
+- [“安全边际大师”卡拉曼MIT经典演讲：要有健康的投资纪律，能不能睡个安稳觉比什么都重要……](/investor-masters/sources/source-90/)
+- [44年只有5年亏过！“安全边际之父”卡拉曼罕见对话，谈及错失Palantir百亿机会、如何参与AI以及当下投资的三个原则](/investor-masters/sources/source-11/)
+- [2万字｜传奇价值投资者赛斯·卡拉曼深度对话：他人被迫交易时，要有能力抓住机会已付费](/investor-masters/sources/source-09/)
 
 ## 13F 持仓（近四个季度）
 
@@ -148,12 +148,12 @@ Baupost 最值得持续观察的问题，是这套高度依赖纪律、资本边
 
 ## 主要来源
 
-- [Value Investing with Legends｜塞思·卡拉曼：逆向纪律、耐心资本与 Baupost](/investor-masters/sources/source-80/)
-- [Harvard Business School｜塞思·卡拉曼：危机中的 Baupost 与价值纪律](/investor-masters/sources/source-50/)
-- [TIFF｜塞思·卡拉曼：价值投资问答节选](/investor-masters/sources/source-73/)
-- [“安全边际大师”卡拉曼MIT经典演讲：要有健康的投资纪律，能不能睡个安稳觉比什么都重要……](/investor-masters/sources/source-86/)
-- [44年只有5年亏过！“安全边际之父”卡拉曼罕见对话，谈及错失Palantir百亿机会、如何参与AI以及当下投资的三个原则](/investor-masters/sources/source-10/)
-- [2万字｜传奇价值投资者赛斯·卡拉曼深度对话：他人被迫交易时，要有能力抓住机会已付费](/investor-masters/sources/source-08/)
+- [Value Investing with Legends｜塞思·卡拉曼：逆向纪律、耐心资本与 Baupost](/investor-masters/sources/source-83/)
+- [Harvard Business School｜塞思·卡拉曼：危机中的 Baupost 与价值纪律](/investor-masters/sources/source-52/)
+- [TIFF｜塞思·卡拉曼：价值投资问答节选](/investor-masters/sources/source-76/)
+- [“安全边际大师”卡拉曼MIT经典演讲：要有健康的投资纪律，能不能睡个安稳觉比什么都重要……](/investor-masters/sources/source-90/)
+- [44年只有5年亏过！“安全边际之父”卡拉曼罕见对话，谈及错失Palantir百亿机会、如何参与AI以及当下投资的三个原则](/investor-masters/sources/source-11/)
+- [2万字｜传奇价值投资者赛斯·卡拉曼深度对话：他人被迫交易时，要有能力抓住机会已付费](/investor-masters/sources/source-09/)
 - 塞思·卡拉曼-MIT安全边际演讲-source-audit
 - 塞思·卡拉曼-CNBC-AI与安全边际访谈-source-audit
 - 塞思·卡拉曼-Ritholtz-Masters-in-Business-2026访谈-source-audit

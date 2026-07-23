@@ -43,11 +43,11 @@ Appaloosa 的关键机制，是决策集中和资本结构越来越接近自有�
 
 ## 标志性公开材料
 
-- [CNBC｜David Tepper：2010 QE与Everything交易](/investor-masters/sources/source-26/)：政策反应函数的主源。
-- [CNBC｜David Tepper：2018 CMU长访谈](/investor-masters/sources/source-28/)：人物和机构背景最完整的公开访谈之一。
-- [CNBC｜David Tepper：2022全球央行紧缩与leaning-short](/investor-masters/sources/source-30/)：2010 的反向样本。
-- [CNBC｜David Tepper：2024中国刺激与buy-everything](/investor-masters/sources/source-31/)：政策交易迁移到中国资产的样本。
-- [CNBC｜Appaloosa：2019-family-office转型](/investor-masters/sources/source-25/)：机构资本结构变化的事实来源。
+- [CNBC｜David Tepper：2010 QE与Everything交易](/investor-masters/sources/source-28/)：政策反应函数的主源。
+- [CNBC｜David Tepper：2018 CMU长访谈](/investor-masters/sources/source-30/)：人物和机构背景最完整的公开访谈之一。
+- [CNBC｜David Tepper：2022全球央行紧缩与leaning-short](/investor-masters/sources/source-32/)：2010 的反向样本。
+- [CNBC｜David Tepper：2024中国刺激与buy-everything](/investor-masters/sources/source-33/)：政策交易迁移到中国资产的样本。
+- [CNBC｜Appaloosa：2019-family-office转型](/investor-masters/sources/source-27/)：机构资本结构变化的事实来源。
 
 ## 13F 持仓（近四个季度）
 
@@ -139,10 +139,10 @@ Appaloosa 的传承问题和 Duquesne 类似：它更像一个强个人判断系
 
 ## 主要来源
 
-- [CNBC｜David Tepper：2010 QE与Everything交易](/investor-masters/sources/source-26/)
-- [CNBC｜David Tepper：2018 CMU长访谈](/investor-masters/sources/source-28/)
-- [CNBC｜David Tepper：2022全球央行紧缩与leaning-short](/investor-masters/sources/source-30/)
-- [CNBC｜David Tepper：2024中国刺激与buy-everything](/investor-masters/sources/source-31/)
-- [CNBC｜Appaloosa：2019-family-office转型](/investor-masters/sources/source-25/)
+- [CNBC｜David Tepper：2010 QE与Everything交易](/investor-masters/sources/source-28/)
+- [CNBC｜David Tepper：2018 CMU长访谈](/investor-masters/sources/source-30/)
+- [CNBC｜David Tepper：2022全球央行紧缩与leaning-short](/investor-masters/sources/source-32/)
+- [CNBC｜David Tepper：2024中国刺激与buy-everything](/investor-masters/sources/source-33/)
+- [CNBC｜Appaloosa：2019-family-office转型](/investor-masters/sources/source-27/)
 - [13F趋势-Appaloosa](/investor-masters/institutions/13f-trends-appaloosa/)
 - [SEC Appaloosa LP filings](https://www.sec.gov/edgar/browse/?CIK=1656456)

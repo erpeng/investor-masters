@@ -66,6 +66,7 @@ description: "事件驱动 在这批资料 里的最佳入口。"
 
 ## 相关概念
 
+- [催化剂与兑现路径](/investor-masters/concepts/catalysts-and-realization-paths/)
 - [第二层思维](/investor-masters/concepts/second-level-thinking/)
 - [反脆弱与仓位管理](/investor-masters/concepts/antifragility-and-position-sizing/)
 - [质量模式](/investor-masters/concepts/quality-patterns/)
@@ -81,7 +82,7 @@ description: "事件驱动 在这批资料 里的最佳入口。"
 
 ## 主要来源
 
-- [三十年三次蜕变，对冲基金传奇丹·勒布深度访谈：坐稳了，接下来一切只会继续加速](/investor-masters/sources/source-91/)
-- [Third Point｜2024Q4 investor letter：第二层思维、事件驱动与跨资产框架](/investor-masters/sources/source-78/)
-- [Third Point｜2025Q1 investor letter：催化剂、动态敞口与信用协同](/investor-masters/sources/source-79/)
-- [CNBC｜丹·勒布：更动荡市场中的 event-driven 组合](/investor-masters/sources/source-32/)
+- [三十年三次蜕变，对冲基金传奇丹·勒布深度访谈：坐稳了，接下来一切只会继续加速](/investor-masters/sources/source-96/)
+- [Third Point｜2024Q4 investor letter：第二层思维、事件驱动与跨资产框架](/investor-masters/sources/source-81/)
+- [Third Point｜2025Q1 investor letter：催化剂、动态敞口与信用协同](/investor-masters/sources/source-82/)
+- [CNBC｜丹·勒布：更动荡市场中的 event-driven 组合](/investor-masters/sources/source-34/)

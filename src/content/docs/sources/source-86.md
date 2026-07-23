@@ -1,18 +1,16 @@
 ---
-title: "“安全边际大师”卡拉曼MIT经典演讲：要有健康的投资纪律，能不能睡个安稳觉比什么都重要……"
+title: "Yale Investments｜Endowment与Yale Model"
 slug: "sources/source-86"
-description: "价值投资是一门横跨经济学与心理学的学问"
+description: "原始材料来源页。"
 ---
 
-**原文件名**: `“安全边际大师”卡拉曼MIT经典演讲：要有健康的投资纪律，能不能睡个安稳觉比什么都重要…….md`  
-**外部来源**: https://mp.weixin.qq.com/s/6Y-bI3heGylwpzshFIcDoQ
+**原文件名**: `Yale Investments｜Endowment与Yale Model.md`  
 
-**时间**: 2025年11月24日 10:56
 
 ## 摘要
 
-价值投资是一门横跨经济学与心理学的学问
+原始材料来源页。
 
 ## 节选
 
-“ 真正厉害的投资人，从来不是先定好要赚多少，而是先问一句：我要冒多大的风险？然后再判断：值不值得去冒这个险 。 ”
+Yale Investments 官方 Endowment 页面，用来确认 Yale Endowment 的使命、支出政策、长期资产配置约束和 Yale Model 的官方表达。

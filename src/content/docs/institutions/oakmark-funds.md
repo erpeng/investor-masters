@@ -33,7 +33,7 @@ Oakmark 的文化不是单一明星经理拍脑袋。访谈里尼格伦反复强
 
 ## 标志性公开材料
 
-- [2.5万字｜比尔·尼格伦最新长谈，一位25年长期跑赢大盘的传奇投资人，如何与时俱进的价值投资……已付费](/investor-masters/sources/source-03/): 当前最完整的方法访谈。
+- [2.5万字｜比尔·尼格伦最新长谈，一位25年长期跑赢大盘的传奇投资人，如何与时俱进的价值投资……已付费](/investor-masters/sources/source-04/): 当前最完整的方法访谈。
 - [Oakmark: Bill Nygren profile](https://oakmark.com/who-we-are/our-team/bill-nygren/): 官方履历入口。
 - [Oakmark funds](https://oakmark.com/our-funds/): 官方基金产品与数据入口。
 - [The Synopsis / Apple Podcasts: Interview. Bill Nygren on 25 Years of Beating the Market](https://podcasts.apple.com/us/podcast/interview-bill-nygren-on-25-years-of-beating-the-market/id1699073398?i=1000756827196): 原访谈公开锚点。
@@ -128,6 +128,6 @@ Oakmark 的传承问题，不是“尼格伦退休后还有没有下一个尼格
 
 ## 主要来源
 
-- [2.5万字｜比尔·尼格伦最新长谈，一位25年长期跑赢大盘的传奇投资人，如何与时俱进的价值投资……已付费](/investor-masters/sources/source-03/)
+- [2.5万字｜比尔·尼格伦最新长谈，一位25年长期跑赢大盘的传奇投资人，如何与时俱进的价值投资……已付费](/investor-masters/sources/source-04/)
 - [Oakmark: Bill Nygren profile](https://oakmark.com/who-we-are/our-team/bill-nygren/)
 - [Oakmark funds](https://oakmark.com/our-funds/)
