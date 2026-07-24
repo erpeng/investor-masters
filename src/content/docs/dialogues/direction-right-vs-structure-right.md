@@ -28,6 +28,7 @@ description: "把方法冲突显性化的对照页。"
 - [Herbalife](/investor-masters/companies/herbalife/)
 - [Valeant](/investor-masters/companies/valeant/)
 - [反脆弱与仓位管理](/investor-masters/concepts/antifragility-and-position-sizing/)
+- [期权作为仓位语言](/investor-masters/concepts/options-as-position-language/)
 - [能力圈](/investor-masters/concepts/circle-of-competence/)
 
 ## 主要来源

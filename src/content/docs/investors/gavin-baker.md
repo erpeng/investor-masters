@@ -95,4 +95,5 @@ Fidelity 早期的 Barra 训练让他意识到，看起来不同的股票可能�
 - [13F趋势-Atreides](/investor-masters/institutions/13f-trends-atreides/)
 - [物理瓶颈](/investor-masters/concepts/physical-bottlenecks/)
 - [公私一体科技投资](/investor-masters/concepts/public-private-tech-investing/)
+- [期权作为仓位语言](/investor-masters/concepts/options-as-position-language/)
 - [平台收敛赢家 vs 价值链瓶颈赢家](/investor-masters/dialogues/platform-winners-vs-bottleneck-winners/)

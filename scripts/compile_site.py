@@ -419,6 +419,7 @@ CONCEPT_META = {
     "量化信号工厂": {"slug": "quantitative-signal-factory"},
     "耶鲁模式": {"slug": "yale-model"},
     "反脆弱与仓位管理": {"slug": "antifragility-and-position-sizing"},
+    "期权作为仓位语言": {"slug": "options-as-position-language"},
     "空头视角": {"slug": "short-perspective"},
     "企业文化": {"slug": "corporate-culture"},
     "克隆策略": {"slug": "cloning"},

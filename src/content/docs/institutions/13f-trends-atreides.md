@@ -238,6 +238,8 @@ Atreides 的期权有明显“开、关、再开”特征：QQQ PUT 在 `2023Q2 
 4. **组合主题不是静态标签。** 2023年消费/支付/软件、2024年半导体/网络、2025年存储/软件与期权覆盖不断切换；真正稳定的是“寻找高弹性变化，再快速重排风险预算”。
 5. **13F 更适合生成研究候选，不适合复制仓位。** 披露滞后最多45天，Atreides 的换手又高，最新仓位到现在可能已发生变化。
 
+这套“指数防守 + 个股凸性 + 普通股集中度”的读法，以及它和 Miller、Tepper、Tudor、Berkshire 等人的差异，参见 [期权作为仓位语言](/investor-masters/concepts/options-as-position-language/)。
+
 ## 最近一季可抄作业 / 趋势跟踪排序
 
 价格截至 `2026-07-22` 美股收盘；`SATS` 仅取得 Yahoo `2026-07-17` 最后可用价。季末价使用 SEC `value / shares` 隐含价。排序同时考虑股数动作、普通股与期权是否同向、Atreides 的高换手风格及 13F 后涨幅。
@@ -292,6 +294,7 @@ Atreides 的期权有明显“开、关、再开”特征：QQQ PUT 在 `2023Q2 
 ## 数据来源
 
 - 原始审计底稿：[SEC｜Atreides Management：2022Q4-2026Q1 13F持仓轨迹](/investor-masters/sources/source-67/)
+- 方法对照：[期权作为仓位语言](/investor-masters/concepts/options-as-position-language/)
 - [SEC company submissions](https://data.sec.gov/submissions/CIK0001777813.json)
 - [2026Q1 filing detail](https://www.sec.gov/Archives/edgar/data/1777813/000177781326000006/0001777813-26-000006-index.html)
 - [2026Q1 information table](https://www.sec.gov/Archives/edgar/data/1777813/000177781326000006/Atreides13FXml.xml)

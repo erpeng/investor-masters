@@ -49,6 +49,7 @@ description: "反脆弱与仓位管理 在这批资料 里的最佳入口。"
 - [催化剂与兑现路径](/investor-masters/concepts/catalysts-and-realization-paths/)
 - [时间套利](/investor-masters/concepts/time-arbitrage/)
 - [空头视角](/investor-masters/concepts/short-perspective/)
+- [期权作为仓位语言](/investor-masters/concepts/options-as-position-language/)
 - [趋势交易](/investor-masters/concepts/trend-trading/)
 - [保守的风险语言 vs 激进的仓位语言](/investor-masters/dialogues/risk-and-conviction/)
 - [复利信仰 vs 流动性信仰](/investor-masters/dialogues/compound-faith-vs-liquidity-faith/)

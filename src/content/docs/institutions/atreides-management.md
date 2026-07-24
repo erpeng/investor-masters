@@ -73,6 +73,8 @@ Atreides 奖励长期跟踪产业、快速学习新工具、跨公开与私募�
 
 13F 对 Atreides 尤其容易产生错觉。它只显示美国公开证券多头及部分期权名义持仓，不显示空头、私募、现金、完整衍生品、基金间分配和季度内路径。因此以下权重只在普通股切片内计算；PUT/CALL 单列，不与普通股直接相加解释净风险。
 
+如果要比较 Atreides 与 Miller、Tangen、Klarman、Tepper、Druckenmiller、Tudor 和 Berkshire 对期权的不同用法，参见 [期权作为仓位语言](/investor-masters/concepts/options-as-position-language/)。
+
 ### 近四个已披露季度普通股前十
 
 #### 2026Q1
@@ -154,6 +156,7 @@ Atreides 奖励长期跟踪产业、快速学习新工具、跨公开与私募�
 ### 单机构长线趋势页
 
 - [13F趋势-Atreides](/investor-masters/institutions/13f-trends-atreides/)
+- [期权作为仓位语言](/investor-masters/concepts/options-as-position-language/)
 
 ## 机构传承
 

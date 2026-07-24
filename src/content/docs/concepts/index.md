@@ -43,6 +43,7 @@ description: "跨人物阅读时，最容易反复出现的那几根骨架。"
 - [量化信号工厂](/investor-masters/concepts/quantitative-signal-factory/)
 - [耶鲁模式](/investor-masters/concepts/yale-model/)
 - [反脆弱与仓位管理](/investor-masters/concepts/antifragility-and-position-sizing/)
+- [期权作为仓位语言](/investor-masters/concepts/options-as-position-language/)
 - [空头视角](/investor-masters/concepts/short-perspective/)
 - [企业文化](/investor-masters/concepts/corporate-culture/)
 - [克隆策略](/investor-masters/concepts/cloning/)
