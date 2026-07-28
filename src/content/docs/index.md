@@ -61,6 +61,7 @@ description: "把分散的投资访谈、合伙人信和机构材料，编译成
 
 ## 最近更新
 
+- `2026-07-28` Astera Labs 独立公司研究与 Gavin thesis 验证
 - `2026-07-24` 期权策略横向提纯与 Baupost 持仓表升级
 - `2026-07-23` 建立 Gavin Baker / Atreides 完整专题包
 - `2026-06-26` 补入卡拉曼 Masters in Business 长访谈
@@ -68,4 +69,3 @@ description: "把分散的投资访谈、合伙人信和机构材料，编译成
 - `2026-06-17` 吸收 Klarman MIT 演讲与 AI 时代长访谈
 - `2026-06-16` 按新标准重生成 Coatue 13F 趋势页
 - `2026-06-13` 用最新长访谈重写 Dan Loeb 的三十年演化
-- `2026-06-12` 新增 Third Point 单机构 13F 趋势页
