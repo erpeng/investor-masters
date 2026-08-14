@@ -57,7 +57,7 @@ Ritholtz 访谈给出的 AI 参与方式，也符合这种机构逻辑：Baupost
 - [44年只有5年亏过！“安全边际之父”卡拉曼罕见对话，谈及错失Palantir百亿机会、如何参与AI以及当下投资的三个原则](/investor-masters/sources/source-11/)
 - [2万字｜传奇价值投资者赛斯·卡拉曼深度对话：他人被迫交易时，要有能力抓住机会已付费](/investor-masters/sources/source-09/)
 
-## 13F 持仓（近四个季度）
+## 13F 持仓（近五个季度）
 
 ### 怎么看这组披露
 
@@ -65,20 +65,39 @@ Ritholtz 访谈给出的 AI 参与方式，也符合这种机构逻辑：Baupost
 
 ### 13F 趋势雷达（最近一季横向）
 
-最近一季：`Q1 2026` vs `Q4 2025`。这里合并原“变化摘要”：先看 13F 总市值变化，再看前十大、权重和股数变化；跨机构共振回到季度趋势页统一比较。
+最近一季：`Q2 2026` vs `Q1 2026`。先看13F总市值变化，再看前十大、股数和机会容器迁移；Q2横向页将在其余机构披露齐备后生成。
 
-- 持仓总市值变化：从 `$5.28bn` 到 `$5.12bn`，下降 `-$0.16bn`（-3.1%）。粗拆：主动仓位变化 `-$0.00bn`，价格变化 `-$0.16bn`；主要由价格变化拖累。
-- 新进前 10：FERG, AON, V
-- 退出前 10：FIS, DG, LBTYK
-- 权重上升：AMZN（+3.4 pct）, FERG（+1.8 pct）, QSR（+1.2 pct）, WCC（+1.1 pct）, Americold Realty Trust（+0.9 pct）
-- 权重下降：WTW（-3.4 pct）, LBTYK（-1.7 pct）, EXP（-1.3 pct）, ELV（-1.1 pct）, Grupo Aeromexico Sab（-0.7 pct）
-- 显著加仓：AMZN（股数 +997,363，+47.0%）, FERG（股数 +305,376，+26.9%）, Americold Realty Trust（股数 +4,305,115，+123.9%）, GOOG（股数 +93,950，+8.6%）, WCC（股数 +18,050，+1.3%）
-- 显著减仓：WTW（股数 -464,475，-34.2%）, LBTYK（股数 -9,567,990，-41.7%）, EXP（股数 -292,485，-24.7%）, UNP（股数 -86,259，-5.3%）
-- 横向趋势页：[Q1 2026](/investor-masters/institutions/13f-trends-2026-q1/)
+- 持仓总市值变化：从 `$5.12bn` 到 `$5.42bn`，增加 `$0.30bn`（+5.9%）。粗拆：主动变化约 `-$0.27bn`、价格变化约 `+$0.57bn`。
+- 新进前 10：GPC
+- 退出前 10：WTW
+- 权重上升：AMZN（+3.8 pct）, GPC（+3.1 pct）, GOOG（+2.3 pct）, ELV（+1.8 pct）
+- 权重下降：WCC（-3.5 pct）, WTW（-5.1 pct至清仓）, QSR（-2.6 pct）, UNP（-1.4 pct）
+- 显著加仓：GPC +89.0%、AMZN +20.0%、GOOG +16.2%、CME新进、NCLH +112.9%
+- 显著减仓：WTW/VAXX清仓、WCC -53.9%、QSR -16.4%、UNP -23.1%、EXP -40.5%、LBTYK -36.2%
+- 横向趋势页：Q2 2026 待完整披露后生成；当前横向页仍为 [Q1 2026](/investor-masters/institutions/13f-trends-2026-q1/)
 
 - 单机构长线趋势页：[13F趋势-Baupost](/investor-masters/institutions/13f-trends-baupost/)
 
-### 近四个已披露季度前 10 大持仓
+### 近五个已披露季度前 10 大持仓
+
+#### 2026Q2
+
+季末 `2026-06-30`，申报 `2026-08-13`。13F 可见总额 `$5.42bn`，共 `23 条股权`，前十集中度 `74.9%`。
+
+| 排名 | Ticker / 公司全称 | 市值 | 股数 | 13F权重 | 上季排名 | 较上季股数 | 公司介绍 |
+|---:|---|---:|---:|---:|---:|---:|---|
+| 1 | `AMZN` / Amazon.com, Inc. | $892.3m | 3.74m | 16.5% | 1 | 3.12m -> 3.74m（+20.0%） | 电商、物流、AWS云和广告共同构成的平台现金流资产 |
+| 2 | `ELV` / Elevance Health, Inc. | $493.1m | 1.28m | 9.1% | 5 | 1.28m -> 1.28m（+0.0%） | 美国健康保险和医疗服务公司；权重上升不是主动加仓 |
+| 3 | `QSR` / Restaurant Brands International Inc. | $489.6m | 6.75m | 9.0% | 2 | 8.08m -> 6.75m（-16.4%） | 连锁餐饮品牌的特许经营平台 |
+| 4 | `GOOG` / Alphabet Inc. Class C | $484.7m | 1.37m | 8.9% | 6 | 1.18m -> 1.37m（+16.2%） | 搜索、YouTube、广告、Android和Google Cloud平台 |
+| 5 | `FERG` / Ferguson Enterprises Inc. | $344.3m | 1.45m | 6.4% | 7 | 1.44m -> 1.45m（+0.6%） | 北美管道、暖通和建筑产品分销商 |
+| 6 | `GPC` / Genuine Parts Company | $332.3m | 2.82m | 6.1% | 前十外（13） | 1.49m -> 2.82m（+89.0%） | 汽车和工业零部件分销商，核心看维修后市场和库存效率 |
+| 7 | `UNP` / Union Pacific Corporation | $322.4m | 1.19m | 5.9% | 4 | 1.54m -> 1.19m（-23.1%） | 美国西部铁路网络，核心看货运量、价格和运营效率 |
+| 8 | `V` / Visa Inc. Class A | $240.6m | 701.4k | 4.4% | 10 | 701.4k -> 701.4k（+0.0%） | 全球支付网络；权重变化来自价格和组合结构 |
+| 9 | `WCC` / WESCO International, Inc. | $229.0m | 662.9k | 4.2% | 3 | 1.44m -> 662.9k（-53.9%） | 电气、通信和工业供应链分销商 |
+| 10 | `AON` / Aon plc Class A | $227.9m | 687.0k | 4.2% | 9 | 769.0k -> 687.0k（-10.7%） | 保险经纪与风险咨询公司 |
+
+前十变动：`GPC` 进入，`WTW` 清仓退出。
 
 #### 2026Q1
 
@@ -158,6 +177,7 @@ Ritholtz 访谈给出的 AI 参与方式，也符合这种机构逻辑：Baupost
 
 ### 数据来源
 
+- [SEC 13F Q2 2026 filing detail](https://www.sec.gov/Archives/edgar/data/1061768/000106176826000010/0001061768-26-000010-index.html)
 - [SEC 13F Q1 2026 filing detail](https://www.sec.gov/Archives/edgar/data/1061768/000106176826000007/0001061768-26-000007-index.html)
 - [SEC 13F Q4 2025 filing detail](https://www.sec.gov/Archives/edgar/data/1061768/000106176826000005/0001061768-26-000005-index.html)
 - [SEC 13F Q3 2025 filing detail](https://www.sec.gov/Archives/edgar/data/1061768/000106176825000007/0001061768-25-000007-index.html)

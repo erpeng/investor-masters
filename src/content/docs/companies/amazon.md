@@ -50,6 +50,12 @@ Atreides 2026Q1 持有约 `953.6k` 股 Amazon，价值约 `$198.6m`，占普通�
 
 因此这不是普通“大科技”仓位，而是同一家公司能否同时在基础设施和应用端兑现 AI 经济性的测试。
 
+### 2026Q2 三家机构的风格分叉
+
+同一季的 13F 把亚马逊读出了三种不同动作：AKO 股数约减 `34.0%`，但仍是第六大持仓；Baillie Gifford 小幅减持约 `4.2%`，仍是第三大；Baupost 则增持约 `20.0%`，把它进一步做成第一大持仓，权重约 `16.5%`。
+
+这比“机构都看多亚马逊”更有信息量：长期成长组合在控制仓位，价值/特殊情境组合却在同一资产上继续集中。完整口径分别见 [13F趋势-AKO](/investor-masters/institutions/13f-trends-ako/)、[13F趋势-Baillie](/investor-masters/institutions/13f-trends-baillie/) 与 [13F趋势-Baupost](/investor-masters/institutions/13f-trends-baupost/)。
+
 ## 分歧与共识
 
 共识很清楚：亚马逊不是普通成长股，而是一家能把客户价值、规模与现金流飞轮绑在一起的公司。分歧在于进入方式不同：共享规模经济、`描述差 + 时间差`、信用市场生存错价、平台资产再排序、集中组合替换、缩表后核心留存，以及 Trainium / 机器人能否把 AI 资本开支转成真实损益。
@@ -66,3 +72,6 @@ Atreides 2026Q1 持有约 `953.6k` 股 Amazon，价值约 `$198.6m`，占普通�
 - [加文·贝克](/investor-masters/investors/gavin-baker/)
 - [开市客](/investor-masters/companies/costco/)
 - [13F趋势-Atreides](/investor-masters/institutions/13f-trends-atreides/)
+- [13F趋势-AKO](/investor-masters/institutions/13f-trends-ako/)
+- [13F趋势-Baillie](/investor-masters/institutions/13f-trends-baillie/)
+- [13F趋势-Baupost](/investor-masters/institutions/13f-trends-baupost/)

@@ -40,12 +40,15 @@ description: "不是公司百科，而是“为什么顶级投资人反复提到
 - [Astera Labs](/investor-masters/companies/astera-labs/): Atreides 版本的 AI 互连瓶颈样本，也是“供给约束不等于永久护城河”的压力测试。
 - [Unity Software](/investor-masters/companies/unity-software/): 旧分类、业务修复和期权结构同时存在时，为什么不能只读普通股权重。
 - [Ciena](/investor-masters/companies/ciena/): 光网络需求与主动减仓同时出现，最适合区分产业看多和单股仓位动作。
+- [QXO](/investor-masters/companies/qxo/): Baillie 从小仓位明显做大的建筑产品分销整合样本。
+- [Genuine Parts](/investor-masters/companies/genuine-parts/): Baupost 主动加仓并推入前十的零部件分销样本。
 
 ## 从哪类公司开始读
 
 - **高质量复利样本**: [开市客](/investor-masters/companies/costco/)、[可口可乐](/investor-masters/companies/coca-cola/)、[微软](/investor-masters/companies/microsoft/)、[Visa](/investor-masters/companies/visa/)、[ADP](/investor-masters/companies/adp/)、[伯克希尔·哈撒韦](/investor-masters/companies/berkshire-hathaway/)、[Constellation Software](/investor-masters/companies/constellation-software/)、[O'Reilly Automotive](/investor-masters/companies/oreilly-automotive/)、[Markel](/investor-masters/companies/markel/)、[帝亚吉欧](/investor-masters/companies/diageo/)、[Heineken](/investor-masters/companies/heineken/)、[伦敦证券交易所集团](/investor-masters/companies/london-stock-exchange-group/)、[RELX](/investor-masters/companies/relx/)、[Sage](/investor-masters/companies/sage/)
 - **平台与科技赢家**: [亚马逊](/investor-masters/companies/amazon/)、[苹果](/investor-masters/companies/apple/)、[腾讯](/investor-masters/companies/tencent/)、[Meta](/investor-masters/companies/meta/)、[Alphabet](/investor-masters/companies/alphabet/)、[Netflix](/investor-masters/companies/netflix/)、[Salesforce](/investor-masters/companies/salesforce/)、[Airbnb](/investor-masters/companies/airbnb/)、[AppLovin](/investor-masters/companies/applovin/)、[Uber](/investor-masters/companies/uber/)、[英伟达](/investor-masters/companies/nvidia/)、[台积电](/investor-masters/companies/tsmc/)、[ASML](/investor-masters/companies/asml/)、[Waymo](/investor-masters/companies/waymo/)
 - **2026Q1 13F 联动线索**: [Uber](/investor-masters/companies/uber/)、[AppLovin](/investor-masters/companies/applovin/)、[Astera Labs](/investor-masters/companies/astera-labs/)、[Unity Software](/investor-masters/companies/unity-software/)、[Ciena](/investor-masters/companies/ciena/)、[Micron Technology](/investor-masters/companies/micron-technology/)、[Lumentum](/investor-masters/companies/lumentum/)、[Coherent](/investor-masters/companies/coherent/)、[EchoStar](/investor-masters/companies/echostar/)、[Sunbelt Rentals](/investor-masters/companies/sunbelt-rentals/)、[S&P Global](/investor-masters/companies/s-p-global/)、[Linde](/investor-masters/companies/linde/)、[Telephone and Data Systems](/investor-masters/companies/telephone-and-data-systems/)、[Somnigroup International](/investor-masters/companies/somnigroup-international/)、[Carpenter Technology](/investor-masters/companies/carpenter-technology/)、[MasTec](/investor-masters/companies/mastec/)、[API Group](/investor-masters/companies/api-group/)、[台积电](/investor-masters/companies/tsmc/)、[ASML](/investor-masters/companies/asml/)、[GE Vernova](/investor-masters/companies/ge-vernova/)、[Constellation Energy](/investor-masters/companies/constellation-energy/)、[Eaton](/investor-masters/companies/eaton/)、[Equinix](/investor-masters/companies/equinix/)、[Lam Research](/investor-masters/companies/lam-research/)、[Applied Materials](/investor-masters/companies/applied-materials/)、[Broadcom](/investor-masters/companies/broadcom/)
+- **2026Q2 13F 首批联动**: [SpaceX](/investor-masters/companies/spacex/)、[Sunbelt Rentals](/investor-masters/companies/sunbelt-rentals/)、[Air Products](/investor-masters/companies/air-products/)、[亚马逊](/investor-masters/companies/amazon/)、[Alphabet](/investor-masters/companies/alphabet/)、[CRH](/investor-masters/companies/crh/)、[Broadcom](/investor-masters/companies/broadcom/)、[Genuine Parts](/investor-masters/companies/genuine-parts/)、[CME Group](/investor-masters/companies/cme-group/)、[QXO](/investor-masters/companies/qxo/)、[Royal Bank of Canada](/investor-masters/companies/royal-bank-of-canada/)
 - **Coatue / AI 资本开支约束**: [台积电](/investor-masters/companies/tsmc/)、[ASML](/investor-masters/companies/asml/)、[GE Vernova](/investor-masters/companies/ge-vernova/)、[Constellation Energy](/investor-masters/companies/constellation-energy/)、[Eaton](/investor-masters/companies/eaton/)、[Equinix](/investor-masters/companies/equinix/)、[Lam Research](/investor-masters/companies/lam-research/)、[Applied Materials](/investor-masters/companies/applied-materials/)、[Broadcom](/investor-masters/companies/broadcom/)
 - **Atreides / AI 物理瓶颈与相邻估值**: [Astera Labs](/investor-masters/companies/astera-labs/)、[Ciena](/investor-masters/companies/ciena/)、[Micron Technology](/investor-masters/companies/micron-technology/)、[英伟达](/investor-masters/companies/nvidia/)、[Lumentum](/investor-masters/companies/lumentum/)、[Coherent](/investor-masters/companies/coherent/)、[亚马逊](/investor-masters/companies/amazon/)、[Alphabet](/investor-masters/companies/alphabet/)
 - **战役与治理修复样本**: [Chipotle](/investor-masters/companies/chipotle/)、[General Growth](/investor-masters/companies/general-growth/)、[Canadian Pacific](/investor-masters/companies/canadian-pacific/)、[Wendy's](/investor-masters/companies/wendys/)、[Tim Hortons](/investor-masters/companies/tim-hortons/)
@@ -136,6 +139,11 @@ description: "不是公司百科，而是“为什么顶级投资人反复提到
 - [Applied Materials](/investor-masters/companies/applied-materials/)
 - [Broadcom](/investor-masters/companies/broadcom/)
 - [Sunbelt Rentals](/investor-masters/companies/sunbelt-rentals/)
+- [Air Products](/investor-masters/companies/air-products/)
+- [Genuine Parts](/investor-masters/companies/genuine-parts/)
+- [CME Group](/investor-masters/companies/cme-group/)
+- [QXO](/investor-masters/companies/qxo/)
+- [Royal Bank of Canada](/investor-masters/companies/royal-bank-of-canada/)
 - [S&P Global](/investor-masters/companies/s-p-global/)
 - [Linde](/investor-masters/companies/linde/)
 - [Telephone and Data Systems](/investor-masters/companies/telephone-and-data-systems/)
@@ -163,14 +171,15 @@ description: "不是公司百科，而是“为什么顶级投资人反复提到
 - [ADP](/investor-masters/companies/adp/): ADP 在这批资料里不是宏大叙事的公司，而是一个很典型的质量复利持仓样本：业务稳、对就业周期敏感、但市场容易对短期指引反应过度。
 - [API Group](/investor-masters/companies/api-group/): API Group (`APG`) 在 Third Point Q1 2026 里代表的是 `消防安全 / 检测维护 / 专业服务外包` 这条更偏经常性服务的工业线。
 - [ASML](/investor-masters/companies/asml/): ASML 在这批资料里同时承担两种角色：一方面是 Baillie Gifford 欣赏但外界不常问的稀缺公司，另一方面是 AI 价值链上最明确的上游瓶颈之一。
+- [Air Products](/investor-masters/companies/air-products/): Air Products（`APD`）是工业气体与大型项目运营商。
 - [Airbnb](/investor-masters/companies/airbnb/): Airbnb 在这套 wiki 里是 [[investors/比尔·尼格伦]] 解释“增长投入如何被重新还原”的另一个样本。
 - [Alphabet](/investor-masters/companies/alphabet/): Alphabet 在这批资料里最重要的不是“它是不是好公司”，而是市场会不会在 AI 冲击下短暂忘记它到底有多强。
-- [Apollo](/investor-masters/companies/apollo/): Apollo 在这批资料里最重要的意义，不是另类资管公司介绍，而是它作为 Third Point `Q1 2025` 的公开前十样本、以及 `2024Q4` 主要正贡献者之一，帮助你看清丹·勒布的公开权益切片并不只押在主动推动或单一行业上，也会落在更贴近 `信用 / 另类资产 / 资本市场` 语言的金融平台上。
 
 ## 全部公司
 - [ADP](/investor-masters/companies/adp/)
 - [API Group](/investor-masters/companies/api-group/)
 - [ASML](/investor-masters/companies/asml/)
+- [Air Products](/investor-masters/companies/air-products/)
 - [Airbnb](/investor-masters/companies/airbnb/)
 - [Alphabet](/investor-masters/companies/alphabet/)
 - [Apollo](/investor-masters/companies/apollo/)
@@ -180,6 +189,7 @@ description: "不是公司百科，而是“为什么顶级投资人反复提到
 - [BlackBerry](/investor-masters/companies/blackberry/)
 - [Broadcom](/investor-masters/companies/broadcom/)
 - [Brookfield](/investor-masters/companies/brookfield/)
+- [CME Group](/investor-masters/companies/cme-group/)
 - [CRH](/investor-masters/companies/crh/)
 - [Canadian Pacific](/investor-masters/companies/canadian-pacific/)
 - [Capital One](/investor-masters/companies/capital-one/)
@@ -197,6 +207,7 @@ description: "不是公司百科，而是“为什么顶级投资人反复提到
 - [GE Vernova](/investor-masters/companies/ge-vernova/)
 - [GEICO](/investor-masters/companies/geico/)
 - [General Growth](/investor-masters/companies/general-growth/)
+- [Genuine Parts](/investor-masters/companies/genuine-parts/)
 - [Heineken](/investor-masters/companies/heineken/)
 - [Herbalife](/investor-masters/companies/herbalife/)
 - [Howard Hughes](/investor-masters/companies/howard-hughes/)
@@ -214,8 +225,10 @@ description: "不是公司百科，而是“为什么顶级投资人反复提到
 - [O'Reilly Automotive](/investor-masters/companies/oreilly-automotive/)
 - [PG&E](/investor-masters/companies/pge/)
 - [Palantir](/investor-masters/companies/palantir/)
+- [QXO](/investor-masters/companies/qxo/)
 - [RELX](/investor-masters/companies/relx/)
 - [Restaurant Brands](/investor-masters/companies/restaurant-brands/)
+- [Royal Bank of Canada](/investor-masters/companies/royal-bank-of-canada/)
 - [S&P Global](/investor-masters/companies/s-p-global/)
 - [Sage](/investor-masters/companies/sage/)
 - [Salesforce](/investor-masters/companies/salesforce/)

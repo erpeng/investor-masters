@@ -36,7 +36,7 @@ Baillie Gifford 的核心文化约束，不是高频奖惩，而是合伙制、�
 - [近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-masters/sources/source-140/)：现任掌舵人的执行口径，能看到理念如何延续到中国和 AI 场景。
 - [Baillie Gifford About Us](https://www.bailliegifford.com/en/uk/individual-investors/about-us/)：官方层面对规模、持有期、合伙制结构的说明。
 
-## 13F 持仓（近四个季度）
+## 13F 持仓（近五个季度）
 
 ### 怎么看这组披露
 
@@ -44,19 +44,30 @@ Baillie Gifford 的核心文化约束，不是高频奖惩，而是合伙制、�
 
 ### 13F 趋势雷达（最近一季横向）
 
-最近一季：`Q1 2026` vs `Q4 2025`。这里合并原“变化摘要”：先看 13F 总市值变化，再看前十大、权重和股数变化；跨机构共振回到季度趋势页统一比较。
+最近一季：`Q2 2026` vs `Q1 2026`。先看13F总市值变化，再看前十大、股数和披露口径变化；Q2横向页将在其余机构披露齐备后生成。
 
-- 持仓总市值变化：从 `$120.34bn` 到 `$97.89bn`，下降 `-$22.45bn`（-18.7%）。粗拆：主动仓位变化 `-$5.23bn`，价格变化 `-$17.22bn`；主要由价格变化拖累。
-- 新进前 10：NET
-- 退出前 10：NFLX
-- 权重上升：Petrobras Common Adr（+0.7 pct）, Credicorp（+0.6 pct）, NET（+0.6 pct）, Moderna（+0.5 pct）, NVDA（+0.5 pct）
-- 权重下降：Microsoft（-0.8 pct）, SE（-0.8 pct）, NFLX（-0.7 pct）, APP（-0.7 pct）, The Trade Desk（-0.7 pct）
-- 显著加仓：Makemytrip（股数 +9,857,927，+191.2%）, Axon Enterprise（股数 +817,149，+49.7%）, Credicorp（股数 +1,296,605，+90.5%）, APP（股数 +533,783，+8.7%）, Samsara（股数 +9,863,279，+20.7%）
-- 显著减仓：NFLX（股数 -15,134,366，-41.0%）, The Trade Desk（股数 -22,155,614，-99.3%）, Microsoft（股数 -1,666,810，-30.1%）, CPNG（股数 -25,465,852，-17.4%）, NVDA（股数 -3,119,040，-7.1%）
-- 横向趋势页：[Q1 2026](/investor-masters/institutions/13f-trends-2026-q1/)
+- 持仓总市值变化：从 `$97.89bn` 到 `$110.23bn`，增加 `$12.33bn`（+12.6%）；机械主动项包含SpaceX首次披露，不能直接视为Q2买入。
+- 新进前 10：SpaceX；首次披露约 `$8.78bn`、占8.0%，成为第一大。
+- 退出前 10：PDD，但仍持有26,594,535股、占1.8%。
+- 明显加仓：QXO +251.3%、RY和CRH从极小跟踪仓放大、AVGO +1,318.6%、AXON +24.4%、KLA新进。
+- 显著减仓：CPNG -34.7%、NFLX -25.8%、RKLB -43.6%、META -21.9%、MSFT -30.0%、TEAM -63.3%。
+- 横向趋势页：Q2 2026 待完整披露后生成；当前横向页仍为 [Q1 2026](/investor-masters/institutions/13f-trends-2026-q1/)
 - 单机构长线趋势页：[13F趋势-Baillie](/investor-masters/institutions/13f-trends-baillie/)
 
-### 近四个已披露季度前 10 大持仓
+### 近五个已披露季度前 10 大持仓
+
+#### Q2 2026
+
+- `SpaceX` Space Exploration Technologies：`8.0%`，约 `$8.78bn`，`51,397,806` 股；首次进入13F披露，不等同于Q2新建仓。
+- `NVDA` Nvidia：`7.6%`，约 `$8.38bn`，`41,888,806` 股。
+- `AMZN` Amazon：`5.8%`，约 `$6.42bn`，`26,917,866` 股。
+- `MELI` MercadoLibre：`4.7%`，约 `$5.16bn`，`3,040,410` 股。
+- `SE` Sea：`3.3%`，约 `$3.68bn`，`38,409,385` 股。
+- `SPOT` Spotify：`3.3%`，约 `$3.64bn`，`7,928,451` 股。
+- `NET` Cloudflare：`3.2%`，约 `$3.58bn`，`14,598,594` 股。
+- `APP` AppLovin：`3.0%`，约 `$3.33bn`，`6,471,615` 股。
+- `SHOP` Shopify：`2.9%`，约 `$3.24bn`，`28,403,600` 股。
+- `NU` Nu Holdings：`2.8%`，约 `$3.07bn`，`229,930,331` 股。
 
 #### Q1 2026
 
@@ -112,6 +123,7 @@ Baillie Gifford 的核心文化约束，不是高频奖惩，而是合伙制、�
 
 ### 数据来源
 
+- [SEC 13F Q2 2026 filing detail](https://www.sec.gov/Archives/edgar/data/1088875/000108887526000057/0001088875-26-000057-index.html)
 - [SEC 13F Q1 2026 filing detail](https://www.sec.gov/Archives/edgar/data/1088875/000108887526000037/0001088875-26-000037-index.html)
 - [SEC 13F Q4 2025 filing detail](https://www.sec.gov/Archives/edgar/data/1088875/000108887526000002/0001088875-26-000002-index.html)
 - [SEC 13F Q3 2025 filing detail](https://www.sec.gov/Archives/edgar/data/1088875/000108887525000079/0001088875-25-000079-index.html)

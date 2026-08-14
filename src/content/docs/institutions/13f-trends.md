@@ -9,7 +9,7 @@ description: "把机构 13F 按季度横向拉齐，观察跨机构持仓趋势�
 
 最近横向抓取时间：`2026-06-08 14:20 CST`。
 
-最近单机构补充：`2026-07-23` 新增 [13F趋势-Atreides](/investor-masters/institutions/13f-trends-atreides/)，并把普通股、PUT、CALL 拆开计算。
+最近单机构补充：`2026-08-14` 将 [13F趋势-AKO](/investor-masters/institutions/13f-trends-ako/)、[13F趋势-Baillie](/investor-masters/institutions/13f-trends-baillie/)、[13F趋势-Baupost](/investor-masters/institutions/13f-trends-baupost/) 更新至 `2026Q2`；全市场横向 Q2 页待其余机构披露齐备后生成。`2026-07-23` 新增的 [13F趋势-Atreides](/investor-masters/institutions/13f-trends-atreides/) 继续把普通股、PUT、CALL 拆开计算。
 
 ## 趋势解读
 
@@ -38,9 +38,9 @@ description: "把机构 13F 按季度横向拉齐，观察跨机构持仓趋势�
 - [Oakmark / Harris Associates：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-oakmark/)
 - [Maverick Capital：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-maverick/)
 - [Pershing Square：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-pershing/)
-- [Baillie Gifford：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-baillie/)
-- [Baupost Group：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-baupost/)
-- [AKO Capital：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-ako/)
+- [Baillie Gifford：2023Q1-2026Q2 持仓变化](/investor-masters/institutions/13f-trends-baillie/)
+- [Baupost Group：2023Q1-2026Q2 持仓变化](/investor-masters/institutions/13f-trends-baupost/)
+- [AKO Capital：2023Q1-2026Q2 持仓变化](/investor-masters/institutions/13f-trends-ako/)
 - [H&H International Investment：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-hh/)
 - [Fundsmith：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-fundsmith/)
 - [Giverny Capital：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-giverny/)
@@ -62,7 +62,7 @@ description: "把机构 13F 按季度横向拉齐，观察跨机构持仓趋势�
 
 ### 数据窗口
 
-- 趋势计算抓取每家最近 `5` 个可用 13F 报告期，用来计算最近 `4` 个季度变化；机构页仍只展示最近 `4` 个季度前 10 大持仓。
+- 横向趋势计算抓取每家最近 `5` 个可用 13F 报告期，用来计算最近 `4` 个季度变化；单机构专题可以保留更长时间序列，本轮更新的三张机构主页展示最近 `5` 个季度前 10 大持仓。
 - 某个季度页只纳入“本季和上一季都能取到 13F”的机构；纳入机构少于 `2` 家的季度不生成趋势页。若某机构最新披露滞后，会在季度页的“披露滞后”中单独列出。
 - Q2 2025 之前只覆盖 1 家，是旧脚本只抓近 4 个报告期造成的窗口问题：多数机构只能算到 Q3 2025 vs Q2 2025，只有 H&H 因最新停在 Q4 2025，才额外算到了 Q2 2025 vs Q1 2025。现在趋势窗口已扩到 5 季，Q2 2025 会纳入更多能取得 Q2/Q1 连续披露的机构。
 

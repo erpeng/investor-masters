@@ -25,6 +25,12 @@ CRH 在这批资料里最重要的意义，不是建材公司介绍，而是它�
 
 如果说 `PG&E` 是长期主动推动主轴，`Union Pacific` 是工业基础设施切换的代表，那么 `CRH` 更像丹·勒布当季公开仓位簿的另一条腿：`把一部分资本转向更传统、但更贴近现实资产与资本开支周期的工业资产。`
 
+### [Baillie Gifford](/investor-masters/institutions/baillie-gifford/) / 2026Q2 13F
+
+Baillie Gifford 在 2026Q2 把 `CRH` 从仅 `463` 股的跟踪仓位提高到约 `5.99m` 股，季度末价值约 `$641.5m`、权重约 `0.58%`。这里不使用夸张的百分比标题：真正有意义的是它从近乎零的观察仓，变成了一笔有实际组合意义的持仓。
+
+季度末隐含价约 `$107.01`；截至 `2026-08-14 17:00 CST` 的公开行情快照约 `$97.70`，13F 后约 `-8.7%`。完整轨迹见 [13F趋势-Baillie](/investor-masters/institutions/13f-trends-baillie/)。
+
 ## 分歧与共识
 
 当前资料里，CRH 还是 Third Point 的单线样本。它最有价值的地方，不在公司百科，而在于帮助你看清丹·勒布的组合不是固定的“风格脸谱”，而是会在不同市场阶段，把公开多头切片明显推向新的赔率区间。
@@ -37,3 +43,5 @@ CRH 在这批资料里最重要的意义，不是建材公司介绍，而是它�
 - [事件驱动](/investor-masters/concepts/event-driven/)
 - [Union Pacific](/investor-masters/companies/union-pacific/)
 - [Brookfield](/investor-masters/companies/brookfield/)
+- [Baillie Gifford](/investor-masters/institutions/baillie-gifford/)
+- [13F趋势-Baillie](/investor-masters/institutions/13f-trends-baillie/)

@@ -40,7 +40,7 @@ AKO 的文化骨架，可以直接从尼科莱在《Capital Allocators》里的�
 - [AKO About Us](https://www.akocapital.com/about-us/)：官方对规模、产品与合伙制属性的简介。
 - [AKO Business Principles](https://www.akocapital.com/business-principles/)：机构如何看待责任投资、客户、团队与长期主义的正式表达。
 
-## 13F 持仓（近四个季度）
+## 13F 持仓（近五个季度）
 
 ### 怎么看这组披露
 
@@ -48,19 +48,32 @@ AKO 的文化骨架，可以直接从尼科莱在《Capital Allocators》里的�
 
 ### 13F 趋势雷达（最近一季横向）
 
-最近一季：`Q1 2026` vs `Q4 2025`。这里合并原“变化摘要”：先看 13F 总市值变化，再看前十大、权重和股数变化；跨机构共振回到季度趋势页统一比较。
+最近一季：`Q2 2026` vs `Q1 2026`。先看13F总市值变化，再看前十大、权重和股数变化；Q2横向页将在其余机构披露齐备后生成。
 
-- 持仓总市值变化：从 `$6.57bn` 到 `$5.11bn`，下降 `-$1.46bn`（-22.2%）。粗拆：主动仓位变化 `-$0.89bn`，价格变化 `-$0.57bn`；主要由主动仓位变化拖累。
-- 新进前 10：WAT, CSCO
-- 退出前 10：FLTR, MCO
-- 权重上升：ALC（+4.3 pct）, ADI（+1.3 pct）, LIN（+1.2 pct）, CSCO（+1.0 pct）, AMZN（+1.0 pct）
-- 权重下降：FLTR（-9.2 pct）, Copart（-3.4 pct）, MMC（-3.3 pct）, MSFT（-2.2 pct）, MCO（-1.4 pct）
-- 显著加仓：ALC（股数 +1,637,956，+21.3%）, LIN（股数 +121,155，+899.0%）, BKNG（股数 +7,122，+16.6%）, MA（股数 +55,483，+55.4%）, Fair Isaac（股数 +14,427，+12.8%）
-- 显著减仓：FLTR（股数 -2,622,399，-84.3%）, MMC（股数 -1,223,333，-82.4%）, Copart（股数 -5,736,076，-95.4%）, MSFT（股数 -285,501，-28.0%）, MCO（股数 -225,744，-30.6%）
-- 横向趋势页：[Q1 2026](/investor-masters/institutions/13f-trends-2026-q1/)
+- 持仓总市值变化：从 `$5.11bn` 到 `$4.29bn`，下降 `-$0.82bn`（-16.0%）。粗拆：主动变化 `-$1.14bn`、价格变化 `+$0.32bn`。
+- 新进前 10：SUNB, CP；其中 CP 股数下降，属于被动进入。
+- 退出前 10：WAT, ICE
+- 权重上升：SUNB（+6.5 pct）, ALC（+1.6 pct）, RACE（+1.6 pct）, V（+0.9 pct）, CSCO（+0.8 pct）
+- 权重下降：WAT（-3.0 pct）, ICE（-2.9 pct）, AMZN（-0.7 pct）, ADI（-0.7 pct）
+- 显著加仓：SUNB（+2,889,533股，+90.7%）, APD（+320,003股，+137.1%）, MA（+34,349股，+22.1%）, CPRT（+382,509股，+139.6%）
+- 显著减仓：BKNG清仓、WAT -75.1%、ICE -46.3%、ADI -40.1%、AMZN -34.0%、CSCO -35.2%
+- 横向趋势页：Q2 2026 待完整披露后生成；当前横向页仍为 [Q1 2026](/investor-masters/institutions/13f-trends-2026-q1/)
 - 单机构长线趋势页：[13F趋势-AKO](/investor-masters/institutions/13f-trends-ako/)
 
-### 近四个已披露季度前 10 大持仓
+### 近五个已披露季度前 10 大持仓
+
+#### Q2 2026
+
+- `ALC` Alcon：`15.2%`，约 `$0.65bn`，`9,683,004` 股。
+- `SUNB` Sunbelt Rentals：`10.6%`，约 `$0.45bn`，`6,074,817` 股。
+- `V` Visa：`7.9%`，约 `$0.34bn`，`985,126` 股。
+- `RACE` Ferrari：`7.7%`，约 `$0.33bn`，`886,360` 股。
+- `GE` GE Aerospace：`6.7%`，约 `$0.29bn`，`771,417` 股。
+- `AMZN` Amazon：`6.3%`，约 `$0.27bn`，`1,141,835` 股。
+- `ADI` Analog Devices：`5.7%`，约 `$0.25bn`，`616,881` 股。
+- `MSFT` Microsoft：`5.5%`，约 `$0.23bn`，`628,224` 股。
+- `CSCO` Cisco：`5.4%`，约 `$0.23bn`，`1,971,628` 股。
+- `CP` Canadian Pacific Kansas City：`4.9%`，约 `$0.21bn`，`2,426,027` 股。
 
 #### Q1 2026
 
@@ -116,6 +129,7 @@ AKO 的文化骨架，可以直接从尼科莱在《Capital Allocators》里的�
 
 ### 数据来源
 
+- [SEC 13F Q2 2026 filing detail](https://www.sec.gov/Archives/edgar/data/1376879/000137687926000006/0001376879-26-000006-index.html)
 - [SEC 13F Q1 2026 filing detail](https://www.sec.gov/Archives/edgar/data/1376879/000137687926000003/0001376879-26-000003-index.html)
 - [SEC 13F Q4 2025 filing detail](https://www.sec.gov/Archives/edgar/data/1376879/000137687926000002/0001376879-26-000002-index.html)
 - [SEC 13F Q3 2025 filing detail](https://www.sec.gov/Archives/edgar/data/1376879/000137687925000008/0001376879-25-000008-index.html)

@@ -47,6 +47,12 @@ Atreides 2026Q1 持有约 `555.0k` 股 Alphabet A 类股，价值约 `$159.6m`�
 
 但这只是公开普通股切片。Atreides 同时使用指数 PUT 和个股 CALL，不能把 Alphabet 新仓单独外推成完整组合方向。
 
+### [Baupost Group](/investor-masters/institutions/baupost-group/) / 2026Q2 13F
+
+Baupost 在 2026Q2 把 `GOOG` 从约 `1.18m` 股增至 `1.37m` 股，增幅约 `16.2%`；季度末价值约 `$484.7m`、权重约 `8.9%`，成为第四大持仓。季度末隐含价约 `$353.33`，截至 `2026-08-14 17:00 CST` 的公开行情快照约 `$343.94`，13F 后约 `-2.7%`。
+
+这是一笔主动增加的平台仓位，不只是价格推高权重；但它仍只是 Baupost 公开美股多头切片。完整轨迹见 [13F趋势-Baupost](/investor-masters/institutions/13f-trends-baupost/)。
+
 ## 分歧与共识
 
 不同投资人的进入语言并不相同：阿克曼看 `AI 恐慌下的错误重描述`，安德森看 `平台吸值能力与认知迟到`，米勒看 `重仓候选中的未来价值赔率`，尼格伦看 `价值增长 vs 倍数扩张`，Rochon 看 `AI 叙事背后的 owner earnings`，Baker 则看 AI 巨头之间的相对分类和估值一致性。
@@ -64,3 +70,5 @@ Atreides 2026Q1 持有约 `555.0k` 股 Alphabet A 类股，价值约 `$159.6m`�
 - [永久复利 vs 七年价值重估](/investor-masters/dialogues/permanent-compounding-vs-seven-year-revaluation/)
 - [微软](/investor-masters/companies/microsoft/)
 - [Meta](/investor-masters/companies/meta/)
+- [Baupost Group](/investor-masters/institutions/baupost-group/)
+- [13F趋势-Baupost](/investor-masters/institutions/13f-trends-baupost/)

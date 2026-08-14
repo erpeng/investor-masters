@@ -1219,15 +1219,15 @@ def compile_institutions():
         elif stem == "13F趋势-AKO":
             title = "13F 趋势 - AKO"
             slug = "13f-trends-ako"
-            description = "AKO Capital 从 2023Q1 到 2026Q1 的单机构 13F 持仓变化。"
+            description = "AKO Capital 从 2023Q1 到 2026Q2 的单机构 13F 持仓变化。"
         elif stem == "13F趋势-Baillie":
             title = "13F 趋势 - Baillie Gifford"
             slug = "13f-trends-baillie"
-            description = "Baillie Gifford 从 2023Q1 到 2026Q1 的单机构 13F 持仓变化。"
+            description = "Baillie Gifford 从 2023Q1 到 2026Q2 的单机构 13F 持仓变化。"
         elif stem == "13F趋势-Baupost":
             title = "13F 趋势 - Baupost"
             slug = "13f-trends-baupost"
-            description = "Baupost Group 从 2023Q1 到 2026Q1 的单机构 13F 持仓变化。"
+            description = "Baupost Group 从 2023Q1 到 2026Q2 的单机构 13F 持仓变化。"
         elif stem == "13F趋势-Pershing":
             title = "13F 趋势 - Pershing"
             slug = "13f-trends-pershing"

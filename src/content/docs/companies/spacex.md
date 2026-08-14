@@ -37,6 +37,12 @@ Cathie 这条线把 SpaceX 读成了 `基础设施级平台赢家`。重点不�
 
 纳瓦尔把 SpaceX 当作“知识不能被简单切分”的经典例子。
 
+### [Baillie Gifford](/investor-masters/institutions/baillie-gifford/) / 2026Q2 13F
+
+Baillie Gifford 在 2026Q2 的 13F 中首次披露 SpaceX，约 `51.40m` 股、`$8.78bn`，占公开组合约 `8.0%`，直接成为第一大持仓。这里的关键词是“首次披露”，不是“本季度新买”：SpaceX 此前并非 13F 常规披露资产，不能仅凭首次出现反推建仓时间。
+
+这笔披露仍然很重要。它把 Baillie 长期公开表达的 SpaceX 高确信度，第一次以可见仓位规模钉在了 13F 上。完整季度口径见 [13F趋势-Baillie](/investor-masters/institutions/13f-trends-baillie/)。
+
 ## 分歧与共识
 
 共识在于 SpaceX 不只是航天公司，而是一家不断打开新约束边界的公司。分歧在于有人更看瓶颈控制权，有人更看创始人与组织知识，有人则直接把它当成未来超级赢家，而 Cathie 则更明确地把它读成会承接后续平台与应用层价值的基础设施底座。
@@ -49,3 +55,5 @@ Cathie 这条线把 SpaceX 读成了 `基础设施级平台赢家`。重点不�
 - [纳瓦尔·拉维坎特](/investor-masters/investors/naval-ravikant/)
 - [特斯拉](/investor-masters/companies/tesla/)
 - [ARK Invest](/investor-masters/institutions/ark-invest/)
+- [Baillie Gifford](/investor-masters/institutions/baillie-gifford/)
+- [13F趋势-Baillie](/investor-masters/institutions/13f-trends-baillie/)
