@@ -13,7 +13,7 @@ Atreides 值得单独读，是因为它把 [加文·贝克](/investor-masters/in
 
 Atreides Management, LP 由 Gavin Baker 于 `2019` 年创办，总部位于 Boston。SEC 登记信息为 file number `801-115226`、CRD `301152`，13F filer CIK 为 `0001777813`。`2026-05-29` 更新的 Form ADV 披露 regulatory assets under management 约 `$8.94bn`，全部为 discretionary assets。
 
-这里必须区分三个数字：`$8.94bn` 是监管 AUM；`2026Q1` 13F 可见总额约 `$5.00bn`；其中普通股切片约 `$4.10bn`。它们分别回答管理规模、美国公开证券及部分期权名义披露、普通股多头仓位，不能互相替代。
+这里必须区分三个数字：`$8.94bn` 是截至 ADV 更新时的监管 AUM；`2026Q2` 13F 可见总额约 `$14.34bn`；其中普通股切片约 `$11.15bn`。后两个数字被 SpaceX 和 Cerebras 两项首次公开披露显著抬高，不能倒推出它们是在二季度买入；监管 AUM、13F 总额和普通股多头切片也不能互相替代。
 
 ## 投资哲学（机构级）
 
@@ -67,7 +67,7 @@ Atreides 奖励长期跟踪产业、快速学习新工具、跨公开与私募�
 - [Atreides Management｜官网与SEC事实](/investor-masters/sources/source-15/)
 - [SEC｜Atreides Management：2022Q4-2026Q1 13F持仓轨迹](/investor-masters/sources/source-67/)
 
-## 13F 持仓（近四个季度）
+## 13F 持仓（近五个季度）
 
 ### 怎么看这组披露
 
@@ -75,7 +75,36 @@ Atreides 奖励长期跟踪产业、快速学习新工具、跨公开与私募�
 
 如果要比较 Atreides 与 Miller、Tangen、Klarman、Tepper、Druckenmiller、Tudor 和 Berkshire 对期权的不同用法，参见 [期权作为仓位语言](/investor-masters/concepts/options-as-position-language/)。
 
-### 近四个已披露季度普通股前十
+### 13F 趋势雷达（最近一季横向）
+
+最近一季：`Q2 2026` vs `Q1 2026`。
+
+- 13F 总额从 `$5.00bn` 升至 `$14.34bn`；普通股从 `$4.10bn` 升至 `$11.15bn`，另有 `QQQ PUT $2.36bn` 和 CALL `$0.83bn`。
+- SpaceX（`$4.67bn`）和 Cerebras（`$0.69bn`）是首次公开披露，不等于二季度新买；剔除两项后，可比普通股约 `$5.79bn`。
+- 可比口径粗拆：主动变化约 `-$0.44bn`，价格变化约 `+$2.13bn`。总表暴增主要来自首次披露和价格上涨，而不是单纯净买入。
+- 显著减仓：ALAB `-63.8%`、U `-17.3%`、MU `-6.5%`；显著加仓：PANW `+56.1%`。CIEN、CRDO、COHR、NVDA 股数大体稳定。
+- 前十大占普通股切片 `76.3%`，但其中两项首次披露占普通股 `48.1%`；不能把表面集中度直接等同于二季度风险偏好跃升。
+
+### 近五个已披露季度普通股前十
+
+#### 2026Q2
+
+季末 `2026-06-30`，申报 `2026-08-14`。普通股切片 `$11.15bn`，共 `46` 只，前十集中度 `76.3%`。
+
+| 排名 | Ticker / 公司全称 | 市值 | 股数 | 普通股权重 | 较上季股数 | 中文业务说明 |
+|---:|---|---:|---:|---:|---:|---|
+| 1 | SpaceX / Space Exploration Technologies | $4.670bn | 27,332,943 | 41.9% | 首次公开披露 | 火箭发射、Starlink 卫星互联网与航天基础设施平台 |
+| 2 | `MU` / Micron Technology | $821.1m | 711,364 | 7.4% | -6.5% | DRAM、HBM 与 NAND 存储芯片公司 |
+| 3 | Cerebras Systems | $687.3m | 3,110,086 | 6.2% | 首次公开披露 | 晶圆级 AI 加速器及配套系统、云计算服务公司 |
+| 4 | `ALAB` / Astera Labs | $587.7m | 1,216,795 | 5.3% | -63.8% | AI 数据中心 PCIe、CXL 与以太网连接芯片公司 |
+| 5 | `CIEN` / Ciena | $337.8m | 688,521 | 3.0% | +1.7% | 高速光网络设备与软件公司 |
+| 6 | `CRDO` / Credo Technology | $307.1m | 1,129,285 | 2.8% | +3.5% | 高速连接芯片、DSP 与主动电缆供应商 |
+| 7 | `PANW` / Palo Alto Networks | $299.1m | 876,954 | 2.7% | +56.1% | 网络、云与安全运营平台 |
+| 8 | `U` / Unity Software | $292.8m | 10,245,819 | 2.6% | -17.3% | 实时 3D 内容与游戏引擎平台 |
+| 9 | `COHR` / Coherent | $253.3m | 642,101 | 2.3% | +1.7% | 光通信、工业激光和工程材料公司 |
+| 10 | `NVDA` / NVIDIA | $250.0m | 1,249,291 | 2.2% | +0.1% | AI 加速计算平台 |
+
+期权切片中，`QQQ PUT 3.20m / $2.36bn` 是最醒目的指数对冲；这些是 13F 名义披露，不能直接当成最大损失、净空头或组合 delta。
 
 #### 2026Q1
 
@@ -171,3 +200,4 @@ Atreides 目前仍是明显的 founder-led institution：Gavin Baker 同时是 m
 - [Atreides 官方团队](https://atreidesmgmt.com/team/)
 - [SEC Form ADV](https://reports.adviserinfo.sec.gov/reports/ADV/301152/PDF/301152.pdf)
 - [SEC Atreides filings](https://www.sec.gov/edgar/browse/?CIK=1777813)
+- [SEC 13F Q2 2026 filing detail](https://www.sec.gov/Archives/edgar/data/1777813/000177781326000009/0001777813-26-000009-index.html)

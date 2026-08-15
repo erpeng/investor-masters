@@ -7,7 +7,7 @@ description: "Duquesne Family Office 的机构级哲学、文化与传承。"
 
 Duquesne Family Office 值得单独读，不是因为它“很神秘”，而是因为它把德鲁肯米勒的方法边界暴露得非常彻底：这不是一台靠稳定 LP 资金、委员会流程和统一产品去保护风格的机构，而更像一个由自有资本、强判断力、可信专家网络和极高仓位机动性组成的私人驾驶舱。很多人在人物页里读到的 `18 个月后的世界`、`看对以后做大`、`知道什么时候停止分析`，只有放回这家机构里，才会真正明白为什么这套方法能活下来。
 
-它的机构轮廓也天然带着两段历史。前一段是 `Duquesne Capital`：1981 年创立、2010 年关闭、以极强的宏观 / 交易 / 仓位能力建立传奇记录。后一段则是今天的 `Duquesne Family Office`：不再替外部资金承担赎回和相对排名压力，而是用自有资本继续运作。根据德鲁肯米勒访谈与公开可核验事实，当前平台本质上是一家管理自有资本的家族办公室；从公开 13F 看，`2025Q4` 披露 `62` 只美股相关持仓，合计市值约 `$4.49bn`。依据：[接下来三到四年，我其实挺兴奋！“对冲大神”德鲁肯米勒罕见交流，细谈近年来的投资决策与如何扣扳机](/investor-masters/sources/source-124/)、[Stanley Druckenmiller - Wikipedia](https://en.wikipedia.org/wiki/Stanley_Druckenmiller)、[Duquesne Family Office Q4 2025 13F](https://13f.info/13f/000153641126000002-duquesne-family-office-llc-q4-2025)。
+它的机构轮廓也天然带着两段历史。前一段是 `Duquesne Capital`：1981 年创立、2010 年关闭、以极强的宏观 / 交易 / 仓位能力建立传奇记录。后一段则是今天的 `Duquesne Family Office`：不再替外部资金承担赎回和相对排名压力，而是用自有资本继续运作。根据德鲁肯米勒访谈与公开可核验事实，当前平台本质上是一家管理自有资本的家族办公室；从公开 13F 看，`2026Q2` 披露 `95` 个证券条目，合计市值约 `$5.21bn`。依据：[接下来三到四年，我其实挺兴奋！“对冲大神”德鲁肯米勒罕见交流，细谈近年来的投资决策与如何扣扳机](/investor-masters/sources/source-124/)、[Stanley Druckenmiller - Wikipedia](https://en.wikipedia.org/wiki/Stanley_Druckenmiller)、[Duquesne Family Office Q2 2026 13F](https://www.sec.gov/Archives/edgar/data/1536411/000153641126000006/0001536411-26-000006-index.html)。
 
 ## 投资哲学（机构级）
 
@@ -38,7 +38,7 @@ Duquesne 当前最重要的激励结构，不是 fee model，而是 `own capital
 - [宏观判断主要来自公司经营本身！“对冲大神”德鲁肯米勒：机会大到一定程度时先参与再说，看好贝森特和沃什的“财政+货币”组合](/investor-masters/sources/source-118/)：最能看见“知道什么时候停止分析”“宏观来自公司拼图”这些机构级工作语法。
 - [Stanley Druckenmiller - Wikipedia](https://en.wikipedia.org/wiki/Stanley_Druckenmiller)：用于核验 `Duquesne Capital -> Duquesne Family Office` 的职业与机构事实骨架。
 
-## 13F 持仓（近四个季度）
+## 13F 持仓（近五个季度）
 
 ### 怎么看这组披露
 
@@ -46,19 +46,30 @@ Duquesne 当前最重要的激励结构，不是 fee model，而是 `own capital
 
 ### 13F 趋势雷达（最近一季横向）
 
-最近一季：`Q1 2026` vs `Q4 2025`。这里合并原“变化摘要”：先看 13F 总市值变化，再看前十大、权重和股数变化；跨机构共振回到季度趋势页统一比较。
+最近一季：`Q2 2026` vs `Q1 2026`。跨机构 Q2 总榜尚未生成，先以单机构页和 [13F趋势](/investor-masters/institutions/13f-trends/) 的披露进度为准。
 
-- 持仓总市值变化：从 `$4.49bn` 到 `$3.38bn`，下降 `-$1.12bn`（-24.9%）。粗拆：主动仓位变化 `-$1.03bn`，价格变化 `-$0.09bn`；主要由主动仓位变化拖累。
-- 新进前 10：Invesco Exchange Traded call, Ypf Sociedad Anonima, Ishares, Bbb Foods, Alcoa, Newamsterdam Pharma Company
-- 退出前 10：Select Sector Spdr, Invesco Exchange Traded, TEVA, Woodward, AMZN, CPNG
-- 权重上升：Natera（+5.3 pct）, Ypf Sociedad Anonima（+3.9 pct）, Stmicroelectronics N V（+2.2 pct）, Ishares call（+1.8 pct）, Ishares（+1.4 pct）
-- 权重下降：AMZN（-3.5 pct）, CPNG（-2.1 pct）, MELI（-2.0 pct）, TEVA（-2.0 pct）, Woodward（-1.7 pct）
-- 显著加仓：Natera（股数 +552,249，+22.0%）, Ypf Sociedad Anonima（股数 +2,628,972，+433.1%）, Stmicroelectronics N V（股数 +1,839,325，+237.8%）, Adma Biologics（股数 +1,293,410，+512.9%）, AMZN call（股数 +100,000，+100.0%）
-- 显著减仓：AMZN（股数 -692,140，-93.8%）, Woodward（股数 -379,575，-64.2%）, TEVA（股数 -3,497,585，-59.5%）, CPNG（股数 -4,105,424，-60.6%）, MELI（股数 -44,383，-94.1%）
-- 横向趋势页：[Q1 2026](/investor-masters/institutions/13f-trends-2026-q1/)
+- 持仓总市值变化：从 `$3.38bn` 到 `$5.21bn`，上升 `$1.83bn`（+54.3%）。粗拆主动仓位变化 `+$1.17bn`、价格变化 `+$0.66bn`。
+- 新进/升级：`Insmed CALL / GOOGL / FOX / CDW / DAL / TSLA CALL`；`AMZN` 正股与 CALL 同时大幅回补。
+- 显著加仓：`AMZN` +1082.5%、`TSM` +19.1%、`STM` +18.8%、`Insmed` 正股 +23.4%，`Natera` +4.0%。
+- 显著减仓或退出：`Alcoa / Broadcom` 清仓，`ROKU` -75.5%、`TEVA` -73.7%、`Woodward` -68.2%。
+- 工具边界：`RSP / EWZ / IVV / SPY` 等 CALL 是指数或地区 beta 名义披露，不与普通股买入侧混算。
+- 披露进度：[Q2 单机构更新进度](/investor-masters/institutions/13f-trends/)
 - 单机构长线趋势页：[13F趋势-Duquesne](/investor-masters/institutions/13f-trends-duquesne/)
 
-### 近四个已披露季度前 10 大持仓
+### 近五个已披露季度前 10 大持仓
+
+#### Q2 2026
+
+- `Natera`：`16.6%`，约 `$0.86bn`，`3,186,306` 股。
+- `TSM`：`5.4%`，约 `$0.28bn`，`589,680` 股。
+- `STM`：`4.5%`，约 `$0.23bn`，`3,102,880` 股。
+- `RSP CALL`：`3.4%`，约 `$0.17bn`，名义份额 `821,000`；期权工具。
+- `Insmed` 正股：`2.9%`，约 `$0.15bn`，`1,424,690` 股。
+- `EWZ CALL`：`2.8%`，约 `$0.15bn`，名义份额 `4,228,000`；期权工具。
+- `Insmed CALL`：`2.8%`，约 `$0.14bn`，名义份额 `1,350,000`；与正股同向新进。
+- `YPF`：`2.7%`，约 `$0.14bn`，`3,138,897` 股。
+- `AMZN`：`2.5%`，约 `$0.13bn`，`541,600` 股。
+- `BBB Foods`：`2.3%`，约 `$0.12bn`，`2,901,733` 股。
 
 #### Q1 2026
 
@@ -114,6 +125,7 @@ Duquesne 当前最重要的激励结构，不是 fee model，而是 `own capital
 
 ### 数据来源
 
+- [SEC 13F Q2 2026 filing detail](https://www.sec.gov/Archives/edgar/data/1536411/000153641126000006/0001536411-26-000006-index.html)
 - [SEC 13F Q1 2026 filing detail](https://www.sec.gov/Archives/edgar/data/1536411/000153641126000004/0001536411-26-000004-index.html)
 - [SEC 13F Q4 2025 filing detail](https://www.sec.gov/Archives/edgar/data/1536411/000153641126000002/0001536411-26-000002-index.html)
 - [SEC 13F Q3 2025 filing detail](https://www.sec.gov/Archives/edgar/data/1536411/000153641125000017/0001536411-25-000017-index.html)

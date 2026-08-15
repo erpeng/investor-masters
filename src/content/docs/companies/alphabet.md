@@ -53,6 +53,10 @@ Baupost 在 2026Q2 把 `GOOG` 从约 `1.18m` 股增至 `1.37m` 股，增幅约 `
 
 这是一笔主动增加的平台仓位，不只是价格推高权重；但它仍只是 Baupost 公开美股多头切片。完整轨迹见 [13F趋势-Baupost](/investor-masters/institutions/13f-trends-baupost/)。
 
+### 六家机构的 2026Q2 动作
+
+Duquesne 新建 GOOGL，Himalaya 的 GOOG/GOOGL 股数不变，Appaloosa 小幅增持 GOOG；H&H 将 GOOG 减持 `46.9%`，Pershing 清仓 GOOG，Atreides 也减持。方向高度分裂，说明同一 AI 平台在不同组合里分别承担新机会、核心长期仓与资金来源三种角色。
+
 ## 分歧与共识
 
 不同投资人的进入语言并不相同：阿克曼看 `AI 恐慌下的错误重描述`，安德森看 `平台吸值能力与认知迟到`，米勒看 `重仓候选中的未来价值赔率`，尼格伦看 `价值增长 vs 倍数扩张`，Rochon 看 `AI 叙事背后的 owner earnings`，Baker 则看 AI 巨头之间的相对分类和估值一致性。

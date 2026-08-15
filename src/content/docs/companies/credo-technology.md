@@ -1,0 +1,22 @@
+---
+title: "Credo Technology"
+slug: "companies/credo-technology"
+description: "Credo Technology（`CRDO`）提供高速 SerDes、DSP、主动电缆与连接芯片，是 AI 集群带宽密度上升的直接受益者之一。核心变量是代际升级、客户集中、竞争与数据中心资本开支。"
+---
+
+> **争议与共识**
+> Credo Technology（`CRDO`）提供高速 SerDes、DSP、主动电缆与连接芯片，是 AI 集群带宽密度上升的直接受益者之一。核心变量是代际升级、客户集中、竞争与数据中心资本开支。
+
+## 简介
+
+Credo Technology（`CRDO`）提供高速 SerDes、DSP、主动电缆与连接芯片，是 AI 集群带宽密度上升的直接受益者之一。核心变量是代际升级、客户集中、竞争与数据中心资本开支。
+
+## 公司点评
+
+现有资料暂未涉及。
+
+## 相关页面
+
+- [Atreides Management](/investor-masters/institutions/atreides-management/)
+- [H&H International Investment](/investor-masters/institutions/h-h-international-investment/)
+- [Astera Labs](/investor-masters/companies/astera-labs/)

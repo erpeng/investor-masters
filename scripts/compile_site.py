@@ -1187,11 +1187,11 @@ def compile_institutions():
         elif stem == "13F趋势-Duquesne":
             title = "13F 趋势 - Duquesne"
             slug = "13f-trends-duquesne"
-            description = "Duquesne Family Office 从 2023Q1 到 2026Q1 的单机构 13F 持仓变化。"
+            description = "Duquesne Family Office 从 2023Q1 到 2026Q2 的单机构 13F 持仓变化。"
         elif stem == "13F趋势-HH":
             title = "13F 趋势 - H&H"
             slug = "13f-trends-hh"
-            description = "H&H International Investment 从 2023Q1 到 2026Q1 的单机构 13F 持仓变化。"
+            description = "H&H International Investment 从 2023Q1 到 2026Q2 的单机构 13F 持仓变化。"
         elif stem == "13F趋势-Tudor":
             title = "13F 趋势 - Tudor"
             slug = "13f-trends-tudor"
@@ -1199,7 +1199,7 @@ def compile_institutions():
         elif stem == "13F趋势-Himalaya":
             title = "13F 趋势 - Himalaya"
             slug = "13f-trends-himalaya"
-            description = "Himalaya Capital 从 2023Q1 到 2026Q1 的单机构 13F 持仓变化。"
+            description = "Himalaya Capital 从 2023Q1 到 2026Q2 的单机构 13F 持仓变化。"
         elif stem == "13F趋势-Lone Pine":
             title = "13F 趋势 - Lone Pine"
             slug = "13f-trends-lone-pine"
@@ -1231,7 +1231,7 @@ def compile_institutions():
         elif stem == "13F趋势-Pershing":
             title = "13F 趋势 - Pershing"
             slug = "13f-trends-pershing"
-            description = "Pershing Square 从 2023Q1 到 2026Q1 的单机构 13F 持仓变化。"
+            description = "Pershing Square 从 2023Q1 到 2026Q2 的单机构 13F 持仓变化。"
         elif stem == "13F趋势-Maverick":
             title = "13F 趋势 - Maverick"
             slug = "13f-trends-maverick"
@@ -1243,7 +1243,7 @@ def compile_institutions():
         elif stem == "13F趋势-Appaloosa":
             title = "13F 趋势 - Appaloosa"
             slug = "13f-trends-appaloosa"
-            description = "Appaloosa Management 从 2023Q1 到 2026Q1 的单机构 13F 持仓变化。"
+            description = "Appaloosa Management 从 2023Q1 到 2026Q2 的单机构 13F 持仓变化。"
         elif stem == "13F趋势-Kensico":
             title = "13F 趋势 - Kensico"
             slug = "13f-trends-kensico"
@@ -1263,7 +1263,7 @@ def compile_institutions():
         elif stem == "13F趋势-Atreides":
             title = "13F 趋势 - Atreides"
             slug = "13f-trends-atreides"
-            description = "Atreides Management 从 2023Q1 到 2026Q1 的单机构 13F 持仓变化，普通股与期权分开解释。"
+            description = "Atreides Management 从 2023Q1 到 2026Q2 的单机构 13F 持仓变化，普通股与期权分开解释。"
         elif stem == "13F趋势-Third Point":
             title = "13F 趋势 - Third Point"
             slug = "13f-trends-third-point"

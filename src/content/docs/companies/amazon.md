@@ -56,6 +56,10 @@ Atreides 2026Q1 持有约 `953.6k` 股 Amazon，价值约 `$198.6m`，占普通�
 
 这比“机构都看多亚马逊”更有信息量：长期成长组合在控制仓位，价值/特殊情境组合却在同一资产上继续集中。完整口径分别见 [13F趋势-AKO](/investor-masters/institutions/13f-trends-ako/)、[13F趋势-Baillie](/investor-masters/institutions/13f-trends-baillie/) 与 [13F趋势-Baupost](/investor-masters/institutions/13f-trends-baupost/)。
 
+### 2026Q2 13F 联动
+
+六家更新机构中，Duquesne 将股数提高约 `1082.5%`，Atreides `+1.7%`，Appaloosa `+15.7%`，而 Pershing `-25.2%`。这是很好的对手盘样本：四家都可能认可生意，但仓位变化由原始持仓、价格、组合约束和机会成本共同决定。参见对应六家单机构趋势页。
+
 ## 分歧与共识
 
 共识很清楚：亚马逊不是普通成长股，而是一家能把客户价值、规模与现金流飞轮绑在一起的公司。分歧在于进入方式不同：共享规模经济、`描述差 + 时间差`、信用市场生存错价、平台资产再排序、集中组合替换、缩表后核心留存，以及 Trainium / 机器人能否把 AI 资本开支转成真实损益。

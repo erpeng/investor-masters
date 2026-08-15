@@ -33,7 +33,7 @@ Gavin 说自己最早在 C 轮投资 Astera。`2021-09-27` 的 C 轮公告确认
 
 他在 `2026-05-20` 的访谈中认为，Astera 被机械放进“铜缆输家”篮子，但它未来最大产品会是交换机；连接交换机和加速器时，铜与光都可能存在。这个“分类错误”方向上得到产品结构支持：Scorpio 是交换机，COSMOS 是管理与诊断层，公司也已布局定制和光连接。它与 Baker 的 [物理瓶颈](/investor-masters/concepts/physical-bottlenecks/) 判断一致：AI 价值会从 GPU 本身外溢到机架内连接、带宽、内存访问和系统可用性。
 
-需要保留两条边界。第一，公司不披露 Aries、Taurus、Leo、Scorpio 收入，Scorpio X-Series 仍处初始出货，P-Series 更广泛放量主要指向 `2026H2-2027`，因此“交换机成为最大产品”尚未证实。第二，[13F趋势-Atreides](/investor-masters/institutions/13f-trends-atreides/) 显示 `ALAB` 在 `2026Q1` 约为 `$368.9m`、`3.366m` 股，较上季主动加股，但这是 Atreides 控制账户的季度末公开多头切片，不是 Gavin 个人账户，也看不见空头、私募、完整期权和季度内交易。
+需要保留两条边界。第一，公司不披露 Aries、Taurus、Leo、Scorpio 收入，Scorpio X-Series 仍处初始出货，P-Series 更广泛放量主要指向 `2026H2-2027`，因此“交换机成为最大产品”尚未证实。第二，[13F趋势-Atreides](/investor-masters/institutions/13f-trends-atreides/) 显示 `ALAB` 在 `2026Q2` 仍约为 `$587.7m`、`1.217m` 股，但股数较上季减少 `63.8%`。价格上涨掩盖了大幅主动减仓；这仍只是 Atreides 控制账户的季度末公开多头切片，不是 Gavin 个人账户，也看不见空头、私募、完整期权和季度内交易。
 
 ## 分歧与共识
 

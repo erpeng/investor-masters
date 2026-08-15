@@ -9,7 +9,7 @@ description: "把机构 13F 按季度横向拉齐，观察跨机构持仓趋势�
 
 最近横向抓取时间：`2026-06-08 14:20 CST`。
 
-最近单机构补充：`2026-08-14` 将 [13F趋势-AKO](/investor-masters/institutions/13f-trends-ako/)、[13F趋势-Baillie](/investor-masters/institutions/13f-trends-baillie/)、[13F趋势-Baupost](/investor-masters/institutions/13f-trends-baupost/) 更新至 `2026Q2`；全市场横向 Q2 页待其余机构披露齐备后生成。`2026-07-23` 新增的 [13F趋势-Atreides](/investor-masters/institutions/13f-trends-atreides/) 继续把普通股、PUT、CALL 拆开计算。
+最近单机构补充：`2026-08-15` 将 [13F趋势-Duquesne](/investor-masters/institutions/13f-trends-duquesne/)、[13F趋势-Atreides](/investor-masters/institutions/13f-trends-atreides/)、[13F趋势-Appaloosa](/investor-masters/institutions/13f-trends-appaloosa/)、[13F趋势-Himalaya](/investor-masters/institutions/13f-trends-himalaya/)、[13F趋势-HH](/investor-masters/institutions/13f-trends-hh/)、[13F趋势-Pershing](/investor-masters/institutions/13f-trends-pershing/) 更新至 `2026Q2`；此前已更新 [13F趋势-AKO](/investor-masters/institutions/13f-trends-ako/)、[13F趋势-Baillie](/investor-masters/institutions/13f-trends-baillie/)、[13F趋势-Baupost](/investor-masters/institutions/13f-trends-baupost/)。全市场横向 Q2 页仍待其余机构披露齐备后生成。
 
 ## 趋势解读
 
@@ -23,6 +23,7 @@ description: "把机构 13F 按季度横向拉齐，观察跨机构持仓趋势�
 - 新增 Altimeter 后，crossover 科技线也更清楚：`SNOW` 从早期单一超大仓降到 `5.1%`，2026Q1 公开组合重排到 `NVDA / META / UBER / TSM / CRWV / ARM`。这不是从 AI 撤退，而是从单一云数据 winner 迁到 AI 平台、芯片、算力云和应用承接层。
 - 新增 Coatue 新标准页后，AI 基础设施线又多了一种读法：`TSM` 变成第一大仓且继续增股，`LRCX / AMAT / AVGO`、`GEV / CEG / ETN` 构成半导体设备/网络和电力设备骨架，`EQIX / ASML` 则是新进/恢复仓位；但 `GEV / CEG` 股数下降，不能把权重位置误读成主动加仓。
 - 新增 Atreides 后，AI 物理瓶颈线出现了更强的仓位轮动：2026Q1 普通股切片主动增加 `ALAB / U / AMZN`，同时减少 `CIEN / COHR / NVDA / LITE`。这说明“看多 AI 基础设施”不足以推出“持续加仓每个基础设施标的”，必须继续比较供需、相邻估值和组合相关性。
+- 首批 2026Q2 单机构页进一步说明“总市值增长”不等于净买入：Duquesne、Appaloosa 的扩表主要由价格贡献，Atreides 被 SpaceX/Cerebras 首次披露放大；Himalaya 明确把资本集中到 PDD/BRK.B，H&H 主动减仓 AI 链，Pershing 则主动新建支付、数据与订阅平台。
 - 同期 `SPY PUT`、`QQQ PUT` 等工具信号变重，说明机构不是全面撤退，而是在“结构性多头 + 风险对冲”之间重新配平。
 
 所以这组 13F 更像一个系统状态读数：最容易讲的 AI 故事已经充分拥挤，聪明钱开始问下一层问题：谁控制电力、工程、测试、网络、设备、工业气体、资本开支效率和真实现金流。
@@ -32,24 +33,24 @@ description: "把机构 13F 按季度横向拉齐，观察跨机构持仓趋势�
 - [Third Point：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-third-point/)
 - [Coatue Management：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-coatue/)
 - [Altimeter Capital：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-altimeter/)
-- [Atreides Management：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-atreides/)
+- [Atreides Management：2023Q1-2026Q2 持仓变化](/investor-masters/institutions/13f-trends-atreides/)
 - [Kensico Capital Management：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-kensico/)
 - [Dorsey Asset Management：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-dorsey/)
 - [Oakmark / Harris Associates：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-oakmark/)
 - [Maverick Capital：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-maverick/)
-- [Pershing Square：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-pershing/)
+- [Pershing Square：2023Q1-2026Q2 持仓变化](/investor-masters/institutions/13f-trends-pershing/)
 - [Baillie Gifford：2023Q1-2026Q2 持仓变化](/investor-masters/institutions/13f-trends-baillie/)
 - [Baupost Group：2023Q1-2026Q2 持仓变化](/investor-masters/institutions/13f-trends-baupost/)
 - [AKO Capital：2023Q1-2026Q2 持仓变化](/investor-masters/institutions/13f-trends-ako/)
-- [H&H International Investment：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-hh/)
+- [H&H International Investment：2023Q1-2026Q2 持仓变化](/investor-masters/institutions/13f-trends-hh/)
 - [Fundsmith：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-fundsmith/)
 - [Giverny Capital：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-giverny/)
-- [Himalaya Capital：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-himalaya/)
+- [Himalaya Capital：2023Q1-2026Q2 持仓变化](/investor-masters/institutions/13f-trends-himalaya/)
 - [Lone Pine Capital：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-lone-pine/)
 - [Greenlight Capital / DME：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-greenlight/)
-- [Duquesne Family Office：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-duquesne/)
+- [Duquesne Family Office：2023Q1-2026Q2 持仓变化](/investor-masters/institutions/13f-trends-duquesne/)
 - [Tudor Investment Corporation：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-tudor/)
-- [Appaloosa Management：2023Q1-2026Q1 持仓变化](/investor-masters/institutions/13f-trends-appaloosa/)
+- [Appaloosa Management：2023Q1-2026Q2 持仓变化](/investor-masters/institutions/13f-trends-appaloosa/)
 
 ## 季度档案
 

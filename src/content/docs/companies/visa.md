@@ -24,6 +24,10 @@ Rochon 读 Visa 的重点，是支付网络如何把双边网络、品牌、规�
 
 这让 Visa 同时承担两个角色：在 Terry Smith 这里，它是双寡头好行业样本；在 Rochon 这里，它是合理价格下的长期 owner earnings 样本。
 
+### 2026Q2 13F 联动
+
+Pershing Square 新建 `3,270,470` 股，季末市值约 `$1.122bn`、占公开组合 `5.76%`。同期新建 Mastercard、S&P Global 与 Netflix，显示其主动扩表落在支付、数据和订阅型平台上。参见 [13F趋势-Pershing](/investor-masters/institutions/13f-trends-pershing/)。
+
 ## 相关页面
 
 - [特里·史密斯](/investor-masters/investors/terry-smith/)

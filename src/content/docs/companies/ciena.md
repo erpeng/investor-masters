@@ -19,6 +19,10 @@ Atreides 2026Q1 持有约 `676.8k` 股 Ciena，价值约 `$262.8m`，占普通�
 
 这正好说明物理瓶颈也有价格和周期：光网络可能是 AI 基础设施约束，却不代表任何时点都值得扩大仓位。订单兑现、供给恢复和估值必须一起看。
 
+### 2026Q2 13F 联动
+
+Atreides 二季度持有 `688,521` 股，较上季 `+1.7%`，季末市值约 `$337.8m`。在价格大涨后股数基本不动，更像继续持有产业判断，而不是追价扩仓。参见 [13F趋势-Atreides](/investor-masters/institutions/13f-trends-atreides/)。
+
 ## 相关页面
 
 - [加文·贝克](/investor-masters/investors/gavin-baker/)

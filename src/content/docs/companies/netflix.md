@@ -33,6 +33,10 @@ Netflix 的价值不该只从 GAAP 利润表读。市场一度给 Netflix 每个
 
 这条案例不是在说“亏损成长股都能按未来讲故事”，恰好相反。它说明 `Oakmark 会计` 必须有真实底座：用户价值、定价权、规模经济、管理层经济账和低价抢规模的合理性。没有这些，费用化支出不能被轻易加回。
 
+### 2026Q2 13F 联动
+
+Pershing Square 新建 `13,081,465` 股，季末市值约 `$934m`、占公开组合 `4.80%`，列第十一。它与 Visa、Mastercard、S&P Global 的同步新建，延续了阿克曼偏好高毛利、轻资产、经常性收费平台的语言。参见 [13F趋势-Pershing](/investor-masters/institutions/13f-trends-pershing/)。
+
 ## 相关页面
 
 - [比尔·尼格伦](/investor-masters/investors/bill-nygren/)

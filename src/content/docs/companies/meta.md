@@ -52,6 +52,10 @@ Altimeter 的 `META` 是 Gerstner 公开方法里最能把资本配置和 AI 平
 
 Pershing 的 `META` 在 2026Q1 不是新买，但仍是约 `11.1%` 的核心仓。[13F趋势-Pershing](/investor-masters/institutions/13f-trends-pershing/) 显示，`META` 2025Q4 新进前排后，2026Q1 股数基本不动。把它和 `AMZN` 加仓、`MSFT` 新进、`GOOG/GOOGL` 大幅退出一起读，Meta 更像 Ackman 平台现金流篮子里继续保留的一条腿。
 
+### 2026Q2 13F 联动
+
+Appaloosa、Pershing 分别把股数提高 `54.6%`、`20.1%`；Atreides 新建普通股并另有 CALL 披露。三家同时增配构成公开多头共振，但工具和组合语境不同，不能把 CALL 名义市值与普通股直接相加。参见 [13F趋势-Appaloosa](/investor-masters/institutions/13f-trends-appaloosa/)、[13F趋势-Pershing](/investor-masters/institutions/13f-trends-pershing/)、[13F趋势-Atreides](/investor-masters/institutions/13f-trends-atreides/)。
+
 ## 分歧与共识
 
 史密斯和米勒都把 Meta 读成情绪错杀，詹森补了一层 AI 时代资源竞争，尼格伦则补了一层资本配置边界，Rochon 进一步把它拉回 owner earnings；Altimeter 和 Pershing 的 13F 证据则说明，Meta 仍是平台现金流和 AI 广告效率重估里的核心候选，而不是单纯旧社交网络。

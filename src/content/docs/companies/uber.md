@@ -38,6 +38,10 @@ Altimeter 对 `UBER` 的读法是 crossover 科技投资里的平台迁移。[13
 
 Pershing 的 Uber 不能写成 2026Q1 新买。[13F趋势-Pershing](/investor-masters/institutions/13f-trends-pershing/) 显示，Ackman / Pershing 在 2025Q1 建仓 `Uber Technologies`，随后长期保留为核心仓；到 2026Q1，Uber 仍是约 `15.7%` 的第三大持仓，但股数较上一季小幅下降。它在 Ackman 这里更像集中基本面组合里的长期现金流 投资论点，而不是本季主动加仓信号。
 
+### 2026Q2 13F 联动
+
+Appaloosa 与 Pershing 分别增持 UBER `21.5%`、`14.6%`；Pershing 季末约 `$2.48bn`、成为第一大仓。两家共同加仓强化了平台现金流与本地网络价值的共振，但对自动驾驶风险的具体判断仍不能由 13F 反推。
+
 ## 分歧与共识
 
 这页的共识是：Uber 不会缺席自动驾驶时代，也不只是一个传统出行公司。分歧在于价值到底落在哪里：Cathie 更担心它只是 Robotaxi 的入口层；Dorsey 和 Pershing 更看重网络密度、现金流和平台经营杠杆；Altimeter 把它放进 AI 平台迁移后的公开组合骨架；Appaloosa 则把它当作风险偏好从中国政策交易切回美国平台股时的承接腿。
