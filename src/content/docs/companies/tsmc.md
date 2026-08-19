@@ -45,7 +45,9 @@ Coatue 在 `2026Q1` 把 `TSM` 推到公开 13F 第一大仓：约 `9.28m` 股、
 
 ### 2026Q2 13F 联动
 
-Duquesne 与 Appaloosa 分别增持 TSM `19.1%`、`24.3%`；H&H 则清仓剩余仓位。前两家把先进制程瓶颈继续做大，后者从已经很小的卫星仓退出，动作的组合含义并不对称。
+21 家横向口径里，TSM 合计主动变化约 `+$0.43bn`，但买卖两边都很拥挤。Fundsmith 新建约 `$0.55bn`；Appaloosa、Duquesne、Kensico、Third Point 与 Tudor 也增加。另一侧，Lone Pine 大幅减持，Maverick、Coatue 减持，H&H 清仓剩余小仓位。
+
+所以本季不是简单的“机构继续共识加仓台积电”，而是先进制程稀缺性仍被认可、相邻赔率却出现分歧。Tudor 的仓位还带有多策略/工具属性，不能与长期型机构同权解释。完整比较见 [13F趋势-2026Q2](/investor-masters/institutions/13f-trends-2026-q2/)。
 
 ## 分歧与共识
 
@@ -61,3 +63,4 @@ Duquesne 与 Appaloosa 分别增持 TSM `19.1%`、`24.3%`；H&H 则清仓剩余�
 - [菲利普·拉丰](/investor-masters/investors/philippe-laffont/)
 - [英伟达](/investor-masters/companies/nvidia/)
 - [ASML](/investor-masters/companies/asml/)
+- [13F趋势-2026Q2](/investor-masters/institutions/13f-trends-2026-q2/)

@@ -40,7 +40,9 @@ Pershing 的 Uber 不能写成 2026Q1 新买。[13F趋势-Pershing](/investor-ma
 
 ### 2026Q2 13F 联动
 
-Appaloosa 与 Pershing 分别增持 UBER `21.5%`、`14.6%`；Pershing 季末约 `$2.48bn`、成为第一大仓。两家共同加仓强化了平台现金流与本地网络价值的共振，但对自动驾驶风险的具体判断仍不能由 13F 反推。
+Appaloosa 与 Pershing 分别增持 UBER `21.5%`、`14.6%`，Dorsey 增持 `61.6%`；Fundsmith 则新建约 `8.94m` 股、主动增加约 `$0.65bn`，直接进入前十。另一侧，Altimeter 小幅减持，Kensico 清仓。21 家机构合计主动变化约 `+$0.97bn`。
+
+因此 Q2 的信号是“质量/集中型资金明显承接，但并非一致共识”。它强化了平台现金流、网络密度和本地服务经营杠杆这条研究线，却不能由 13F 反推出机构对自动驾驶终局的具体判断。完整比较见 [13F趋势-2026Q2](/investor-masters/institutions/13f-trends-2026-q2/)。
 
 ## 分歧与共识
 
@@ -60,3 +62,6 @@ Appaloosa 与 Pershing 分别增持 UBER `21.5%`、`14.6%`；Pershing 季末约 
 - [Altimeter Capital](/investor-masters/institutions/altimeter-capital/)
 - [Appaloosa Management](/investor-masters/institutions/appaloosa-management/)
 - [Pershing Square](/investor-masters/institutions/pershing-square/)
+- [Fundsmith](/investor-masters/institutions/fundsmith/)
+- [Kensico Capital Management](/investor-masters/institutions/kensico-capital-management/)
+- [13F趋势-2026Q2](/investor-masters/institutions/13f-trends-2026-q2/)

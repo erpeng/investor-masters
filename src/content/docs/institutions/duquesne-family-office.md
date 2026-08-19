@@ -46,7 +46,7 @@ Duquesne 当前最重要的激励结构，不是 fee model，而是 `own capital
 
 ### 13F 趋势雷达（最近一季横向）
 
-最近一季：`Q2 2026` vs `Q1 2026`。跨机构 Q2 总榜尚未生成，先以单机构页和 [13F趋势](/investor-masters/institutions/13f-trends/) 的披露进度为准。
+最近一季：`Q2 2026` vs `Q1 2026`。跨机构比较见 [Q2 2026 横向趋势页](/investor-masters/institutions/13f-trends-2026-q2/)。
 
 - 持仓总市值变化：从 `$3.38bn` 到 `$5.21bn`，上升 `$1.83bn`（+54.3%）。粗拆主动仓位变化 `+$1.17bn`、价格变化 `+$0.66bn`。
 - 新进/升级：`Insmed CALL / GOOGL / FOX / CDW / DAL / TSLA CALL`；`AMZN` 正股与 CALL 同时大幅回补。
@@ -55,6 +55,7 @@ Duquesne 当前最重要的激励结构，不是 fee model，而是 `own capital
 - 工具边界：`RSP / EWZ / IVV / SPY` 等 CALL 是指数或地区 beta 名义披露，不与普通股买入侧混算。
 - 披露进度：[Q2 单机构更新进度](/investor-masters/institutions/13f-trends/)
 - 单机构长线趋势页：[13F趋势-Duquesne](/investor-masters/institutions/13f-trends-duquesne/)
+- 横向趋势页：[Q2 2026](/investor-masters/institutions/13f-trends-2026-q2/)
 
 ### 近五个已披露季度前 10 大持仓
 

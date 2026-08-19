@@ -57,6 +57,7 @@ Appaloosa 的关键机制，是决策集中和资本结构越来越接近自有�
 
 - 现用 filer：`Appaloosa LP`，CIK `0001656456`；历史 `APPALOOSA MANAGEMENT LP`，CIK `0001006438` 不混接。
 - 单机构长线趋势页：[13F趋势-Appaloosa](/investor-masters/institutions/13f-trends-appaloosa/)
+- 横向趋势页：[Q2 2026](/investor-masters/institutions/13f-trends-2026-q2/)
 
 ### 13F 趋势雷达（最近一季横向）
 

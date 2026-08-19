@@ -48,37 +48,42 @@ Greenlight 的机构哲学可以压成一句话：`在拥挤叙事、复杂披�
 
 ### 怎么看这组披露
 
-13F 只覆盖美国公开股票多头及部分期权披露，且有季度滞后，不代表机构完整组合；`持仓总市值变化` 也只是这张 13F 表内的可见市值变化。
-Greenlight 近年主要通过 DME Capital Management, LP 披露；历史 Greenlight Capital Inc 口径不再与当前公开多头完全等同。
+按反拥挤、事件驱动和 多空 读；13F 只能显示多头与部分工具，不能反推净敞口。 13F 只覆盖美国公开证券多头及部分工具，不覆盖现金、空头、非美资产、完整衍生品和季度内路径。
 
-### 13F 趋势雷达（最近一季横向）
+### 最新季度趋势雷达
 
-最近一季：`Q1 2026` vs `Q4 2025`。这里合并原“变化摘要”：先看 13F 总市值变化，再看前十大、权重和股数变化；跨机构共振回到季度趋势页统一比较。
-
-- 持仓总市值变化：从 `$2.85bn` 到 `$3.19bn`，上升 `$0.34bn`（+12.0%）。粗拆：主动仓位变化 `$0.30bn`，价格变化 `$0.04bn`；主要由主动仓位变化推升。
-- 新进前 10：Versant Media Group, Acadia Healthcare Company, Victorias Secret And, Dht Holdings, Penn Entertainment
-- 退出前 10：Graphic Packaging Hldg, Capri Holdings Limited, Centene Del, Kyndryl Hldgs, TEVA
-- 权重上升：Td Synnex（+2.2 pct）, Peloton Interactive（+1.3 pct）, Acadia Healthcare Company（+1.3 pct）, Bkv（+1.2 pct）, Sotera Health（+0.6 pct）
-- 权重下降：Green Brick Partners（-1.7 pct）, Graphic Packaging Hldg（-1.6 pct）, Weatherford Intl（-1.6 pct）, Capri Holdings Limited（-1.4 pct）, Spdr Gold Tr（-1.0 pct）
-- 显著加仓：Td Synnex（股数 +423,040，+748.9%）, Peloton Interactive（股数 +9,867,480，+4003.7%）, Bkv（股数 +1,407,600，+109.3%）, Sotera Health（股数 +1,604,410，+347.8%）, Victorias Secret And（股数 +519,020，+29.9%）
-- 显著减仓：Weatherford Intl（股数 -597,899，-80.4%）, Fluor（股数 -808,550，-14.6%）, Spdr Gold Tr（股数 -70,950，-41.6%）, Dht Holdings（股数 -2,093,894，-28.4%）, Core Natural Resources（股数 -242,340，-11.5%）
-- 横向趋势页：[Q1 2026](/investor-masters/institutions/13f-trends-2026-q1/)
-- 单机构长线趋势页：[13F趋势-Greenlight](/investor-masters/institutions/13f-trends-greenlight/)
+- 从 `$3.19bn` 到 `$3.91bn`，变化 `$0.72bn`（+22.5%）；拆股调整后，主动仓位约 `$0.34bn`，价格贡献约 `$0.38bn`，主动仓位与价格同向。
+- 当前前十大：`GRBK` 19.4%、`FLR` 6.2%、`CNR` 4.7%、`BHF` 4.6%、`ACHC` 3.3%、`PENN` 3.2%、`FBIN` 3.1%、`PCG` 2.9%、`CNC` 2.7%、`GPK` 2.7%。
+- 详细长线轨迹：[13F趋势-Greenlight](/investor-masters/institutions/13f-trends-greenlight/)。
+- 横向趋势页：[Q2 2026](/investor-masters/institutions/13f-trends-2026-q2/)。
 
 ### 近四个已披露季度前 10 大持仓
 
-#### Q1 2026
+#### 2026Q2
 
-- `Green Brick Partners` Green Brick Partners Inc（美国住宅开发商，核心看土地储备、房贷利率和 Sun Belt 住房需求）：`13F 占比 19.1%`，市值约 `$0.61bn`，股数/份额 `9,467,383`。
-- `Fluor` Fluor Corp（工程建设和项目管理公司，服务能源、工业、基建和政府项目）：`13F 占比 6.9%`，市值约 `$0.22bn`，股数/份额 `4,747,350`。
-- `Core Natural Resources` Core Natural Resources Inc（煤炭和自然资源公司，现金流受大宗商品价格、成本和环保约束影响）：`13F 占比 6.1%`，市值约 `$0.19bn`，股数/份额 `1,858,140`。
-- `Brighthouse Finl` Brighthouse Finl Inc（寿险和年金公司，核心看资本充足率、利率环境和保单负债管理）：`13F 占比 5.3%`，市值约 `$0.17bn`，股数/份额 `2,842,100`。
-- `PCG` Pg&E Corp（PG&E，加州公用事业公司，核心看电网投资、监管回报和安全风险控制）：`13F 占比 3.7%`，市值约 `$0.12bn`，股数/份额 `6,632,852`。
-- `Versant Media Group` Versant Media Group Inc（媒体资产公司，核心看频道组合、广告市场和内容分发价值）：`13F 占比 3.5%`，市值约 `$0.11bn`，股数/份额 `3,028,615`。
-- `Acadia Healthcare Company` Acadia Healthcare Company In（行为健康和成瘾治疗服务运营商，核心看床位扩张、入住率和支付方结构）：`13F 占比 3.3%`，市值约 `$0.11bn`，股数/份额 `4,518,381`。
-- `Victorias Secret And` Victorias Secret And Co（内衣和美妆零售品牌，核心看品牌重塑、门店效率和消费周期）：`13F 占比 3.3%`，市值约 `$0.10bn`，股数/份额 `2,256,889`。
-- `Dht Holdings` Dht Holdings Inc（原油油轮公司，现金流受油运供需、船队利用率和运价周期影响）：`13F 占比 3.0%`，市值约 `$0.10bn`，股数/份额 `5,272,770`。
-- `Penn Entertainment` Penn Entertainment Inc（赌场和线上博彩娱乐公司，核心看区域博彩现金流和体育博彩投入回报）：`13F 占比 2.8%`，市值约 `$0.09bn`，股数/份额 `6,044,440`。
+- `GRBK`：`13F 占比 19.4%`，股数/份额 `9.47m`。
+- `FLR`：`13F 占比 6.2%`，股数/份额 `4.66m`。
+- `CNR`：`13F 占比 4.7%`，股数/份额 `2.28m`。
+- `BHF`：`13F 占比 4.6%`，股数/份额 `2.84m`。
+- `ACHC`：`13F 占比 3.3%`，股数/份额 `4.40m`。
+- `PENN`：`13F 占比 3.2%`，股数/份额 `5.86m`。
+- `FBIN`：`13F 占比 3.1%`，股数/份额 `2.24m`。
+- `PCG`：`13F 占比 2.9%`，股数/份额 `6.63m`。
+- `CNC`：`13F 占比 2.7%`，股数/份额 `1.65m`。
+- `GPK`：`13F 占比 2.7%`，股数/份额 `9.95m`。
+
+#### 2026Q1
+
+- `GRBK`：`13F 占比 19.1%`，股数/份额 `9.47m`。
+- `FLR`：`13F 占比 6.9%`，股数/份额 `4.75m`。
+- `CNR`：`13F 占比 6.1%`，股数/份额 `1.86m`。
+- `BHF`：`13F 占比 5.3%`，股数/份额 `2.84m`。
+- `PCG`：`13F 占比 3.7%`，股数/份额 `6.63m`。
+- `VSNT`：`13F 占比 3.5%`，股数/份额 `3.03m`。
+- `ACHC`：`13F 占比 3.3%`，股数/份额 `4.52m`。
+- `VSCO`：`13F 占比 3.3%`，股数/份额 `2.26m`。
+- `DHT`：`13F 占比 3.0%`，股数/份额 `5.27m`。
+- `PENN`：`13F 占比 2.8%`，股数/份额 `6.04m`。
 
 #### Q4 2025
 
@@ -106,25 +111,10 @@ Greenlight 近年主要通过 DME Capital Management, LP 披露；历史 Greenli
 - `Dht Holdings` Dht Holdings Inc（原油油轮公司，现金流受油运供需、船队利用率和运价周期影响）：`13F 占比 3.6%`，市值约 `$0.09bn`，股数/份额 `7,620,934`。
 - `TEVA` Teva Pharmaceutical Inds Ltd（梯瓦制药，仿制药和专科药公司，核心看债务去化、核心药物增长和诉讼风险）：`13F 占比 3.0%`，市值约 `$0.08bn`，股数/份额 `3,778,777`。
 
-#### Q2 2025
+### 单机构长线趋势页
 
-- `Green Brick Partners` Green Brick Partners Inc（美国住宅开发商，核心看土地储备、房贷利率和 Sun Belt 住房需求）：`13F 占比 25.6%`，市值约 `$0.60bn`，股数/份额 `9,467,383`。
-- `Fluor` Fluor Corp New（工程建设和项目管理公司，服务能源、工业、基建和政府项目）：`13F 占比 8.4%`，市值约 `$0.20bn`，股数/份额 `3,819,580`。
-- `Core Natural Resources` Core Natural Resources Inc（煤炭和自然资源公司，现金流受大宗商品价格、成本和环保约束影响）：`13F 占比 6.5%`，市值约 `$0.15bn`，股数/份额 `2,155,640`。
-- `Brighthouse Finl` Brighthouse Finl Inc（寿险和年金公司，核心看资本充足率、利率环境和保单负债管理）：`13F 占比 6.4%`，市值约 `$0.15bn`，股数/份额 `2,760,097`。
-- `Kyndryl Hldgs` Kyndryl Hldgs Inc（企业 IT 基础设施服务公司，核心看托管服务、云迁移和客户合同修复）：`13F 占比 6.0%`，市值约 `$0.14bn`，股数/份额 `3,311,297`。
-- `Penn Entertainment` Penn Entertainment Inc（赌场和线上博彩娱乐公司，核心看区域博彩现金流和体育博彩投入回报）：`13F 占比 5.8%`，市值约 `$0.13bn`，股数/份额 `7,494,440`。
-- `Cnh Indl N` Cnh Indl N V（农业和工程机械公司，受农机更新周期、农产品价格和融资环境影响）：`13F 占比 4.4%`，市值约 `$0.10bn`，股数/份额 `7,872,610`。
-- `Graphic Packaging Hldg` Graphic Packaging Hldg Co（纸包装和消费品包装公司，核心看纸基替代、客户合约和成本传导能力）：`13F 占比 4.3%`，市值约 `$0.10bn`，股数/份额 `4,705,950`。
-- `Dht Holdings` Dht Holdings Inc（原油油轮公司，现金流受油运供需、船队利用率和运价周期影响）：`13F 占比 3.5%`，市值约 `$0.08bn`，股数/份额 `7,620,934`。
-- `Teck Resources` Teck Resources Ltd（加拿大矿业公司，核心资产包括铜、锌和炼钢煤，受金属周期和项目开发影响）：`13F 占比 3.5%`，市值约 `$0.08bn`，股数/份额 `2,000,000`。
-
-### 数据来源
-
-- [SEC 13F Q1 2026 filing detail](https://www.sec.gov/Archives/edgar/data/1489933/000117266126002341/0001172661-26-002341-index.html)
-- [SEC 13F Q4 2025 filing detail](https://www.sec.gov/Archives/edgar/data/1489933/000117266126001122/0001172661-26-001122-index.html)
-- [SEC 13F Q3 2025 filing detail](https://www.sec.gov/Archives/edgar/data/1489933/000117266125005032/0001172661-25-005032-index.html)
-- [SEC 13F Q2 2025 filing detail](https://www.sec.gov/Archives/edgar/data/1489933/000117266125003351/0001172661-25-003351-index.html)
+- [13F趋势-Greenlight](/investor-masters/institutions/13f-trends-greenlight/)
+- [Q2 2026 横向趋势](/investor-masters/institutions/13f-trends-2026-q2/)
 
 ## 机构传承
 

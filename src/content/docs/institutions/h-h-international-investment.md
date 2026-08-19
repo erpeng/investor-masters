@@ -54,6 +54,7 @@ H&H International Investment 是段永平相关的美国 13F 披露主体；这�
 - 前五大 `AAPL / BRK.B / PDD / TSLA / NVDA` 占比 `89.2%`，前十大占 `98.8%`；集中度并未因主动减仓显著下降。
 - 本季读法：股价上涨抵消了约一半主动减仓，组合从 AI 算力和 Google 回撤，进一步集中于 AAPL、BRK.B、PDD 与 TSLA。
 - 单机构长线趋势页：[13F趋势-HH](/investor-masters/institutions/13f-trends-hh/)
+- 横向趋势页：[Q2 2026](/investor-masters/institutions/13f-trends-2026-q2/)
 
 ### 近五个已披露季度前 10 大持仓
 

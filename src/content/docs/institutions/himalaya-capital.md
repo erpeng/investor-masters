@@ -53,6 +53,7 @@ Himalaya 的机构哲学几乎可以直接压成四个词：`business owners / m
 - AAPL 重新进入前十不是新买，而是因为组合缩容；Alphabet A/C、EWBC、CROX、TME、AAPL 股数均不变。
 - 本季读法：这不是广泛增配，而是把腾出的资本集中压向 PDD 与 BRK.B，主动贡献高于价格贡献。
 - 单机构长线趋势页：[13F趋势-Himalaya](/investor-masters/institutions/13f-trends-himalaya/)
+- 横向趋势页：[Q2 2026](/investor-masters/institutions/13f-trends-2026-q2/)
 
 ### 近五个已披露季度前 10 大持仓
 

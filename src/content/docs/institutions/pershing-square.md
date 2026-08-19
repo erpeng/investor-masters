@@ -48,6 +48,7 @@ Pershing 的机构哲学，可以压成一句话：`寻找高质量但暂时迷�
 - 普通股前十转为 `UBER / BN / MSFT / AMZN / HHH / QSR / META / V / MA / SPGI`，前十占比约 `93.6%`。
 - PSUS 是关联上市载体的少数权益，单列约占 `0.77%`；不把它与核心经营公司仓位混为一谈。
 - 单机构长线趋势页：[13F趋势-Pershing](/investor-masters/institutions/13f-trends-pershing/)
+- 横向趋势页：[Q2 2026](/investor-masters/institutions/13f-trends-2026-q2/)
 
 ### 近五个已披露季度前 10 大持仓
 

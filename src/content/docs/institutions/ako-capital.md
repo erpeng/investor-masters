@@ -57,7 +57,7 @@ AKO 的文化骨架，可以直接从尼科莱在《Capital Allocators》里的�
 - 权重下降：WAT（-3.0 pct）, ICE（-2.9 pct）, AMZN（-0.7 pct）, ADI（-0.7 pct）
 - 显著加仓：SUNB（+2,889,533股，+90.7%）, APD（+320,003股，+137.1%）, MA（+34,349股，+22.1%）, CPRT（+382,509股，+139.6%）
 - 显著减仓：BKNG清仓、WAT -75.1%、ICE -46.3%、ADI -40.1%、AMZN -34.0%、CSCO -35.2%
-- 横向趋势页：Q2 2026 待完整披露后生成；当前横向页仍为 [Q1 2026](/investor-masters/institutions/13f-trends-2026-q1/)
+- 横向趋势页：[Q2 2026](/investor-masters/institutions/13f-trends-2026-q2/)
 - 单机构长线趋势页：[13F趋势-AKO](/investor-masters/institutions/13f-trends-ako/)
 
 ### 近五个已披露季度前 10 大持仓

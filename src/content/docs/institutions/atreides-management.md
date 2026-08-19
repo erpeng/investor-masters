@@ -185,6 +185,7 @@ Atreides 奖励长期跟踪产业、快速学习新工具、跨公开与私募�
 ### 单机构长线趋势页
 
 - [13F趋势-Atreides](/investor-masters/institutions/13f-trends-atreides/)
+- [Q2 2026 横向趋势](/investor-masters/institutions/13f-trends-2026-q2/)
 - [期权作为仓位语言](/investor-masters/concepts/options-as-position-language/)
 
 ## 机构传承

@@ -74,7 +74,7 @@ Ritholtz 访谈给出的 AI 参与方式，也符合这种机构逻辑：Baupost
 - 权重下降：WCC（-3.5 pct）, WTW（-5.1 pct至清仓）, QSR（-2.6 pct）, UNP（-1.4 pct）
 - 显著加仓：GPC +89.0%、AMZN +20.0%、GOOG +16.2%、CME新进、NCLH +112.9%
 - 显著减仓：WTW/VAXX清仓、WCC -53.9%、QSR -16.4%、UNP -23.1%、EXP -40.5%、LBTYK -36.2%
-- 横向趋势页：Q2 2026 待完整披露后生成；当前横向页仍为 [Q1 2026](/investor-masters/institutions/13f-trends-2026-q1/)
+- 横向趋势页：[Q2 2026](/investor-masters/institutions/13f-trends-2026-q2/)
 
 - 单机构长线趋势页：[13F趋势-Baupost](/investor-masters/institutions/13f-trends-baupost/)
 

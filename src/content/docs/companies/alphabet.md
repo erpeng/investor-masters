@@ -53,9 +53,11 @@ Baupost 在 2026Q2 把 `GOOG` 从约 `1.18m` 股增至 `1.37m` 股，增幅约 `
 
 这是一笔主动增加的平台仓位，不只是价格推高权重；但它仍只是 Baupost 公开美股多头切片。完整轨迹见 [13F趋势-Baupost](/investor-masters/institutions/13f-trends-baupost/)。
 
-### 六家机构的 2026Q2 动作
+### 2026Q2 横向 13F 联动
 
-Duquesne 新建 GOOGL，Himalaya 的 GOOG/GOOGL 股数不变，Appaloosa 小幅增持 GOOG；H&H 将 GOOG 减持 `46.9%`，Pershing 清仓 GOOG，Atreides 也减持。方向高度分裂，说明同一 AI 平台在不同组合里分别承担新机会、核心长期仓与资金来源三种角色。
+在 21 家机构的横向净额口径下，Alphabet 是本季最典型的分歧资产之一：Third Point、Duquesne、Maverick、Baupost 等主动增加，Fundsmith、H&H、Oakmark、Pershing 与 Atreides 等主动减少；Himalaya 的 GOOG/GOOGL 股数保持不变。把同一机构内部的 GOOG/GOOGL 类别切换先净额后，跨机构合计主动变化约 `+$0.06bn`，接近中性。
+
+这不是简单的“聪明钱看多/看空 Google”，而是同一平台在不同组合里同时充当新机会、长期核心仓和资金来源。完整横向比较见 [13F趋势-2026Q2](/investor-masters/institutions/13f-trends-2026-q2/)。
 
 ## 分歧与共识
 
@@ -76,3 +78,4 @@ Duquesne 新建 GOOGL，Himalaya 的 GOOG/GOOGL 股数不变，Appaloosa 小幅�
 - [Meta](/investor-masters/companies/meta/)
 - [Baupost Group](/investor-masters/institutions/baupost-group/)
 - [13F趋势-Baupost](/investor-masters/institutions/13f-trends-baupost/)
+- [13F趋势-2026Q2](/investor-masters/institutions/13f-trends-2026-q2/)

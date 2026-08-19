@@ -51,7 +51,7 @@ Baillie Gifford 的核心文化约束，不是高频奖惩，而是合伙制、�
 - 退出前 10：PDD，但仍持有26,594,535股、占1.8%。
 - 明显加仓：QXO +251.3%、RY和CRH从极小跟踪仓放大、AVGO +1,318.6%、AXON +24.4%、KLA新进。
 - 显著减仓：CPNG -34.7%、NFLX -25.8%、RKLB -43.6%、META -21.9%、MSFT -30.0%、TEAM -63.3%。
-- 横向趋势页：Q2 2026 待完整披露后生成；当前横向页仍为 [Q1 2026](/investor-masters/institutions/13f-trends-2026-q1/)
+- 横向趋势页：[Q2 2026](/investor-masters/institutions/13f-trends-2026-q2/)
 - 单机构长线趋势页：[13F趋势-Baillie](/investor-masters/institutions/13f-trends-baillie/)
 
 ### 近五个已披露季度前 10 大持仓

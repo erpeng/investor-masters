@@ -44,36 +44,42 @@ Giverny 的核心哲学可以压成一句话：以企业所有者身份买入少
 
 ### 怎么看这组披露
 
-Giverny Capital Inc. 是 SEC 13F 披露主体，CIK 为 `0001641864`。13F 只覆盖美国公开证券多头及部分期权披露，且有季度滞后，不等于 Giverny 完整组合，也不能反映非美持仓、现金或客户申赎。
+按长期质量组合读，核心 compounder 是否被保留、增加或退出，比单季价格更重要。 13F 只覆盖美国公开证券多头及部分工具，不覆盖现金、空头、非美资产、完整衍生品和季度内路径。
 
-### 13F 趋势雷达（最近一季横向）
+### 最新季度趋势雷达
 
-最近一季：`Q1 2026` vs `Q4 2025`。这里先看 13F 总市值变化，再看前十大、权重和股数变化；跨机构共振回到季度趋势页统一比较。
-
-- 持仓总市值变化：从 `$3.00bn` 到 `$2.73bn`，下降 `-$0.27bn`（-8.9%）。粗拆：主动仓位变化 `-$0.06bn`，价格变化 `-$0.20bn`；主要由价格变化拖累。
-- 新进前 10：FIVE
-- 退出前 10：PGR
-- 权重上升：FIVE（+1.2 pct）、KEYS（+1.1 pct）、BFAM（+0.8 pct）、ADI（+0.4 pct）、LFUS（+0.3 pct）
-- 权重下降：AME（-1.9 pct）、BRK.B（-1.8 pct）、HEI（-0.6 pct）、BKNG（-0.6 pct）、IBP（-0.6 pct）
-- 显著加仓：BFAM（股数 +332,133，+81.0%）、TWFG（股数 +220,596，+66.5%）、KNSL（股数 +4,678，+2.2%）、ANET（股数 +4,203，+1.0%）、BLDR（股数 +1,829，+2.0%）
-- 显著减仓：AME（股数 -367,400，-37.5%）、BRK.B（股数 -127,359，-25.2%）、IBP（股数 -115,571，-22.3%）、GOOGL（股数 -31,527，-3.1%）、SCHW（股数 -49,455，-3.1%）
-- 横向趋势页：[Q1 2026](/investor-masters/institutions/13f-trends-2026-q1/)
-- 单机构长线趋势页：[13F趋势-Giverny](/investor-masters/institutions/13f-trends-giverny/)
+- 从 `$2.73bn` 到 `$2.97bn`，变化 `$0.24bn`（+8.9%）；拆股调整后，主动仓位约 `$0.05bn`，价格贡献约 `$0.19bn`，价格变化是主因。
+- 当前前十大：`GOOGL` 10.9%、`HEI` 6.4%、`META` 5.7%、`SCHW` 5.2%、`ADP` 4.9%、`AME` 4.9%、`MEDP` 4.5%、`V` 4.5%、`BRK.B` 4.2%、`PGR` 4.0%。
+- 详细长线轨迹：[13F趋势-Giverny](/investor-masters/institutions/13f-trends-giverny/)。
+- 横向趋势页：[Q2 2026](/investor-masters/institutions/13f-trends-2026-q2/)。
 
 ### 近四个已披露季度前 10 大持仓
 
-#### Q1 2026
+#### 2026Q2
 
-- `GOOGL` ALPHABET INC C：`13F 占比 10.2%`，市值约 `$0.28bn`，股数/份额 `969,378`。
-- `BRK.B` BERKSHIRE HATHAWAY INC DEL：`13F 占比 6.6%`，市值约 `$0.18bn`，股数/份额 `378,625`。
-- `META` META PLATFORMS INC：`13F 占比 6.4%`，市值约 `$0.18bn`，股数/份额 `307,821`。
-- `HEI` HEICO CORP NEW：`13F 占比 5.7%`，市值约 `$0.16bn`，股数/份额 `738,482`。
-- `SCHW` SCHWAB CHARLES CORP：`13F 占比 5.3%`，市值约 `$0.14bn`，股数/份额 `1,536,206`。
-- `FIVE` FIVE BELOW INC：`13F 占比 5.2%`，市值约 `$0.14bn`，股数/份额 `617,191`。
-- `AME` AMETEK INC：`13F 占比 4.8%`，市值约 `$0.13bn`，股数/份额 `612,058`。
-- `MEDP` MEDPACE HOLDINGS INC：`13F 占比 4.5%`，市值约 `$0.12bn`，股数/份额 `256,081`。
-- `V` VISA INC：`13F 占比 4.4%`，市值约 `$0.12bn`，股数/份额 `396,357`。
-- `IBP` INSTALLED BLDG PRODS INC：`13F 占比 3.9%`，市值约 `$0.11bn`，股数/份额 `403,665`。
+- `GOOGL`：`13F 占比 10.9%`，股数/份额 `915.6k`。
+- `HEI`：`13F 占比 6.4%`，股数/份额 `735.2k`。
+- `META`：`13F 占比 5.7%`，股数/份额 `302.9k`。
+- `SCHW`：`13F 占比 5.2%`，股数/份额 `1.68m`。
+- `ADP`：`13F 占比 4.9%`，股数/份额 `654.6k`。
+- `AME`：`13F 占比 4.9%`，股数/份额 `598.8k`。
+- `MEDP`：`13F 占比 4.5%`，股数/份额 `253.9k`。
+- `V`：`13F 占比 4.5%`，股数/份额 `389.9k`。
+- `BRK.B`：`13F 占比 4.2%`，股数/份额 `248.4k`。
+- `PGR`：`13F 占比 4.0%`，股数/份额 `542.3k`。
+
+#### 2026Q1
+
+- `GOOGL`：`13F 占比 10.2%`，股数/份额 `969.4k`。
+- `BRK.B`：`13F 占比 6.6%`，股数/份额 `378.6k`。
+- `META`：`13F 占比 6.4%`，股数/份额 `307.8k`。
+- `HEI`：`13F 占比 5.7%`，股数/份额 `738.5k`。
+- `SCHW`：`13F 占比 5.3%`，股数/份额 `1.54m`。
+- `FIVE`：`13F 占比 5.2%`，股数/份额 `617.2k`。
+- `AME`：`13F 占比 4.8%`，股数/份额 `612.1k`。
+- `MEDP`：`13F 占比 4.5%`，股数/份额 `256.1k`。
+- `V`：`13F 占比 4.4%`，股数/份额 `396.4k`。
+- `IBP`：`13F 占比 3.9%`，股数/份额 `403.7k`。
 
 #### Q4 2025
 
@@ -101,26 +107,10 @@ Giverny Capital Inc. 是 SEC 13F 披露主体，CIK 为 `0001641864`。13F 只�
 - `MEDP` MEDPACE HOLDINGS INC：`13F 占比 4.1%`，市值约 `$0.13bn`，股数/份额 `261,802`。
 - `PGR` PROGRESSIVE CORP：`13F 占比 4.0%`，市值约 `$0.13bn`，股数/份额 `533,889`。
 
-#### Q2 2025
+### 单机构长线趋势页
 
-- `BRK.B` BERKSHIRE HATHAWAY INC DEL：`13F 占比 8.5%`，市值约 `$0.25bn`，股数/份额 `511,784`。
-- `META` META PLATFORMS INC：`13F 占比 8.1%`，市值约 `$0.24bn`，股数/份额 `318,902`。
-- `HEI` HEICO CORP NEW：`13F 占比 6.7%`，市值约 `$0.19bn`，股数/份额 `749,492`。
-- `GOOGL` ALPHABET INC C：`13F 占比 6.3%`，市值约 `$0.18bn`，股数/份额 `1,033,334`。
-- `AME` AMETEK INC：`13F 占比 6.2%`，市值约 `$0.18bn`，股数/份额 `996,344`。
-- `SCHW` SCHWAB CHARLES CORP：`13F 占比 4.9%`，市值约 `$0.14bn`，股数/份额 `1,567,495`。
-- `V` VISA INC：`13F 占比 4.9%`，市值约 `$0.14bn`，股数/份额 `401,297`。
-- `PGR` PROGRESSIVE CORP：`13F 占比 4.8%`，市值约 `$0.14bn`，股数/份额 `520,367`。
-- `BKNG` BOOKING HOLDINGS INC.：`13F 占比 4.2%`，市值约 `$0.12bn`，股数/份额 `21,290`。
-- `FI` FISERV INC：`13F 占比 3.8%`，市值约 `$0.11bn`，股数/份额 `648,574`。
-
-### 数据来源
-
-- [SEC 13F Q1 2026 filing detail](https://www.sec.gov/Archives/edgar/data/1641864/000164186426000004/0001641864-26-000004-index.html)
-- [SEC 13F Q4 2025 filing detail](https://www.sec.gov/Archives/edgar/data/1641864/000164186426000002/0001641864-26-000002-index.html)
-- [SEC 13F Q3 2025 filing detail](https://www.sec.gov/Archives/edgar/data/1641864/000164186425000010/0001641864-25-000010-index.html)
-- [SEC 13F Q2 2025 filing detail](https://www.sec.gov/Archives/edgar/data/1641864/000164186425000007/0001641864-25-000007-index.html)
-
+- [13F趋势-Giverny](/investor-masters/institutions/13f-trends-giverny/)
+- [Q2 2026 横向趋势](/investor-masters/institutions/13f-trends-2026-q2/)
 
 ## 机构传承
 

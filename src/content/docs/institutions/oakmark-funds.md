@@ -42,37 +42,42 @@ Oakmark 的文化不是单一明星经理拍脑袋。访谈里尼格伦反复强
 
 ### 怎么看这组披露
 
-13F 只覆盖美国公开股票多头及部分期权披露，且有季度滞后，不代表机构完整组合；`持仓总市值变化` 也只是这张 13F 表内的可见市值变化。
-Oakmark 是基金品牌；这里使用管理公司 Harris Associates L.P. 的 13F 作为机构级公开美股切片。
+按可实现折价和时间套利读；主动减仓既可能是价值兑现，也可能是实现路径变弱。 13F 只覆盖美国公开证券多头及部分工具，不覆盖现金、空头、非美资产、完整衍生品和季度内路径。
 
-### 13F 趋势雷达（最近一季横向）
+### 最新季度趋势雷达
 
-最近一季：`Q1 2026` vs `Q4 2025`。这里合并原“变化摘要”：先看 13F 总市值变化，再看前十大、权重和股数变化；跨机构共振回到季度趋势页统一比较。
-
-- 持仓总市值变化：从 `$79.12bn` 到 `$75.03bn`，下降 `-$4.09bn`（-5.2%）。粗拆：主动仓位变化 `$1.43bn`，价格变化 `-$5.52bn`；主要由价格变化拖累。
-- 新进前 10：Targa Res
-- 退出前 10：Warner Bros Discovery
-- 权重上升：NFLX（+1.3 pct）, Targa Res（+0.6 pct）, Salesforce（+0.4 pct）, Corteva（+0.4 pct）, Gartner（+0.4 pct）
-- 权重下降：Warner Bros Discovery（-1.7 pct）, Deere（-1.5 pct）, COF（-0.8 pct）, Iqvia Hldgs（-0.5 pct）, General Mtrs（-0.5 pct）
-- 显著加仓：Salesforce（股数 +5,126,665，+52.4%）, NFLX（股数 +9,827,233，+30200.5%）, Gartner（股数 +2,171,790，+225.3%）, Icon（股数 +1,841,151，+73.3%）, Fiserv（股数 +4,182,927，+26.9%）
-- 显著减仓：Warner Bros Discovery（股数 -45,980,770，-58.3%）, Deere（股数 -2,616,555，-83.5%）, Phillips 66（股数 -4,844,064，-34.7%）, Conocophillips（股数 -6,574,096，-27.4%）, Eog Res（股数 -3,241,054，-44.0%）
-- 横向趋势页：[Q1 2026](/investor-masters/institutions/13f-trends-2026-q1/)
-- 单机构长线趋势页：[13F趋势-Oakmark](/investor-masters/institutions/13f-trends-oakmark/)
+- 从 `$75.03bn` 到 `$75.42bn`，变化 `$0.39bn`（+0.5%）；拆股调整后，主动仓位约 `-$2.67bn`，价格贡献约 `$3.06bn`，主动仓位与价格方向相反。
+- 当前前十大：`KDP` 4.0%、`ABNB` 3.6%、`CRM` 3.4%、`IQV` 3.1%、`COF` 3.1%、`GOOGL` 3.0%、`SCHW` 3.0%、`ICE` 2.9%、`TRGP` 2.8%、`FCNCA` 2.5%。
+- 详细长线轨迹：[13F趋势-Oakmark](/investor-masters/institutions/13f-trends-oakmark/)。
+- 横向趋势页：[Q2 2026](/investor-masters/institutions/13f-trends-2026-q2/)。
 
 ### 近四个已披露季度前 10 大持仓
 
-#### Q1 2026
+#### 2026Q2
 
-- `Salesforce` Salesforce Inc（CRM 和企业软件平台，核心看客户关系数据、工作流粘性、AI 产品和利润率纪律）：`13F 占比 3.7%`，市值约 `$2.78bn`，股数/份额 `14,917,993`。
-- `ICE` Intercontinental Exchange In（洲际交易所，交易所、清算、数据和抵押贷款技术平台，收入来自市场基础设施收费）：`13F 占比 3.4%`，市值约 `$2.57bn`，股数/份额 `16,342,258`。
-- `Keurig Dr Pepper` Keurig Dr Pepper Inc（饮料和咖啡系统公司，核心看品牌组合、渠道和咖啡胶囊生态）：`13F 占比 3.3%`，市值约 `$2.45bn`，股数/份额 `93,082,313`。
-- `Airbnb` Airbnb Inc（全球民宿和短租平台，核心看房源供给、旅行需求、信任机制和平台抽成）：`13F 占比 3.2%`，市值约 `$2.42bn`，股数/份额 `19,162,235`。
-- `GOOGL` Alphabet Inc（Alphabet 的 A 类股，核心资产是 Google 搜索、YouTube、广告网络、Android 和 Google Cloud）：`13F 占比 3.2%`，市值约 `$2.41bn`，股数/份额 `8,393,944`。
-- `Conocophillips` Conocophillips（大型独立油气勘探生产商，核心看低成本资源、油气价格和股东回报）：`13F 占比 3.1%`，市值约 `$2.30bn`，股数/份额 `17,428,651`。
-- `Targa Res` Targa Res Corp（中游能源公司，核心看天然气液体处理、管道资产和 Permian 产量增长）：`13F 占比 2.9%`，市值约 `$2.19bn`，股数/份额 `8,723,203`。
-- `Iqvia Hldgs` Iqvia Hldgs Inc（临床研究、医疗数据和外包服务平台，核心看药企研发外包和真实世界数据）：`13F 占比 2.8%`，市值约 `$2.08bn`，股数/份额 `12,183,275`。
-- `Schwab Charles` Schwab Charles Corp（嘉信理财，券商和财富管理平台，核心看客户资产、现金利差和交易活动）：`13F 占比 2.7%`，市值约 `$2.05bn`，股数/份额 `21,812,476`。
-- `COF` Capital One Finl Corp（Capital One，信用卡和消费金融银行，核心变量是信贷周期、获客成本和拨备水平）：`13F 占比 2.5%`，市值约 `$1.89bn`，股数/份额 `10,357,647`。
+- `KDP`：`13F 占比 4.0%`，股数/份额 `92.85m`。
+- `ABNB`：`13F 占比 3.6%`，股数/份额 `18.86m`。
+- `CRM`：`13F 占比 3.4%`，股数/份额 `16.15m`。
+- `IQV`：`13F 占比 3.1%`，股数/份额 `12.18m`。
+- `COF`：`13F 占比 3.1%`，股数/份额 `11.49m`。
+- `GOOGL`：`13F 占比 3.0%`，股数/份额 `6.26m`。
+- `SCHW`：`13F 占比 3.0%`，股数/份额 `24.20m`。
+- `ICE`：`13F 占比 2.9%`，股数/份额 `18.05m`。
+- `TRGP`：`13F 占比 2.8%`，股数/份额 `7.94m`。
+- `FCNCA`：`13F 占比 2.5%`，股数/份额 `919.3k`。
+
+#### 2026Q1
+
+- `CRM`：`13F 占比 3.7%`，股数/份额 `14.92m`。
+- `ICE`：`13F 占比 3.4%`，股数/份额 `16.34m`。
+- `KDP`：`13F 占比 3.3%`，股数/份额 `93.08m`。
+- `ABNB`：`13F 占比 3.2%`，股数/份额 `19.16m`。
+- `GOOGL`：`13F 占比 3.2%`，股数/份额 `8.39m`。
+- `COP`：`13F 占比 3.1%`，股数/份额 `17.43m`。
+- `TRGP`：`13F 占比 2.9%`，股数/份额 `8.72m`。
+- `IQV`：`13F 占比 2.8%`，股数/份额 `12.18m`。
+- `SCHW`：`13F 占比 2.7%`，股数/份额 `21.81m`。
+- `COF`：`13F 占比 2.5%`，股数/份额 `10.36m`。
 
 #### Q4 2025
 
@@ -100,25 +105,10 @@ Oakmark 是基金品牌；这里使用管理公司 Harris Associates L.P. 的 13
 - `ICE` Intercontinental Exchange In（洲际交易所，交易所、清算、数据和抵押贷款技术平台，收入来自市场基础设施收费）：`13F 占比 2.8%`，市值约 `$1.72bn`，股数/份额 `10,195,719`。
 - `Salesforce` Salesforce Inc（CRM 和企业软件平台，核心看客户关系数据、工作流粘性、AI 产品和利润率纪律）：`13F 占比 2.7%`，市值约 `$1.67bn`，股数/份额 `7,046,580`。
 
-#### Q2 2025
+### 单机构长线趋势页
 
-- `GOOGL` Alphabet Inc（Alphabet 的 A 类股，核心资产是 Google 搜索、YouTube、广告网络、Android 和 Google Cloud）：`13F 占比 4.5%`，市值约 `$2.78bn`，股数/份额 `15,749,876`。
-- `COF` Capital One Finl Corp（Capital One，信用卡和消费金融银行，核心变量是信贷周期、获客成本和拨备水平）：`13F 占比 3.5%`，市值约 `$2.14bn`，股数/份额 `10,068,086`。
-- `Schwab Charles` Schwab Charles Corp（嘉信理财，券商和财富管理平台，核心看客户资产、现金利差和交易活动）：`13F 占比 3.4%`，市值约 `$2.10bn`，股数/份额 `22,969,673`。
-- `ICE` Intercontinental Exchange In（洲际交易所，交易所、清算、数据和抵押贷款技术平台，收入来自市场基础设施收费）：`13F 占比 3.1%`，市值约 `$1.88bn`，股数/份额 `10,270,241`。
-- `Airbnb` Airbnb Inc（全球民宿和短租平台，核心看房源供给、旅行需求、信任机制和平台抽成）：`13F 占比 3.1%`，市值约 `$1.88bn`，股数/份额 `14,237,331`。
-- `Iqvia Hldgs` Iqvia Hldgs Inc（临床研究、医疗数据和外包服务平台，核心看药企研发外包和真实世界数据）：`13F 占比 3.0%`，市值约 `$1.85bn`，股数/份额 `11,753,182`。
-- `Conocophillips` Conocophillips（大型独立油气勘探生产商，核心看低成本资源、油气价格和股东回报）：`13F 占比 2.8%`，市值约 `$1.74bn`，股数/份额 `19,380,459`。
-- `Phillips 66` Phillips 66（炼油、管道和化工公司，现金流受炼油价差、运输资产和资本回报影响）：`13F 占比 2.6%`，市值约 `$1.60bn`，股数/份额 `13,449,090`。
-- `Keurig Dr Pepper` Keurig Dr Pepper Inc（饮料和咖啡系统公司，核心看品牌组合、渠道和咖啡胶囊生态）：`13F 占比 2.5%`，市值约 `$1.56bn`，股数/份额 `47,118,176`。
-- `CHTR` Charter Communications Inc N（Charter，美国有线宽带运营商，核心看宽带用户、移动捆绑和资本开支强度）：`13F 占比 2.4%`，市值约 `$1.50bn`，股数/份额 `3,672,367`。
-
-### 数据来源
-
-- [SEC 13F Q1 2026 filing detail](https://www.sec.gov/Archives/edgar/data/813917/000081391726000038/0000813917-26-000038-index.html)
-- [SEC 13F Q4 2025 filing detail](https://www.sec.gov/Archives/edgar/data/813917/000081391726000022/0000813917-26-000022-index.html)
-- [SEC 13F Q3 2025 filing detail](https://www.sec.gov/Archives/edgar/data/813917/000081391725000007/0000813917-25-000007-index.html)
-- [SEC 13F Q2 2025 filing detail](https://www.sec.gov/Archives/edgar/data/813917/000141588925021935/0001415889-25-021935-index.html)
+- [13F趋势-Oakmark](/investor-masters/institutions/13f-trends-oakmark/)
+- [Q2 2026 横向趋势](/investor-masters/institutions/13f-trends-2026-q2/)
 
 ## 机构传承
 

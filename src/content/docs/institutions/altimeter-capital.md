@@ -58,9 +58,29 @@ Altimeter 偏好能跨越公司生命周期的技术平台机会：早期可由�
 
 ### 怎么看这组披露
 
-13F 只覆盖美国公开证券多头及部分期权/工具，不覆盖私募、现金、空头、完整衍生品和季度内路径。对 Altimeter，最重要的是看公开市场切片如何验证 Gerstner 的平台周期语言。
+按 public-private crossover、AI 平台迁移和 power law 读；首次披露资产要与可比公开股票动作分开。 13F 只覆盖美国公开证券多头及部分工具，不覆盖现金、空头、非美资产、完整衍生品和季度内路径。
+
+### 最新季度趋势雷达
+
+- 从 `$5.70bn` 到 `$9.83bn`，变化 `$4.13bn`（+72.5%）；拆股调整后，主动仓位约 `$2.93bn`，价格贡献约 `$1.20bn`，主动仓位变化是主因。
+- 当前前十大：`NVDA` 19.2%、`Cerebras` 16.2%、`META` 7.8%、`TSM` 6.9%、`CRWV` 6.2%、`ARM` 5.9%、`AMZN` 5.9%、`UBER` 5.4%、`SNOW` 5.0%、`MSFT` 4.8%。
+- 详细长线轨迹：[13F趋势-Altimeter](/investor-masters/institutions/13f-trends-altimeter/)。
+- 横向趋势页：[Q2 2026](/investor-masters/institutions/13f-trends-2026-q2/)。
 
 ### 近四个已披露季度前 10 大持仓
+
+#### 2026Q2
+
+- `NVDA`：`13F 占比 19.2%`，股数/份额 `9.41m`。
+- `Cerebras`：`13F 占比 16.2%`，股数/份额 `7.23m`。
+- `META`：`13F 占比 7.8%`，股数/份额 `1.35m`。
+- `TSM`：`13F 占比 6.9%`，股数/份额 `1.43m`。
+- `CRWV`：`13F 占比 6.2%`，股数/份额 `6.07m`。
+- `ARM`：`13F 占比 5.9%`，股数/份额 `1.64m`。
+- `AMZN`：`13F 占比 5.9%`，股数/份额 `2.43m`。
+- `UBER`：`13F 占比 5.4%`，股数/份额 `7.37m`。
+- `SNOW`：`13F 占比 5.0%`，股数/份额 `1.93m`。
+- `MSFT`：`13F 占比 4.8%`，股数/份额 `1.27m`。
 
 #### 2026Q1
 
@@ -83,13 +103,10 @@ Altimeter 偏好能跨越公司生命周期的技术平台机会：早期可由�
 
 - `NVDA` 18.8%、`META` 18.1%、`MSFT` 7.9%、`SNOW` 7.2%、`UBER` 7.2%、`AMZN` 6.3%、`HOOD` 4.9%、`CPNG` 4.3%、`TSM` 3.9%、`AVGO` 3.2%。
 
-#### 2025Q2
-
-- `META` 20.0%、`NVDA` 18.8%、`SNOW` 9.1%、`UBER` 8.0%、`MSFT` 7.6%、`CFLT` 5.6%、`CPNG` 4.9%、`AMZN` 4.6%、`HOOD` 4.4%、`TSM` 2.8%。
-
 ### 单机构长线趋势页
 
 - [13F趋势-Altimeter](/investor-masters/institutions/13f-trends-altimeter/)
+- [Q2 2026 横向趋势](/investor-masters/institutions/13f-trends-2026-q2/)
 
 ## 机构传承
 

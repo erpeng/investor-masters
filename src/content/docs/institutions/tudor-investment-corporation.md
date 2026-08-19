@@ -47,36 +47,42 @@ Tudor 这类机构最需要保护的，不是“别交易”，而是“别在�
 
 ### 怎么看这组披露
 
-13F 只覆盖美国公开股票多头及部分期权披露，且有季度滞后，不代表机构完整组合；`持仓总市值变化` 也只是这张 13F 表内的可见市值变化。
+按宏观、多策略和风险工具读；PUT、CALL、ETF 与普通股必须分开，13F 看不到净 delta。 13F 只覆盖美国公开证券多头及部分工具，不覆盖现金、空头、非美资产、完整衍生品和季度内路径。
 
-### 13F 趋势雷达（最近一季横向）
+### 最新季度趋势雷达
 
-最近一季：`Q1 2026` vs `Q4 2025`。这里合并原“变化摘要”：先看 13F 总市值变化，再看前十大、权重和股数变化；跨机构共振回到季度趋势页统一比较。
-
-- 持仓总市值变化：从 `$54.03bn` 到 `$53.87bn`，下降 `-$0.16bn`（-0.3%）。粗拆：主动仓位变化 `$2.39bn`，价格变化 `-$2.55bn`；价格变化是主因，主动仓位变化部分抵消。
-- 新进前 10：SPY, Spdr Gold Shares call, Spdr Gold Shares put
-- 退出前 10：Ishares Core Sp, SPY put, GOOGL put
-- 权重上升：IWM call（+1.3 pct）, SPY call（+1.1 pct）, SPY（+0.8 pct）, Spdr Gold Shares put（+0.8 pct）, Spdr Gold Shares call（+0.7 pct）
-- 权重下降：IWM put（-3.3 pct）, Ishares Core Sp（-1.5 pct）, SPY put（-1.1 pct）, QQQ call（-0.9 pct）, GOOGL put（-0.7 pct）
-- 显著加仓：Tetra Tech Us（股数 +29,507,018，+4813.7%）, IWM call（股数 +2,818,700，+30.7%）, SPY call（股数 +950,000，+125.0%）, SPY（股数 +674,583，+151.8%）, Spdr Gold Shares put（股数 +936,800，+312.0%）
-- 显著减仓：IWM put（股数 -7,483,400，-26.7%）, Ishares Core Sp（股数 -1,195,670，-77.7%）, SPY put（股数 -865,000，-96.1%）, QQQ call（股数 -687,700，-23.1%）, GOOGL put（股数 -1,082,100，-59.7%）
-- 横向趋势页：[Q1 2026](/investor-masters/institutions/13f-trends-2026-q1/)
-- 单机构长线趋势页：[13F趋势-Tudor](/investor-masters/institutions/13f-trends-tudor/)
+- 从 `$53.87bn` 到 `$71.91bn`，变化 `$18.04bn`（+33.5%）；拆股调整后，主动仓位约 `$18.62bn`，价格贡献约 `-$0.58bn`，主动仓位变化是主因。
+- 当前前十大：`IWM put` 12.8%、`QQQ call` 4.9%、`QQQ put` 4.8%、`IWM call` 4.0%、`IVV` 1.7%、`GLD call` 1.5%、`TSM put` 1.5%、`MU put` 1.1%、`NVDA put` 1.1%、`HYG put` 1.1%。
+- 详细长线轨迹：[13F趋势-Tudor](/investor-masters/institutions/13f-trends-tudor/)。
+- 横向趋势页：[Q2 2026](/investor-masters/institutions/13f-trends-2026-q2/)。
 
 ### 近四个已披露季度前 10 大持仓
 
-#### Q1 2026
+#### 2026Q2
 
-- `IWM` Ishares Russell 2000 Etf - Us Etp put（iShares Russell 2000 ETF，用来表达美国小盘股指数暴露）：`13F 占比 9.5%`，市值约 `$5.10bn`，股数/份额 `20,577,700`。
-- `IWM` Ishares Russell 2000 Etf - Us Etp call（iShares Russell 2000 ETF，用来表达美国小盘股指数暴露）：`13F 占比 5.5%`，市值约 `$2.98bn`，股数/份额 `11,998,000`。
-- `QQQ` Invesco Qqq Trust Series 1 - Us Etp put（纳斯达克 100 ETF，用来表达大型科技和成长股指数暴露）：`13F 占比 3.9%`，市值约 `$2.11bn`，股数/份额 `3,659,700`。
-- `QQQ` Invesco Qqq Trust Series 1 - Us Etp call（纳斯达克 100 ETF，用来表达大型科技和成长股指数暴露）：`13F 占比 2.4%`，市值约 `$1.32bn`，股数/份额 `2,285,700`。
-- `SPY` State Street Spdr S&P 500 Etf Trust - Us Etp call（标普 500 ETF，用来表达美国大盘指数暴露，也常被交易型机构用于期权和对冲）：`13F 占比 2.1%`，市值约 `$1.11bn`，股数/份额 `1,710,000`。
-- `XLE` State Street Energy Select Sector Spdr Etf - Us Et put：`13F 占比 1.4%`，市值约 `$0.73bn`，股数/份额 `11,955,200`。
-- `SPY` State Street Spdr S&P 500 Etf Trust - Us Etp（标普 500 ETF，用来表达美国大盘指数暴露，也常被交易型机构用于期权和对冲）：`13F 占比 1.4%`，市值约 `$0.73bn`，股数/份额 `1,119,113`。
-- `NVDA` Nvidia Corp - Us put（AI 加速计算平台，GPU、网络和 CUDA 生态共同支撑数据中心算力需求）：`13F 占比 1.3%`，市值约 `$0.68bn`，股数/份额 `3,927,200`。
-- `Spdr Gold Shares` Spdr Gold Shares - Us Etp call（黄金 ETF，用来表达黄金价格暴露）：`13F 占比 1.1%`，市值约 `$0.57bn`，股数/份额 `1,335,900`。
-- `Spdr Gold Shares` Spdr Gold Shares - Us Etp put（黄金 ETF，用来表达黄金价格暴露）：`13F 占比 1.0%`，市值约 `$0.53bn`，股数/份额 `1,237,100`。
+- `IWM put`：`13F 占比 12.8%`，股数/份额 `30.72m`。
+- `QQQ call`：`13F 占比 4.9%`，股数/份额 `4.83m`。
+- `QQQ put`：`13F 占比 4.8%`，股数/份额 `4.74m`。
+- `IWM call`：`13F 占比 4.0%`，股数/份额 `9.68m`。
+- `IVV`：`13F 占比 1.7%`，股数/份额 `1.75m`。
+- `GLD call`：`13F 占比 1.5%`，股数/份额 `2.93m`。
+- `TSM put`：`13F 占比 1.5%`，股数/份额 `2.19m`。
+- `MU put`：`13F 占比 1.1%`，股数/份额 `709.5k`。
+- `NVDA put`：`13F 占比 1.1%`，股数/份额 `4.02m`。
+- `HYG put`：`13F 占比 1.1%`，股数/份额 `10.00m`。
+
+#### 2026Q1
+
+- `IWM put`：`13F 占比 9.5%`，股数/份额 `20.58m`。
+- `IWM call`：`13F 占比 5.5%`，股数/份额 `12.00m`。
+- `QQQ put`：`13F 占比 3.9%`，股数/份额 `3.66m`。
+- `QQQ call`：`13F 占比 2.4%`，股数/份额 `2.29m`。
+- `SPY call`：`13F 占比 2.1%`，股数/份额 `1.71m`。
+- `XLE put`：`13F 占比 1.4%`，股数/份额 `11.96m`。
+- `SPY`：`13F 占比 1.4%`，股数/份额 `1.12m`。
+- `NVDA put`：`13F 占比 1.3%`，股数/份额 `3.93m`。
+- `GLD call`：`13F 占比 1.1%`，股数/份额 `1.34m`。
+- `GLD put`：`13F 占比 1.0%`，股数/份额 `1.24m`。
 
 #### Q4 2025
 
@@ -104,25 +110,10 @@ Tudor 这类机构最需要保护的，不是“别交易”，而是“别在�
 - `Ishares China Largecap` Ishares China Large-Cap Etf - Us Etp put（中国大盘股 ETF/期权工具，用来表达中国互联网和金融龙头暴露）：`13F 占比 0.7%`，市值约 `$0.39bn`，股数/份额 `9,370,900`。
 - `Ishares China Largecap` Ishares China Large-Cap Etf - Us Etp call（中国大盘股 ETF/期权工具，用来表达中国互联网和金融龙头暴露）：`13F 占比 0.7%`，市值约 `$0.38bn`，股数/份额 `9,332,200`。
 
-#### Q2 2025
+### 单机构长线趋势页
 
-- `IWM` Ishares Russell 2000 Etf - Us Etp put（iShares Russell 2000 ETF，用来表达美国小盘股指数暴露）：`13F 占比 16.5%`，市值约 `$7.56bn`，股数/份额 `35,019,900`。
-- `IWM` Ishares Russell 2000 Etf - Us Etp call（iShares Russell 2000 ETF，用来表达美国小盘股指数暴露）：`13F 占比 6.9%`，市值约 `$3.15bn`，股数/份额 `14,618,200`。
-- `QQQ` Invesco Qqq Trust Series 1 - Us Etp put（纳斯达克 100 ETF，用来表达大型科技和成长股指数暴露）：`13F 占比 4.4%`，市值约 `$2.02bn`，股数/份额 `3,662,600`。
-- `SPY` Spdr S&P 500 Etf Trust - Us Etp（标普 500 ETF，用来表达美国大盘指数暴露，也常被交易型机构用于期权和对冲）：`13F 占比 2.7%`，市值约 `$1.23bn`，股数/份额 `1,987,813`。
-- `QQQ` Invesco Qqq Trust Series 1 - Us Etp call（纳斯达克 100 ETF，用来表达大型科技和成长股指数暴露）：`13F 占比 2.7%`，市值约 `$1.22bn`，股数/份额 `2,205,900`。
-- `XLE` Energy Select Sector Spdr Fund - Us Etp put：`13F 占比 0.9%`，市值约 `$0.43bn`，股数/份额 `5,067,000`。
-- `XLU` Utilities Select Sector Spdr Fund - Us Etp put：`13F 占比 0.8%`，市值约 `$0.38bn`，股数/份额 `4,644,100`。
-- `META` Meta Platforms Inc - Us call（Meta，社交网络、广告系统和 AI 推荐平台，核心资产是 Facebook、Instagram、WhatsApp 和广告模型）：`13F 占比 0.7%`，市值约 `$0.32bn`，股数/份额 `440,200`。
-- `AMD` Advanced Micro Devices Inc - Us call（CPU、GPU 和 AI 加速芯片公司，核心看数据中心份额和异构计算产品节奏）：`13F 占比 0.6%`，市值约 `$0.28bn`，股数/份额 `1,955,700`。
-- `Ishares Bitcoin Trust` Ishares Bitcoin Trust Etf - Us Etp（现货比特币 ETF，用来表达比特币价格暴露）：`13F 占比 0.6%`，市值约 `$0.27bn`，股数/份额 `4,489,444`。
-
-### 数据来源
-
-- [SEC 13F Q1 2026 filing detail](https://www.sec.gov/Archives/edgar/data/923093/000090266426002516/0000902664-26-002516-index.html)
-- [SEC 13F Q4 2025 filing detail](https://www.sec.gov/Archives/edgar/data/923093/000090266426001113/0000902664-26-001113-index.html)
-- [SEC 13F Q3 2025 filing detail](https://www.sec.gov/Archives/edgar/data/923093/000090266425004980/0000902664-25-004980-index.html)
-- [SEC 13F Q2 2025 filing detail](https://www.sec.gov/Archives/edgar/data/923093/000090266425003613/0000902664-25-003613-index.html)
+- [13F趋势-Tudor](/investor-masters/institutions/13f-trends-tudor/)
+- [Q2 2026 横向趋势](/investor-masters/institutions/13f-trends-2026-q2/)
 
 ## 机构传承
 
