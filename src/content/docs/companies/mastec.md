@@ -28,3 +28,8 @@ MasTec (`MTZ`) 在 Third Point Q1 2026 里代表 `工程施工 / 电力与通信
 - [Carpenter Technology](/investor-masters/companies/carpenter-technology/)
 - [API Group](/investor-masters/companies/api-group/)
 - [CRH](/investor-masters/companies/crh/)
+
+## 主要来源
+
+- [SEC 13F filing detail - Q1 2026](https://www.sec.gov/Archives/edgar/data/1040273/000104027326000002/0001040273-26-000002-index.html)
+- [SEC 13F filing detail - Q4 2025](https://www.sec.gov/Archives/edgar/data/1040273/000104027326000001/0001040273-26-000001-index.html)

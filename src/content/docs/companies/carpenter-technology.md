@@ -28,3 +28,8 @@ Carpenter Technology (`CRS`) 是 Third Point Q1 2026 公开 book 里“现实资
 - [CRH](/investor-masters/companies/crh/)
 - [MasTec](/investor-masters/companies/mastec/)
 - [API Group](/investor-masters/companies/api-group/)
+
+## 主要来源
+
+- [SEC 13F filing detail - Q1 2026](https://www.sec.gov/Archives/edgar/data/1040273/000104027326000002/0001040273-26-000002-index.html)
+- [SEC 13F filing detail - Q4 2025](https://www.sec.gov/Archives/edgar/data/1040273/000104027326000001/0001040273-26-000001-index.html)

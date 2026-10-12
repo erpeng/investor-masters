@@ -40,3 +40,8 @@ Apollo 的意义就在这里。它让 Third Point 的 `跨资本结构` 语言�
 - [事件驱动](/investor-masters/concepts/event-driven/)
 - [Brookfield](/investor-masters/companies/brookfield/)
 - [Capital One](/investor-masters/companies/capital-one/)
+
+## 主要来源
+
+- [Third Point Q4 2024 Investor Letter](https://assets.thirdpointlimited.com/f/166217/x/bc70b1b6dc/third-point-q4-2024-investor-letter_tpil.pdf)
+- [SEC 13F filing detail - Q1 2025](https://www.sec.gov/Archives/edgar/data/1040273/0001085146-25-003337-index.htm)

@@ -24,3 +24,7 @@ Valeant 对阿克曼的重要性，不在于证明他也会犯错，而在于它
 - [比尔·阿克曼](/investor-masters/investors/bill-ackman/)
 - [能力圈](/investor-masters/concepts/circle-of-competence/)
 - [反脆弱与仓位管理](/investor-masters/concepts/antifragility-and-position-sizing/)
+
+## 主要来源
+
+- [3.2万字｜潘兴广场比尔·阿克曼最有价值的一场对话，深谈价值投资、核心战役以及如何从人生谷底“爬坑”……](/investor-masters/sources/source-10/)

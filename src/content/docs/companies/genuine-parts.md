@@ -27,3 +27,7 @@ Baupost 在 2026Q2 把 `GPC` 从约 `1.49m` 股增至 `2.82m` 股，股数增加
 
 - [Baupost Group](/investor-masters/institutions/baupost-group/)
 - [13F趋势-Baupost](/investor-masters/institutions/13f-trends-baupost/)
+
+## 主要来源
+
+- [Baupost SEC 13F filing detail - Q2 2026](https://www.sec.gov/Archives/edgar/data/1061768/000106176826000010/0001061768-26-000010-index.html)

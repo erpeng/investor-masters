@@ -20,6 +20,7 @@ description: "跨人物阅读时，最容易反复出现的那几根骨架。"
 
 ## 全部概念
 
+- [再投资跑道](/investor-masters/concepts/reinvestment-runway/)
 - [护城河](/investor-masters/concepts/moat/)
 - [物理瓶颈](/investor-masters/concepts/physical-bottlenecks/)
 - [质量模式](/investor-masters/concepts/quality-patterns/)

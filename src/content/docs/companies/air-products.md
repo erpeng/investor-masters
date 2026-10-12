@@ -27,3 +27,7 @@ AKO 在 2026Q2 把 `APD` 从约 `233.4k` 股增至 `553.4k` 股，股数增加�
 
 - [AKO Capital](/investor-masters/institutions/ako-capital/)
 - [13F趋势-AKO](/investor-masters/institutions/13f-trends-ako/)
+
+## 主要来源
+
+- [AKO SEC 13F filing detail - Q2 2026](https://www.sec.gov/Archives/edgar/data/1376879/000137687926000006/0001376879-26-000006-index.html)

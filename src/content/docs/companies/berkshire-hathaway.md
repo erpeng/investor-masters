@@ -74,11 +74,22 @@ Tracy 这条线提醒了另一点：伯克希尔之所以常被当成“默认�
 
 Himalaya 将 BRK.B 股数提高 `23.5%`，H&H 小幅提高 `0.9%`。前者是明确主动加仓，后者更接近长期核心仓维持；不能只看两家季末权重都上升就判断动作相同。
 
+### [查克·阿克雷](/investor-masters/investors/chuck-akre/)
+
+在 Akre 的方法生成史里，Berkshire 是把会计折价推进到优秀企业与资本配置的来源。1988 年信回顾他自 1977 年成为股东，2014 年文章则用从原始纺织业务走向多元配置的路径，说明再投资者的能力能改变资本的最终用途。
+
+推断：可迁移的是检查资本离开原业务后的回报与治理，不能因为起点业务平庸就否定一切资本配置，也不能把管理者名望当成所有新项目的保证。
+
 ## 分歧与共识
 
 共识在于：伯克希尔本身就是一种稀缺的资本配置结构。分歧不大，更多只是切入角度不同，有人把它当成股票，有人把它当成制度化长期主义，也有人把它当成“经营视角和资本配置视角终于被放进同一家公司”的样本。
 
 ## 相关页面
+
+- [查克·阿克雷](/investor-masters/investors/chuck-akre/)
+- [Akre Capital Management](/investor-masters/institutions/akre-capital-management/)
+- [再投资跑道](/investor-masters/concepts/reinvestment-runway/)
+- [静态护城河 vs 再投资跑道](/investor-masters/dialogues/static-moat-vs-reinvestment-runway/)
 
 - [段永平](/investor-masters/investors/duan-yongping/)
 - [沃伦·巴菲特](/investor-masters/investors/warren-buffett/)
@@ -91,3 +102,8 @@ Himalaya 将 BRK.B 股数提高 `23.5%`，H&H 小幅提高 `0.9%`。前者是明
 - [弗朗索瓦·罗雄](/investor-masters/investors/francois-rochon/)
 - [Berkshire Hathaway](/investor-masters/institutions/berkshire-hathaway/)
 - [所有者收益](/investor-masters/concepts/owners-earnings/)
+
+## 主要来源
+
+- [Akre｜Chuck Akre：1988股东信](/investor-masters/sources/akre-1988/)
+- [Akre｜Chuck Akre：再投资究竟是什么](/investor-masters/sources/akre-2014/)

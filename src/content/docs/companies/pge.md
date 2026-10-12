@@ -39,3 +39,10 @@ PG&E 在当前资料里几乎没有横向分歧，因为它主要是丹·勒布 
 - [事件驱动](/investor-masters/concepts/event-driven/)
 - [Capital One](/investor-masters/companies/capital-one/)
 - [Live Nation](/investor-masters/companies/live-nation/)
+
+## 主要来源
+
+- [SEC 13F filing detail - Q4 2025](https://www.sec.gov/Archives/edgar/data/1040273/000104027326000001000104027326000001/0001040273-26-000001-index.htm)
+- [SEC 13F filing detail - Q3 2025](https://www.sec.gov/Archives/edgar/data/1040273/000104027325000003/0001040273-25-000003-index.htm)
+- [SEC 13F filing detail - Q2 2025](https://www.sec.gov/Archives/edgar/data/1040273/000108514625005277/0001085146-25-005277-index.html)
+- [SEC 13F filing detail - Q1 2025](https://www.sec.gov/Archives/edgar/data/1040273/0001085146-25-003337-index.htm)

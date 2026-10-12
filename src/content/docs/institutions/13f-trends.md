@@ -35,6 +35,8 @@ Q2 的横向变化表现为三条并行线：AI 算力/半导体承接层继续�
 
 ## 单机构专题
 
+- [13F趋势-Akre](/investor-masters/institutions/13f-trends-akre/)：2023Q1—2026Q2；最新 CSGP/NOW 加股、老核心缩股，含全部最新证券与独立期权轨迹。
+
 - [Third Point：2023Q1-2026Q2 持仓变化](/investor-masters/institutions/13f-trends-third-point/)
 - [Coatue Management：2023Q1-2026Q2 持仓变化](/investor-masters/institutions/13f-trends-coatue/)
 - [Altimeter Capital：2023Q1-2026Q2 持仓变化](/investor-masters/institutions/13f-trends-altimeter/)

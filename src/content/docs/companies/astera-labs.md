@@ -50,3 +50,12 @@ Gavin 说自己最早在 C 轮投资 Astera。`2021-09-27` 的 C 轮公告确认
 - [13F趋势-Atreides](/investor-masters/institutions/13f-trends-atreides/)
 - [英伟达](/investor-masters/companies/nvidia/)
 - [物理瓶颈](/investor-masters/concepts/physical-bottlenecks/)
+
+## 主要来源
+
+- [Astera Labs 2025 Form 10-K](https://www.sec.gov/Archives/edgar/data/1736297/000173629726000010/alab-20251231.htm)
+- [Astera Labs 2026Q1 Form 10-Q](https://www.sec.gov/Archives/edgar/data/1736297/000173629726000020/alab-20260331.htm)
+- [Astera Labs 2026Q1 业绩与 Q2 指引](https://www.sec.gov/Archives/edgar/data/1736297/000173629726000017/q126exhibit991.htm)
+- [Astera Labs 2026 Proxy](https://www.sec.gov/Archives/edgar/data/1736297/000114036126016359/ny20065212x1_def14a.htm)
+- Gavin Baker-Atreides Management-科技周期与物理瓶颈-source-audit
+- [13F趋势-Atreides](/investor-masters/institutions/13f-trends-atreides/)

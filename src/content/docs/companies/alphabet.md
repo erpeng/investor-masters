@@ -79,3 +79,15 @@ Baupost 在 2026Q2 把 `GOOG` 从约 `1.18m` 股增至 `1.37m` 股，增幅约 `
 - [Baupost Group](/investor-masters/institutions/baupost-group/)
 - [13F趋势-Baupost](/investor-masters/institutions/13f-trends-baupost/)
 - [13F趋势-2026Q2](/investor-masters/institutions/13f-trends-2026-q2/)
+
+## 主要来源
+
+- [3.2万字｜潘兴广场比尔·阿克曼最有价值的一场对话，深谈价值投资、核心战役以及如何从人生谷底“爬坑”……](/investor-masters/sources/source-10/)
+- [2.5万字｜柏基“传奇基金经理”安德森的罕见深访：伟大公司各有各的独特，平庸公司却都差不多……](/investor-masters/sources/source-03/)
+- [重注亚马逊、比特币的人！比尔·米勒经典对谈：如何避免被偏见带偏](/investor-masters/sources/source-142/)
+- [2.5万字｜比尔·尼格伦最新长谈，一位25年长期跑赢大盘的传奇投资人，如何与时俱进的价值投资……已付费](/investor-masters/sources/source-04/)
+- [Value Investor Insight｜弗朗索瓦·罗雄：Affordable Quality](/investor-masters/sources/source-84/)
+- [TIP｜弗朗索瓦·罗雄：AI驱动市场中的长期投资](/investor-masters/sources/source-77/)
+- [13F趋势-Appaloosa](/investor-masters/institutions/13f-trends-appaloosa/)
+- [13F趋势-Atreides](/investor-masters/institutions/13f-trends-atreides/)
+- [Baupost SEC 13F filing detail - Q2 2026](https://www.sec.gov/Archives/edgar/data/1061768/000106176826000010/0001061768-26-000010-index.html)

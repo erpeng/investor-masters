@@ -34,3 +34,8 @@ Union Pacific 在这批资料里，不是铁路股介绍，而是 Third Point �
 - [事件驱动](/investor-masters/concepts/event-driven/)
 - [PG&E](/investor-masters/companies/pge/)
 - [Live Nation](/investor-masters/companies/live-nation/)
+
+## 主要来源
+
+- [SEC 13F filing detail - Q4 2025](https://www.sec.gov/Archives/edgar/data/1040273/000104027326000001000104027326000001/0001040273-26-000001-index.htm)
+- [SEC 13F filing detail - Q3 2025](https://www.sec.gov/Archives/edgar/data/1040273/000104027325000003/0001040273-25-000003-index.htm)

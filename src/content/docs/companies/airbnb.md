@@ -33,10 +33,27 @@ Oakmark 更偏向持有 Airbnb 而不是 Booking，原因不是 Booking 差，�
 
 这条案例说明 `Oakmark 会计` 的边界：不是所有未来投入都值得加回，只有那些和现有业务自然相连、回报路径可审问、管理层仍关心经济账的投入，才有资格被重新估值。
 
+### [Akre Capital Management](/investor-masters/institutions/akre-capital-management/)（2026Q2 行为）
+
+2026Q2 Akre 持股降至 1,183,749 股，环比 -41.82%，13F 权重 3.31%。这是一项显著减股，应与公司页其他机构的长期增长论点分开。
+
+推断：行为要求复核当前估值、增量产品投入与投资者机会成本，但无法仅凭 13F 识别实际减仓原因。后续股价上涨可能提高「是否卖早」的研究价值，不能直接裁决当时判断。
+
 ## 相关页面
+
+- [查克·阿克雷](/investor-masters/investors/chuck-akre/)
+- [Akre Capital Management](/investor-masters/institutions/akre-capital-management/)
+- [再投资跑道](/investor-masters/concepts/reinvestment-runway/)
+- [静态护城河 vs 再投资跑道](/investor-masters/dialogues/static-moat-vs-reinvestment-runway/)
 
 - [比尔·尼格伦](/investor-masters/investors/bill-nygren/)
 - [Oakmark Funds](/investor-masters/institutions/oakmark-funds/)
 - [Oakmark会计](/investor-masters/concepts/oakmark-accounting/)
 - [Meta](/investor-masters/companies/meta/)
 - [Salesforce](/investor-masters/companies/salesforce/)
+
+## 主要来源
+
+- [SEC｜Akre Capital Management：2022Q4至2026Q2持仓轨迹](/investor-masters/sources/akre-13f/)
+
+- [2.5万字｜比尔·尼格伦最新长谈，一位25年长期跑赢大盘的传奇投资人，如何与时俱进的价值投资……已付费](/investor-masters/sources/source-04/)

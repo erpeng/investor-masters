@@ -28,14 +28,34 @@ Brookfield 在这批资料里最重要的意义，不是资产管理或另类资
 
 这页最重要的启发，是把丹·勒布从“只会打仗的人”里拉出来。Brookfield 这种仓位说明，他的组合里始终也有一层更安静、更平台化的资本配置视角。它和 `事件驱动` 并不矛盾，反而说明 Third Point 真正值钱的是能够把不同类型的公开头寸放进同一套机会型配置者语言里。
 
+### [Akre Capital Management](/investor-masters/institutions/akre-capital-management/)（2026Q2 行为）
+
+2026Q2 Akre 持有的是 Brookfield Corporation（BN），不是 Brookfield Asset Management（BAM）。BN 持股 12,119,927，权重 10.08%，环比减少 28.82%；2025 年 3:2 拆股已校正。
+
+推断：其核心位置可作为继续研究资本配置的入口，却不能由持有本身推出与其他资管机构相同的论点。本轮没有读到针对该季动作的解释，不把缩股定性为看空或赎回。
+
 ## 分歧与共识
 
 当前资料里，Brookfield 仍然是 Third Point 单线样本。它的真正作用，是提醒你 Third Point 的公开多头切片不是纯“催化剂股票集合”，而是一组包括工业资产、平台型资产、高质量复利资产与主动推动主轴在内的混合仓位簿。
 
 ## 相关页面
 
+- [查克·阿克雷](/investor-masters/investors/chuck-akre/)
+- [Akre Capital Management](/investor-masters/institutions/akre-capital-management/)
+- [再投资跑道](/investor-masters/concepts/reinvestment-runway/)
+- [静态护城河 vs 再投资跑道](/investor-masters/dialogues/static-moat-vs-reinvestment-runway/)
+
 - [丹·勒布](/investor-masters/investors/dan-loeb/)
 - [Third Point](/investor-masters/institutions/third-point/)
 - [事件驱动](/investor-masters/concepts/event-driven/)
 - [CRH](/investor-masters/companies/crh/)
 - [PG&E](/investor-masters/companies/pge/)
+
+## 主要来源
+
+- [SEC｜Akre Capital Management：2022Q4至2026Q2持仓轨迹](/investor-masters/sources/akre-13f/)
+
+- [SEC 13F filing detail - Q4 2025](https://www.sec.gov/Archives/edgar/data/1040273/000104027326000001000104027326000001/0001040273-26-000001-index.htm)
+- [SEC 13F filing detail - Q3 2025](https://www.sec.gov/Archives/edgar/data/1040273/000104027325000003/0001040273-25-000003-index.htm)
+- [SEC 13F filing detail - Q2 2025](https://www.sec.gov/Archives/edgar/data/1040273/000108514625005277/0001085146-25-005277-index.html)
+- [SEC 13F filing detail - Q1 2025](https://www.sec.gov/Archives/edgar/data/1040273/0001085146-25-003337-index.htm)

@@ -23,3 +23,7 @@ Canadian Pacific 在这批资料里是一个“好资产被坏治理拖垮”的
 
 - [比尔·阿克曼](/investor-masters/investors/bill-ackman/)
 - [保守的风险语言 vs 激进的仓位语言](/investor-masters/dialogues/risk-and-conviction/)
+
+## 主要来源
+
+- [3.2万字｜潘兴广场比尔·阿克曼最有价值的一场对话，深谈价值投资、核心战役以及如何从人生谷底“爬坑”……](/investor-masters/sources/source-10/)

@@ -27,3 +27,7 @@ Baupost 在 2026Q2 新披露约 `619k` 股 `CME`，季度末价值约 `$136.7m`�
 
 - [Baupost Group](/investor-masters/institutions/baupost-group/)
 - [13F趋势-Baupost](/investor-masters/institutions/13f-trends-baupost/)
+
+## 主要来源
+
+- [Baupost SEC 13F filing detail - Q2 2026](https://www.sec.gov/Archives/edgar/data/1061768/000106176826000010/0001061768-26-000010-index.html)

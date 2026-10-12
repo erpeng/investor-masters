@@ -72,3 +72,7 @@ description: "对比会逼迫读者形成自己的判断。"
 - [静态能力圈 vs 可审计能力圈](/investor-masters/dialogues/static-vs-auditable-circle/)
 - [交易型反脆弱 vs 资本结构型反脆弱](/investor-masters/dialogues/trading-vs-capital-structure-antifragility/)
 - [政策底 vs 估值底](/investor-masters/dialogues/policy-put-vs-valuation-floor/)
+
+## Akre 方法与传承
+
+- Akre 补充阅读：[静态护城河 vs 再投资跑道](/investor-masters/dialogues/static-moat-vs-reinvestment-runway/) 用 American List 与 O’Reilly 检验资本去向；[永久复利 vs 七年价值重估](/investor-masters/dialogues/permanent-compounding-vs-seven-year-revaluation/) 追问继续持有的证明责任。

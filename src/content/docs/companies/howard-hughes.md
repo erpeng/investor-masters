@@ -21,3 +21,7 @@ Howard Hughes 在这批资料里不是单纯的地产公司，而是阿克曼试
 
 - [比尔·阿克曼](/investor-masters/investors/bill-ackman/)
 - [伯克希尔·哈撒韦](/investor-masters/companies/berkshire-hathaway/)
+
+## 主要来源
+
+- [3.2万字｜潘兴广场比尔·阿克曼最有价值的一场对话，深谈价值投资、核心战役以及如何从人生谷底“爬坑”……](/investor-masters/sources/source-10/)

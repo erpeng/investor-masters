@@ -74,3 +74,15 @@ Appaloosa、Pershing 分别把股数提高 `54.6%`、`20.1%`；Atreides 新建�
 - [所有者收益](/investor-masters/concepts/owners-earnings/)
 - [微软](/investor-masters/companies/microsoft/)
 - [Alphabet](/investor-masters/companies/alphabet/)
+
+## 主要来源
+
+- [4万字对话｜72岁传奇投资人特里·史密斯详述一生，如何塑造自己的投资风格](/investor-masters/sources/source-12/)
+- [重注亚马逊、比特币的人！比尔·米勒经典对谈：如何避免被偏见带偏](/investor-masters/sources/source-142/)
+- [小心！过去15年的“陷阱”，让我们遗忘了“分散投资”——看桥水“务实派”如何警示未来（上）   泉果探照灯](/investor-masters/sources/source-120/)
+- [2.5万字｜比尔·尼格伦最新长谈，一位25年长期跑赢大盘的传奇投资人，如何与时俱进的价值投资……已付费](/investor-masters/sources/source-04/)
+- [Value Investor Insight｜弗朗索瓦·罗雄：Affordable Quality](/investor-masters/sources/source-84/)
+- [TIP｜弗朗索瓦·罗雄：AI驱动市场中的长期投资](/investor-masters/sources/source-77/)
+- [13F趋势-Appaloosa](/investor-masters/institutions/13f-trends-appaloosa/)
+- [13F趋势-Altimeter](/investor-masters/institutions/13f-trends-altimeter/)
+- [13F趋势-Pershing](/investor-masters/institutions/13f-trends-pershing/)

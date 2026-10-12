@@ -5,15 +5,15 @@ description: "13F 趋势 - Q2 2026 的跨机构持仓趋势雷达。"
 ---
 抓取时间：`2026-08-18 12:00 CST`。
 
-这页把全部 21 家单机构趋势页横向拉齐。它不是买入清单：主榜看普通股票，PUT/CALL、ETF 和无法直接复制的首次披露标的单列；所有主动变化均按股数并对可识别拆股做调整。
+原始榜单覆盖 21 家机构；2026-10-12 补入 Akre 后，已联动覆盖 22 家。原榜分数与其余机构行情保留原抓取口径，Akre 的增量与 10 月报价单列校正。它不是买入清单：主榜看普通股票，PUT/CALL、ETF 和无法直接复制的首次披露标的单列；所有主动变化均按股数并对可识别拆股做调整。
 
 ## 覆盖口径
 
-- 纳入机构：`21` 家，均已提交报告期为 `2026-06-30` 的 13F-HR。
-- 机构：AKO Capital、Altimeter Capital、Appaloosa Management、Atreides Management、Baillie Gifford、Baupost Group、Coatue Management、Dorsey Asset Management、Duquesne Family Office、Fundsmith、Giverny Capital、Greenlight Capital / DME Capital、H&H International Investment、Himalaya Capital、Kensico Capital Management、Lone Pine Capital、Maverick Capital、Oakmark / Harris Associates、Pershing Square、Third Point、Tudor Investment Corporation。
+- 纳入机构：`22` 家（原榜 21 家 + Akre 补充），均已提交报告期为 `2026-06-30` 的 13F-HR。
+- 机构：Akre Capital Management、AKO Capital、Altimeter Capital、Appaloosa Management、Atreides Management、Baillie Gifford、Baupost Group、Coatue Management、Dorsey Asset Management、Duquesne Family Office、Fundsmith、Giverny Capital、Greenlight Capital / DME Capital、H&H International Investment、Himalaya Capital、Kensico Capital Management、Lone Pine Capital、Maverick Capital、Oakmark / Harris Associates、Pershing Square、Third Point、Tudor Investment Corporation。
 - 组合动作比较 `2026Q2` 与 `2026Q1`；股数决定主动买卖，权重只反映组合结果。
 - Pershing Q2 使用新披露主体 Pershing Square, Inc.，并与旧管理主体 Q1 公开持仓衔接；这项主体迁移在单机构页继续显式标注。
-- 当前价来自 Yahoo Finance，价格截至 `2026-08-18 12:00 CST`；取不到则标 `N/A`。
+- 原榜当前价来自 Yahoo Finance，截至 `2026-08-18 12:00 CST`；Akre 补充表截至 `2026-10-09 美股收盘`，不把两次行情混为同一快照。取不到则标 `N/A`。
 
 ## 结论先行
 
@@ -28,7 +28,7 @@ description: "13F 趋势 - Q2 2026 的跨机构持仓趋势雷达。"
 
 | 优先级 | 标的 | 13F证据 | 支持机构 | 新线索判定 | 13F隐含价 | 当前价 | 13F后涨幅 | 抄作业结论 | 下一步验证 |
 |---:|---|---|---|---|---:|---:|---:|---|---|
-| 1 | `MA` | 净主动变化 `$1.75bn`；买入分 `22.0` / 卖出分 `0.0` | Pershing（$1.09bn，+5.6 pct）、Fundsmith（$0.64bn，+4.7 pct）、AKO（$0.02bn，+0.8 pct） | 主动买入进前十：Pershing（$1.09bn，+5.6 pct）、Fundsmith（$0.64bn，+4.7 pct） | `$514` | `$575` | `+11.9%` | 优先研究：需要更强验证 | 回到公司基本面、估值和机构方法边界验证。 |
+| 1 | `MA` | 原 21 家净主动 `$1.75bn`；Akre 新增 `$-0.146bn` 减股估值；旧评分不含 Akre | Pershing（$1.09bn，+5.6 pct）、Fundsmith（$0.64bn，+4.7 pct）、AKO（$0.02bn，+0.8 pct） | 主动买入进前十：Pershing（$1.09bn，+5.6 pct）、Fundsmith（$0.64bn，+4.7 pct） | `$514` | `$575` | `+11.9%` | 研究但有分歧：Akre 减股、权重升 | 新增 Akre 反向信号；其 10 月现价过滤见下表，原榜行情为 8 月。 |
 | 2 | `GOOG/GOOGL` | 净主动变化 `$0.06bn`；买入分 `38.4` / 卖出分 `33.6` | Third Point（$0.68bn，+7.0 pct）、Maverick（$0.16bn，+1.6 pct）、Baillie（$0.13bn，+0.3 pct） | 主动买入进前十：Third Point（$0.68bn，+7.0 pct）、Maverick（$0.16bn，+1.6 pct） | `$354` | `$341` | `-3.8%` | 研究但有分歧：未明显透支 | 核对收入增速、广告/云/软件转化、单位经济性和资本开支效率。 |
 | 3 | `UBER` | 净主动变化 `$0.97bn`；买入分 `20.2` / 卖出分 `10.6` | Fundsmith（$0.65bn，+4.7 pct）、Pershing（$0.31bn，-3.0 pct）、Appaloosa（$0.10bn，-0.5 pct） | 主动买入进前十：Fundsmith（$0.65bn，+4.7 pct） | `$72.16` | `$76.75` | `+6.4%` | 研究但有分歧：未明显透支 | 核对收入增速、广告/云/软件转化、单位经济性和资本开支效率。 |
 | 4 | `TSM` | 净主动变化 `$0.43bn`；买入分 `24.7` / 卖出分 `19.1` | Fundsmith（$0.55bn，+4.0 pct）、Tudor（$0.36bn，+0.7 pct）、Appaloosa（$0.11bn，+2.6 pct） | 未进入前十，主要看主动加仓和集中度 | `$478` | `$414` | `-13.2%` | 研究但有分歧：未明显透支 | 核对订单/积压、客户资本开支、先进制程/封装和网络升级节奏。 |
@@ -40,6 +40,21 @@ description: "13F 趋势 - Q2 2026 的跨机构持仓趋势雷达。"
 | 10 | `PANW` | 净主动变化 `$0.09bn`；买入分 `7.7` / 卖出分 `0.0` | Atreides（$0.05bn，+0.3 pct）、Duquesne（$0.04bn，+0.8 pct） | 主动买入进前十：Atreides（$0.05bn，+0.3 pct） | `$341` | `$374` | `+9.6%` | 优先研究：未明显透支 | 回到公司基本面、估值和机构方法边界验证。 |
 | 11 | `LYV` | 净主动变化 `$0.11bn`；买入分 `9.2` / 卖出分 `0.0` | Third Point（$0.10bn，+1.0 pct）、Dorsey（$0.01bn，+0.3 pct） | 未进入前十，主要看主动加仓和集中度 | `$183` | `$182` | `-0.6%` | 研究观察：未明显透支 | 回到公司基本面、估值和机构方法边界验证。 |
 | 12 | `AMD` | 净主动变化 `$0.10bn`；买入分 `9.4` / 卖出分 `2.4` | Maverick（$0.06bn，+3.4 pct）、Duquesne（$0.04bn，+0.8 pct） | 主动买入进前十：Maverick（$0.06bn，+3.4 pct） | `$581` | `$479` | `-17.5%` | 研究但有分歧：未明显透支 | 回到公司基本面、估值和机构方法边界验证。 |
+
+## 2026-10-12 校正：补入 Akre 后的研究排序
+
+这是原 21 家榜单之外的增量审计，纳入后覆盖 22 家；未对原榜的全部评分重新排序。Akre 的 Q2 总申报值从 $6.135bn 降至 $5.123bn，不能直接归因于客户赎回。普通股份额减少按上季价格估值约 $0.945bn，普通股价格项约 -$0.064bn；真实买卖现金流未知。
+
+| 补充研究优先级 | 标的 | Akre 股数 / 权重变化 | 对原榜的含义 | 季末隐含价 | 10月9日价 | 此后涨幅 | 下一步 |
+|---:|---|---|---|---:|---:|---:|---|
+| 1 | CSGP | +13.06% / -0.34 pp | 本机构少数增股；不据此声称跨机构共振 | $28.32 | $29.67 | +4.8% | 新门户的增量资本回报与获客成本；价格未明显阻碍，仍需估值验证 |
+| 2 | CPRT | -0.16% / +0.07 pp | 新进前十但微幅减股，归保留侧 | $28.19 | $27.32 | -3.1% | 拍卖量、场地回报和竞争；下跌不证明便宜，先排查论点受损 |
+| 3 | MA | -12.77% / +1.37 pp | 与原榜买入侧相反，原共识解释需修正 | $513.60 | $589.14 | +14.7% | 费率、跨境量、估值及不同机构机会成本；需更强基本面验证 |
+| 4 | NOW | +13.68% / +0.55 pp | 加股，但现价涨逾25%，研究优先级下降 | $99.28 | $140.86 | +41.9% | AI 增量收入、合同增长与稀释；降低优先级，先验证盈利上修 |
+
+MA 是减股、权重升；CSGP 是加股、权重降。CPRT 进入前十、ABNB 退出前十；ORLY 虽减股 44.37%，仍为第十。CRM 正股与 CALL 分开，不能把后者当作普通股买入。反向复盘见 [13F趋势-Akre](/investor-masters/institutions/13f-trends-akre/)，其中 ORLY、ABNB、V、BN、KKR、MA 等都需要核对减仓后的表现与理由。
+
+公司层已回填 [CoStar Group](/investor-masters/companies/costar-group/)、[ServiceNow](/investor-masters/companies/servicenow/)、[Copart](/investor-masters/companies/copart/)、[Mastercard](/investor-masters/companies/mastercard/)、[Visa](/investor-masters/companies/visa/)、[O'Reilly Automotive](/investor-masters/companies/oreilly-automotive/)、[Brookfield](/investor-masters/companies/brookfield/)、[KKR](/investor-masters/companies/kkr/)、[Airbnb](/investor-masters/companies/airbnb/) 和 [Salesforce](/investor-masters/companies/salesforce/)。数据来自 [SEC｜Akre Capital Management：2022Q4至2026Q2持仓轨迹](/investor-masters/sources/akre-13f/)，报价与 SEC 逐份链接见 [13F趋势-Akre](/investor-masters/institutions/13f-trends-akre/)。
 
 ## 资产线 / 趋势跟踪榜
 

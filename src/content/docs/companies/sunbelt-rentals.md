@@ -38,3 +38,7 @@ AKO 在 2026Q2 把 `SUNB` 从约 `3.19m` 股增至 `6.07m` 股，股数增加约
 - [帕特·多尔西](/investor-masters/investors/pat-dorsey/)
 - [AKO Capital](/investor-masters/institutions/ako-capital/)
 - [13F趋势-AKO](/investor-masters/institutions/13f-trends-ako/)
+
+## 主要来源
+
+- [SEC 13F filing detail - Q2 2026](https://www.sec.gov/Archives/edgar/data/1376879/000137687926000006/0001376879-26-000006-index.html)

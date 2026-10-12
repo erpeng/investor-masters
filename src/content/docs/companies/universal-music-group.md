@@ -23,3 +23,7 @@ Universal Music Group 在这批资料里最重要的意义，是它让阿克曼�
 
 - [比尔·阿克曼](/investor-masters/investors/bill-ackman/)
 - [护城河](/investor-masters/concepts/moat/)
+
+## 主要来源
+
+- [3.2万字｜潘兴广场比尔·阿克曼最有价值的一场对话，深谈价值投资、核心战役以及如何从人生谷底“爬坑”……](/investor-masters/sources/source-10/)

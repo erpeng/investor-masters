@@ -12,6 +12,8 @@ description: "把分散的投资访谈、合伙人信和机构材料，编译成
 
 ## 从哪里开始
 
+- **好生意还能把钱投到哪里**：[查克·阿克雷](/investor-masters/investors/chuck-akre/) → [再投资跑道](/investor-masters/concepts/reinvestment-runway/) → [Akre Capital Management](/investor-masters/institutions/akre-capital-management/) → [13F趋势-Akre](/investor-masters/institutions/13f-trends-akre/)。同时读交棒后的弱表现与纠错边界。
+
 - **我想了解价值投资**: [沃伦·巴菲特](/investor-masters/investors/warren-buffett/)、[查理·芒格](/investor-masters/investors/charlie-munger/)、[特里·史密斯](/investor-masters/investors/terry-smith/)、[帕特·多尔西](/investor-masters/investors/pat-dorsey/)、[弗朗索瓦·罗雄](/investor-masters/investors/francois-rochon/)、[塞思·卡拉曼](/investor-masters/investors/seth-klarman/)、[李录](/investor-masters/investors/li-lu/)、[尼克·特雷恩](/investor-masters/investors/nick-train/)、[比尔·尼格伦](/investor-masters/investors/bill-nygren/)
 - **我想了解经典 long/short / 事件驱动**: [大卫·艾因霍恩](/investor-masters/investors/david-einhorn/)、[李·安斯利](/investor-masters/investors/lee-ainslie/)、[史蒂芬·曼德尔](/investor-masters/investors/stephen-mandel/)、[丹·勒布](/investor-masters/investors/dan-loeb/)、[迈克尔·洛温斯坦与托马斯·科尔曼](/investor-masters/investors/michael-lowenstein-thomas-coleman/)
 - **我想了解成长投资**: [詹姆斯·安德森](/investor-masters/investors/james-anderson/)、[汤姆·斯莱特](/investor-masters/investors/tom-slater/)、[劳伦斯·伯恩斯](/investor-masters/investors/lawrence-burns/)、[布拉德·格斯特纳](/investor-masters/investors/brad-gerstner/)
@@ -29,13 +31,13 @@ description: "把分散的投资访谈、合伙人信和机构材料，编译成
 
 ## 精选语录墙
 
-> “比如可口可乐，我们觉得估值合适之后，就持续买了7、8个月。我们当时买了老股的2300万股，大概分150个交易日买入，平均每天买16万股。你必须在时机对的时候出手。”
+> “你真正要问的就是这个，催化时刻到底是什么？”
 
-> “我从 1979 年开始读巴菲特写的东西，读着读着就觉得: 哇，他说的话非常清晰，而且很有道理。”
+> “所以你要找的是那种被低配、被低估、严重失衡的东西。”
 
-> “你在哪儿管钱都行，对我来说你在月球上也没问题。”
+> “人们已经对它变得麻木了，而你在等的，就是那个催化时刻。”
 
-> “我们有一套‘五个M’的框架。”
+> “你最好有个计划。”
 
 ## 对话与争议
 
@@ -61,6 +63,7 @@ description: "把分散的投资访谈、合伙人信和机构材料，编译成
 
 ## 最近更新
 
+- `2026-10-12` Chuck Akre 方法、传承与 13F 专题
 - `2026-08-19` 固化证券身份并完整展示 Q2 持仓
 - `2026-08-18` 完成 21 家机构 Q2 13F 更新与横向趋势
 - `2026-08-15` 更新六家机构 2026Q2 13F 趋势
@@ -68,4 +71,3 @@ description: "把分散的投资访谈、合伙人信和机构材料，编译成
 - `2026-07-28` Astera Labs 独立公司研究与 Gavin thesis 验证
 - `2026-07-24` 期权策略横向提纯与 Baupost 持仓表升级
 - `2026-07-23` 建立 Gavin Baker / Atreides 完整专题包
-- `2026-06-26` 补入卡拉曼 Masters in Business 长访谈

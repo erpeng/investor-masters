@@ -37,10 +37,27 @@ Salesforce 的风险确实被 AI 放大了，但市场可能也低估了企业�
 
 这不是一句“AI 不会影响 SaaS”。尼格伦明确承认 AI 扩大了结果区间，因此 Oakmark 已经上调软件公司的折现率，大约加了 150 个基点。真正的判断是：风险变大了，但价格也降了；如果经常性现金流和切换成本仍成立，赔率可能仍然够。
 
+### [Akre Capital Management](/investor-masters/institutions/akre-capital-management/)（2026Q2 行为）
+
+2026Q2 Akre 普通股 717,799 股、13F 权重 2.20%，股数与上季相同；另有 CALL，对应标的 100,000 股，申报标的价值 1,566.6 万美元，两者分别保留。
+
+期权申报看不到执行价、期限、成本和 delta，不能把 CALL 的标的价值当作投入权利金，也不能把它和普通股相加后宣称新加仓。它使研究多出一个工具结构问题，不足以给团队补写完整 AI 或 SaaS 投资论点。
+
 ## 相关页面
+
+- [查克·阿克雷](/investor-masters/investors/chuck-akre/)
+- [Akre Capital Management](/investor-masters/institutions/akre-capital-management/)
+- [再投资跑道](/investor-masters/concepts/reinvestment-runway/)
+- [静态护城河 vs 再投资跑道](/investor-masters/dialogues/static-moat-vs-reinvestment-runway/)
 
 - [比尔·尼格伦](/investor-masters/investors/bill-nygren/)
 - [Oakmark Funds](/investor-masters/institutions/oakmark-funds/)
 - [Oakmark会计](/investor-masters/concepts/oakmark-accounting/)
 - [经常性收入](/investor-masters/concepts/recurring-revenues/)
 - [Netflix](/investor-masters/companies/netflix/)
+
+## 主要来源
+
+- [SEC｜Akre Capital Management：2022Q4至2026Q2持仓轨迹](/investor-masters/sources/akre-13f/)
+
+- [2.5万字｜比尔·尼格伦最新长谈，一位25年长期跑赢大盘的传奇投资人，如何与时俱进的价值投资……已付费](/investor-masters/sources/source-04/)

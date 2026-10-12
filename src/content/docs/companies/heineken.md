@@ -43,3 +43,8 @@ Heineken 正是这组语言在消费品侧的一个标准落点。把它和 [帝
 - [Lindsell Train](/investor-masters/institutions/lindsell-train/)
 - [帝亚吉欧](/investor-masters/companies/diageo/)
 - [RELX](/investor-masters/companies/relx/)
+
+## 主要来源
+
+- [Finsbury Growth & Income Trust 2011 Annual Report](https://www.finsburygt.com/application/files/3315/5627/3835/FGT_2011_Annual_Report.pdf)
+- [Lindsell Train - Our Investment Approach](https://www.lindselltrain.com/about-us/investment-approach/)

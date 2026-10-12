@@ -59,3 +59,26 @@ npm run dev
 - `https://erpeng.github.io/investor-masters`
 
 部署工作流在 `.github/workflows/deploy.yml`。
+
+### Akre 13F evidence snapshot
+
+The Akre report uses the immutable snapshot at
+`$INVESTORS_VAULT/raw/data/akre-13f-20261012.json`. It retains all 16 SEC
+filings for 15 report periods, cover totals, timestamped quotes, and issuer
+split references. Regenerate the report and the institution's four-quarter
+holdings section with:
+
+```bash
+python3 scripts/generate_akre_13f_trend.py --vault "$INVESTORS_VAULT"
+python3 -m unittest discover -s tests -p 'test_akre_13f.py' -v
+```
+
+`--data` accepts a separately archived snapshot; do not overwrite existing
+`raw/` evidence. Refreshing to another report period also requires updating
+the report's dated interpretation and candidate ranking, the quarterly
+comparison page, and linked company notes. Attribution is an endpoint
+share/price decomposition, not trading cash flow. Ambiguous overlapping
+`NEW HOLDINGS` amendments fail instead of being silently summed.
+
+Akre sources use named URLs so adding these materials does not renumber the
+144 existing source pages. The compiler also exposes their source audits.

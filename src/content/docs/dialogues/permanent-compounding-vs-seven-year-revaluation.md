@@ -27,7 +27,7 @@ description: "把方法冲突显性化的对照页。"
 
 尼格伦补出的提醒很冷：真正优秀的公司当然可能持续超预期，苹果就是例子。但这不意味着所有好公司都该永久持有。正确动作不是到目标价机械卖出，也不是涨了以后永远不卖，而是持续更新企业价值和卖出目标。
 
-## 对我有什么用
+### 对我有什么用
 
 这组对照的实用判断是：先问这家公司靠什么让价值继续增长，再问当前价格是否已经透支这部分增长。
 
@@ -35,7 +35,19 @@ description: "把方法冲突显性化的对照页。"
 
 这不是让你频繁交易，而是防止把“长期主义”变成路径依赖。
 
+### 三条腿完整，也要面对机会成本
+
+[查克·阿克雷](/investor-masters/investors/chuck-akre/) 不在买入时预设固定卖出价，重点是持续检查企业、管理者、再投资三条腿。这让研究者有机会容纳超出最初预期的成长，也把难题推到后面：如果三条腿仍在、但股价已透支许多年，谁承担继续持有的证明责任？
+
+Nygren 的反向买入测试在这里更苛刻；Akre 的框架则更担心因短期估值精确感丢失少数长跑者。两者无法靠「都要看估值」消除差别。可迁移的做法是同时写两张表：企业的失效条件，以及现价对应的预期回报。前者未坏，不自动豁免后者。
+
+Akre 机构近年的弱业绩和 2026Q2 多项核心缩股，让这场争论有了实际压力。它们还不能说明哪种卖出法胜出，但足以阻止把「一直拿着」当作自证正确。应另查竞争、估值与资金流，不能把所有落后都称为耐心成本。
+
 ## 相关页面
+
+- [查克·阿克雷](/investor-masters/investors/chuck-akre/)
+- [Akre Capital Management](/investor-masters/institutions/akre-capital-management/)
+- [再投资跑道](/investor-masters/concepts/reinvestment-runway/)
 
 - [比尔·尼格伦](/investor-masters/investors/bill-nygren/)
 - [沃伦·巴菲特](/investor-masters/investors/warren-buffett/)
@@ -53,3 +65,6 @@ description: "把方法冲突显性化的对照页。"
 - [巴菲特亲自教授的一堂价值百万的MBA课程：如何在股市里赚大钱](/investor-masters/sources/source-121/)
 - [4万字对话｜72岁传奇投资人特里·史密斯详述一生，如何塑造自己的投资风格](/investor-masters/sources/source-12/)
 - [Money Makers｜尼克·特雷恩：少做反而赚得更多](/investor-masters/sources/source-57/)
+
+- [Akre｜三条腿与投资哲学](/investor-masters/sources/akre-philosophy/)。
+- [Akre Focus｜历史与2026业绩事实卡](/investor-masters/sources/akre-performance/)。

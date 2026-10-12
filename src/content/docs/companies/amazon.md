@@ -79,3 +79,9 @@ Atreides 2026Q1 持有约 `953.6k` 股 Amazon，价值约 `$198.6m`，占普通�
 - [13F趋势-AKO](/investor-masters/institutions/13f-trends-ako/)
 - [13F趋势-Baillie](/investor-masters/institutions/13f-trends-baillie/)
 - [13F趋势-Baupost](/investor-masters/institutions/13f-trends-baupost/)
+
+## 主要来源
+
+- [AKO SEC 13F filing detail - Q2 2026](https://www.sec.gov/Archives/edgar/data/1376879/000137687926000006/0001376879-26-000006-index.html)
+- [Baillie Gifford SEC 13F filing detail - Q2 2026](https://www.sec.gov/Archives/edgar/data/1088875/000108887526000057/0001088875-26-000057-index.html)
+- [Baupost SEC 13F filing detail - Q2 2026](https://www.sec.gov/Archives/edgar/data/1061768/000106176826000010/0001061768-26-000010-index.html)

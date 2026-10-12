@@ -63,3 +63,7 @@ Atreides 同季首次披露 SpaceX，约 `27.33m` 股、`$4.67bn`，占其普通
 - [13F趋势-Baillie](/investor-masters/institutions/13f-trends-baillie/)
 - [Atreides Management](/investor-masters/institutions/atreides-management/)
 - [13F趋势-Atreides](/investor-masters/institutions/13f-trends-atreides/)
+
+## 主要来源
+
+- [SEC 13F filing detail - Q2 2026](https://www.sec.gov/Archives/edgar/data/1088875/000108887526000057/0001088875-26-000057-index.html)

@@ -43,3 +43,8 @@ Lindsell Train 官方投资方法页给出的抽象标准同样适用于 Sage：
 - [Lindsell Train](/investor-masters/institutions/lindsell-train/)
 - [RELX](/investor-masters/companies/relx/)
 - [伦敦证券交易所集团](/investor-masters/companies/london-stock-exchange-group/)
+
+## 主要来源
+
+- [Finsbury Growth & Income Trust - Portfolio Manager](https://www.finsburygt.com/about-us/investment-policy/portfolio-manager)
+- [Lindsell Train - Our Investment Approach](https://www.lindselltrain.com/about-us/investment-approach/)

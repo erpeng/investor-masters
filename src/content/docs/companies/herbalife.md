@@ -23,3 +23,7 @@ Herbalife 因此成为阿克曼方法里非常重要的一条边界线：你可�
 
 - [比尔·阿克曼](/investor-masters/investors/bill-ackman/)
 - [反脆弱与仓位管理](/investor-masters/concepts/antifragility-and-position-sizing/)
+
+## 主要来源
+
+- [3.2万字｜潘兴广场比尔·阿克曼最有价值的一场对话，深谈价值投资、核心战役以及如何从人生谷底“爬坑”……](/investor-masters/sources/source-10/)

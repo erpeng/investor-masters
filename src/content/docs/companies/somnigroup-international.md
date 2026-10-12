@@ -27,3 +27,8 @@ Somnigroup International (`SGI`) 在 Third Point 13F 里承担的是 `并购整�
 - [13F趋势-Third Point](/investor-masters/institutions/13f-trends-third-point/)
 - [丹·勒布](/investor-masters/investors/dan-loeb/)
 - [事件驱动](/investor-masters/concepts/event-driven/)
+
+## 主要来源
+
+- [SEC 13F filing detail - Q1 2026](https://www.sec.gov/Archives/edgar/data/1040273/000104027326000002/0001040273-26-000002-index.html)
+- [SEC 13F filing detail - Q4 2025](https://www.sec.gov/Archives/edgar/data/1040273/000104027326000001/0001040273-26-000001-index.html)

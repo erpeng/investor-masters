@@ -19,9 +19,28 @@ Rochon 对 Markel 的关注，符合他对管理层、文化和 owner earnings �
 
 这个样本也提醒 Rochon 方法的边界：金融/保险公司的 owner earnings 更难直接读取，必须理解承保、准备金、投资收益和资本配置，不能用普通工业公司口径机械套用。
 
+### [查克·阿克雷](/investor-masters/investors/chuck-akre/)
+
+核心判断：管理层是否诚实，可以拿跨期会计结果检验，而不是只听价值观。
+
+2010 采访中，Akre 观察多年准备金最终充足还是不足，再看承保与投资如何共同增长每股经济价值。这里有两个不同判断：保守估计保险义务，保护资本；资本能够被较长期配置，扩大可实现收益。账面利润不是足够的检验终点。
+
+推断：迁移方法时要用同一风险口径比较准备金批次与业务组合变化，并校正收购和会计差异。旧时期准备金可靠，并不保证新险种或新管理团队同样可靠。
+
 ## 相关页面
+
+- [查克·阿克雷](/investor-masters/investors/chuck-akre/)
+- [Akre Capital Management](/investor-masters/institutions/akre-capital-management/)
+- [再投资跑道](/investor-masters/concepts/reinvestment-runway/)
+- [静态护城河 vs 再投资跑道](/investor-masters/dialogues/static-moat-vs-reinvestment-runway/)
 
 - [弗朗索瓦·罗雄](/investor-masters/investors/francois-rochon/)
 - [伯克希尔·哈撒韦](/investor-masters/companies/berkshire-hathaway/)
 - [所有者收益](/investor-masters/concepts/owners-earnings/)
 - [企业文化](/investor-masters/concepts/corporate-culture/)
+
+## 主要来源
+
+- [Advisor Perspectives｜Chuck Akre：基金起点与经济价值](/investor-masters/sources/akre-2010/)
+
+- [Value Investor Insight｜弗朗索瓦·罗雄：Crème de la Crème](/investor-masters/sources/source-85/)

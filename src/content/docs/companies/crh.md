@@ -45,3 +45,10 @@ Baillie Gifford 在 2026Q2 把 `CRH` 从仅 `463` 股的跟踪仓位提高到约
 - [Brookfield](/investor-masters/companies/brookfield/)
 - [Baillie Gifford](/investor-masters/institutions/baillie-gifford/)
 - [13F趋势-Baillie](/investor-masters/institutions/13f-trends-baillie/)
+
+## 主要来源
+
+- [SEC 13F filing detail - Q1 2026](https://www.sec.gov/Archives/edgar/data/1040273/000104027326000002/0001040273-26-000002-index.html)
+- [SEC 13F filing detail - Q4 2025](https://www.sec.gov/Archives/edgar/data/1040273/000104027326000001/0001040273-26-000001-index.html)
+- [SEC 13F filing detail - Q3 2025](https://www.sec.gov/Archives/edgar/data/1040273/000104027325000003/0001040273-25-000003-index.html)
+- [Baillie Gifford SEC 13F filing detail - Q2 2026](https://www.sec.gov/Archives/edgar/data/1088875/000108887526000057/0001088875-26-000057-index.html)

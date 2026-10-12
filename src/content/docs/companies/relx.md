@@ -42,3 +42,8 @@ RELX 正好是这组语言在公司层的一个很典型落点。它让尼克·�
 - [Lindsell Train](/investor-masters/institutions/lindsell-train/)
 - [伦敦证券交易所集团](/investor-masters/companies/london-stock-exchange-group/)
 - [帝亚吉欧](/investor-masters/companies/diageo/)
+
+## 主要来源
+
+- [Finsbury Growth & Income Trust - Portfolio Manager](https://www.finsburygt.com/about-us/investment-policy/portfolio-manager)
+- [Lindsell Train - Our Investment Approach](https://www.lindselltrain.com/about-us/investment-approach/)

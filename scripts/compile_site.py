@@ -21,6 +21,13 @@ if not VAULT.exists():
 
 
 INVESTOR_META = {
+    "查克·阿克雷": {
+        "slug": "chuck-akre",
+        "tagline": "把好生意、管理者与新增资本的去处接成三条腿的人。",
+        "institution": ("Akre Capital Management", "institutions/akre-capital-management"),
+        "holdings": "American Tower、Mastercard、O'Reilly、Markel",
+        "methods": "三条腿 / 再投资跑道 / 每股经济价值 / 少做决定",
+    },
     "吉姆·西蒙斯": {
         "slug": "jim-simons",
         "tagline": "把数学、数据、模型和科学团队压成量化信号工厂的人。",
@@ -363,6 +370,7 @@ COMPANY_META = {
 }
 
 INSTITUTION_META = {
+    "Akre Capital Management": {"slug": "akre-capital-management"},
     "ARK Invest": {"slug": "ark-invest"},
     "Appaloosa Management": {"slug": "appaloosa-management"},
     "AKO Capital": {"slug": "ako-capital"},
@@ -396,6 +404,7 @@ INSTITUTION_META = {
 }
 
 CONCEPT_META = {
+    "再投资跑道": {"slug": "reinvestment-runway"},
     "护城河": {"slug": "moat"},
     "物理瓶颈": {"slug": "physical-bottlenecks"},
     "质量模式": {"slug": "quality-patterns"},
@@ -427,6 +436,20 @@ CONCEPT_META = {
 }
 
 COMPANY_SLUG_OVERRIDES = {
+    "Bandag": "bandag",
+    "American List": "american-list",
+    "International Speedway": "international-speedway",
+    "American Tower": "american-tower",
+    "TD Ameritrade": "td-ameritrade",
+    "MSCI": "msci",
+    "FactSet": "factset",
+    "Dollar Tree": "dollar-tree",
+    "KKR": "kkr",
+    "CoStar Group": "costar-group",
+    "ServiceNow": "servicenow",
+    "Copart": "copart",
+    "Topicus": "topicus",
+    "Roper Technologies": "roper-technologies",
     "亚马逊": "amazon",
     "开市客": "costco",
     "伯克希尔·哈撒韦": "berkshire-hathaway",
@@ -760,8 +783,25 @@ def safe_relpath(target: Path, start: Path) -> str:
     return str(Path(__import__("os").path.relpath(target, start))).replace("\\", "/")
 
 
+# Preserve existing numeric source URLs; new Akre sources use stable named routes.
+SOURCE_SLUG_OVERRIDES = {
+    'Akre｜Chuck Akre：1988股东信.md': 'akre-1988',
+    'Advisor Perspectives｜Chuck Akre：基金起点与经济价值.md': 'akre-2010',
+    'VIC｜Chuck Akre：2011复利机器演讲.md': 'akre-2011',
+    'Akre｜Chuck Akre：再投资究竟是什么.md': 'akre-2014',
+    'Colossus｜Chuck Akre：The Three-Legged Stool 2019.md': 'akre-2019',
+    'Akre｜John Neff：如何理解现金.md': 'akre-2021',
+    'Akre｜John Neff：复利为何如此困难.md': 'akre-2022',
+    'Akre Focus｜John Neff：2025Q3评论与ETF转换.md': 'akre-2025q3',
+    'Akre｜三条腿与投资哲学.md': 'akre-philosophy',
+    'Akre｜创始人交棒与机构事实2026.md': 'akre-succession',
+    'Akre Focus｜历史与2026业绩事实卡.md': 'akre-performance',
+    'SEC｜Akre Capital Management：2022Q4至2026Q2持仓轨迹.md': 'akre-13f',
+}
+
+
 def source_slug(filename: str, index: int) -> str:
-    return f"source-{index:02d}"
+    return SOURCE_SLUG_OVERRIDES.get(filename, f"source-{index:02d}")
 
 
 def build_link_maps():
@@ -802,6 +842,9 @@ def build_link_maps():
         elif src.stem == "13F趋势-Greenlight":
             slug = "13f-trends-greenlight"
             title = "13F 趋势 - Greenlight"
+        elif src.stem == "13F趋势-Akre":
+            slug = "13f-trends-akre"
+            title = "13F 趋势 - Akre"
         elif src.stem == "13F趋势-Fundsmith":
             slug = "13f-trends-fundsmith"
             title = "13F 趋势 - Fundsmith"
@@ -872,6 +915,10 @@ def build_link_maps():
         slug = DIALOGUE_SLUG_OVERRIDES.get(src.stem, src.stem)
         page_map[f"dialogues/{src.stem}"] = f"dialogues/{slug}"
         type_map[f"dialogues/{src.stem}"] = src.stem
+    for audit in sorted((WIKI_DIR / "sources").glob("Akre-*-source-audit.md")):
+        page_map[f"sources/{audit.stem}"] = f"sources/{audit.stem.lower()}"
+        type_map[f"sources/{audit.stem}"] = audit.stem
+    page_map["sources/来源总表"] = "sources"
     page_map["investors/index"] = "investors"
     page_map["companies/index"] = "companies"
     page_map["institutions/index"] = "institutions"
@@ -884,8 +931,9 @@ def build_link_maps():
 def build_source_maps():
     mapping = {}
     raw_files = sorted(
-        path for path in RAW_DIR.glob("*.md")
-        if path.read_text(encoding="utf-8").strip()
+        (path for path in RAW_DIR.glob("*.md")
+         if path.read_text(encoding="utf-8").strip()),
+        key=lambda path: (path.name in SOURCE_SLUG_OVERRIDES, path.name),
     )
     for idx, path in enumerate(raw_files, start=1):
         slug = f"sources/{source_slug(path.name, idx)}"
@@ -903,6 +951,7 @@ SOURCE_LINKS, RAW_FILES = build_source_maps()
 WIKILINK_RE = re.compile(r"\[\[([^\]\\|]+)(?:\\?\|([^\]]+))?\]\]")
 
 INVESTOR_ANNUALIZED_RETURNS = {
+    "查克·阿克雷": "产品分期记录见验证卡（不合并为个人职业年化）",
     "尼克·特雷恩": "约 10.5%（[Finsbury 官方 factsheet](https://www.finsburygt.com/download_file/force/326/1)）",
     "特里·史密斯": "约 13.5%（[Fundsmith 官方 factsheet](https://www.fundsmith.co.uk/factsheet/)）",
     "比尔·阿克曼": "约 16.2%（[PSH 2025 年报](https://assets.pershingsquareholdings.com/wp-content/uploads/2026/02/18175039/Pershing-Square-Holdings-Ltd.-2025-Annual-Report.pdf)）",
@@ -1150,6 +1199,8 @@ def compile_companies():
                 ["\n## 分歧与共识\n", convert_wikilinks(translate_common_phrases(sections.get("分歧与共识", "")), output)]
             )
         content.extend(["\n## 相关页面\n", convert_wikilinks(sections.get("相关页面", "现有资料暂未涉及。"), output)])
+        if sections.get("主要来源"):
+            content.extend(["\n## 主要来源\n", convert_wikilinks(sections["主要来源"], output)])
         write(output, "\n".join(content))
 
         if len(highlights) < 6 and intro and intro != "现有资料暂未涉及。":
@@ -1216,6 +1267,10 @@ def compile_institutions():
             title = "13F 趋势 - Greenlight"
             slug = "13f-trends-greenlight"
             description = "Greenlight Capital / DME 从 2023Q1 到 2026Q2 的单机构 13F 持仓变化。"
+        elif stem == "13F趋势-Akre":
+            title = "13F 趋势 - Akre"
+            slug = "13f-trends-akre"
+            description = "Akre Capital Management 从 2023Q1 到 2026Q2 的持仓变化、拆股校正与研究候选。"
         elif stem == "13F趋势-Fundsmith":
             title = "13F 趋势 - Fundsmith"
             slug = "13f-trends-fundsmith"
@@ -1597,8 +1652,20 @@ def compile_sources():
             "## 节选\n",
             clean_excerpt(strip_images(excerpt)) or "当前未提取节选。",
         ]
+        if raw_path.name in SOURCE_SLUG_OVERRIDES:
+            # These sources are concise evidence cards: retain provenance and all links.
+            clean_body = re.sub(r"^# .+\n+", "", body, count=1)
+            page = [render_frontmatter(title, f"sources/{slug}", description), clean_body]
         write(DOCS_DIR / "sources" / f"{slug}.md", "\n".join(page))
         index_lines.append(f"- [{title}]({doc_url(f'sources/{slug}')})")
+    index_lines.append("\n## Akre 材料审计\n")
+    for audit in sorted((WIKI_DIR / "sources").glob("Akre-*-source-audit.md")):
+        _, body = parse_frontmatter(audit.read_text(encoding="utf-8"))
+        slug = audit.stem.lower()
+        output = DOCS_DIR / "sources" / f"{slug}.md"
+        body = re.sub(r"^# .+\n+", "", body, count=1)
+        write(output, render_frontmatter(audit.stem, f"sources/{slug}", "Akre 材料的覆盖责任、证据边界与传播清单。") + convert_wikilinks(body, output))
+        index_lines.append(f"- [{audit.stem}]({doc_url(f'sources/{slug}')})")
     write(DOCS_DIR / "sources" / "index.md", "\n".join(index_lines))
 
 

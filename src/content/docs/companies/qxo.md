@@ -27,3 +27,7 @@ Baillie 的仓位增加说明它在提高对行业整合路径的押注，但市
 
 - [Baillie Gifford](/investor-masters/institutions/baillie-gifford/)
 - [13F趋势-Baillie](/investor-masters/institutions/13f-trends-baillie/)
+
+## 主要来源
+
+- [Baillie Gifford SEC 13F filing detail - Q2 2026](https://www.sec.gov/Archives/edgar/data/1088875/000108887526000057/0001088875-26-000057-index.html)

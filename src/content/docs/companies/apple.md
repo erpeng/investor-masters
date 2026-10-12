@@ -47,3 +47,10 @@ Oakmark 当年买苹果时，认为它大约以 6 折价格交易。之后十年
 - [比尔·尼格伦](/investor-masters/investors/bill-nygren/)
 - [永久复利 vs 七年价值重估](/investor-masters/dialogues/permanent-compounding-vs-seven-year-revaluation/)
 - [腾讯](/investor-masters/companies/tencent/)
+
+## 主要来源
+
+- [“打孔机”只打了不到10个孔！段永平与方三文最新对话，详解“投资中如何真正算看懂”……](/investor-masters/sources/source-92/)
+- [深度翻译  与纳瓦尔的长篇对话（1）财富的创造](/investor-masters/sources/source-133/)
+- [深度翻译  与纳瓦尔的长篇对话（2）培养判断力](/investor-masters/sources/source-134/)
+- [2.5万字｜比尔·尼格伦最新长谈，一位25年长期跑赢大盘的传奇投资人，如何与时俱进的价值投资……已付费](/investor-masters/sources/source-04/)

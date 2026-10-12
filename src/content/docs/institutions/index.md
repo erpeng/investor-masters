@@ -21,6 +21,7 @@ description: "激励结构决定投资人能做什么，而不只是想做什么
 - [H&H International Investment](/investor-masters/institutions/h-h-international-investment/): 为什么段永平的看懂和打孔机会在 13F 上表现为极少数美国公开证券切片。
 
 ## 全部机构
+- [Akre Capital Management](/investor-masters/institutions/akre-capital-management/)
 - [ARK Invest](/investor-masters/institutions/ark-invest/)
 - [Appaloosa Management](/investor-masters/institutions/appaloosa-management/)
 - [AKO Capital](/investor-masters/institutions/ako-capital/)

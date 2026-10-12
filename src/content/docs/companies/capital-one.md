@@ -38,3 +38,9 @@ Capital One 在这批资料里最重要的意义，不是银行业务细节，�
 - [事件驱动](/investor-masters/concepts/event-driven/)
 - [PG&E](/investor-masters/companies/pge/)
 - [Live Nation](/investor-masters/companies/live-nation/)
+
+## 主要来源
+
+- [SEC 13F filing detail - Q4 2025](https://www.sec.gov/Archives/edgar/data/1040273/000104027326000001000104027326000001/0001040273-26-000001-index.htm)
+- [SEC 13F filing detail - Q3 2025](https://www.sec.gov/Archives/edgar/data/1040273/000104027325000003/0001040273-25-000003-index.htm)
+- [SEC 13F filing detail - Q2 2025](https://www.sec.gov/Archives/edgar/data/1040273/000108514625005277/0001085146-25-005277-index.html)

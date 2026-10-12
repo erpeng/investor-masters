@@ -43,3 +43,11 @@ Live Nation 在这批资料里最大的价值，是它证明 Third Point 的组�
 - [事件驱动](/investor-masters/concepts/event-driven/)
 - [PG&E](/investor-masters/companies/pge/)
 - [Capital One](/investor-masters/companies/capital-one/)
+
+## 主要来源
+
+- [SEC 13F filing detail - Q1 2026](https://www.sec.gov/Archives/edgar/data/1040273/000104027326000002/0001040273-26-000002-index.html)
+- [SEC 13F filing detail - Q4 2025](https://www.sec.gov/Archives/edgar/data/1040273/000104027326000001/0001040273-26-000001-index.html)
+- [SEC 13F filing detail - Q3 2025](https://www.sec.gov/Archives/edgar/data/1040273/000104027325000003/0001040273-25-000003-index.html)
+- [SEC 13F filing detail - Q2 2025](https://www.sec.gov/Archives/edgar/data/1040273/000108514625005277/0001085146-25-005277-index.html)
+- [SEC 13F filing detail - Q1 2025](https://www.sec.gov/Archives/edgar/data/1040273/0001085146-25-003337-index.htm)

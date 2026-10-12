@@ -66,10 +66,12 @@ description: "从人物、约束和边界切入理解不同投资方法。"
 | [菲利普·拉丰](/investor-masters/investors/philippe-laffont/) | 公私一体科技投资、AI stack、Tiger Cub 成长研究 | 高 | 1-5年/跨阶段 | 中高 | 成长 / 科技 / 公私一体 | [Coatue Management](/investor-masters/institutions/coatue-management/) | 部分公开 | “推断：技术变化要同时被私募网络、公开市场仓位和价值链瓶颈验证。” |
 | [布拉德·格斯特纳](/investor-masters/investors/brad-gerstner/) | 公私一体、幂律、AI 超级周期、股东纪律 | 极高 | 1-5年/跨阶段 | 中高 | 成长 / 科技 / 公私一体 | [Altimeter Capital](/investor-masters/institutions/altimeter-capital/) | 未公开 | “推断：supercycle 只有落到公开仓位、资本配置和赔率，才不是科技叙事。” |
 | [加文·贝克](/investor-masters/investors/gavin-baker/) | 物理瓶颈、错误分类、因子风险、快速纠错 | 策略依赖 | 1-5年/长期跟踪 | 中高 | 成长 / 科技 / long-short / 公私一体 | [Atreides Management](/investor-masters/institutions/atreides-management/) | 未公开 | “推断：技术叙事必须经过物理约束、相邻估值和组合相关性的共同审计。” |
+| [查克·阿克雷](/investor-masters/investors/chuck-akre/) | 三条腿、再投资跑道、每股经济价值 | 高 | 5年+ | 低至中 | 质量复利 | [Akre Capital Management](/investor-masters/institutions/akre-capital-management/) | 2009—2020 产品片段 17.44%；非个人完整记录 | 推断：高资本回报之后，还要追问下一块利润的去处。 |
 
 
 ## 全部投资人
 
+- [查克·阿克雷](/investor-masters/investors/chuck-akre/)
 - [吉姆·西蒙斯](/investor-masters/investors/jim-simons/)
 - [大卫·史文森](/investor-masters/investors/david-swensen/)
 - [沃伦·巴菲特](/investor-masters/investors/warren-buffett/)

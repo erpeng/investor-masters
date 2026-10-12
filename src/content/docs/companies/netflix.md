@@ -44,3 +44,7 @@ Pershing Square 新建 `13,081,465` 股，季末市值约 `$934m`、占公开组
 - [Oakmark会计](/investor-masters/concepts/oakmark-accounting/)
 - [永久复利 vs 七年价值重估](/investor-masters/dialogues/permanent-compounding-vs-seven-year-revaluation/)
 - [Meta](/investor-masters/companies/meta/)
+
+## 主要来源
+
+- [2.5万字｜比尔·尼格伦最新长谈，一位25年长期跑赢大盘的传奇投资人，如何与时俱进的价值投资……已付费](/investor-masters/sources/source-04/)
