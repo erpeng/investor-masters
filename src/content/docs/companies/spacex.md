@@ -47,6 +47,22 @@ Baillie Gifford 在 2026Q2 的 13F 中首次披露 SpaceX，约 `51.40m` 股、`
 
 Atreides 同季首次披露 SpaceX，约 `27.33m` 股、`$4.67bn`，占其普通股切片 `41.9%`，成为第一大持仓。和 Baillie 一样，这只能证明首次进入 13F 可见范围，不能据此认定二季度完成建仓。两家同时首次披露，更像私募资产进入公开申报口径后的共振，而不是普通股票的同步追涨。详见 [13F趋势-Atreides](/investor-masters/institutions/13f-trends-atreides/)。
 
+## 2026Q3 13F 联动
+
+更新：2026-11-17。以下对比 2026-06-30 与 2026-09-30 的 SEC 持仓快照；本轮 Q3 申报日期均为 2026-11-16。增减以股数为准，权重以各自申报总值为分母。
+
+| 机构 | Q2 → Q3 股数 | 本季动作 | Q3 权重 |
+|---|---:|---|---:|
+| Appaloosa | 225,000 → 3,883,329 | 申报股数增加 1,625.92% | 7.362% |
+| H&H International Investment | 未列示 → 199,900 | 首次进入该账户季度披露 | 0.175% |
+| Duquesne | 未列示 → 202,125 | 首次进入该账户季度披露 | 0.68% |
+
+Appaloosa 的可见持仓扩大到前五；H&H 与 Duquesne 则以较小权重首次列示。三家配置规模与历史不同，不能将其合并成同一种投资方法，首次列示也不自动等于本季首次投资。
+
+**原始申报存在估值差异：**同一 CUSIP `84615Q103`、A 类普通股，Appaloosa 报告 3,883,329 股／556,547,062 美元，隐含约 143.317 美元；H&H 报告 199,900 股／30,156,914 美元，隐含约 150.860 美元。本页保留各自申报股数与权重，不以统一价格覆盖原值。SpaceX 的 2026 年 1 拆 5 发生在 5 月，早于 Q2 期末，不能用这次拆股解释 Appaloosa 的 Q2→Q3 股数增长。
+
+研究待验证：新增可见股份的取得方式、限售及估值口径，以及业务现金流与扩张投入。本季 13F 未披露这些交易细节。
+
 ## 分歧与共识
 
 共识在于 SpaceX 不只是航天公司，而是一家不断打开新约束边界的公司。分歧在于有人更看瓶颈控制权，有人更看创始人与组织知识，有人则直接把它当成未来超级赢家，而 Cathie 则更明确地把它读成会承接后续平台与应用层价值的基础设施底座。
@@ -63,7 +79,17 @@ Atreides 同季首次披露 SpaceX，约 `27.33m` 股、`$4.67bn`，占其普通
 - [13F趋势-Baillie](/investor-masters/institutions/13f-trends-baillie/)
 - [Atreides Management](/investor-masters/institutions/atreides-management/)
 - [13F趋势-Atreides](/investor-masters/institutions/13f-trends-atreides/)
+- [13F趋势-Appaloosa](/investor-masters/institutions/13f-trends-appaloosa/)
+- [13F趋势-HH](/investor-masters/institutions/13f-trends-hh/)
+- [13F趋势-Duquesne](/investor-masters/institutions/13f-trends-duquesne/)
 
 ## 主要来源
 
 - [SEC 13F filing detail - Q2 2026](https://www.sec.gov/Archives/edgar/data/1088875/000108887526000057/0001088875-26-000057-index.html)
+- [Appaloosa 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1656456/000165645626000004/0001656456-26-000004.txt)
+- [Appaloosa 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1656456/000165645626000003/0001656456-26-000003.txt)
+- [H&H 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1759760/000175976026000008/0001759760-26-000008.txt)
+- [H&H 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1759760/000175976026000007/0001759760-26-000007.txt)
+- [Duquesne 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/0001536411-26-000011.txt)
+- [Duquesne 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1536411/000153641126000006/0001536411-26-000006.txt)
+- [SpaceX 2026Q3 10-Q：拆股与股本](https://www.sec.gov/Archives/edgar/data/1181412/000162828026066880/spcx-20260930.htm)

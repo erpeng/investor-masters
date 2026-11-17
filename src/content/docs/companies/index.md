@@ -7,6 +7,17 @@ description: "不是公司百科，而是“为什么顶级投资人反复提到
 
 这些页面最有价值的地方，不是看公司介绍，而是看同一家公司怎样被不同投资人用完全不同的方法读取。有的公司是共识样本，有的公司是分歧样本，还有一些公司只出现过一次，但那一次就足够说明一个投资人的方法边界。最近几轮提纯之后，最值得优先读的公司页已经不只是“被谁提到过”，而是“它们分别钉住了哪一种方法差异”。
 
+## 2026Q3：先看持仓分歧，再看新增线索
+
+本轮联动伯克希尔、Himalaya、H&H、Duquesne 与 Appaloosa 的 2026Q3 申报。这里记录股数与组合权重，不把账户行为改写成投资人公开讲述的公司判断。
+
+- **同股不同动作**：[英伟达](/investor-masters/companies/nvidia/)（H&H 减股、Appaloosa 加股）、[Lam Research](/investor-masters/companies/lam-research/)（Duquesne 不再列示、Appaloosa 加股）、[亚马逊](/investor-masters/companies/amazon/)（Duquesne 正股加股、Appaloosa 减股）。
+- **扩大持仓与首次列示要分开**：[SpaceX](/investor-masters/companies/spacex/)（Appaloosa 扩大、H&H 与 Duquesne 首次列示）；同一证券的申报估值差异保留原值。
+- **集中账户的中国资产**：[拼多多](/investor-masters/companies/pdd/)、[腾讯音乐](/investor-masters/companies/tencent-music/)；Himalaya 与 H&H 的组合权重不同，不能只看增持方向。
+- **交易型账户的具体配置**：[Seagate Technology](/investor-masters/companies/seagate-technology/)、[Unity Software](/investor-masters/companies/unity-software/)、[Sea](/investor-masters/companies/sea/)、[Micron Technology](/investor-masters/companies/micron-technology/)、[Oracle](/investor-masters/companies/oracle/)、[ASML](/investor-masters/companies/asml/)、[Applied Materials](/investor-masters/companies/applied-materials/)；期权与正股分别阅读。
+- **伯克希尔新增及扩仓**：[Bending Spoons](/investor-masters/companies/bending-spoons/)、[Lennar](/investor-masters/companies/lennar/)、[Delta Air Lines](/investor-masters/companies/delta-air-lines/)；先核查仓位规模，再验证业务、估值与取得方式。
+- **H&H 的另一项增股**：[特斯拉](/investor-masters/companies/tesla/)，账户行为与历史投资人点评分开保留。
+
 ## 值得先看
 
 - [亚马逊](/investor-masters/companies/amazon/): 共享规模经济、`描述差 + 时间差` 与信用错价三种读法叠在一起。
@@ -77,6 +88,13 @@ description: "不是公司百科，而是“为什么顶级投资人反复提到
 - **如果你关心“方法在哪些地方会失效”**: 先看 [Herbalife](/investor-masters/companies/herbalife/)、[Valeant](/investor-masters/companies/valeant/)、[诺和诺德](/investor-masters/companies/novo-nordisk/)
 
 ## 全部公司
+
+- [腾讯音乐](/investor-masters/companies/tencent-music/)
+- [Sea](/investor-masters/companies/sea/)
+- [Oracle](/investor-masters/companies/oracle/)
+- [Bending Spoons](/investor-masters/companies/bending-spoons/)
+- [Lennar](/investor-masters/companies/lennar/)
+- [Delta Air Lines](/investor-masters/companies/delta-air-lines/)
 - [亚马逊](/investor-masters/companies/amazon/)
 - [开市客](/investor-masters/companies/costco/)
 - [伯克希尔·哈撒韦](/investor-masters/companies/berkshire-hathaway/)
@@ -230,6 +248,7 @@ description: "不是公司百科，而是“为什么顶级投资人反复提到
 - [Applied Materials](/investor-masters/companies/applied-materials/)
 - [Astera Labs](/investor-masters/companies/astera-labs/)
 - [Bandag](/investor-masters/companies/bandag/)
+- [Bending Spoons](/investor-masters/companies/bending-spoons/)
 - [BlackBerry](/investor-masters/companies/blackberry/)
 - [Broadcom](/investor-masters/companies/broadcom/)
 - [Brookfield](/investor-masters/companies/brookfield/)
@@ -250,6 +269,7 @@ description: "不是公司百科，而是“为什么顶级投资人反复提到
 - [Copart](/investor-masters/companies/copart/)
 - [CoreWeave](/investor-masters/companies/coreweave/)
 - [Credo Technology](/investor-masters/companies/credo-technology/)
+- [Delta Air Lines](/investor-masters/companies/delta-air-lines/)
 - [Dollar Tree](/investor-masters/companies/dollar-tree/)
 - [Eaton](/investor-masters/companies/eaton/)
 - [EchoStar](/investor-masters/companies/echostar/)
@@ -269,6 +289,7 @@ description: "不是公司百科，而是“为什么顶级投资人反复提到
 - [KKR](/investor-masters/companies/kkr/)
 - [Kraft Heinz](/investor-masters/companies/kraft-heinz/)
 - [Lam Research](/investor-masters/companies/lam-research/)
+- [Lennar](/investor-masters/companies/lennar/)
 - [Linde](/investor-masters/companies/linde/)
 - [Live Nation](/investor-masters/companies/live-nation/)
 - [Lumentum](/investor-masters/companies/lumentum/)
@@ -281,6 +302,7 @@ description: "不是公司百科，而是“为什么顶级投资人反复提到
 - [MiniMax](/investor-masters/companies/minimax/)
 - [Netflix](/investor-masters/companies/netflix/)
 - [O'Reilly Automotive](/investor-masters/companies/oreilly-automotive/)
+- [Oracle](/investor-masters/companies/oracle/)
 - [PG&E](/investor-masters/companies/pge/)
 - [Palantir](/investor-masters/companies/palantir/)
 - [Palo Alto Networks](/investor-masters/companies/palo-alto-networks/)
@@ -294,6 +316,7 @@ description: "不是公司百科，而是“为什么顶级投资人反复提到
 - [STMicroelectronics](/investor-masters/companies/stmicroelectronics/)
 - [Sage](/investor-masters/companies/sage/)
 - [Salesforce](/investor-masters/companies/salesforce/)
+- [Sea](/investor-masters/companies/sea/)
 - [Seagate Technology](/investor-masters/companies/seagate-technology/)
 - [ServiceNow](/investor-masters/companies/servicenow/)
 - [Silvergate Capital](/investor-masters/companies/silvergate-capital/)
@@ -329,6 +352,7 @@ description: "不是公司百科，而是“为什么顶级投资人反复提到
 - [百度](/investor-masters/companies/baidu/)
 - [美团](/investor-masters/companies/meituan/)
 - [腾讯](/investor-masters/companies/tencent/)
+- [腾讯音乐](/investor-masters/companies/tencent-music/)
 - [英伟达](/investor-masters/companies/nvidia/)
 - [苹果](/investor-masters/companies/apple/)
 - [诺和诺德](/investor-masters/companies/novo-nordisk/)

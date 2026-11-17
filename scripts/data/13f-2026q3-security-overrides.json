@@ -1,0 +1,34 @@
+{
+  "94352A104": {
+    "ticker": "WVE",
+    "name": "Wave Life Sciences",
+    "description": "开发核酸疗法的生物技术公司。",
+    "mapping_status": "primary_source_confirmed",
+    "mapping_source": "https://www.nasdaqtrader.com/TraderNews.aspx?id=ECA2026-560",
+    "mapping_evidence": {"old_cusip": "Y95308105", "new_cusip": "94352A104", "ratio": 1, "effective_date": "2026-08-07", "note": "One-for-one corporate redomestication; same WVE share position, not a disposal/new purchase."}
+  },
+  "23255M303": {
+    "ticker": "KRSA",
+    "name": "Korsana Biosciences",
+    "description": "开发神经退行性疾病疗法的生物技术公司。",
+    "mapping_status": "primary_source_confirmed",
+    "mapping_source": "https://www.sec.gov/Archives/edgar/data/1755237/000119312526369426/d264301d8k.htm",
+    "mapping_evidence": {"cusip": "23255M303", "ticker": "KRSA", "first_trading_date": "2026-09-09", "note": "New CUSIP following Cyclerion merger and 1-for-7 reverse split; do not automatically join earlier Cyclerion holdings."}
+  },
+  "84615Q103": {
+    "ticker": "SPCX",
+    "name": "SpaceX",
+    "description": "航天发射、卫星通信和相关技术公司。",
+    "mapping_status": "primary_source_confirmed",
+    "mapping_source": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026066880/spcx-20260930.htm",
+    "mapping_evidence": {"cusip": "84615Q103", "ticker": "SPCX", "security_class": "Class A Common Stock", "note": "SEC 10-Q cover confirms Nasdaq ticker; filed values differ between managers, so post-filing price comparison is withheld."}
+  },
+  "T19377109": {
+    "ticker": "",
+    "name": "Bending Spoons",
+    "description": "通过收购和运营数字软件产品发展的软件公司。",
+    "mapping_status": "issuer_confirmed_ticker_unresolved",
+    "mapping_source": "https://www.sec.gov/Archives/edgar/data/2004711/000200471126000024/bsp_ex99-1.htm",
+    "mapping_evidence": {"cusip": "T19377109", "issuer": "BENDING SPOONS SPA", "note": "Issuer confirmed; ticker not established by this release. Do not invent a ticker or compare reporting implied values with an unverified market series."}
+  }
+}

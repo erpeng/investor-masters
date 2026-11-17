@@ -37,6 +37,14 @@ Cathie 这条线把特斯拉从“高估值汽车公司”直接改写成 `Robot
 
 这不是在否认马斯克，而是在否认行业 economics。
 
+## 2026Q3 13F 联动
+
+更新：2026-11-17。以下对比 2026-06-30 与 2026-09-30 的 SEC 持仓快照；本轮 Q3 申报日期均为 2026-11-16。增减以股数为准，权重以各自申报总值为分母。
+
+H&H 将 TSLA 增至 **4,080,000 股**，较 Q2 **增加 20.70%**，占本季申报总值 **8.421%**。这是账户层面的股数增加，不能用本页历史上其他投资人的自动驾驶或平台论述代替其买入理由。
+
+研究待验证：汽车业务现金创造能力与自动驾驶等投入之间的资金关系；需要对应的公司资料或投资人公开说明，才能解释这次配置的依据。
+
 ## 分歧与共识
 
 这页的分歧最直接。Baillie Gifford 看的是少数创始人能否把行业边界整体抬升；Cathie 看的是特斯拉会不会从整车公司跃迁成自动驾驶平台；特里·史密斯看的却是行业回报结构能不能支持这种估值。
@@ -50,3 +58,10 @@ Cathie 这条线把特斯拉从“高估值汽车公司”直接改写成 `Robot
 - [Uber](/investor-masters/companies/uber/)
 - [SpaceX](/investor-masters/companies/spacex/)
 - [ARK Invest](/investor-masters/institutions/ark-invest/)
+- [13F趋势-HH](/investor-masters/institutions/13f-trends-hh/)
+- [H&H International Investment](/investor-masters/institutions/h-h-international-investment/)
+
+## 主要来源
+
+- [H&H 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1759760/000175976026000008/0001759760-26-000008.txt)
+- [H&H 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1759760/000175976026000007/0001759760-26-000007.txt)

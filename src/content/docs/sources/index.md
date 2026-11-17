@@ -161,6 +161,11 @@ description: "原始材料的登记表和出处入口。"
 - [Akre｜创始人交棒与机构事实2026](/investor-masters/sources/akre-succession/)
 - [Colossus｜Chuck Akre：The Three-Legged Stool 2019](/investor-masters/sources/akre-2019/)
 - [SEC｜Akre Capital Management：2022Q4至2026Q2持仓轨迹](/investor-masters/sources/akre-13f/)
+- [SEC｜Appaloosa：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/appaloosa-13f-2026q3/)
+- [SEC｜Berkshire：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/berkshire-13f-2026q3/)
+- [SEC｜Duquesne：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/duquesne-13f-2026q3/)
+- [SEC｜HH：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/hh-13f-2026q3/)
+- [SEC｜Himalaya：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/himalaya-13f-2026q3/)
 - [VIC｜Chuck Akre：2011复利机器演讲](/investor-masters/sources/akre-2011/)
 
 ## Akre 材料审计
@@ -177,3 +182,11 @@ description: "原始材料的登记表和出处入口。"
 - [Akre-performance-source-audit](/investor-masters/sources/akre-performance-source-audit/)
 - [Akre-philosophy-source-audit](/investor-masters/sources/akre-philosophy-source-audit/)
 - [Akre-succession-source-audit](/investor-masters/sources/akre-succession-source-audit/)
+
+## 13F 季度审计
+
+- [Berkshire-13f-source-audit](/investor-masters/sources/berkshire-13f-source-audit/)
+- [Himalaya-13f-source-audit](/investor-masters/sources/himalaya-13f-source-audit/)
+- [HH-13f-source-audit](/investor-masters/sources/hh-13f-source-audit/)
+- [Duquesne-13f-source-audit](/investor-masters/sources/duquesne-13f-source-audit/)
+- [Appaloosa-13f-source-audit](/investor-masters/sources/appaloosa-13f-source-audit/)

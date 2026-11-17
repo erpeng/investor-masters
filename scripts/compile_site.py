@@ -1,6 +1,8 @@
 from __future__ import annotations
 
 import os
+import hashlib
+import json
 import re
 import shutil
 from datetime import date
@@ -459,6 +461,7 @@ COMPANY_SLUG_OVERRIDES = {
     "苹果": "apple",
     "帝亚吉欧": "diageo",
     "腾讯": "tencent",
+    "腾讯音乐": "tencent-music",
     "小红书": "xiaohongshu",
     "MiniMax": "minimax",
     "比亚迪": "byd",
@@ -783,7 +786,15 @@ def safe_relpath(target: Path, start: Path) -> str:
     return str(Path(__import__("os").path.relpath(target, start))).replace("\\", "/")
 
 
-# Preserve existing numeric source URLs; new Akre sources use stable named routes.
+# Numeric URLs are a permanent migration registry, never a current sort index.
+# New ordinary sources use a filename digest; adding/deleting another source
+# cannot change their URL. Named evidence cards retain explicit readable routes.
+SOURCE_SLUG_REGISTRY = json.loads(
+    (ROOT / "scripts/data/source-slugs.json").read_text(encoding="utf-8")
+)["source_slugs"]
+if len(set(SOURCE_SLUG_REGISTRY.values())) != len(SOURCE_SLUG_REGISTRY):
+    raise ValueError("Duplicate routes in source-slugs.json")
+
 SOURCE_SLUG_OVERRIDES = {
     'Akre｜Chuck Akre：1988股东信.md': 'akre-1988',
     'Advisor Perspectives｜Chuck Akre：基金起点与经济价值.md': 'akre-2010',
@@ -797,11 +808,30 @@ SOURCE_SLUG_OVERRIDES = {
     'Akre｜创始人交棒与机构事实2026.md': 'akre-succession',
     'Akre Focus｜历史与2026业绩事实卡.md': 'akre-performance',
     'SEC｜Akre Capital Management：2022Q4至2026Q2持仓轨迹.md': 'akre-13f',
+    'SEC｜Berkshire：2022Q4至2026Q3持仓轨迹.md': 'berkshire-13f-2026q3',
+    'SEC｜Himalaya：2022Q4至2026Q3持仓轨迹.md': 'himalaya-13f-2026q3',
+    'SEC｜HH：2022Q4至2026Q3持仓轨迹.md': 'hh-13f-2026q3',
+    'SEC｜Duquesne：2022Q4至2026Q3持仓轨迹.md': 'duquesne-13f-2026q3',
+    'SEC｜Appaloosa：2022Q4至2026Q3持仓轨迹.md': 'appaloosa-13f-2026q3',
 }
 
 
-def source_slug(filename: str, index: int) -> str:
-    return SOURCE_SLUG_OVERRIDES.get(filename, f"source-{index:02d}")
+def source_audit_groups() -> list[tuple[str, list[Path]]]:
+    sources = WIKI_DIR / "sources"
+    quarterly = [sources / f"{name}-13f-source-audit.md"
+                 for name in ("Berkshire", "Himalaya", "HH", "Duquesne", "Appaloosa")]
+    return [
+        ("Akre 材料审计", sorted(sources.glob("Akre-*-source-audit.md"))),
+        ("13F 季度审计", [path for path in quarterly if path.exists()]),
+    ]
+
+
+def source_slug(filename: str) -> str:
+    if filename in SOURCE_SLUG_REGISTRY:
+        return SOURCE_SLUG_REGISTRY[filename]
+    if filename in SOURCE_SLUG_OVERRIDES:
+        return SOURCE_SLUG_OVERRIDES[filename]
+    return "source-" + hashlib.sha256(filename.encode("utf-8")).hexdigest()[:16]
 
 
 def build_link_maps():
@@ -824,6 +854,9 @@ def build_link_maps():
         if src.stem == "13F趋势":
             slug = "13f-trends"
             title = "13F 趋势"
+        elif src.stem == "13F趋势-Berkshire":
+            slug = "13f-trends-berkshire"
+            title = "13F 趋势 - Berkshire"
         elif src.stem == "13F趋势-Duquesne":
             slug = "13f-trends-duquesne"
             title = "13F 趋势 - Duquesne"
@@ -915,9 +948,10 @@ def build_link_maps():
         slug = DIALOGUE_SLUG_OVERRIDES.get(src.stem, src.stem)
         page_map[f"dialogues/{src.stem}"] = f"dialogues/{slug}"
         type_map[f"dialogues/{src.stem}"] = src.stem
-    for audit in sorted((WIKI_DIR / "sources").glob("Akre-*-source-audit.md")):
-        page_map[f"sources/{audit.stem}"] = f"sources/{audit.stem.lower()}"
-        type_map[f"sources/{audit.stem}"] = audit.stem
+    for _, audits in source_audit_groups():
+        for audit in audits:
+            page_map[f"sources/{audit.stem}"] = f"sources/{audit.stem.lower()}"
+            type_map[f"sources/{audit.stem}"] = audit.stem
     page_map["sources/来源总表"] = "sources"
     page_map["investors/index"] = "investors"
     page_map["companies/index"] = "companies"
@@ -930,13 +964,17 @@ def build_link_maps():
 
 def build_source_maps():
     mapping = {}
+    claimed_slugs = {}
     raw_files = sorted(
         (path for path in RAW_DIR.glob("*.md")
          if path.read_text(encoding="utf-8").strip()),
         key=lambda path: (path.name in SOURCE_SLUG_OVERRIDES, path.name),
     )
-    for idx, path in enumerate(raw_files, start=1):
-        slug = f"sources/{source_slug(path.name, idx)}"
+    for path in raw_files:
+        slug = f"sources/{source_slug(path.name)}"
+        if slug in claimed_slugs:
+            raise ValueError(f"Source route collision: {claimed_slugs[slug]} / {path.name}: {slug}")
+        claimed_slugs[slug] = path.name
         mapping[path.stem] = slug
         mapping[path.name] = slug
         mapping[f"raw/{path.stem}"] = slug
@@ -1237,20 +1275,24 @@ def compile_institutions():
         )
 
     for source_path in sorted((WIKI_DIR / "institutions").glob("13F趋势*.md")):
-        _, body = parse_frontmatter(source_path.read_text(encoding="utf-8"))
+        page_meta, body = parse_frontmatter(source_path.read_text(encoding="utf-8"))
         stem = source_path.stem
         if stem == "13F趋势":
             title = "13F 趋势"
             slug = "13f-trends"
             description = "把机构 13F 按季度横向拉齐，观察跨机构持仓趋势。"
+        elif stem == "13F趋势-Berkshire":
+            title = "13F 趋势 - Berkshire"
+            slug = "13f-trends-berkshire"
+            description = f"Berkshire Hathaway 从 2023Q1 到 {page_meta.get('latest_quarter', '2026Q3')} 的单机构 13F 持仓变化。"
         elif stem == "13F趋势-Duquesne":
             title = "13F 趋势 - Duquesne"
             slug = "13f-trends-duquesne"
-            description = "Duquesne Family Office 从 2023Q1 到 2026Q2 的单机构 13F 持仓变化。"
+            description = f"Duquesne Family Office 从 2023Q1 到 {page_meta.get('latest_quarter', '2026Q2')} 的单机构 13F 持仓变化。"
         elif stem == "13F趋势-HH":
             title = "13F 趋势 - H&H"
             slug = "13f-trends-hh"
-            description = "H&H International Investment 从 2023Q1 到 2026Q2 的单机构 13F 持仓变化。"
+            description = f"H&H International Investment 从 2023Q1 到 {page_meta.get('latest_quarter', '2026Q2')} 的单机构 13F 持仓变化。"
         elif stem == "13F趋势-Tudor":
             title = "13F 趋势 - Tudor"
             slug = "13f-trends-tudor"
@@ -1258,7 +1300,7 @@ def compile_institutions():
         elif stem == "13F趋势-Himalaya":
             title = "13F 趋势 - Himalaya"
             slug = "13f-trends-himalaya"
-            description = "Himalaya Capital 从 2023Q1 到 2026Q2 的单机构 13F 持仓变化。"
+            description = f"Himalaya Capital 从 2023Q1 到 {page_meta.get('latest_quarter', '2026Q2')} 的单机构 13F 持仓变化。"
         elif stem == "13F趋势-Lone Pine":
             title = "13F 趋势 - Lone Pine"
             slug = "13f-trends-lone-pine"
@@ -1306,7 +1348,7 @@ def compile_institutions():
         elif stem == "13F趋势-Appaloosa":
             title = "13F 趋势 - Appaloosa"
             slug = "13f-trends-appaloosa"
-            description = "Appaloosa Management 从 2023Q1 到 2026Q2 的单机构 13F 持仓变化。"
+            description = f"Appaloosa Management 从 2023Q1 到 {page_meta.get('latest_quarter', '2026Q2')} 的单机构 13F 持仓变化。"
         elif stem == "13F趋势-Kensico":
             title = "13F 趋势 - Kensico"
             slug = "13f-trends-kensico"
@@ -1635,9 +1677,9 @@ def compile_sources():
         render_frontmatter("来源", "sources", "原始材料的登记表和出处入口。"),
         "这些页面不承担完整阅读体验，主要用于给正文引用提供稳定落点。\n",
     ]
-    for idx, raw_path in enumerate(RAW_FILES, start=1):
+    for raw_path in RAW_FILES:
         meta, body = parse_frontmatter(raw_path.read_text(encoding="utf-8"))
-        slug = source_slug(raw_path.name, idx)
+        slug = source_slug(raw_path.name)
         title = meta.get("title", raw_path.stem)
         source = meta.get("source", "")
         description = meta.get("description", "原始材料来源页。")
@@ -1658,14 +1700,18 @@ def compile_sources():
             page = [render_frontmatter(title, f"sources/{slug}", description), clean_body]
         write(DOCS_DIR / "sources" / f"{slug}.md", "\n".join(page))
         index_lines.append(f"- [{title}]({doc_url(f'sources/{slug}')})")
-    index_lines.append("\n## Akre 材料审计\n")
-    for audit in sorted((WIKI_DIR / "sources").glob("Akre-*-source-audit.md")):
-        _, body = parse_frontmatter(audit.read_text(encoding="utf-8"))
-        slug = audit.stem.lower()
-        output = DOCS_DIR / "sources" / f"{slug}.md"
-        body = re.sub(r"^# .+\n+", "", body, count=1)
-        write(output, render_frontmatter(audit.stem, f"sources/{slug}", "Akre 材料的覆盖责任、证据边界与传播清单。") + convert_wikilinks(body, output))
-        index_lines.append(f"- [{audit.stem}]({doc_url(f'sources/{slug}')})")
+    for heading, audits in source_audit_groups():
+        if not audits:
+            continue
+        index_lines.append(f"\n## {heading}\n")
+        for audit in audits:
+            _, body = parse_frontmatter(audit.read_text(encoding="utf-8"))
+            slug = audit.stem.lower()
+            output = DOCS_DIR / "sources" / f"{slug}.md"
+            body = re.sub(r"^# .+\n+", "", body, count=1)
+            description = ("Akre 材料" if audit.stem.startswith("Akre-") else "13F 季度材料") + "的覆盖责任、证据边界与传播清单。"
+            write(output, render_frontmatter(audit.stem, f"sources/{slug}", description) + convert_wikilinks(body, output))
+            index_lines.append(f"- [{audit.stem}]({doc_url(f'sources/{slug}')})")
     write(DOCS_DIR / "sources" / "index.md", "\n".join(index_lines))
 
 
@@ -1797,6 +1843,12 @@ def summarize_log_entry(entry: dict[str, str]) -> list[str]:
 
     if title.startswith("investor-why-refactor |"):
         return ["阅读结构升级：人物页现在更回答“为什么这样投”，投资十问则专门负责横向审问。"]
+
+    if title == "institution-13f-2026q3-first-five":
+        return ["更新伯克希尔、喜马拉雅、H&H、Duquesne、Appaloosa 的 2026Q3 持仓与趋势。"]
+
+    if title == "institution-13f-2026q3-local-validation":
+        return []
 
     fallback = title.split("|", 1)[-1].strip() if "|" in title else title.strip()
     return [fallback]

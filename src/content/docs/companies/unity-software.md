@@ -23,8 +23,23 @@ Unity Software（`U`）是实时 3D 内容、游戏开发和广告变现平台�
 
 Atreides 二季度把普通股减至 `10,245,819` 股，较上季 `-17.3%`；季末仍有约 `$292.8m` 普通股，并另有 CALL 披露。普通股减仓与期权并存，不能用单一工具推断净方向。参见 [13F趋势-Atreides](/investor-masters/institutions/13f-trends-atreides/)。
 
+## 2026Q3 13F 联动
+
+更新：2026-11-17。以下对比 2026-06-30 与 2026-09-30 的 SEC 持仓快照；本轮 Q3 申报日期均为 2026-11-16。增减以股数为准，权重以各自申报总值为分母。
+
+Duquesne 将 U 普通股从 **738,785 股**增加到 **3,956,385 股**，增幅 **435.53%**，本季权重 **3.62%**。这一条与上面的 Atreides 历史普通股／CALL 记录属于不同机构、不同季度，不能合并成同一投资论点。
+
+研究待验证：业务修复究竟来自收入质量、广告变现效率还是成本收缩，以及自由现金流是否持续改善。13F 可以确认仓位扩大，不能确认管理人采用了哪一项修复假设。
+
 ## 相关页面
 
 - [加文·贝克](/investor-masters/investors/gavin-baker/)
 - [13F趋势-Atreides](/investor-masters/institutions/13f-trends-atreides/)
 - [公私一体科技投资](/investor-masters/concepts/public-private-tech-investing/)
+- [13F趋势-Duquesne](/investor-masters/institutions/13f-trends-duquesne/)
+- [斯坦利·德鲁肯米勒](/investor-masters/investors/stanley-druckenmiller/)
+
+## 主要来源
+
+- [Duquesne 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/0001536411-26-000011.txt)
+- [Duquesne 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1536411/000153641126000006/0001536411-26-000006.txt)

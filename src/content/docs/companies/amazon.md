@@ -60,6 +60,20 @@ Atreides 2026Q1 持有约 `953.6k` 股 Amazon，价值约 `$198.6m`，占普通�
 
 六家更新机构中，Duquesne 将股数提高约 `1082.5%`，Atreides `+1.7%`，Appaloosa `+15.7%`，而 Pershing `-25.2%`。这是很好的对手盘样本：四家都可能认可生意，但仓位变化由原始持仓、价格、组合约束和机会成本共同决定。参见对应六家单机构趋势页。
 
+## 2026Q3 13F 联动
+
+更新：2026-11-17。以下对比 2026-06-30 与 2026-09-30 的 SEC 持仓快照；本轮 Q3 申报日期均为 2026-11-16。增减以股数为准，权重以各自申报总值为分母。
+
+| 机构与工具 | Q2 → Q3 股数／标的股数 | 股数变化 | Q3 权重 |
+|---|---:|---:|---:|
+| Duquesne 普通股 | 541,600 → 772,600 | +42.65% | 4.31% |
+| Duquesne CALL | 459,300 → 459,300 | 不变 | 2.56% |
+| Appaloosa 普通股 | 5,000,000 → 4,475,000 | −10.50% | 14.749% |
+
+**本季出现明确动作分歧：Duquesne 增加正股，Appaloosa 减少正股。** Appaloosa 减股后仍保留较高权重，不能把减持写成退出；Duquesne 的 CALL 也不能与普通股直接合并成净敞口。
+
+研究待验证：AWS 增长与资本开支兑现、零售效率及估值对仓位选择的影响。上述动作没有证明两家对公司长期价值的判断相反。
+
 ## 分歧与共识
 
 共识很清楚：亚马逊不是普通成长股，而是一家能把客户价值、规模与现金流飞轮绑在一起的公司。分歧在于进入方式不同：共享规模经济、`描述差 + 时间差`、信用市场生存错价、平台资产再排序、集中组合替换、缩表后核心留存，以及 Trainium / 机器人能否把 AI 资本开支转成真实损益。
@@ -79,9 +93,14 @@ Atreides 2026Q1 持有约 `953.6k` 股 Amazon，价值约 `$198.6m`，占普通�
 - [13F趋势-AKO](/investor-masters/institutions/13f-trends-ako/)
 - [13F趋势-Baillie](/investor-masters/institutions/13f-trends-baillie/)
 - [13F趋势-Baupost](/investor-masters/institutions/13f-trends-baupost/)
+- [13F趋势-Duquesne](/investor-masters/institutions/13f-trends-duquesne/)
 
 ## 主要来源
 
 - [AKO SEC 13F filing detail - Q2 2026](https://www.sec.gov/Archives/edgar/data/1376879/000137687926000006/0001376879-26-000006-index.html)
 - [Baillie Gifford SEC 13F filing detail - Q2 2026](https://www.sec.gov/Archives/edgar/data/1088875/000108887526000057/0001088875-26-000057-index.html)
 - [Baupost SEC 13F filing detail - Q2 2026](https://www.sec.gov/Archives/edgar/data/1061768/000106176826000010/0001061768-26-000010-index.html)
+- [Duquesne 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/0001536411-26-000011.txt)
+- [Duquesne 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1536411/000153641126000006/0001536411-26-000006.txt)
+- [Appaloosa 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1656456/000165645626000004/0001656456-26-000004.txt)
+- [Appaloosa 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1656456/000165645626000003/0001656456-26-000003.txt)

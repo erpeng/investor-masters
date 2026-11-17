@@ -33,6 +33,19 @@ Appaloosa 的 `PDD` 线索更偏政策交易和组合表达。[13F趋势-Appaloo
 
 Himalaya 将 PDD 股数增加 `133.5%` 至 `10.76m`，H&H 增加 `26.7%` 至 `25.02m`。两家段永平/李录方法谱系的集中型账户同季主动加仓，是六家里最清晰的单股共振之一；但仍需结合各自组合规模与非美资产缺口阅读。
 
+## 2026Q3 13F 联动
+
+更新：2026-11-17。以下对比 2026-06-30 与 2026-09-30 的 SEC 持仓快照；本轮 Q3 申报日期均为 2026-11-16。增减以股数为准，权重以各自申报总值为分母。
+
+| 机构 | Q3 股数（ADS） | 较 Q2 | Q3 权重 |
+|---|---:|---:|---:|
+| Himalaya / 李录 | 11,761,119 | +9.29% | 24.241% |
+| H&H International Investment | 27,990,859 | +11.86% | 12.691% |
+
+两家账户本季继续增加 PDD 股数，但组合地位不同：PDD 在 Himalaya 的可见组合中更集中。H&H 的申报行为不能直接归属为段永平个人的交易决定，也不能代替他对公司的公开判断。历史访谈与本季账户动作应分别阅读。
+
+研究待验证：国内电商竞争与 Temu 投入对长期现金流的影响，以及两家申报账户各自的机会成本；13F 未解释本季增持理由。
+
 ## 分歧与共识
 
 这页最有价值的地方，是它让段永平的方法边界变得可见：即使是他，也会为极少数高弹性机会保留风险投资式仓位。
@@ -42,3 +55,13 @@ Himalaya 将 PDD 股数增加 `133.5%` 至 `10.76m`，H&H 增加 `26.7%` 至 `25
 - [段永平](/investor-masters/investors/duan-yongping/)
 - [大卫·泰珀](/investor-masters/investors/david-tepper/)
 - [苹果](/investor-masters/companies/apple/)
+- [13F趋势-Himalaya](/investor-masters/institutions/13f-trends-himalaya/)
+- [13F趋势-HH](/investor-masters/institutions/13f-trends-hh/)
+- [李录](/investor-masters/investors/li-lu/)
+
+## 主要来源
+
+- [Himalaya 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1709323/000204358526000030/0002043585-26-000030.txt)
+- [Himalaya 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1709323/000204358526000022/0002043585-26-000022.txt)
+- [H&H 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1759760/000175976026000008/0001759760-26-000008.txt)
+- [H&H 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1759760/000175976026000007/0001759760-26-000007.txt)

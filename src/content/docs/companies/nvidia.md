@@ -49,6 +49,19 @@ Baker 跟踪 Nvidia 超过二十年，但 Atreides 的最新动作不是“长�
 
 他对 Nvidia 的读法也不止 GPU：TSMC 是否扩产、内存和网络瓶颈是否迁移、设备利用率是否足够高，共同决定资本开支周期能否持续。
 
+## 2026Q3 13F 联动
+
+更新：2026-11-17。以下对比 2026-06-30 与 2026-09-30 的 SEC 持仓快照；本轮 Q3 申报日期均为 2026-11-16。增减以股数为准，权重以各自申报总值为分母。
+
+| 机构 | Q2 → Q3 股数 | 股数变化 | Q3 权重 |
+|---|---:|---:|---:|
+| H&H International Investment | 6,280,675 → 2,319,475 | **−63.07%** | 3.081% |
+| Appaloosa | 1,525,000 → 2,000,000 | **+31.15%** | 6.042% |
+
+**同一季度，H&H 大幅减股，Appaloosa 增股。** 这项分歧来自股数而非市值波动；它提示两家配置约束与机会成本可能不同，但没有足够公开证据把差异归因为具体估值判断或行业预测。
+
+研究待验证：客户资本开支的兑现节奏、产品毛利与竞争格局，以及各自组合中替代资产的相对吸引力。
+
 ## 分歧与共识
 
 德鲁肯米勒看的是趋势和仓位，Baillie Gifford 看的是价值链瓶颈，Cathie 看的是 GPU 作为 AI 基础设施潮的直接承接层，特里·史密斯提醒的是“别把涨幅误当理解”，Appaloosa、Altimeter 和 Atreides 则展示了同一 AI 核心腿在不同交易/科技组合里的仓位管理。同一家公司，多种不同的下注语法。
@@ -67,3 +80,11 @@ Baker 跟踪 Nvidia 超过二十年，但 Atreides 的最新动作不是“长�
 - [ARK Invest](/investor-masters/institutions/ark-invest/)
 - [Atreides Management](/investor-masters/institutions/atreides-management/)
 - [13F趋势-Atreides](/investor-masters/institutions/13f-trends-atreides/)
+- [13F趋势-HH](/investor-masters/institutions/13f-trends-hh/)
+
+## 主要来源
+
+- [H&H 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1759760/000175976026000008/0001759760-26-000008.txt)
+- [H&H 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1759760/000175976026000007/0001759760-26-000007.txt)
+- [Appaloosa 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1656456/000165645626000004/0001656456-26-000004.txt)
+- [Appaloosa 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1656456/000165645626000003/0001656456-26-000003.txt)
