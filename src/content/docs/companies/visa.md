@@ -36,6 +36,20 @@ Pershing Square 新建 `3,270,470` 股，季末市值约 `$1.122bn`、占公开�
 
 2026Q2 Akre 机构持股 1,110,881 股，13F 权重 7.44%，股数环比下降 32.21%。这是 Neff 时期机构行为，不是 Chuck 当期指令，也不能据此判定支付网络的长期论点已经破裂。
 
+## 2026Q3 13F 联动
+
+下表补充 Atreides、Coatue、Altimeter、Fundsmith、Pershing 五家中列示该证券的账户，比较 2026-06-30 与 2026-09-30 的 SEC 股数；Q3 均于 2026-11-16 披露。权重按各机构申报证券合计值计算，排名包含其已申报期权或特殊证券，不能当作基金净值排名。Pershing 的 Q2 已合并 11 月 16 日补报的 NEW HOLDINGS。
+
+| 机构 / 证券 | Q2 → Q3 股数或份额 | 股数变化 | Q3 权重 | 申报前十状态 |
+|---|---:|---:|---:|---|
+| [Coatue](/investor-masters/institutions/13f-trends-coatue/) / V | 0 → 2,577,666 | 首次列示 | 1.700% | 前十之外 |
+| [Fundsmith](/investor-masters/institutions/13f-trends-fundsmith/) / V | 2,019,810 → 2,251,945 | +11.49% | 6.262% | 留在前十 |
+| [Pershing](/investor-masters/institutions/13f-trends-pershing/) / V | 3,270,470 → 2,870,720 | -12.22% | 3.350% | 退出前十 |
+
+Coatue 首次列示、Fundsmith 增股，而 Pershing 减股。支付网络的长期质量论点与当期仓位重排要分别验证，不能由一季股数推断三家采用了相同估值。
+
+Pershing 权重以包含 PS 关联主体股份的完整申报为分母；它不是 PSH 的净值权重，也不是所有账户合并后的净敞口。
+
 ## 相关页面
 
 - [查克·阿克雷](/investor-masters/investors/chuck-akre/)
@@ -55,3 +69,10 @@ Pershing Square 新建 `3,270,470` 股，季末市值约 `$1.122bn`、占公开�
 
 - [4万字对话｜72岁传奇投资人特里·史密斯详述一生，如何塑造自己的投资风格](/investor-masters/sources/source-12/)
 - [Value Investor Insight｜弗朗索瓦·罗雄：Affordable Quality](/investor-masters/sources/source-84/)
+- [Coatue 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1135730/000091957426005478/0000919574-26-005478.txt)
+- [Coatue 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1135730/000091957426007862/0000919574-26-007862.txt)
+- [Fundsmith 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1569205/000156920526000012/0001569205-26-000012.txt)
+- [Fundsmith 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1569205/000156920526000014/0001569205-26-000014.txt)
+- [Pershing 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/2026053/000117266126003790/0001172661-26-003790.txt)
+- [Pershing 2026Q2 SEC 补充申报](https://www.sec.gov/Archives/edgar/data/2026053/000117266126005426/0001172661-26-005426.txt)
+- [Pershing 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/2026053/000117266126005427/0001172661-26-005427.txt)

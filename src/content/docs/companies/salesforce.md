@@ -43,6 +43,16 @@ Salesforce 的风险确实被 AI 放大了，但市场可能也低估了企业�
 
 期权申报看不到执行价、期限、成本和 delta，不能把 CALL 的标的价值当作投入权利金，也不能把它和普通股相加后宣称新加仓。它使研究多出一个工具结构问题，不足以给团队补写完整 AI 或 SaaS 投资论点。
 
+## 2026Q3 13F 联动
+
+下表补充 Atreides、Coatue、Altimeter、Fundsmith、Pershing 五家中列示该证券的账户，比较 2026-06-30 与 2026-09-30 的 SEC 股数；Q3 均于 2026-11-16 披露。权重按各机构申报证券合计值计算，排名包含其已申报期权或特殊证券，不能当作基金净值排名。
+
+| 机构 / 证券 | Q2 → Q3 股数或份额 | 股数变化 | Q3 权重 | 申报前十状态 |
+|---|---:|---:|---:|---|
+| [Coatue](/investor-masters/institutions/13f-trends-coatue/) / CRM | 0 → 8,032,477 | 首次列示 | 3.384% | 前十之外 |
+
+股数变化是账户行为证据；业务前景、估值和资金约束仍需独立验证。
+
 ## 相关页面
 
 - [查克·阿克雷](/investor-masters/investors/chuck-akre/)
@@ -61,3 +71,5 @@ Salesforce 的风险确实被 AI 放大了，但市场可能也低估了企业�
 - [SEC｜Akre Capital Management：2022Q4至2026Q2持仓轨迹](/investor-masters/sources/akre-13f/)
 
 - [2.5万字｜比尔·尼格伦最新长谈，一位25年长期跑赢大盘的传奇投资人，如何与时俱进的价值投资……已付费](/investor-masters/sources/source-04/)
+- [Coatue 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1135730/000091957426005478/0000919574-26-005478.txt)
+- [Coatue 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1135730/000091957426007862/0000919574-26-007862.txt)

@@ -1,0 +1,47 @@
+{
+  "quarter": "2026Q3",
+  "as_of": "2026-11-17",
+  "batches": [
+    {
+      "id": "first-five",
+      "snapshot_dir": "raw/data/13f-20261117",
+      "institutions": [
+        "berkshire",
+        "himalaya",
+        "hh",
+        "duquesne",
+        "appaloosa"
+      ]
+    },
+    {
+      "id": "second-five",
+      "snapshot_dir": "raw/data/13f-20261117-batch2",
+      "institutions": [
+        "atreides",
+        "coatue",
+        "altimeter",
+        "fundsmith",
+        "pershing"
+      ]
+    }
+  ],
+  "institution_keys": [
+    "atreides",
+    "coatue",
+    "altimeter",
+    "fundsmith",
+    "pershing"
+  ],
+  "horizontal_keys": [
+    "berkshire",
+    "himalaya",
+    "hh",
+    "duquesne",
+    "appaloosa",
+    "atreides",
+    "coatue",
+    "altimeter",
+    "fundsmith",
+    "pershing"
+  ]
+}

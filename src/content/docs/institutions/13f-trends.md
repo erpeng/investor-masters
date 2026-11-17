@@ -3,15 +3,15 @@ title: "13F 趋势"
 slug: "institutions/13f-trends"
 description: "把机构 13F 按季度横向拉齐，观察跨机构持仓趋势。"
 ---
-最新增量：[Q3 2026 首批五家](/investor-masters/institutions/13f-trends-2026-q3/)，仅覆盖 Berkshire、Himalaya、H&H、Duquesne、Appaloosa；其他机构暂保留各自最近已更新季度。最近完成的较大样本横向档案为 [Q2 2026（22 家）](/investor-masters/institutions/13f-trends-2026-q2/)。两个季度样本不同，不能把榜单名次直接当作全体机构偏好变化。
+最新增量：[Q3 2026 十家机构](/investor-masters/institutions/13f-trends-2026-q3/)，覆盖 Berkshire、Himalaya、H&H、Duquesne、Appaloosa，以及本次续更的 Atreides、Coatue、Altimeter、Fundsmith、Pershing。其余机构保留最近已更新季度。上一季较大样本为 [Q2 2026（22 家）](/investor-masters/institutions/13f-trends-2026-q2/)；样本不同，榜单名次不能直接比较。
 
-Q3 首批信号分成三组：Himalaya 与 H&H 同增 PDD；Duquesne 与 Appaloosa 在存储、设备和互联网平台间重新分配仓位，且出现相反动作；Berkshire 的核心大仓多数股数不变，增量主要在 LEN、DAL 与新列示 Bending Spoons。股价推动的权重上升与主动增股分开阅读。
+十家信号要同时看共识与分歧：PDD 仍有两家长期集中机构同向增股；META、MSFT 一边得到科技机构增持，一边遭 Fundsmith 或 Pershing 减股；支付网络也出现 Fundsmith 增、Pershing 减。Atreides 的期权名义值、Pershing 申报主体及补充披露、Altimeter 的原表金额异常分别说明，不能把总值变化都解释成资金进出。
 
 这页把机构 13F 从单页披露变成季度雷达：先看跨机构同向动作，再回到具体机构页判断这个动作是不是符合它的方法。
 
 阅读时先记住三条：第一，13F 有滞后；第二，股价上涨不等于加仓，所以这里把股数变化和权重变化分开；第三，长期集中型机构和交易型机构不能同权解释。
 
-本次核验日期：`2026-11-17`；报告期为 `2026-09-30`，不是申报日持仓。五家机构主页展示 `2025Q4—2026Q3` 最近四季，单机构趋势页保留更长历史，最新季度在左。新增 Berkshire 后共有 23 张单机构专题；“专题已建”不表示全部已更新至 Q3。
+本次核验日期：`2026-11-17`；报告期为 `2026-09-30`，不是申报日持仓。十家机构主页展示 `2025Q4—2026Q3` 最近四季，单机构趋势页保留更长历史，最新季度在左。新增 Berkshire 后共有 23 张单机构专题；“专题已建”不表示全部已更新至 Q3。
 
 ## 趋势解读
 
@@ -28,7 +28,7 @@ Q3 首批信号分成三组：Himalaya 与 H&H 同增 PDD；Duquesne 与 Appaloo
 - 首批 2026Q2 单机构页进一步说明“总市值增长”不等于净买入：Duquesne、Appaloosa 的扩表主要由价格贡献，Atreides 被 SpaceX/Cerebras 首次披露放大；Himalaya 明确把资本集中到 PDD/BRK.B，H&H 主动减仓 AI 链，Pershing 则主动新建支付、数据与订阅平台。
 - 完整 2026Q2 横向页显示，增量线索从 AI 平台继续扩散到半导体/存储、电力与数据中心承接层，同时 `GOOG/GOOGL`、`TSM`、`UBER` 等核心资产出现机构间分歧；同一机构的不同股票类别先净额，再进入跨机构评分。
 - 同期 `SPY PUT`、`QQQ PUT` 等工具信号变重，说明机构不是全面撤退，而是在“结构性多头 + 风险对冲”之间重新配平。
-- 2026Q3 首批五家不能代表完整季度：PDD 的两家长期集中型机构同向增股较明确；`NVDA / LRCX / AMZN` 则需分开看买卖两侧。Duquesne 新增的 STX CALL 与正股分别记录，SpaceX、Bending Spoons 的首次披露和上市阶段也单列解释。
+- 2026Q3 首批五家观察（本轮已扩充为十家，完整重算见季度页）：PDD 的两家长期集中型机构同向增股较明确；`NVDA / LRCX / AMZN` 则需分开看买卖两侧。Duquesne 新增的 STX CALL 与正股分别记录，SpaceX、Bending Spoons 的首次披露和上市阶段也单列解释。
 
 所以这组 13F 更像一个系统状态读数：最容易讲的 AI 故事已经充分拥挤，聪明钱开始问下一层问题：谁控制电力、工程、测试、网络、设备、工业气体、资本开支效率和真实现金流。
 
@@ -38,19 +38,19 @@ Q3 首批信号分成三组：Himalaya 与 H&H 同增 PDD；Duquesne 与 Appaloo
 - [13F趋势-Akre](/investor-masters/institutions/13f-trends-akre/)：2023Q1—2026Q2；最新 CSGP/NOW 加股、老核心缩股，含全部最新证券与独立期权轨迹。
 
 - [Third Point：2023Q1-2026Q2 持仓变化](/investor-masters/institutions/13f-trends-third-point/)
-- [Coatue Management：2023Q1-2026Q2 持仓变化](/investor-masters/institutions/13f-trends-coatue/)
-- [Altimeter Capital：2023Q1-2026Q2 持仓变化](/investor-masters/institutions/13f-trends-altimeter/)
-- [Atreides Management：2023Q1-2026Q2 持仓变化](/investor-masters/institutions/13f-trends-atreides/)
+- [Coatue Management：2023Q1—2026Q3 持仓变化](/investor-masters/institutions/13f-trends-coatue/)
+- [Altimeter Capital：2023Q1—2026Q3 持仓变化](/investor-masters/institutions/13f-trends-altimeter/)
+- [Atreides Management：2023Q1—2026Q3 持仓变化](/investor-masters/institutions/13f-trends-atreides/)
 - [Kensico Capital Management：2023Q1-2026Q2 持仓变化](/investor-masters/institutions/13f-trends-kensico/)
 - [Dorsey Asset Management：2023Q1-2026Q2 持仓变化](/investor-masters/institutions/13f-trends-dorsey/)
 - [Oakmark / Harris Associates：2023Q1-2026Q2 持仓变化](/investor-masters/institutions/13f-trends-oakmark/)
 - [Maverick Capital：2023Q1-2026Q2 持仓变化](/investor-masters/institutions/13f-trends-maverick/)
-- [Pershing Square：2023Q1-2026Q2 持仓变化](/investor-masters/institutions/13f-trends-pershing/)
+- [Pershing Square：2023Q1—2026Q3 持仓变化](/investor-masters/institutions/13f-trends-pershing/)
 - [Baillie Gifford：2023Q1-2026Q2 持仓变化](/investor-masters/institutions/13f-trends-baillie/)
 - [Baupost Group：2023Q1-2026Q2 持仓变化](/investor-masters/institutions/13f-trends-baupost/)
 - [AKO Capital：2023Q1-2026Q2 持仓变化](/investor-masters/institutions/13f-trends-ako/)
 - [H&H International Investment：2023Q1—2026Q3 持仓变化](/investor-masters/institutions/13f-trends-hh/)
-- [Fundsmith：2023Q1-2026Q2 持仓变化](/investor-masters/institutions/13f-trends-fundsmith/)
+- [Fundsmith：2023Q1—2026Q3 持仓变化](/investor-masters/institutions/13f-trends-fundsmith/)
 - [Giverny Capital：2023Q1-2026Q2 持仓变化](/investor-masters/institutions/13f-trends-giverny/)
 - [Himalaya Capital：2023Q1—2026Q3 持仓变化](/investor-masters/institutions/13f-trends-himalaya/)
 - [Lone Pine Capital：2023Q1-2026Q2 持仓变化](/investor-masters/institutions/13f-trends-lone-pine/)
@@ -61,7 +61,7 @@ Q3 首批信号分成三组：Himalaya 与 H&H 同增 PDD；Duquesne 与 Appaloo
 
 ## 季度档案
 
-- [Q3 2026（首批五家）](/investor-masters/institutions/13f-trends-2026-q3/)
+- [Q3 2026（十家）](/investor-masters/institutions/13f-trends-2026-q3/)
 - [Q2 2026](/investor-masters/institutions/13f-trends-2026-q2/)
 - [Q1 2026](/investor-masters/institutions/13f-trends-2026-q1/)
 - [Q4 2025](/investor-masters/institutions/13f-trends-2025-q4/)

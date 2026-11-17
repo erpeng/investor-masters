@@ -34,6 +34,18 @@ Brookfield 在这批资料里最重要的意义，不是资产管理或另类资
 
 推断：其核心位置可作为继续研究资本配置的入口，却不能由持有本身推出与其他资管机构相同的论点。本轮没有读到针对该季动作的解释，不把缩股定性为看空或赎回。
 
+## 2026Q3 13F 联动
+
+下表补充 Atreides、Coatue、Altimeter、Fundsmith、Pershing 五家中列示该证券的账户，比较 2026-06-30 与 2026-09-30 的 SEC 股数；Q3 均于 2026-11-16 披露。权重按各机构申报证券合计值计算，排名包含其已申报期权或特殊证券，不能当作基金净值排名。Pershing 的 Q2 已合并 11 月 16 日补报的 NEW HOLDINGS。
+
+| 机构 / 证券 | Q2 → Q3 股数或份额 | 股数变化 | Q3 权重 | 申报前十状态 |
+|---|---:|---:|---:|---|
+| [Pershing](/investor-masters/institutions/13f-trends-pershing/) / BN | 57,481,047 → 51,331,099 | -10.70% | 6.077% | 留在前十 |
+
+Pershing 减股 10.70%。其集中权益组合中的资本配置角色与其他投资人的另类资产管理论点不同，不能合成一个共同持仓理由。
+
+Pershing 权重以包含 PS 关联主体股份的完整申报为分母；它不是 PSH 的净值权重，也不是所有账户合并后的净敞口。
+
 ## 分歧与共识
 
 当前资料里，Brookfield 仍然是 Third Point 单线样本。它的真正作用，是提醒你 Third Point 的公开多头切片不是纯“催化剂股票集合”，而是一组包括工业资产、平台型资产、高质量复利资产与主动推动主轴在内的混合仓位簿。
@@ -59,3 +71,6 @@ Brookfield 在这批资料里最重要的意义，不是资产管理或另类资
 - [SEC 13F filing detail - Q3 2025](https://www.sec.gov/Archives/edgar/data/1040273/000104027325000003/0001040273-25-000003-index.htm)
 - [SEC 13F filing detail - Q2 2025](https://www.sec.gov/Archives/edgar/data/1040273/000108514625005277/0001085146-25-005277-index.html)
 - [SEC 13F filing detail - Q1 2025](https://www.sec.gov/Archives/edgar/data/1040273/0001085146-25-003337-index.htm)
+- [Pershing 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/2026053/000117266126003790/0001172661-26-003790.txt)
+- [Pershing 2026Q2 SEC 补充申报](https://www.sec.gov/Archives/edgar/data/2026053/000117266126005426/0001172661-26-005426.txt)
+- [Pershing 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/2026053/000117266126005427/0001172661-26-005427.txt)

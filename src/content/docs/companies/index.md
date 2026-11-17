@@ -9,7 +9,7 @@ description: "不是公司百科，而是“为什么顶级投资人反复提到
 
 ## 2026Q3：先看持仓分歧，再看新增线索
 
-本轮联动伯克希尔、Himalaya、H&H、Duquesne 与 Appaloosa 的 2026Q3 申报。这里记录股数与组合权重，不把账户行为改写成投资人公开讲述的公司判断。
+本轮联动伯克希尔、Himalaya、H&H、Duquesne、Appaloosa，以及 Atreides、Coatue、Altimeter、Fundsmith、Pershing 十家的 2026Q3 申报。这里记录股数与组合权重，不把账户行为改写成投资人公开讲述的公司判断。
 
 - **同股不同动作**：[英伟达](/investor-masters/companies/nvidia/)（H&H 减股、Appaloosa 加股）、[Lam Research](/investor-masters/companies/lam-research/)（Duquesne 不再列示、Appaloosa 加股）、[亚马逊](/investor-masters/companies/amazon/)（Duquesne 正股加股、Appaloosa 减股）。
 - **扩大持仓与首次列示要分开**：[SpaceX](/investor-masters/companies/spacex/)（Appaloosa 扩大、H&H 与 Duquesne 首次列示）；同一证券的申报估值差异保留原值。
@@ -17,6 +17,11 @@ description: "不是公司百科，而是“为什么顶级投资人反复提到
 - **交易型账户的具体配置**：[Seagate Technology](/investor-masters/companies/seagate-technology/)、[Unity Software](/investor-masters/companies/unity-software/)、[Sea](/investor-masters/companies/sea/)、[Micron Technology](/investor-masters/companies/micron-technology/)、[Oracle](/investor-masters/companies/oracle/)、[ASML](/investor-masters/companies/asml/)、[Applied Materials](/investor-masters/companies/applied-materials/)；期权与正股分别阅读。
 - **伯克希尔新增及扩仓**：[Bending Spoons](/investor-masters/companies/bending-spoons/)、[Lennar](/investor-masters/companies/lennar/)、[Delta Air Lines](/investor-masters/companies/delta-air-lines/)；先核查仓位规模，再验证业务、估值与取得方式。
 - **H&H 的另一项增股**：[特斯拉](/investor-masters/companies/tesla/)，账户行为与历史投资人点评分开保留。
+
+- **第二批的平台分歧**：[微软](/investor-masters/companies/microsoft/)、[Meta](/investor-masters/companies/meta/)、[Alphabet](/investor-masters/companies/alphabet/)、[Uber](/investor-masters/companies/uber/)；分开读取 Atreides/Coatue/Altimeter 的增量与 Fundsmith/Pershing 的减量。
+- **科技候选与边界**：[Figma](/investor-masters/companies/figma/)、[Nebius](/investor-masters/companies/nebius/)、[Shopify](/investor-masters/companies/shopify/)、[SanDisk](/investor-masters/companies/sandisk/)；[SK Hynix](/investor-masters/companies/sk-hynix/) 是 ADR 研究入口，[Cerebras Systems](/investor-masters/companies/cerebras-systems/) 与 [SpaceX](/investor-masters/companies/spacex/) 保留跨机构估值差异。
+- **Fundsmith 的重排**：[Veeva Systems](/investor-masters/companies/veeva-systems/)、[Yum! Brands](/investor-masters/companies/yum-brands/)、[Nextpower](/investor-masters/companies/nextpower/)、[TJX](/investor-masters/companies/tjx/)，与 [Visa](/investor-masters/companies/visa/)、[Mastercard](/investor-masters/companies/mastercard/) 联读。
+- **Pershing 的新增与保留**：[Intercontinental Exchange](/investor-masters/companies/intercontinental-exchange/)、[Alcon](/investor-masters/companies/alcon/) 为新列示，[Netflix](/investor-masters/companies/netflix/) 为增股，[Uber](/investor-masters/companies/uber/) 为已有核心小幅减股。
 
 ## 值得先看
 
@@ -88,6 +93,28 @@ description: "不是公司百科，而是“为什么顶级投资人反复提到
 - **如果你关心“方法在哪些地方会失效”**: 先看 [Herbalife](/investor-masters/companies/herbalife/)、[Valeant](/investor-masters/companies/valeant/)、[诺和诺德](/investor-masters/companies/novo-nordisk/)
 
 ## 全部公司
+
+- [TJX](/investor-masters/companies/tjx/)
+
+- [Nextpower](/investor-masters/companies/nextpower/)
+
+- [Yum! Brands](/investor-masters/companies/yum-brands/)
+
+- [Veeva Systems](/investor-masters/companies/veeva-systems/)
+
+- [Alcon](/investor-masters/companies/alcon/)
+
+- [Intercontinental Exchange](/investor-masters/companies/intercontinental-exchange/)
+
+- [SanDisk](/investor-masters/companies/sandisk/)
+
+- [Shopify](/investor-masters/companies/shopify/)
+
+- [SK Hynix](/investor-masters/companies/sk-hynix/)
+
+- [Nebius](/investor-masters/companies/nebius/)
+
+- [Figma](/investor-masters/companies/figma/)
 
 - [腾讯音乐](/investor-masters/companies/tencent-music/)
 - [Sea](/investor-masters/companies/sea/)
@@ -231,8 +258,8 @@ description: "不是公司百科，而是“为什么顶级投资人反复提到
 - [API Group](/investor-masters/companies/api-group/): API Group (`APG`) 在 Third Point Q1 2026 里代表的是 `消防安全 / 检测维护 / 专业服务外包` 这条更偏经常性服务的工业线。
 - [ASML](/investor-masters/companies/asml/): ASML 在这批资料里同时承担两种角色：一方面是 Baillie Gifford 欣赏但外界不常问的稀缺公司，另一方面是 AI 价值链上最明确的上游瓶颈之一。
 - [Air Products](/investor-masters/companies/air-products/): Air Products（`APD`）是工业气体与大型项目运营商。
-- [Airbnb](/investor-masters/companies/airbnb/): Airbnb 在这套 wiki 里是 [[investors/比尔·尼格伦]] 解释“增长投入如何被重新还原”的另一个样本。
-- [Alphabet](/investor-masters/companies/alphabet/): Alphabet 在这批资料里最重要的不是“它是不是好公司”，而是市场会不会在 AI 冲击下短暂忘记它到底有多强。
+- [Airbnb](/investor-masters/companies/airbnb/): Airbnb 在这套 wiki 里是 [比尔·尼格伦](/investor-masters/investors/bill-nygren/) 解释“增长投入如何被重新还原”的另一个样本。
+- [Alcon](/investor-masters/companies/alcon/): Alcon（爱尔康）提供眼科手术设备、人工晶体、隐形眼镜和眼护理产品。
 
 ## 全部公司
 - [ADP](/investor-masters/companies/adp/)
@@ -240,6 +267,7 @@ description: "不是公司百科，而是“为什么顶级投资人反复提到
 - [ASML](/investor-masters/companies/asml/)
 - [Air Products](/investor-masters/companies/air-products/)
 - [Airbnb](/investor-masters/companies/airbnb/)
+- [Alcon](/investor-masters/companies/alcon/)
 - [Alphabet](/investor-masters/companies/alphabet/)
 - [American List](/investor-masters/companies/american-list/)
 - [American Tower](/investor-masters/companies/american-tower/)
@@ -275,6 +303,7 @@ description: "不是公司百科，而是“为什么顶级投资人反复提到
 - [EchoStar](/investor-masters/companies/echostar/)
 - [Equinix](/investor-masters/companies/equinix/)
 - [FactSet](/investor-masters/companies/factset/)
+- [Figma](/investor-masters/companies/figma/)
 - [GE Vernova](/investor-masters/companies/ge-vernova/)
 - [GEICO](/investor-masters/companies/geico/)
 - [General Growth](/investor-masters/companies/general-growth/)
@@ -285,6 +314,7 @@ description: "不是公司百科，而是“为什么顶级投资人反复提到
 - [Hut 8](/investor-masters/companies/hut-8/)
 - [Insmed](/investor-masters/companies/insmed/)
 - [Intel](/investor-masters/companies/intel/)
+- [Intercontinental Exchange](/investor-masters/companies/intercontinental-exchange/)
 - [International Speedway](/investor-masters/companies/international-speedway/)
 - [KKR](/investor-masters/companies/kkr/)
 - [Kraft Heinz](/investor-masters/companies/kraft-heinz/)
@@ -300,7 +330,9 @@ description: "不是公司百科，而是“为什么顶级投资人反复提到
 - [Meta](/investor-masters/companies/meta/)
 - [Micron Technology](/investor-masters/companies/micron-technology/)
 - [MiniMax](/investor-masters/companies/minimax/)
+- [Nebius](/investor-masters/companies/nebius/)
 - [Netflix](/investor-masters/companies/netflix/)
+- [Nextpower](/investor-masters/companies/nextpower/)
 - [O'Reilly Automotive](/investor-masters/companies/oreilly-automotive/)
 - [Oracle](/investor-masters/companies/oracle/)
 - [PG&E](/investor-masters/companies/pge/)
@@ -313,17 +345,21 @@ description: "不是公司百科，而是“为什么顶级投资人反复提到
 - [Roper Technologies](/investor-masters/companies/roper-technologies/)
 - [Royal Bank of Canada](/investor-masters/companies/royal-bank-of-canada/)
 - [S&P Global](/investor-masters/companies/s-p-global/)
+- [SK Hynix](/investor-masters/companies/sk-hynix/)
 - [STMicroelectronics](/investor-masters/companies/stmicroelectronics/)
 - [Sage](/investor-masters/companies/sage/)
 - [Salesforce](/investor-masters/companies/salesforce/)
+- [SanDisk](/investor-masters/companies/sandisk/)
 - [Sea](/investor-masters/companies/sea/)
 - [Seagate Technology](/investor-masters/companies/seagate-technology/)
 - [ServiceNow](/investor-masters/companies/servicenow/)
+- [Shopify](/investor-masters/companies/shopify/)
 - [Silvergate Capital](/investor-masters/companies/silvergate-capital/)
 - [Somnigroup International](/investor-masters/companies/somnigroup-international/)
 - [SpaceX](/investor-masters/companies/spacex/)
 - [Sunbelt Rentals](/investor-masters/companies/sunbelt-rentals/)
 - [TD Ameritrade](/investor-masters/companies/td-ameritrade/)
+- [TJX](/investor-masters/companies/tjx/)
 - [Telephone and Data Systems](/investor-masters/companies/telephone-and-data-systems/)
 - [Teva](/investor-masters/companies/teva/)
 - [Tim Hortons](/investor-masters/companies/tim-hortons/)
@@ -333,9 +369,11 @@ description: "不是公司百科，而是“为什么顶级投资人反复提到
 - [Unity Software](/investor-masters/companies/unity-software/)
 - [Universal Music Group](/investor-masters/companies/universal-music-group/)
 - [Valeant](/investor-masters/companies/valeant/)
+- [Veeva Systems](/investor-masters/companies/veeva-systems/)
 - [Visa](/investor-masters/companies/visa/)
 - [Waymo](/investor-masters/companies/waymo/)
 - [Wendy's](/investor-masters/companies/wendys/)
+- [Yum! Brands](/investor-masters/companies/yum-brands/)
 - [丹纳赫](/investor-masters/companies/danaher/)
 - [亚马逊](/investor-masters/companies/amazon/)
 - [伦敦证券交易所集团](/investor-masters/companies/london-stock-exchange-group/)

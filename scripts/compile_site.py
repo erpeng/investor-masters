@@ -187,7 +187,7 @@ INVESTOR_META = {
     "比尔·阿克曼": {
         "slug": "bill-ackman",
         "tagline": "把投资做成公开战役的人。",
-        "institution": ("Pershing Square", None),
+        "institution": ("Pershing Square", "institutions/pershing-square"),
         "holdings": "集中持仓、事件驱动",
         "methods": "催化剂 / 主动所有者 / 战役型投资",
     },
@@ -813,13 +813,19 @@ SOURCE_SLUG_OVERRIDES = {
     'SEC｜HH：2022Q4至2026Q3持仓轨迹.md': 'hh-13f-2026q3',
     'SEC｜Duquesne：2022Q4至2026Q3持仓轨迹.md': 'duquesne-13f-2026q3',
     'SEC｜Appaloosa：2022Q4至2026Q3持仓轨迹.md': 'appaloosa-13f-2026q3',
+    'SEC｜Atreides：2022Q4至2026Q3持仓轨迹.md': 'atreides-13f-2026q3',
+    'SEC｜Coatue：2022Q4至2026Q3持仓轨迹.md': 'coatue-13f-2026q3',
+    'SEC｜Altimeter：2022Q4至2026Q3持仓轨迹.md': 'altimeter-13f-2026q3',
+    'SEC｜Fundsmith：2022Q4至2026Q3持仓轨迹.md': 'fundsmith-13f-2026q3',
+    'SEC｜Pershing：2022Q4至2026Q3持仓轨迹.md': 'pershing-13f-2026q3',
 }
 
 
 def source_audit_groups() -> list[tuple[str, list[Path]]]:
     sources = WIKI_DIR / "sources"
     quarterly = [sources / f"{name}-13f-source-audit.md"
-                 for name in ("Berkshire", "Himalaya", "HH", "Duquesne", "Appaloosa")]
+                 for name in ("Berkshire", "Himalaya", "HH", "Duquesne", "Appaloosa",
+                              "Atreides", "Coatue", "Altimeter", "Fundsmith", "Pershing")]
     return [
         ("Akre 材料审计", sorted(sources.glob("Akre-*-source-audit.md"))),
         ("13F 季度审计", [path for path in quarterly if path.exists()]),
@@ -1236,6 +1242,10 @@ def compile_companies():
             content.extend(
                 ["\n## 分歧与共识\n", convert_wikilinks(translate_common_phrases(sections.get("分歧与共识", "")), output)]
             )
+        if sections.get("下一步验证"):
+            content.extend(
+                ["\n## 下一步验证\n", convert_wikilinks(sections["下一步验证"], output)]
+            )
         content.extend(["\n## 相关页面\n", convert_wikilinks(sections.get("相关页面", "现有资料暂未涉及。"), output)])
         if sections.get("主要来源"):
             content.extend(["\n## 主要来源\n", convert_wikilinks(sections["主要来源"], output)])
@@ -1255,7 +1265,7 @@ def compile_companies():
         "\n## 全部公司\n",
     ]
     if highlights:
-        pieces.insert(2, "\n" + "\n".join(highlights) + "\n")
+        pieces.insert(2, "\n" + convert_wikilinks("\n".join(highlights), index_output) + "\n")
     write(index_output, "".join(pieces))
     with index_output.open("a", encoding="utf-8") as f:
         for name in company_names:
@@ -1316,7 +1326,7 @@ def compile_institutions():
         elif stem == "13F趋势-Fundsmith":
             title = "13F 趋势 - Fundsmith"
             slug = "13f-trends-fundsmith"
-            description = "Fundsmith 从 2023Q1 到 2026Q2 的单机构 13F 持仓变化。"
+            description = f"Fundsmith 从 2023Q1 到 {page_meta.get('latest_quarter', '2026Q2')} 的单机构 13F 持仓变化。"
         elif stem == "13F趋势-Giverny":
             title = "13F 趋势 - Giverny"
             slug = "13f-trends-giverny"
@@ -1336,7 +1346,7 @@ def compile_institutions():
         elif stem == "13F趋势-Pershing":
             title = "13F 趋势 - Pershing"
             slug = "13f-trends-pershing"
-            description = "Pershing Square 从 2023Q1 到 2026Q2 的单机构 13F 持仓变化。"
+            description = f"Pershing Square 从 2023Q1 到 {page_meta.get('latest_quarter', '2026Q2')} 的单机构 13F 持仓变化。"
         elif stem == "13F趋势-Maverick":
             title = "13F 趋势 - Maverick"
             slug = "13f-trends-maverick"
@@ -1360,15 +1370,15 @@ def compile_institutions():
         elif stem == "13F趋势-Coatue":
             title = "13F 趋势 - Coatue"
             slug = "13f-trends-coatue"
-            description = "Coatue Management 从 2023Q1 到 2026Q2 的单机构 13F 持仓变化。"
+            description = f"Coatue Management 从 2023Q1 到 {page_meta.get('latest_quarter', '2026Q2')} 的单机构 13F 持仓变化。"
         elif stem == "13F趋势-Altimeter":
             title = "13F 趋势 - Altimeter"
             slug = "13f-trends-altimeter"
-            description = "Altimeter Capital 从 2023Q1 到 2026Q2 的单机构 13F 持仓变化。"
+            description = f"Altimeter Capital 从 2023Q1 到 {page_meta.get('latest_quarter', '2026Q2')} 的单机构 13F 持仓变化。"
         elif stem == "13F趋势-Atreides":
             title = "13F 趋势 - Atreides"
             slug = "13f-trends-atreides"
-            description = "Atreides Management 从 2023Q1 到 2026Q2 的单机构 13F 持仓变化，普通股与期权分开解释。"
+            description = f"Atreides Management 从 2023Q1 到 {page_meta.get('latest_quarter', '2026Q2')} 的单机构 13F 持仓变化，普通股与期权分开解释。"
         elif stem == "13F趋势-Third Point":
             title = "13F 趋势 - Third Point"
             slug = "13f-trends-third-point"

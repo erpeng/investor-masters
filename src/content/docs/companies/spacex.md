@@ -63,6 +63,20 @@ Appaloosa 的可见持仓扩大到前五；H&H 与 Duquesne 则以较小权重�
 
 研究待验证：新增可见股份的取得方式、限售及估值口径，以及业务现金流与扩张投入。本季 13F 未披露这些交易细节。
 
+### 第二批五家补充（2026-11-17）
+
+截至本次更新，SpaceX 已于 2026-06-12 以 SPCX 上市。这里继续单列，是因为不同机构同一 CUSIP 的申报估值存在差异，而非认定其仍是私有公司。Atreides 股数增加 0.27%、Coatue 增加 4.82%，Altimeter 减少 40.55%；首次公开披露、后续股数动作和可比估值必须分开。
+
+下表补充 Atreides、Coatue、Altimeter、Fundsmith、Pershing 五家中列示该证券的账户，比较 2026-06-30 与 2026-09-30 的 SEC 股数；Q3 均于 2026-11-16 披露。权重按各机构申报证券合计值计算，排名包含其已申报期权或特殊证券，不能当作基金净值排名。
+
+| 机构 / 证券 | Q2 → Q3 股数或份额 | 股数变化 | Q3 权重 | 申报前十状态 |
+|---|---:|---:|---:|---|
+| [Atreides](/investor-masters/institutions/13f-trends-atreides/) / SPCX | 27,332,943 → 27,406,054 | +0.27% | 22.976% | 留在前十 |
+| [Coatue](/investor-masters/institutions/13f-trends-coatue/) / SPCX | 18,561,780 → 19,456,346 | +4.82% | 5.386% | 留在前十 |
+| [Altimeter](/investor-masters/institutions/13f-trends-altimeter/) / SPCX | 1,776,485 → 1,056,138 | -40.55% | 1.546% | 前十之外 |
+
+股数变化是账户行为证据；业务前景、估值和资金约束仍需独立验证。
+
 ## 分歧与共识
 
 共识在于 SpaceX 不只是航天公司，而是一家不断打开新约束边界的公司。分歧在于有人更看瓶颈控制权，有人更看创始人与组织知识，有人则直接把它当成未来超级赢家，而 Cathie 则更明确地把它读成会承接后续平台与应用层价值的基础设施底座。
@@ -93,3 +107,10 @@ Appaloosa 的可见持仓扩大到前五；H&H 与 Duquesne 则以较小权重�
 - [Duquesne 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/0001536411-26-000011.txt)
 - [Duquesne 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1536411/000153641126000006/0001536411-26-000006.txt)
 - [SpaceX 2026Q3 10-Q：拆股与股本](https://www.sec.gov/Archives/edgar/data/1181412/000162828026066880/spcx-20260930.htm)
+- [Atreides 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1777813/000177781326000009/0001777813-26-000009.txt)
+- [Atreides 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1777813/000177781326000013/0001777813-26-000013.txt)
+- [Coatue 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1135730/000091957426005478/0000919574-26-005478.txt)
+- [Coatue 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1135730/000091957426007862/0000919574-26-007862.txt)
+- [Altimeter 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1541617/000154161726000008/0001541617-26-000008.txt)
+- [Altimeter 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1541617/000154161726000010/0001541617-26-000010.txt)
+- [SpaceX 官方投资者 FAQ：上市日期与代码](https://ir.spacex.com/faqs-and-contact/)

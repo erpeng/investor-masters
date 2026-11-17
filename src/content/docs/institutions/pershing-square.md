@@ -32,101 +32,109 @@ Pershing 的机构哲学，可以压成一句话：`寻找高质量但暂时迷�
 - [3.2万字｜潘兴广场比尔·阿克曼最有价值的一场对话，深谈价值投资、核心战役以及如何从人生谷底“爬坑”……](/investor-masters/sources/source-10/)：目前这套 wiki 里理解 Pershing 最重要的一手材料，几乎把集中度、主动推动型投资者 逻辑、典型战役、失败案例和机构承压方式都讲到了。
 - [比尔·阿克曼](/investor-masters/investors/bill-ackman/)：如果想先从人物层理解 Pershing，这一页是最好的入口。
 
-## 13F 持仓（近五个季度）
+## 13F 持仓（近四个季度）
 
 ### 怎么看这组披露
 
-13F 只覆盖美国公开股票多头及部分期权披露，且有季度滞后，不代表机构完整组合；`持仓总市值变化` 也只是这张 13F 表内的可见市值变化。`2026Q2` 原管理人 CIK `0001336528` 提交 13F-NT，实际持仓由新申报主体 Pershing Square, Inc.（CIK `0002026053`）提交；两份文件合读才能避免误判为清仓。
+13F 是季末公开证券多头及部分期权的滞后披露，不是完整资产组合。以下按 CUSIP、证券类别和 PUT/CALL 聚合重复管理人记录；期权与正股不混算。市值和权重变化不能替代股数变化。
 
 ### 13F 趋势雷达（最近一季横向）
 
-最近一季：`Q2 2026` vs `Q1 2026`。
+最近一季：`2026Q3` vs `2026Q2`；报告日 `2026-09-30`；申报日 `2026-11-16`；核验 `2026-11-17`。
 
-- 持仓总市值从 `$13.71bn` 升至 `$19.47bn`，增加 `$5.75bn`（`+41.9%`）。粗拆：主动变化约 `+$5.19bn`，价格变化约 `+$0.56bn`，扩表主要来自主动建仓。
-- 新建 Visa、Mastercard、S&P Global、Netflix 四个支付/数据/订阅平台仓位；前十之外的 Netflix 约 `$934m`。
-- 增持 HHH `+47.7%`、META `+20.1%`、QSR `+14.0%`、UBER `+14.6%`、MSFT `+9.8%`；减持 AMZN `-25.2%`，清仓 GOOG。
-- 普通股前十转为 `UBER / BN / MSFT / AMZN / HHH / QSR / META / V / MA / SPGI`，前十占比约 `93.6%`。
-- PSUS 是关联上市载体的少数权益，单列约占 `0.77%`；不把它与核心经营公司仓位混为一谈。
-- 单机构长线趋势页：[13F趋势-Pershing](/investor-masters/institutions/13f-trends-pershing/)
-- 横向趋势页：[Q2 2026](/investor-masters/institutions/13f-trends-2026-q2/)
+- 申报证券行和从 `$25.521bn` 变为 `$30.797bn`（`+20.67%`）；聚合后 `16` 个证券类别，其中期权 `0` 个。非期权证券前五占其切片 `61.42%`、前十占 `86.10%`。
+- 非期权证券切片申报值 `$25.521bn` → `$30.797bn`；按上季隐含价格估算的股数项 `+$277.21m`，价格项 `+$4.998bn`。这是两期持仓的机械分解，不是现金流、真实成交额或投资收益；首次上市、估值口径不同的证券另见趋势页边界。
+- 排除 PS 发行人股份的辅助切片：`$19.466bn` → `$20.487bn`（`+5.25%`）。原申报总额照列；此辅助切片不是 PSH 基金 NAV，也不是官方 AUM。
+- 原PSCM（CIK1336528）2026Q2及Q3提交13F-NT；持仓由上市母公司Pershing Square Inc.（CIK2026053）披露，NT不代表清仓。
+- 2026-11-16补交Q2 13F-HR/A（0001172661-26-005426），类型NEW HOLDINGS，仅补PS发行人184,289,699股及$6.056bn；须加回原Q2，不用这一行替换整季。
+- Q3 PS发行人184,289,699股与补正后Q2相同，申报值$10.309bn、占33.48%；相关otherManager为Partner Group和Management，不能写成PSH基金主动购买自家管理公司股票。
+- Q3新列ALC（ALCON AG，爱尔康）与ICE；NFLX增股17.82%；MSFT减34.51%、QSR减14.77%、V减12.22%、META减11.35%、MA减11.12%、BN减10.70%；HTZ本期不再列示。
+- HHH两个管理人记录合计27,852,064股，与Q2不变；UBER小幅减股0.17%。全报告总值与排除PS的辅助切片分别展示，后者不是PSH NAV或官方AUM。
+- 新列爱尔康Alcon与ICE，增持Netflix，减持微软、Restaurant Brands及多项既有仓位。披露总额显著增长主要受PS关联管理公司股份升值影响，不能误读为基金大幅净买入。
+- 长历史与全部在持证券：[13F趋势-Pershing](/investor-masters/institutions/13f-trends-pershing/)；横向页：[Q3 十家样本](/investor-masters/institutions/13f-trends-2026-q3/)。
 
-### 近五个已披露季度前 10 大持仓
+### 近四个已披露季度前 10 大持仓
+
+#### Q3 2026
+
+申报总值 `$30.797bn`；聚合后 `16` 个证券类别。
+
+| 证券及业务 | 股数／底层份额 | 季末申报市值 | 13F 占比 |
+|---|---:|---:|---:|
+| `PS` Pershing Square Inc.（上市投资管理公司；本项为关联管理公司股份，不等于PSH基金资产） | 184,289,699 | $10.309bn | 33.48% |
+| `UBER` Uber Technologies, Inc.（出行、外卖与物流平台，关注网络密度、抽成和经营现金流） | 34,268,279 | $2.348bn | 7.62% |
+| `AMZN` Amazon Com Inc（电商、物流、AWS 云和广告共同构成的平台公司，长期变量是基础设施外部化能力） | 8,505,779 | $2.119bn | 6.88% |
+| `MSFT` Microsoft Corp（微软，企业软件、Azure 云、Office、Windows 和 AI 基础设施共同构成的生产力平台） | 4,064,779 | $2.085bn | 6.77% |
+| `META` Meta Platforms Inc（Meta，社交网络、广告系统和 AI 推荐平台，核心资产是 Facebook、Instagram、WhatsApp 和广告模型） | 2,833,299 | $2.055bn | 6.67% |
+| `HHH` Howard Hughes Holdings（持有社区开发及经营资产，关注资产价值、现金流与资本配置） | 27,852,064 | $2.050bn | 6.66% |
+| `BN` Brookfield Corporation（配置资产管理、保险及经营资产，关注资本回报和估值） | 51,331,099 | $1.872bn | 6.08% |
+| `QSR` Restaurant Brands International（经营连锁餐饮品牌与加盟体系，关注门店增长和经营改善） | 22,007,079 | $1.564bn | 5.08% |
+| `NFLX` Netflix（提供流媒体内容和广告服务，关注订阅、内容投入和现金流） | 15,412,744 | $1.072bn | 3.48% |
+| `MA` Mastercard（经营支付网络与增值服务，关注跨境支付、交易量和估值） | 1,888,419 | $1.041bn | 3.38% |
 
 #### Q2 2026
 
-- `UBER`：`12.72%`，约 `$2.477bn`，股数 `34,326,200`，较上季 `+14.6%`。
-- `BN`：`12.58%`，约 `$2.448bn`，股数 `57,481,047`，较上季 `-3.7%`。
-- `MSFT`：`11.89%`，约 `$2.315bn`，股数 `6,206,730`，较上季 `+9.8%`。
-- `AMZN`：`10.49%`，约 `$2.041bn`，股数 `8,563,857`，较上季 `-25.2%`。
-- `HHH`：`10.23%`，约 `$1.991bn`，股数 `27,852,064`，较上季 `+47.7%`。
-- `QSR`：`9.62%`，约 `$1.872bn`，股数 `25,821,284`，较上季 `+14.0%`。
-- `META`：`9.25%`，约 `$1.800bn`，股数 `3,196,062`，较上季 `+20.1%`。
-- `V`：`5.76%`，约 `$1.122bn`，股数 `3,270,470`，新建。
-- `MA`：`5.61%`，约 `$1.091bn`，股数 `2,124,646`，新建。
-- `SPGI`：`5.43%`，约 `$1.056bn`，股数 `2,593,155`，新建。
+申报总值 `$25.521bn`；聚合后 `15` 个证券类别。
 
-前十之外另新建 `NFLX 13,081,465` 股，季末市值约 `$934m`。
+| 证券及业务 | 股数／底层份额 | 季末申报市值 | 13F 占比 |
+|---|---:|---:|---:|
+| `PS` Pershing Square Inc.（上市投资管理公司；本项为关联管理公司股份，不等于PSH基金资产） | 184,289,699 | $6.056bn | 23.73% |
+| `UBER` Uber Technologies, Inc.（出行、外卖与物流平台，关注网络密度、抽成和经营现金流） | 34,326,200 | $2.477bn | 9.71% |
+| `BN` Brookfield Corporation（配置资产管理、保险及经营资产，关注资本回报和估值） | 57,481,047 | $2.448bn | 9.59% |
+| `MSFT` Microsoft Corp（微软，企业软件、Azure 云、Office、Windows 和 AI 基础设施共同构成的生产力平台） | 6,206,730 | $2.315bn | 9.07% |
+| `AMZN` Amazon Com Inc（电商、物流、AWS 云和广告共同构成的平台公司，长期变量是基础设施外部化能力） | 8,563,857 | $2.041bn | 8.00% |
+| `HHH` Howard Hughes Holdings（持有社区开发及经营资产，关注资产价值、现金流与资本配置） | 27,852,064 | $1.991bn | 7.80% |
+| `QSR` Restaurant Brands International（经营连锁餐饮品牌与加盟体系，关注门店增长和经营改善） | 25,821,284 | $1.872bn | 7.34% |
+| `META` Meta Platforms Inc（Meta，社交网络、广告系统和 AI 推荐平台，核心资产是 Facebook、Instagram、WhatsApp 和广告模型） | 3,196,062 | $1.800bn | 7.05% |
+| `V` Visa（经营支付网络，关注交易量、跨境业务和监管成本） | 3,270,470 | $1.122bn | 4.40% |
+| `MA` Mastercard（经营支付网络与增值服务，关注跨境支付、交易量和估值） | 2,124,646 | $1.091bn | 4.28% |
 
 #### Q1 2026
 
-- `BN` Brookfield Corp（Brookfield，全球另类资产和基础设施平台，核心是长期资本、运营资产和资本循环）：`13F 占比 17.6%`，市值约 `$2.42bn`，股数/份额 `59,697,208`。
-- `AMZN` Amazon Com Inc（电商、物流、AWS 云和广告共同构成的平台公司，长期变量是基础设施外部化能力）：`13F 占比 17.4%`，市值约 `$2.39bn`，股数/份额 `11,451,981`。
-- `Uber Technologies` Uber Technologies Inc（出行、外卖和本地物流平台，核心看网络密度、司机供给、广告和自动驾驶期权）：`13F 占比 15.7%`，市值约 `$2.15bn`，股数/份额 `29,958,771`。
-- `MSFT` Microsoft Corp（微软，企业软件、Azure 云、Office、Windows 和 AI 基础设施共同构成的生产力平台）：`13F 占比 15.3%`，市值约 `$2.09bn`，股数/份额 `5,654,078`。
-- `QSR` Restaurant Brands Intl Inc（Restaurant Brands，汉堡王、Tim Hortons、Popeyes 等连锁餐饮品牌的特许经营平台）：`13F 占比 12.2%`，市值约 `$1.67bn`，股数/份额 `22,645,483`。
-- `META` Meta Platforms Inc（Meta，社交网络、广告系统和 AI 推荐平台，核心资产是 Facebook、Instagram、WhatsApp 和广告模型）：`13F 占比 11.1%`，市值约 `$1.52bn`，股数/份额 `2,660,861`。
-- `Howard Hughes Holdings` Howard Hughes Holdings Inc（综合地产开发和社区运营平台，核心看 master-planned communities 和资产变现）：`13F 占比 8.7%`，市值约 `$1.19bn`，股数/份额 `18,852,064`。
-- `Seaport Entmt Group` Seaport Entmt Group Inc（从 Howard Hughes 分拆的娱乐和地产资产公司，核心看 Seaport 资产运营和变现）：`13F 占比 0.8%`，市值约 `$0.11bn`，股数/份额 `5,023,780`。
-- `GOOG` Alphabet Inc（Alphabet 的 C 类股，核心资产是 Google 搜索、YouTube、广告网络、Android 和 Google Cloud）：`13F 占比 0.7%`，市值约 `$0.09bn`，股数/份额 `311,726`。
-- `Hertz Global Hldgs` Hertz Global Hldgs Inc（汽车租赁公司，核心看车队残值、旅游/商务需求和债务成本）：`13F 占比 0.5%`，市值约 `$0.07bn`，股数/份额 `15,241,127`。
+申报总值 `$13.714bn`；聚合后 `11` 个证券类别。
+
+| 证券及业务 | 股数／底层份额 | 季末申报市值 | 13F 占比 |
+|---|---:|---:|---:|
+| `BN` Brookfield Corporation（配置资产管理、保险及经营资产，关注资本回报和估值） | 59,697,208 | $2.416bn | 17.62% |
+| `AMZN` Amazon Com Inc（电商、物流、AWS 云和广告共同构成的平台公司，长期变量是基础设施外部化能力） | 11,451,981 | $2.385bn | 17.39% |
+| `UBER` Uber Technologies, Inc.（出行、外卖与物流平台，关注网络密度、抽成和经营现金流） | 29,958,771 | $2.155bn | 15.71% |
+| `MSFT` Microsoft Corp（微软，企业软件、Azure 云、Office、Windows 和 AI 基础设施共同构成的生产力平台） | 5,654,078 | $2.093bn | 15.26% |
+| `QSR` Restaurant Brands International（经营连锁餐饮品牌与加盟体系，关注门店增长和经营改善） | 22,645,483 | $1.674bn | 12.20% |
+| `META` Meta Platforms Inc（Meta，社交网络、广告系统和 AI 推荐平台，核心资产是 Facebook、Instagram、WhatsApp 和广告模型） | 2,660,861 | $1.522bn | 11.10% |
+| `HHH` Howard Hughes Holdings（持有社区开发及经营资产，关注资产价值、现金流与资本配置） | 18,852,064 | $1.193bn | 8.70% |
+| `SEG` Seaport Entertainment Group（经营地产与娱乐相关资产，关注资产经营、负债及资本需求） | 5,023,780 | $107.91m | 0.79% |
+| `GOOG` Alphabet Inc（Alphabet 的 C 类股，核心资产是 Google 搜索、YouTube、广告网络、Android 和 Google Cloud） | 311,726 | $89.42m | 0.65% |
+| `HTZ` Hertz Global Holdings（经营汽车租赁，关注租金、车辆残值、车队成本和债务） | 15,241,127 | $70.26m | 0.51% |
 
 #### Q4 2025
 
-- `BN` Brookfield Corp（Brookfield，全球另类资产和基础设施平台，核心是长期资本、运营资产和资本循环）：`13F 占比 18.1%`，市值约 `$2.82bn`，股数/份额 `61,403,089`。
-- `Uber Technologies` Uber Technologies Inc（出行、外卖和本地物流平台，核心看网络密度、司机供给、广告和自动驾驶期权）：`13F 占比 15.9%`，市值约 `$2.47bn`，股数/份额 `30,207,734`。
-- `AMZN` Amazon Com Inc（电商、物流、AWS 云和广告共同构成的平台公司，长期变量是基础设施外部化能力）：`13F 占比 14.3%`，市值约 `$2.22bn`，股数/份额 `9,607,824`。
-- `GOOG` Alphabet Inc（Alphabet 的 C 类股，核心资产是 Google 搜索、YouTube、广告网络、Android 和 Google Cloud）：`13F 占比 12.5%`，市值约 `$1.93bn`，股数/份额 `6,163,871`。
-- `META` Meta Platforms Inc（Meta，社交网络、广告系统和 AI 推荐平台，核心资产是 Facebook、Instagram、WhatsApp 和广告模型）：`13F 占比 11.4%`，市值约 `$1.76bn`，股数/份额 `2,673,569`。
-- `QSR` Restaurant Brands Intl Inc（Restaurant Brands，汉堡王、Tim Hortons、Popeyes 等连锁餐饮品牌的特许经营平台）：`13F 占比 10.0%`，市值约 `$1.56bn`，股数/份额 `22,866,773`。
-- `Howard Hughes Holdings` Howard Hughes Holdings Inc（综合地产开发和社区运营平台，核心看 master-planned communities 和资产变现）：`13F 占比 9.7%`，市值约 `$1.50bn`，股数/份额 `18,852,064`。
-- `Hilton Worldwide Hldgs` Hilton Worldwide Hldgs Inc（全球酒店品牌和管理平台，轻资产模式依赖品牌、会员体系和管理费）：`13F 占比 5.6%`，市值约 `$0.87bn`，股数/份额 `3,028,664`。
-- `GOOGL` Alphabet Inc（Alphabet 的 A 类股，核心资产是 Google 搜索、YouTube、广告网络、Android 和 Google Cloud）：`13F 占比 1.4%`，市值约 `$0.21bn`，股数/份额 `678,297`。
-- `Seaport Entmt Group` Seaport Entmt Group Inc（从 Howard Hughes 分拆的娱乐和地产资产公司，核心看 Seaport 资产运营和变现）：`13F 占比 0.6%`，市值约 `$0.10bn`，股数/份额 `5,023,780`。
+申报总值 `$15.527bn`；聚合后 `11` 个证券类别。
 
-#### Q3 2025
+| 证券及业务 | 股数／底层份额 | 季末申报市值 | 13F 占比 |
+|---|---:|---:|---:|
+| `BN` Brookfield Corporation（配置资产管理、保险及经营资产，关注资本回报和估值） | 61,403,089 | $2.818bn | 18.15% |
+| `UBER` Uber Technologies, Inc.（出行、外卖与物流平台，关注网络密度、抽成和经营现金流） | 30,207,734 | $2.468bn | 15.90% |
+| `AMZN` Amazon Com Inc（电商、物流、AWS 云和广告共同构成的平台公司，长期变量是基础设施外部化能力） | 9,607,824 | $2.218bn | 14.28% |
+| `GOOG` Alphabet Inc（Alphabet 的 C 类股，核心资产是 Google 搜索、YouTube、广告网络、Android 和 Google Cloud） | 6,163,871 | $1.934bn | 12.46% |
+| `META` Meta Platforms Inc（Meta，社交网络、广告系统和 AI 推荐平台，核心资产是 Facebook、Instagram、WhatsApp 和广告模型） | 2,673,569 | $1.765bn | 11.37% |
+| `QSR` Restaurant Brands International（经营连锁餐饮品牌与加盟体系，关注门店增长和经营改善） | 22,866,773 | $1.560bn | 10.05% |
+| `HHH` Howard Hughes Holdings（持有社区开发及经营资产，关注资产价值、现金流与资本配置） | 18,852,064 | $1.504bn | 9.69% |
+| `HLT` Hilton（经营酒店管理与特许加盟，关注客房需求、收费和新店拓展） | 3,028,664 | $869.98m | 5.60% |
+| `GOOGL` Alphabet Inc（Alphabet 的 A 类股，核心资产是 Google 搜索、YouTube、广告网络、Android 和 Google Cloud） | 678,297 | $212.31m | 1.37% |
+| `SEG` Seaport Entertainment Group（经营地产与娱乐相关资产，关注资产经营、负债及资本需求） | 5,023,780 | $99.32m | 0.64% |
 
-- `Uber Technologies` Uber Technologies Inc（出行、外卖和本地物流平台，核心看网络密度、司机供给、广告和自动驾驶期权）：`13F 占比 20.3%`，市值约 `$2.97bn`，股数/份额 `30,270,518`。
-- `BN` Brookfield Corp（Brookfield，全球另类资产和基础设施平台，核心是长期资本、运营资产和资本循环）：`13F 占比 19.2%`，市值约 `$2.81bn`，股数/份额 `41,020,231`。
-- `Howard Hughes Holdings` Howard Hughes Holdings Inc（综合地产开发和社区运营平台，核心看 master-planned communities 和资产变现）：`13F 占比 10.6%`，市值约 `$1.55bn`，股数/份额 `18,852,064`。
-- `GOOG` Alphabet Inc（Alphabet 的 C 类股，核心资产是 Google 搜索、YouTube、广告网络、Android 和 Google Cloud）：`13F 占比 10.5%`，市值约 `$1.54bn`，股数/份额 `6,324,031`。
-- `QSR` Restaurant Brands Intl Inc（Restaurant Brands，汉堡王、Tim Hortons、Popeyes 等连锁餐饮品牌的特许经营平台）：`13F 占比 10.0%`，市值约 `$1.47bn`，股数/份额 `22,915,496`。
-- `AMZN` Amazon Com Inc（电商、物流、AWS 云和广告共同构成的平台公司，长期变量是基础设施外部化能力）：`13F 占比 8.7%`，市值约 `$1.28bn`，股数/份额 `5,823,316`。
-- `GOOGL` Alphabet Inc（Alphabet 的 A 类股，核心资产是 Google 搜索、YouTube、广告网络、Android 和 Google Cloud）：`13F 占比 8.0%`，市值约 `$1.18bn`，股数/份额 `4,843,973`。
-- `CMG` Chipotle Mexican Grill Inc（Chipotle，美式快休闲餐饮连锁，核心看门店扩张、同店销售和数字化运营效率）：`13F 占比 5.8%`，市值约 `$0.84bn`，股数/份额 `21,541,177`。
-- `Hilton Worldwide Hldgs` Hilton Worldwide Hldgs Inc（全球酒店品牌和管理平台，轻资产模式依赖品牌、会员体系和管理费）：`13F 占比 5.4%`，市值约 `$0.79bn`，股数/份额 `3,030,578`。
-- `Seaport Entmt Group` Seaport Entmt Group Inc（从 Howard Hughes 分拆的娱乐和地产资产公司，核心看 Seaport 资产运营和变现）：`13F 占比 0.8%`，市值约 `$0.12bn`，股数/份额 `5,023,780`。
+### 这四季的变化小结
 
-#### Q2 2025
-
-- `Uber Technologies` Uber Technologies Inc（出行、外卖和本地物流平台，核心看网络密度、司机供给、广告和自动驾驶期权）：`13F 占比 20.6%`，市值约 `$2.83bn`，股数/份额 `30,301,161`。
-- `BN` Brookfield Corp（Brookfield，全球另类资产和基础设施平台，核心是长期资本、运营资产和资本循环）：`13F 占比 18.5%`，市值约 `$2.55bn`，股数/份额 `41,160,397`。
-- `QSR` Restaurant Brands Intl Inc（Restaurant Brands，汉堡王、Tim Hortons、Popeyes 等连锁餐饮品牌的特许经营平台）：`13F 占比 11.1%`，市值约 `$1.52bn`，股数/份额 `23,000,914`。
-- `AMZN` Amazon Com Inc（电商、物流、AWS 云和广告共同构成的平台公司，长期变量是基础设施外部化能力）：`13F 占比 9.3%`，市值约 `$1.28bn`，股数/份额 `5,823,316`。
-- `Howard Hughes Holdings` Howard Hughes Holdings Inc（综合地产开发和社区运营平台，核心看 master-planned communities 和资产变现）：`13F 占比 9.3%`，市值约 `$1.27bn`，股数/份额 `18,852,064`。
-- `CMG` Chipotle Mexican Grill Inc（Chipotle，美式快休闲餐饮连锁，核心看门店扩张、同店销售和数字化运营效率）：`13F 占比 8.8%`，市值约 `$1.21bn`，股数/份额 `21,541,177`。
-- `GOOG` Alphabet Inc（Alphabet 的 C 类股，核心资产是 Google 搜索、YouTube、广告网络、Android 和 Google Cloud）：`13F 占比 8.2%`，市值约 `$1.12bn`，股数/份额 `6,324,031`。
-- `GOOGL` Alphabet Inc（Alphabet 的 A 类股，核心资产是 Google 搜索、YouTube、广告网络、Android 和 Google Cloud）：`13F 占比 6.9%`，市值约 `$0.95bn`，股数/份额 `5,362,980`。
-- `Hilton Worldwide Hldgs` Hilton Worldwide Hldgs Inc（全球酒店品牌和管理平台，轻资产模式依赖品牌、会员体系和管理费）：`13F 占比 5.9%`，市值约 `$0.81bn`，股数/份额 `3,030,578`。
-- `Hertz Global Hldgs` Hertz Global Hldgs Inc（汽车租赁公司，核心看车队残值、旅游/商务需求和债务成本）：`13F 占比 0.8%`，市值约 `$0.10bn`，股数/份额 `15,241,127`。
+先辨管理人、上市母公司、PSH与PSUS基金产品的不同口径，再研究集中持仓的经营假设与催化剂。2026Q2起跟随Pershing Square Inc.申报，并将NEW HOLDINGS补充合入原Q2；PS发行人股份单列。Uber仍是核心仓，但Q3股数略减，不写作本季加仓。
 
 ### 数据来源
 
-- [SEC 13F Q2 2026 holdings filing（新 CIK）](https://www.sec.gov/Archives/edgar/data/2026053/000117266126003790/0001172661-26-003790-index.html)
-- [SEC 13F-NT Q2 2026 notice（旧 CIK）](https://www.sec.gov/Archives/edgar/data/1336528/000117266126003777/0001172661-26-003777-index.html)
-- [SEC 13F Q1 2026 filing detail](https://www.sec.gov/Archives/edgar/data/1336528/000117266126002336/0001172661-26-002336-index.html)
-- [SEC 13F Q4 2025 filing detail](https://www.sec.gov/Archives/edgar/data/1336528/000117266126001091/0001172661-26-001091-index.html)
-- [SEC 13F Q3 2025 filing detail](https://www.sec.gov/Archives/edgar/data/1336528/000117266125005039/0001172661-25-005039-index.html)
-- [SEC 13F Q2 2025 filing detail](https://www.sec.gov/Archives/edgar/data/1336528/000117266125003509/0001172661-25-003509-index.html)
+- [SEC 13F-HR · 2026-09-30 · 2026-11-16](https://www.sec.gov/Archives/edgar/data/2026053/000117266126005427/0001172661-26-005427-index.htm)
+- [SEC 13F-HR · 2026-06-30 · 2026-08-14](https://www.sec.gov/Archives/edgar/data/2026053/000117266126003790/0001172661-26-003790-index.htm)
+- [SEC 13F-HR/A · 2026-06-30 · 2026-11-16](https://www.sec.gov/Archives/edgar/data/2026053/000117266126005426/0001172661-26-005426-index.htm)
+- [SEC 13F-HR · 2026-03-31 · 2026-05-15](https://www.sec.gov/Archives/edgar/data/1336528/000117266126002336/0001172661-26-002336-index.htm)
+- [SEC 13F-HR · 2025-12-31 · 2026-02-17](https://www.sec.gov/Archives/edgar/data/1336528/000117266126001091/0001172661-26-001091-index.htm)
+- [SEC｜Pershing：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/pershing-13f-2026q3/)；[Pershing-13f-source-audit](/investor-masters/sources/pershing-13f-source-audit/)。
 
 ## 机构传承
 

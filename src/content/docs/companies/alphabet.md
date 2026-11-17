@@ -59,6 +59,20 @@ Baupost 在 2026Q2 把 `GOOG` 从约 `1.18m` 股增至 `1.37m` 股，增幅约 `
 
 这不是简单的“聪明钱看多/看空 Google”，而是同一平台在不同组合里同时充当新机会、长期核心仓和资金来源。完整横向比较见 [13F趋势-2026Q2](/investor-masters/institutions/13f-trends-2026-q2/)。
 
+## 2026Q3 13F 联动
+
+下表补充 Atreides、Coatue、Altimeter、Fundsmith、Pershing 五家中列示该证券的账户，比较 2026-06-30 与 2026-09-30 的 SEC 股数；Q3 均于 2026-11-16 披露。权重按各机构申报证券合计值计算，排名包含其已申报期权或特殊证券，不能当作基金净值排名。
+
+| 机构 / 证券 | Q2 → Q3 股数或份额 | 股数变化 | Q3 权重 | 申报前十状态 |
+|---|---:|---:|---:|---|
+| [Atreides](/investor-masters/institutions/13f-trends-atreides/) / GOOGL | 488,296 → 0 | 不再列示 | — | 本季未列示 |
+| [Coatue](/investor-masters/institutions/13f-trends-coatue/) / GOOG | 908,395 → 785,791 | -13.50% | 0.491% | 前十之外 |
+| [Coatue](/investor-masters/institutions/13f-trends-coatue/) / GOOGL | 4,856,251 → 4,287,677 | -11.71% | 2.707% | 退出前十 |
+| [Altimeter](/investor-masters/institutions/13f-trends-altimeter/) / GOOGL | 175,180 → 0 | 不再列示 | — | 本季未列示 |
+| [Fundsmith](/investor-masters/institutions/13f-trends-fundsmith/) / GOOGL | 1,773,354 → 967,725 | -45.43% | 2.577% | 退出前十 |
+
+GOOG 与 GOOGL 保持证券类别分开。Atreides 的 GOOGL 正股不再列示，同时新列 2,000,000 标的股数的 GOOGL CALL；这不是彻底退出 Alphabet 风险。Coatue、Fundsmith 的减股与 Altimeter 的正股退出也不能混同于前一批 Himalaya 两类股数不变。
+
 ## 分歧与共识
 
 不同投资人的进入语言并不相同：阿克曼看 `AI 恐慌下的错误重描述`，安德森看 `平台吸值能力与认知迟到`，米勒看 `重仓候选中的未来价值赔率`，尼格伦看 `价值增长 vs 倍数扩张`，Rochon 看 `AI 叙事背后的 owner earnings`，Baker 则看 AI 巨头之间的相对分类和估值一致性。
@@ -91,3 +105,11 @@ Baupost 在 2026Q2 把 `GOOG` 从约 `1.18m` 股增至 `1.37m` 股，增幅约 `
 - [13F趋势-Appaloosa](/investor-masters/institutions/13f-trends-appaloosa/)
 - [13F趋势-Atreides](/investor-masters/institutions/13f-trends-atreides/)
 - [Baupost SEC 13F filing detail - Q2 2026](https://www.sec.gov/Archives/edgar/data/1061768/000106176826000010/0001061768-26-000010-index.html)
+- [Atreides 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1777813/000177781326000009/0001777813-26-000009.txt)
+- [Atreides 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1777813/000177781326000013/0001777813-26-000013.txt)
+- [Coatue 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1135730/000091957426005478/0000919574-26-005478.txt)
+- [Coatue 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1135730/000091957426007862/0000919574-26-007862.txt)
+- [Altimeter 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1541617/000154161726000008/0001541617-26-000008.txt)
+- [Altimeter 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1541617/000154161726000010/0001541617-26-000010.txt)
+- [Fundsmith 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1569205/000156920526000012/0001569205-26-000012.txt)
+- [Fundsmith 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1569205/000156920526000014/0001569205-26-000014.txt)

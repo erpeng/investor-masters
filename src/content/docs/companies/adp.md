@@ -18,6 +18,21 @@ ADP 在这批资料里不是宏大叙事的公司，而是一个很典型的质�
 
 这是一种典型的 Fundsmith 式阅读：业务本身稳，但市场会被短期预期波动带偏。
 
+## 2026Q3 13F 联动
+
+下表补充 Atreides、Coatue、Altimeter、Fundsmith、Pershing 五家中列示该证券的账户，比较 2026-06-30 与 2026-09-30 的 SEC 股数；Q3 均于 2026-11-16 披露。权重按各机构申报证券合计值计算，排名包含其已申报期权或特殊证券，不能当作基金净值排名。
+
+| 机构 / 证券 | Q2 → Q3 股数或份额 | 股数变化 | Q3 权重 | 申报前十状态 |
+|---|---:|---:|---:|---|
+| [Fundsmith](/investor-masters/institutions/13f-trends-fundsmith/) / ADP | 2,601,567 → 1,856,447 | -28.64% | 3.707% | 前十之外 |
+
+Fundsmith 减股 28.64%。这与历史对经常性业务质量的评价并不构成逻辑矛盾，减仓原因和当期估值纪律需另查管理人说明。
+
 ## 相关页面
 
 - [特里·史密斯](/investor-masters/investors/terry-smith/)
+
+## 主要来源
+
+- [Fundsmith 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1569205/000156920526000012/0001569205-26-000012.txt)
+- [Fundsmith 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1569205/000156920526000014/0001569205-26-000014.txt)

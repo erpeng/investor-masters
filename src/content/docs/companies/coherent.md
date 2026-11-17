@@ -23,6 +23,12 @@ Atreides 2026Q1 持有约 `631.2k` 股 Coherent，价值约 `$150.3m`，占普�
 
 Atreides 二季度持有 `642,101` 股，较上季 `+1.7%`，季末市值约 `$253.3m`。股数近乎不动而市值上升，主要是价格贡献。参见 [13F趋势-Atreides](/investor-masters/institutions/13f-trends-atreides/)。
 
+## 下一步验证
+
+- 数据通信收入和客户订单。
+- 产品组合、毛利率与债务去化。
+- 减股是估值纪律、基本面变化还是组合相关性控制。
+
 ## 相关页面
 
 - [加文·贝克](/investor-masters/investors/gavin-baker/)

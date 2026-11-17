@@ -5,7 +5,13 @@
     "description": "开发核酸疗法的生物技术公司。",
     "mapping_status": "primary_source_confirmed",
     "mapping_source": "https://www.nasdaqtrader.com/TraderNews.aspx?id=ECA2026-560",
-    "mapping_evidence": {"old_cusip": "Y95308105", "new_cusip": "94352A104", "ratio": 1, "effective_date": "2026-08-07", "note": "One-for-one corporate redomestication; same WVE share position, not a disposal/new purchase."}
+    "mapping_evidence": {
+      "old_cusip": "Y95308105",
+      "new_cusip": "94352A104",
+      "ratio": 1,
+      "effective_date": "2026-08-07",
+      "note": "One-for-one corporate redomestication; same WVE share position, not a disposal/new purchase."
+    }
   },
   "23255M303": {
     "ticker": "KRSA",
@@ -13,7 +19,12 @@
     "description": "开发神经退行性疾病疗法的生物技术公司。",
     "mapping_status": "primary_source_confirmed",
     "mapping_source": "https://www.sec.gov/Archives/edgar/data/1755237/000119312526369426/d264301d8k.htm",
-    "mapping_evidence": {"cusip": "23255M303", "ticker": "KRSA", "first_trading_date": "2026-09-09", "note": "New CUSIP following Cyclerion merger and 1-for-7 reverse split; do not automatically join earlier Cyclerion holdings."}
+    "mapping_evidence": {
+      "cusip": "23255M303",
+      "ticker": "KRSA",
+      "first_trading_date": "2026-09-09",
+      "note": "New CUSIP following Cyclerion merger and 1-for-7 reverse split; do not automatically join earlier Cyclerion holdings."
+    }
   },
   "84615Q103": {
     "ticker": "SPCX",
@@ -21,7 +32,12 @@
     "description": "航天发射、卫星通信和相关技术公司。",
     "mapping_status": "primary_source_confirmed",
     "mapping_source": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026066880/spcx-20260930.htm",
-    "mapping_evidence": {"cusip": "84615Q103", "ticker": "SPCX", "security_class": "Class A Common Stock", "note": "SEC 10-Q cover confirms Nasdaq ticker; filed values differ between managers, so post-filing price comparison is withheld."}
+    "mapping_evidence": {
+      "cusip": "84615Q103",
+      "ticker": "SPCX",
+      "security_class": "Class A Common Stock",
+      "note": "SEC 10-Q cover confirms Nasdaq ticker; filed values differ between managers, so post-filing price comparison is withheld."
+    }
   },
   "T19377109": {
     "ticker": "",
@@ -29,6 +45,181 @@
     "description": "通过收购和运营数字软件产品发展的软件公司。",
     "mapping_status": "issuer_confirmed_ticker_unresolved",
     "mapping_source": "https://www.sec.gov/Archives/edgar/data/2004711/000200471126000024/bsp_ex99-1.htm",
-    "mapping_evidence": {"cusip": "T19377109", "issuer": "BENDING SPOONS SPA", "note": "Issuer confirmed; ticker not established by this release. Do not invent a ticker or compare reporting implied values with an unverified market series."}
+    "mapping_evidence": {
+      "cusip": "T19377109",
+      "issuer": "BENDING SPOONS SPA",
+      "note": "Issuer confirmed; ticker not established by this release. Do not invent a ticker or compare reporting implied values with an unverified market series."
+    }
+  },
+  "15675D103": {
+    "ticker": "CBRS",
+    "name": "Cerebras Systems",
+    "description": "提供大规模 AI 计算芯片、系统和云服务。",
+    "mapping_status": "primary_source_confirmed",
+    "mapping_source": "https://www.sec.gov/Archives/edgar/data/315754/000031575426000266/primary_doc.xml",
+    "mapping_evidence": {
+      "cusip": "15675D103",
+      "ticker": "CBRS",
+      "note": "SEC N-PORT links CUSIP to CBRS. Issuer confirms Nasdaq trading began 2026-05-14; reported values across managers are not necessarily a comparable market-price anchor."
+    }
+  },
+  "78392B206": {
+    "ticker": "SKHY",
+    "name": "SK hynix",
+    "description": "DRAM、HBM 和 NAND 存储芯片厂商；这里是美国存托凭证。",
+    "mapping_status": "primary_source_confirmed",
+    "mapping_source": "https://adr.db.com/drwebrebrand/dr-universe/dr_details.html?identifier=12756",
+    "mapping_evidence": {
+      "cusip": "78392B206",
+      "ticker": "SKHY",
+      "note": "Depositary confirms SKHY ADR, ISIN US78392B2060. Ten ADSs represent one Korean ordinary share; do not join Korean ordinary share counts."
+    },
+    "comparability_exclusion": "新上市 ADR；存托比例与上市前后价格口径需另核，不直接进入普通股可复制排序"
+  },
+  "64125S104": {
+    "ticker": "LIME",
+    "name": "Neutron Holdings / Lime",
+    "description": "经营共享电动滑板车及电动自行车出行网络。",
+    "mapping_status": "primary_source_confirmed",
+    "mapping_source": "https://www.sec.gov/edgar/browse/?CIK=0001699963",
+    "mapping_evidence": {
+      "cusip": "64125S104",
+      "ticker": "LIME",
+      "note": "SEC issuer directory identifies Nasdaq LIME; Coatue Q3 information table identifies Neutron Holdings CUSIP64125S104."
+    }
+  },
+  "H01301128": {
+    "ticker": "ALC",
+    "name": "Alcon / 爱尔康",
+    "description": "提供眼科手术设备、人工晶体、隐形眼镜和眼护理产品。",
+    "mapping_status": "primary_source_confirmed",
+    "mapping_source": "https://www.sec.gov/Archives/edgar/data/2026053/000117266126005427/0001172661-26-005427.txt",
+    "mapping_evidence": {
+      "cusip": "H01301128",
+      "ticker": "ALC",
+      "note": "Issuer is ALCON AG, not Air Lease. Common shares, not ADR."
+    }
+  },
+  "N52A8C105": {
+    "ticker": "INIO",
+    "name": "INNIO",
+    "description": "提供燃气发动机、分布式发电系统及维护服务。",
+    "mapping_status": "primary_source_confirmed",
+    "mapping_source": "https://www.sec.gov/Archives/edgar/data/2109150/000162828026067448/inio-20260930.htm",
+    "mapping_evidence": {
+      "cusip": "N52A8C105",
+      "ticker": "INIO",
+      "note": "SEC10-Q cover confirms INIO common shares; CUSIP independently reported in SEC13G https://www.sec.gov/Archives/edgar/data/1034196/000114036126032833/primary_doc.xml ."
+    }
+  },
+  "H5919C104": {
+    "ticker": "ONON",
+    "name": "On Holding",
+    "description": "提供运动鞋服及相关运动用品；这里是 A 类普通股。",
+    "mapping_status": "primary_source_confirmed",
+    "mapping_source": "https://www.sec.gov/Archives/edgar/data/1858985/000095010326012253/xslSCHEDULE_13G_X02/primary_doc.xml",
+    "mapping_evidence": {
+      "cusip": "H5919C104",
+      "ticker": "ONON",
+      "note": "13G identifies CUSIP and Class A ordinary shares; ticker ONON is also paired with this CUSIP in issuer-held fund holdings https://www.vcm.com/assets/victoryMF/allholdings-pdf/Victory_Aggressive_Growth_Fund_Holdings.pdf ."
+    }
+  },
+  "M8744T106": {
+    "ticker": "TBLA",
+    "name": "Taboola",
+    "description": "面向媒体和广告客户的内容推荐与广告技术平台。",
+    "mapping_status": "primary_source_confirmed",
+    "mapping_source": "https://www.sec.gov/Archives/edgar/data/1467831/000114554922054764/xslFormNPORT-P_X01/primary_doc.xml",
+    "mapping_evidence": {
+      "cusip": "M8744T106",
+      "ticker": "TBLA",
+      "note": "SEC N-PORT explicitly links CUSIP and ticker TBLA."
+    }
+  },
+  "15961R303": {
+    "ticker": "CHPT",
+    "name": "ChargePoint",
+    "description": "提供电动汽车充电设备、软件及相关服务。",
+    "mapping_status": "primary_source_confirmed",
+    "mapping_source": "https://infomemo.theocc.com/infomemos?number=56950",
+    "mapping_evidence": {
+      "cusip": "15961R303",
+      "ticker": "CHPT",
+      "note": "OCC confirms new common-share CUSIP and CHPT ticker following 1-for-20 reverse split effective2025-07-28; do not interpret CUSIP replacement as a new economic investment."
+    }
+  },
+  "72919P202": {
+    "ticker": "PLUG",
+    "name": "Plug Power",
+    "description": "提供氢燃料电池、制氢及相关能源系统。",
+    "mapping_status": "primary_source_confirmed",
+    "mapping_source": "https://www.sec.gov/Archives/edgar/data/1976322/000089418926027612/primary_doc.xml",
+    "mapping_evidence": {
+      "cusip": "72919P202",
+      "ticker": "PLUG",
+      "note": "SEC N-PORT identifies underlying issuer Plug Power Inc, CUSIP72919P202, ticker PLUG; reported Coatue security is common stock, not that fund swap."
+    }
+  },
+  "42806J148": {
+    "ticker": "HTZWW",
+    "name": "Hertz Global Holdings warrants",
+    "description": "Hertz 认股权证，须与 HTZ 普通股分开读取。",
+    "mapping_status": "primary_source_confirmed",
+    "mapping_source": "https://infomemo.theocc.com/infomemos?number=49547",
+    "mapping_evidence": {
+      "cusip": "42806J148",
+      "ticker": "HTZWW",
+      "note": "OCC maps CUSIP42806J148 to HTZWW warrants; common stock is CUSIP42806J700 / HTZ. Do not apply HTZ stock quotes or combine shares."
+    }
+  },
+  "65290E101": {
+    "ticker": "NXT",
+    "name": "Nextpower",
+    "description": "原 Nextracker，提供光伏跟踪系统及电力技术产品。",
+    "mapping_status": "primary_source_confirmed",
+    "mapping_source": "https://nextpower.com/post/press-release/nextracker-rebrands-as-nextpower-integrated-power-technology-innovator?locale=en-US",
+    "mapping_evidence": {
+      "cusip": "65290E101",
+      "ticker": "NXT",
+      "note": "Issuer confirms former Nextracker and NasdaqNXT. Fundsmith Q2/Q3 same CUSIP65290E101 class spelling CLASS A COM→COM is one continuing security."
+    }
+  },
+  "71531U102": {
+    "ticker": "PS",
+    "name": "Pershing Square Inc.",
+    "description": "资产管理上市母公司；本次持仓含相关控制主体股份。",
+    "mapping_status": "primary_source_confirmed",
+    "mapping_source": "https://www.sec.gov/Archives/edgar/data/2026053/000119312526450239/ps-20260930.htm",
+    "mapping_evidence": {
+      "cusip": "71531U102",
+      "ticker": "PS",
+      "note": "SEC10-Q confirms NYSEPS. Pershing13F Q3 confirms CUSIP71531U102 and otherManager3,4; separate related-party disclosed shares from the ordinary copyable candidate pool."
+    }
+  },
+  "562750109": {
+    "ticker": "MANH",
+    "name": "Manhattan Associates",
+    "description": "提供供应链、仓储和全渠道商业软件。",
+    "mapping_status": "primary_source_confirmed",
+    "mapping_source": "https://www.sec.gov/Archives/edgar/data/1131013/000206657826001704/primary_doc.xml",
+    "mapping_evidence": {
+      "cusip": "562750109",
+      "ticker": "MANH",
+      "note": "SEC N-PORT identifies issuer Manhattan Associates Inc, CUSIP562750109 and tickerMANH."
+    }
+  },
+  "G4124C117": {
+    "ticker": "GRABW",
+    "name": "Grab Holdings warrants",
+    "description": "Grab 认股权证，与 GRAB A 类普通股分开；2026 年申报时尚未到期。",
+    "mapping_status": "primary_source_confirmed",
+    "mapping_source": "https://classic.nasdaqtrader.com/TraderNews.aspx?id=ECA2021-267",
+    "mapping_evidence": {
+      "cusip": "G4124C117",
+      "ticker": "GRABW",
+      "expiry": "2026-12-01",
+      "note": "Nasdaq confirms CUSIPG4124C117=GRABW warrants; ordinary shares are G4124C109/GRAB. Altimeter Q2/Q3 title is W EXP12/1/202,3,502,000 warrants unchanged; $0.027 is warrant implied value, not ordinary-share price anomaly."
+    },
+    "comparability_exclusion": "认股权证；按工具单列，不使用 GRAB 普通股行情或纳入普通股可复制排序"
   }
 }

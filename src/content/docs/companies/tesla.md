@@ -45,6 +45,18 @@ H&H 将 TSLA 增至 **4,080,000 股**，较 Q2 **增加 20.70%**，占本季申�
 
 研究待验证：汽车业务现金创造能力与自动驾驶等投入之间的资金关系；需要对应的公司资料或投资人公开说明，才能解释这次配置的依据。
 
+### 第二批五家补充（2026-11-17）
+
+下表补充 Atreides、Coatue、Altimeter、Fundsmith、Pershing 五家中列示该证券的账户，比较 2026-06-30 与 2026-09-30 的 SEC 股数；Q3 均于 2026-11-16 披露。权重按各机构申报证券合计值计算，排名包含其已申报期权或特殊证券，不能当作基金净值排名。
+
+| 机构 / 证券 | Q2 → Q3 股数或份额 | 股数变化 | Q3 权重 | 申报前十状态 |
+|---|---:|---:|---:|---|
+| [Atreides](/investor-masters/institutions/13f-trends-atreides/) / TSLA | 204,275 → 78,613 | -61.52% | 0.155% | 前十之外 |
+| [Coatue](/investor-masters/institutions/13f-trends-coatue/) / TSLA | 59,963 → 179,934 | +200.08% | 0.117% | 前十之外 |
+| [Altimeter](/investor-masters/institutions/13f-trends-altimeter/) / TSLA | 0 → 1,915,440 | 首次列示 | 6.593% | 进入前十 |
+
+Altimeter 首次列示且进入前十，Coatue 从小仓增股，Atreides 则明显减股；与前一批 H&H 加股的记录连读，不能把持仓共现等同于观点共识。
+
 ## 分歧与共识
 
 这页的分歧最直接。Baillie Gifford 看的是少数创始人能否把行业边界整体抬升；Cathie 看的是特斯拉会不会从整车公司跃迁成自动驾驶平台；特里·史密斯看的却是行业回报结构能不能支持这种估值。
@@ -65,3 +77,9 @@ H&H 将 TSLA 增至 **4,080,000 股**，较 Q2 **增加 20.70%**，占本季申�
 
 - [H&H 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1759760/000175976026000008/0001759760-26-000008.txt)
 - [H&H 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1759760/000175976026000007/0001759760-26-000007.txt)
+- [Atreides 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1777813/000177781326000009/0001777813-26-000009.txt)
+- [Atreides 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1777813/000177781326000013/0001777813-26-000013.txt)
+- [Coatue 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1135730/000091957426005478/0000919574-26-005478.txt)
+- [Coatue 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1135730/000091957426007862/0000919574-26-007862.txt)
+- [Altimeter 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1541617/000154161726000008/0001541617-26-000008.txt)
+- [Altimeter 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1541617/000154161726000010/0001541617-26-000010.txt)

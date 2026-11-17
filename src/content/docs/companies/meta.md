@@ -56,6 +56,22 @@ Pershing 的 `META` 在 2026Q1 不是新买，但仍是约 `11.1%` 的核心仓�
 
 Appaloosa、Pershing 分别把股数提高 `54.6%`、`20.1%`；Atreides 新建普通股并另有 CALL 披露。三家同时增配构成公开多头共振，但工具和组合语境不同，不能把 CALL 名义市值与普通股直接相加。参见 [13F趋势-Appaloosa](/investor-masters/institutions/13f-trends-appaloosa/)、[13F趋势-Pershing](/investor-masters/institutions/13f-trends-pershing/)、[13F趋势-Atreides](/investor-masters/institutions/13f-trends-atreides/)。
 
+## 2026Q3 13F 联动
+
+下表补充 Atreides、Coatue、Altimeter、Fundsmith、Pershing 五家中列示该证券的账户，比较 2026-06-30 与 2026-09-30 的 SEC 股数；Q3 均于 2026-11-16 披露。权重按各机构申报证券合计值计算，排名包含其已申报期权或特殊证券，不能当作基金净值排名。Pershing 的 Q2 已合并 11 月 16 日补报的 NEW HOLDINGS。
+
+| 机构 / 证券 | Q2 → Q3 股数或份额 | 股数变化 | Q3 权重 | 申报前十状态 |
+|---|---:|---:|---:|---|
+| [Atreides](/investor-masters/institutions/13f-trends-atreides/) / META | 402,770 → 872,413 | +116.60% | 3.516% | 进入前十 |
+| [Coatue](/investor-masters/institutions/13f-trends-coatue/) / META | 2,526,048 → 4,514,481 | +78.72% | 6.008% | 进入前十 |
+| [Altimeter](/investor-masters/institutions/13f-trends-altimeter/) / META | 1,354,990 → 1,698,703 | +25.37% | 11.950% | 留在前十 |
+| [Fundsmith](/investor-masters/institutions/13f-trends-fundsmith/) / META | 1,051,876 → 604,541 | -42.53% | 3.393% | 前十之外 |
+| [Pershing](/investor-masters/institutions/13f-trends-pershing/) / META | 3,196,062 → 2,833,299 | -11.35% | 6.672% | 留在前十 |
+
+最鲜明的分歧是 Atreides、Coatue 与 Altimeter 增加正股，Fundsmith 与 Pershing 减少正股。同公司、同季度的相反动作，提醒读者区分研究时间框架与组合约束；13F 没有给出各自的买卖理由。Atreides 的 META CALL 另从 1,200,000 增至 1,900,000 标的股数，不能与正股数量合并，也不能据名义值计算净敞口。
+
+Pershing 权重以包含 PS 关联主体股份的完整申报为分母；它不是 PSH 的净值权重，也不是所有账户合并后的净敞口。
+
 ## 分歧与共识
 
 史密斯和米勒都把 Meta 读成情绪错杀，詹森补了一层 AI 时代资源竞争，尼格伦则补了一层资本配置边界，Rochon 进一步把它拉回 owner earnings；Altimeter 和 Pershing 的 13F 证据则说明，Meta 仍是平台现金流和 AI 广告效率重估里的核心候选，而不是单纯旧社交网络。
@@ -86,3 +102,14 @@ Appaloosa、Pershing 分别把股数提高 `54.6%`、`20.1%`；Atreides 新建�
 - [13F趋势-Appaloosa](/investor-masters/institutions/13f-trends-appaloosa/)
 - [13F趋势-Altimeter](/investor-masters/institutions/13f-trends-altimeter/)
 - [13F趋势-Pershing](/investor-masters/institutions/13f-trends-pershing/)
+- [Atreides 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1777813/000177781326000009/0001777813-26-000009.txt)
+- [Atreides 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1777813/000177781326000013/0001777813-26-000013.txt)
+- [Coatue 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1135730/000091957426005478/0000919574-26-005478.txt)
+- [Coatue 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1135730/000091957426007862/0000919574-26-007862.txt)
+- [Altimeter 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1541617/000154161726000008/0001541617-26-000008.txt)
+- [Altimeter 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1541617/000154161726000010/0001541617-26-000010.txt)
+- [Fundsmith 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1569205/000156920526000012/0001569205-26-000012.txt)
+- [Fundsmith 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1569205/000156920526000014/0001569205-26-000014.txt)
+- [Pershing 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/2026053/000117266126003790/0001172661-26-003790.txt)
+- [Pershing 2026Q2 SEC 补充申报](https://www.sec.gov/Archives/edgar/data/2026053/000117266126005426/0001172661-26-005426.txt)
+- [Pershing 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/2026053/000117266126005427/0001172661-26-005427.txt)

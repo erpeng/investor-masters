@@ -34,5 +34,255 @@
     "candidates": ["MU", "NVDA", "LRCX", "ASML", "ORCL", "AMAT", "SPCX"], "reverse": ["GOOG", "META", "AMZN", "AMD", "AVGO"],
     "next_checks": {"MU": "HBM份额、存储价格、产能与周期利润", "NVDA": "客户资本开支、交付、竞争与估值", "LRCX": "存储设备订单、客户投资与出口限制", "ASML": "订单转化、先进制程投资和交付节奏", "ORCL": "云订单转化、融资与资本开支负担", "AMAT": "设备订单、服务收入和客户资本开支", "SPCX": "发行文件、股数来源与同类股份估值口径"},
     "notes": ["本季新列示Oracle、应用材料、Modine、PG&E。", "Q2苹果和伯克希尔B的PUT在Q3不再列示，不能写成卖出两家正股，也无法仅凭13F区分平仓与到期。", "SpaceX同CUSIP的申报隐含价与其他机构存在差异，保留Appaloosa原值；股数增长不全部认定为二级市场买入。"]
+  },
+  "atreides": {
+    "style": "crossover科技与主题交易，普通股票和期权分开观察",
+    "summary": "普通股票增量集中在Astera Labs、Meta、Ciena与英伟达，同时减持美光和亚马逊；较大的QQQ PUT及新增SMH PUT表明工具层必须另读，不能只看股票持仓就推导整个组合净看多。",
+    "method": "按普通股票、期权底层名义值与特殊上市持股拆分。重点看带宽、连接、算力及平台公司订单与盈利预期的变化；非期权前十大使用非期权切片分母。Cerebras等上市股份可能包含上市前配置延续，不能把首次13F列示当作二级市场首次买入。",
+    "candidate_method": "科技主题的订单与盈利验证，保留交易与工具层约束",
+    "ranking_title": "最近一季可抄作业 / 科技主题跟踪排序",
+    "candidates": [
+      "ALAB",
+      "META",
+      "CIEN",
+      "NVDA",
+      "MSFT",
+      "NBIS",
+      "CBRS"
+    ],
+    "reverse": [
+      "MU",
+      "AMZN",
+      "PANW",
+      "U"
+    ],
+    "watch": [
+      "FIG",
+      "ONON",
+      "CVNA",
+      "GOOGL",
+      "QQQ",
+      "SMH",
+      "CRDO"
+    ],
+    "next_checks": {
+      "ALAB": "连接芯片设计导入、客户集中度、收入兑现及估值",
+      "META": "广告增长、AI投入、资本开支和自由现金流",
+      "CIEN": "云客户订单、光网络升级和毛利率",
+      "NVDA": "交付、客户资本开支、竞争和估值",
+      "MSFT": "Azure增长、AI需求与资本开支回报",
+      "NBIS": "低基数增持后的组合地位、融资、订单履约与单位经济性",
+      "CBRS": "发行与分配文件、上市前后持股衔接、股数变化来源"
+    },
+    "notes": [
+      "ALAB增股102.10%、META普通股增116.60%、CIEN增50.88%、NVDA增18.17%；NBIS增1,663.42%来自较低基数，不按百分比自动排第一。",
+      "MU减股57.33%、AMZN减41.61%、PANW减33.99%、U普通股减24.55%；新列示FIG、ONON、CVNA、MSFT。",
+      "QQQ PUT底层份额增59.38%，新列SMH PUT；META CALL增58.33%，新列GOOGL和U CALL。缺少到期日、执行价及组合其他腿，不能用名义申报值推导净方向或已付权利金。",
+      "普通股票与期权的行和分别保留；Cerebras、SpaceX等特殊披露不进入可复制普通股票排名。"
+    ],
+    "special_observations": [
+      "CBRS上市股份持仓衔接",
+      "QQQ和SMH PUT、META/GOOGL/U CALL的工具角色"
+    ]
+  },
+  "coatue": {
+    "style": "crossover科技研究与动态组合",
+    "summary": "大幅增加微软和Meta，新列Salesforce、Shopify、ICE及支付网络，同时减少Alphabet、ASML、Eaton与Cerebras。科技内部发生重配，不能概括为整个AI产业链同步加仓。",
+    "method": "同时看上市公司盈利兑现、平台与基础设施的机会成本，以及私募和新上市资产的申报衔接。13F只覆盖可申报公开证券，不代表Coatue私募、现金或完整跨资产组合；新上市存托凭证及特殊持股单列核验。",
+    "candidate_method": "比较平台、企业软件与基础设施的增长和现金流兑现",
+    "ranking_title": "最近一季可抄作业 / 平台与软件研究排序",
+    "candidates": [
+      "MSFT",
+      "META",
+      "CRM",
+      "SHOP",
+      "ICE",
+      "V",
+      "MA",
+      "SKHY"
+    ],
+    "reverse": [
+      "ASML",
+      "ETN",
+      "GOOGL",
+      "GOOG",
+      "CBRS"
+    ],
+    "watch": [
+      "SPCX",
+      "CRWV",
+      "NVDA"
+    ],
+    "next_checks": {
+      "MSFT": "Azure订单转收入、资本开支、折旧与现金流",
+      "META": "广告需求、AI投入回报和估值",
+      "CRM": "订阅续费、Agent产品商业化、利润率与回购",
+      "SHOP": "商户增长、支付渗透及自由现金流",
+      "ICE": "交易数据收入、抵押贷款技术业务和资本回报",
+      "V": "支付交易量、跨境业务和监管成本",
+      "MA": "跨境交易、增值服务及估值",
+      "SKHY": "ADR上市及转换路径、10份ADS对应1股普通股、HBM盈利与估值",
+      "CBRS": "上市股份来源、分配与实际处置路径"
+    },
+    "notes": [
+      "MSFT增股119.93%、META增78.72%；新列CRM、SHOP、ICE、V、MA及SKHY存托凭证。",
+      "ASML减股52.65%、ETN减24.58%、GOOGL减11.71%、GOOG减13.50%；Alphabet两类分别记录，再合并公司级信号。",
+      "SKHY为2026Q3新上市ADR，10份ADS代表1股普通股；首次列示不等于首次投资，不能与韩国普通股股数直接相加。",
+      "Cerebras减股53.56%，其上市及股份口径需另核；与SpaceX等特殊披露一并排除普通股票主榜。"
+    ],
+    "special_observations": [
+      "SKHY首次上市存托凭证",
+      "CBRS与SPCX持仓衔接"
+    ]
+  },
+  "altimeter": {
+    "style": "集中科技与crossover投资",
+    "summary": "增加英伟达、Meta、Uber和美光，新列特斯拉与闪迪；退出多只半导体设备及软件证券，同时减少CoreWeave和特殊上市持股。集中组合内部重配与新列SMH PUT并存。",
+    "method": "优先检验少数核心科技公司的经营假设与新增仓位能否持续；把低换手核心、季度机会成本调整、上市前后股权衔接及期权分别解释。13F看不到私募基金全貌，也不能从SMH PUT反推组合净看空芯片。",
+    "candidate_method": "集中科技核心的经营兑现与新增机会成本比较",
+    "ranking_title": "最近一季可抄作业 / 集中科技研究排序",
+    "candidates": [
+      "META",
+      "UBER",
+      "MU",
+      "NVDA",
+      "SNDK",
+      "TSLA"
+    ],
+    "reverse": [
+      "CRWV",
+      "QCOM",
+      "AMAT",
+      "KLAC",
+      "LRCX",
+      "GOOGL",
+      "SNPS",
+      "SPCX",
+      "CBRS"
+    ],
+    "watch": [
+      "SMH",
+      "MSFT",
+      "AMZN",
+      "GRABW"
+    ],
+    "next_checks": {
+      "META": "广告增长、资本开支和自由现金流",
+      "UBER": "订单、抽成、现金流和自动驾驶合作",
+      "MU": "存储价格、HBM产品组合、产能与周期利润",
+      "NVDA": "需求与交付、毛利率、竞争与估值",
+      "SNDK": "NAND供需、企业级存储与现金流",
+      "TSLA": "交付、汽车毛利率、资本开支与新业务兑现"
+    },
+    "notes": [
+      "NVDA增股6.29%、META增25.37%、UBER增19.47%、MU增24.16%；新列TSLA、SNDK。",
+      "QCOM、AMAT、KLAC、LRCX、GOOGL、SNPS本期不再列示；CRWV减股21.35%。这不是对半导体全行业的同向动作。",
+      "新列SMH PUT；底层份额和名义值单列，缺少执行价、期限和其他组合腿，不能转成净空头敞口。",
+      "SpaceX减股40.55%、Cerebras减17.60%，均另核上市股份和估值口径，不进入普通股票可复制排名。",
+      "Grab的CUSIP G4124C117是权证，原始类别W EXP 12/1/202；Q2/Q3均为3,502,000份，申报值分别$150,586与$94,554。它与普通股G4124C106分开，不进入普通股票榜，也不拿权证价格与GRAB正股比较。封面与信息表行和的差额独立披露，不归因于该权证。"
+    ],
+    "special_observations": [
+      "SMH PUT工具层",
+      "SpaceX与Cerebras上市股份衔接",
+      "Grab权证与普通股分离"
+    ]
+  },
+  "fundsmith": {
+    "style": "质量研究框架下提高主动调整频率",
+    "summary": "显著增加Veeva、Yum、Nextpower和TJX，并增持两家支付网络；同时大幅削减微软、Marriott、Alphabet和Meta。2026半年信已宣布更积极调整，不能继续把最新动作概括为几乎不动的低换手组合。",
+    "method": "保持质量、资本回报与估值研究，但结合2026半年信对基本面和股价动量的新增重视。旗舰全球Equity Fund上半年换手51.8%，不应把历史低换手标签当作本季事实；LLP的13F是管理人美国可申报证券切片，并不等于旗舰基金完整全球组合。",
+    "candidate_method": "质量与估值研究，结合基本面及股价动量重新验证",
+    "ranking_title": "最近一季可抄作业 / 质量公司研究排序",
+    "candidates": [
+      "VEEV",
+      "YUM",
+      "NXT",
+      "TJX",
+      "MA",
+      "V"
+    ],
+    "reverse": [
+      "GEV",
+      "MSFT",
+      "MAR",
+      "GOOGL",
+      "META",
+      "PG",
+      "CLX"
+    ],
+    "watch": [
+      "WAT",
+      "SYK",
+      "UBER",
+      "ADP",
+      "IDXX",
+      "RMBS",
+      "CRDO"
+    ],
+    "next_checks": {
+      "VEEV": "客户迁移、订阅增长、产品扩张与现金回报",
+      "YUM": "同店销售、加盟商经济性、开店与估值",
+      "NXT": "公用事业光伏订单、项目兑现、产品份额与资本回报",
+      "TJX": "库存采购、同店销售、扩店与利润率",
+      "MA": "跨境支付、增值服务、监管与估值",
+      "V": "交易量、跨境业务、费用和资本回报"
+    },
+    "notes": [
+      "官方2026半年信披露上半年换手51.8%，并提出未来更多考虑基本面和股价动量；这是旗舰Equity Fund的方法变化，不据此将管理人13F等同于该基金。",
+      "VEEV增股231.22%、YUM增648.43%、TJX增43.83%、MA增17.36%、V增11.49%。",
+      "Nextpower同一CUSIP65290E101仅类别文字由CLASS A COM改为COM，归一后股数增46.70%，不是新建与清仓两笔。",
+      "GEV减股56.51%、MSFT减50.55%、MAR减47.49%、GOOGL减45.43%、META减42.53%；新列Rambus、Credo，Clorox本期不再列示。",
+      "[Fundsmith官方2026半年信](https://www.fundsmith.co.uk/media/lfhpxi1x/2026-fef-semi-annual-letter-to-shareholders-web.pdf)；[全球基金事实表与管理人边界](https://www.fundsmith.co.uk/factsheet/)。"
+    ],
+    "special_observations": [
+      "Nextpower证券类别文字归一",
+      "管理人13F与全球旗舰基金的边界"
+    ]
+  },
+  "pershing": {
+    "style": "集中权益、经营改善与催化剂研究",
+    "summary": "新列爱尔康Alcon与ICE，增持Netflix，减持微软、Restaurant Brands及多项既有仓位。披露总额显著增长主要受PS关联管理公司股份升值影响，不能误读为基金大幅净买入。",
+    "method": "先辨管理人、上市母公司、PSH与PSUS基金产品的不同口径，再研究集中持仓的经营假设与催化剂。2026Q2起跟随Pershing Square Inc.申报，并将NEW HOLDINGS补充合入原Q2；PS发行人股份单列。Uber仍是核心仓，但Q3股数略减，不写作本季加仓。",
+    "candidate_method": "集中公司研究与催化剂验证，隔离关联持股口径",
+    "ranking_title": "最近一季可抄作业 / 经营与催化剂研究排序",
+    "candidates": [
+      "ICE",
+      "ALC",
+      "NFLX"
+    ],
+    "reverse": [
+      "MSFT",
+      "QSR",
+      "V",
+      "META",
+      "MA",
+      "BN",
+      "HTZ"
+    ],
+    "watch": [
+      "UBER",
+      "HHH",
+      "AMZN",
+      "SPGI",
+      "PS",
+      "PSUS"
+    ],
+    "next_checks": {
+      "ICE": "交易与数据业务增长、抵押贷款科技转化和资本回报",
+      "ALC": "爱尔康眼科手术与视力保健需求、产品组合和利润率",
+      "NFLX": "订阅与广告增长、内容现金投入和估值"
+    },
+    "notes": [
+      "原PSCM（CIK1336528）2026Q2及Q3提交13F-NT；持仓由上市母公司Pershing Square Inc.（CIK2026053）披露，NT不代表清仓。",
+      "2026-11-16补交Q2 13F-HR/A（0001172661-26-005426），类型NEW HOLDINGS，仅补PS发行人184,289,699股及$6.056bn；须加回原Q2，不用这一行替换整季。",
+      "Q3 PS发行人184,289,699股与补正后Q2相同，申报值$10.309bn、占33.48%；相关otherManager为Partner Group和Management，不能写成PSH基金主动购买自家管理公司股票。",
+      "Q3新列ALC（ALCON AG，爱尔康）与ICE；NFLX增股17.82%；MSFT减34.51%、QSR减14.77%、V减12.22%、META减11.35%、MA减11.12%、BN减10.70%；HTZ本期不再列示。",
+      "HHH两个管理人记录合计27,852,064股，与Q2不变；UBER小幅减股0.17%。全报告总值与排除PS的辅助切片分别展示，后者不是PSH NAV或官方AUM。"
+    ],
+    "special_observations": [
+      "PS关联管理公司持股",
+      "Q2 NEW HOLDINGS补充",
+      "PSCM到上市母公司的申报沿革"
+    ]
   }
 }

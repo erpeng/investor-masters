@@ -27,6 +27,24 @@ MANAGERS = {
     'duquesne': ('Duquesne', 'Duquesne Family Office', 1536411),
     'appaloosa': ('Appaloosa', 'Appaloosa Management', 1656456),
 }
+BATCH2_MANAGERS = {
+    'atreides': ('Atreides', 'Atreides Management', 1777813),
+    'coatue': ('Coatue', 'Coatue Management', 1135730),
+    'altimeter': ('Altimeter', 'Altimeter Capital', 1541617),
+    'fundsmith': ('Fundsmith', 'Fundsmith', 1569205),
+    'pershing': ('Pershing', 'Pershing Square', 2026053),
+}
+# Preserve the original batch as the CLI default and historical replay contract.
+ALL_MANAGERS = {**MANAGERS, **BATCH2_MANAGERS}
+CIK_LINEAGES = {'pershing': [
+    {'cik': 1336528, 'holdings_from': '2022-12-31', 'holdings_to': '2026-03-31'},
+    {'cik': 2026053, 'holdings_from': '2026-06-30', 'holdings_to': '9999-12-31'},
+]}
+COVER_EXCEPTIONS = {'0001541617-26-000010': {
+    'report_date': '2026-09-30', 'count': 17, 'cover': 10309080051, 'row_sum': 10308735663,
+    'sha256': '89bc1edc94c8047c1aa91553f7f97383a37d7e3adeaddde117be8b9bc56f4c22',
+    'reason': 'Standalone primary_doc.xml and q3202613f.xml independently agree with TXT; retain the $344,388 source discrepancy, do not correct rows or call it rounding.',
+}}
 DEFAULT_VAULT = '/Users/zhangshihua/Desktop/investors/investors'
 UA = 'Investment research, public SEC filings; contact research@example.com'
 
@@ -80,44 +98,70 @@ def parse_filing(content, metadata):
                 'security_class': xml_value(e, 'titleOfClass'), 'put_call': xml_value(e, 'putCall').upper(),
                 'share_type': xml_value(e, 'sshPrnamtType').upper(),
                 'shares': int(xml_value(e, 'sshPrnamt')), 'value_raw': int(xml_value(e, 'value')),
+                'other_managers_raw': [n.text.strip() for n in e.iter()
+                                       if n.tag.split('}')[-1] == 'otherManager' and n.text and n.text.strip()],
+                'other_managers': [part.strip() for n in e.iter()
+                                   if n.tag.split('}')[-1] == 'otherManager' and n.text
+                                   for part in n.text.split(',') if part.strip()],
+                'investment_discretion': xml_value(e, 'investmentDiscretion'),
             })
     count, total = int(xml_value(cover, 'tableEntryTotal')), int(xml_value(cover, 'tableValueTotal'))
     difference = sum(r['value_raw'] for r in rows) - total
-    if len(rows) != count or abs(difference) > max(1, count / 2):
+    exception = COVER_EXCEPTIONS.get(metadata['accessionNumber'])
+    reviewed = exception and hashlib.sha256(content).hexdigest() == exception['sha256'] and (date, count, total, sum(r['value_raw'] for r in rows)) == (
+        exception['report_date'], exception['count'], exception['cover'], exception['row_sum'])
+    if len(rows) != count or (abs(difference) > max(1, count / 2) and not reviewed):
         raise ValueError(f'Cover mismatch: {metadata["accessionNumber"]}: {len(rows)}/{count}, {difference}')
     return dict(metadata, rows=rows, reported_count=count, reported_total_raw=total,
                 cover_difference_raw=difference, schema_version=xml_value(cover, 'schemaVersion'),
+                cover_exception=exception if reviewed else None,
                 amendment_type=xml_value(cover, 'amendmentType').upper(),
+                confidential_omitted_raw=xml_value(cover, 'isConfidentialOmitted'),
                 confidential_omitted=xml_value(cover, 'isConfidentialOmitted').lower() in ('true', 'y'),
+                other_manager_definitions=[{child.tag.split('}')[-1]: (child.text or '').strip()
+                                            for child in entry.iter() if len(child) == 0}
+                                           for entry in cover.iter() if entry.tag.split('}')[-1] == 'otherManager2'],
                 sha256=hashlib.sha256(content).hexdigest())
 
 
 def fetch_manager(key, stage, cutoff):
-    title, name, cik = MANAGERS[key]
-    url = f'https://data.sec.gov/submissions/CIK{cik:010d}.json'
-    content = request(url)
-    submissions = json.loads(content)
-    # Fresh submissions on each explicit fetch; immutable accession documents are reusable.
-    (stage / f'{key}-submissions.json').write_bytes(content)
-    recent = submissions['filings']['recent']
+    title, name, cik = ALL_MANAGERS[key]
+    lineage = CIK_LINEAGES.get(key, [{'cik': cik, 'holdings_from': '2022-12-31', 'holdings_to': cutoff}])
     items = []
-    for i, form in enumerate(recent['form']):
-        date = recent['reportDate'][i]
-        if form in ('13F-HR', '13F-HR/A', '13F-NT', '13F-NT/A') and '2022-12-31' <= date <= cutoff:
-            items.append({k: recent[k][i] for k in ('form', 'reportDate', 'filingDate', 'accessionNumber', 'acceptanceDateTime')})
-    if not any(f['reportDate'] == '2022-12-31' for f in items):
+    submission_sources = []
+    excluded = []
+    for link in lineage:
+        filer_cik = link['cik']
+        url = f'https://data.sec.gov/submissions/CIK{filer_cik:010d}.json'
+        content = request(url)
+        submissions = json.loads(content)
+        filename = f'{key}-submissions.json' if filer_cik == cik else f'{key}-{filer_cik}-submissions.json'
+        (stage / filename).write_bytes(content)
+        submission_sources.append({'path': filename, 'source': url, 'sha256': hashlib.sha256(content).hexdigest()})
+        tables = [submissions['filings']['recent']]
         for archive in submissions['filings'].get('files', []):
-            if archive['filingFrom'] > '2023-05-31' or archive['filingTo'] < '2023-01-01':
+            if archive['filingFrom'] > cutoff[:4] + '-12-31' or archive['filingTo'] < '2023-01-01':
                 continue
-            old = json.loads(request('https://data.sec.gov/submissions/' + archive['name']))
-            for i, form in enumerate(old['form']):
-                date = old['reportDate'][i]
+            archive_url = 'https://data.sec.gov/submissions/' + archive['name']
+            archive_content = request(archive_url)
+            filename = archive['name']
+            (stage / filename).write_bytes(archive_content)
+            submission_sources.append({'path': filename, 'source': archive_url, 'sha256': hashlib.sha256(archive_content).hexdigest()})
+            tables.append(json.loads(archive_content))
+        for table in tables:
+            for i, form in enumerate(table['form']):
+                date = table['reportDate'][i]
                 if form.startswith('13F') and '2022-12-31' <= date <= cutoff:
-                    items.append({k: old[k][i] for k in ('form', 'reportDate', 'filingDate', 'accessionNumber', 'acceptanceDateTime')})
+                    item = {k: table[k][i] for k in ('form', 'reportDate', 'filingDate', 'accessionNumber', 'acceptanceDateTime')}
+                    item['filer_cik'] = filer_cik
+                    if form.startswith('13F-HR') and not link['holdings_from'] <= date <= link['holdings_to']:
+                        excluded.append(dict(item, reason='Overlapping filer outside reviewed holdings lineage; not summed twice'))
+                    else:
+                        items.append(item)
     results = []
     for f in sorted({x['accessionNumber']: x for x in items}.values(), key=lambda x: (x['filingDate'], x['accessionNumber'])):
         acc = f['accessionNumber']
-        f['url'] = f'https://www.sec.gov/Archives/edgar/data/{cik}/{acc.replace("-", "")}/{acc}.txt'
+        f['url'] = f'https://www.sec.gov/Archives/edgar/data/{f["filer_cik"]}/{acc.replace("-", "")}/{acc}.txt'
         file = stage / 'sec' / f'{acc}.txt'
         if not file.exists():
             save_new(file, request(f['url']))
@@ -127,7 +171,8 @@ def fetch_manager(key, stage, cutoff):
             results.append(dict(f, rows=[], notice=True))
         else:
             results.append(parse_filing(file.read_bytes(), f))
-    data = {'institution': key, 'title': title, 'name': name, 'cik': cik, 'filings': results}
+    data = {'institution': key, 'title': title, 'name': name, 'cik': cik, 'filings': results,
+            'cik_lineage': lineage, 'submission_evidence_list': submission_sources, 'excluded_lineage_filings': excluded}
     (stage / f'{key}-fetched.json').write_bytes(json_bytes(data))
     print(key, len(results), 'filings', flush=True)
     return data
@@ -144,6 +189,13 @@ def normalized_class(row):
         return 'COM'
     if row['cusip'] in ('067901108', '06849F108'):
         return 'COM'
+    if row['cusip'] in ('13645T100', '13646K108', '44267D107', '44267T102', '15961R105', '15961R303'):
+        return 'COM'
+    if row['cusip'] in ('G0370L116', 'G4124C117'):
+        return 'WARRANT EXP 2026-12-01'
+    if row['cusip'] in ('83542D102', '83542D300', '549498103', '549498202',
+                        '654110105', '654110303', '86800U104', '86800U302', '00165C104', '00165C302'):
+        return 'COM'
     if row['cusip'] in ('531229854', '531229755'):
         return 'COM LBTY ONE S C'
     if row['cusip'] in ('531229409', '531229813'):
@@ -154,7 +206,8 @@ def normalized_class(row):
         return 'COM SER A'
     if row['cusip'] in ('531229722', '530909308'):
         return 'COM SHS SER C'
-    aliases = {'47215P106': 'SPON ADS CL A', '02376R102': 'COM',
+    aliases = {'47215P106': 'SPON ADS CL A', '02376R102': 'COM', '65290E101': 'COM',
+               '833445109': 'COMMON STOCK', '82509L107': 'CL A SUB VTG SHS', '770700102': 'CL A',
                '81369Y605': 'FINANCIAL', '526057302': 'CL B'}
     if row['cusip'] in aliases:
         return aliases[row['cusip']]
@@ -165,7 +218,12 @@ def identity(row):
     cusip = {'Y95308105': '94352A104', '512807108': '512807306',
              '531229854': '531229755', '531229409': '531229813',
              '531229607': '531229789', '067901108': '06849F108',
-             '531229748': '530909100', '531229722': '530909308'}.get(row['cusip'], row['cusip'])
+             '531229748': '530909100', '531229722': '530909308',
+             '13645T100': '13646K108', '44267D107': '44267T102',
+             '15961R105': '15961R303', 'G0370L116': 'G4124C117',
+             '83542D102': '83542D300', '549498103': '549498202',
+             '654110105': '654110303', '86800U104': '86800U302',
+             '00165C104': '00165C302'}.get(row['cusip'], row['cusip'])
     return (cusip, normalized_class(row), row['put_call'].strip().upper())
 
 
@@ -180,6 +238,9 @@ def aggregate(rows):
                 raise ValueError(f'Incompatible share units: {key}')
             out[key]['shares'] += row['shares']
             out[key]['value'] += row['value']
+            out[key]['other_managers'] = sorted(set(out[key].get('other_managers', [])) | set(row.get('other_managers', [])))
+            if row.get('value_reliable') is False:
+                out[key].update(value_reliable=False, value_issue=row.get('value_issue', 'Unreliable source value'))
     return out
 
 
@@ -231,12 +292,14 @@ def security(data, row):
 def label(data, row):
     s = security(data, row)
     name = f"{s['ticker']}（{s['name']}）" if s.get('ticker') else row['issuer']
-    if re.search(r'\b(?:ADR|ADS)\b', row['security_class'], re.I):
+    if re.search(r'\b(?:ADR|ADS|AMERICAN DEPOSIT|DEPOSITARY SHARE)\b', row['security_class'], re.I):
         name += ' [ADR/ADS]'
     elif re.search(r'(?:N ?Y|NEW YORK).*REG', row['security_class'], re.I):
         name += ' [纽约登记股]'
     elif re.search(r'\b(?:ISHARES|SPDR|INVESCO|VANECK|PROSHARES|DIREXION|ETF)\b|EXCHANGE TRADED', row.get('issuer',''), re.I):
         name += ' [ETF]'
+    if re.search(r'\b(?:W EXP|WTS?|WARRANT)\b', row.get('security_class', ''), re.I):
+        name += ' [权证]'
     return name + (f" {row['put_call']}" if row['put_call'] else '')
 
 
@@ -252,7 +315,31 @@ def matches_ticker(data, row, ticker):
 
 
 def special_disclosure(row):
-    return row['cusip'] in ('T19377109', '84615Q103')
+    return row['cusip'] in ('T19377109', '84615Q103', '15675D103', '71531U102')
+
+
+def exclusion_reason(data, row):
+    if row.get('value_reliable') is False:
+        return row.get('value_issue', '申报金额待核')
+    if row['put_call']:
+        return 'PUT/CALL标的名义值不能作为正股成本或净敞口'
+    if row['share_type'] != 'SH':
+        return '非股数工具'
+    if re.search(r'\b(?:W EXP|WTS?|WARRANT|PFD|PREF|NOTE|UNIT|RIGHTS?)\b', row.get('security_class', ''), re.I):
+        return '认股权证、优先股或组合单位需独立核验'
+    if special_disclosure(row):
+        return '关联持股、上市分配或跨机构估值口径需单列核验'
+    s = security(data, row)
+    return s.get('comparability_exclusion', '')
+
+
+def comparable(data, row):
+    return not exclusion_reason(data, row)
+
+
+def ordinary_slice(q):
+    rows = {k: r for k, r in q['rows'].items() if not k[2]}
+    return dict(q, rows=rows, total=sum(r['value'] for r in rows.values()))
 
 
 def split_factor(data, row, start, end):
@@ -279,7 +366,15 @@ def conversion(data, prev, curr):
             'value':sum(prev['rows'][k]['value'] for k in sources)}
 
 
+def uncertain_action(data, prev, curr, key):
+    return next((event for event in data.get('uncertain_corporate_actions', [])
+                 if event['start'] == prev['date'] and event['end'] == curr['date']
+                 and key[0] in event['cusips']), None)
+
+
 def change(data, prev, curr, key):
+    if uncertain_action(data, prev, curr, key):
+        return 0, None  # No directional trade inference across unresolved conversions.
     exchange = conversion(data,prev,curr)
     if exchange and key == exchange['target']:
         q0,q1=exchange['shares'],curr['rows'][key]['shares']
@@ -292,8 +387,9 @@ def change(data, prev, curr, key):
     return q1 - q0, q1 / q0 - 1 if q0 else None
 
 
-def attribution(data, prev, curr, options=False):
-    active = price = 0.
+def attribution_breakdown(data, prev, curr, options=False):
+    active = price = unattributed = 0.
+    issues = []
     exchange = conversion(data,prev,curr) if not options else None
     skip = set()
     if exchange:
@@ -306,6 +402,18 @@ def attribution(data, prev, curr, options=False):
         if bool(key[2]) != options or key in skip:
             continue
         old, new = prev['rows'].get(key), curr['rows'].get(key)
+        action = uncertain_action(data, prev, curr, key)
+        if action:
+            delta = (new['value'] if new else 0) - (old['value'] if old else 0)
+            unattributed += delta
+            issues.append({'identity': list(key), 'value_change': delta, 'reason': action['reason'], 'source': action['source']})
+            continue
+        if any(r and r.get('value_reliable') is False for r in (old, new)):
+            delta = (new['value'] if new else 0) - (old['value'] if old else 0)
+            unattributed += delta
+            issues.append({'identity': list(key), 'value_change': delta,
+                           'reason': next(r.get('value_issue', 'Unreliable source value') for r in (old, new) if r and r.get('value_reliable') is False)})
+            continue
         if not old:
             active += new['value']
         elif not new:
@@ -317,7 +425,14 @@ def attribution(data, prev, curr, options=False):
             price += new['value'] - new['shares'] * p0
         else:
             active += new['value'] - old['value']
-    return active, price
+    return {'active': active, 'price': price, 'unattributed': unattributed,
+            'total_change': active + price + unattributed, 'issues': issues}
+
+
+def attribution(data, prev, curr, options=False):
+    """Legacy two-term API; consumers needing source anomalies use breakdown."""
+    result = attribution_breakdown(data, prev, curr, options)
+    return result['active'], result['price']
 
 
 def top(q, n=10):
@@ -353,7 +468,7 @@ def money(value):
 
 def price_cells(data, row, anchor_date):
     ticker = security(data, row).get('ticker', '')
-    if row['put_call'] or row['share_type'] != 'SH' or special_disclosure(row):
+    if not comparable(data, row):
         return ('单列工具/披露核验', 'N/A', 'N/A', '不直接用该申报隐含价判断可复制性')
     if not row['shares']:
         return ('N/A', 'N/A', 'N/A', '缺少可用股数')
@@ -375,7 +490,8 @@ def price_cells(data, row, anchor_date):
         verdict = '下跌不证明便宜，先核对经营论点'
     else:
         verdict = '价格未明显阻碍，仍需经营与估值验证'
-    return (f'${anchor:.2f}', f'${p:.2f}（{quote.get("price_date", "时间缺失")}）', f'{move:+.1%}', verdict)
+    stamp = quote.get('price_timestamp_utc') + ' 盘后' if quote.get('price_basis') == 'latest_trade' else quote.get('price_date', '时间缺失') + ' 收盘'
+    return (f'${anchor:.2f}', f'${p:.2f}（{stamp}）', f'{move:+.1%}', verdict)
 
 
 def selected_keys(data, quarters):
@@ -391,6 +507,8 @@ def selected_keys(data, quarters):
 
 
 def format_change(data, prev, curr, key):
+    if uncertain_action(data, prev, curr, key):
+        return '公司行动待核，不作交易方向判断'
     diff, rate = change(data, prev, curr, key)
     exchange=conversion(data,prev,curr)
     if exchange and key==exchange['target']:
@@ -408,14 +526,15 @@ def render(data, quarters):
     latest, previous = quarters[-1], quarters[-2]
     shown = [q for q in quarters if q['date'] >= '2023-01-01']
     editorial = data['editorial']
-    active, market = attribution(data, previous, latest)
+    breakdown = attribution_breakdown(data, previous, latest)
+    active, market = breakdown['active'], breakdown['price']
     oa, op = attribution(data, previous, latest, True)
     qname = quarter(latest['date'])
     title = 'H&H' if data['title'] == 'HH' else data['title']
     out = [f'---\ntype: institution-13f-single-trend\nstatus: active\nupdated: {data["as_of"]}\nlatest_quarter: {qname}\ninstitution: {data["name"]}\n---\n',
            f'# 13F趋势-{title}\n',
            f'核验日期：{data["as_of"]}。最新报告期：{latest["date"]}；最新相关申报日：{latest["filings"][-1]["filingDate"]}。SEC CIK：{data["cik"]}。',
-           f'\n机构背景见 [[institutions/{data["name"]}]]；本季五家横向对照见 [[institutions/13F趋势-{qname}]]。',
+           f'\n机构背景见 [[institutions/{data["name"]}]]；本季机构横向对照见 [[institutions/13F趋势-{qname}]]。',
            '\n## 结论先行\n', editorial['summary'],
            f'\n最新信息表标准化加总 {money(latest["total"])}，较上季 {latest["total"] / previous["total"] - 1:+.2%}；普通证券股数项 {money(active)}、价格项 {money(market)}。期权另列股数项 {money(oa)}、价格项 {money(op)}。这些是季度端点分解，不是投资收益或实际买卖现金额。',
            '\n## 数据口径\n',
@@ -428,12 +547,17 @@ def render(data, quarters):
            '- 拆股核验覆盖研究候选、历史前十与相邻期隐含价异常的标的；尚未逐一核验的小仓位列在来源审计中，历史股数项仍需结合公司行动复核。',
            '- 行情仅用于季末之后的价格过滤，写明价格日；获取失败为N/A，不补零。价格上涨不倒推加仓动机。',
            '- 13F缺少现金、空头、绝大多数非美证券与完整衍生品；无法据此判断申赎、真实成交价或今天的持仓。']
+    if breakdown['issues']:
+        out += [f'- 公司行动或金额异常的未归因变化 {money(breakdown["unattributed"])} 单列保留，不塞进主动项或价格项。']
+        out += ['- ' + issue['reason'] for issue in breakdown['issues']]
     out += ['- ' + n for n in editorial.get('notes', [])]
     if data['institution']=='berkshire':
         out += ['- 2024Q3 Sirius三合一换股：旧SIRI按0.1、LSXMA/LSXMK按0.8375折为新SIRI，先合并基期等值股数和申报值再分解；未还原零股现金与交易时点，不能把新CUSIP全额视为买入。2025Q4 Liberty Live A/C股1:1换号保留连续轨迹。证据见来源审计的冻结后补核附录。']
     unresolved = data.get('audit', {}).get('unresolved_splits', [])
     if unresolved:
-        out += ['- 待核公司行动：' + '；'.join(map(str, unresolved)) + '；相关历史股数变化仅作原始申报比较。']
+        out += ['- 历史公司行动资料未齐：' + '；'.join(
+            f'{item.get("ticker") or item["cusip"]} {quarter(item["start"])}→{quarter(item["end"])}'
+            for item in unresolved) + '；这些区间保留原始股数，股数项仅作机械比较。具体缺口见来源审计。']
     out += ['\n### 金额与修订审计\n', '| 报告期 | 申报 | 原始封面值 | 标准化倍率 | 原始行和减封面 | 类型 |', '|---|---|---:|---:|---:|---|']
     for f in reversed(data['filings']):
         if f.get('notice'):
@@ -441,14 +565,25 @@ def render(data, quarters):
             continue
         out.append(f'| {quarter(f["reportDate"])} | [{f["accessionNumber"]}]({f["url"]}) | {f["reported_total_raw"]:,} | {f["unit_multiplier"]:g} | {f["cover_difference_raw"]:+,} | {f.get("amendment_type") or "原报"} |')
     out += ['\n金额倍率依据及拆股/换号原文见来源审计；差额保留，不改原值凑平。',
-            '\n## 集中度和组合骨架\n', '| 季度 | 申报行和 | 非期权/期权项 | 前五证券 | 前十证券 | 普通证券股数项 | 普通证券价格项 |', '|---|---:|---:|---:|---:|---:|---:|']
+            '\n## 集中度和组合骨架\n', '| 季度 | 申报行和 | 非期权/期权项 | 前五证券 | 前十证券 | 非期权股数项 | 非期权价格项 | 未归因项 |', '|---|---:|---:|---:|---:|---:|---:|---:|']
     for q in reversed(shown):
         prev = quarters[quarters.index(q) - 1]
-        a, p = attribution(data, prev, q)
+        parts = attribution_breakdown(data, prev, q)
+        a, p = parts['active'], parts['price']
         ordinary = sum(not k[2] for k in q['rows'])
-        out.append(f'| {quarter(q["date"])} | {money(q["total"])} | {ordinary}/{len(q["rows"]) - ordinary} | {sum(weight(q,k) for k in top(q,5)):.2f}% | {sum(weight(q,k) for k in top(q)):.2f}% | {money(a)} | {money(p)} |')
+        out.append(f'| {quarter(q["date"])} | {money(q["total"])} | {ordinary}/{len(q["rows"]) - ordinary} | {sum(weight(q,k) for k in top(q,5)):.2f}% | {sum(weight(q,k) for k in top(q)):.2f}% | {money(a)} | {money(p)} | {money(parts["unattributed"])} |')
     out += ['\n前五/前十按证券类别计算；Alphabet的A/C股在此分开。小数由未取整值计算。',
             f'\n## {qname}主要持仓与变化\n', '| 标的 | Q2原始股数/份额 | Q3原始股数/份额 | 调整后变化 | Q3占比 | 权重变化 |', '|---|---:|---:|---:|---:|---:|']
+    if any(k[2] for q in shown for k in q['rows']):
+        # An option-heavy report needs an ordinary-security denominator as well.
+        offset = out.index(f'\n## {qname}主要持仓与变化\n')
+        ordinary_lines = ['\n### 非期权证券集中度\n',
+                          '以下分母只含非期权证券（仍包含特殊上市及关联持股）；与上方全信息表口径并列，不能视为净资产占比。',
+                          '| 季度 | 非期权金额 | 期权标的名义值 | 非期权前五 | 非期权前十 |', '|---|---:|---:|---:|---:|']
+        for q in reversed(shown):
+            oq = ordinary_slice(q)
+            ordinary_lines.append(f'| {quarter(q["date"])} | {money(oq["total"])} | {money(q["total"]-oq["total"])} | {sum(weight(oq,k) for k in top(oq,5)):.2f}% | {sum(weight(oq,k) for k in top(oq)):.2f}% |')
+        out[offset:offset] = ordinary_lines
     allkeys = set(latest['rows']) | set(previous['rows'])
     order = sorted(allkeys, key=lambda k: (-max(weight(latest, k), weight(previous, k)), k))
     for key in order:
@@ -486,8 +621,8 @@ def render(data, quarters):
         union = set(q['rows']) | set(p['rows'])
         added = [k for k in union if not k[2] and k in q['rows'] and k in p['rows'] and change(data,p,q,k)[0] > 0]
         reduced = [k for k in union if not k[2] and k in q['rows'] and k in p['rows'] and change(data,p,q,k)[0] < 0]
-        entered = [k for k in q['rows'] if not k[2] and k not in p['rows']]
-        exited = [k for k in p['rows'] if not k[2] and k not in q['rows']]
+        entered = [k for k in q['rows'] if not k[2] and k not in p['rows'] and not uncertain_action(data,p,q,k)]
+        exited = [k for k in p['rows'] if not k[2] and k not in q['rows'] and not uncertain_action(data,p,q,k)]
         out += [f'\n### {quarter(q["date"])}\n',
                 f'非期权证券：新列示{len(entered)}项、增股{len(added)}项、减股{len(reduced)}项、不再列示{len(exited)}项。']
         exchange=conversion(data,p,q)
@@ -503,19 +638,22 @@ def render(data, quarters):
                 row = q['rows'].get(k) or p['rows'][k]
                 bits.append(f'{label(data,row)} {format_change(data,p,q,k)}')
             out.append(f'- {heading}：' + ('；'.join(bits) or '无') + '。')
-        a, pr = attribution(data,p,q)
-        out.append(f'- 普通证券股数项{money(a)}、价格项{money(pr)}；总市值变化不能直接解释为收益或资金流。')
+        parts = attribution_breakdown(data,p,q)
+        suffix = f'、公司行动或金额异常未归因项{money(parts["unattributed"])}' if parts['issues'] else ''
+        out.append(f'- 普通证券股数项{money(parts["active"])}、价格项{money(parts["price"])}{suffix}；总市值变化不能直接解释为收益或资金流。')
+        for reason in sorted({issue['reason'] for issue in parts['issues']}):
+            out.append('- ' + reason)
     out += ['\n## 用机构方法重新读\n', editorial['method']]
     if editorial.get('legacy_method'):
         out += ['\n### 既有方法分析\n', '以下保留此前的方法讨论；最新季度数字以本页重核数据为准。\n', editorial['legacy_method']]
-    out += ['\n## 最近一季可抄作业 / 趋势跟踪排序\n',
-            '这是有顺序的研究候选，不是买入指令。先按机构方法与本季股数动作选出观察顺序，再按季末后涨幅分层：≤10%、10%–25%、25%–50%、>50%；行情缺失或过期放在第三层待核，同层保留观察顺序。此排序为研究启发式，并非回测过的交易规则；下跌不等于便宜。报价使用所列日期纽约常规交易时段收盘价。IPO及披露估值口径不稳定的证券单列观察。',
-            '| 优先级 | 标的/资产线 | 13F证据 | 方法解释 | 季末隐含价 | 核验收盘价 | 季末后涨幅 | 研究结论 | 下一步验证 |',
+    out += ['\n## ' + editorial.get('ranking_title', '最近一季可抄作业 / 趋势跟踪排序') + '\n',
+            '这是有顺序的研究候选，不是买入指令。先按机构方法与本季股数动作选出观察顺序，再按季末后涨幅分层：≤10%、10%–25%、25%–50%、>50%；行情缺失或过期放在第三层待核，同层保留观察顺序。此排序为研究启发式，并非回测过的交易规则；下跌不等于便宜。报价逐项注明交易日期与收盘/盘后口径，盘后成交使用UTC时间，不冒充收盘价；来源和抓取时间见页末。IPO及披露估值口径不稳定的证券单列观察。',
+            '| 优先级 | 标的/资产线 | 13F证据 | 方法解释 | 季末隐含价 | 核验价 | 季末后涨幅 | 研究结论 | 下一步验证 |',
             '|---:|---|---|---|---:|---:|---:|---|---|']
     ranked, special = [], []
     for base_rank, ticker in enumerate(editorial['candidates']):
         key = next((k for k,r in latest['rows'].items() if not k[2] and matches_ticker(data,r,ticker)), None)
-        if key is not None and special_disclosure(latest['rows'][key]):
+        if key is not None and not comparable(data, latest['rows'][key]):
             special.append((ticker,key))
             continue
         layer = 2
@@ -533,7 +671,7 @@ def render(data, quarters):
             continue
         row = latest['rows'][key]
         anchor, current, move, verdict = price_cells(data, row, latest['date'])
-        method = '长期核心的增量研究' if data['institution'] in ('berkshire','himalaya','hh') else '条件性趋势/相对机会成本'
+        method = editorial.get('candidate_method') or ('长期核心的增量研究' if data['institution'] in ('berkshire','himalaya','hh','fundsmith') else '条件性趋势/相对机会成本')
         out.append(f'| {index} | {label(data,row)} | {format_change(data,previous,latest,key)}；{weight(latest,key):.2f}% | {method} | {anchor} | {current} | {move} | {verdict} | {editorial["next_checks"].get(ticker,"核对经营与估值")} |')
     if special:
         out += ['\n### IPO及特殊披露观察\n', '| 发行人 | 13F证据 | 后续核验 |', '|---|---|---|']
@@ -544,7 +682,7 @@ def render(data, quarters):
     if not editorial['reverse']:
         out.append('本季没有减股或退出；不制造卖出侧结论。继续观察原有核心是否维持，而非把权重自然下降当作卖出。')
     else:
-        out += ['| 标的 | 当季动作 | 价格锚日期 | 隐含价 | 核验收盘价 | 此后涨幅 | 待验证 |', '|---|---|---|---:|---:|---:|---|']
+        out += ['| 标的 | 当季动作 | 价格锚日期 | 隐含价 | 核验价 | 此后涨幅 | 待验证 |', '|---|---|---|---:|---:|---:|---|']
         for ticker in editorial['reverse']:
             key = next((k for k in order if not k[2] and matches_ticker(data, latest['rows'].get(k) or previous['rows'][k],ticker)), None)
             if key is None:
@@ -567,7 +705,10 @@ def render(data, quarters):
             continue
         if ticker_alias(ticker) not in {ticker_alias(t) for t in editorial['candidates'] + editorial['reverse']}:
             continue
-        out.append(f'- {ticker}：[行情来源]({quote.get("source", "https://finance.yahoo.com/")})；价格日{quote.get("price_date") or "N/A"}；抓取{quote.get("fetched_at") or "N/A"}；' + (f'失败原因：{quote.get("error")}' if not quote.get('price') else 'USD收盘价。'))
+        source = quote.get('source', '来源未提供')
+        source_label = f'[行情来源]({source})' if source.startswith('https://') else source + '，原始工具响应已归档并记录SHA256'
+        basis = ('USD盘后成交，UTC时间' + quote.get('price_timestamp_utc', 'N/A')) if quote.get('price_basis') == 'latest_trade' else 'USD收盘价'
+        out.append(f'- {ticker}：{source_label}；价格日{quote.get("price_date") or "N/A"}；抓取{quote.get("fetched_at") or "N/A"}；' + (f'失败原因：{quote.get("error")}' if not quote.get('price') else basis + '。'))
     return '\n'.join(out) + '\n'
 
 
@@ -582,7 +723,7 @@ def main():
     parser.add_argument('--snapshot-dir')
     args = parser.parse_args()
     keys = args.institutions.split(',')
-    if any(k not in MANAGERS for k in keys):
+    if any(k not in ALL_MANAGERS for k in keys):
         parser.error('Unknown institution')
     if args.action == 'fetch':
         import calendar

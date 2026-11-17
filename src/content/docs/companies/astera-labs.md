@@ -35,6 +35,16 @@ Gavin 说自己最早在 C 轮投资 Astera。`2021-09-27` 的 C 轮公告确认
 
 需要保留两条边界。第一，公司不披露 Aries、Taurus、Leo、Scorpio 收入，Scorpio X-Series 仍处初始出货，P-Series 更广泛放量主要指向 `2026H2-2027`，因此“交换机成为最大产品”尚未证实。第二，[13F趋势-Atreides](/investor-masters/institutions/13f-trends-atreides/) 显示 `ALAB` 在 `2026Q2` 仍约为 `$587.7m`、`1.217m` 股，但股数较上季减少 `63.8%`。价格上涨掩盖了大幅主动减仓；这仍只是 Atreides 控制账户的季度末公开多头切片，不是 Gavin 个人账户，也看不见空头、私募、完整期权和季度内交易。
 
+## 2026Q3 13F 联动
+
+下表补充 Atreides、Coatue、Altimeter、Fundsmith、Pershing 五家中列示该证券的账户，比较 2026-06-30 与 2026-09-30 的 SEC 股数；Q3 均于 2026-11-16 披露。权重按各机构申报证券合计值计算，排名包含其已申报期权或特殊证券，不能当作基金净值排名。
+
+| 机构 / 证券 | Q2 → Q3 股数或份额 | 股数变化 | Q3 权重 | 申报前十状态 |
+|---|---:|---:|---:|---|
+| [Atreides](/investor-masters/institutions/13f-trends-atreides/) / ALAB | 1,216,795 → 2,459,106 | +102.10% | 4.865% | 留在前十 |
+
+Atreides 在 Q2 大幅减股后，本季又增股 102.10%，因此应将旧段落中的 Q2 行为保留为历史记录。它证明仓位方向反转，不能据此认定公司的客户集中或产品风险已经消失。
+
 ## 分歧与共识
 
 **共识**：AI 机架密度上升使连接从附属器件变成系统瓶颈，Astera 已用收入增长、毛利率和多产品路线证明需求真实；把公司简化为“铜缆标的”会漏掉 Scorpio 交换和 COSMOS 管理层。
@@ -59,3 +69,5 @@ Gavin 说自己最早在 C 轮投资 Astera。`2021-09-27` 的 C 轮公告确认
 - [Astera Labs 2026 Proxy](https://www.sec.gov/Archives/edgar/data/1736297/000114036126016359/ny20065212x1_def14a.htm)
 - Gavin Baker-Atreides Management-科技周期与物理瓶颈-source-audit
 - [13F趋势-Atreides](/investor-masters/institutions/13f-trends-atreides/)
+- [Atreides 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1777813/000177781326000009/0001777813-26-000009.txt)
+- [Atreides 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1777813/000177781326000013/0001777813-26-000013.txt)

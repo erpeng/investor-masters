@@ -37,6 +37,20 @@ Netflix 的价值不该只从 GAAP 利润表读。市场一度给 Netflix 每个
 
 Pershing Square 新建 `13,081,465` 股，季末市值约 `$934m`、占公开组合 `4.80%`，列第十一。它与 Visa、Mastercard、S&P Global 的同步新建，延续了阿克曼偏好高毛利、轻资产、经常性收费平台的语言。参见 [13F趋势-Pershing](/investor-masters/institutions/13f-trends-pershing/)。
 
+## 2026Q3 13F 联动
+
+下表补充 Atreides、Coatue、Altimeter、Fundsmith、Pershing 五家中列示该证券的账户，比较 2026-06-30 与 2026-09-30 的 SEC 股数；Q3 均于 2026-11-16 披露。权重按各机构申报证券合计值计算，排名包含其已申报期权或特殊证券，不能当作基金净值排名。Pershing 的 Q2 已合并 11 月 16 日补报的 NEW HOLDINGS。
+
+| 机构 / 证券 | Q2 → Q3 股数或份额 | 股数变化 | Q3 权重 | 申报前十状态 |
+|---|---:|---:|---:|---|
+| [Coatue](/investor-masters/institutions/13f-trends-coatue/) / NFLX | 4,710,420 → 4,710,420 | +0.00% | 0.601% | 前十之外 |
+| [Fundsmith](/investor-masters/institutions/13f-trends-fundsmith/) / NFLX | 6,990,345 → 6,838,582 | -2.17% | 3.682% | 前十之外 |
+| [Pershing](/investor-masters/institutions/13f-trends-pershing/) / NFLX | 13,081,465 → 15,412,744 | +17.82% | 3.482% | 进入前十 |
+
+Pershing 在 Q2 首次列示后，本季继续增加 17.82% 并进入前十。上方 Q2 段落保留当时原始披露的 4.80% 权重；补入 PS 关联股份后，NFLX 的 Q2 权重应为约 3.66%。本季股数增加，但 Q3 权重为 3.48%，不能把权重下降误读成主动减股。
+
+Pershing 权重以包含 PS 关联主体股份的完整申报为分母；它不是 PSH 的净值权重，也不是所有账户合并后的净敞口。
+
 ## 相关页面
 
 - [比尔·尼格伦](/investor-masters/investors/bill-nygren/)
@@ -48,3 +62,10 @@ Pershing Square 新建 `13,081,465` 股，季末市值约 `$934m`、占公开组
 ## 主要来源
 
 - [2.5万字｜比尔·尼格伦最新长谈，一位25年长期跑赢大盘的传奇投资人，如何与时俱进的价值投资……已付费](/investor-masters/sources/source-04/)
+- [Coatue 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1135730/000091957426005478/0000919574-26-005478.txt)
+- [Coatue 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1135730/000091957426007862/0000919574-26-007862.txt)
+- [Fundsmith 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1569205/000156920526000012/0001569205-26-000012.txt)
+- [Fundsmith 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1569205/000156920526000014/0001569205-26-000014.txt)
+- [Pershing 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/2026053/000117266126003790/0001172661-26-003790.txt)
+- [Pershing 2026Q2 SEC 补充申报](https://www.sec.gov/Archives/edgar/data/2026053/000117266126005426/0001172661-26-005426.txt)
+- [Pershing 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/2026053/000117266126005427/0001172661-26-005427.txt)

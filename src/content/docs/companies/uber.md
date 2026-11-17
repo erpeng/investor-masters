@@ -44,6 +44,21 @@ Appaloosa 与 Pershing 分别增持 UBER `21.5%`、`14.6%`，Dorsey 增持 `61.6
 
 因此 Q2 的信号是“质量/集中型资金明显承接，但并非一致共识”。它强化了平台现金流、网络密度和本地服务经营杠杆这条研究线，却不能由 13F 反推出机构对自动驾驶终局的具体判断。完整比较见 [13F趋势-2026Q2](/investor-masters/institutions/13f-trends-2026-q2/)。
 
+## 2026Q3 13F 联动
+
+下表补充 Atreides、Coatue、Altimeter、Fundsmith、Pershing 五家中列示该证券的账户，比较 2026-06-30 与 2026-09-30 的 SEC 股数；Q3 均于 2026-11-16 披露。权重按各机构申报证券合计值计算，排名包含其已申报期权或特殊证券，不能当作基金净值排名。Pershing 的 Q2 已合并 11 月 16 日补报的 NEW HOLDINGS。
+
+| 机构 / 证券 | Q2 → Q3 股数或份额 | 股数变化 | Q3 权重 | 申报前十状态 |
+|---|---:|---:|---:|---|
+| [Coatue](/investor-masters/institutions/13f-trends-coatue/) / UBER | 0 → 5,909 | 首次列示 | 0.001% | 前十之外 |
+| [Altimeter](/investor-masters/institutions/13f-trends-altimeter/) / UBER | 7,372,440 → 8,807,790 | +19.47% | 5.853% | 留在前十 |
+| [Fundsmith](/investor-masters/institutions/13f-trends-fundsmith/) / UBER | 8,943,151 → 8,931,422 | -0.13% | 4.735% | 留在前十 |
+| [Pershing](/investor-masters/institutions/13f-trends-pershing/) / UBER | 34,326,200 → 34,268,279 | -0.17% | 7.623% | 留在前十 |
+
+Altimeter 增股 19.47%，Fundsmith 与 Pershing 的股数仅小幅减少。Pershing 仍保留约 7.62% 的全申报权重，属于现有核心持仓，不能把“核心仍在”记为本季买入信号。
+
+Pershing 权重以包含 PS 关联主体股份的完整申报为分母；它不是 PSH 的净值权重，也不是所有账户合并后的净敞口。
+
 ## 分歧与共识
 
 这页的共识是：Uber 不会缺席自动驾驶时代，也不只是一个传统出行公司。分歧在于价值到底落在哪里：Cathie 更担心它只是 Robotaxi 的入口层；Dorsey 和 Pershing 更看重网络密度、现金流和平台经营杠杆；Altimeter 把它放进 AI 平台迁移后的公开组合骨架；Appaloosa 则把它当作风险偏好从中国政策交易切回美国平台股时的承接腿。
@@ -65,3 +80,15 @@ Appaloosa 与 Pershing 分别增持 UBER `21.5%`、`14.6%`，Dorsey 增持 `61.6
 - [Fundsmith](/investor-masters/institutions/fundsmith/)
 - [Kensico Capital Management](/investor-masters/institutions/kensico-capital-management/)
 - [13F趋势-2026Q2](/investor-masters/institutions/13f-trends-2026-q2/)
+
+## 主要来源
+
+- [Coatue 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1135730/000091957426005478/0000919574-26-005478.txt)
+- [Coatue 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1135730/000091957426007862/0000919574-26-007862.txt)
+- [Altimeter 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1541617/000154161726000008/0001541617-26-000008.txt)
+- [Altimeter 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1541617/000154161726000010/0001541617-26-000010.txt)
+- [Fundsmith 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1569205/000156920526000012/0001569205-26-000012.txt)
+- [Fundsmith 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1569205/000156920526000014/0001569205-26-000014.txt)
+- [Pershing 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/2026053/000117266126003790/0001172661-26-003790.txt)
+- [Pershing 2026Q2 SEC 补充申报](https://www.sec.gov/Archives/edgar/data/2026053/000117266126005426/0001172661-26-005426.txt)
+- [Pershing 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/2026053/000117266126005427/0001172661-26-005427.txt)

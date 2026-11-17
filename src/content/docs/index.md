@@ -12,6 +12,8 @@ description: "把分散的投资访谈、合伙人信和机构材料，编译成
 
 ## 从哪里开始
 
+- **看最新公开持仓**：[2026Q3 十家机构横向对照](/investor-masters/institutions/13f-trends-2026-q3/) → 各机构长历史页。增减按股数核对，期权、关联主体和特殊估值另列。
+
 - **好生意还能把钱投到哪里**：[查克·阿克雷](/investor-masters/investors/chuck-akre/) → [再投资跑道](/investor-masters/concepts/reinvestment-runway/) → [Akre Capital Management](/investor-masters/institutions/akre-capital-management/) → [13F趋势-Akre](/investor-masters/institutions/13f-trends-akre/)。同时读交棒后的弱表现与纠错边界。
 
 - **我想了解价值投资**: [沃伦·巴菲特](/investor-masters/investors/warren-buffett/)、[查理·芒格](/investor-masters/investors/charlie-munger/)、[特里·史密斯](/investor-masters/investors/terry-smith/)、[帕特·多尔西](/investor-masters/investors/pat-dorsey/)、[弗朗索瓦·罗雄](/investor-masters/investors/francois-rochon/)、[塞思·卡拉曼](/investor-masters/investors/seth-klarman/)、[李录](/investor-masters/investors/li-lu/)、[尼克·特雷恩](/investor-masters/investors/nick-train/)、[比尔·尼格伦](/investor-masters/investors/bill-nygren/)
@@ -63,6 +65,7 @@ description: "把分散的投资访谈、合伙人信和机构材料，编译成
 
 ## 最近更新
 
+- `2026-11-17` 续更五家机构并重算十家 Q3 对照
 - `2026-11-17` 更新伯克希尔、喜马拉雅、H&H、Duquesne、Appaloosa 的 2026Q3 持仓与趋势。
 - `2026-10-12` Chuck Akre 方法、传承与 13F 专题
 - `2026-08-19` 固化证券身份并完整展示 Q2 持仓
@@ -70,4 +73,3 @@ description: "把分散的投资访谈、合伙人信和机构材料，编译成
 - `2026-08-15` 更新六家机构 2026Q2 13F 趋势
 - `2026-08-14` 更新三家机构 2026Q2 13F 趋势
 - `2026-07-28` Astera Labs 独立公司研究与 Gavin thesis 验证
-- `2026-07-24` 期权策略横向提纯与 Baupost 持仓表升级

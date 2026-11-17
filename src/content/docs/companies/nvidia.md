@@ -62,6 +62,18 @@ Baker 跟踪 Nvidia 超过二十年，但 Atreides 的最新动作不是“长�
 
 研究待验证：客户资本开支的兑现节奏、产品毛利与竞争格局，以及各自组合中替代资产的相对吸引力。
 
+### 第二批五家补充（2026-11-17）
+
+下表补充 Atreides、Coatue、Altimeter、Fundsmith、Pershing 五家中列示该证券的账户，比较 2026-06-30 与 2026-09-30 的 SEC 股数；Q3 均于 2026-11-16 披露。权重按各机构申报证券合计值计算，排名包含其已申报期权或特殊证券，不能当作基金净值排名。
+
+| 机构 / 证券 | Q2 → Q3 股数或份额 | 股数变化 | Q3 权重 | 申报前十状态 |
+|---|---:|---:|---:|---|
+| [Atreides](/investor-masters/institutions/13f-trends-atreides/) / NVDA | 1,249,291 → 1,476,231 | +18.17% | 1.874% | 进入前十 |
+| [Coatue](/investor-masters/institutions/13f-trends-coatue/) / NVDA | 6,055,197 → 6,252,100 | +3.25% | 2.620% | 前十之外 |
+| [Altimeter](/investor-masters/institutions/13f-trends-altimeter/) / NVDA | 9,413,589 → 10,006,069 | +6.29% | 22.167% | 留在前十 |
+
+本批 Atreides、Coatue 和 Altimeter 均增加可见股数。结合上文 H&H 减股、Appaloosa 加股，应读成持仓方向有分歧；Altimeter 的高核心权重也与其他账户的小幅调整不同。
+
 ## 分歧与共识
 
 德鲁肯米勒看的是趋势和仓位，Baillie Gifford 看的是价值链瓶颈，Cathie 看的是 GPU 作为 AI 基础设施潮的直接承接层，特里·史密斯提醒的是“别把涨幅误当理解”，Appaloosa、Altimeter 和 Atreides 则展示了同一 AI 核心腿在不同交易/科技组合里的仓位管理。同一家公司，多种不同的下注语法。
@@ -88,3 +100,9 @@ Baker 跟踪 Nvidia 超过二十年，但 Atreides 的最新动作不是“长�
 - [H&H 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1759760/000175976026000007/0001759760-26-000007.txt)
 - [Appaloosa 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1656456/000165645626000004/0001656456-26-000004.txt)
 - [Appaloosa 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1656456/000165645626000003/0001656456-26-000003.txt)
+- [Atreides 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1777813/000177781326000009/0001777813-26-000009.txt)
+- [Atreides 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1777813/000177781326000013/0001777813-26-000013.txt)
+- [Coatue 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1135730/000091957426005478/0000919574-26-005478.txt)
+- [Coatue 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1135730/000091957426007862/0000919574-26-007862.txt)
+- [Altimeter 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1541617/000154161726000008/0001541617-26-000008.txt)
+- [Altimeter 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1541617/000154161726000010/0001541617-26-000010.txt)

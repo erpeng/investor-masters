@@ -32,6 +32,17 @@ Coatue 在 `2026Q1` 持有 `LRCX` 约 `10.04m` 股、`$2.15bn`，公开 13F 权�
 
 研究待验证：存储与先进制程资本开支的订单兑现、客户集中度及估值。13F 没有提供两家作出相反配置的原因。
 
+### 第二批五家补充（2026-11-17）
+
+下表补充 Atreides、Coatue、Altimeter、Fundsmith、Pershing 五家中列示该证券的账户，比较 2026-06-30 与 2026-09-30 的 SEC 股数；Q3 均于 2026-11-16 披露。权重按各机构申报证券合计值计算，排名包含其已申报期权或特殊证券，不能当作基金净值排名。
+
+| 机构 / 证券 | Q2 → Q3 股数或份额 | 股数变化 | Q3 权重 | 申报前十状态 |
+|---|---:|---:|---:|---|
+| [Coatue](/investor-masters/institutions/13f-trends-coatue/) / LRCX | 9,441,603 → 9,926,030 | +5.13% | 5.984% | 留在前十 |
+| [Altimeter](/investor-masters/institutions/13f-trends-altimeter/) / LRCX | 394,080 → 0 | 不再列示 | — | 本季未列示 |
+
+Coatue 小幅增股，而 Altimeter 的该证券不再列示；与前一批 Appaloosa 加股、Duquesne 退出对照，设备链在机构间存在明显分歧。历史 CUSIP 变更和拆股已在趋势数据中归一，不把换码当交易。
+
 ## 相关页面
 
 - [菲利普·拉丰](/investor-masters/investors/philippe-laffont/)
@@ -50,3 +61,7 @@ Coatue 在 `2026Q1` 持有 `LRCX` 约 `10.04m` 股、`$2.15bn`，公开 13F 权�
 - [Duquesne 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1536411/000153641126000006/0001536411-26-000006.txt)
 - [Appaloosa 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1656456/000165645626000004/0001656456-26-000004.txt)
 - [Appaloosa 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1656456/000165645626000003/0001656456-26-000003.txt)
+- [Coatue 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1135730/000091957426005478/0000919574-26-005478.txt)
+- [Coatue 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1135730/000091957426007862/0000919574-26-007862.txt)
+- [Altimeter 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1541617/000154161726000008/0001541617-26-000008.txt)
+- [Altimeter 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1541617/000154161726000010/0001541617-26-000010.txt)

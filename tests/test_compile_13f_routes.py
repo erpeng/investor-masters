@@ -14,7 +14,8 @@ with tempfile.TemporaryDirectory() as import_vault:
     with patch.dict(os.environ, {"INVESTORS_VAULT": import_vault}):
         spec.loader.exec_module(site)
 
-MANAGERS = ("Berkshire", "Himalaya", "HH", "Duquesne", "Appaloosa")
+MANAGERS = ("Berkshire", "Himalaya", "HH", "Duquesne", "Appaloosa",
+            "Atreides", "Coatue", "Altimeter", "Fundsmith", "Pershing")
 
 
 class Compile13FRoutesTests(unittest.TestCase):
@@ -76,6 +77,12 @@ class Compile13FRoutesTests(unittest.TestCase):
         with self.link_state():
             site.compile_institutions()
         self.assertIn("到 2027Q1", (self.docs / "institutions/13f-trends-duquesne.md").read_text())
+        for manager in MANAGERS[5:]:
+            self.add_trend(manager, "2027Q1")
+        with self.link_state():
+            site.compile_institutions()
+        for manager in MANAGERS[5:]:
+            self.assertIn("到 2027Q1", (self.docs / f"institutions/13f-trends-{manager.lower()}.md").read_text())
 
     def test_source_cards_do_not_renumber_existing_sources(self):
         for name in ("A-first.md", "Z-last.md"):
@@ -150,6 +157,19 @@ class Compile13FRoutesTests(unittest.TestCase):
         links, _ = site.build_link_maps()
         for name, slug in expected.items():
             self.assertEqual(links[f"companies/{name}"], f"companies/{slug}")
+
+    def test_company_preserves_two_batches_and_research_questions(self):
+        (self.wiki / "companies/index.md").write_text("# 公司\n")
+        source = self.wiki / "companies/Yum! Brands.md"
+        source.write_text("# Yum! Brands\n\n## 简介\n餐饮品牌。\n\n## 公司点评\n研究入口。\n\n"
+                          "## 2026Q3 13F 首批联动\n首批证据。\n\n"
+                          "## 2026Q3 13F 联动\n第二批证据。\n\n"
+                          "## 下一步验证\n加盟商回报与门店增长。\n\n## 主要来源\n官方申报。\n")
+        with self.link_state():
+            site.compile_companies()
+        text = (self.docs / "companies/yum-brands.md").read_text()
+        for evidence in ("首批证据。", "第二批证据。", "加盟商回报与门店增长。", "官方申报。"):
+            self.assertIn(evidence, text)
 
 
 if __name__ == "__main__":

@@ -19,6 +19,12 @@ Atreides 2026Q1 持有约 `267.4k` 股 Lumentum，价值约 `$187.9m`，占普�
 
 与 Ciena、Coherent 放在一起看，比单独看 Lumentum 更接近 Baker 的方法：同一条光通信链上，订单、估值和股数动作是否一致，能帮助识别市场是低估共同瓶颈，还是只在追逐热门标签。
 
+## 下一步验证
+
+- 云客户和设备商订单传导。
+- 产能、良率与 ASP 是否支持利润率。
+- 与 Coherent、Ciena 的相对估值是否仍合理。
+
 ## 相关页面
 
 - [加文·贝克](/investor-masters/investors/gavin-baker/)

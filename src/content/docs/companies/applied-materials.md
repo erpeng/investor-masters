@@ -27,6 +27,17 @@ Appaloosa 在本季首次列示 AMAT **225,000 股**，占申报总值 **1.522%*
 
 与其 LRCX、ASML 增股一并看，可以确认 Appaloosa 扩大了部分设备股配置；仍需单独验证各公司的订单、产品结构与资本回报，不能将设备行业故事直接当作泰珀公开发表的买入理由。
 
+### 第二批五家补充（2026-11-17）
+
+下表补充 Atreides、Coatue、Altimeter、Fundsmith、Pershing 五家中列示该证券的账户，比较 2026-06-30 与 2026-09-30 的 SEC 股数；Q3 均于 2026-11-16 披露。权重按各机构申报证券合计值计算，排名包含其已申报期权或特殊证券，不能当作基金净值排名。
+
+| 机构 / 证券 | Q2 → Q3 股数或份额 | 股数变化 | Q3 权重 | 申报前十状态 |
+|---|---:|---:|---:|---|
+| [Coatue](/investor-masters/institutions/13f-trends-coatue/) / AMAT | 4,213,483 → 4,516,044 | +7.18% | 4.238% | 留在前十 |
+| [Altimeter](/investor-masters/institutions/13f-trends-altimeter/) / AMAT | 261,950 → 0 | 不再列示 | — | 本季未列示 |
+
+Coatue 增股，Altimeter 不再列示。与前一批 Appaloosa 新列示对照，半导体设备无法用单一机构共识概括。
+
 ## 相关页面
 
 - [菲利普·拉丰](/investor-masters/investors/philippe-laffont/)
@@ -42,3 +53,7 @@ Appaloosa 在本季首次列示 AMAT **225,000 股**，占申报总值 **1.522%*
 
 - [Appaloosa 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1656456/000165645626000004/0001656456-26-000004.txt)
 - [Appaloosa 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1656456/000165645626000003/0001656456-26-000003.txt)
+- [Coatue 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1135730/000091957426005478/0000919574-26-005478.txt)
+- [Coatue 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1135730/000091957426007862/0000919574-26-007862.txt)
+- [Altimeter 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1541617/000154161726000008/0001541617-26-000008.txt)
+- [Altimeter 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1541617/000154161726000010/0001541617-26-000010.txt)

@@ -49,6 +49,18 @@ Coatue 在 `2026Q1` 把 `TSM` 推到公开 13F 第一大仓：约 `9.28m` 股、
 
 所以本季不是简单的“机构继续共识加仓台积电”，而是先进制程稀缺性仍被认可、相邻赔率却出现分歧。Tudor 的仓位还带有多策略/工具属性，不能与长期型机构同权解释。完整比较见 [13F趋势-2026Q2](/investor-masters/institutions/13f-trends-2026-q2/)。
 
+## 2026Q3 13F 联动
+
+下表补充 Atreides、Coatue、Altimeter、Fundsmith、Pershing 五家中列示该证券的账户，比较 2026-06-30 与 2026-09-30 的 SEC 股数；Q3 均于 2026-11-16 披露。权重按各机构申报证券合计值计算，排名包含其已申报期权或特殊证券，不能当作基金净值排名。
+
+| 机构 / 证券 | Q2 → Q3 股数或份额 | 股数变化 | Q3 权重 | 申报前十状态 |
+|---|---:|---:|---:|---|
+| [Coatue](/investor-masters/institutions/13f-trends-coatue/) / TSM [ADR/ADS] | 8,914,995 → 9,437,369 | +5.86% | 7.900% | 留在前十 |
+| [Altimeter](/investor-masters/institutions/13f-trends-altimeter/) / TSM [ADR/ADS] | 1,429,355 → 1,433,525 | +0.29% | 6.344% | 留在前十 |
+| [Fundsmith](/investor-masters/institutions/13f-trends-fundsmith/) / TSM [ADR/ADS] | 1,148,449 → 1,147,410 | -0.09% | 4.051% | 前十之外 |
+
+股数变化是账户行为证据；业务前景、估值和资金约束仍需独立验证。
+
 ## 分歧与共识
 
 共识在于台积电的稀缺性；分歧不大，只是一个更强调制造能力的独特性，一个更强调它在 AI 链条中的中性受益位置。Appaloosa、Altimeter 和 Coatue 的 2026Q1 13F 把它进一步推到 AI 基础设施的公开组合核心；Third Point 则提醒：即使在缩表中，先进制造瓶颈也可能被留下。
@@ -64,3 +76,12 @@ Coatue 在 `2026Q1` 把 `TSM` 推到公开 13F 第一大仓：约 `9.28m` 股、
 - [英伟达](/investor-masters/companies/nvidia/)
 - [ASML](/investor-masters/companies/asml/)
 - [13F趋势-2026Q2](/investor-masters/institutions/13f-trends-2026-q2/)
+
+## 主要来源
+
+- [Coatue 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1135730/000091957426005478/0000919574-26-005478.txt)
+- [Coatue 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1135730/000091957426007862/0000919574-26-007862.txt)
+- [Altimeter 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1541617/000154161726000008/0001541617-26-000008.txt)
+- [Altimeter 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1541617/000154161726000010/0001541617-26-000010.txt)
+- [Fundsmith 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1569205/000156920526000012/0001569205-26-000012.txt)
+- [Fundsmith 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1569205/000156920526000014/0001569205-26-000014.txt)

@@ -31,6 +31,24 @@ Appaloosa 将 MU 从 **975,000 股**增至 **1,250,000 股**，股数 **增加 2
 
 研究待验证：HBM 与其他存储产品的盈利贡献、供给投放速度和资本开支回报。加股是公开行为证据，不是泰珀对价格周期的公开预测。
 
+### 第二批五家补充（2026-11-17）
+
+下表补充 Atreides、Coatue、Altimeter、Fundsmith、Pershing 五家中列示该证券的账户，比较 2026-06-30 与 2026-09-30 的 SEC 股数；Q3 均于 2026-11-16 披露。权重按各机构申报证券合计值计算，排名包含其已申报期权或特殊证券，不能当作基金净值排名。
+
+| 机构 / 证券 | Q2 → Q3 股数或份额 | 股数变化 | Q3 权重 | 申报前十状态 |
+|---|---:|---:|---:|---|
+| [Atreides](/investor-masters/institutions/13f-trends-atreides/) / MU | 711,364 → 303,569 | -57.33% | 1.797% | 退出前十 |
+| [Coatue](/investor-masters/institutions/13f-trends-coatue/) / MU | 3,142,269 → 3,274,831 | +4.22% | 6.401% | 留在前十 |
+| [Altimeter](/investor-masters/institutions/13f-trends-altimeter/) / MU | 209,520 → 260,140 | +24.16% | 2.688% | 前十之外 |
+
+Atreides 大减股，Altimeter 加股，Coatue 小幅加股；与上文 Appaloosa 本季增加 28.21% 合看，存储相关机构并没有一致的交易方向。需要检验的是成本曲线、供给和盈利持续性，不能只看共同持有。
+
+## 下一步验证
+
+- HBM 供给、良率、客户认证和价格。
+- DRAM/NAND 库存周期与资本开支纪律。
+- AI 高端内存利润能否抵消传统存储周期。
+
 ## 相关页面
 
 - [加文·贝克](/investor-masters/investors/gavin-baker/)
@@ -43,3 +61,9 @@ Appaloosa 将 MU 从 **975,000 股**增至 **1,250,000 股**，股数 **增加 2
 
 - [Appaloosa 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1656456/000165645626000004/0001656456-26-000004.txt)
 - [Appaloosa 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1656456/000165645626000003/0001656456-26-000003.txt)
+- [Atreides 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1777813/000177781326000009/0001777813-26-000009.txt)
+- [Atreides 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1777813/000177781326000013/0001777813-26-000013.txt)
+- [Coatue 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1135730/000091957426005478/0000919574-26-005478.txt)
+- [Coatue 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1135730/000091957426007862/0000919574-26-007862.txt)
+- [Altimeter 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1541617/000154161726000008/0001541617-26-000008.txt)
+- [Altimeter 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1541617/000154161726000010/0001541617-26-000010.txt)

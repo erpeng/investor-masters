@@ -22,7 +22,7 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 from generate_13f_trends import (
-    DEFAULT_VAULT, MANAGERS, json_bytes, quarter, resolve_filings,
+    DEFAULT_VAULT, MANAGERS, ALL_MANAGERS, json_bytes, quarter, resolve_filings,
     save_new, top,
 )
 
@@ -30,11 +30,14 @@ ROOT = Path(__file__).resolve().parents[1]
 ANCHORS = {'023135106': 'AMZN', '594918104': 'MSFT', '02079K305': 'GOOGL',
            '02079K107': 'GOOG', '037833100': 'AAPL', '084670702': 'BRK-B',
            '30303M102': 'META', '060505104': 'BAC', '92826C839': 'V',
-           '67066G104': 'NVDA', 'H1467J104': 'CB', '23331A109': 'DHI'}
+           '67066G104': 'NVDA', 'H1467J104': 'CB', '23331A109': 'DHI',
+           '169656105': 'CMG', '43300A203': 'HLT', '42806J700': 'HTZ', '71531U102': 'PS'}
 ALIASES = {'BRK.B': 'BRK-B', 'BRK/B': 'BRK-B', 'BRK B': 'BRK-B',
            'LEN.B': 'LEN-B', 'BF.B': 'BF-B', 'BF/B': 'BF-B'}
 NO_COMPARABLE_QUOTE = {'BSP', 'SPCX'}
 PRICE_ADJUSTMENTS = {
+    ('HHH', '2024-08-01'): ('Seaport Entertainment spin-off; one SEG share per nine HHH shares, parent HHH shares unchanged',
+                          'https://www.sec.gov/Archives/edgar/data/1981792/000110465924084903/tm2420480d1_8k.htm'),
     ('GE', '2023-01-04'): ('GE HealthCare spin-off; parent GE shares unchanged',
                          'https://www.sec.gov/Archives/edgar/data/40545/000004054523000033/ge-20230103.htm'),
     ('GE', '2024-04-02'): ('GE Vernova spin-off; parent GE shares unchanged',
@@ -47,6 +50,42 @@ PRICE_ADJUSTMENTS = {
                            'https://www.sec.gov/Archives/edgar/data/2090312/000209031226000014/mbgl-2026063010q.pdf'),
 }
 IDENTITY_ACTIONS = [
+    {'type': 'cusip_change', 'ticker': 'SOND', 'date': '2023-09-21', 'old_cusip': '83542D102',
+     'new_cusip': '83542D300', 'ratio': .05,
+     'source': 'https://www.nasdaqtrader.com/TraderNews.aspx?id=ECA2023-532',
+     'note': 'One-for-twenty reverse split; residual fractional-share cash is not a trade inference.'},
+    {'type': 'cusip_change', 'ticker': 'LCID', 'date': '2025-09-02', 'old_cusip': '549498103',
+     'new_cusip': '549498202', 'ratio': .1,
+     'source': 'https://ir.lucidmotors.com/news-releases/news-release-details/lucid-group-inc-announces-effective-date-reverse-stock-split/',
+     'note': 'One-for-ten reverse split.'},
+    {'type': 'cusip_change', 'ticker': 'NKLA', 'date': '2024-06-25', 'old_cusip': '654110105',
+     'new_cusip': '654110303', 'ratio': 1/30,
+     'source': 'https://m.nasdaqtrader.com/TraderNews.aspx?id=ECA2024-294',
+     'note': 'One-for-thirty reverse split.'},
+    {'type': 'cusip_change', 'ticker': 'SMCI', 'date': '2024-10-01', 'old_cusip': '86800U104',
+     'new_cusip': '86800U302', 'ratio': 10,
+     'source': 'https://infomemo.theocc.com/infomemos?number=55298',
+     'note': 'Ten-for-one forward split.'},
+    {'type': 'cusip_change_with_settlement', 'ticker': 'AMC', 'date': '2023-08-24', 'old_cusip': '00165C104',
+     'new_cusip': '00165C302', 'ratio': .1,
+     'source': 'https://investor.amctheatres.com/sec-filings/all-sec-filings/content/0001104659-23-090981/tm2323643d1_8k.htm',
+     'note': 'One-for-ten reverse split plus one share per 7.5 settlement and APE conversion. Quarter change is explicitly unattributed, not a plain split-adjusted trade.'},
+    {'type': 'historical_cusip_alias', 'ticker': 'GRABW', 'date': '2021-12-02', 'old_cusip': 'G0370L116',
+     'new_cusip': 'G4124C117', 'ratio': 1,
+     'source': 'https://classic.nasdaqtrader.com/TraderNews.aspx?id=ECA2021-267',
+     'note': 'AGCWW warrants became GRABW one-for-one in 2021. Later Altimeter filings continued obsolete CUSIP until 2026Q1; no new economic entry in 2026Q2.'},
+    {'type': 'cusip_change', 'ticker': 'CP', 'date': '2023-04-14', 'old_cusip': '13645T100',
+     'new_cusip': '13646K108', 'ratio': 1,
+     'source': 'https://www.sec.gov/Archives/edgar/data/16875/000119312523102124/d447202d8k.htm',
+     'note': 'Canadian Pacific name change after Kansas City Southern combination; existing shares remain outstanding.'},
+    {'type': 'cusip_change', 'ticker': 'HHH', 'date': '2023-08-11', 'old_cusip': '44267D107',
+     'new_cusip': '44267T102', 'ratio': 1,
+     'source': 'https://www.sec.gov/Archives/edgar/data/1981792/000110465923090466/tm2323105d1_ex99-1.htm',
+     'note': 'Holding-company reorganization; one HHH share per HHC share.'},
+    {'type': 'cusip_change', 'ticker': 'CHPT', 'date': '2025-07-28', 'old_cusip': '15961R105',
+     'new_cusip': '15961R303', 'ratio': .05,
+     'source': 'https://infomemo.theocc.com/infomemos?number=56950',
+     'note': 'One-for-twenty reverse split; share factor recorded separately in splits, never applied twice.'},
     {'type': 'cusip_change', 'ticker': 'LRCX', 'date': '2024-10-03', 'old_cusip': '512807108',
      'new_cusip': '512807306', 'ratio': 10, 'source': 'https://www.nasdaqtrader.com/TraderNews.aspx?id=ECA2024-460',
      'note': 'Ten-for-one split; share factor is in splits and must not be applied twice.'},
@@ -67,6 +106,25 @@ IDENTITY_ACTIONS = [
      'source': 'https://www.nasdaqtrader.com/TraderNews.aspx?id=ECA2023-420'},
     {'type': 'cusip_change', 'ticker': 'WVE', 'date': '2026-08-07', 'old_cusip': 'Y95308105',
      'new_cusip': '94352A104', 'ratio': 1, 'source': 'https://www.nasdaqtrader.com/TraderNews.aspx?id=ECA2026-560'},
+]
+UNCERTAIN_ACTIONS = [{
+    'ticker': 'AMC', 'start': '2023-06-30', 'end': '2023-09-30',
+    'cusips': ['00165C104', '00165C302', '00165C203'],
+    'reason': 'AMC本季同时并股、APE转换及诉讼和解派股；缺少完整逐账户转换路径，市值差单列未归因，不按简单并股推断买卖。',
+    'source': 'https://investor.amctheatres.com/sec-filings/all-sec-filings/content/0001104659-23-090981/tm2323643d1_8k.htm',
+}]
+PRIMARY_ACTION_REVIEWS = [{
+    'ticker': 'INIO', 'start': '2026-06-30', 'end': '2026-09-30',
+    'source': 'https://www.sec.gov/Archives/edgar/data/2109150/000162828026067448/inio-20260930.htm',
+    'reason': 'Q3 10-Q reports 750m weighted-average and September30 outstanding common shares; the conversion was June4 before Q2-end, with no Q3 split identified.',
+}]
+CLASS_ALIASES = [
+    {'cusip': '833445109', 'alias': 'CL A / COM SHS', 'source': 'https://www.sec.gov/Archives/edgar/data/1640147/000164014725000150/snow-20250702.htm',
+     'note': 'Snowflake renamed Class A as Common Stock effective July3 2025; shares unchanged.'},
+    {'cusip': '82509L107', 'alias': 'CL A / CL A SUB VTG SHS', 'source': 'https://www.sec.gov/Archives/edgar/data/1594805/000159480524000019/a2024nomrd.htm',
+     'note': 'Shopify Class A Subordinate Voting Shares; Class B has a different CUSIP.'},
+    {'cusip': '770700102', 'alias': 'CL A / COM CL A', 'source': 'https://www.sec.gov/Archives/edgar/data/1783879/000119312525260776/xslSCHEDULE_13G_X01/primary_doc.xml',
+     'note': 'Robinhood same-CUSIP Class A spelling variation.'},
 ]
 NORMALIZATION_METHOD = (
     'Each filing independently uses dated Yahoo unadjusted nominal closing price '
@@ -267,6 +325,18 @@ def apply_charts(data, charts):
             else:
                 data['splits'].append(item)
     data.setdefault('audit', {})['excluded_price_adjustments'] = excluded
+    # Primary exchange notices supply a share factor even if Yahoo has no history.
+    for action in IDENTITY_ACTIONS:
+        if action['ratio'] == 1 or not ({action['old_cusip'], action['new_cusip']} & data['securities'].keys()):
+            continue
+        existing = [event for event in data['splits'] if event['ticker'] == action['ticker'] and event['date'] == action['date']]
+        if existing and any(abs(event['ratio'] - action['ratio']) > 1e-10 for event in existing):
+            raise ValueError('Primary split evidence conflicts with quote history: ' + action['ticker'])
+        for event in existing:
+            event['primary_source'] = action['source']
+        if not existing:
+            data['splits'].append({'ticker': action['ticker'], 'date': action['date'], 'ratio': action['ratio'],
+                                   'source': action['source'], 'evidence_type': 'primary_corporate_action'})
     data['split_coverage'] = {
         'checked': sorted(symbols & charts.keys()),
         'unavailable': sorted(s for s in symbols & charts.keys() if charts[s].get('error')),
@@ -293,6 +363,28 @@ def suspected_actions(data):
     return result
 
 
+def apply_quote_overrides(data, stage):
+    """Explicit, sourced fallback quotes; preserve the failed/stale attempt."""
+    path = stage / 'quote-overrides.json'
+    if not path.exists():
+        return
+    overrides = read_json(path)
+    for symbol, verified in overrides.items():
+        if symbol not in data.get('quotes', {}):
+            continue
+        old = data['quotes'][symbol]
+        if verified.get('currency') != 'USD' or verified.get('symbol') != symbol:
+            raise ValueError('Fallback quote identity/currency mismatch: ' + symbol)
+        quote = dict(old, **verified)
+        quote['previous_quote_attempt'] = old.get('previous_quote_attempt') or {key: old.get(key) for key in
+                                           ('price', 'last_available_price', 'price_date', 'error', 'source', 'fetched_at', 'response_sha256')}
+        quote['history_source'] = old.get('source')
+        quote.pop('error', None)
+        quote.pop('stale', None)
+        data['quotes'][symbol] = quote
+    data['quote_override_evidence'] = {'path': 'quote-overrides.json', 'sha256': digest(path.read_bytes())}
+
+
 def normalize(args):
     stage = Path(args.stage)
     datasets = {key: read_json(stage / f'{key}-fetched.json') for key in args.keys}
@@ -300,6 +392,16 @@ def normalize(args):
     for override_path in (ROOT / 'scripts/data/13f-2026q3-security-overrides.json', stage / 'mapping-overrides.json'):
         if override_path.exists():
             records.update(read_json(override_path))
+    for action in IDENTITY_ACTIONS:
+        old, new = action['old_cusip'], action['new_cusip']
+        if old not in records and new in records:
+            records[old] = dict(records[new], mapping_source=action['source'],
+                                mapping_evidence=action, mapping_status='primary_predecessor_security')
+        for cusip in (old, new):
+            if not records.get(cusip, {}).get('ticker'):
+                records[cusip] = dict(records.get(cusip, {}), ticker=action['ticker'],
+                                     mapping_source=action['source'], mapping_evidence=action,
+                                     mapping_status='primary_corporate_action')
     charts = ({p.stem: read_json(p) for p in (stage / 'quotes').glob('*.json')}
               if args.offline else load_charts(stage, ANCHORS.values(), args.quote_end, args.refresh))
     pending = [f for d in datasets.values() for f in d['filings'] if not f.get('notice')]
@@ -348,8 +450,10 @@ def normalize(args):
                 securities[cusip] = security
         data.update(schema_version=1, as_of=args.as_of, latest_quarter=args.quarter,
                     securities=securities, normalization_method=NORMALIZATION_METHOD,
-                    editorial=metadata.get(key, {}))
+                    editorial=metadata.get(key, {}), uncertain_corporate_actions=[
+                        action for action in UNCERTAIN_ACTIONS if set(action['cusips']) & securities.keys()])
         apply_charts(data, charts)
+        apply_quote_overrides(data, stage)
         periods = resolve_filings(data)
         data['validation'] = {'quarters': len(periods), 'latest_total': periods[-1]['total'],
                               'latest_count': len(periods[-1]['rows'])}
@@ -376,18 +480,26 @@ def enrich(args):
                         symbols.add(ticker)
         data['corporate_action_screen'] = suspected_actions(data)
         symbols.update(item['ticker'] for item in data['corporate_action_screen'] if item['ticker'])
-    charts = load_charts(stage, symbols, args.quote_end, args.refresh, args.retry_errors)
+    charts = ({p.stem: read_json(p) for p in (stage / 'quotes').glob('*.json')}
+              if args.offline else load_charts(stage, symbols, args.quote_end, args.refresh, args.retry_errors))
     for data in datasets.values():
         # Keep original anchor histories as part of reproducible unit evidence.
         charts.update({k: v for k, v in data.get('quotes', {}).items() if k not in charts})
     for key, data in datasets.items():
         apply_charts(data, charts)
+        apply_quote_overrides(data, stage)
         for item in data['corporate_action_screen']:
             chart = charts.get(item['ticker'], {})
             item['status'] = 'unavailable' if not chart or chart.get('error') else 'events_checked'
             item['events'] = [s for s in data['splits'] if s['ticker'] == item['ticker']
                               and item['start'] < s['date'] <= item['end']]
             item['source'] = chart.get('source')
+            if any(event.get('evidence_type') == 'primary_corporate_action' or event.get('primary_source') for event in item['events']):
+                item['status'] = 'primary_split_verified'
+            reviewed = next((review for review in PRIMARY_ACTION_REVIEWS if
+                             all(review[field] == item[field] for field in ('ticker', 'start', 'end'))), None)
+            if reviewed:
+                item.update(status='primary_checked_no_split', source=reviewed['source'], primary_review=reviewed['reason'])
         data.setdefault('audit', {})['unresolved_splits'] = [
             item for item in data['corporate_action_screen'] if item['status'] == 'unavailable']
         (stage / f'{key}-normalized.json').write_bytes(json_bytes(data))
@@ -404,7 +516,7 @@ def legacy_page(data, vault, stage):
         output.parent.mkdir(parents=True, exist_ok=True)
         output.write_bytes(path.read_bytes())
     text = output.read_text()
-    match = re.search(r'^## (?:三、用[^\n]*|用 Appaloosa 方法重新读[^\n]*)\n(.*?)(?=^## |\Z)', text, re.M | re.S)
+    match = re.search(r'^## (?:[一二三四五六七八九十]+、)?用[^\n]*(?:重新读|方法)[^\n]*\n(.*?)(?=^## |\Z)', text, re.M | re.S)
     if match:
         data['editorial']['legacy_method'] = match.group(1).strip()
     # Keep the entire former trajectory basket, including historical exits.
@@ -427,6 +539,7 @@ def freeze(args):
         data['editorial'] = dict(data.get('editorial', {}), **metadata[key])
         data['corporate_actions'] = [action for action in IDENTITY_ACTIONS
                                     if action['old_cusip'] in data['securities'] or action['new_cusip'] in data['securities']]
+        data['class_alias_evidence'] = [action for action in CLASS_ALIASES if action['cusip'] in data['securities']]
         old = legacy_page(data, vault, stage)
         if old:
             prepared.append((target / 'legacy' / old.name, old.read_bytes()))
@@ -435,14 +548,19 @@ def freeze(args):
             raise ValueError(f'Incomplete quarter coverage: {key}')
         data['replay_evidence'] = {'builder_sha256': digest(Path(__file__).read_bytes()),
                                    'generator_sha256': digest((ROOT / 'scripts/generate_13f_trends.py').read_bytes()),
-                                   'identity_rules_version': '2026Q3-v1',
+                                   'identity_rules_version': '2026Q3-v2',
                                    'identity_rules': ['CUSIP + normalized class + PUT/CALL; original class retained',
                                                       'PDD/DBV/YPF/JD ADS text aliases; AAL/XLF text aliases',
                                                       'Wave Y95308105 to 94352A104 one-for-one redomestication',
                                                       'LRCX 512807108 to 512807306 ten-for-one split; class COM/COM NEW aliases',
                                                       'Barrick and Liberty parent-security CUSIP changes; distributions recorded separately',
                                                       'LEN.B CUSIP 526057302 fixes mislabeled historical class A',
-                                                      'Berkshire 0000950123-25-008361 LEN.B +202 explicit additive amendment']}
+                                                      'Berkshire 0000950123-25-008361 LEN.B +202 explicit additive amendment',
+                                                      'Pershing old/new CIK holdings intervals are disjoint; retain notices and NEW HOLDINGS amendments',
+                                                      'Nextpower same-CUSIP CLASS A COM/COM aliases; CP and HHC/HHH one-for-one continuations',
+                                                      'ChargePoint CUSIP change plus documented 1-for-20 reverse split',
+                                                      'Altimeter 0001541617-26-000010 exact-content cover exception; original rows never altered',
+                                                      'GRABW G4124C117 is a warrant, not GRAB ordinary stock; low implied warrant value is not an amount anomaly']}
         for filing in data['filings']:
             acc = filing['accessionNumber']
             content = (stage / 'sec' / f'{acc}.txt').read_bytes()
@@ -455,9 +573,19 @@ def freeze(args):
         data['submission_evidence'] = {'path': f'{key}-submissions.json', 'sha256': digest(submission),
                                        'source': f'https://data.sec.gov/submissions/CIK{data["cik"]:010d}.json'}
         prepared.append((target / f'{key}-submissions.json', submission))
+        for source in data.get('submission_evidence_list', []):
+            content = (stage / source['path']).read_bytes()
+            if digest(content) != source['sha256']:
+                raise ValueError('Submission evidence changed: ' + source['path'])
+            prepared.append((target / source['path'], content))
         prepared.append((target / f'{key}.json', json_bytes(data)))
     # Preflight every target before writing anything: immutable conflicts do not
     # leave a half-written new batch behind.
+    for source in sorted((stage / 'quote-evidence').glob('*')):
+        if source.is_file():
+            prepared.append((target / 'quote-evidence' / source.name, source.read_bytes()))
+    if (stage / 'quote-overrides.json').exists():
+        prepared.append((target / 'quote-overrides.json', (stage / 'quote-overrides.json').read_bytes()))
     manifest = {str(p.relative_to(target)): digest(content) for p, content in prepared}
     prepared.append((target / 'sha256.json', json_bytes(manifest)))
     for path, content in prepared:
@@ -485,7 +613,7 @@ def main():
     parser.add_argument('--offline', action='store_true', help='Normalize using staged quote evidence only')
     args = parser.parse_args()
     args.keys = args.institutions.split(',')
-    if any(key not in MANAGERS for key in args.keys):
+    if any(key not in ALL_MANAGERS for key in args.keys):
         parser.error('Unknown institution')
     {'normalize': normalize, 'enrich': enrich, 'freeze': freeze}[args.action](args)
 

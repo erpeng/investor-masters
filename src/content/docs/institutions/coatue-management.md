@@ -54,73 +54,103 @@ Coatue 值得单独读，是因为它不是普通“科技基金”。它把公�
 
 ### 怎么看这组披露
 
-按公私一体科技组合读，重点看平台、芯片、设备、电力与数据中心约束怎样重新排序。 13F 只覆盖美国公开证券多头及部分工具，不覆盖现金、空头、非美资产、完整衍生品和季度内路径。
+13F 是季末公开证券多头及部分期权的滞后披露，不是完整资产组合。以下按 CUSIP、证券类别和 PUT/CALL 聚合重复管理人记录；期权与正股不混算。市值和权重变化不能替代股数变化。
 
-### 最新季度趋势雷达
+### 13F 趋势雷达（最近一季横向）
 
-- 从 `$29.06bn` 到 `$48.63bn`，变化 `$19.57bn`（+67.4%）；拆股调整后，主动仓位约 `$9.02bn`，价格贡献约 `$10.56bn`，主动仓位与价格同向。
-- 当前前十大：`TSM` 8.8%、`LRCX` 8.4%、`MU` 7.5%、`SpaceX` 6.5%、`AMAT` 6.3%、`GEV` 6.2%、`AMZN` 5.8%、`AVGO` 4.5%、`ETN` 4.4%、`GOOGL` 3.6%。
-- 详细长线轨迹：[13F趋势-Coatue](/investor-masters/institutions/13f-trends-coatue/)。
-- 横向趋势页：[Q2 2026](/investor-masters/institutions/13f-trends-2026-q2/)。
+最近一季：`2026Q3` vs `2026Q2`；报告日 `2026-09-30`；申报日 `2026-11-16`；核验 `2026-11-17`。
+
+- 申报证券行和从 `$48.629bn` 变为 `$54.495bn`（`+12.06%`）；聚合后 `73` 个证券类别，其中期权 `0` 个。非期权证券前五占其切片 `32.37%`、前十占 `55.90%`。
+- 非期权证券切片申报值 `$48.629bn` → `$54.495bn`；按上季隐含价格估算的股数项 `+$8.641bn`，价格项 `−$2.775bn`。这是两期持仓的机械分解，不是现金流、真实成交额或投资收益；首次上市、估值口径不同的证券另见趋势页边界。
+- MSFT增股119.93%、META增78.72%；新列CRM、SHOP、ICE、V、MA及SKHY存托凭证。
+- ASML减股52.65%、ETN减24.58%、GOOGL减11.71%、GOOG减13.50%；Alphabet两类分别记录，再合并公司级信号。
+- SKHY为2026Q3新上市ADR，10份ADS代表1股普通股；首次列示不等于首次投资，不能与韩国普通股股数直接相加。
+- Cerebras减股53.56%，其上市及股份口径需另核；与SpaceX等特殊披露一并排除普通股票主榜。
+- 大幅增加微软和Meta，新列Salesforce、Shopify、ICE及支付网络，同时减少Alphabet、ASML、Eaton与Cerebras。科技内部发生重配，不能概括为整个AI产业链同步加仓。
+- 长历史与全部在持证券：[13F趋势-Coatue](/investor-masters/institutions/13f-trends-coatue/)；横向页：[Q3 十家样本](/investor-masters/institutions/13f-trends-2026-q3/)。
 
 ### 近四个已披露季度前 10 大持仓
 
-#### 2026Q2
+#### Q3 2026
 
-- `TSM`：`13F 占比 8.8%`，股数/份额 `8.91m`。
-- `LRCX`：`13F 占比 8.4%`，股数/份额 `9.44m`。
-- `MU`：`13F 占比 7.5%`，股数/份额 `3.14m`。
-- `SpaceX`：`13F 占比 6.5%`，股数/份额 `18.56m`。
-- `AMAT`：`13F 占比 6.3%`，股数/份额 `4.21m`。
-- `GEV`：`13F 占比 6.2%`，股数/份额 `2.56m`。
-- `AMZN`：`13F 占比 5.8%`，股数/份额 `11.83m`。
-- `AVGO`：`13F 占比 4.5%`，股数/份额 `5.85m`。
-- `ETN`：`13F 占比 4.4%`，股数/份额 `4.97m`。
-- `GOOGL`：`13F 占比 3.6%`，股数/份额 `4.86m`。
+申报总值 `$54.495bn`；聚合后 `73` 个证券类别。
 
-#### 2026Q1
+| 证券及业务 | 股数／底层份额 | 季末申报市值 | 13F 占比 |
+|---|---:|---:|---:|
+| `TSM` [ADR/ADS] Taiwan Semiconductor Mfg Ltd（台积电，全球领先晶圆代工厂，是先进制程和先进封装产能的关键瓶颈） | 9,437,369 | $4.305bn | 7.90% |
+| `MU` Micron Technology, Inc.（生产 DRAM、HBM 与 NAND 存储产品，受供需、价格与资本开支周期影响） | 3,274,831 | $3.488bn | 6.40% |
+| `MSFT` Microsoft Corp（微软，企业软件、Azure 云、Office、Windows 和 AI 基础设施共同构成的生产力平台） | 6,458,119 | $3.312bn | 6.08% |
+| `META` Meta Platforms Inc（Meta，社交网络、广告系统和 AI 推荐平台，核心资产是 Facebook、Instagram、WhatsApp 和广告模型） | 4,514,481 | $3.274bn | 6.01% |
+| `LRCX` Lam Research（提供半导体制造设备与服务，关注存储和先进制程资本开支） | 9,926,030 | $3.261bn | 5.98% |
+| `SPCX` Space Exploration Technologies（航天发射与卫星互联网运营商，业务包含运载火箭与 Starlink） | 19,456,346 | $2.935bn | 5.39% |
+| `AMZN` Amazon Com Inc（电商、物流、AWS 云和广告共同构成的平台公司，长期变量是基础设施外部化能力） | 11,618,033 | $2.895bn | 5.31% |
+| `AVGO` Broadcom（经营半导体与基础设施软件，关注定制芯片、网络及软件现金流） | 6,666,450 | $2.341bn | 4.30% |
+| `GEV` GE Vernova（提供发电与电网设备服务，关注订单、交付和长期服务收入） | 2,461,674 | $2.340bn | 4.29% |
+| `AMAT` Applied Materials（提供半导体材料工程设备及服务，关注客户资本开支和产品份额） | 4,516,044 | $2.309bn | 4.24% |
 
-- `TSM`：`13F 占比 10.8%`，股数/份额 `9.28m`。
-- `GEV`：`13F 占比 7.7%`，股数/份额 `2.57m`。
-- `LRCX`：`13F 占比 7.4%`，股数/份额 `10.04m`。
-- `AMAT`：`13F 占比 6.2%`，股数/份额 `5.25m`。
-- `AVGO`：`13F 占比 5.9%`，股数/份额 `5.50m`。
-- `ETN`：`13F 占比 5.8%`，股数/份额 `4.75m`。
-- `AMZN`：`13F 占比 5.7%`，股数/份额 `7.93m`。
-- `META`：`13F 占比 5.5%`，股数/份额 `2.81m`。
-- `CEG`：`13F 占比 4.5%`，股数/份额 `4.63m`。
-- `GOOGL`：`13F 占比 4.3%`，股数/份额 `4.31m`。
+#### Q2 2026
+
+申报总值 `$48.629bn`；聚合后 `66` 个证券类别。
+
+| 证券及业务 | 股数／底层份额 | 季末申报市值 | 13F 占比 |
+|---|---:|---:|---:|
+| `TSM` [ADR/ADS] Taiwan Semiconductor Mfg Ltd（台积电，全球领先晶圆代工厂，是先进制程和先进封装产能的关键瓶颈） | 8,914,995 | $4.258bn | 8.76% |
+| `LRCX` Lam Research（提供半导体制造设备与服务，关注存储和先进制程资本开支） | 9,441,603 | $4.091bn | 8.41% |
+| `MU` Micron Technology, Inc.（生产 DRAM、HBM 与 NAND 存储产品，受供需、价格与资本开支周期影响） | 3,142,269 | $3.627bn | 7.46% |
+| `SPCX` Space Exploration Technologies（航天发射与卫星互联网运营商，业务包含运载火箭与 Starlink） | 18,561,780 | $3.171bn | 6.52% |
+| `AMAT` Applied Materials（提供半导体材料工程设备及服务，关注客户资本开支和产品份额） | 4,213,483 | $3.046bn | 6.26% |
+| `GEV` GE Vernova（提供发电与电网设备服务，关注订单、交付和长期服务收入） | 2,558,164 | $3.005bn | 6.18% |
+| `AMZN` Amazon Com Inc（电商、物流、AWS 云和广告共同构成的平台公司，长期变量是基础设施外部化能力） | 11,834,799 | $2.821bn | 5.80% |
+| `AVGO` Broadcom（经营半导体与基础设施软件，关注定制芯片、网络及软件现金流） | 5,846,831 | $2.209bn | 4.54% |
+| `ETN` Eaton（提供电力管理设备与系统，关注电气化、数据中心及工业需求） | 4,968,415 | $2.117bn | 4.35% |
+| `GOOGL` Alphabet Inc（Alphabet 的 A 类股，核心资产是 Google 搜索、YouTube、广告网络、Android 和 Google Cloud） | 4,856,251 | $1.735bn | 3.57% |
+
+#### Q1 2026
+
+申报总值 `$29.056bn`；聚合后 `62` 个证券类别。
+
+| 证券及业务 | 股数／底层份额 | 季末申报市值 | 13F 占比 |
+|---|---:|---:|---:|
+| `TSM` [ADR/ADS] Taiwan Semiconductor Mfg Ltd（台积电，全球领先晶圆代工厂，是先进制程和先进封装产能的关键瓶颈） | 9,283,547 | $3.137bn | 10.80% |
+| `GEV` GE Vernova（提供发电与电网设备服务，关注订单、交付和长期服务收入） | 2,572,358 | $2.245bn | 7.73% |
+| `LRCX` Lam Research（提供半导体制造设备与服务，关注存储和先进制程资本开支） | 10,043,505 | $2.146bn | 7.39% |
+| `AMAT` Applied Materials（提供半导体材料工程设备及服务，关注客户资本开支和产品份额） | 5,248,202 | $1.794bn | 6.17% |
+| `AVGO` Broadcom（经营半导体与基础设施软件，关注定制芯片、网络及软件现金流） | 5,503,852 | $1.703bn | 5.86% |
+| `ETN` Eaton（提供电力管理设备与系统，关注电气化、数据中心及工业需求） | 4,748,498 | $1.698bn | 5.85% |
+| `AMZN` Amazon Com Inc（电商、物流、AWS 云和广告共同构成的平台公司，长期变量是基础设施外部化能力） | 7,930,766 | $1.652bn | 5.68% |
+| `META` Meta Platforms Inc（Meta，社交网络、广告系统和 AI 推荐平台，核心资产是 Facebook、Instagram、WhatsApp 和广告模型） | 2,812,056 | $1.609bn | 5.54% |
+| `CEG` Constellation Energy（经营发电及能源服务，关注电价、用电需求和长期合同） | 4,632,475 | $1.294bn | 4.45% |
+| `GOOGL` Alphabet Inc（Alphabet 的 A 类股，核心资产是 Google 搜索、YouTube、广告网络、Android 和 Google Cloud） | 4,313,426 | $1.240bn | 4.27% |
 
 #### Q4 2025
 
-- `GOOGL` Alphabet Inc（Alphabet 的 A 类股，核心资产是 Google 搜索、YouTube、广告网络、Android 和 Google Cloud）：`13F 占比 6.9%`，市值约 `$2.77bn`，股数/份额 `8,841,972`。
-- `TSM` Taiwan Semiconductor Manufac（台积电，全球领先晶圆代工厂，是先进制程和先进封装产能的关键瓶颈）：`13F 占比 6.6%`，市值约 `$2.62bn`，股数/份额 `8,629,524`。
-- `MSFT` Microsoft Corp（微软，企业软件、Azure 云、Office、Windows 和 AI 基础设施共同构成的生产力平台）：`13F 占比 6.3%`，市值约 `$2.50bn`，股数/份额 `5,171,976`。
-- `META` Meta Platforms Inc（Meta，社交网络、广告系统和 AI 推荐平台，核心资产是 Facebook、Instagram、WhatsApp 和广告模型）：`13F 占比 6.2%`，市值约 `$2.50bn`，股数/份额 `3,781,949`。
-- `AMZN` Amazon Com Inc（电商、物流、AWS 云和广告共同构成的平台公司，长期变量是基础设施外部化能力）：`13F 占比 5.7%`，市值约 `$2.29bn`，股数/份额 `9,932,265`。
-- `GEV` Ge Vernova Inc（GE Vernova，电力设备和电网技术公司，受益于电气化、电网升级和能源转型资本开支）：`13F 占比 5.5%`，市值约 `$2.20bn`，股数/份额 `3,370,174`。
-- `CEG` Constellation Energy Corp（Constellation Energy，美国核电和清洁电力运营商，核心看数据中心用电、长期购电协议和电价）：`13F 占比 5.2%`，市值约 `$2.09bn`，股数/份额 `5,907,174`。
-- `AVGO` Broadcom Inc（博通，半导体和基础设施软件公司，AI 网络、ASIC 和 VMware 是当前核心变量）：`13F 占比 4.8%`，市值约 `$1.91bn`，股数/份额 `5,510,227`。
-- `NVDA` Nvidia Corporation（AI 加速计算平台，GPU、网络和 CUDA 生态共同支撑数据中心算力需求）：`13F 占比 4.3%`，市值约 `$1.72bn`，股数/份额 `9,203,338`。
-- `LRCX` Lam Research Corp（Lam Research，半导体晶圆制造设备公司，核心看刻蚀/沉积设备、先进制程和存储周期）：`13F 占比 4.2%`，市值约 `$1.68bn`，股数/份额 `9,805,565`。
+申报总值 `$39.963bn`；聚合后 `52` 个证券类别。
 
-#### Q3 2025
+| 证券及业务 | 股数／底层份额 | 季末申报市值 | 13F 占比 |
+|---|---:|---:|---:|
+| `TSM` [ADR/ADS] Taiwan Semiconductor Mfg Ltd（台积电，全球领先晶圆代工厂，是先进制程和先进封装产能的关键瓶颈） | 8,629,524 | $2.622bn | 6.56% |
+| `MSFT` Microsoft Corp（微软，企业软件、Azure 云、Office、Windows 和 AI 基础设施共同构成的生产力平台） | 5,171,976 | $2.501bn | 6.26% |
+| `META` Meta Platforms Inc（Meta，社交网络、广告系统和 AI 推荐平台，核心资产是 Facebook、Instagram、WhatsApp 和广告模型） | 3,781,949 | $2.496bn | 6.25% |
+| `AMZN` Amazon Com Inc（电商、物流、AWS 云和广告共同构成的平台公司，长期变量是基础设施外部化能力） | 9,932,265 | $2.293bn | 5.74% |
+| `GEV` GE Vernova（提供发电与电网设备服务，关注订单、交付和长期服务收入） | 3,370,174 | $2.203bn | 5.51% |
+| `GOOGL` Alphabet Inc（Alphabet 的 A 类股，核心资产是 Google 搜索、YouTube、广告网络、Android 和 Google Cloud） | 6,841,436 | $2.141bn | 5.36% |
+| `CEG` Constellation Energy（经营发电及能源服务，关注电价、用电需求和长期合同） | 5,907,174 | $2.087bn | 5.22% |
+| `AVGO` Broadcom（经营半导体与基础设施软件，关注定制芯片、网络及软件现金流） | 5,510,227 | $1.907bn | 4.77% |
+| `NVDA` Nvidia Corporation（AI 加速计算平台，GPU、网络和 CUDA 生态共同支撑数据中心算力需求） | 9,203,338 | $1.716bn | 4.30% |
+| `LRCX` Lam Research（提供半导体制造设备与服务，关注存储和先进制程资本开支） | 9,805,565 | $1.679bn | 4.20% |
 
-- `META` Meta Platforms Inc（Meta，社交网络、广告系统和 AI 推荐平台，核心资产是 Facebook、Instagram、WhatsApp 和广告模型）：`13F 占比 7.3%`，市值约 `$2.96bn`，股数/份额 `4,035,717`。
-- `MSFT` Microsoft Corp（微软，企业软件、Azure 云、Office、Windows 和 AI 基础设施共同构成的生产力平台）：`13F 占比 5.9%`，市值约 `$2.40bn`，股数/份额 `4,643,050`。
-- `GOOGL` Alphabet Inc（Alphabet 的 A 类股，核心资产是 Google 搜索、YouTube、广告网络、Android 和 Google Cloud）：`13F 占比 5.6%`，市值约 `$2.26bn`，股数/份额 `9,312,689`。
-- `TSM` Taiwan Semiconductor Mfg Ltd（台积电，全球领先晶圆代工厂，是先进制程和先进封装产能的关键瓶颈）：`13F 占比 5.5%`，市值约 `$2.25bn`，股数/份额 `8,072,536`。
-- `GEV` Ge Vernova Inc（GE Vernova，电力设备和电网技术公司，受益于电气化、电网升级和能源转型资本开支）：`13F 占比 5.5%`，市值约 `$2.23bn`，股数/份额 `3,634,166`。
-- `AMZN` Amazon Com Inc（电商、物流、AWS 云和广告共同构成的平台公司，长期变量是基础设施外部化能力）：`13F 占比 4.7%`，市值约 `$1.92bn`，股数/份额 `8,743,095`。
-- `AVGO` Broadcom Inc（博通，半导体和基础设施软件公司，AI 网络、ASIC 和 VMware 是当前核心变量）：`13F 占比 4.7%`，市值约 `$1.90bn`，股数/份额 `5,767,559`。
-- `CEG` Constellation Energy Corp（Constellation Energy，美国核电和清洁电力运营商，核心看数据中心用电、长期购电协议和电价）：`13F 占比 4.6%`，市值约 `$1.88bn`，股数/份额 `5,725,963`。
-- `NVDA` Nvidia Corporation（AI 加速计算平台，GPU、网络和 CUDA 生态共同支撑数据中心算力需求）：`13F 占比 4.5%`，市值约 `$1.84bn`，股数/份额 `9,870,743`。
-- `ETN` Eaton Corp Plc（伊顿，电气设备和电力管理公司，核心看数据中心、电网升级和工业电气化需求）：`13F 占比 4.4%`，市值约 `$1.79bn`，股数/份额 `4,794,777`。
+### 这四季的变化小结
 
-### 单机构长线趋势页
+同时看上市公司盈利兑现、平台与基础设施的机会成本，以及私募和新上市资产的申报衔接。13F只覆盖可申报公开证券，不代表Coatue私募、现金或完整跨资产组合；新上市存托凭证及特殊持股单列核验。
 
-- [13F趋势-Coatue](/investor-masters/institutions/13f-trends-coatue/)
-- [Q2 2026 横向趋势](/investor-masters/institutions/13f-trends-2026-q2/)
+### 数据来源
+
+- [SEC 13F-HR · 2026-09-30 · 2026-11-16](https://www.sec.gov/Archives/edgar/data/1135730/000091957426007862/0000919574-26-007862-index.htm)
+- [SEC 13F-HR · 2026-06-30 · 2026-08-14](https://www.sec.gov/Archives/edgar/data/1135730/000091957426005478/0000919574-26-005478-index.htm)
+- [SEC 13F-HR · 2026-03-31 · 2026-05-15](https://www.sec.gov/Archives/edgar/data/1135730/000091957426003501/0000919574-26-003501-index.htm)
+- [SEC 13F-HR · 2025-12-31 · 2026-02-17](https://www.sec.gov/Archives/edgar/data/1135730/000091957426001239/0000919574-26-001239-index.htm)
+- [SEC 13F-HR/A · 2025-12-31 · 2026-05-15](https://www.sec.gov/Archives/edgar/data/1135730/000091957426003414/0000919574-26-003414-index.htm)
+- [SEC｜Coatue：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/coatue-13f-2026q3/)；[Coatue-13f-source-audit](/investor-masters/sources/coatue-13f-source-audit/)。
 
 ## 机构传承
 

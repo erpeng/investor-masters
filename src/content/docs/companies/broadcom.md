@@ -25,6 +25,16 @@ Baillie Gifford 在 2026Q2 把 `AVGO` 从约 `95.7k` 股增至 `1.36m` 股，增
 
 季度末隐含价约 `$377.77`；截至 `2026-08-14 17:00 CST` 的公开行情快照约 `$417.82`，13F 后约 `+10.6%`。完整轨迹见 [13F趋势-Baillie](/investor-masters/institutions/13f-trends-baillie/)。
 
+## 2026Q3 13F 联动
+
+下表补充 Atreides、Coatue、Altimeter、Fundsmith、Pershing 五家中列示该证券的账户，比较 2026-06-30 与 2026-09-30 的 SEC 股数；Q3 均于 2026-11-16 披露。权重按各机构申报证券合计值计算，排名包含其已申报期权或特殊证券，不能当作基金净值排名。
+
+| 机构 / 证券 | Q2 → Q3 股数或份额 | 股数变化 | Q3 权重 | 申报前十状态 |
+|---|---:|---:|---:|---|
+| [Coatue](/investor-masters/institutions/13f-trends-coatue/) / AVGO | 5,846,831 → 6,666,450 | +14.02% | 4.296% | 留在前十 |
+
+股数变化是账户行为证据；业务前景、估值和资金约束仍需独立验证。
+
 ## 相关页面
 
 - [菲利普·拉丰](/investor-masters/investors/philippe-laffont/)
@@ -40,3 +50,5 @@ Baillie Gifford 在 2026Q2 把 `AVGO` 从约 `95.7k` 股增至 `1.36m` 股，增
 ## 主要来源
 
 - [Baillie Gifford SEC 13F filing detail - Q2 2026](https://www.sec.gov/Archives/edgar/data/1088875/000108887526000057/0001088875-26-000057-index.html)
+- [Coatue 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1135730/000091957426005478/0000919574-26-005478.txt)
+- [Coatue 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1135730/000091957426007862/0000919574-26-007862.txt)

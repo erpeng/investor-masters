@@ -74,6 +74,21 @@ Atreides 2026Q1 持有约 `953.6k` 股 Amazon，价值约 `$198.6m`，占普通�
 
 研究待验证：AWS 增长与资本开支兑现、零售效率及估值对仓位选择的影响。上述动作没有证明两家对公司长期价值的判断相反。
 
+### 第二批五家补充（2026-11-17）
+
+下表补充 Atreides、Coatue、Altimeter、Fundsmith、Pershing 五家中列示该证券的账户，比较 2026-06-30 与 2026-09-30 的 SEC 股数；Q3 均于 2026-11-16 披露。权重按各机构申报证券合计值计算，排名包含其已申报期权或特殊证券，不能当作基金净值排名。Pershing 的 Q2 已合并 11 月 16 日补报的 NEW HOLDINGS。
+
+| 机构 / 证券 | Q2 → Q3 股数或份额 | 股数变化 | Q3 权重 | 申报前十状态 |
+|---|---:|---:|---:|---|
+| [Atreides](/investor-masters/institutions/13f-trends-atreides/) / AMZN | 969,629 → 566,151 | -41.61% | 0.784% | 前十之外 |
+| [Coatue](/investor-masters/institutions/13f-trends-coatue/) / AMZN | 11,834,799 → 11,618,033 | -1.83% | 5.312% | 留在前十 |
+| [Altimeter](/investor-masters/institutions/13f-trends-altimeter/) / AMZN | 2,425,351 → 2,452,360 | +1.11% | 5.927% | 留在前十 |
+| [Pershing](/investor-masters/institutions/13f-trends-pershing/) / AMZN | 8,563,857 → 8,505,779 | -0.68% | 6.881% | 留在前十 |
+
+Atreides 减少正股 41.61%，Coatue 和 Pershing 小幅减少，Altimeter 小幅增加。与上文 Duquesne 加股、Appaloosa 减股合看，大型平台并非所有机构同向配置。
+
+Pershing 权重以包含 PS 关联主体股份的完整申报为分母；它不是 PSH 的净值权重，也不是所有账户合并后的净敞口。
+
 ## 分歧与共识
 
 共识很清楚：亚马逊不是普通成长股，而是一家能把客户价值、规模与现金流飞轮绑在一起的公司。分歧在于进入方式不同：共享规模经济、`描述差 + 时间差`、信用市场生存错价、平台资产再排序、集中组合替换、缩表后核心留存，以及 Trainium / 机器人能否把 AI 资本开支转成真实损益。
@@ -104,3 +119,12 @@ Atreides 2026Q1 持有约 `953.6k` 股 Amazon，价值约 `$198.6m`，占普通�
 - [Duquesne 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1536411/000153641126000006/0001536411-26-000006.txt)
 - [Appaloosa 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1656456/000165645626000004/0001656456-26-000004.txt)
 - [Appaloosa 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1656456/000165645626000003/0001656456-26-000003.txt)
+- [Atreides 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1777813/000177781326000009/0001777813-26-000009.txt)
+- [Atreides 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1777813/000177781326000013/0001777813-26-000013.txt)
+- [Coatue 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1135730/000091957426005478/0000919574-26-005478.txt)
+- [Coatue 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1135730/000091957426007862/0000919574-26-007862.txt)
+- [Altimeter 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1541617/000154161726000008/0001541617-26-000008.txt)
+- [Altimeter 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1541617/000154161726000010/0001541617-26-000010.txt)
+- [Pershing 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/2026053/000117266126003790/0001172661-26-003790.txt)
+- [Pershing 2026Q2 SEC 补充申报](https://www.sec.gov/Archives/edgar/data/2026053/000117266126005426/0001172661-26-005426.txt)
+- [Pershing 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/2026053/000117266126005427/0001172661-26-005427.txt)
