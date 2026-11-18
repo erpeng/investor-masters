@@ -13,6 +13,18 @@ Micron Technology（`MU`）是存储与内存制造商。在 AI 基础设施里�
 
 ## 公司点评
 
+<!-- 13f-2026q3-tudor:start -->
+### [Tudor Investment Corporation](/investor-masters/institutions/tudor-investment-corporation/)：2026Q3 公开持仓行为
+
+| 证券 | Q2股数 | Q3股数 | 调整后变化 | Q2权重 → Q3权重 | 前十变化 |
+|---|---:|---:|---|---|---|
+| MU（Micron Technology, Inc.） | 331,391 | 125,755 | -62.05% | 0.53% → 0.17% | 未进入前十 |
+
+解读框架：资产方向与工具组合观察，不推导净风险。这是根据机构既有方法提出的研究问题，不是管理者对本次交易原因的公开解释。
+下一步验证：继续核对经营、资本配置和估值，区分原有核心与本季增量。
+报告日为2026-09-30；季度股数差不是实际交易记录，权重上涨也可能发生在减股时。当前价格过滤与来源审计见 [13F趋势-Tudor](/investor-masters/institutions/13f-trends-tudor/)。
+<!-- 13f-2026q3-tudor:end -->
+
 ### [加文·贝克](/investor-masters/investors/gavin-baker/)
 
 Atreides 2026Q1 持有约 `760.4k` 股 Micron，价值约 `$256.9m`，占普通股票切片约 `6.3%`。它进入普通股前五，说明内存已经成为 Atreides 公开 AI 价值链的重要一环。
@@ -51,6 +63,10 @@ Atreides 大减股，Altimeter 加股，Coatue 小幅加股；与上文 Appaloos
 
 ## 相关页面
 
+<!-- 13f-2026q3-tudor-links:start -->
+- [Tudor Investment Corporation](/investor-masters/institutions/tudor-investment-corporation/)；[13F趋势-Tudor](/investor-masters/institutions/13f-trends-tudor/)；[13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
+<!-- 13f-2026q3-tudor-links:end -->
+
 - [加文·贝克](/investor-masters/investors/gavin-baker/)
 - [13F趋势-Atreides](/investor-masters/institutions/13f-trends-atreides/)
 - [英伟达](/investor-masters/companies/nvidia/)
@@ -58,6 +74,10 @@ Atreides 大减股，Altimeter 加股，Coatue 小幅加股；与上文 Appaloos
 - [大卫·泰珀](/investor-masters/investors/david-tepper/)
 
 ## 主要来源
+
+<!-- 13f-2026q3-tudor-sources:start -->
+- [SEC｜Tudor：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/tudor-13f-2026q3/)；[Tudor-13f-source-audit](/investor-masters/sources/tudor-13f-source-audit/)
+<!-- 13f-2026q3-tudor-sources:end -->
 
 - [Appaloosa 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1656456/000165645626000004/0001656456-26-000004.txt)
 - [Appaloosa 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1656456/000165645626000003/0001656456-26-000003.txt)

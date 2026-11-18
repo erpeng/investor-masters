@@ -52,7 +52,7 @@ H&H 没有像 Fundsmith 或 Oaktree 那样的公开机构备忘录，因此不�
 - H&H 是段永平相关的美国申报主体；以下不能代表其个人全部投资。
 - PDD 增股 11.86%、TSLA 增股 20.70%；NVDA 减股 63.07%、GOOG 减股 41.50%。方向以股数为准，不能只凭苹果或伯克希尔的权重变化推断买卖。
 - SpaceX 本季首次列示，权重约 0.18%，仅属于这一申报主体的可见切片；不能推成段永平个人完整资产组合或买入理由。
-- 长历史与全部在持证券：[13F趋势-HH](/investor-masters/institutions/13f-trends-hh/)；横向页：[Q3 首批五家](/investor-masters/institutions/13f-trends-2026-q3/)。
+- 长历史与全部在持证券：[13F趋势-HH](/investor-masters/institutions/13f-trends-hh/)；横向页：[Q3 23 家样本](/investor-masters/institutions/13f-trends-2026-q3/)。
 
 ### 近四个已披露季度前 10 大持仓
 

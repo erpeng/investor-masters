@@ -74,7 +74,7 @@ Altimeter 偏好能跨越公司生命周期的技术平台机会：早期可由�
 - SpaceX减股40.55%、Cerebras减17.60%，均另核上市股份和估值口径，不进入普通股票可复制排名。
 - Grab的CUSIP G4124C117是权证，原始类别W EXP 12/1/202；Q2/Q3均为3,502,000份，申报值分别$150,586与$94,554。它与普通股G4124C106分开，不进入普通股票榜，也不拿权证价格与GRAB正股比较。封面与信息表行和的差额独立披露，不归因于该权证。
 - 增加英伟达、Meta、Uber和美光，新列特斯拉与闪迪；退出多只半导体设备及软件证券，同时减少CoreWeave和特殊上市持股。集中组合内部重配与新列SMH PUT并存。
-- 长历史与全部在持证券：[13F趋势-Altimeter](/investor-masters/institutions/13f-trends-altimeter/)；横向页：[Q3 十家样本](/investor-masters/institutions/13f-trends-2026-q3/)。
+- 长历史与全部在持证券：[13F趋势-Altimeter](/investor-masters/institutions/13f-trends-altimeter/)；横向页：[Q3 23 家样本](/investor-masters/institutions/13f-trends-2026-q3/)。
 
 ### 近四个已披露季度前 10 大持仓
 

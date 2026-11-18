@@ -55,7 +55,7 @@ Duquesne 当前最重要的激励结构，不是 fee model，而是 `own capital
 - STX 正股增股 180.16%，同时新增 STX CALL；二者分开列示，期权申报值不是支付的权利金。U 增股 435.53%，AMZN 增股 42.65%，SE 增股 44.81%，FOXA 增股 38.17%。
 - TSM 减股 94.45%、STM 减股 47.94%；AMD、ARM、LRCX 在本期表中不再列示。新列示 NEM、B、AEM 等黄金股票与 SGI，完整小仓见趋势页。
 - 这组变化更适合观察存储、软件和黄金等资产方向的轮动，不能按长期集中型机构的方式照抄每个证券。LRCX 的退出与 Appaloosa 的加仓构成样本内分歧。
-- 长历史与全部在持证券：[13F趋势-Duquesne](/investor-masters/institutions/13f-trends-duquesne/)；横向页：[Q3 首批五家](/investor-masters/institutions/13f-trends-2026-q3/)。
+- 长历史与全部在持证券：[13F趋势-Duquesne](/investor-masters/institutions/13f-trends-duquesne/)；横向页：[Q3 23 家样本](/investor-masters/institutions/13f-trends-2026-q3/)。
 
 ### 近四个已披露季度前 10 大持仓
 

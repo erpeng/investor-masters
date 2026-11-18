@@ -23,14 +23,42 @@
         "fundsmith",
         "pershing"
       ]
+    },
+    {
+      "id": "third-five",
+      "snapshot_dir": "raw/data/13f-20261117-batch3",
+      "institutions": [
+        "akre",
+        "dorsey",
+        "ako",
+        "giverny",
+        "oakmark"
+      ]
+    },
+    {
+      "id": "fourth-eight",
+      "snapshot_dir": "raw/data/13f-20261117-batch4",
+      "institutions": [
+        "third-point",
+        "kensico",
+        "maverick",
+        "baupost",
+        "baillie",
+        "greenlight",
+        "lone-pine",
+        "tudor"
+      ]
     }
   ],
   "institution_keys": [
-    "atreides",
-    "coatue",
-    "altimeter",
-    "fundsmith",
-    "pershing"
+    "third-point",
+    "kensico",
+    "maverick",
+    "baupost",
+    "baillie",
+    "greenlight",
+    "lone-pine",
+    "tudor"
   ],
   "horizontal_keys": [
     "berkshire",
@@ -42,6 +70,19 @@
     "coatue",
     "altimeter",
     "fundsmith",
-    "pershing"
+    "pershing",
+    "akre",
+    "dorsey",
+    "ako",
+    "giverny",
+    "oakmark",
+    "third-point",
+    "kensico",
+    "maverick",
+    "baupost",
+    "baillie",
+    "greenlight",
+    "lone-pine",
+    "tudor"
   ]
 }

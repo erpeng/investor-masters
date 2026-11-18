@@ -13,6 +13,91 @@ Meta 在这批资料里既是负面情绪中被严重低估的公司，也是 AI
 
 ## 公司点评
 
+<!-- 13f-2026q3-lone-pine:start -->
+### [Lone Pine Capital](/investor-masters/institutions/lone-pine-capital/)：2026Q3 公开持仓行为
+
+| 证券 | Q2股数 | Q3股数 | 调整后变化 | Q2权重 → Q3权重 | 前十变化 |
+|---|---:|---:|---|---|---|
+| META（Meta） | 0 | 1,252,717 | 首次列示 | 0.00% → 5.93% | 进入前十 |
+
+解读框架：经营变化、新承接与持续性验证。这是根据机构既有方法提出的研究问题，不是管理者对本次交易原因的公开解释。
+下一步验证：广告变现与AI投入回报。
+报告日为2026-09-30；季度股数差不是实际交易记录，权重上涨也可能发生在减股时。当前价格过滤与来源审计见 [13F趋势-Lone Pine](/investor-masters/institutions/13f-trends-lone-pine/)。
+<!-- 13f-2026q3-lone-pine:end -->
+
+<!-- 13f-2026q3-baillie:start -->
+### [Baillie Gifford](/investor-masters/institutions/baillie-gifford/)：2026Q3 公开持仓行为
+
+| 证券 | Q2股数 | Q3股数 | 调整后变化 | Q2权重 → Q3权重 | 前十变化 |
+|---|---:|---:|---|---|---|
+| META（Meta） | 3,201,546 | 2,418,978 | -24.44% | 1.64% → 1.66% | 未进入前十 |
+
+解读框架：长期成长候选的经营兑现与机会成本。这是根据机构既有方法提出的研究问题，不是管理者对本次交易原因的公开解释。
+下一步验证：继续核对经营、资本配置和估值，区分原有核心与本季增量。
+报告日为2026-09-30；季度股数差不是实际交易记录，权重上涨也可能发生在减股时。当前价格过滤与来源审计见 [13F趋势-Baillie](/investor-masters/institutions/13f-trends-baillie/)。
+<!-- 13f-2026q3-baillie:end -->
+
+<!-- 13f-2026q3-maverick:start -->
+### [Maverick Capital](/investor-masters/institutions/maverick-capital/)：2026Q3 公开持仓行为
+
+| 证券 | Q2股数 | Q3股数 | 调整后变化 | Q2权重 → Q3权重 | 前十变化 |
+|---|---:|---:|---|---|---|
+| META（Meta） | 764,041 | 1,042,347 | +36.43% | 3.80% → 5.90% | 仍在前十 |
+
+解读框架：行业研究下的公司选择与经营差异。这是根据机构既有方法提出的研究问题，不是管理者对本次交易原因的公开解释。
+下一步验证：广告变现与资本开支回报。
+报告日为2026-09-30；季度股数差不是实际交易记录，权重上涨也可能发生在减股时。当前价格过滤与来源审计见 [13F趋势-Maverick](/investor-masters/institutions/13f-trends-maverick/)。
+<!-- 13f-2026q3-maverick:end -->
+
+<!-- 13f-2026q3-third-point:start -->
+### [Third Point](/investor-masters/institutions/third-point/)：2026Q3 公开持仓行为
+
+| 证券 | Q2股数 | Q3股数 | 调整后变化 | Q2权重 → Q3权重 | 前十变化 |
+|---|---:|---:|---|---|---|
+| META（Meta） | 0 | 655,000 | 首次列示 | 0.00% → 10.35% | 进入前十 |
+
+解读框架：事件、经营拐点和资本配置的条件性研究。这是根据机构既有方法提出的研究问题，不是管理者对本次交易原因的公开解释。
+下一步验证：广告增长、AI资本开支与自由现金流。
+报告日为2026-09-30；季度股数差不是实际交易记录，权重上涨也可能发生在减股时。当前价格过滤与来源审计见 [13F趋势-Third Point](/investor-masters/institutions/13f-trends-third-point/)。
+<!-- 13f-2026q3-third-point:end -->
+
+<!-- 13f-2026q3-oakmark:start -->
+### [Oakmark Funds](/investor-masters/institutions/oakmark-funds/)：2026Q3 公开持仓行为
+
+| 证券 | Q2股数 | Q3股数 | 调整后变化 | Q2权重 → Q3权重 | 前十变化 |
+|---|---:|---:|---|---|---|
+| META（Meta） | 4,655 | 2,430,495 | +52112.57% | 0.00% → 2.30% | 未进入前十 |
+
+解读框架：核对内在价值实现路径、资本配置和估值折让。这是根据机构既有方法提出的研究问题，不是管理者对本次交易原因的公开解释。
+下一步验证：广告变现、AI投入、资本开支和现金流。
+报告日为2026-09-30；季度股数差不是实际交易记录，权重上涨也可能发生在减股时。当前价格过滤与来源审计见 [13F趋势-Oakmark](/investor-masters/institutions/13f-trends-oakmark/)。
+申报主体为Harris Associates L.P.，不等同于某只Oakmark基金或某位经理的个人组合。
+<!-- 13f-2026q3-oakmark:end -->
+
+<!-- 13f-2026q3-giverny:start -->
+### [Giverny Capital](/investor-masters/institutions/giverny-capital/)：2026Q3 公开持仓行为
+
+| 证券 | Q2股数 | Q3股数 | 调整后变化 | Q2权重 → Q3权重 | 前十变化 |
+|---|---:|---:|---|---|---|
+| META（Meta） | 302,888 | 290,736 | -4.01% | 5.74% → 7.23% | 仍在前十 |
+
+解读框架：比较每股价值增长、业务耐久性与资本机会成本。这是根据机构既有方法提出的研究问题，不是管理者对本次交易原因的公开解释。
+下一步验证：继续核对经营、资本配置和估值，区分原有核心与本季增量。
+报告日为2026-09-30；季度股数差不是实际交易记录，权重上涨也可能发生在减股时。当前价格过滤与来源审计见 [13F趋势-Giverny](/investor-masters/institutions/13f-trends-giverny/)。
+<!-- 13f-2026q3-giverny:end -->
+
+<!-- 13f-2026q3-dorsey:start -->
+### [Dorsey Asset Management](/investor-masters/institutions/dorsey-asset-management/)：2026Q3 公开持仓行为
+
+| 证券 | Q2股数 | Q3股数 | 调整后变化 | Q2权重 → Q3权重 | 前十变化 |
+|---|---:|---:|---|---|---|
+| META（Meta） | 199,901 | 219,583 | +9.85% | 7.21% → 9.30% | 仍在前十 |
+
+解读框架：比较护城河、增长跑道及相邻持仓的机会成本。这是根据机构既有方法提出的研究问题，不是管理者对本次交易原因的公开解释。
+下一步验证：广告增长、资本开支、折旧与自由现金流。
+报告日为2026-09-30；季度股数差不是实际交易记录，权重上涨也可能发生在减股时。当前价格过滤与来源审计见 [13F趋势-Dorsey](/investor-masters/institutions/13f-trends-dorsey/)。
+<!-- 13f-2026q3-dorsey:end -->
+
 ### [特里·史密斯](/investor-masters/investors/terry-smith/)
 > “Meta 就是另一个例子。在剑桥分析数据泄露丑闻之后，市场严重低估了它的价值。我们买入后，它的股价上涨了 5 倍，但当时，我们收到的负面评论铺天盖地，许多人都在质疑 “你们怎么能持有 Facebook（Meta 前身）”。我在去年和今年的年度信中都写过，我有时候甚至考虑设立一个基金，专门买入那些所有人都说“不该持有”的公司，因为他们的判断往往基于情绪，而不是数据。” ——来源：[4万字对话｜72岁传奇投资人特里·史密斯详述一生，如何塑造自己的投资风格](/investor-masters/sources/source-12/)
 
@@ -78,6 +163,34 @@ Pershing 权重以包含 PS 关联主体股份的完整申报为分母；它不�
 
 ## 相关页面
 
+<!-- 13f-2026q3-lone-pine-links:start -->
+- [Lone Pine Capital](/investor-masters/institutions/lone-pine-capital/)；[13F趋势-Lone Pine](/investor-masters/institutions/13f-trends-lone-pine/)；[13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
+<!-- 13f-2026q3-lone-pine-links:end -->
+
+<!-- 13f-2026q3-baillie-links:start -->
+- [Baillie Gifford](/investor-masters/institutions/baillie-gifford/)；[13F趋势-Baillie](/investor-masters/institutions/13f-trends-baillie/)；[13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
+<!-- 13f-2026q3-baillie-links:end -->
+
+<!-- 13f-2026q3-maverick-links:start -->
+- [Maverick Capital](/investor-masters/institutions/maverick-capital/)；[13F趋势-Maverick](/investor-masters/institutions/13f-trends-maverick/)；[13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
+<!-- 13f-2026q3-maverick-links:end -->
+
+<!-- 13f-2026q3-third-point-links:start -->
+- [Third Point](/investor-masters/institutions/third-point/)；[13F趋势-Third Point](/investor-masters/institutions/13f-trends-third-point/)；[13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
+<!-- 13f-2026q3-third-point-links:end -->
+
+<!-- 13f-2026q3-oakmark-links:start -->
+- [Oakmark Funds](/investor-masters/institutions/oakmark-funds/)；[13F趋势-Oakmark](/investor-masters/institutions/13f-trends-oakmark/)；[13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
+<!-- 13f-2026q3-oakmark-links:end -->
+
+<!-- 13f-2026q3-giverny-links:start -->
+- [Giverny Capital](/investor-masters/institutions/giverny-capital/)；[13F趋势-Giverny](/investor-masters/institutions/13f-trends-giverny/)；[13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
+<!-- 13f-2026q3-giverny-links:end -->
+
+<!-- 13f-2026q3-dorsey-links:start -->
+- [Dorsey Asset Management](/investor-masters/institutions/dorsey-asset-management/)；[13F趋势-Dorsey](/investor-masters/institutions/13f-trends-dorsey/)；[13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
+<!-- 13f-2026q3-dorsey-links:end -->
+
 - [特里·史密斯](/investor-masters/investors/terry-smith/)
 - [比尔·米勒](/investor-masters/investors/bill-miller/)
 - [格雷格·詹森](/investor-masters/investors/greg-jensen/)
@@ -92,6 +205,34 @@ Pershing 权重以包含 PS 关联主体股份的完整申报为分母；它不�
 - [Alphabet](/investor-masters/companies/alphabet/)
 
 ## 主要来源
+
+<!-- 13f-2026q3-lone-pine-sources:start -->
+- [SEC｜Lone Pine：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/lone-pine-13f-2026q3/)；[Lone Pine-13f-source-audit](/investor-masters/sources/lone-pine-13f-source-audit/)
+<!-- 13f-2026q3-lone-pine-sources:end -->
+
+<!-- 13f-2026q3-baillie-sources:start -->
+- [SEC｜Baillie：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/baillie-13f-2026q3/)；[Baillie-13f-source-audit](/investor-masters/sources/baillie-13f-source-audit/)
+<!-- 13f-2026q3-baillie-sources:end -->
+
+<!-- 13f-2026q3-maverick-sources:start -->
+- [SEC｜Maverick：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/maverick-13f-2026q3/)；[Maverick-13f-source-audit](/investor-masters/sources/maverick-13f-source-audit/)
+<!-- 13f-2026q3-maverick-sources:end -->
+
+<!-- 13f-2026q3-third-point-sources:start -->
+- [SEC｜Third Point：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/third-point-13f-2026q3/)；[Third Point-13f-source-audit](/investor-masters/sources/third-point-13f-source-audit/)
+<!-- 13f-2026q3-third-point-sources:end -->
+
+<!-- 13f-2026q3-oakmark-sources:start -->
+- [SEC｜Oakmark：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/oakmark-13f-2026q3/)；[Oakmark-13f-source-audit](/investor-masters/sources/oakmark-13f-source-audit/)
+<!-- 13f-2026q3-oakmark-sources:end -->
+
+<!-- 13f-2026q3-giverny-sources:start -->
+- [SEC｜Giverny：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/giverny-13f-2026q3/)；[Giverny-13f-source-audit](/investor-masters/sources/giverny-13f-source-audit/)
+<!-- 13f-2026q3-giverny-sources:end -->
+
+<!-- 13f-2026q3-dorsey-sources:start -->
+- [SEC｜Dorsey：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/dorsey-13f-2026q3/)；[Dorsey-13f-source-audit](/investor-masters/sources/dorsey-13f-source-audit/)
+<!-- 13f-2026q3-dorsey-sources:end -->
 
 - [4万字对话｜72岁传奇投资人特里·史密斯详述一生，如何塑造自己的投资风格](/investor-masters/sources/source-12/)
 - [重注亚马逊、比特币的人！比尔·米勒经典对谈：如何避免被偏见带偏](/investor-masters/sources/source-142/)

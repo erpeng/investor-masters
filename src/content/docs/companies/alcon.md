@@ -13,6 +13,18 @@ Alcon（爱尔康）提供眼科手术设备、人工晶体、隐形眼镜和眼
 
 ## 公司点评
 
+<!-- 13f-2026q3-ako:start -->
+### [AKO Capital](/investor-masters/institutions/ako-capital/)：2026Q3 公开持仓行为
+
+| 证券 | Q2股数 | Q3股数 | 调整后变化 | Q2权重 → Q3权重 | 前十变化 |
+|---|---:|---:|---|---|---|
+| ALC（Alcon / 爱尔康） | 9,683,004 | 8,621,232 | -10.97% | 15.19% → 17.68% | 仍在前十 |
+
+解读框架：检验质量、资本回报和估值纪律；增股只作为研究入口。这是根据机构既有方法提出的研究问题，不是管理者对本次交易原因的公开解释。
+下一步验证：继续核对经营、资本配置和估值，区分原有核心与本季增量。
+报告日为2026-09-30；季度股数差不是实际交易记录，权重上涨也可能发生在减股时。当前价格过滤与来源审计见 [13F趋势-AKO](/investor-masters/institutions/13f-trends-ako/)。
+<!-- 13f-2026q3-ako:end -->
+
 本页以 2026Q3 13F 行为建立研究入口。申报只证明所列账户的季度末持仓，不替代管理人的公开业务判断，也不构成已完成的公司估值。
 
 ### [Pershing](/investor-masters/institutions/pershing-square/)
@@ -37,11 +49,19 @@ Pershing 权重以包含 PS 关联主体股份的完整申报为分母；它不�
 
 ## 相关页面
 
+<!-- 13f-2026q3-ako-links:start -->
+- [AKO Capital](/investor-masters/institutions/ako-capital/)；[13F趋势-AKO](/investor-masters/institutions/13f-trends-ako/)；[13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
+<!-- 13f-2026q3-ako-links:end -->
+
 - [13F趋势-Pershing](/investor-masters/institutions/13f-trends-pershing/)
 - [比尔·阿克曼](/investor-masters/investors/bill-ackman/)
 - [13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
 
 ## 主要来源
+
+<!-- 13f-2026q3-ako-sources:start -->
+- [SEC｜AKO：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/ako-13f-2026q3/)；[AKO-13f-source-audit](/investor-masters/sources/ako-13f-source-audit/)
+<!-- 13f-2026q3-ako-sources:end -->
 
 - [Alcon 2025 年报](https://www.sec.gov/Archives/edgar/data/1167379/000116737926000014/alc-20251231.htm)
 - [Pershing 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/2026053/000117266126003790/0001172661-26-003790.txt)

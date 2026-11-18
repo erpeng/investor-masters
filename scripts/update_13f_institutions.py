@@ -28,7 +28,10 @@ NEW_MANAGERS={
     'pershing': ('Pershing', 'Pershing Square', 2026053),
 }
 WEIGHTS.update(atreides=.9,coatue=1.1,altimeter=1.1,fundsmith=1.4,pershing=1.4)
-META={k:{'title':v[0],'name':v[1],'cik':v[2]} for k,v in {**g.MANAGERS,**NEW_MANAGERS}.items()}
+WEIGHTS.update(akre=1.4,dorsey=1.3,ako=1.3,giverny=1.4,oakmark=1.1)
+WEIGHTS.update({'third-point':1.0,'kensico':1.0,'maverick':.9,'baupost':1.1,
+                'baillie':1.1,'greenlight':1.0,'lone-pine':1.0,'tudor':.6})
+META={k:{'title':v[0],'name':v[1],'cik':v[2]} for k,v in g.ALL_MANAGERS.items()}
 INSTITUTION_KEYS=FIRST_KEYS
 CROSS_KEYS=FIRST_KEYS
 SNAPSHOT_PATHS={}
@@ -131,6 +134,65 @@ DESC.update({
  'NFLX':('Netflix','提供流媒体内容和广告服务，关注订阅、内容投入和现金流'),
 })
 
+DESC.update({
+ 'KKR':('KKR & Co.','另类资产管理与保险集团，关注募资、管理费、投资兑现和资本回报'),
+ 'CSGP':('CoStar Group','房地产数据与在线市场平台，关注订阅及门户投入的回报'),
+ 'ORLY':("O’Reilly Automotive",'汽车零部件零售商，关注同店增长、专业客户和库存周转'),
+ 'ROP':('Roper Technologies','经营专业软件与技术业务，关注经常性收入和收购回报'),
+ 'ABNB':('Airbnb','住宿预订平台，关注供需、客单价、监管和现金流'),
+ 'FICO':('Fair Isaac','提供信用评分和决策软件，关注定价、客户采用与资本回报'),
+ 'CPRT':('Copart','运营事故车拍卖平台，关注车辆供给、场地网络和成交收费'),
+ 'CCC':('CCC Intelligent Solutions','提供财险与汽车理赔软件，关注保险公司采用和订阅续约'),
+ 'ASML':('ASML Holding','提供光刻系统与服务，关注先进制程资本开支和交付'),
+ 'DHR':('Danaher','生命科学与诊断企业，关注仪器、耗材及客户研发支出'),
+ 'AER':('AerCap Holdings','经营飞机租赁，关注租赁现金流、机队价值和融资成本'),
+ 'BKNG':('Booking Holdings','在线旅游预订集团，关注间夜增长、营销效率和现金流'),
+ 'RPRX':('Royalty Pharma','投资药品特许权收入，关注药品销售、专利期限和收购回报'),
+ 'LYV':('Live Nation Entertainment','经营演唱会、票务和场馆，关注活动需求、票务收费和监管'),
+ 'AZO':('AutoZone','汽车零部件零售商，关注同店增长、商业客户和资本回报'),
+ 'ENOV':('Enovis','提供骨科与康复医疗技术，关注手术量、产品创新和整合'),
+ 'SUNB':('Sunbelt Rentals Holdings','设备租赁企业，关注租赁需求、利用率和车队资本开支'),
+ 'APP':('AppLovin','广告技术平台，关注广告转化、客户留存与自由现金流'),
+ 'TYL':('Tyler Technologies','提供公共部门软件，关注云迁移、实施和长期续约'),
+ 'FLUT':('Flutter Entertainment','经营体育博彩和线上娱乐，关注客户获取、监管和利润率'),
+ 'ALC':('Alcon','眼科设备与耗材企业，关注手术需求、隐形眼镜和产品创新'),
+ 'RACE':('Ferrari','豪华汽车制造商，关注订单、定价、产品组合和资本回报'),
+ 'GE':('GE Aerospace','航空发动机与服务企业，关注飞行小时、售后收入和交付'),
+ 'ADI':('Analog Devices','模拟与混合信号芯片企业，关注工业、汽车周期和库存'),
+ 'ICE':('Intercontinental Exchange','经营交易所、金融数据和抵押贷款技术，关注交易及订阅收费'),
+ 'CSCO':('Cisco Systems','企业网络设备与安全软件企业，关注订单、订阅和客户预算'),
+ 'CP':('Canadian Pacific Kansas City','经营北美铁路，关注运量、定价、运营效率和资本开支'),
+ 'APD':('Air Products and Chemicals','工业气体企业，关注长期合同、能源成本及项目回报'),
+ 'AME':('AMETEK','提供电子仪器与机电设备，关注专业市场定价和收购回报'),
+ 'HEI-A':('HEICO Class A','航空零部件与电子技术企业A类股，关注售后需求和并购回报'),
+ 'HEI.A':('HEICO Class A','航空零部件与电子技术企业A类股，关注售后需求和并购回报'),
+ 'SCHW':('Charles Schwab','证券经纪与财富平台，关注客户资产、现金分流和净息差'),
+ 'MEDP':('Medpace Holdings','临床研究外包企业，关注订单、试验项目和生物医药融资'),
+ 'IBP':('Installed Building Products','建筑保温等安装服务商，关注住宅建设和施工效率'),
+ 'PGR':('Progressive','财产险企业，关注承保定价、赔付率和投资收益'),
+ 'FIVE':('Five Below','折扣零售商，关注门店扩张、同店需求和库存'),
+ 'COF':('Capital One Financial','消费金融与银行企业，关注信用损失、存款和资本回报'),
+ 'CRM':('Salesforce','企业客户关系与业务软件平台，关注续约、产品增购和现金流'),
+ 'IQV':('IQVIA','医疗数据与临床研究服务企业，关注订单、项目转化和研发支出'),
+ 'KDP':('Keurig Dr Pepper','饮料与咖啡系统企业，关注销量、品牌定价和资本配置'),
+ 'WBD':('Warner Bros. Discovery','媒体与娱乐企业，关注流媒体、内容价值和债务'),
+ 'COP':('ConocoPhillips','油气勘探生产企业，关注油气价格、产量和资本纪律'),
+ 'TRGP':('Targa Resources','天然气中游企业，关注处理运输量、项目和负债'),
+ 'FCNCA':('First Citizens BancShares','银行控股公司，关注存贷款、信用损失和整合'),
+ 'ELV':('Elevance Health','医疗保险与健康服务企业，关注医疗成本率和会员结构'),
+ 'MRSH':('Marsh & McLennan','保险经纪与咨询集团，关注续约、收费、整合和现金流'),
+ 'NYT':('The New York Times Company','新闻与数字订阅企业，关注组合订阅、留存和每用户收入'),
+ 'MSA':('MSA Safety','安全设备企业，关注替换需求、客户认证和定价'),
+ 'TEL':('TE Connectivity','连接器与传感器企业，关注数据连接及汽车、工业需求'),
+ 'C':('Citigroup','全球银行集团，关注重组、信用成本和资本回报'),
+ 'RKT':('Rocket Companies','抵押贷款与住房服务平台，关注贷款周期和收购整合'),
+ 'TDG':('TransDigm Group','航空零部件企业，关注售后定价、杠杆和并购回报'),
+ 'ROL':('Rollins','害虫防治服务企业，关注客户续约、网点密度和并购回报'),
+ 'WMB':('The Williams Companies','天然气管道与中游企业，关注合同覆盖和项目回报'),
+ 'SLB':('SLB','油气技术与服务企业，关注国际订单、客户投入和周期'),
+ 'EFX':('Equifax','信用与人力数据企业，关注金融活动、数据产品和技术投入'),
+})
+
 RADAR={
 'berkshire':[
 'AAPL、AXP、KO、Alphabet A/C 等核心持仓股数不变；AAPL 权重上升不能记成主动加仓。GOOG/GOOGL 在下表按证券类别分别列示，跨机构比较时合并为 Alphabet。',
@@ -152,6 +214,13 @@ RADAR={
 '半导体与算力承接层仍有买入，但互联网平台同时被减仓。NVDA 与 H&H、LRCX 与 Duquesne、AMZN 与 Duquesne 的动作相反，应读作机构分歧。',
 'SpaceX 同 CUSIP 申报隐含价与其他机构存在差异，保留本机构原值；股数增长不全部认定为二级市场买入。其申报值的机械分解也不能当作可比的市场价格收益。'],
 }
+
+# Reviewed company/ETF business descriptions shared with batch propagation.
+_business_catalog = Path(__file__).resolve().parent/'data/13f-2026q3-propagation.json'
+if _business_catalog.exists():
+    for _ticker, _business in json.loads(_business_catalog.read_text()).get('business', {}).items():
+        DESC.setdefault(_ticker, tuple(_business))
+
 
 def read(k):
     path=SNAPSHOT_PATHS.get(k,SNAPSHOT_DIR/f'{k}.json')
@@ -190,16 +259,20 @@ def pp(v): return f'{v:+.2f}pct'
 def index(f): return f['url'].rsplit('/',1)[0]+'/'+f['accessionNumber']+'-index.htm'
 def link(f): return f"[SEC {f['form']} · {f['reportDate']} · {f['filingDate']}]({index(f)})"
 def pct(x): return f'{x:+.2%}'
-ETF_ISSUER_RE=re.compile(r'\b(?:ETF|ISHARES|SPDR|INVESCO|VANECK|PROSHARES|DIREXION|KRANESHARES|VANGUARD|WISDOMTREE)\b|\bEXCHANGE\s+TRADED\b',re.I)
+ETF_ISSUER_RE=re.compile(r'\b(?:ETF|ETP|ISHARES|SPDR|INVESCO|VANECK|PROSHARES|DIREXION|KRANESHARES|VANGUARD|WISDOMTREE)\b|\bEXCHANGE[\s-]+TRADED\b',re.I)
 
 def instrument_type(row):
     """Describe the listed instrument without treating all foreign shares as ADRs."""
     cls=row['security_class'].upper()
+    if row.get('share_type')=='PRN' or re.search(r'\b(?:NOTE|BOND)\b',cls):
+        return '票据/债券'
+    if re.search(r'\b(?:PREFERRED|PREF|PFD)\b',cls):
+        return '优先股'
     if re.search(r'\b(?:WARRANT|WARRANTS|WEXP)\b|\bW\s+EXP\b',cls):
         return '权证'
-    if ETF_ISSUER_RE.search(row['issuer']) or re.search(r'\bETF\b',cls):
+    if ETF_ISSUER_RE.search(row['issuer']) or re.search(r'\bETF\b|EXCHANGE[\s-]+TRADED',cls):
         return 'ETF'
-    if re.search(r'\b(?:ADR|ADS)\b|\bAMERICAN DEPOSIT',cls):
+    if re.search(r'\b(?:ADR|ADS)\b|\bAMERICAN DEPOSIT|DEPOSITORY RECEIPT',cls):
         return 'ADR/ADS'
     if re.search(r'\b(?:N\s*Y|NEW YORK)\s+REGISTRY\b',cls):
         return '纽约登记股'
@@ -230,7 +303,7 @@ def update_institution(k):
     f"最近一季：`2026Q3` vs `2026Q2`；报告日 `2026-09-30`；申报日 `{curr['filings'][-1]['filingDate']}`；核验 `{DATE}`。",'',
     f"- 申报证券行和从 `{money(prev['total'])}` 变为 `{money(curr['total'])}`（`{pct(curr['total']/prev['total']-1)}`）；聚合后 `{len(curr['rows'])}` 个证券类别，其中期权 `{nopt}` 个。非期权证券前五占其切片 `{top5:.2%}`、前十占 `{top10:.2%}`。",
     f"- 非期权证券切片申报值 `{money(ordinary(prev))}` → `{money(ordinary_total)}`；按上季隐含价格估算的股数项 `{signed(active)}`，价格项 `{signed(price)}`。这是两期持仓的机械分解，不是现金流、真实成交额或投资收益；首次上市、估值口径不同的证券另见趋势页边界。"]
-    if k in NEW_MANAGERS:
+    if k not in FIRST_KEYS:
         breakdown=g.attribution_breakdown(d,prev,curr)
         if breakdown['unattributed']:
             lines.append(f"- 不可比分解余项 `{signed(breakdown['unattributed'])}` 保留在申报总值中，不分配为主动交易或市场价格收益；逐项原因见单机构趋势页。")
@@ -248,9 +321,9 @@ def update_institution(k):
         lines.append(f"- 最新封面申报总值 `${cover:,.0f}`，信息表行和 `${curr['total']:,.0f}`，行和减封面的差额为 `${rounding:,.0f}`；本页权重采用行和。差额不自动归因于某项证券，也不补造修正金额。")
     if k=='hh': lines.append('- H&H 是段永平相关的美国申报主体；以下不能代表其个人全部投资。')
     lines += ['- '+s for s in RADAR.get(k,d.get('editorial',{}).get('notes',[]))]
-    if k in NEW_MANAGERS:
+    if k not in FIRST_KEYS:
         lines += ['- '+d['editorial']['summary']]
-    cross_label='Q3 十家样本' if len(CROSS_KEYS)>5 else 'Q3 首批五家'
+    cross_label=f'Q3 {len(CROSS_KEYS)} 家样本'
     lines += [f"- 长历史与全部在持证券：[[institutions/13F趋势-{meta['title']}]]；横向页：[[institutions/13F趋势-2026Q3|{cross_label}]]。",'',
     '### 近四个已披露季度前 10 大持仓','']
     for q in reversed(qs[-4:]):
@@ -273,7 +346,7 @@ def update_institution(k):
     }.get(k,d.get('editorial',{}).get('method','')), '', '### 数据来源','']
     for q in reversed(qs[-4:]):
         for f in q['filings']: lines.append('- '+link(f))
-    lines += [f"- [[raw/SEC｜{meta['title']}：2022Q4至2026Q3持仓轨迹]]；[[sources/{meta['title']}-13f-source-audit]]。",'']
+    lines += [f"- [[raw/SEC｜{meta['title']}：2022Q4至2026Q3持仓轨迹]]；[[sources/{g.audit_name(d)}]]。",'']
     p=VAULT/f"wiki/institutions/{meta['name']}.md"
     text=p.read_text()
     text=re.sub(r'## 13F 持仓.*?(?=## 机构传承)', '\n'.join(lines)+'\n', text, flags=re.S)
@@ -326,6 +399,8 @@ def cross_data():
             active=0
             for key in sorted(keys):
                 old,new=p['rows'].get(key),c['rows'].get(key)
+                if g.uncertain_action(d,p,c,key):
+                    continue
                 if f[1] in ('特殊披露','不可比证券','金额异常'):
                     continue
                 if any(r is not None and r.get('value_reliable') is False for r in (old,new)):
@@ -392,7 +467,7 @@ def market_table(items,limit=12,score=True):
 def update_cross():
     allrows,sources=cross_data();normal=[x for x in allrows if x['category']=='普通股票']
     expanded=len(CROSS_KEYS)>5
-    sample='十家样本' if expanded else '首批五家'
+    sample=f'{len(CROSS_KEYS)} 家样本'
     coverage='、'.join(META[k]['title'] for k in CROSS_KEYS)
     buys=sorted([x for x in normal if x['net']>1e-6],key=lambda x:(-x['net'],-len(x['buyers']),-abs(x['active'])))
     sells=sorted([x for x in normal if x['net']< -1e-6],key=lambda x:(x['net'],-len(x['sellers']),-abs(x['active'])))
@@ -404,7 +479,8 @@ def update_cross():
     for k,d,p,c in sources:
         lines.append(f"| [[institutions/13F趋势-{META[k]['title']}|{META[k]['title']}]] | {c['filings'][-1]['filingDate']} | {money(p['total'])} | {money(c['total'])} | {len(c['rows'])} | {WEIGHTS[k]:.1f} |")
     if expanded:
-        lines += ['','首批五家继续读取原不可变快照 `raw/data/13f-20261117`；新增五家读取 `raw/data/13f-20261117-batch2`。本页只扩充样本，不改写首批原始证据。','',
+        directories=list(dict.fromkeys(str(SNAPSHOT_PATHS.get(k,SNAPSHOT_DIR/f'{k}.json').parent.relative_to(VAULT)) for k in CROSS_KEYS))
+        lines += ['','各批独立证据目录：'+'、'.join(f'`{p}`' for p in directories)+'。本页扩充样本并重算，不改写既有原始证据。','',
                   '### 申报总额与辅助切片','',
                   '| 机构与口径 | Q2 | Q3 | 解释 |','|---|---:|---:|---|']
         for k,d,p,c in sources:
@@ -414,9 +490,14 @@ def update_cross():
             if k=='pershing':
                 auxiliary=lambda q:sum(r['value'] for r in q['rows'].values() if not r['put_call'] and r['cusip']!='71531U102')
                 lines.append(f"| Pershing 排除 PS 发行人股份 | {money(auxiliary(p))} | {money(auxiliary(c))} | 辅助证券切片，不是 PSH NAV 或官方 AUM；正式权重仍使用全报告分母 |")
+            if k=='tudor':
+                a,b=g.ordinary_slice(p),g.ordinary_slice(c)
+                lines.append(f"| Tudor 非期权证券 | {money(a['total'])} | {money(b['total'])} | 辅助集中度单列；正式前十及横向权重仍以全报告为分母，期权名义值不当资金投入 |")
         lines += ['','Pershing Q2已合并11月16日的 **NEW HOLDINGS** 补充申报；仅补PS发行人股份，不能用这一行替换原季持仓。Altimeter的Grab权证保留原始份额及申报额，作为权证单列，不与GRAB正股比价或进入普通股票榜；封面与信息表行和差额独立保留。']
+        if 'oakmark' in CROSS_KEYS:
+            lines += ['Oakmark使用Harris Associates全部申报范围，不等同某只Oakmark基金或某一经理的个人组合。']
         for k,d,p,c in sources:
-            if k in NEW_MANAGERS and c['filings'][-1].get('cover_difference'):
+            if k not in FIRST_KEYS and c['filings'][-1].get('cover_difference'):
                 f=c['filings'][-1]
                 lines.append(f"{META[k]['title']} Q3封面申报总值 `${f['reported_total']:,.0f}`，信息表行和 `${c['total']:,.0f}`，差额 `${f['cover_difference']:,.0f}`；不将其解释为取整或归给某一证券。")
     lines += ['','沿用 [[institutions/13F趋势|总入口]] 的主动额和评分结构：已有仓位按 `股数差 × 上季隐含价`，新列示按本季申报值，退出按上季申报值负数估算；先在机构内部净额，再做横向汇总。Berkshire=1.5、Himalaya/H&H=1.4、Duquesne=0.8；Appaloosa 本轮明确为 0.8，这是规则补记，不追称旧榜单已用此值。',
@@ -432,12 +513,30 @@ def update_cross():
     '| 标的及证券属性 | 本样本净分 | 主动增加机构 | 13F 锚点后价格变化 | 下一步核验 |','|---|---:|---|---|---|']
     if expanded:
         method_index=lines.index('## 结论先行')
-        lines[method_index:method_index]=['新增风格权重固定为 Atreides=0.9、Coatue=1.1、Altimeter=1.1、Fundsmith=1.4、Pershing=1.4；首批五家的权重保持原值。PS关联管理公司持股、Cerebras、SpaceX、新上市且不可比的证券、Grab权证和期权均不进入普通股票主榜。','']
+        added_weights='、'.join(f'{META[k]["title"]}={WEIGHTS[k]:.1f}' for k in CROSS_KEYS if k not in FIRST_KEYS)
+        lines[method_index:method_index]=[f'后续批次风格权重：{added_weights}；首批五家的权重保持原值。Akre首次加入本季全榜采用1.4，仅为启发式，并非对历史榜单的追溯声明。PS关联管理公司持股、Cerebras、SpaceX、新上市且不可比的证券、Grab权证和期权均不进入普通股票主榜。','']
         conclusion_index=lines.index('## 普通股票研究优先级')
         lines[conclusion_index:conclusion_index]=[
             '- **扩充后的平台信号不是单向共识。** Coatue与Atreides增MSFT/META，Altimeter增META；Fundsmith和Pershing减MSFT/META。必须保留两侧行为与各自方法，不能用净额抹平分歧。',
             '- **质量研究也在换仓。** Fundsmith大增VEEV、YUM、NXT、TJX及支付网络；其2026半年信披露上半年换手51.8%，最新行为不能继续套用“几乎不动”。Pershing新列ALC与ICE并增NFLX，UBER仍是核心但没有主动增股。',
             '- **申报范围会改变观感。** Atreides的期权名义值、Altimeter的Grab权证及独立封面差额、Pershing的PS关联股份和Q2补充修订均单列；不能把申报总额增长直接叫作净买入或基金回报。','']
+    if set(g.BATCH3_MANAGERS) <= set(CROSS_KEYS):
+        conclusion_index=lines.index('## 普通股票研究优先级')
+        lines[conclusion_index:conclusion_index]=[
+            '- **Veeva增加了集中质量机构的证据。** Dorsey首次列示VEEV并成为第一大仓，Giverny亦增加股数，与Fundsmith的增股同向；三家方法与仓位起点不同，需分别验证。',
+            '- **长期核心也在重新比较机会成本。** Akre退出ABNB、减少CSGP等核心，新列TDG/ROL小仓并增FICO；MA权重上升但股数减少。Giverny增NYT/MSA，减BRK.B/MKL；不能套用上季候选排序。',
+            '- **SUNB与平台股保留买卖分歧。** AKO增SUNB，Dorsey不再列示；Dorsey与Harris增META，Giverny减META。Harris增加GOOG、减少GOOGL，Alphabet先合并类别再评分。',
+            '- **第三批有三处关键口径。** AKO金额逐份标准化；Giverny Q2采用8月26日修订；Oakmark使用Harris Associates全部申报范围，不能当成单只基金或某位经理的个人组合。','']
+    if set(g.BATCH4_MANAGERS) <= set(CROSS_KEYS):
+        first=lines.index('## 结论先行'); last=lines.index('## 普通股票研究优先级')
+        lines[first:last]=['## 结论先行','',
+            '- **平台股两侧都更清楚。** Lone Pine新列AMZN、META，Third Point新列META却退出AMZN；Maverick增MSFT、META，Kensico增AMZN、MSFT，Fundsmith与Pershing减MSFT、META。净额不能代替各家的机会成本与原有仓位。',
+            '- **半导体仍是公司选择，不能叫作一致增仓。** Maverick增NVDA、TSM，Lone Pine显著增加TSM并新列INTC；Kensico减TSM并退出INTC，H&H继续减NVDA。Maverick几乎退出ALAB，Atreides却增股。',
+            '- **集中质量机构提供另一组证据。** Dorsey首次列示VEEV并成为第一大，Giverny与Fundsmith也增股；Akre退出ABNB、减少CSGP，但增FICO、试仓TDG/ROL。不能只用科技或价值标签归类。',
+            '- **中国平台与长期成长之间存在分歧。** Himalaya与H&H同增PDD，Baillie却减PDD 56.28%。Baillie增ALNY和部分设备股；MRNA减股37.18%仍进入前十，属于价格和分母推升。',
+            '- **价值与事件框架有具体替换。** Baupost增GPC、FERG、WCC、CME，新列SITE/HONA，AMZN股数不变；Greenlight增VGNT、PCG、DCH，新列CENX。分拆分派和证券转换必须先剔除，不能机械记作买卖。',
+            '- **宏观工具单独读。** Tudor的QQQ PUT与CALL同时增加，SPY现货增加而IVV减少；两侧名义值不能相减为净delta。普通股研究榜排除ETF、期权、优先股和特殊披露。',
+            '- **23家是固定研究样本。** 各家覆盖范围不同；Baupost逐份金额校准、Greenlight主体边界、Teva一比一证券转换及Tudor历史封面行数差均保留审计。Kensico=1.0为本季新增启发式。','']
     checks={}
     for _, data, _, _ in sources:
         checks.update(data.get('editorial',{}).get('next_checks',{}))
@@ -467,6 +566,12 @@ def update_cross():
             '| 平台与企业软件 | Coatue增MSFT/META、新列CRM/SHOP；Atreides增META、新列MSFT；Altimeter增META；Fundsmith/Pershing减MSFT/META | 订单、广告、AI投入与现金流；同时读买卖两侧 |',
             '| 质量与支付网络 | Fundsmith增VEEV/YUM/NXT/TJX及V/MA；Coatue新列V/MA，Pershing减V/MA | 经营增长、资本回报、估值及各家机会成本 |',
             '| 数据交易与眼科 | Pershing新列ICE与ALC、增NFLX；Coatue亦新列ICE | 交易数据、眼科产品与订阅内容的经营兑现；不混同投资理由 |','']
+        if set(g.BATCH3_MANAGERS) <= set(CROSS_KEYS):
+            asset_index=lines.index('## 首次披露或口径特殊的标的')
+            lines[asset_index-1:asset_index-1]=[
+                '| 行业软件与公共部门 | Dorsey新列VEEV/TYL/AXON；Giverny增VEEV；Akre减CSGP、NOW股数不变 | 产品竞争、续约、客户预算与新增资本回报 |',
+                '| 租赁、信息与安全 | AKO增SUNB/ICE；Dorsey退出SUNB；Giverny增NYT/MSA | 租赁利用率、数据收费、订阅留存与安全设备需求 |',
+                '| 价值框架内的平台与金融 | Harris增META/NFLX/MRSH/TEL及部分金融股，减MRK/STZ等 | 公司级类别净额、业务改善、资本配置和价格折让 |','']
         # Insert new rows inside the existing special-disclosure table.
         special_index=lines.index('## 共识加仓榜（仅本样本普通股票）')
         lines[special_index-1:special_index-1]=[
@@ -475,6 +580,19 @@ def update_cross():
             '| SKHY ADR | Coatue在Q3首次列示 | 新上市存托凭证，10份ADS对应1股普通股；不得推成首次投资或与韩国普通股直接相加 |',
             '| GRABW / Grab权证 | Altimeter申报CUSIP G4124C117，Q2/Q3均为3,502,000份 | 权证与GRAB正股是不同证券；保留申报额，普通股票榜剔除，封面差额独立披露 |','']
     lines+=market_table(buys)
+    if set(g.BATCH4_MANAGERS) <= set(CROSS_KEYS):
+        at=lines.index('## 首次披露或口径特殊的标的')-1
+        lines[at:at]=[
+            '| 平台内部换仓 | Lone Pine新列AMZN/META；Third Point新列META、退出AMZN；Maverick增MSFT/META；Kensico增AMZN/MSFT | 云、广告、资本开支和现金流，逐家比较基数及卖出侧 |',
+            '| 工业分销与价值修复 | Baupost增GPC/FERG/WCC/CME，新列SITE/HONA | 需求、周转、资本回报和独立后的现金流 |',
+            '| 分拆、监管与资源 | Greenlight增VGNT/PCG/DCH、新列CENX；ADIG为分派取得路径待核 | 独立经营、监管回报、周期和负债，分派不计现金买入 |',
+            '| 生命科学与长期成长 | Baillie增ALNY；Lone Pine新列DHR/TMO；Maverick新列DHR | 产品销售、客户研发预算、订单与估值 |','']
+        at=lines.index('## 共识加仓榜（仅本样本普通股票）')-1
+        lines[at:at]=[
+            '| Alphabet强制可转优先股 | Third Point另报CUSIP02079K404 | 与GOOG/GOOGL普通股不同，单列不可比工具，不合并股数或普通股评分 |',
+            '| TEVA ADS转普通股 | 9月14日一比一转换；Greenlight连续比较后减股37.04% | 保留旧新CUSIP原文，不制造清仓加新建 |',
+            '| ADIG / Resideo分派 | 8月每两股REZI分派一股ADIG | 母子证券相关季度差额单列未归因，不当成现金买入 |',
+            '| CTVA季度后分派 | 10月1日分派Vylor，发生在本季之后 | 不把行情源调整系数当作母公司拆股；现价过滤暂不计算单一证券可比收益 |','']
     lines+=['## 共识减仓榜（仅本样本普通股票）','']+market_table(sells)
     for head,kind in [('新进前十大榜','entry'),('退出前十大榜','exit')]:
         items=[x for x in normal if any(m[kind] for m in x['managers'])]
@@ -504,7 +622,7 @@ def update_cross():
     '## 数据来源','']
     for k,d,p,c in sources:
         filings='；'.join(link(f) for q in (c,p) for f in q['filings'])
-        lines += [f"- {META[k]['name']}：[SEC submissions](https://data.sec.gov/submissions/CIK{META[k]['cik']:010d}.json)；{filings}；[[sources/{META[k]['title']}-13f-source-audit]]。"]
+        lines += [f"- {META[k]['name']}：[SEC submissions](https://data.sec.gov/submissions/CIK{META[k]['cik']:010d}.json)；{filings}；[[sources/{g.audit_name(d)}]]。"]
     lines += ['',f'不可变来源卡与逐份申报摘要见各家来源审计；完整在持证券和退出轨迹见单机构趋势页。本页只是{sample}横向切片。','']
     (VAULT/'wiki/institutions/13F趋势-2026Q3.md').write_text('\n'.join(lines))
     print('cross ordinary',len(normal),'buy',len(buys),'sell',len(sells),'disagree',len(disagree))

@@ -66,7 +66,7 @@ Appaloosa 的关键机制，是决策集中和资本结构越来越接近自有�
 - 新列示 ORCL（2.28%）、AMAT（1.52%）、MOD（0.70%）、PCG（0.41%）；AMZN、META、GOOG 减股，AMD、AVGO、QCOM 本期不再列示。
 - 半导体与算力承接层仍有买入，但互联网平台同时被减仓。NVDA 与 H&H、LRCX 与 Duquesne、AMZN 与 Duquesne 的动作相反，应读作机构分歧。
 - SpaceX 同 CUSIP 申报隐含价与其他机构存在差异，保留本机构原值；股数增长不全部认定为二级市场买入。其申报值的机械分解也不能当作可比的市场价格收益。
-- 长历史与全部在持证券：[13F趋势-Appaloosa](/investor-masters/institutions/13f-trends-appaloosa/)；横向页：[Q3 首批五家](/investor-masters/institutions/13f-trends-2026-q3/)。
+- 长历史与全部在持证券：[13F趋势-Appaloosa](/investor-masters/institutions/13f-trends-appaloosa/)；横向页：[Q3 23 家样本](/investor-masters/institutions/13f-trends-2026-q3/)。
 
 ### 近四个已披露季度前 10 大持仓
 

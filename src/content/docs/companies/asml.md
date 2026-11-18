@@ -13,6 +13,18 @@ ASML 在这批资料里同时承担两种角色：一方面是 Baillie Gifford �
 
 ## 公司点评
 
+<!-- 13f-2026q3-dorsey:start -->
+### [Dorsey Asset Management](/investor-masters/institutions/dorsey-asset-management/)：2026Q3 公开持仓行为
+
+| 证券 | Q2股数 | Q3股数 | 调整后变化 | Q2权重 → Q3权重 | 前十变化 |
+|---|---:|---:|---|---|---|
+| ASML（ASML HLDG NV） [纽约登记股] | 130,364 | 74,237 | -43.05% | 16.61% → 7.85% | 仍在前十 |
+
+解读框架：比较护城河、增长跑道及相邻持仓的机会成本。这是根据机构既有方法提出的研究问题，不是管理者对本次交易原因的公开解释。
+下一步验证：继续核对经营、资本配置和估值，区分原有核心与本季增量。
+报告日为2026-09-30；季度股数差不是实际交易记录，权重上涨也可能发生在减股时。当前价格过滤与来源审计见 [13F趋势-Dorsey](/investor-masters/institutions/13f-trends-dorsey/)。
+<!-- 13f-2026q3-dorsey:end -->
+
 ### [詹姆斯·安德森](/investor-masters/investors/james-anderson/)
 > “不过我也得稍微反驳一下自己，因为对立案例的讨论同样重要。很有意思的是，有一家我们特别欣赏、但外界不太常问的公司，是荷兰的阿斯麦（ASML）。” ——来源：[2.5万字｜柏基“传奇基金经理”安德森的罕见深访：伟大公司各有各的独特，平庸公司却都差不多……](/investor-masters/sources/source-03/)
 
@@ -53,6 +65,10 @@ Coatue 减股 52.65%，与前一批 Appaloosa 增股形成直接分歧。两家�
 
 ## 相关页面
 
+<!-- 13f-2026q3-dorsey-links:start -->
+- [Dorsey Asset Management](/investor-masters/institutions/dorsey-asset-management/)；[13F趋势-Dorsey](/investor-masters/institutions/13f-trends-dorsey/)；[13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
+<!-- 13f-2026q3-dorsey-links:end -->
+
 - [詹姆斯·安德森](/investor-masters/investors/james-anderson/)
 - [劳伦斯·伯恩斯](/investor-masters/investors/lawrence-burns/)
 - [菲利普·拉丰](/investor-masters/investors/philippe-laffont/)
@@ -63,6 +79,10 @@ Coatue 减股 52.65%，与前一批 Appaloosa 增股形成直接分歧。两家�
 - [Applied Materials](/investor-masters/companies/applied-materials/)
 
 ## 主要来源
+
+<!-- 13f-2026q3-dorsey-sources:start -->
+- [SEC｜Dorsey：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/dorsey-13f-2026q3/)；[Dorsey-13f-source-audit](/investor-masters/sources/dorsey-13f-source-audit/)
+<!-- 13f-2026q3-dorsey-sources:end -->
 
 - [Appaloosa 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1656456/000165645626000004/0001656456-26-000004.txt)
 - [Appaloosa 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1656456/000165645626000003/0001656456-26-000003.txt)

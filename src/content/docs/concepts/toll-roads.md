@@ -13,7 +13,7 @@ description: "收费站型生意 在这批资料 里的最佳入口。"
 
 [AKO Capital](/investor-masters/institutions/ako-capital/) 把 `Toll Roads` 列为质量模式之一，非常有解释力，因为它把很多原本看上去差异很大的公司，重新读成同一种结构。支付清算网络、评级与数据平台、交易所与清算所，这些看起来分散的资产，其实都在做同一件事：守住通道，然后按流量收钱。
 
-这也解释了为什么 AKO 的 13F 持仓里，[Visa](/investor-masters/companies/visa/)、Moody's、ICE 这类公司会显得气味一致。它们最吸引人的，不是短期故事，而是收费站结构本身。
+这也解释了为什么 AKO 的 13F 持仓里，[Visa](/investor-masters/companies/visa/)、[Moody's](/investor-masters/companies/moodys/)、ICE 这类公司会显得气味一致。它们最吸引人的，不是短期故事，而是收费站结构本身。
 
 ## 相关概念
 

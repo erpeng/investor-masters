@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import os
 import hashlib
+import html
 import json
 import re
 import shutil
@@ -818,6 +819,19 @@ SOURCE_SLUG_OVERRIDES = {
     'SEC｜Altimeter：2022Q4至2026Q3持仓轨迹.md': 'altimeter-13f-2026q3',
     'SEC｜Fundsmith：2022Q4至2026Q3持仓轨迹.md': 'fundsmith-13f-2026q3',
     'SEC｜Pershing：2022Q4至2026Q3持仓轨迹.md': 'pershing-13f-2026q3',
+    'SEC｜Akre：2022Q4至2026Q3持仓轨迹.md': 'akre-13f-2026q3',
+    'SEC｜Dorsey：2022Q4至2026Q3持仓轨迹.md': 'dorsey-13f-2026q3',
+    'SEC｜AKO：2022Q4至2026Q3持仓轨迹.md': 'ako-13f-2026q3',
+    'SEC｜Giverny：2022Q4至2026Q3持仓轨迹.md': 'giverny-13f-2026q3',
+    'SEC｜Oakmark：2022Q4至2026Q3持仓轨迹.md': 'oakmark-13f-2026q3',
+    'SEC｜Third Point：2022Q4至2026Q3持仓轨迹.md': 'third-point-13f-2026q3',
+    'SEC｜Kensico：2022Q4至2026Q3持仓轨迹.md': 'kensico-13f-2026q3',
+    'SEC｜Maverick：2022Q4至2026Q3持仓轨迹.md': 'maverick-13f-2026q3',
+    'SEC｜Baupost：2022Q4至2026Q3持仓轨迹.md': 'baupost-13f-2026q3',
+    'SEC｜Baillie：2022Q4至2026Q3持仓轨迹.md': 'baillie-13f-2026q3',
+    'SEC｜Greenlight：2022Q4至2026Q3持仓轨迹.md': 'greenlight-13f-2026q3',
+    'SEC｜Lone Pine：2022Q4至2026Q3持仓轨迹.md': 'lone-pine-13f-2026q3',
+    'SEC｜Tudor：2022Q4至2026Q3持仓轨迹.md': 'tudor-13f-2026q3',
 }
 
 
@@ -825,7 +839,10 @@ def source_audit_groups() -> list[tuple[str, list[Path]]]:
     sources = WIKI_DIR / "sources"
     quarterly = [sources / f"{name}-13f-source-audit.md"
                  for name in ("Berkshire", "Himalaya", "HH", "Duquesne", "Appaloosa",
-                              "Atreides", "Coatue", "Altimeter", "Fundsmith", "Pershing")]
+                              "Atreides", "Coatue", "Altimeter", "Fundsmith", "Pershing",
+                              "Dorsey", "AKO", "Giverny", "Oakmark",
+                              "Third Point", "Kensico", "Maverick", "Baupost", "Baillie",
+                              "Greenlight", "Lone Pine", "Tudor")]
     return [
         ("Akre 材料审计", sorted(sources.glob("Akre-*-source-audit.md"))),
         ("13F 季度审计", [path for path in quarterly if path.exists()]),
@@ -956,7 +973,7 @@ def build_link_maps():
         type_map[f"dialogues/{src.stem}"] = src.stem
     for _, audits in source_audit_groups():
         for audit in audits:
-            page_map[f"sources/{audit.stem}"] = f"sources/{audit.stem.lower()}"
+            page_map[f"sources/{audit.stem}"] = f"sources/{audit.stem.lower().replace(' ', '-')}"
             type_map[f"sources/{audit.stem}"] = audit.stem
     page_map["sources/来源总表"] = "sources"
     page_map["investors/index"] = "investors"
@@ -1272,6 +1289,52 @@ def compile_companies():
             f.write(f"- [{name}]({doc_url('companies/' + company_slug(name))})\n")
 
 
+def split_large_tables(text: str, rows_per_table: int = 300) -> str:
+    """Keep every row while bounding GFM parsing cost for multi-thousand-row tables."""
+    lines = text.splitlines(keepends=True)
+    output = []
+    i = 0
+    fenced = False
+    while i < len(lines):
+        if lines[i].lstrip().startswith(('```', '~~~')):
+            fenced = not fenced
+        if (not fenced and i + 1 < len(lines) and lines[i].startswith('|')
+                and re.fullmatch(r'\|(?:\s*:?-{3,}:?\s*\|)+\s*', lines[i + 1])):
+            end = i + 2
+            while end < len(lines) and lines[end].startswith('|'):
+                end += 1
+            rows = lines[i + 2:end]
+            if len(rows) > rows_per_table:
+                # Generated holding cells contain plain text. Raw HTML avoids
+                # the Markdown parser's global table-token expansion as well.
+                # Tables with inline Markdown keep the normal Markdown path.
+                plain = not any('`' in line or '](' in line or '\\|' in line for line in lines[i:end])
+                cells = lambda line: [cell.strip() for cell in line.strip().strip('|').split('|')]
+                headings = cells(lines[i])
+                aligns = ['right' if x.endswith(':') else 'left' for x in cells(lines[i + 1])]
+                if plain:
+                    plain = all(len(cells(row)) == len(headings) for row in rows)
+                for start in range(0, len(rows), rows_per_table):
+                    if start:
+                        output.append(f'\n续表（第 {start + 1}—{min(start + rows_per_table, len(rows))} 项）\n\n')
+                    chunk = rows[start:start + rows_per_table]
+                    if plain:
+                        output.append('<table>\n<thead><tr>' + ''.join(f'<th style="text-align:{align}">{html.escape(cell)}</th>' for cell, align in zip(headings, aligns)) + '</tr></thead>\n<tbody>\n')
+                        for row in chunk:
+                            output.append('<tr>' + ''.join(f'<td style="text-align:{align}">{html.escape(cell)}</td>' for cell, align in zip(cells(row), aligns)) + '</tr>\n')
+                        output.append('</tbody>\n</table>\n\n')
+                    else:
+                        output.extend(lines[i:i + 2])
+                        output.extend(chunk)
+            else:
+                output.extend(lines[i:end])
+            i = end
+        else:
+            output.append(lines[i])
+            i += 1
+    return ''.join(output)
+
+
 def compile_institutions():
     for name, meta in INSTITUTION_META.items():
         source_path = WIKI_DIR / "institutions" / f"{name}.md"
@@ -1306,7 +1369,7 @@ def compile_institutions():
         elif stem == "13F趋势-Tudor":
             title = "13F 趋势 - Tudor"
             slug = "13f-trends-tudor"
-            description = "Tudor Investment Corporation 从 2023Q1 到 2026Q2 的单机构 13F 持仓变化。"
+            description = f"Tudor Investment Corporation 从 2023Q1 到 {page_meta.get('latest_quarter', '2026Q2')} 的单机构 13F 持仓变化。"
         elif stem == "13F趋势-Himalaya":
             title = "13F 趋势 - Himalaya"
             slug = "13f-trends-himalaya"
@@ -1314,15 +1377,15 @@ def compile_institutions():
         elif stem == "13F趋势-Lone Pine":
             title = "13F 趋势 - Lone Pine"
             slug = "13f-trends-lone-pine"
-            description = "Lone Pine Capital 从 2023Q1 到 2026Q2 的单机构 13F 持仓变化。"
+            description = f"Lone Pine Capital 从 2023Q1 到 {page_meta.get('latest_quarter', '2026Q2')} 的单机构 13F 持仓变化。"
         elif stem == "13F趋势-Greenlight":
             title = "13F 趋势 - Greenlight"
             slug = "13f-trends-greenlight"
-            description = "Greenlight Capital / DME 从 2023Q1 到 2026Q2 的单机构 13F 持仓变化。"
+            description = f"Greenlight Capital / DME 从 2023Q1 到 {page_meta.get('latest_quarter', '2026Q2')} 的单机构 13F 持仓变化。"
         elif stem == "13F趋势-Akre":
             title = "13F 趋势 - Akre"
             slug = "13f-trends-akre"
-            description = "Akre Capital Management 从 2023Q1 到 2026Q2 的持仓变化、拆股校正与研究候选。"
+            description = f"Akre Capital Management 从 2023Q1 到 {page_meta.get('latest_quarter', '2026Q2')} 的持仓变化、拆股校正与研究候选。"
         elif stem == "13F趋势-Fundsmith":
             title = "13F 趋势 - Fundsmith"
             slug = "13f-trends-fundsmith"
@@ -1330,19 +1393,19 @@ def compile_institutions():
         elif stem == "13F趋势-Giverny":
             title = "13F 趋势 - Giverny"
             slug = "13f-trends-giverny"
-            description = "Giverny Capital 从 2023Q1 到 2026Q2 的单机构 13F 持仓变化。"
+            description = f"Giverny Capital 从 2023Q1 到 {page_meta.get('latest_quarter', '2026Q2')} 的单机构 13F 持仓变化。"
         elif stem == "13F趋势-AKO":
             title = "13F 趋势 - AKO"
             slug = "13f-trends-ako"
-            description = "AKO Capital 从 2023Q1 到 2026Q2 的单机构 13F 持仓变化。"
+            description = f"AKO Capital 从 2023Q1 到 {page_meta.get('latest_quarter', '2026Q2')} 的单机构 13F 持仓变化。"
         elif stem == "13F趋势-Baillie":
             title = "13F 趋势 - Baillie Gifford"
             slug = "13f-trends-baillie"
-            description = "Baillie Gifford 从 2023Q1 到 2026Q2 的单机构 13F 持仓变化。"
+            description = f"Baillie Gifford 从 2023Q1 到 {page_meta.get('latest_quarter', '2026Q2')} 的单机构 13F 持仓变化。"
         elif stem == "13F趋势-Baupost":
             title = "13F 趋势 - Baupost"
             slug = "13f-trends-baupost"
-            description = "Baupost Group 从 2023Q1 到 2026Q2 的单机构 13F 持仓变化。"
+            description = f"Baupost Group 从 2023Q1 到 {page_meta.get('latest_quarter', '2026Q2')} 的单机构 13F 持仓变化。"
         elif stem == "13F趋势-Pershing":
             title = "13F 趋势 - Pershing"
             slug = "13f-trends-pershing"
@@ -1350,11 +1413,11 @@ def compile_institutions():
         elif stem == "13F趋势-Maverick":
             title = "13F 趋势 - Maverick"
             slug = "13f-trends-maverick"
-            description = "Maverick Capital 从 2023Q1 到 2026Q2 的单机构 13F 持仓变化。"
+            description = f"Maverick Capital 从 2023Q1 到 {page_meta.get('latest_quarter', '2026Q2')} 的单机构 13F 持仓变化。"
         elif stem == "13F趋势-Oakmark":
             title = "13F 趋势 - Oakmark"
             slug = "13f-trends-oakmark"
-            description = "Oakmark / Harris Associates 从 2023Q1 到 2026Q2 的单机构 13F 持仓变化。"
+            description = f"Oakmark / Harris Associates 从 2023Q1 到 {page_meta.get('latest_quarter', '2026Q2')} 的单机构 13F 持仓变化。"
         elif stem == "13F趋势-Appaloosa":
             title = "13F 趋势 - Appaloosa"
             slug = "13f-trends-appaloosa"
@@ -1362,11 +1425,11 @@ def compile_institutions():
         elif stem == "13F趋势-Kensico":
             title = "13F 趋势 - Kensico"
             slug = "13f-trends-kensico"
-            description = "Kensico Capital Management 从 2023Q1 到 2026Q2 的单机构 13F 持仓变化。"
+            description = f"Kensico Capital Management 从 2023Q1 到 {page_meta.get('latest_quarter', '2026Q2')} 的单机构 13F 持仓变化。"
         elif stem == "13F趋势-Dorsey":
             title = "13F 趋势 - Dorsey"
             slug = "13f-trends-dorsey"
-            description = "Dorsey Asset Management 从 2023Q1 到 2026Q2 的单机构 13F 持仓变化。"
+            description = f"Dorsey Asset Management 从 2023Q1 到 {page_meta.get('latest_quarter', '2026Q2')} 的单机构 13F 持仓变化。"
         elif stem == "13F趋势-Coatue":
             title = "13F 趋势 - Coatue"
             slug = "13f-trends-coatue"
@@ -1382,7 +1445,7 @@ def compile_institutions():
         elif stem == "13F趋势-Third Point":
             title = "13F 趋势 - Third Point"
             slug = "13f-trends-third-point"
-            description = "Third Point 从 2023Q1 到 2026Q2 的单机构 13F 持仓变化。"
+            description = f"Third Point 从 2023Q1 到 {page_meta.get('latest_quarter', '2026Q2')} 的单机构 13F 持仓变化。"
         else:
             match = re.match(r"13F趋势-(\d{4})Q([1-4])$", stem)
             if not match:
@@ -1395,7 +1458,7 @@ def compile_institutions():
         write(
             output,
             render_frontmatter(title, f"institutions/{slug}", description)
-            + convert_wikilinks(translate_common_phrases(cleaned_body), output),
+            + split_large_tables(convert_wikilinks(translate_common_phrases(cleaned_body), output)),
         )
 
 
@@ -1716,7 +1779,7 @@ def compile_sources():
         index_lines.append(f"\n## {heading}\n")
         for audit in audits:
             _, body = parse_frontmatter(audit.read_text(encoding="utf-8"))
-            slug = audit.stem.lower()
+            slug = audit.stem.lower().replace(' ', '-')
             output = DOCS_DIR / "sources" / f"{slug}.md"
             body = re.sub(r"^# .+\n+", "", body, count=1)
             description = ("Akre 材料" if audit.stem.startswith("Akre-") else "13F 季度材料") + "的覆盖责任、证据边界与传播清单。"

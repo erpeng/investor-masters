@@ -13,6 +13,43 @@ Intercontinental Exchange 经营交易所、清算、固定收益与数据服务
 
 ## 公司点评
 
+<!-- 13f-2026q3-kensico:start -->
+### [Kensico Capital Management](/investor-masters/institutions/kensico-capital-management/)：2026Q3 公开持仓行为
+
+| 证券 | Q2股数 | Q3股数 | 调整后变化 | Q2权重 → Q3权重 | 前十变化 |
+|---|---:|---:|---|---|---|
+| ICE（INTERCONTINENTAL EXCHANGE IN） | 857,700 | 980,700 | +14.34% | 1.81% → 3.00% | 仍在前十 |
+
+解读框架：集中组合内部的新增承接与机会成本。这是根据机构既有方法提出的研究问题，不是管理者对本次交易原因的公开解释。
+下一步验证：数据订阅、交易量和按揭科技盈利。
+报告日为2026-09-30；季度股数差不是实际交易记录，权重上涨也可能发生在减股时。当前价格过滤与来源审计见 [13F趋势-Kensico](/investor-masters/institutions/13f-trends-kensico/)。
+<!-- 13f-2026q3-kensico:end -->
+
+<!-- 13f-2026q3-oakmark:start -->
+### [Oakmark Funds](/investor-masters/institutions/oakmark-funds/)：2026Q3 公开持仓行为
+
+| 证券 | Q2股数 | Q3股数 | 调整后变化 | Q2权重 → Q3权重 | 前十变化 |
+|---|---:|---:|---|---|---|
+| ICE（INTERCONTINENTAL EXCHANGE IN） | 18,050,700 | 18,030,186 | -0.11% | 2.95% → 3.57% | 仍在前十 |
+
+解读框架：核对内在价值实现路径、资本配置和估值折让。这是根据机构既有方法提出的研究问题，不是管理者对本次交易原因的公开解释。
+下一步验证：继续核对经营、资本配置和估值，区分原有核心与本季增量。
+报告日为2026-09-30；季度股数差不是实际交易记录，权重上涨也可能发生在减股时。当前价格过滤与来源审计见 [13F趋势-Oakmark](/investor-masters/institutions/13f-trends-oakmark/)。
+申报主体为Harris Associates L.P.，不等同于某只Oakmark基金或某位经理的个人组合。
+<!-- 13f-2026q3-oakmark:end -->
+
+<!-- 13f-2026q3-ako:start -->
+### [AKO Capital](/investor-masters/institutions/ako-capital/)：2026Q3 公开持仓行为
+
+| 证券 | Q2股数 | Q3股数 | 调整后变化 | Q2权重 → Q3权重 | 前十变化 |
+|---|---:|---:|---|---|---|
+| ICE（INTERCONTINENTAL EXCHANGE IN） | 1,003,510 | 1,077,679 | +7.39% | 2.88% → 5.19% | 进入前十 |
+
+解读框架：检验质量、资本回报和估值纪律；增股只作为研究入口。这是根据机构既有方法提出的研究问题，不是管理者对本次交易原因的公开解释。
+下一步验证：交易、数据与抵押贷款技术收入及现金回报。
+报告日为2026-09-30；季度股数差不是实际交易记录，权重上涨也可能发生在减股时。当前价格过滤与来源审计见 [13F趋势-AKO](/investor-masters/institutions/13f-trends-ako/)。
+<!-- 13f-2026q3-ako:end -->
+
 本页以 2026Q3 13F 行为建立研究入口。申报只证明所列账户的季度末持仓，不替代管理人的公开业务判断，也不构成已完成的公司估值。
 
 ### [Coatue](/investor-masters/institutions/coatue-management/)
@@ -42,6 +79,18 @@ Pershing 权重以包含 PS 关联主体股份的完整申报为分母；它不�
 
 ## 相关页面
 
+<!-- 13f-2026q3-kensico-links:start -->
+- [Kensico Capital Management](/investor-masters/institutions/kensico-capital-management/)；[13F趋势-Kensico](/investor-masters/institutions/13f-trends-kensico/)；[13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
+<!-- 13f-2026q3-kensico-links:end -->
+
+<!-- 13f-2026q3-oakmark-links:start -->
+- [Oakmark Funds](/investor-masters/institutions/oakmark-funds/)；[13F趋势-Oakmark](/investor-masters/institutions/13f-trends-oakmark/)；[13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
+<!-- 13f-2026q3-oakmark-links:end -->
+
+<!-- 13f-2026q3-ako-links:start -->
+- [AKO Capital](/investor-masters/institutions/ako-capital/)；[13F趋势-AKO](/investor-masters/institutions/13f-trends-ako/)；[13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
+<!-- 13f-2026q3-ako-links:end -->
+
 - [13F趋势-Coatue](/investor-masters/institutions/13f-trends-coatue/)
 - [菲利普·拉丰](/investor-masters/investors/philippe-laffont/)
 - [13F趋势-Pershing](/investor-masters/institutions/13f-trends-pershing/)
@@ -49,6 +98,18 @@ Pershing 权重以包含 PS 关联主体股份的完整申报为分母；它不�
 - [13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
 
 ## 主要来源
+
+<!-- 13f-2026q3-kensico-sources:start -->
+- [SEC｜Kensico：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/kensico-13f-2026q3/)；[Kensico-13f-source-audit](/investor-masters/sources/kensico-13f-source-audit/)
+<!-- 13f-2026q3-kensico-sources:end -->
+
+<!-- 13f-2026q3-oakmark-sources:start -->
+- [SEC｜Oakmark：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/oakmark-13f-2026q3/)；[Oakmark-13f-source-audit](/investor-masters/sources/oakmark-13f-source-audit/)
+<!-- 13f-2026q3-oakmark-sources:end -->
+
+<!-- 13f-2026q3-ako-sources:start -->
+- [SEC｜AKO：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/ako-13f-2026q3/)；[AKO-13f-source-audit](/investor-masters/sources/ako-13f-source-audit/)
+<!-- 13f-2026q3-ako-sources:end -->
 
 - [ICE 2025 10-K](https://www.sec.gov/Archives/edgar/data/1571949/000157194926000004/ice-20251231.htm)
 - [Coatue 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1135730/000091957426005478/0000919574-26-005478.txt)

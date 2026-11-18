@@ -13,6 +13,18 @@ Nebius 提供 AI 云基础设施。Atreides 本季把一个小仓位明显扩大
 
 ## 公司点评
 
+<!-- 13f-2026q3-lone-pine:start -->
+### [Lone Pine Capital](/investor-masters/institutions/lone-pine-capital/)：2026Q3 公开持仓行为
+
+| 证券 | Q2股数 | Q3股数 | 调整后变化 | Q2权重 → Q3权重 | 前十变化 |
+|---|---:|---:|---|---|---|
+| NBIS（Nebius） | 4,258,008 | 1,530,647 | -64.05% | 7.19% → 2.36% | 退出前十，未必清仓 |
+
+解读框架：经营变化、新承接与持续性验证。这是根据机构既有方法提出的研究问题，不是管理者对本次交易原因的公开解释。
+下一步验证：继续核对经营、资本配置和估值，区分原有核心与本季增量。
+报告日为2026-09-30；季度股数差不是实际交易记录，权重上涨也可能发生在减股时。当前价格过滤与来源审计见 [13F趋势-Lone Pine](/investor-masters/institutions/13f-trends-lone-pine/)。
+<!-- 13f-2026q3-lone-pine:end -->
+
 本页以 2026Q3 13F 行为建立研究入口。申报只证明所列账户的季度末持仓，不替代管理人的公开业务判断，也不构成已完成的公司估值。
 
 ### [Atreides](/investor-masters/institutions/atreides-management/)
@@ -35,11 +47,19 @@ Atreides 的公开科技仓位同时存在期权工具，股票加减不能直�
 
 ## 相关页面
 
+<!-- 13f-2026q3-lone-pine-links:start -->
+- [Lone Pine Capital](/investor-masters/institutions/lone-pine-capital/)；[13F趋势-Lone Pine](/investor-masters/institutions/13f-trends-lone-pine/)；[13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
+<!-- 13f-2026q3-lone-pine-links:end -->
+
 - [13F趋势-Atreides](/investor-masters/institutions/13f-trends-atreides/)
 - [加文·贝克](/investor-masters/investors/gavin-baker/)
 - [13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
 
 ## 主要来源
+
+<!-- 13f-2026q3-lone-pine-sources:start -->
+- [SEC｜Lone Pine：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/lone-pine-13f-2026q3/)；[Lone Pine-13f-source-audit](/investor-masters/sources/lone-pine-13f-source-audit/)
+<!-- 13f-2026q3-lone-pine-sources:end -->
 
 - [Nebius 2026Q3 业绩公告](https://www.sec.gov/Archives/edgar/data/1513845/000110465926126008/tm2629571d1_ex99-1.htm)
 - [Atreides 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1777813/000177781326000009/0001777813-26-000009.txt)

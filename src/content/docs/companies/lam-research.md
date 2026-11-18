@@ -13,6 +13,18 @@ Lam Research 在这里代表半导体晶圆制造设备，核心变量是刻蚀�
 
 ## 公司点评
 
+<!-- 13f-2026q3-baillie:start -->
+### [Baillie Gifford](/investor-masters/institutions/baillie-gifford/)：2026Q3 公开持仓行为
+
+| 证券 | Q2股数 | Q3股数 | 调整后变化 | Q2权重 → Q3权重 | 前十变化 |
+|---|---:|---:|---|---|---|
+| LRCX（LAM RESEARCH CORP） | 58 | 3,496,752 | +6028782.76% | 0.00% → 1.08% | 未进入前十 |
+
+解读框架：长期成长候选的经营兑现与机会成本。这是根据机构既有方法提出的研究问题，不是管理者对本次交易原因的公开解释。
+下一步验证：存储及先进工艺设备订单与客户开支。
+报告日为2026-09-30；季度股数差不是实际交易记录，权重上涨也可能发生在减股时。当前价格过滤与来源审计见 [13F趋势-Baillie](/investor-masters/institutions/13f-trends-baillie/)。
+<!-- 13f-2026q3-baillie:end -->
+
 ### [菲利普·拉丰](/investor-masters/investors/philippe-laffont/) / [Coatue Management](/investor-masters/institutions/coatue-management/)
 
 Coatue 在 `2026Q1` 持有 `LRCX` 约 `10.04m` 股、`$2.15bn`，公开 13F 权重 `7.4%`，位列第三大仓。股数较 `2025Q4` 的约 `9.81m` 小幅增加，说明它不是单纯价格推高后的前排仓位。
@@ -45,6 +57,10 @@ Coatue 小幅增股，而 Altimeter 的该证券不再列示；与前一批 Appa
 
 ## 相关页面
 
+<!-- 13f-2026q3-baillie-links:start -->
+- [Baillie Gifford](/investor-masters/institutions/baillie-gifford/)；[13F趋势-Baillie](/investor-masters/institutions/13f-trends-baillie/)；[13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
+<!-- 13f-2026q3-baillie-links:end -->
+
 - [菲利普·拉丰](/investor-masters/investors/philippe-laffont/)
 - [Coatue Management](/investor-masters/institutions/coatue-management/)
 - [13F趋势-Coatue](/investor-masters/institutions/13f-trends-coatue/)
@@ -56,6 +72,10 @@ Coatue 小幅增股，而 Altimeter 的该证券不再列示；与前一批 Appa
 - [13F趋势-Appaloosa](/investor-masters/institutions/13f-trends-appaloosa/)
 
 ## 主要来源
+
+<!-- 13f-2026q3-baillie-sources:start -->
+- [SEC｜Baillie：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/baillie-13f-2026q3/)；[Baillie-13f-source-audit](/investor-masters/sources/baillie-13f-source-audit/)
+<!-- 13f-2026q3-baillie-sources:end -->
 
 - [Duquesne 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/0001536411-26-000011.txt)
 - [Duquesne 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1536411/000153641126000006/0001536411-26-000006.txt)

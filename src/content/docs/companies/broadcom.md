@@ -13,6 +13,18 @@ Broadcom 在这批资料里是 AI 网络、定制芯片和基础设施软件的�
 
 ## 公司点评
 
+<!-- 13f-2026q3-baillie:start -->
+### [Baillie Gifford](/investor-masters/institutions/baillie-gifford/)：2026Q3 公开持仓行为
+
+| 证券 | Q2股数 | Q3股数 | 调整后变化 | Q2权重 → Q3权重 | 前十变化 |
+|---|---:|---:|---|---|---|
+| AVGO（BROADCOM INC） | 1,357,957 | 1,432,665 | +5.50% | 0.47% → 0.48% | 未进入前十 |
+
+解读框架：长期成长候选的经营兑现与机会成本。这是根据机构既有方法提出的研究问题，不是管理者对本次交易原因的公开解释。
+下一步验证：定制芯片、网络需求与软件现金流。
+报告日为2026-09-30；季度股数差不是实际交易记录，权重上涨也可能发生在减股时。当前价格过滤与来源审计见 [13F趋势-Baillie](/investor-masters/institutions/13f-trends-baillie/)。
+<!-- 13f-2026q3-baillie:end -->
+
 ### [菲利普·拉丰](/investor-masters/investors/philippe-laffont/) / [Coatue Management](/investor-masters/institutions/coatue-management/)
 
 Coatue 在 `2026Q1` 持有 `AVGO` 约 `5.50m` 股、`$1.70bn`，公开 13F 权重 `5.9%`，仍在前十。股数相对 `2025Q4` 的约 `5.51m` 基本持平、略降，所以它不是 Q1 主动大幅加仓，而是半导体网络/ASIC 线的核心留存。
@@ -37,6 +49,10 @@ Baillie Gifford 在 2026Q2 把 `AVGO` 从约 `95.7k` 股增至 `1.36m` 股，增
 
 ## 相关页面
 
+<!-- 13f-2026q3-baillie-links:start -->
+- [Baillie Gifford](/investor-masters/institutions/baillie-gifford/)；[13F趋势-Baillie](/investor-masters/institutions/13f-trends-baillie/)；[13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
+<!-- 13f-2026q3-baillie-links:end -->
+
 - [菲利普·拉丰](/investor-masters/investors/philippe-laffont/)
 - [Coatue Management](/investor-masters/institutions/coatue-management/)
 - [13F趋势-Coatue](/investor-masters/institutions/13f-trends-coatue/)
@@ -48,6 +64,10 @@ Baillie Gifford 在 2026Q2 把 `AVGO` 从约 `95.7k` 股增至 `1.36m` 股，增
 - [13F趋势-Baillie](/investor-masters/institutions/13f-trends-baillie/)
 
 ## 主要来源
+
+<!-- 13f-2026q3-baillie-sources:start -->
+- [SEC｜Baillie：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/baillie-13f-2026q3/)；[Baillie-13f-source-audit](/investor-masters/sources/baillie-13f-source-audit/)
+<!-- 13f-2026q3-baillie-sources:end -->
 
 - [Baillie Gifford SEC 13F filing detail - Q2 2026](https://www.sec.gov/Archives/edgar/data/1088875/000108887526000057/0001088875-26-000057-index.html)
 - [Coatue 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1135730/000091957426005478/0000919574-26-005478.txt)

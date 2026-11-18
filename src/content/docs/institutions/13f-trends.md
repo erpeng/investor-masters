@@ -3,65 +3,57 @@ title: "13F 趋势"
 slug: "institutions/13f-trends"
 description: "把机构 13F 按季度横向拉齐，观察跨机构持仓趋势。"
 ---
-最新增量：[Q3 2026 十家机构](/investor-masters/institutions/13f-trends-2026-q3/)，覆盖 Berkshire、Himalaya、H&H、Duquesne、Appaloosa，以及本次续更的 Atreides、Coatue、Altimeter、Fundsmith、Pershing。其余机构保留最近已更新季度。上一季较大样本为 [Q2 2026（22 家）](/investor-masters/institutions/13f-trends-2026-q2/)；样本不同，榜单名次不能直接比较。
+最新增量：[Q3 2026 23家机构](/investor-masters/institutions/13f-trends-2026-q3/)。覆盖进度23/23；本轮机构专题已全部更新到2026Q3。
 
-十家信号要同时看共识与分歧：PDD 仍有两家长期集中机构同向增股；META、MSFT 一边得到科技机构增持，一边遭 Fundsmith 或 Pershing 减股；支付网络也出现 Fundsmith 增、Pershing 减。Atreides 的期权名义值、Pershing 申报主体及补充披露、Altimeter 的原表金额异常分别说明，不能把总值变化都解释成资金进出。
+上一季[22家样本](/investor-masters/institutions/13f-trends-2026-q2/)保留档案，不同样本的名次不能直接比较。
 
-这页把机构 13F 从单页披露变成季度雷达：先看跨机构同向动作，再回到具体机构页判断这个动作是不是符合它的方法。
+本轮新增的机构展示平台与半导体的两侧动作、事件驱动换仓及宏观工具；持仓事实与研究解释分别陈列。Greenlight申报主体切换、Teva证券转换、Baupost金额单位、Tudor历史封面差异均保留审计。
 
-阅读时先记住三条：第一，13F 有滞后；第二，股价上涨不等于加仓，所以这里把股数变化和权重变化分开；第三，长期集中型机构和交易型机构不能同权解释。
-
-本次核验日期：`2026-11-17`；报告期为 `2026-09-30`，不是申报日持仓。十家机构主页展示 `2025Q4—2026Q3` 最近四季，单机构趋势页保留更长历史，最新季度在左。新增 Berkshire 后共有 23 张单机构专题；“专题已建”不表示全部已更新至 Q3。
+核验日期2026-11-17，报告期2026-09-30；机构主页展示2025Q4—2026Q3，长趋势保留2023Q1起历史。
 
 ## 趋势解读
 
-近四个季度的主线不是“某个标的被买入”，而是一条迁移路径：机构并没有从 AI 撤退，而是从“买共识”转向“买约束”。
+2026Q3的23家样本显示，同一公司常处在两种机构动作之间。先看股数，再看权重和价格，才能区分主动换仓与被动集中。
 
-- Q2 2025 还能看到很清楚的一阶共识：`NVDA`、`AMZN`、`Salesforce`、`MSFT` 等平台和 AI 核心资产仍是主要加仓对象。
-- Q3 2025 开始分化，铁路、电力、公用事业、`ASML`、`TLN`、`PCG`、`UNP` 等现实资产与供给约束开始进入视野。
-- Q4 2025 里 AI 仍强，但大科技和消费金融/支付网络的分歧扩大，`META`、`GOOG/GOOGL`、`AMZN`、`MSFT`、`TSM` 同时出现在买入侧和卖出侧。
-- Q1 2026 的变化更清楚：`NVDA` 进入分歧/减仓区，新增线索转向 `AVGO`、`ASML`、`TER`、`Argan`、`HUT`、`LIN`、`SUNB` 等 AI 二阶基础设施、工程、电力、设备、测试、网络和工业气体约束。
-- 新增 Dorsey 后还有一个质量投资侧信号：集中型质量机构也不是静态守仓，Dorsey 在 2026Q1 让 `SUNB / APP / SPGI / UBER` 进入前十，同时让 `BKNG / AZO / GOOG / ENOV` 退出前十。这让 `moat` 必须继续被 `runway / capital allocation / opportunity cost` 约束。
-- 新增 Altimeter 后，crossover 科技线也更清楚：`SNOW` 从早期单一超大仓降到 `5.1%`，2026Q1 公开组合重排到 `NVDA / META / UBER / TSM / CRWV / ARM`。这不是从 AI 撤退，而是从单一云数据 winner 迁到 AI 平台、芯片、算力云和应用承接层。
-- 新增 Coatue 新标准页后，AI 基础设施线又多了一种读法：`TSM` 变成第一大仓且继续增股，`LRCX / AMAT / AVGO`、`GEV / CEG / ETN` 构成半导体设备/网络和电力设备骨架，`EQIX / ASML` 则是新进/恢复仓位；但 `GEV / CEG` 股数下降，不能把权重位置误读成主动加仓。
-- 新增 Atreides 后，AI 物理瓶颈线出现了更强的仓位轮动：2026Q1 普通股切片主动增加 `ALAB / U / AMZN`，同时减少 `CIEN / COHR / NVDA / LITE`。这说明“看多 AI 基础设施”不足以推出“持续加仓每个基础设施标的”，必须继续比较供需、相邻估值和组合相关性。
-- 首批 2026Q2 单机构页进一步说明“总市值增长”不等于净买入：Duquesne、Appaloosa 的扩表主要由价格贡献，Atreides 被 SpaceX/Cerebras 首次披露放大；Himalaya 明确把资本集中到 PDD/BRK.B，H&H 主动减仓 AI 链，Pershing 则主动新建支付、数据与订阅平台。
-- 完整 2026Q2 横向页显示，增量线索从 AI 平台继续扩散到半导体/存储、电力与数据中心承接层，同时 `GOOG/GOOGL`、`TSM`、`UBER` 等核心资产出现机构间分歧；同一机构的不同股票类别先净额，再进入跨机构评分。
-- 同期 `SPY PUT`、`QQQ PUT` 等工具信号变重，说明机构不是全面撤退，而是在“结构性多头 + 风险对冲”之间重新配平。
-- 2026Q3 首批五家观察（本轮已扩充为十家，完整重算见季度页）：PDD 的两家长期集中型机构同向增股较明确；`NVDA / LRCX / AMZN` 则需分开看买卖两侧。Duquesne 新增的 STX CALL 与正股分别记录，SpaceX、Bending Spoons 的首次披露和上市阶段也单列解释。
+- 平台股分歧扩大：Lone Pine新列AMZN、META，Third Point新列META但退出AMZN；Kensico增加AMZN，Baillie减少AMZN、META。不能只用“科技共识”概括。
+- 半导体也有两侧：Maverick增加NVDA、TSM，Kensico减少TSM，Lone Pine大幅增加TSM但大幅减少AMAT。设备、设计与代工应逐个比较。
+- PDD的长期集中型买入侧，遇到Baillie的显著减股；质量机构在Veeva等标的上的交集，也需要保留各自的方法和价格约束。
+- 事件驱动页更适合追问催化剂：Baupost增加GPC、FERG、WCC并减少GOOG、UNP；Greenlight增加VGNT、PCG。ADIG分拆取得的股份与Teva证券转换单列，不能当作普通建仓。
+- 进入前十不等于主动加仓：Baillie的MRNA、Greenlight的DHT都出现减股但权重上升、进入前十。Kensico的HWM股数不变，仍是第一大仓。
+- Tudor同时披露指数PUT、CALL与正股。全信息表和非期权分母并列，不能直接把两种期权相减后解释净方向。
 
-所以这组 13F 更像一个系统状态读数：最容易讲的 AI 故事已经充分拥挤，聪明钱开始问下一层问题：谁控制电力、工程、测试、网络、设备、工业气体、资本开支效率和真实现金流。
+这些是公开持仓支持的行为比较。行业主题、催化剂与经营论点属于下一步研究；完整排名和价格过滤见[13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)，此前季度保留在下方档案。
 
 ## 单机构专题
 
 - [Berkshire Hathaway：2023Q1—2026Q3 持仓变化](/investor-masters/institutions/13f-trends-berkshire/)
-- [13F趋势-Akre](/investor-masters/institutions/13f-trends-akre/)：2023Q1—2026Q2；最新 CSGP/NOW 加股、老核心缩股，含全部最新证券与独立期权轨迹。
+- [13F趋势-Akre](/investor-masters/institutions/13f-trends-akre/)：2023Q1—2026Q3；最新FICO增股、TDG/ROL新列、多个核心缩股，含全部最新证券与独立期权轨迹。
 
-- [Third Point：2023Q1-2026Q2 持仓变化](/investor-masters/institutions/13f-trends-third-point/)
+- [Third Point：2023Q1-2026Q3 持仓变化](/investor-masters/institutions/13f-trends-third-point/)
 - [Coatue Management：2023Q1—2026Q3 持仓变化](/investor-masters/institutions/13f-trends-coatue/)
 - [Altimeter Capital：2023Q1—2026Q3 持仓变化](/investor-masters/institutions/13f-trends-altimeter/)
 - [Atreides Management：2023Q1—2026Q3 持仓变化](/investor-masters/institutions/13f-trends-atreides/)
-- [Kensico Capital Management：2023Q1-2026Q2 持仓变化](/investor-masters/institutions/13f-trends-kensico/)
-- [Dorsey Asset Management：2023Q1-2026Q2 持仓变化](/investor-masters/institutions/13f-trends-dorsey/)
-- [Oakmark / Harris Associates：2023Q1-2026Q2 持仓变化](/investor-masters/institutions/13f-trends-oakmark/)
-- [Maverick Capital：2023Q1-2026Q2 持仓变化](/investor-masters/institutions/13f-trends-maverick/)
+- [Kensico Capital Management：2023Q1-2026Q3 持仓变化](/investor-masters/institutions/13f-trends-kensico/)
+- [Dorsey Asset Management：2023Q1-2026Q3 持仓变化](/investor-masters/institutions/13f-trends-dorsey/)
+- [Oakmark / Harris Associates：2023Q1-2026Q3 持仓变化](/investor-masters/institutions/13f-trends-oakmark/)
+- [Maverick Capital：2023Q1-2026Q3 持仓变化](/investor-masters/institutions/13f-trends-maverick/)
 - [Pershing Square：2023Q1—2026Q3 持仓变化](/investor-masters/institutions/13f-trends-pershing/)
-- [Baillie Gifford：2023Q1-2026Q2 持仓变化](/investor-masters/institutions/13f-trends-baillie/)
-- [Baupost Group：2023Q1-2026Q2 持仓变化](/investor-masters/institutions/13f-trends-baupost/)
-- [AKO Capital：2023Q1-2026Q2 持仓变化](/investor-masters/institutions/13f-trends-ako/)
+- [Baillie Gifford：2023Q1-2026Q3 持仓变化](/investor-masters/institutions/13f-trends-baillie/)
+- [Baupost Group：2023Q1-2026Q3 持仓变化](/investor-masters/institutions/13f-trends-baupost/)
+- [AKO Capital：2023Q1-2026Q3 持仓变化](/investor-masters/institutions/13f-trends-ako/)
 - [H&H International Investment：2023Q1—2026Q3 持仓变化](/investor-masters/institutions/13f-trends-hh/)
 - [Fundsmith：2023Q1—2026Q3 持仓变化](/investor-masters/institutions/13f-trends-fundsmith/)
-- [Giverny Capital：2023Q1-2026Q2 持仓变化](/investor-masters/institutions/13f-trends-giverny/)
+- [Giverny Capital：2023Q1-2026Q3 持仓变化](/investor-masters/institutions/13f-trends-giverny/)
 - [Himalaya Capital：2023Q1—2026Q3 持仓变化](/investor-masters/institutions/13f-trends-himalaya/)
-- [Lone Pine Capital：2023Q1-2026Q2 持仓变化](/investor-masters/institutions/13f-trends-lone-pine/)
-- [Greenlight Capital / DME：2023Q1-2026Q2 持仓变化](/investor-masters/institutions/13f-trends-greenlight/)
+- [Lone Pine Capital：2023Q1-2026Q3 持仓变化](/investor-masters/institutions/13f-trends-lone-pine/)
+- [Greenlight Capital / DME：2023Q1-2026Q3 持仓变化](/investor-masters/institutions/13f-trends-greenlight/)
 - [Duquesne Family Office：2023Q1—2026Q3 持仓变化](/investor-masters/institutions/13f-trends-duquesne/)
-- [Tudor Investment Corporation：2023Q1-2026Q2 持仓变化](/investor-masters/institutions/13f-trends-tudor/)
+- [Tudor Investment Corporation：2023Q1-2026Q3 持仓变化](/investor-masters/institutions/13f-trends-tudor/)
 - [Appaloosa Management：2023Q1—2026Q3 持仓变化](/investor-masters/institutions/13f-trends-appaloosa/)
 
 ## 季度档案
 
-- [Q3 2026（十家）](/investor-masters/institutions/13f-trends-2026-q3/)
+- [Q3 2026（23家）](/investor-masters/institutions/13f-trends-2026-q3/)
 - [Q2 2026](/investor-masters/institutions/13f-trends-2026-q2/)
 - [Q1 2026](/investor-masters/institutions/13f-trends-2026-q1/)
 - [Q4 2025](/investor-masters/institutions/13f-trends-2025-q4/)
@@ -72,9 +64,9 @@ description: "把机构 13F 按季度横向拉齐，观察跨机构持仓趋势�
 
 ### 数据窗口
 
-- 横向趋势按同一机构相邻报告期比较；本轮五家机构主页统一展示最近 `4` 季（`2025Q4—2026Q3`）前 10 大持仓。单机构专题从 `2023Q1` 起保留长历史，`2022Q4` 用作起始变化比较的基期。
+- 横向趋势按同一机构相邻报告期比较；本轮23家机构主页统一展示最近 `4` 季（`2025Q4—2026Q3`）前 10 大持仓。单机构专题从 `2023Q1` 起保留长历史，`2022Q4` 用作起始变化比较的基期。
 - 某个季度页只纳入“本季和上一季都能取到 13F”的机构；纳入机构少于 `2` 家的季度不生成趋势页。若某机构最新披露滞后，会在季度页的“披露滞后”中单独列出。
-- Q2 2025 之前只覆盖 1 家，是旧脚本只抓近 4 个报告期造成的窗口问题：多数机构只能算到 Q3 2025 vs Q2 2025，只有 H&H 因最新停在 Q4 2025，才额外算到了 Q2 2025 vs Q1 2025。现在趋势窗口已扩到 5 季，Q2 2025 会纳入更多能取得 Q2/Q1 连续披露的机构。
+- 历史季度页保留当时的样本范围；本轮23家长趋势均含2022Q4基期至2026Q3。跨季度比较先核对纳入机构与申报主体是否一致。
 
 ### 标的分类
 
@@ -98,8 +90,8 @@ description: "把机构 13F 按季度横向拉齐，观察跨机构持仓趋势�
 
 - 隐含逻辑：13F 对长期集中型机构更有解释力，因为它们换手低、仓位集中，单季股数变化更可能代表 投资论点 变化；对宏观、量化、多策略和交易型机构解释力更弱，因为仓位可能来自对冲、期权结构、指数暴露、做市或短周期风险管理。
 - 权重是启发式评分，不是精确数学真理；它的作用是让长期集中型机构的同向动作更靠前，同时降低交易型机构噪音。
-- 长期集中型：Berkshire=1.5, Pershing=1.4, Fundsmith=1.4, Himalaya=1.4, H&H=1.4, Giverny=1.4, Dorsey=1.3, AKO=1.3。
-- 基本面多头/对冲型：Altimeter=1.1, Baillie=1.1, Coatue=1.1, Atreides=0.9, Oaktree=0.9, ARK=1.0, Third Point=1.0, Greenlight=1.0, Baupost=1.1, Lone Pine=1.0, Maverick=0.9, Oakmark=1.1。
+- 长期集中型：Berkshire=1.5, Pershing=1.4, Fundsmith=1.4, Himalaya=1.4, H&H=1.4, Giverny=1.4, Dorsey=1.3, AKO=1.3, Akre=1.4（本季新增启发式）。
+- 基本面多头/对冲型：Altimeter=1.1, Baillie=1.1, Coatue=1.1, Atreides=0.9, Oaktree=0.9, ARK=1.0, Kensico=1.0（本季新增启发式）, Third Point=1.0, Greenlight=1.0, Baupost=1.1, Lone Pine=1.0, Maverick=0.9, Oakmark=1.1。
 - 宏观/交易型：Bridgewater=0.6, Duquesne=0.8, Appaloosa=0.8, Tudor=0.6。Appaloosa 的数值在 2026Q3 首批页首次明确，属于本轮启发式规则补充；不据此宣称旧季度已经使用相同权重，也不回写旧榜单。
 - 多策略/交易型：Citadel=0.5。
 

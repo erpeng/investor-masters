@@ -13,6 +13,18 @@ description: "这家公司最好从争议开始读。它同时是成长投资者
 
 ## 公司点评
 
+<!-- 13f-2026q3-tudor:start -->
+### [Tudor Investment Corporation](/investor-masters/institutions/tudor-investment-corporation/)：2026Q3 公开持仓行为
+
+| 证券 | Q2股数 | Q3股数 | 调整后变化 | Q2权重 → Q3权重 | 前十变化 |
+|---|---:|---:|---|---|---|
+| TSLA（TESLA INC） | 759,222 | 653,134 | -13.97% | 0.44% → 0.30% | 未进入前十 |
+
+解读框架：资产方向与工具组合观察，不推导净风险。这是根据机构既有方法提出的研究问题，不是管理者对本次交易原因的公开解释。
+下一步验证：继续核对经营、资本配置和估值，区分原有核心与本季增量。
+报告日为2026-09-30；季度股数差不是实际交易记录，权重上涨也可能发生在减股时。当前价格过滤与来源审计见 [13F趋势-Tudor](/investor-masters/institutions/13f-trends-tudor/)。
+<!-- 13f-2026q3-tudor:end -->
+
 ### [汤姆·斯莱特](/investor-masters/investors/tom-slater/)
 > “我其实想把这件事和前面那个关于 “马斯克风险”的问题连起来看。 某种程度上，我反而觉得，我们在特斯拉和马斯克身上的敞口可能还不够。” ——来源：[近期在中国新增了两个持仓！巨头Baillie Gifford旗舰基金两位掌舵人，畅聊软件重估、自动驾驶及SpaceX等热点问题](/investor-masters/sources/source-140/)
 
@@ -63,6 +75,10 @@ Altimeter 首次列示且进入前十，Coatue 从小仓增股，Atreides 则明
 
 ## 相关页面
 
+<!-- 13f-2026q3-tudor-links:start -->
+- [Tudor Investment Corporation](/investor-masters/institutions/tudor-investment-corporation/)；[13F趋势-Tudor](/investor-masters/institutions/13f-trends-tudor/)；[13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
+<!-- 13f-2026q3-tudor-links:end -->
+
 - [汤姆·斯莱特](/investor-masters/investors/tom-slater/)
 - [凯茜·伍德](/investor-masters/investors/cathie-wood/)
 - [特里·史密斯](/investor-masters/investors/terry-smith/)
@@ -74,6 +90,10 @@ Altimeter 首次列示且进入前十，Coatue 从小仓增股，Atreides 则明
 - [H&H International Investment](/investor-masters/institutions/h-h-international-investment/)
 
 ## 主要来源
+
+<!-- 13f-2026q3-tudor-sources:start -->
+- [SEC｜Tudor：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/tudor-13f-2026q3/)；[Tudor-13f-source-audit](/investor-masters/sources/tudor-13f-source-audit/)
+<!-- 13f-2026q3-tudor-sources:end -->
 
 - [H&H 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1759760/000175976026000008/0001759760-26-000008.txt)
 - [H&H 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1759760/000175976026000007/0001759760-26-000007.txt)

@@ -13,6 +13,78 @@ description: "微软在这批资料里是“高质量老平台重新进入增长
 
 ## 公司点评
 
+<!-- 13f-2026q3-tudor:start -->
+### [Tudor Investment Corporation](/investor-masters/institutions/tudor-investment-corporation/)：2026Q3 公开持仓行为
+
+| 证券 | Q2股数 | Q3股数 | 调整后变化 | Q2权重 → Q3权重 | 前十变化 |
+|---|---:|---:|---|---|---|
+| MSFT（微软） | 1,672,441 | 102,311 | -93.88% | 0.87% → 0.07% | 未进入前十 |
+
+解读框架：资产方向与工具组合观察，不推导净风险。这是根据机构既有方法提出的研究问题，不是管理者对本次交易原因的公开解释。
+下一步验证：继续核对经营、资本配置和估值，区分原有核心与本季增量。
+报告日为2026-09-30；季度股数差不是实际交易记录，权重上涨也可能发生在减股时。当前价格过滤与来源审计见 [13F趋势-Tudor](/investor-masters/institutions/13f-trends-tudor/)。
+<!-- 13f-2026q3-tudor:end -->
+
+<!-- 13f-2026q3-baillie:start -->
+### [Baillie Gifford](/investor-masters/institutions/baillie-gifford/)：2026Q3 公开持仓行为
+
+| 证券 | Q2股数 | Q3股数 | 调整后变化 | Q2权重 → Q3权重 | 前十变化 |
+|---|---:|---:|---|---|---|
+| MSFT（微软） | 2,713,688 | 2,518,168 | -7.20% | 0.92% → 1.22% | 未进入前十 |
+
+解读框架：长期成长候选的经营兑现与机会成本。这是根据机构既有方法提出的研究问题，不是管理者对本次交易原因的公开解释。
+下一步验证：继续核对经营、资本配置和估值，区分原有核心与本季增量。
+报告日为2026-09-30；季度股数差不是实际交易记录，权重上涨也可能发生在减股时。当前价格过滤与来源审计见 [13F趋势-Baillie](/investor-masters/institutions/13f-trends-baillie/)。
+<!-- 13f-2026q3-baillie:end -->
+
+<!-- 13f-2026q3-maverick:start -->
+### [Maverick Capital](/investor-masters/institutions/maverick-capital/)：2026Q3 公开持仓行为
+
+| 证券 | Q2股数 | Q3股数 | 调整后变化 | Q2权重 → Q3权重 | 前十变化 |
+|---|---:|---:|---|---|---|
+| MSFT（微软） | 832,377 | 1,555,188 | +86.84% | 2.74% → 6.22% | 进入前十 |
+
+解读框架：行业研究下的公司选择与经营差异。这是根据机构既有方法提出的研究问题，不是管理者对本次交易原因的公开解释。
+下一步验证：云订单、AI投入与现金流。
+报告日为2026-09-30；季度股数差不是实际交易记录，权重上涨也可能发生在减股时。当前价格过滤与来源审计见 [13F趋势-Maverick](/investor-masters/institutions/13f-trends-maverick/)。
+<!-- 13f-2026q3-maverick:end -->
+
+<!-- 13f-2026q3-kensico:start -->
+### [Kensico Capital Management](/investor-masters/institutions/kensico-capital-management/)：2026Q3 公开持仓行为
+
+| 证券 | Q2股数 | Q3股数 | 调整后变化 | Q2权重 → Q3权重 | 前十变化 |
+|---|---:|---:|---|---|---|
+| MSFT（微软） | 403,400 | 502,500 | +24.57% | 2.58% → 5.19% | 仍在前十 |
+
+解读框架：集中组合内部的新增承接与机会成本。这是根据机构既有方法提出的研究问题，不是管理者对本次交易原因的公开解释。
+下一步验证：云订单转化、AI支出与现金流。
+报告日为2026-09-30；季度股数差不是实际交易记录，权重上涨也可能发生在减股时。当前价格过滤与来源审计见 [13F趋势-Kensico](/investor-masters/institutions/13f-trends-kensico/)。
+<!-- 13f-2026q3-kensico:end -->
+
+<!-- 13f-2026q3-third-point:start -->
+### [Third Point](/investor-masters/institutions/third-point/)：2026Q3 公开持仓行为
+
+| 证券 | Q2股数 | Q3股数 | 调整后变化 | Q2权重 → Q3权重 | 前十变化 |
+|---|---:|---:|---|---|---|
+| MSFT（微软） | 0 | 450,000 | 首次列示 | 0.00% → 5.03% | 进入前十 |
+
+解读框架：事件、经营拐点和资本配置的条件性研究。这是根据机构既有方法提出的研究问题，不是管理者对本次交易原因的公开解释。
+下一步验证：继续核对经营、资本配置和估值，区分原有核心与本季增量。
+报告日为2026-09-30；季度股数差不是实际交易记录，权重上涨也可能发生在减股时。当前价格过滤与来源审计见 [13F趋势-Third Point](/investor-masters/institutions/13f-trends-third-point/)。
+<!-- 13f-2026q3-third-point:end -->
+
+<!-- 13f-2026q3-ako:start -->
+### [AKO Capital](/investor-masters/institutions/ako-capital/)：2026Q3 公开持仓行为
+
+| 证券 | Q2股数 | Q3股数 | 调整后变化 | Q2权重 → Q3权重 | 前十变化 |
+|---|---:|---:|---|---|---|
+| MSFT（微软） | 628,224 | 518,837 | -17.41% | 5.46% → 8.44% | 仍在前十 |
+
+解读框架：检验质量、资本回报和估值纪律；增股只作为研究入口。这是根据机构既有方法提出的研究问题，不是管理者对本次交易原因的公开解释。
+下一步验证：继续核对经营、资本配置和估值，区分原有核心与本季增量。
+报告日为2026-09-30；季度股数差不是实际交易记录，权重上涨也可能发生在减股时。当前价格过滤与来源审计见 [13F趋势-AKO](/investor-masters/institutions/13f-trends-ako/)。
+<!-- 13f-2026q3-ako:end -->
+
 ### [特里·史密斯](/investor-masters/investors/terry-smith/)
 > “但偶尔，市场也会犯傻，给你提供一个你根本不应该得到的机会。微软就是一个典型案例。我们开始买入微软时，它的股价只有 25 美元，而今天它的股价已经超过 420 美元，而且它连续 8 年都是我们基金表现最好的持仓之一。这不应该发生在这样体量的公司身上，但市场确实给了我们这个机会。要知道当时，微软的市盈率大约只有 8 倍。” ——来源：[4万字对话｜72岁传奇投资人特里·史密斯详述一生，如何塑造自己的投资风格](/investor-masters/sources/source-12/)
 
@@ -54,6 +126,30 @@ Pershing 权重以包含 PS 关联主体股份的完整申报为分母；它不�
 
 ## 相关页面
 
+<!-- 13f-2026q3-tudor-links:start -->
+- [Tudor Investment Corporation](/investor-masters/institutions/tudor-investment-corporation/)；[13F趋势-Tudor](/investor-masters/institutions/13f-trends-tudor/)；[13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
+<!-- 13f-2026q3-tudor-links:end -->
+
+<!-- 13f-2026q3-baillie-links:start -->
+- [Baillie Gifford](/investor-masters/institutions/baillie-gifford/)；[13F趋势-Baillie](/investor-masters/institutions/13f-trends-baillie/)；[13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
+<!-- 13f-2026q3-baillie-links:end -->
+
+<!-- 13f-2026q3-maverick-links:start -->
+- [Maverick Capital](/investor-masters/institutions/maverick-capital/)；[13F趋势-Maverick](/investor-masters/institutions/13f-trends-maverick/)；[13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
+<!-- 13f-2026q3-maverick-links:end -->
+
+<!-- 13f-2026q3-kensico-links:start -->
+- [Kensico Capital Management](/investor-masters/institutions/kensico-capital-management/)；[13F趋势-Kensico](/investor-masters/institutions/13f-trends-kensico/)；[13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
+<!-- 13f-2026q3-kensico-links:end -->
+
+<!-- 13f-2026q3-third-point-links:start -->
+- [Third Point](/investor-masters/institutions/third-point/)；[13F趋势-Third Point](/investor-masters/institutions/13f-trends-third-point/)；[13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
+<!-- 13f-2026q3-third-point-links:end -->
+
+<!-- 13f-2026q3-ako-links:start -->
+- [AKO Capital](/investor-masters/institutions/ako-capital/)；[13F趋势-AKO](/investor-masters/institutions/13f-trends-ako/)；[13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
+<!-- 13f-2026q3-ako-links:end -->
+
 - [特里·史密斯](/investor-masters/investors/terry-smith/)
 - [詹姆斯·安德森](/investor-masters/investors/james-anderson/)
 - [比尔·阿克曼](/investor-masters/investors/bill-ackman/)
@@ -61,6 +157,30 @@ Pershing 权重以包含 PS 关联主体股份的完整申报为分母；它不�
 - [Meta](/investor-masters/companies/meta/)
 
 ## 主要来源
+
+<!-- 13f-2026q3-tudor-sources:start -->
+- [SEC｜Tudor：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/tudor-13f-2026q3/)；[Tudor-13f-source-audit](/investor-masters/sources/tudor-13f-source-audit/)
+<!-- 13f-2026q3-tudor-sources:end -->
+
+<!-- 13f-2026q3-baillie-sources:start -->
+- [SEC｜Baillie：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/baillie-13f-2026q3/)；[Baillie-13f-source-audit](/investor-masters/sources/baillie-13f-source-audit/)
+<!-- 13f-2026q3-baillie-sources:end -->
+
+<!-- 13f-2026q3-maverick-sources:start -->
+- [SEC｜Maverick：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/maverick-13f-2026q3/)；[Maverick-13f-source-audit](/investor-masters/sources/maverick-13f-source-audit/)
+<!-- 13f-2026q3-maverick-sources:end -->
+
+<!-- 13f-2026q3-kensico-sources:start -->
+- [SEC｜Kensico：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/kensico-13f-2026q3/)；[Kensico-13f-source-audit](/investor-masters/sources/kensico-13f-source-audit/)
+<!-- 13f-2026q3-kensico-sources:end -->
+
+<!-- 13f-2026q3-third-point-sources:start -->
+- [SEC｜Third Point：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/third-point-13f-2026q3/)；[Third Point-13f-source-audit](/investor-masters/sources/third-point-13f-source-audit/)
+<!-- 13f-2026q3-third-point-sources:end -->
+
+<!-- 13f-2026q3-ako-sources:start -->
+- [SEC｜AKO：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/ako-13f-2026q3/)；[AKO-13f-source-audit](/investor-masters/sources/ako-13f-source-audit/)
+<!-- 13f-2026q3-ako-sources:end -->
 
 - [Atreides 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1777813/000177781326000009/0001777813-26-000009.txt)
 - [Atreides 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1777813/000177781326000013/0001777813-26-000013.txt)

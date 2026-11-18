@@ -13,6 +13,113 @@ Alphabet 在这批资料里最重要的不是“它是不是好公司”，而�
 
 ## 公司点评
 
+<!-- 13f-2026q3-tudor:start -->
+### [Tudor Investment Corporation](/investor-masters/institutions/tudor-investment-corporation/)：2026Q3 公开持仓行为
+
+| 证券 | Q2股数 | Q3股数 | 调整后变化 | Q2权重 → Q3权重 | 前十变化 |
+|---|---:|---:|---|---|---|
+| GOOG（谷歌） | 311,448 | 537,068 | +72.44% | 0.15% → 0.24% | 未进入前十 |
+
+解读框架：资产方向与工具组合观察，不推导净风险。这是根据机构既有方法提出的研究问题，不是管理者对本次交易原因的公开解释。
+下一步验证：搜索竞争、广告、云盈利与开支。
+报告日为2026-09-30；季度股数差不是实际交易记录，权重上涨也可能发生在减股时。当前价格过滤与来源审计见 [13F趋势-Tudor](/investor-masters/institutions/13f-trends-tudor/)。
+Alphabet A/C股分别保留股数，机构内部合并估算金额后才进入跨机构评分。
+<!-- 13f-2026q3-tudor:end -->
+
+<!-- 13f-2026q3-lone-pine:start -->
+### [Lone Pine Capital](/investor-masters/institutions/lone-pine-capital/)：2026Q3 公开持仓行为
+
+| 证券 | Q2股数 | Q3股数 | 调整后变化 | Q2权重 → Q3权重 | 前十变化 |
+|---|---:|---:|---|---|---|
+| GOOGL（谷歌） | 215,574 | 2,158,580 | +901.32% | 0.47% → 4.85% | 进入前十 |
+
+解读框架：经营变化、新承接与持续性验证。这是根据机构既有方法提出的研究问题，不是管理者对本次交易原因的公开解释。
+下一步验证：搜索竞争、广告、云盈利和支出。
+报告日为2026-09-30；季度股数差不是实际交易记录，权重上涨也可能发生在减股时。当前价格过滤与来源审计见 [13F趋势-Lone Pine](/investor-masters/institutions/13f-trends-lone-pine/)。
+Alphabet A/C股分别保留股数，机构内部合并估算金额后才进入跨机构评分。
+<!-- 13f-2026q3-lone-pine:end -->
+
+<!-- 13f-2026q3-baupost:start -->
+### [Baupost Group](/investor-masters/institutions/baupost-group/)：2026Q3 公开持仓行为
+
+| 证券 | Q2股数 | Q3股数 | 调整后变化 | Q2权重 → Q3权重 | 前十变化 |
+|---|---:|---:|---|---|---|
+| GOOG（谷歌） | 1,371,931 | 949,931 | -30.76% | 8.95% → 6.41% | 仍在前十 |
+
+解读框架：折价、现金流修复与催化剂验证。这是根据机构既有方法提出的研究问题，不是管理者对本次交易原因的公开解释。
+下一步验证：继续核对经营、资本配置和估值，区分原有核心与本季增量。
+报告日为2026-09-30；季度股数差不是实际交易记录，权重上涨也可能发生在减股时。当前价格过滤与来源审计见 [13F趋势-Baupost](/investor-masters/institutions/13f-trends-baupost/)。
+Alphabet A/C股分别保留股数，机构内部合并估算金额后才进入跨机构评分。
+<!-- 13f-2026q3-baupost:end -->
+
+<!-- 13f-2026q3-maverick:start -->
+### [Maverick Capital](/investor-masters/institutions/maverick-capital/)：2026Q3 公开持仓行为
+
+| 证券 | Q2股数 | Q3股数 | 调整后变化 | Q2权重 → Q3权重 | 前十变化 |
+|---|---:|---:|---|---|---|
+| GOOG（谷歌） | 1,442,118 | 1,953,616 | +35.47% | 4.50% → 5.19% | 仍在前十 |
+
+解读框架：行业研究下的公司选择与经营差异。这是根据机构既有方法提出的研究问题，不是管理者对本次交易原因的公开解释。
+下一步验证：继续核对经营、资本配置和估值，区分原有核心与本季增量。
+报告日为2026-09-30；季度股数差不是实际交易记录，权重上涨也可能发生在减股时。当前价格过滤与来源审计见 [13F趋势-Maverick](/investor-masters/institutions/13f-trends-maverick/)。
+Alphabet A/C股分别保留股数，机构内部合并估算金额后才进入跨机构评分。
+<!-- 13f-2026q3-maverick:end -->
+
+<!-- 13f-2026q3-kensico:start -->
+### [Kensico Capital Management](/investor-masters/institutions/kensico-capital-management/)：2026Q3 公开持仓行为
+
+| 证券 | Q2股数 | Q3股数 | 调整后变化 | Q2权重 → Q3权重 | 前十变化 |
+|---|---:|---:|---|---|---|
+| GOOGL（谷歌） | 1,509,500 | 1,369,500 | -9.27% | 9.25% → 9.49% | 仍在前十 |
+
+解读框架：集中组合内部的新增承接与机会成本。这是根据机构既有方法提出的研究问题，不是管理者对本次交易原因的公开解释。
+下一步验证：继续核对经营、资本配置和估值，区分原有核心与本季增量。
+报告日为2026-09-30；季度股数差不是实际交易记录，权重上涨也可能发生在减股时。当前价格过滤与来源审计见 [13F趋势-Kensico](/investor-masters/institutions/13f-trends-kensico/)。
+Alphabet A/C股分别保留股数，机构内部合并估算金额后才进入跨机构评分。
+<!-- 13f-2026q3-kensico:end -->
+
+<!-- 13f-2026q3-third-point:start -->
+### [Third Point](/investor-masters/institutions/third-point/)：2026Q3 公开持仓行为
+
+| 证券 | Q2股数 | Q3股数 | 调整后变化 | Q2权重 → Q3权重 | 前十变化 |
+|---|---:|---:|---|---|---|
+| GOOGL（谷歌） | 1,025,000 | 175,000 | -82.93% | 7.83% → 1.31% | 退出前十，未必清仓 |
+
+解读框架：事件、经营拐点和资本配置的条件性研究。这是根据机构既有方法提出的研究问题，不是管理者对本次交易原因的公开解释。
+下一步验证：继续核对经营、资本配置和估值，区分原有核心与本季增量。
+报告日为2026-09-30；季度股数差不是实际交易记录，权重上涨也可能发生在减股时。当前价格过滤与来源审计见 [13F趋势-Third Point](/investor-masters/institutions/13f-trends-third-point/)。
+Alphabet A/C股分别保留股数，机构内部合并估算金额后才进入跨机构评分。
+<!-- 13f-2026q3-third-point:end -->
+
+<!-- 13f-2026q3-oakmark:start -->
+### [Oakmark Funds](/investor-masters/institutions/oakmark-funds/)：2026Q3 公开持仓行为
+
+| 证券 | Q2股数 | Q3股数 | 调整后变化 | Q2权重 → Q3权重 | 前十变化 |
+|---|---:|---:|---|---|---|
+| GOOG（谷歌） | 1,937,306 | 3,889,189 | +100.75% | 0.91% → 1.73% | 未进入前十 |
+| GOOGL（谷歌） | 6,264,999 | 4,989,705 | -20.36% | 2.97% → 2.24% | 退出前十，未必清仓 |
+
+解读框架：核对内在价值实现路径、资本配置和估值折让。这是根据机构既有方法提出的研究问题，不是管理者对本次交易原因的公开解释。
+下一步验证：合并A/C股后的净增量；搜索、云及AI投入回报；继续核对经营、资本配置和估值，区分原有核心与本季增量。
+报告日为2026-09-30；季度股数差不是实际交易记录，权重上涨也可能发生在减股时。当前价格过滤与来源审计见 [13F趋势-Oakmark](/investor-masters/institutions/13f-trends-oakmark/)。
+申报主体为Harris Associates L.P.，不等同于某只Oakmark基金或某位经理的个人组合。
+Alphabet A/C股分别保留股数，机构内部合并估算金额后才进入跨机构评分。
+<!-- 13f-2026q3-oakmark:end -->
+
+<!-- 13f-2026q3-giverny:start -->
+### [Giverny Capital](/investor-masters/institutions/giverny-capital/)：2026Q3 公开持仓行为
+
+| 证券 | Q2股数 | Q3股数 | 调整后变化 | Q2权重 → Q3权重 | 前十变化 |
+|---|---:|---:|---|---|---|
+| GOOG（谷歌） | 605,460 | 584,916 | -3.39% | 7.19% → 6.83% | 仍在前十 |
+| GOOGL（谷歌） | 310,118 | 305,986 | -1.33% | 3.73% → 3.61% | 未进入前十 |
+
+解读框架：比较每股价值增长、业务耐久性与资本机会成本。这是根据机构既有方法提出的研究问题，不是管理者对本次交易原因的公开解释。
+下一步验证：继续核对经营、资本配置和估值，区分原有核心与本季增量。
+报告日为2026-09-30；季度股数差不是实际交易记录，权重上涨也可能发生在减股时。当前价格过滤与来源审计见 [13F趋势-Giverny](/investor-masters/institutions/13f-trends-giverny/)。
+Alphabet A/C股分别保留股数，机构内部合并估算金额后才进入跨机构评分。
+<!-- 13f-2026q3-giverny:end -->
+
 ### [比尔·阿克曼](/investor-masters/investors/bill-ackman/)
 
 阿克曼看的不是技术神话，而是市场是否因为一轮 AI 恐慌，短暂重写了 Alphabet 的描述方式。他判断的核心不是“Bard 首秀丢不丢脸”，而是搜索、广告、YouTube、数据、工程师储备和资本实力这些更深的东西有没有被根本破坏。他的结论是没有，所以 15 倍左右的市盈率反而成了错价。用他自己的语言说，如果一个企业的名字已经成了动词，市场就不该因为一次技术叙事切换，突然假装它没有护城河。
@@ -79,6 +186,38 @@ GOOG 与 GOOGL 保持证券类别分开。Atreides 的 GOOGL 正股不再列示�
 
 ## 相关页面
 
+<!-- 13f-2026q3-tudor-links:start -->
+- [Tudor Investment Corporation](/investor-masters/institutions/tudor-investment-corporation/)；[13F趋势-Tudor](/investor-masters/institutions/13f-trends-tudor/)；[13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
+<!-- 13f-2026q3-tudor-links:end -->
+
+<!-- 13f-2026q3-lone-pine-links:start -->
+- [Lone Pine Capital](/investor-masters/institutions/lone-pine-capital/)；[13F趋势-Lone Pine](/investor-masters/institutions/13f-trends-lone-pine/)；[13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
+<!-- 13f-2026q3-lone-pine-links:end -->
+
+<!-- 13f-2026q3-baupost-links:start -->
+- [Baupost Group](/investor-masters/institutions/baupost-group/)；[13F趋势-Baupost](/investor-masters/institutions/13f-trends-baupost/)；[13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
+<!-- 13f-2026q3-baupost-links:end -->
+
+<!-- 13f-2026q3-maverick-links:start -->
+- [Maverick Capital](/investor-masters/institutions/maverick-capital/)；[13F趋势-Maverick](/investor-masters/institutions/13f-trends-maverick/)；[13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
+<!-- 13f-2026q3-maverick-links:end -->
+
+<!-- 13f-2026q3-kensico-links:start -->
+- [Kensico Capital Management](/investor-masters/institutions/kensico-capital-management/)；[13F趋势-Kensico](/investor-masters/institutions/13f-trends-kensico/)；[13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
+<!-- 13f-2026q3-kensico-links:end -->
+
+<!-- 13f-2026q3-third-point-links:start -->
+- [Third Point](/investor-masters/institutions/third-point/)；[13F趋势-Third Point](/investor-masters/institutions/13f-trends-third-point/)；[13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
+<!-- 13f-2026q3-third-point-links:end -->
+
+<!-- 13f-2026q3-oakmark-links:start -->
+- [Oakmark Funds](/investor-masters/institutions/oakmark-funds/)；[13F趋势-Oakmark](/investor-masters/institutions/13f-trends-oakmark/)；[13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
+<!-- 13f-2026q3-oakmark-links:end -->
+
+<!-- 13f-2026q3-giverny-links:start -->
+- [Giverny Capital](/investor-masters/institutions/giverny-capital/)；[13F趋势-Giverny](/investor-masters/institutions/13f-trends-giverny/)；[13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
+<!-- 13f-2026q3-giverny-links:end -->
+
 - [比尔·阿克曼](/investor-masters/investors/bill-ackman/)
 - [詹姆斯·安德森](/investor-masters/investors/james-anderson/)
 - [比尔·米勒](/investor-masters/investors/bill-miller/)
@@ -95,6 +234,38 @@ GOOG 与 GOOGL 保持证券类别分开。Atreides 的 GOOGL 正股不再列示�
 - [13F趋势-2026Q2](/investor-masters/institutions/13f-trends-2026-q2/)
 
 ## 主要来源
+
+<!-- 13f-2026q3-tudor-sources:start -->
+- [SEC｜Tudor：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/tudor-13f-2026q3/)；[Tudor-13f-source-audit](/investor-masters/sources/tudor-13f-source-audit/)
+<!-- 13f-2026q3-tudor-sources:end -->
+
+<!-- 13f-2026q3-lone-pine-sources:start -->
+- [SEC｜Lone Pine：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/lone-pine-13f-2026q3/)；[Lone Pine-13f-source-audit](/investor-masters/sources/lone-pine-13f-source-audit/)
+<!-- 13f-2026q3-lone-pine-sources:end -->
+
+<!-- 13f-2026q3-baupost-sources:start -->
+- [SEC｜Baupost：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/baupost-13f-2026q3/)；[Baupost-13f-source-audit](/investor-masters/sources/baupost-13f-source-audit/)
+<!-- 13f-2026q3-baupost-sources:end -->
+
+<!-- 13f-2026q3-maverick-sources:start -->
+- [SEC｜Maverick：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/maverick-13f-2026q3/)；[Maverick-13f-source-audit](/investor-masters/sources/maverick-13f-source-audit/)
+<!-- 13f-2026q3-maverick-sources:end -->
+
+<!-- 13f-2026q3-kensico-sources:start -->
+- [SEC｜Kensico：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/kensico-13f-2026q3/)；[Kensico-13f-source-audit](/investor-masters/sources/kensico-13f-source-audit/)
+<!-- 13f-2026q3-kensico-sources:end -->
+
+<!-- 13f-2026q3-third-point-sources:start -->
+- [SEC｜Third Point：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/third-point-13f-2026q3/)；[Third Point-13f-source-audit](/investor-masters/sources/third-point-13f-source-audit/)
+<!-- 13f-2026q3-third-point-sources:end -->
+
+<!-- 13f-2026q3-oakmark-sources:start -->
+- [SEC｜Oakmark：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/oakmark-13f-2026q3/)；[Oakmark-13f-source-audit](/investor-masters/sources/oakmark-13f-source-audit/)
+<!-- 13f-2026q3-oakmark-sources:end -->
+
+<!-- 13f-2026q3-giverny-sources:start -->
+- [SEC｜Giverny：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/giverny-13f-2026q3/)；[Giverny-13f-source-audit](/investor-masters/sources/giverny-13f-source-audit/)
+<!-- 13f-2026q3-giverny-sources:end -->
 
 - [3.2万字｜潘兴广场比尔·阿克曼最有价值的一场对话，深谈价值投资、核心战役以及如何从人生谷底“爬坑”……](/investor-masters/sources/source-10/)
 - [2.5万字｜柏基“传奇基金经理”安德森的罕见深访：伟大公司各有各的独特，平庸公司却都差不多……](/investor-masters/sources/source-03/)

@@ -60,7 +60,7 @@ Berkshire 最关键的激励结构不是管理费，而是根本没有基金式�
 - AAPL、AXP、KO、Alphabet A/C 等核心持仓股数不变；AAPL 权重上升不能记成主动加仓。GOOG/GOOGL 在下表按证券类别分别列示，跨机构比较时合并为 Alphabet。
 - LEN A 类股增加 98.56%，B 类增加 85.50%；DAL 增加 12.44%。新列示 Bending Spoons 20,689,655 股，季末权重 0.23%；这是 7 月 IPO 相关持仓，10 月追加投资属于 Q4，不能计入本季。
 - BAC 减股 5.70%、VRSN 减股 34.12%、COF 减股 61.67%；本季没有完全退出的既有证券。不能把机构交易一概归因于巴菲特个人。
-- 长历史与全部在持证券：[13F趋势-Berkshire](/investor-masters/institutions/13f-trends-berkshire/)；横向页：[Q3 首批五家](/investor-masters/institutions/13f-trends-2026-q3/)。
+- 长历史与全部在持证券：[13F趋势-Berkshire](/investor-masters/institutions/13f-trends-berkshire/)；横向页：[Q3 23 家样本](/investor-masters/institutions/13f-trends-2026-q3/)。
 
 ### 近四个已披露季度前 10 大持仓
 

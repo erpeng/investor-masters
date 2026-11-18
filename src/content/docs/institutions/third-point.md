@@ -82,82 +82,102 @@ Third Point 今天已经是一组业务的集合，而不是单一公开股票�
 
 ### 怎么看这组披露
 
-按事件、催化剂、资本结构和跨资产机会成本读；权重变化尤其容易被组合扩缩表扭曲。 13F 只覆盖美国公开证券多头及部分工具，不覆盖现金、空头、非美资产、完整衍生品和季度内路径。
+13F 是季末公开证券多头及部分期权的滞后披露，不是完整资产组合。以下按 CUSIP、证券类别和 PUT/CALL 聚合重复管理人记录；期权与正股不混算。市值和权重变化不能替代股数变化。
 
-### 最新季度趋势雷达
+### 13F 趋势雷达（最近一季横向）
 
-- 从 `$2.08bn` 到 `$4.68bn`，变化 `$2.60bn`（+124.7%）；拆股调整后，主动仓位约 `$2.50bn`，价格贡献约 `$0.10bn`，主动仓位变化是主因。
-- 当前前十大：`WBD` 11.4%、`GOOGL` 9.5%、`AMZN` 8.9%、`CRH` 5.0%、`TDS` 5.0%、`TSM` 4.7%、`LYV` 4.4%、`KEYS` 4.4%、`SGI` 4.3%、`SQ` 4.2%。
-- 详细长线轨迹：[13F趋势-Third Point](/investor-masters/institutions/13f-trends-third-point/)。
-- 横向趋势页：[Q2 2026](/investor-masters/institutions/13f-trends-2026-q2/)。
+最近一季：`2026Q3` vs `2026Q2`；报告日 `2026-09-30`；申报日 `2026-11-16`；核验 `2026-11-17`。
+
+- 申报证券行和从 `$4.680bn` 变为 `$4.589bn`（`-1.93%`）；聚合后 `39` 个证券类别，其中期权 `1` 个。非期权证券前五占其切片 `37.98%`、前十占 `61.64%`。
+- 非期权证券切片申报值 `$4.651bn` → `$4.543bn`；按上季隐含价格估算的股数项 `+$333.63m`，价格项 `−$441.81m`。这是两期持仓的机械分解，不是现金流、真实成交额或投资收益；首次上市、估值口径不同的证券另见趋势页边界。
+- 期权切片另计：申报值变化的主动项 `+$15.12m`、价格项 `+$2.60m`；缺少期限、执行价、权利金及其他组合腿，不能推导净风险。
+- CRH、FLEX、COF、APG和XYZ增加股数；KEYS权重上升但股数减少。
+- Alphabet CUSIP02079K404是强制可转优先股存托份额，不与GOOG/GOOGL普通股合并。
+- SpaceX上市相关股份与跨机构估值另列，不把增股全部等同公开市场买入。
+- Q3新列META、UNM、NVDA和MSFT；前三项合计约27.37%。WBD、AMZN和NSC不再列示，GOOGL减股82.93%。这是事件与机会成本重排，不能据此还原基金净敞口。
+- 长历史与全部在持证券：[13F趋势-Third Point](/investor-masters/institutions/13f-trends-third-point/)；横向页：[Q3 23 家样本](/investor-masters/institutions/13f-trends-2026-q3/)。
 
 ### 近四个已披露季度前 10 大持仓
 
-#### 2026Q2
+#### Q3 2026
 
-- `WBD`：`13F 占比 11.4%`，股数/份额 `20.00m`。
-- `GOOGL`：`13F 占比 9.5%`，股数/份额 `2.52m`。
-- `AMZN`：`13F 占比 8.9%`，股数/份额 `1.75m`。
-- `CRH`：`13F 占比 5.0%`，股数/份额 `2.19m`。
-- `TDS`：`13F 占比 5.0%`，股数/份额 `6.28m`。
-- `TSM`：`13F 占比 4.7%`，股数/份额 `460.0k`。
-- `LYV`：`13F 占比 4.4%`，股数/份额 `1.14m`。
-- `KEYS`：`13F 占比 4.4%`，股数/份额 `585.0k`。
-- `SGI`：`13F 占比 4.3%`，股数/份额 `2.57m`。
-- `SQ`：`13F 占比 4.2%`，股数/份额 `2.56m`。
+申报总值 `$4.589bn`；聚合后 `39` 个证券类别。
 
-#### 2026Q1
+| 证券及业务 | 股数／底层份额 | 季末申报市值 | 13F 占比 |
+|---|---:|---:|---:|
+| `META` Meta Platforms Inc（Meta，社交网络、广告系统和 AI 推荐平台，核心资产是 Facebook、Instagram、WhatsApp 和广告模型） | 655,000 | $474.99m | 10.35% |
+| `UNM` Unum Group（提供团体伤残、人寿与补充保险，关注承保、赔付和资本回报） | 5,000,000 | $438.65m | 9.56% |
+| `NVDA` Nvidia Corporation（AI 加速计算平台，GPU、网络和 CUDA 生态共同支撑数据中心算力需求） | 1,500,000 | $342.57m | 7.46% |
+| `CRH` CRH plc（建筑材料供应商，关注基础设施需求、定价及资本配置） | 2,840,000 | $235.15m | 5.12% |
+| `XYZ` Block（经营商户支付与Cash App金融服务，关注交易规模、变现和信贷风险） | 3,180,000 | $233.83m | 5.10% |
+| `MSFT` Microsoft Corp（微软，企业软件、Azure 云、Office、Windows 和 AI 基础设施共同构成的生产力平台） | 450,000 | $230.81m | 5.03% |
+| `FLEX` Flex Ltd（电子制造及供应链服务企业，关注数据中心客户、订单与利润率） | 2,000,000 | $219.98m | 4.79% |
+| `COF` Capital One Financial（消费金融与银行企业，关注信用损失、存款和资本回报） | 1,110,000 | $214.31m | 4.67% |
+| `KEYS` Keysight Technologies（电子测试测量设备与软件企业，关注研发预算和通信升级） | 570,000 | $207.50m | 4.52% |
+| `LYV` Live Nation Entertainment（经营演唱会、票务和场馆，关注活动需求、票务收费和监管） | 1,195,000 | $202.31m | 4.41% |
 
-- `AMZN`：`13F 占比 19.4%`，股数/份额 `1.94m`。
-- `TDS`：`13F 占比 13.3%`，股数/份额 `6.60m`。
-- `CRH`：`13F 占比 9.6%`，股数/份额 `1.90m`。
-- `SGI`：`13F 占比 8.1%`，股数/份额 `2.27m`。
-- `CRS`：`13F 占比 5.9%`，股数/份额 `310.0k`。
-- `MTZ`：`13F 占比 4.9%`，股数/份额 `320.0k`。
-- `DHR`：`13F 占比 4.8%`，股数/份额 `525.0k`。
-- `TSM`：`13F 占比 4.5%`，股数/份额 `275.0k`。
-- `APG`：`13F 占比 3.9%`，股数/份额 `2.03m`。
-- `LYV`：`13F 占比 3.4%`，股数/份额 `465.0k`。
+#### Q2 2026
+
+申报总值 `$4.680bn`；聚合后 `43` 个证券类别。
+
+| 证券及业务 | 股数／底层份额 | 季末申报市值 | 13F 占比 |
+|---|---:|---:|---:|
+| `WBD` Warner Bros. Discovery（媒体与娱乐企业，关注流媒体、内容价值和债务） | 20,000,000 | $533.20m | 11.39% |
+| `AMZN` Amazon Com Inc（电商、物流、AWS 云和广告共同构成的平台公司，长期变量是基础设施外部化能力） | 1,750,000 | $417.10m | 8.91% |
+| `GOOGL` Alphabet Inc（Alphabet 的 A 类股，核心资产是 Google 搜索、YouTube、广告网络、Android 和 Google Cloud） | 1,025,000 | $366.30m | 7.83% |
+| `CRH` CRH plc（建筑材料供应商，关注基础设施需求、定价及资本配置） | 2,195,000 | $234.87m | 5.02% |
+| `TDS` Telephone and Data Systems（通信服务及投资控股企业，关注资产重组、客户与现金流） | 6,275,000 | $232.24m | 4.96% |
+| `TSM` [ADR/ADS] Taiwan Semiconductor Mfg Ltd（台积电，全球领先晶圆代工厂，是先进制程和先进封装产能的关键瓶颈） | 460,000 | $219.68m | 4.69% |
+| `LYV` Live Nation Entertainment（经营演唱会、票务和场馆，关注活动需求、票务收费和监管） | 1,135,000 | $207.83m | 4.44% |
+| `KEYS` Keysight Technologies（电子测试测量设备与软件企业，关注研发预算和通信升级） | 585,000 | $204.79m | 4.38% |
+| `SGI` Somnigroup International（床垫与睡眠产品企业，关注品牌、零售渠道整合及负债） | 2,570,769 | $201.55m | 4.31% |
+| `XYZ` Block（经营商户支付与Cash App金融服务，关注交易规模、变现和信贷风险） | 2,558,943 | $194.48m | 4.16% |
+
+#### Q1 2026
+
+申报总值 `$2.083bn`；聚合后 `33` 个证券类别。
+
+| 证券及业务 | 股数／底层份额 | 季末申报市值 | 13F 占比 |
+|---|---:|---:|---:|
+| `AMZN` Amazon Com Inc（电商、物流、AWS 云和广告共同构成的平台公司，长期变量是基础设施外部化能力） | 1,940,000 | $404.04m | 19.40% |
+| `TDS` Telephone and Data Systems（通信服务及投资控股企业，关注资产重组、客户与现金流） | 6,600,000 | $277.86m | 13.34% |
+| `CRH` CRH plc（建筑材料供应商，关注基础设施需求、定价及资本配置） | 1,900,000 | $199.73m | 9.59% |
+| `SGI` Somnigroup International（床垫与睡眠产品企业，关注品牌、零售渠道整合及负债） | 2,270,769 | $167.86m | 8.06% |
+| `CRS` Carpenter Technology（特种合金材料企业，关注航空等终端需求、产能和定价） | 310,000 | $122.19m | 5.87% |
+| `MTZ` MasTec（能源、通信与公用事业基础设施工程企业，关注积压订单与项目执行） | 320,000 | $102.96m | 4.94% |
+| `DHR` Danaher（生命科学与诊断企业，关注仪器、耗材及客户研发支出） | 525,000 | $99.54m | 4.78% |
+| `TSM` [ADR/ADS] Taiwan Semiconductor Mfg Ltd（台积电，全球领先晶圆代工厂，是先进制程和先进封装产能的关键瓶颈） | 275,000 | $92.94m | 4.46% |
+| `APG` APi Group（消防安全与专业工程服务商，关注服务收入、订单和并购回报） | 2,030,000 | $82.26m | 3.95% |
+| `LYV` Live Nation Entertainment（经营演唱会、票务和场馆，关注活动需求、票务收费和监管） | 465,000 | $70.92m | 3.40% |
 
 #### Q4 2025
 
-- `PCG` Pg&E Corp（PG&E，加州公用事业公司，核心看电网投资、监管回报和安全风险控制）：`13F 占比 7.8%`，市值约 `$0.57bn`，股数/份额 `44,440,000`。
-- `NVDA` Nvidia Corporation（AI 加速计算平台，GPU、网络和 CUDA 生态共同支撑数据中心算力需求）：`13F 占比 7.6%`，市值约 `$0.55bn`，股数/份额 `2,950,000`。
-- `AMZN` Amazon Com Inc（电商、物流、AWS 云和广告共同构成的平台公司，长期变量是基础设施外部化能力）：`13F 占比 6.9%`，市值约 `$0.50bn`，股数/份额 `2,165,000`。
-- `MSFT` Microsoft Corp（微软，企业软件、Azure 云、Office、Windows 和 AI 基础设施共同构成的生产力平台）：`13F 占比 6.1%`，市值约 `$0.45bn`，股数/份额 `925,000`。
-- `UNP` Union Pac Corp（联合太平洋，美国西部铁路网络，核心看货运量、价格、运营效率和基础设施稀缺性）：`13F 占比 5.8%`，市值约 `$0.42bn`，股数/份额 `1,810,000`。
-- `CRH` Crh Plc（建筑材料和基础设施材料公司，受益于道路、住宅和公共工程建设需求）：`13F 占比 4.5%`，市值约 `$0.32bn`，股数/份额 `2,600,000`。
-- `Somnigroup International` Somnigroup International Inc（睡眠产品和床垫品牌公司，核心看品牌、零售渠道和耐用品消费周期）：`13F 占比 4.2%`，市值约 `$0.30bn`，股数/份额 `3,400,000`。
-- `BN` Brookfield Corp（Brookfield，全球另类资产和基础设施平台，核心是长期资本、运营资产和资本循环）：`13F 占比 3.9%`，市值约 `$0.28bn`，股数/份额 `6,200,000`。
-- `Norfolk Southn` Norfolk Southn Corp（美国东部铁路公司，核心看货运量、价格、运营效率和安全改善）：`13F 占比 3.9%`，市值约 `$0.28bn`，股数/份额 `975,000`。
-- `Telephone Data Sys` Telephone & Data Sys Inc（区域通信和无线业务公司，核心看频谱资产、用户流失和资本结构）：`13F 占比 3.8%`，市值约 `$0.27bn`，股数/份额 `6,675,000`。
+申报总值 `$7.275bn`；聚合后 `44` 个证券类别。
 
-#### Q3 2025
+| 证券及业务 | 股数／底层份额 | 季末申报市值 | 13F 占比 |
+|---|---:|---:|---:|
+| `PCG` PG&E Corporation（加州电力与燃气公用事业，关注监管回报、火灾责任与融资） | 34,300,000 | $551.20m | 7.58% |
+| `NVDA` Nvidia Corporation（AI 加速计算平台，GPU、网络和 CUDA 生态共同支撑数据中心算力需求） | 2,950,000 | $550.17m | 7.56% |
+| `AMZN` Amazon Com Inc（电商、物流、AWS 云和广告共同构成的平台公司，长期变量是基础设施外部化能力） | 2,165,000 | $499.73m | 6.87% |
+| `MSFT` Microsoft Corp（微软，企业软件、Azure 云、Office、Windows 和 AI 基础设施共同构成的生产力平台） | 925,000 | $447.35m | 6.15% |
+| `UNP` Union Pacific（北美铁路运输企业，关注货运量、服务效率和资本回报） | 1,810,000 | $418.69m | 5.76% |
+| `CRH` CRH plc（建筑材料供应商，关注基础设施需求、定价及资本配置） | 2,600,000 | $324.48m | 4.46% |
+| `SGI` Somnigroup International（床垫与睡眠产品企业，关注品牌、零售渠道整合及负债） | 3,400,000 | $303.55m | 4.17% |
+| `BN` Brookfield Corporation（配置资产管理、保险及经营资产，关注资本回报和估值） | 6,200,000 | $284.52m | 3.91% |
+| `NSC` Norfolk Southern（北美铁路运输企业，关注货运量、运营效率和资本纪律） | 975,000 | $281.50m | 3.87% |
+| `TDS` Telephone and Data Systems（通信服务及投资控股企业，关注资产重组、客户与现金流） | 6,675,000 | $273.68m | 3.76% |
 
-- `PCG` Pg&E Corp（PG&E，加州公用事业公司，核心看电网投资、监管回报和安全风险控制）：`13F 占比 8.6%`，市值约 `$0.77bn`，股数/份额 `60,240,000`。
-- `AMZN` Amazon Com Inc（电商、物流、AWS 云和广告共同构成的平台公司，长期变量是基础设施外部化能力）：`13F 占比 6.9%`，市值约 `$0.62bn`，股数/份额 `2,810,000`。
-- `SPY` Spdr S&P 500 Etf Tr put（标普 500 ETF，用来表达美国大盘指数暴露，也常被交易型机构用于期权和对冲）：`13F 占比 6.5%`，市值约 `$0.58bn`，股数/份额 `875,000`。
-- `MSFT` Microsoft Corp（微软，企业软件、Azure 云、Office、Windows 和 AI 基础设施共同构成的生产力平台）：`13F 占比 6.3%`，市值约 `$0.57bn`，股数/份额 `1,100,000`。
-- `NVDA` Nvidia Corporation（AI 加速计算平台，GPU、网络和 CUDA 生态共同支撑数据中心算力需求）：`13F 占比 5.9%`，市值约 `$0.53bn`，股数/份额 `2,850,000`。
-- `Norfolk Southn` Norfolk Southn Corp（美国东部铁路公司，核心看货运量、价格、运营效率和安全改善）：`13F 占比 5.5%`，市值约 `$0.50bn`，股数/份额 `1,650,000`。
-- `BN` Brookfield Corp（Brookfield，全球另类资产和基础设施平台，核心是长期资本、运营资产和资本循环）：`13F 占比 3.6%`，市值约 `$0.32bn`，股数/份额 `4,675,000`。
-- `TSM` Taiwan Semiconductor Mfg Ltd（台积电，全球领先晶圆代工厂，是先进制程和先进封装产能的关键瓶颈）：`13F 占比 3.4%`，市值约 `$0.31bn`，股数/份额 `1,100,000`。
-- `COF` Capital One Finl Corp（Capital One，信用卡和消费金融银行，核心变量是信贷周期、获客成本和拨备水平）：`13F 占比 3.3%`，市值约 `$0.29bn`，股数/份额 `1,385,000`。
-- `FLTR` Flutter Entmt Plc（Flutter，全球线上博彩和体育投注平台，FanDuel 是美国市场核心增长资产）：`13F 占比 3.2%`，市值约 `$0.28bn`，股数/份额 `1,120,000`。
+### 这四季的变化小结
 
-### 单机构长线趋势页
+沿用事件驱动、催化剂和跨资产机会成本框架。先辨认退出旧事件与建立新研究问题，再观察新仓是否成为持续核心；13F不能证明管理层对催化剂的判断。
 
-- [13F趋势-Third Point](/investor-masters/institutions/13f-trends-third-point/)
-- [Q2 2026 横向趋势](/investor-masters/institutions/13f-trends-2026-q2/)
+### 数据来源
 
-## 相关公司样本
-
-- [PG&E](/investor-masters/companies/pge/)：主动治理推动与长期催化剂主轴。
-- [Live Nation](/investor-masters/companies/live-nation/)、[Capital One](/investor-masters/companies/capital-one/)：`质量特征` 与公司特定错价并存的样本。
-- [Union Pacific](/investor-masters/companies/union-pacific/)、[CRH](/investor-masters/companies/crh/)：`Q4 2025` 往工业与基础设施切换的公开痕迹。
-- [Brookfield](/investor-masters/companies/brookfield/)、[Apollo](/investor-masters/companies/apollo/)：公开权益里更靠近另类资管、信用与资本市场平台的样本。
-- [亚马逊](/investor-masters/companies/amazon/)、[台积电](/investor-masters/companies/tsmc/)、[丹纳赫](/investor-masters/companies/danaher/)：最新 13F 与长访谈共同指向的三条线索，分别对应 AI 平台、先进制造瓶颈和高质量运营系统。
-- [Carpenter Technology](/investor-masters/companies/carpenter-technology/)、[MasTec](/investor-masters/companies/mastec/)、[API Group](/investor-masters/companies/api-group/)：公开 13F 中更靠近能源、电力、工业基础设施和现实资产承接层的样本。
+- [SEC 13F-HR · 2026-09-30 · 2026-11-16](https://www.sec.gov/Archives/edgar/data/1040273/000104027326000004/0001040273-26-000004-index.htm)
+- [SEC 13F-HR · 2026-06-30 · 2026-08-14](https://www.sec.gov/Archives/edgar/data/1040273/000104027326000003/0001040273-26-000003-index.htm)
+- [SEC 13F-HR · 2026-03-31 · 2026-05-15](https://www.sec.gov/Archives/edgar/data/1040273/000104027326000002/0001040273-26-000002-index.htm)
+- [SEC 13F-HR · 2025-12-31 · 2026-02-17](https://www.sec.gov/Archives/edgar/data/1040273/000104027326000001/0001040273-26-000001-index.htm)
+- [SEC｜Third Point：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/third-point-13f-2026q3/)；[Third Point-13f-source-audit](/investor-masters/sources/third-point-13f-source-audit/)。
 
 ## 机构传承
 

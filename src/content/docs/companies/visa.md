@@ -13,6 +13,78 @@ Visa 在这批资料里承担的是一个非常清晰的角色：好行业往往
 
 ## 公司点评
 
+<!-- 13f-2026q3-lone-pine:start -->
+### [Lone Pine Capital](/investor-masters/institutions/lone-pine-capital/)：2026Q3 公开持仓行为
+
+| 证券 | Q2股数 | Q3股数 | 调整后变化 | Q2权重 → Q3权重 | 前十变化 |
+|---|---:|---:|---|---|---|
+| V（维萨） | 165,960 | 2,229,711 | +1243.52% | 0.35% → 5.23% | 进入前十 |
+
+解读框架：经营变化、新承接与持续性验证。这是根据机构既有方法提出的研究问题，不是管理者对本次交易原因的公开解释。
+下一步验证：支付量、跨境交易和监管。
+报告日为2026-09-30；季度股数差不是实际交易记录，权重上涨也可能发生在减股时。当前价格过滤与来源审计见 [13F趋势-Lone Pine](/investor-masters/institutions/13f-trends-lone-pine/)。
+<!-- 13f-2026q3-lone-pine:end -->
+
+<!-- 13f-2026q3-baupost:start -->
+### [Baupost Group](/investor-masters/institutions/baupost-group/)：2026Q3 公开持仓行为
+
+| 证券 | Q2股数 | Q3股数 | 调整后变化 | Q2权重 → Q3权重 | 前十变化 |
+|---|---:|---:|---|---|---|
+| V（维萨） | 701,355 | 701,355 | +0.00% | 4.44% → 4.99% | 仍在前十 |
+
+解读框架：折价、现金流修复与催化剂验证。这是根据机构既有方法提出的研究问题，不是管理者对本次交易原因的公开解释。
+下一步验证：继续核对经营、资本配置和估值，区分原有核心与本季增量。
+报告日为2026-09-30；季度股数差不是实际交易记录，权重上涨也可能发生在减股时。当前价格过滤与来源审计见 [13F趋势-Baupost](/investor-masters/institutions/13f-trends-baupost/)。
+<!-- 13f-2026q3-baupost:end -->
+
+<!-- 13f-2026q3-maverick:start -->
+### [Maverick Capital](/investor-masters/institutions/maverick-capital/)：2026Q3 公开持仓行为
+
+| 证券 | Q2股数 | Q3股数 | 调整后变化 | Q2权重 → Q3权重 | 前十变化 |
+|---|---:|---:|---|---|---|
+| V（维萨） | 752,252 | 0 | 不再列示 | 2.28% → 0.00% | 未进入前十 |
+
+解读框架：行业研究下的公司选择与经营差异。这是根据机构既有方法提出的研究问题，不是管理者对本次交易原因的公开解释。
+下一步验证：继续核对经营、资本配置和估值，区分原有核心与本季增量。
+报告日为2026-09-30；季度股数差不是实际交易记录，权重上涨也可能发生在减股时。当前价格过滤与来源审计见 [13F趋势-Maverick](/investor-masters/institutions/13f-trends-maverick/)。
+<!-- 13f-2026q3-maverick:end -->
+
+<!-- 13f-2026q3-kensico:start -->
+### [Kensico Capital Management](/investor-masters/institutions/kensico-capital-management/)：2026Q3 公开持仓行为
+
+| 证券 | Q2股数 | Q3股数 | 调整后变化 | Q2权重 → Q3权重 | 前十变化 |
+|---|---:|---:|---|---|---|
+| V（维萨） | 946,600 | 929,200 | -1.84% | 5.57% → 6.72% | 仍在前十 |
+
+解读框架：集中组合内部的新增承接与机会成本。这是根据机构既有方法提出的研究问题，不是管理者对本次交易原因的公开解释。
+下一步验证：继续核对经营、资本配置和估值，区分原有核心与本季增量。
+报告日为2026-09-30；季度股数差不是实际交易记录，权重上涨也可能发生在减股时。当前价格过滤与来源审计见 [13F趋势-Kensico](/investor-masters/institutions/13f-trends-kensico/)。
+<!-- 13f-2026q3-kensico:end -->
+
+<!-- 13f-2026q3-ako:start -->
+### [AKO Capital](/investor-masters/institutions/ako-capital/)：2026Q3 公开持仓行为
+
+| 证券 | Q2股数 | Q3股数 | 调整后变化 | Q2权重 → Q3权重 | 前十变化 |
+|---|---:|---:|---|---|---|
+| V（维萨） | 985,126 | 701,579 | -28.78% | 7.87% → 7.99% | 仍在前十 |
+
+解读框架：检验质量、资本回报和估值纪律；增股只作为研究入口。这是根据机构既有方法提出的研究问题，不是管理者对本次交易原因的公开解释。
+下一步验证：继续核对经营、资本配置和估值，区分原有核心与本季增量。
+报告日为2026-09-30；季度股数差不是实际交易记录，权重上涨也可能发生在减股时。当前价格过滤与来源审计见 [13F趋势-AKO](/investor-masters/institutions/13f-trends-ako/)。
+<!-- 13f-2026q3-ako:end -->
+
+<!-- 13f-2026q3-akre:start -->
+### [Akre Capital Management](/investor-masters/institutions/akre-capital-management/)：2026Q3 公开持仓行为
+
+| 证券 | Q2股数 | Q3股数 | 调整后变化 | Q2权重 → Q3权重 | 前十变化 |
+|---|---:|---:|---|---|---|
+| V（维萨） | 1,110,881 | 930,084 | -16.28% | 7.44% → 7.55% | 仍在前十 |
+
+解读框架：先检验再投资回报，再区分新增小仓、增股与存量核心。这是根据机构既有方法提出的研究问题，不是管理者对本次交易原因的公开解释。
+下一步验证：继续核对经营、资本配置和估值，区分原有核心与本季增量。
+报告日为2026-09-30；季度股数差不是实际交易记录，权重上涨也可能发生在减股时。当前价格过滤与来源审计见 [13F趋势-Akre](/investor-masters/institutions/13f-trends-akre/)。
+<!-- 13f-2026q3-akre:end -->
+
 ### [特里·史密斯](/investor-masters/investors/terry-smith/)
 > “另外，这里有一个重要的问题值得思考：一个行业是“好行业”还是“坏行业”，取决于市场上有多少竞争者？从投资的角度来看，竞争对手越少，行业质量越高。如果只有一个公司在某个领域独占市场，那是最理想的情况。如果是两家公司（双寡头），那也不错，比如 Visa & Mastercard，或者可口可乐 & 百事可乐。” ——来源：[4万字对话｜72岁传奇投资人特里·史密斯详述一生，如何塑造自己的投资风格](/investor-masters/sources/source-12/)
 
@@ -52,6 +124,30 @@ Pershing 权重以包含 PS 关联主体股份的完整申报为分母；它不�
 
 ## 相关页面
 
+<!-- 13f-2026q3-lone-pine-links:start -->
+- [Lone Pine Capital](/investor-masters/institutions/lone-pine-capital/)；[13F趋势-Lone Pine](/investor-masters/institutions/13f-trends-lone-pine/)；[13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
+<!-- 13f-2026q3-lone-pine-links:end -->
+
+<!-- 13f-2026q3-baupost-links:start -->
+- [Baupost Group](/investor-masters/institutions/baupost-group/)；[13F趋势-Baupost](/investor-masters/institutions/13f-trends-baupost/)；[13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
+<!-- 13f-2026q3-baupost-links:end -->
+
+<!-- 13f-2026q3-maverick-links:start -->
+- [Maverick Capital](/investor-masters/institutions/maverick-capital/)；[13F趋势-Maverick](/investor-masters/institutions/13f-trends-maverick/)；[13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
+<!-- 13f-2026q3-maverick-links:end -->
+
+<!-- 13f-2026q3-kensico-links:start -->
+- [Kensico Capital Management](/investor-masters/institutions/kensico-capital-management/)；[13F趋势-Kensico](/investor-masters/institutions/13f-trends-kensico/)；[13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
+<!-- 13f-2026q3-kensico-links:end -->
+
+<!-- 13f-2026q3-ako-links:start -->
+- [AKO Capital](/investor-masters/institutions/ako-capital/)；[13F趋势-AKO](/investor-masters/institutions/13f-trends-ako/)；[13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
+<!-- 13f-2026q3-ako-links:end -->
+
+<!-- 13f-2026q3-akre-links:start -->
+- [Akre Capital Management](/investor-masters/institutions/akre-capital-management/)；[13F趋势-Akre](/investor-masters/institutions/13f-trends-akre/)；[13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
+<!-- 13f-2026q3-akre-links:end -->
+
 - [查克·阿克雷](/investor-masters/investors/chuck-akre/)
 - [Akre Capital Management](/investor-masters/institutions/akre-capital-management/)
 - [再投资跑道](/investor-masters/concepts/reinvestment-runway/)
@@ -63,6 +159,30 @@ Pershing 权重以包含 PS 关联主体股份的完整申报为分母；它不�
 - [可口可乐](/investor-masters/companies/coca-cola/)
 
 ## 主要来源
+
+<!-- 13f-2026q3-lone-pine-sources:start -->
+- [SEC｜Lone Pine：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/lone-pine-13f-2026q3/)；[Lone Pine-13f-source-audit](/investor-masters/sources/lone-pine-13f-source-audit/)
+<!-- 13f-2026q3-lone-pine-sources:end -->
+
+<!-- 13f-2026q3-baupost-sources:start -->
+- [SEC｜Baupost：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/baupost-13f-2026q3/)；[Baupost-13f-source-audit](/investor-masters/sources/baupost-13f-source-audit/)
+<!-- 13f-2026q3-baupost-sources:end -->
+
+<!-- 13f-2026q3-maverick-sources:start -->
+- [SEC｜Maverick：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/maverick-13f-2026q3/)；[Maverick-13f-source-audit](/investor-masters/sources/maverick-13f-source-audit/)
+<!-- 13f-2026q3-maverick-sources:end -->
+
+<!-- 13f-2026q3-kensico-sources:start -->
+- [SEC｜Kensico：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/kensico-13f-2026q3/)；[Kensico-13f-source-audit](/investor-masters/sources/kensico-13f-source-audit/)
+<!-- 13f-2026q3-kensico-sources:end -->
+
+<!-- 13f-2026q3-ako-sources:start -->
+- [SEC｜AKO：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/ako-13f-2026q3/)；[AKO-13f-source-audit](/investor-masters/sources/ako-13f-source-audit/)
+<!-- 13f-2026q3-ako-sources:end -->
+
+<!-- 13f-2026q3-akre-sources:start -->
+- [SEC｜Akre：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/akre-13f-2026q3/)；[Akre-13F-source-audit](/investor-masters/sources/akre-13f-source-audit/)
+<!-- 13f-2026q3-akre-sources:end -->
 
 - [Colossus｜Chuck Akre：The Three-Legged Stool 2019](/investor-masters/sources/akre-2019/)
 - [SEC｜Akre Capital Management：2022Q4至2026Q2持仓轨迹](/investor-masters/sources/akre-13f/)

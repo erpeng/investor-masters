@@ -36,6 +36,14 @@ CALL 的 98,000 是标的股数，不是合约数；13F 期权披露值也不是
 
 ## 相关页面
 
+<!-- 13f-2026q3-lone-pine-links:start -->
+- [Lone Pine Capital](/investor-masters/institutions/lone-pine-capital/)；[13F趋势-Lone Pine](/investor-masters/institutions/13f-trends-lone-pine/)；[13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
+<!-- 13f-2026q3-lone-pine-links:end -->
+
+<!-- 13f-2026q3-maverick-links:start -->
+- [Maverick Capital](/investor-masters/institutions/maverick-capital/)；[13F趋势-Maverick](/investor-masters/institutions/13f-trends-maverick/)；[13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
+<!-- 13f-2026q3-maverick-links:end -->
+
 - [13F趋势-2026Q2](/investor-masters/institutions/13f-trends-2026-q2/)
 - [13F趋势-Lone Pine](/investor-masters/institutions/13f-trends-lone-pine/)
 - [13F趋势-Duquesne](/investor-masters/institutions/13f-trends-duquesne/)
@@ -43,5 +51,37 @@ CALL 的 98,000 是标的股数，不是合约数；13F 期权披露值也不是
 
 ## 主要来源
 
+<!-- 13f-2026q3-lone-pine-sources:start -->
+- [SEC｜Lone Pine：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/lone-pine-13f-2026q3/)；[Lone Pine-13f-source-audit](/investor-masters/sources/lone-pine-13f-source-audit/)
+<!-- 13f-2026q3-lone-pine-sources:end -->
+
+<!-- 13f-2026q3-maverick-sources:start -->
+- [SEC｜Maverick：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/maverick-13f-2026q3/)；[Maverick-13f-source-audit](/investor-masters/sources/maverick-13f-source-audit/)
+<!-- 13f-2026q3-maverick-sources:end -->
+
 - [Duquesne 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/0001536411-26-000011.txt)
 - [Duquesne 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1536411/000153641126000006/0001536411-26-000006.txt)
+
+<!-- 13f-2026q3-maverick:start -->
+### [Maverick Capital](/investor-masters/institutions/maverick-capital/)：2026Q3 公开持仓行为
+
+| 证券 | Q2股数 | Q3股数 | 调整后变化 | Q2权重 → Q3权重 | 前十变化 |
+|---|---:|---:|---|---|---|
+| STX（Seagate Technology Holdings plc） | 1,210 | 119,262 | +9756.36% | 0.01% → 0.86% | 未进入前十 |
+
+解读框架：行业研究下的公司选择与经营差异。这是根据机构既有方法提出的研究问题，不是管理者对本次交易原因的公开解释。
+下一步验证：继续核对经营、资本配置和估值，区分原有核心与本季增量。
+报告日为2026-09-30；季度股数差不是实际交易记录，权重上涨也可能发生在减股时。当前价格过滤与来源审计见 [13F趋势-Maverick](/investor-masters/institutions/13f-trends-maverick/)。
+<!-- 13f-2026q3-maverick:end -->
+
+<!-- 13f-2026q3-lone-pine:start -->
+### [Lone Pine Capital](/investor-masters/institutions/lone-pine-capital/)：2026Q3 公开持仓行为
+
+| 证券 | Q2股数 | Q3股数 | 调整后变化 | Q2权重 → Q3权重 | 前十变化 |
+|---|---:|---:|---|---|---|
+| STX（Seagate Technology Holdings plc） | 1,000,109 | 0 | 不再列示 | 5.90% → 0.00% | 退出前十，未必清仓 |
+
+解读框架：经营变化、新承接与持续性验证。这是根据机构既有方法提出的研究问题，不是管理者对本次交易原因的公开解释。
+下一步验证：继续核对经营、资本配置和估值，区分原有核心与本季增量。
+报告日为2026-09-30；季度股数差不是实际交易记录，权重上涨也可能发生在减股时。当前价格过滤与来源审计见 [13F趋势-Lone Pine](/investor-masters/institutions/13f-trends-lone-pine/)。
+<!-- 13f-2026q3-lone-pine:end -->

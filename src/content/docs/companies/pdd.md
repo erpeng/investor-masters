@@ -13,6 +13,18 @@ description: "拼多多在这批资料里更像段永平投资谱系里的一个
 
 ## 公司点评
 
+<!-- 13f-2026q3-baillie:start -->
+### [Baillie Gifford](/investor-masters/institutions/baillie-gifford/)：2026Q3 公开持仓行为
+
+| 证券 | Q2股数 | Q3股数 | 调整后变化 | Q2权重 → Q3权重 | 前十变化 |
+|---|---:|---:|---|---|---|
+| PDD（拼多多） [ADR/ADS] | 26,594,535 | 11,626,575 | -56.28% | 1.84% → 0.86% | 未进入前十 |
+
+解读框架：长期成长候选的经营兑现与机会成本。这是根据机构既有方法提出的研究问题，不是管理者对本次交易原因的公开解释。
+下一步验证：继续核对经营、资本配置和估值，区分原有核心与本季增量。
+报告日为2026-09-30；季度股数差不是实际交易记录，权重上涨也可能发生在减股时。当前价格过滤与来源审计见 [13F趋势-Baillie](/investor-masters/institutions/13f-trends-baillie/)。
+<!-- 13f-2026q3-baillie:end -->
+
 ### [段永平](/investor-masters/investors/duan-yongping/)
 > “段永平 拼多多可以算。拼多多很特殊了，是因为我在早期的时候，初创阶段的时候就已经投了。所以我投的钱其实比重很少，赚的钱确实很多。” ——来源：[“打孔机”只打了不到10个孔！段永平与方三文最新对话，详解“投资中如何真正算看懂”……](/investor-masters/sources/source-92/)
 
@@ -52,6 +64,10 @@ Himalaya 将 PDD 股数增加 `133.5%` 至 `10.76m`，H&H 增加 `26.7%` 至 `25
 
 ## 相关页面
 
+<!-- 13f-2026q3-baillie-links:start -->
+- [Baillie Gifford](/investor-masters/institutions/baillie-gifford/)；[13F趋势-Baillie](/investor-masters/institutions/13f-trends-baillie/)；[13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
+<!-- 13f-2026q3-baillie-links:end -->
+
 - [段永平](/investor-masters/investors/duan-yongping/)
 - [大卫·泰珀](/investor-masters/investors/david-tepper/)
 - [苹果](/investor-masters/companies/apple/)
@@ -60,6 +76,10 @@ Himalaya 将 PDD 股数增加 `133.5%` 至 `10.76m`，H&H 增加 `26.7%` 至 `25
 - [李录](/investor-masters/investors/li-lu/)
 
 ## 主要来源
+
+<!-- 13f-2026q3-baillie-sources:start -->
+- [SEC｜Baillie：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/baillie-13f-2026q3/)；[Baillie-13f-source-audit](/investor-masters/sources/baillie-13f-source-audit/)
+<!-- 13f-2026q3-baillie-sources:end -->
 
 - [Himalaya 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1709323/000204358526000030/0002043585-26-000030.txt)
 - [Himalaya 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1709323/000204358526000022/0002043585-26-000022.txt)

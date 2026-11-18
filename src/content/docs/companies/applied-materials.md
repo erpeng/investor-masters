@@ -13,6 +13,18 @@ Applied Materials 在这批资料里是半导体制造设备平台的代表，�
 
 ## 公司点评
 
+<!-- 13f-2026q3-lone-pine:start -->
+### [Lone Pine Capital](/investor-masters/institutions/lone-pine-capital/)：2026Q3 公开持仓行为
+
+| 证券 | Q2股数 | Q3股数 | 调整后变化 | Q2权重 → Q3权重 | 前十变化 |
+|---|---:|---:|---|---|---|
+| AMAT（APPLIED MATLS INC） | 1,207,737 | 94,451 | -92.18% | 5.34% → 0.32% | 退出前十，未必清仓 |
+
+解读框架：经营变化、新承接与持续性验证。这是根据机构既有方法提出的研究问题，不是管理者对本次交易原因的公开解释。
+下一步验证：继续核对经营、资本配置和估值，区分原有核心与本季增量。
+报告日为2026-09-30；季度股数差不是实际交易记录，权重上涨也可能发生在减股时。当前价格过滤与来源审计见 [13F趋势-Lone Pine](/investor-masters/institutions/13f-trends-lone-pine/)。
+<!-- 13f-2026q3-lone-pine:end -->
+
 ### [菲利普·拉丰](/investor-masters/investors/philippe-laffont/) / [Coatue Management](/investor-masters/institutions/coatue-management/)
 
 Coatue 在 `2026Q1` 持有 `AMAT` 约 `5.25m` 股、`$1.79bn`，公开 13F 权重 `6.2%`，进入前十。但股数低于 `2025Q4` 的约 `5.98m`，所以这更像组合权重和前十重排后的核心留存，不应直接写成主动加仓。
@@ -40,6 +52,10 @@ Coatue 增股，Altimeter 不再列示。与前一批 Appaloosa 新列示对照�
 
 ## 相关页面
 
+<!-- 13f-2026q3-lone-pine-links:start -->
+- [Lone Pine Capital](/investor-masters/institutions/lone-pine-capital/)；[13F趋势-Lone Pine](/investor-masters/institutions/13f-trends-lone-pine/)；[13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
+<!-- 13f-2026q3-lone-pine-links:end -->
+
 - [菲利普·拉丰](/investor-masters/investors/philippe-laffont/)
 - [Coatue Management](/investor-masters/institutions/coatue-management/)
 - [13F趋势-Coatue](/investor-masters/institutions/13f-trends-coatue/)
@@ -50,6 +66,10 @@ Coatue 增股，Altimeter 不再列示。与前一批 Appaloosa 新列示对照�
 - [13F趋势-Appaloosa](/investor-masters/institutions/13f-trends-appaloosa/)
 
 ## 主要来源
+
+<!-- 13f-2026q3-lone-pine-sources:start -->
+- [SEC｜Lone Pine：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/lone-pine-13f-2026q3/)；[Lone Pine-13f-source-audit](/investor-masters/sources/lone-pine-13f-source-audit/)
+<!-- 13f-2026q3-lone-pine-sources:end -->
 
 - [Appaloosa 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1656456/000165645626000004/0001656456-26-000004.txt)
 - [Appaloosa 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1656456/000165645626000003/0001656456-26-000003.txt)

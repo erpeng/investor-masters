@@ -13,6 +13,18 @@ Markel 在 Rochon 语境中，更像一个“小伯克希尔”式保险与资�
 
 ## 公司点评
 
+<!-- 13f-2026q3-giverny:start -->
+### [Giverny Capital](/investor-masters/institutions/giverny-capital/)：2026Q3 公开持仓行为
+
+| 证券 | Q2股数 | Q3股数 | 调整后变化 | Q2权重 → Q3权重 | 前十变化 |
+|---|---:|---:|---|---|---|
+| MKL（MARKEL GROUP INC） | 30,877 | 19,860 | -35.68% | 2.03% → 1.17% | 未进入前十 |
+
+解读框架：比较每股价值增长、业务耐久性与资本机会成本。这是根据机构既有方法提出的研究问题，不是管理者对本次交易原因的公开解释。
+下一步验证：继续核对经营、资本配置和估值，区分原有核心与本季增量。
+报告日为2026-09-30；季度股数差不是实际交易记录，权重上涨也可能发生在减股时。当前价格过滤与来源审计见 [13F趋势-Giverny](/investor-masters/institutions/13f-trends-giverny/)。
+<!-- 13f-2026q3-giverny:end -->
+
 ### [弗朗索瓦·罗雄](/investor-masters/investors/francois-rochon/)
 
 Rochon 对 Markel 的关注，符合他对管理层、文化和 owner earnings 的重视。保险公司很容易被短期承保周期和投资波动扰动，但优秀管理层如果能长期控制承保纪律、配置 float，并保持股东导向，就可能形成复利结构。
@@ -29,6 +41,10 @@ Rochon 对 Markel 的关注，符合他对管理层、文化和 owner earnings �
 
 ## 相关页面
 
+<!-- 13f-2026q3-giverny-links:start -->
+- [Giverny Capital](/investor-masters/institutions/giverny-capital/)；[13F趋势-Giverny](/investor-masters/institutions/13f-trends-giverny/)；[13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
+<!-- 13f-2026q3-giverny-links:end -->
+
 - [查克·阿克雷](/investor-masters/investors/chuck-akre/)
 - [Akre Capital Management](/investor-masters/institutions/akre-capital-management/)
 - [再投资跑道](/investor-masters/concepts/reinvestment-runway/)
@@ -40,6 +56,10 @@ Rochon 对 Markel 的关注，符合他对管理层、文化和 owner earnings �
 - [企业文化](/investor-masters/concepts/corporate-culture/)
 
 ## 主要来源
+
+<!-- 13f-2026q3-giverny-sources:start -->
+- [SEC｜Giverny：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/giverny-13f-2026q3/)；[Giverny-13f-source-audit](/investor-masters/sources/giverny-13f-source-audit/)
+<!-- 13f-2026q3-giverny-sources:end -->
 
 - [Advisor Perspectives｜Chuck Akre：基金起点与经济价值](/investor-masters/sources/akre-2010/)
 

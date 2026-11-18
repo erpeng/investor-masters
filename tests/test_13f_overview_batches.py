@@ -42,11 +42,13 @@ class BatchOverviewTest(unittest.TestCase):
     def test_manifest_keeps_first_evidence_and_writes_only_new_institutions(self):
         manifest=Path(__file__).resolve().parents[1]/'scripts/data/13f-2026q3-batches.json'
         paths, institutions, horizontal=u.configure_manifest(manifest,Path('/vault'))
-        self.assertEqual(institutions,tuple(u.NEW_MANAGERS))
-        self.assertEqual(set(horizontal),set(u.FIRST_KEYS)|set(u.NEW_MANAGERS))
+        self.assertEqual(institutions,tuple(u.g.BATCH4_MANAGERS))
+        self.assertEqual(set(horizontal),set(u.g.ALL_MANAGERS))
         self.assertEqual(paths['berkshire'],Path('/vault/raw/data/13f-20261117/berkshire.json'))
         self.assertEqual(paths['pershing'],Path('/vault/raw/data/13f-20261117-batch2/pershing.json'))
-        self.assertEqual([u.WEIGHTS[k] for k in institutions],[.9,1.1,1.1,1.4,1.4])
+        self.assertEqual(paths['akre'],Path('/vault/raw/data/13f-20261117-batch3/akre.json'))
+        self.assertEqual(paths['tudor'],Path('/vault/raw/data/13f-20261117-batch4/tudor.json'))
+        self.assertEqual([u.WEIGHTS[k] for k in institutions],[1.0,1.0,.9,1.1,1.1,1.0,1.0,.6])
 
     def test_default_cli_keeps_original_five_scope(self):
         periods=[dict(date=d) for d in ('2025-12-31','2026-03-31','2026-06-30','2026-09-30')]

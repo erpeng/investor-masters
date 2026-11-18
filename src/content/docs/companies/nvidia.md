@@ -13,6 +13,54 @@ description: "英伟达在这批资料里是 AI 浪潮最核心的硬件瓶颈�
 
 ## 公司点评
 
+<!-- 13f-2026q3-tudor:start -->
+### [Tudor Investment Corporation](/investor-masters/institutions/tudor-investment-corporation/)：2026Q3 公开持仓行为
+
+| 证券 | Q2股数 | Q3股数 | 调整后变化 | Q2权重 → Q3权重 | 前十变化 |
+|---|---:|---:|---|---|---|
+| NVDA（英伟达） | 2,337,579 | 1,478,938 | -36.73% | 0.65% → 0.44% | 未进入前十 |
+
+解读框架：资产方向与工具组合观察，不推导净风险。这是根据机构既有方法提出的研究问题，不是管理者对本次交易原因的公开解释。
+下一步验证：继续核对经营、资本配置和估值，区分原有核心与本季增量。
+报告日为2026-09-30；季度股数差不是实际交易记录，权重上涨也可能发生在减股时。当前价格过滤与来源审计见 [13F趋势-Tudor](/investor-masters/institutions/13f-trends-tudor/)。
+<!-- 13f-2026q3-tudor:end -->
+
+<!-- 13f-2026q3-baillie:start -->
+### [Baillie Gifford](/investor-masters/institutions/baillie-gifford/)：2026Q3 公开持仓行为
+
+| 证券 | Q2股数 | Q3股数 | 调整后变化 | Q2权重 → Q3权重 | 前十变化 |
+|---|---:|---:|---|---|---|
+| NVDA（英伟达） | 41,888,806 | 42,573,061 | +1.63% | 7.60% → 9.18% | 仍在前十 |
+
+解读框架：长期成长候选的经营兑现与机会成本。这是根据机构既有方法提出的研究问题，不是管理者对本次交易原因的公开解释。
+下一步验证：客户订单、交付和盈利预期。
+报告日为2026-09-30；季度股数差不是实际交易记录，权重上涨也可能发生在减股时。当前价格过滤与来源审计见 [13F趋势-Baillie](/investor-masters/institutions/13f-trends-baillie/)。
+<!-- 13f-2026q3-baillie:end -->
+
+<!-- 13f-2026q3-maverick:start -->
+### [Maverick Capital](/investor-masters/institutions/maverick-capital/)：2026Q3 公开持仓行为
+
+| 证券 | Q2股数 | Q3股数 | 调整后变化 | Q2权重 → Q3权重 | 前十变化 |
+|---|---:|---:|---|---|---|
+| NVDA（英伟达） | 3,056,784 | 3,697,096 | +20.95% | 5.40% → 6.59% | 仍在前十 |
+
+解读框架：行业研究下的公司选择与经营差异。这是根据机构既有方法提出的研究问题，不是管理者对本次交易原因的公开解释。
+下一步验证：客户订单、交付与竞争。
+报告日为2026-09-30；季度股数差不是实际交易记录，权重上涨也可能发生在减股时。当前价格过滤与来源审计见 [13F趋势-Maverick](/investor-masters/institutions/13f-trends-maverick/)。
+<!-- 13f-2026q3-maverick:end -->
+
+<!-- 13f-2026q3-third-point:start -->
+### [Third Point](/investor-masters/institutions/third-point/)：2026Q3 公开持仓行为
+
+| 证券 | Q2股数 | Q3股数 | 调整后变化 | Q2权重 → Q3权重 | 前十变化 |
+|---|---:|---:|---|---|---|
+| NVDA（英伟达） | 0 | 1,500,000 | 首次列示 | 0.00% → 7.46% | 进入前十 |
+
+解读框架：事件、经营拐点和资本配置的条件性研究。这是根据机构既有方法提出的研究问题，不是管理者对本次交易原因的公开解释。
+下一步验证：算力订单、交付与客户集中。
+报告日为2026-09-30；季度股数差不是实际交易记录，权重上涨也可能发生在减股时。当前价格过滤与来源审计见 [13F趋势-Third Point](/investor-masters/institutions/13f-trends-third-point/)。
+<!-- 13f-2026q3-third-point:end -->
+
 ### [斯坦利·德鲁肯米勒](/investor-masters/investors/stanley-druckenmiller/)
 > “Ilana： 2022年12月我们有一次投资者Zoom会议，讨论宏观利率、美元对其他货币。聊了一会儿后，我问你怎么看利率。我几乎原话引用你说的—— "我对利率一点也不关心。唯一重要的事情是AI和英伟达。"” ——来源：[Druckenmiller深度解析（附中英对照）](/investor-masters/sources/source-49/)
 
@@ -80,6 +128,22 @@ Baker 跟踪 Nvidia 超过二十年，但 Atreides 的最新动作不是“长�
 
 ## 相关页面
 
+<!-- 13f-2026q3-tudor-links:start -->
+- [Tudor Investment Corporation](/investor-masters/institutions/tudor-investment-corporation/)；[13F趋势-Tudor](/investor-masters/institutions/13f-trends-tudor/)；[13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
+<!-- 13f-2026q3-tudor-links:end -->
+
+<!-- 13f-2026q3-baillie-links:start -->
+- [Baillie Gifford](/investor-masters/institutions/baillie-gifford/)；[13F趋势-Baillie](/investor-masters/institutions/13f-trends-baillie/)；[13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
+<!-- 13f-2026q3-baillie-links:end -->
+
+<!-- 13f-2026q3-maverick-links:start -->
+- [Maverick Capital](/investor-masters/institutions/maverick-capital/)；[13F趋势-Maverick](/investor-masters/institutions/13f-trends-maverick/)；[13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
+<!-- 13f-2026q3-maverick-links:end -->
+
+<!-- 13f-2026q3-third-point-links:start -->
+- [Third Point](/investor-masters/institutions/third-point/)；[13F趋势-Third Point](/investor-masters/institutions/13f-trends-third-point/)；[13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
+<!-- 13f-2026q3-third-point-links:end -->
+
 - [斯坦利·德鲁肯米勒](/investor-masters/investors/stanley-druckenmiller/)
 - [劳伦斯·伯恩斯](/investor-masters/investors/lawrence-burns/)
 - [凯茜·伍德](/investor-masters/investors/cathie-wood/)
@@ -95,6 +159,22 @@ Baker 跟踪 Nvidia 超过二十年，但 Atreides 的最新动作不是“长�
 - [13F趋势-HH](/investor-masters/institutions/13f-trends-hh/)
 
 ## 主要来源
+
+<!-- 13f-2026q3-tudor-sources:start -->
+- [SEC｜Tudor：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/tudor-13f-2026q3/)；[Tudor-13f-source-audit](/investor-masters/sources/tudor-13f-source-audit/)
+<!-- 13f-2026q3-tudor-sources:end -->
+
+<!-- 13f-2026q3-baillie-sources:start -->
+- [SEC｜Baillie：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/baillie-13f-2026q3/)；[Baillie-13f-source-audit](/investor-masters/sources/baillie-13f-source-audit/)
+<!-- 13f-2026q3-baillie-sources:end -->
+
+<!-- 13f-2026q3-maverick-sources:start -->
+- [SEC｜Maverick：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/maverick-13f-2026q3/)；[Maverick-13f-source-audit](/investor-masters/sources/maverick-13f-source-audit/)
+<!-- 13f-2026q3-maverick-sources:end -->
+
+<!-- 13f-2026q3-third-point-sources:start -->
+- [SEC｜Third Point：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/third-point-13f-2026q3/)；[Third Point-13f-source-audit](/investor-masters/sources/third-point-13f-source-audit/)
+<!-- 13f-2026q3-third-point-sources:end -->
 
 - [H&H 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1759760/000175976026000008/0001759760-26-000008.txt)
 - [H&H 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1759760/000175976026000007/0001759760-26-000007.txt)

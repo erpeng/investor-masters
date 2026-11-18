@@ -47,73 +47,106 @@ Tudor 这类机构最需要保护的，不是“别交易”，而是“别在�
 
 ### 怎么看这组披露
 
-按宏观、多策略和风险工具读；PUT、CALL、ETF 与普通股必须分开，13F 看不到净 delta。 13F 只覆盖美国公开证券多头及部分工具，不覆盖现金、空头、非美资产、完整衍生品和季度内路径。
+13F 是季末公开证券多头及部分期权的滞后披露，不是完整资产组合。以下按 CUSIP、证券类别和 PUT/CALL 聚合重复管理人记录；期权与正股不混算。市值和权重变化不能替代股数变化。
 
-### 最新季度趋势雷达
+### 13F 趋势雷达（最近一季横向）
 
-- 从 `$53.87bn` 到 `$71.91bn`，变化 `$18.04bn`（+33.5%）；拆股调整后，主动仓位约 `$18.62bn`，价格贡献约 `-$0.58bn`，主动仓位变化是主因。
-- 当前前十大：`IWM put` 12.8%、`QQQ call` 4.9%、`QQQ put` 4.8%、`IWM call` 4.0%、`IVV` 1.7%、`GLD call` 1.5%、`TSM put` 1.5%、`MU put` 1.1%、`NVDA put` 1.1%、`HYG put` 1.1%。
-- 详细长线轨迹：[13F趋势-Tudor](/investor-masters/institutions/13f-trends-tudor/)。
-- 横向趋势页：[Q2 2026](/investor-masters/institutions/13f-trends-2026-q2/)。
+最近一季：`2026Q3` vs `2026Q2`；报告日 `2026-09-30`；申报日 `2026-11-16`；核验 `2026-11-17`。
+
+- 申报证券行和从 `$71.913bn` 变为 `$76.623bn`（`+6.55%`）；聚合后 `3508` 个证券类别，其中期权 `1760` 个。非期权证券前五占其切片 `12.20%`、前十占 `17.33%`。
+- 非期权证券切片申报值 `$24.217bn` → `$23.078bn`；按上季隐含价格估算的股数项 `−$368.97m`，价格项 `−$771.94m`。这是两期持仓的机械分解，不是现金流、真实成交额或投资收益；首次上市、估值口径不同的证券另见趋势页边界。
+- 不可比分解余项 `+$1.64m` 保留在申报总值中，不分配为主动交易或市场价格收益；逐项原因见单机构趋势页。
+- 期权切片另计：申报值变化的主动项 `+$6.946bn`、价格项 `−$1.095bn`；缺少期限、执行价、权利金及其他组合腿，不能推导净风险。
+- 最新全部证券、历史前十与期权均保留；ETF和期权不进入普通股票主榜。
+- 期权申报值为底层名义金额，不是权利金、净敞口或收益。
+- 2022Q4封面2,299行、实际2,300行；2023Q1封面2,335行、实际2,336行；独立XML与TXT核验，两期金额均一致。
+- 2025Q3先采用RESTATEMENT，再合并六行NEW HOLDINGS，补报不能替换整季。
+- QQQ PUT增80.50%、CALL增60.66%；IWM PUT增2.48%、CALL增5.84%，不以两侧名义值相减推导净风险。
+- 候选表涨跌只描述ETF或正股，不代表对应期权回报。
+- Q3共3,509条原始记录，聚合3,508个证券身份，含1,760项PUT/CALL。IWM与QQQ双向期权居前，QQQ PUT与CALL同时增加。非期权侧增SPY、XLU、TSM，减IVV、MSFT、NVDA和MU。
+- 长历史与全部在持证券：[13F趋势-Tudor](/investor-masters/institutions/13f-trends-tudor/)；横向页：[Q3 23 家样本](/investor-masters/institutions/13f-trends-2026-q3/)。
 
 ### 近四个已披露季度前 10 大持仓
 
-#### 2026Q2
+#### Q3 2026
 
-- `IWM put`：`13F 占比 12.8%`，股数/份额 `30.72m`。
-- `QQQ call`：`13F 占比 4.9%`，股数/份额 `4.83m`。
-- `QQQ put`：`13F 占比 4.8%`，股数/份额 `4.74m`。
-- `IWM call`：`13F 占比 4.0%`，股数/份额 `9.68m`。
-- `IVV`：`13F 占比 1.7%`，股数/份额 `1.75m`。
-- `GLD call`：`13F 占比 1.5%`，股数/份额 `2.93m`。
-- `TSM put`：`13F 占比 1.5%`，股数/份额 `2.19m`。
-- `MU put`：`13F 占比 1.1%`，股数/份额 `709.5k`。
-- `NVDA put`：`13F 占比 1.1%`，股数/份额 `4.02m`。
-- `HYG put`：`13F 占比 1.1%`，股数/份额 `10.00m`。
+申报总值 `$76.623bn`；聚合后 `3508` 个证券类别。
 
-#### 2026Q1
+| 证券及业务 | 股数／底层份额 | 季末申报市值 | 13F 占比 |
+|---|---:|---:|---:|
+| `IWM` [ETF] iShares Russell 2000 ETF（跟踪美国小盘股指数的ETF，期权行表示该ETF的底层份额） **PUT** | 31,485,400 | $8.749bn | 11.42% |
+| `QQQ` [ETF] Invesco QQQ Trust（跟踪纳斯达克100指数的ETF，PUT与CALL分别保留） **PUT** | 8,548,700 | $6.324bn | 8.25% |
+| `QQQ` [ETF] Invesco QQQ Trust（跟踪纳斯达克100指数的ETF，PUT与CALL分别保留） **CALL** | 7,754,800 | $5.737bn | 7.49% |
+| `IWM` [ETF] iShares Russell 2000 ETF（跟踪美国小盘股指数的ETF，期权行表示该ETF的底层份额） **CALL** | 10,243,100 | $2.846bn | 3.71% |
+| `SPY` [ETF] SPDR S&P 500 ETF Trust（跟踪标普500指数的ETF，现货和期权代表不同工具） | 1,508,971 | $1.151bn | 1.50% |
+| `SPY` [ETF] SPDR S&P 500 ETF Trust（跟踪标普500指数的ETF，现货和期权代表不同工具） **PUT** | 1,430,100 | $1.091bn | 1.42% |
+| `HYG` [ETF] iShares iBoxx High Yield Corporate Bond ETF（美元高收益公司债ETF，关注信用利差和利率，PUT单列） **PUT** | 10,000,000 | $772.10m | 1.01% |
+| `TSM` Taiwan Semiconductor Mfg Ltd（台积电，全球领先晶圆代工厂，是先进制程和先进封装产能的关键瓶颈） **PUT** | 1,672,000 | $762.75m | 1.00% |
+| `TSM` [ADR/ADS] Taiwan Semiconductor Mfg Ltd（台积电，全球领先晶圆代工厂，是先进制程和先进封装产能的关键瓶颈） | 1,548,131 | $706.24m | 0.92% |
+| `XLF` [ETF] Financial Select Sector SPDR Fund（跟踪美国金融板块股票的交易所交易基金，不是单一公司） **PUT** | 13,080,600 | $698.50m | 0.91% |
 
-- `IWM put`：`13F 占比 9.5%`，股数/份额 `20.58m`。
-- `IWM call`：`13F 占比 5.5%`，股数/份额 `12.00m`。
-- `QQQ put`：`13F 占比 3.9%`，股数/份额 `3.66m`。
-- `QQQ call`：`13F 占比 2.4%`，股数/份额 `2.29m`。
-- `SPY call`：`13F 占比 2.1%`，股数/份额 `1.71m`。
-- `XLE put`：`13F 占比 1.4%`，股数/份额 `11.96m`。
-- `SPY`：`13F 占比 1.4%`，股数/份额 `1.12m`。
-- `NVDA put`：`13F 占比 1.3%`，股数/份额 `3.93m`。
-- `GLD call`：`13F 占比 1.1%`，股数/份额 `1.34m`。
-- `GLD put`：`13F 占比 1.0%`，股数/份额 `1.24m`。
+#### Q2 2026
+
+申报总值 `$71.913bn`；聚合后 `3457` 个证券类别。
+
+| 证券及业务 | 股数／底层份额 | 季末申报市值 | 13F 占比 |
+|---|---:|---:|---:|
+| `IWM` [ETF] iShares Russell 2000 ETF（跟踪美国小盘股指数的ETF，期权行表示该ETF的底层份额） **PUT** | 30,723,100 | $9.231bn | 12.84% |
+| `QQQ` [ETF] Invesco QQQ Trust（跟踪纳斯达克100指数的ETF，PUT与CALL分别保留） **CALL** | 4,826,700 | $3.554bn | 4.94% |
+| `QQQ` [ETF] Invesco QQQ Trust（跟踪纳斯达克100指数的ETF，PUT与CALL分别保留） **PUT** | 4,736,100 | $3.488bn | 4.85% |
+| `IWM` [ETF] iShares Russell 2000 ETF（跟踪美国小盘股指数的ETF，期权行表示该ETF的底层份额） **CALL** | 9,678,200 | $2.908bn | 4.04% |
+| `IVV` [ETF] iShares Core S&P 500 ETF（跟踪标普500指数的ETF，申报份额不等于主动选股信号） | 1,615,654 | $1.210bn | 1.68% |
+| `GLD` [ETF] SPDR Gold Shares（黄金支持的交易所交易产品，期权名义值不等于黄金净敞口） **CALL** | 2,927,900 | $1.079bn | 1.50% |
+| `TSM` Taiwan Semiconductor Mfg Ltd（台积电，全球领先晶圆代工厂，是先进制程和先进封装产能的关键瓶颈） **PUT** | 2,188,200 | $1.045bn | 1.45% |
+| `MU` Micron Technology, Inc.（生产 DRAM、HBM 与 NAND 存储产品，受供需、价格与资本开支周期影响） **PUT** | 709,500 | $818.97m | 1.14% |
+| `NVDA` Nvidia Corporation（AI 加速计算平台，GPU、网络和 CUDA 生态共同支撑数据中心算力需求） **PUT** | 4,022,000 | $804.76m | 1.12% |
+| `HYG` [ETF] iShares iBoxx High Yield Corporate Bond ETF（美元高收益公司债ETF，关注信用利差和利率，PUT单列） **PUT** | 10,000,000 | $799.70m | 1.11% |
+
+#### Q1 2026
+
+申报总值 `$53.874bn`；聚合后 `3514` 个证券类别。
+
+| 证券及业务 | 股数／底层份额 | 季末申报市值 | 13F 占比 |
+|---|---:|---:|---:|
+| `IWM` [ETF] iShares Russell 2000 ETF（跟踪美国小盘股指数的ETF，期权行表示该ETF的底层份额） **PUT** | 20,577,700 | $5.103bn | 9.47% |
+| `IWM` [ETF] iShares Russell 2000 ETF（跟踪美国小盘股指数的ETF，期权行表示该ETF的底层份额） **CALL** | 11,998,000 | $2.976bn | 5.52% |
+| `QQQ` [ETF] Invesco QQQ Trust（跟踪纳斯达克100指数的ETF，PUT与CALL分别保留） **PUT** | 3,659,700 | $2.112bn | 3.92% |
+| `QQQ` [ETF] Invesco QQQ Trust（跟踪纳斯达克100指数的ETF，PUT与CALL分别保留） **CALL** | 2,285,700 | $1.319bn | 2.45% |
+| `SPY` [ETF] SPDR S&P 500 ETF Trust（跟踪标普500指数的ETF，现货和期权代表不同工具） **CALL** | 1,710,000 | $1.112bn | 2.06% |
+| `XLE` [ETF] Energy Select Sector SPDR Fund（美国能源板块ETF，关注行业、商品价格及工具属性） **PUT** | 11,955,200 | $732.38m | 1.36% |
+| `SPY` [ETF] SPDR S&P 500 ETF Trust（跟踪标普500指数的ETF，现货和期权代表不同工具） | 1,119,113 | $727.80m | 1.35% |
+| `NVDA` Nvidia Corporation（AI 加速计算平台，GPU、网络和 CUDA 生态共同支撑数据中心算力需求） **PUT** | 3,927,200 | $684.90m | 1.27% |
+| `GLD` [ETF] SPDR Gold Shares（黄金支持的交易所交易产品，期权名义值不等于黄金净敞口） **CALL** | 1,335,900 | $574.82m | 1.07% |
+| `GLD` [ETF] SPDR Gold Shares（黄金支持的交易所交易产品，期权名义值不等于黄金净敞口） **PUT** | 1,237,100 | $532.31m | 0.99% |
 
 #### Q4 2025
 
-- `IWM` Ishares Russell 2000 Etf - Us Etp put（iShares Russell 2000 ETF，用来表达美国小盘股指数暴露）：`13F 占比 12.8%`，市值约 `$6.91bn`，股数/份额 `28,061,100`。
-- `IWM` Ishares Russell 2000 Etf - Us Etp call（iShares Russell 2000 ETF，用来表达美国小盘股指数暴露）：`13F 占比 4.2%`，市值约 `$2.26bn`，股数/份额 `9,179,300`。
-- `QQQ` Invesco Qqq Trust Series 1 - Us Etp put（纳斯达克 100 ETF，用来表达大型科技和成长股指数暴露）：`13F 占比 3.9%`，市值约 `$2.10bn`，股数/份额 `3,421,200`。
-- `QQQ` Invesco Qqq Trust Series 1 - Us Etp call（纳斯达克 100 ETF，用来表达大型科技和成长股指数暴露）：`13F 占比 3.4%`，市值约 `$1.83bn`，股数/份额 `2,973,400`。
-- `Ishares Core Sp` Ishares Core S&P 500 Etf - Us Etp（iShares 标普 500 ETF，用来表达美国大盘指数暴露）：`13F 占比 1.8%`，市值约 `$0.98bn`，股数/份额 `1,539,680`。
-- `NVDA` Nvidia Corp - Us put（AI 加速计算平台，GPU、网络和 CUDA 生态共同支撑数据中心算力需求）：`13F 占比 1.2%`，市值约 `$0.64bn`，股数/份额 `3,438,400`。
-- `SPY` State Street Spdr S&P 500 Etf Trust - Us Etp put（标普 500 ETF，用来表达美国大盘指数暴露，也常被交易型机构用于期权和对冲）：`13F 占比 1.1%`，市值约 `$0.61bn`，股数/份额 `900,000`。
-- `GOOGL` Alphabet, Inc. put（Alphabet 的 A 类股，核心资产是 Google 搜索、YouTube、广告网络、Android 和 Google Cloud）：`13F 占比 1.1%`，市值约 `$0.57bn`，股数/份额 `1,813,900`。
-- `XLE` State Street Energy Select Sector Spdr Etf - Us Et put：`13F 占比 1.0%`，市值约 `$0.55bn`，股数/份额 `12,373,800`。
-- `SPY` State Street Spdr S&P 500 Etf Trust - Us Etp call（标普 500 ETF，用来表达美国大盘指数暴露，也常被交易型机构用于期权和对冲）：`13F 占比 1.0%`，市值约 `$0.52bn`，股数/份额 `760,000`。
+申报总值 `$54.034bn`；聚合后 `3422` 个证券类别。
 
-#### Q3 2025
+| 证券及业务 | 股数／底层份额 | 季末申报市值 | 13F 占比 |
+|---|---:|---:|---:|
+| `IWM` [ETF] iShares Russell 2000 ETF（跟踪美国小盘股指数的ETF，期权行表示该ETF的底层份额） **PUT** | 28,061,100 | $6.908bn | 12.78% |
+| `IWM` [ETF] iShares Russell 2000 ETF（跟踪美国小盘股指数的ETF，期权行表示该ETF的底层份额） **CALL** | 9,179,300 | $2.260bn | 4.18% |
+| `QQQ` [ETF] Invesco QQQ Trust（跟踪纳斯达克100指数的ETF，PUT与CALL分别保留） **PUT** | 3,421,200 | $2.102bn | 3.89% |
+| `QQQ` [ETF] Invesco QQQ Trust（跟踪纳斯达克100指数的ETF，PUT与CALL分别保留） **CALL** | 2,973,400 | $1.827bn | 3.38% |
+| `IVV` [ETF] iShares Core S&P 500 ETF（跟踪标普500指数的ETF，申报份额不等于主动选股信号） | 1,396,792 | $956.72m | 1.77% |
+| `NVDA` Nvidia Corporation（AI 加速计算平台，GPU、网络和 CUDA 生态共同支撑数据中心算力需求） **PUT** | 3,438,400 | $641.26m | 1.19% |
+| `SPY` [ETF] SPDR S&P 500 ETF Trust（跟踪标普500指数的ETF，现货和期权代表不同工具） **PUT** | 900,000 | $613.73m | 1.14% |
+| `XLE` [ETF] Energy Select Sector SPDR Fund（美国能源板块ETF，关注行业、商品价格及工具属性） **PUT** | 12,373,800 | $553.23m | 1.02% |
+| `SPY` [ETF] SPDR S&P 500 ETF Trust（跟踪标普500指数的ETF，现货和期权代表不同工具） **CALL** | 760,000 | $518.26m | 0.96% |
+| `XLU` [ETF] Utilities Select Sector SPDR Fund（美国公用事业板块ETF，关注利率、监管和电力投资） **PUT** | 11,026,600 | $470.73m | 0.87% |
 
-- `IWM` Ishares Russell 2000 Etf - Us Etp put（iShares Russell 2000 ETF，用来表达美国小盘股指数暴露）：`13F 占比 14.1%`，市值约 `$8.31bn`，股数/份额 `34,340,900`。
-- `IWM` Ishares Russell 2000 Etf - Us Etp call（iShares Russell 2000 ETF，用来表达美国小盘股指数暴露）：`13F 占比 5.5%`，市值约 `$3.25bn`，股数/份额 `13,418,100`。
-- `SPY` Spdr S&P 500 Etf Trust - Us Etp call（标普 500 ETF，用来表达美国大盘指数暴露，也常被交易型机构用于期权和对冲）：`13F 占比 4.1%`，市值约 `$2.43bn`，股数/份额 `3,650,000`。
-- `QQQ` Invesco Qqq Trust Series 1 - Us Etp put（纳斯达克 100 ETF，用来表达大型科技和成长股指数暴露）：`13F 占比 3.8%`，市值约 `$2.24bn`，股数/份额 `3,729,900`。
-- `QQQ` Invesco Qqq Trust Series 1 - Us Etp call（纳斯达克 100 ETF，用来表达大型科技和成长股指数暴露）：`13F 占比 3.6%`，市值约 `$2.09bn`，股数/份额 `3,485,500`。
-- `SPY` Spdr S&P 500 Etf Trust - Us Etp（标普 500 ETF，用来表达美国大盘指数暴露，也常被交易型机构用于期权和对冲）：`13F 占比 1.6%`，市值约 `$0.97bn`，股数/份额 `1,453,780`。
-- `XLE` Energy Select Sector Spdr Fund - Us Etp put：`13F 占比 0.9%`，市值约 `$0.55bn`，股数/份额 `6,206,200`。
-- `XLU` Utilities Select Sector Spdr Fund - Us Etp put：`13F 占比 0.7%`，市值约 `$0.44bn`，股数/份额 `4,988,300`。
-- `Ishares China Largecap` Ishares China Large-Cap Etf - Us Etp put（中国大盘股 ETF/期权工具，用来表达中国互联网和金融龙头暴露）：`13F 占比 0.7%`，市值约 `$0.39bn`，股数/份额 `9,370,900`。
-- `Ishares China Largecap` Ishares China Large-Cap Etf - Us Etp call（中国大盘股 ETF/期权工具，用来表达中国互联网和金融龙头暴露）：`13F 占比 0.7%`，市值约 `$0.38bn`，股数/份额 `9,332,200`。
+### 这四季的变化小结
 
-### 单机构长线趋势页
+按宏观、多策略和风险工具读。先分普通股、ETF、PUT与CALL，再观察相同底层证券的两侧变化；缺少执行价、期限、权利金和其他组合腿，无法还原净delta。
 
-- [13F趋势-Tudor](/investor-masters/institutions/13f-trends-tudor/)
-- [Q2 2026 横向趋势](/investor-masters/institutions/13f-trends-2026-q2/)
+### 数据来源
+
+- [SEC 13F-HR · 2026-09-30 · 2026-11-16](https://www.sec.gov/Archives/edgar/data/923093/000090266426004567/0000902664-26-004567-index.htm)
+- [SEC 13F-HR · 2026-06-30 · 2026-08-14](https://www.sec.gov/Archives/edgar/data/923093/000090266426003485/0000902664-26-003485-index.htm)
+- [SEC 13F-HR · 2026-03-31 · 2026-05-15](https://www.sec.gov/Archives/edgar/data/923093/000090266426002516/0000902664-26-002516-index.htm)
+- [SEC 13F-HR · 2025-12-31 · 2026-02-17](https://www.sec.gov/Archives/edgar/data/923093/000090266426001113/0000902664-26-001113-index.htm)
+- [SEC｜Tudor：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/tudor-13f-2026q3/)；[Tudor-13f-source-audit](/investor-masters/sources/tudor-13f-source-audit/)。
 
 ## 机构传承
 

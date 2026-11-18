@@ -86,7 +86,7 @@ Atreides 奖励长期跟踪产业、快速学习新工具、跨公开与私募�
 - QQQ PUT底层份额增59.38%，新列SMH PUT；META CALL增58.33%，新列GOOGL和U CALL。缺少到期日、执行价及组合其他腿，不能用名义申报值推导净方向或已付权利金。
 - 普通股票与期权的行和分别保留；Cerebras、SpaceX等特殊披露不进入可复制普通股票排名。
 - 普通股票增量集中在Astera Labs、Meta、Ciena与英伟达，同时减持美光和亚马逊；较大的QQQ PUT及新增SMH PUT表明工具层必须另读，不能只看股票持仓就推导整个组合净看多。
-- 长历史与全部在持证券：[13F趋势-Atreides](/investor-masters/institutions/13f-trends-atreides/)；横向页：[Q3 十家样本](/investor-masters/institutions/13f-trends-2026-q3/)。
+- 长历史与全部在持证券：[13F趋势-Atreides](/investor-masters/institutions/13f-trends-atreides/)；横向页：[Q3 23 家样本](/investor-masters/institutions/13f-trends-2026-q3/)。
 
 ### 近四个已披露季度前 10 大持仓
 

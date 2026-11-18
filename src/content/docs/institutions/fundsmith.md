@@ -51,7 +51,7 @@ Fundsmith 当前在这批资料中基本没有第二位真正能代表机构哲�
 - GEV减股56.51%、MSFT减50.55%、MAR减47.49%、GOOGL减45.43%、META减42.53%；新列Rambus、Credo，Clorox本期不再列示。
 - [Fundsmith官方2026半年信](https://www.fundsmith.co.uk/media/lfhpxi1x/2026-fef-semi-annual-letter-to-shareholders-web.pdf)；[全球基金事实表与管理人边界](https://www.fundsmith.co.uk/factsheet/)。
 - 显著增加Veeva、Yum、Nextpower和TJX，并增持两家支付网络；同时大幅削减微软、Marriott、Alphabet和Meta。2026半年信已宣布更积极调整，不能继续把最新动作概括为几乎不动的低换手组合。
-- 长历史与全部在持证券：[13F趋势-Fundsmith](/investor-masters/institutions/13f-trends-fundsmith/)；横向页：[Q3 十家样本](/investor-masters/institutions/13f-trends-2026-q3/)。
+- 长历史与全部在持证券：[13F趋势-Fundsmith](/investor-masters/institutions/13f-trends-fundsmith/)；横向页：[Q3 23 家样本](/investor-masters/institutions/13f-trends-2026-q3/)。
 
 ### 近四个已披露季度前 10 大持仓
 

@@ -30,7 +30,7 @@ class BatchTwoEvidenceTests(unittest.TestCase):
 
     def test_first_batch_default_is_unchanged(self):
         self.assertEqual(list(g.MANAGERS), ['berkshire', 'himalaya', 'hh', 'duquesne', 'appaloosa'])
-        self.assertEqual(len(g.ALL_MANAGERS), 10)
+        self.assertTrue(set(g.MANAGERS) | set(g.BATCH2_MANAGERS) <= set(g.ALL_MANAGERS))
 
     def test_complete_coverage_and_latest_totals(self):
         expected = {'atreides': (17994718085, 46), 'coatue': (54495247703, 73),

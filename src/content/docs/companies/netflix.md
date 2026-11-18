@@ -13,6 +13,19 @@ Netflix 在这套 wiki 里值得单独读，是因为它是 [比尔·尼格伦](
 
 ## 公司点评
 
+<!-- 13f-2026q3-oakmark:start -->
+### [Oakmark Funds](/investor-masters/institutions/oakmark-funds/)：2026Q3 公开持仓行为
+
+| 证券 | Q2股数 | Q3股数 | 调整后变化 | Q2权重 → Q3权重 | 前十变化 |
+|---|---:|---:|---|---|---|
+| NFLX（Netflix Inc） | 11,014,943 | 19,003,833 | +72.53% | 1.04% → 1.72% | 未进入前十 |
+
+解读框架：核对内在价值实现路径、资本配置和估值折让。这是根据机构既有方法提出的研究问题，不是管理者对本次交易原因的公开解释。
+下一步验证：订阅与广告增长、内容投入和自由现金流。
+报告日为2026-09-30；季度股数差不是实际交易记录，权重上涨也可能发生在减股时。当前价格过滤与来源审计见 [13F趋势-Oakmark](/investor-masters/institutions/13f-trends-oakmark/)。
+申报主体为Harris Associates L.P.，不等同于某只Oakmark基金或某位经理的个人组合。
+<!-- 13f-2026q3-oakmark:end -->
+
 ### [比尔·尼格伦](/investor-masters/investors/bill-nygren/)
 
 **投资人**
@@ -53,6 +66,10 @@ Pershing 权重以包含 PS 关联主体股份的完整申报为分母；它不�
 
 ## 相关页面
 
+<!-- 13f-2026q3-oakmark-links:start -->
+- [Oakmark Funds](/investor-masters/institutions/oakmark-funds/)；[13F趋势-Oakmark](/investor-masters/institutions/13f-trends-oakmark/)；[13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
+<!-- 13f-2026q3-oakmark-links:end -->
+
 - [比尔·尼格伦](/investor-masters/investors/bill-nygren/)
 - [Oakmark Funds](/investor-masters/institutions/oakmark-funds/)
 - [Oakmark会计](/investor-masters/concepts/oakmark-accounting/)
@@ -60,6 +77,10 @@ Pershing 权重以包含 PS 关联主体股份的完整申报为分母；它不�
 - [Meta](/investor-masters/companies/meta/)
 
 ## 主要来源
+
+<!-- 13f-2026q3-oakmark-sources:start -->
+- [SEC｜Oakmark：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/oakmark-13f-2026q3/)；[Oakmark-13f-source-audit](/investor-masters/sources/oakmark-13f-source-audit/)
+<!-- 13f-2026q3-oakmark-sources:end -->
 
 - [2.5万字｜比尔·尼格伦最新长谈，一位25年长期跑赢大盘的传奇投资人，如何与时俱进的价值投资……已付费](/investor-masters/sources/source-04/)
 - [Coatue 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1135730/000091957426005478/0000919574-26-005478.txt)

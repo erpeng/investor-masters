@@ -35,18 +35,63 @@ BATCH2_MANAGERS = {
     'pershing': ('Pershing', 'Pershing Square', 2026053),
 }
 # Preserve the original batch as the CLI default and historical replay contract.
-ALL_MANAGERS = {**MANAGERS, **BATCH2_MANAGERS}
+BATCH3_MANAGERS = {
+    'akre': ('Akre', 'Akre Capital Management', 1112520),
+    'dorsey': ('Dorsey', 'Dorsey Asset Management', 1671657),
+    'ako': ('AKO', 'AKO Capital', 1376879),
+    'giverny': ('Giverny', 'Giverny Capital', 1641864),
+    'oakmark': ('Oakmark', 'Oakmark Funds', 813917),
+}
+BATCH4_MANAGERS = {
+    'third-point': ('Third Point', 'Third Point', 1040273),
+    'kensico': ('Kensico', 'Kensico Capital Management', 1113000),
+    'maverick': ('Maverick', 'Maverick Capital', 934639),
+    'baupost': ('Baupost', 'Baupost Group', 1061768),
+    'baillie': ('Baillie', 'Baillie Gifford', 1088875),
+    'greenlight': ('Greenlight', 'Greenlight Capital', 1489933),
+    'lone-pine': ('Lone Pine', 'Lone Pine Capital', 1061165),
+    'tudor': ('Tudor', 'Tudor Investment Corporation', 923093),
+}
+ALL_MANAGERS = {**MANAGERS, **BATCH2_MANAGERS, **BATCH3_MANAGERS, **BATCH4_MANAGERS}
 CIK_LINEAGES = {'pershing': [
     {'cik': 1336528, 'holdings_from': '2022-12-31', 'holdings_to': '2026-03-31'},
     {'cik': 2026053, 'holdings_from': '2026-06-30', 'holdings_to': '9999-12-31'},
+], 'greenlight': [
+    {'cik': 1079114, 'holdings_from': '2022-12-31', 'holdings_to': '2023-12-31'},
+    {'cik': 1489933, 'holdings_from': '2024-03-31', 'holdings_to': '9999-12-31'},
 ]}
 COVER_EXCEPTIONS = {'0001541617-26-000010': {
     'report_date': '2026-09-30', 'count': 17, 'cover': 10309080051, 'row_sum': 10308735663,
     'sha256': '89bc1edc94c8047c1aa91553f7f97383a37d7e3adeaddde117be8b9bc56f4c22',
     'reason': 'Standalone primary_doc.xml and q3202613f.xml independently agree with TXT; retain the $344,388 source discrepancy, do not correct rows or call it rounding.',
+}, '0000950123-23-002502': {
+    'report_date': '2022-12-31', 'count': 2299, 'row_count': 2300,
+    'cover': 5057706, 'row_sum': 5057706,
+    'sha256': 'fcdf4022e9b367acbe0349590e1c3a5deb40b7feaf126968b9d6fe1e9b20794e',
+    'reason': 'Independent primary_doc.xml reports 2,299 entries; independent 20724.xml contains 2,300 rows totaling the same 5,057,706. Preserve every row and disclose the source count mismatch.',
+}, '0000950123-23-005121': {
+    'report_date': '2023-03-31', 'count': 2335, 'row_count': 2336,
+    'cover': 6460909, 'row_sum': 6460909,
+    'sha256': '812e3049f1229ccc1c97da059ff796bc95bc778f0823b28d2148f2dcc5e4ff1c',
+    'reason': 'Independent primary_doc.xml reports 2,335 entries; independent 23307.xml contains 2,336 rows with the same total 6,460,909. Exact-file exception; no rows removed.',
 }}
 DEFAULT_VAULT = '/Users/zhangshihua/Desktop/investors/investors'
 UA = 'Investment research, public SEC filings; contact research@example.com'
+# Reviewed same-CUSIP class spellings in the third batch. Original class text
+# remains in every filing; these aliases affect identity, never share counts.
+BATCH3_CLASS_ALIASES = {
+    '01609W102': 'SPONSORED ADS', '02079K305': 'CAP STK CL A',
+    '02079K107': 'CAP STK CL C', '05278C107': 'SP ADS RP CL A',
+    '084670108': 'CL A', '084670702': 'CL B NEW', '11271J107': 'CL A LTD VT SH',
+    '12532H104': 'CL A SUB VTG', '171779309': 'COM NEW', '339750101': 'CL A',
+    '422806208': 'CL A', '464287788': 'U.S. FINLS ETF', '464288752': 'US HOME CONS ETF',
+    '499049104': 'CL A', '570535104': 'COM', '57636Q104': 'CL A', '30303M102': 'CL A',
+    '78463V107': 'GOLD SHS', '78462F103': 'TR UNIT', '874039100': 'SPONSORED ADS',
+    '92826C839': 'COM CL A', '31488V107': 'COM', '040413205': 'COM',
+    'G54950103': 'SHS', '783513203': 'SPONSORED ADR',
+    '922908736': 'GROWTH ETF', '922908744': 'VALUE ETF',
+    '922908538': 'MCAP GR IDXVIP', '46436E718': '0-3 MNTH TREASRY',
+}
 
 
 def request(url):
@@ -108,9 +153,9 @@ def parse_filing(content, metadata):
     count, total = int(xml_value(cover, 'tableEntryTotal')), int(xml_value(cover, 'tableValueTotal'))
     difference = sum(r['value_raw'] for r in rows) - total
     exception = COVER_EXCEPTIONS.get(metadata['accessionNumber'])
-    reviewed = exception and hashlib.sha256(content).hexdigest() == exception['sha256'] and (date, count, total, sum(r['value_raw'] for r in rows)) == (
+    reviewed = exception and len(rows) == exception.get('row_count', exception['count']) and hashlib.sha256(content).hexdigest() == exception['sha256'] and (date, count, total, sum(r['value_raw'] for r in rows)) == (
         exception['report_date'], exception['count'], exception['cover'], exception['row_sum'])
-    if len(rows) != count or (abs(difference) > max(1, count / 2) and not reviewed):
+    if (len(rows) != count or abs(difference) > max(1, count / 2)) and not reviewed:
         raise ValueError(f'Cover mismatch: {metadata["accessionNumber"]}: {len(rows)}/{count}, {difference}')
     return dict(metadata, rows=rows, reported_count=count, reported_total_raw=total,
                 cover_difference_raw=difference, schema_version=xml_value(cover, 'schemaVersion'),
@@ -180,7 +225,13 @@ def fetch_manager(key, stage, cutoff):
 
 def normalized_class(row):
     # CUSIP fixes legal share class. Normalize documented spelling variants only.
+    if row['cusip'] in ('881624209', 'M8769Q102'):
+        return 'TEVA ORDINARY EQUIVALENT'
+    if row.get('canonical_class'):
+        return row['canonical_class']
     c = ' '.join(row['security_class'].upper().split())
+    if row['cusip'] in BATCH3_CLASS_ALIASES:
+        return BATCH3_CLASS_ALIASES[row['cusip']]
     if row['cusip'] in ('722304102', '23306J309', '984245100'):
         return 'SPONSORED ADS'
     if row['cusip'] in ('Y95308105', '94352A104'):
@@ -215,7 +266,7 @@ def normalized_class(row):
 
 
 def identity(row):
-    cusip = {'Y95308105': '94352A104', '512807108': '512807306',
+    cusip = {'881624209': 'M8769Q102', 'Y95308105': '94352A104', '512807108': '512807306',
              '531229854': '531229755', '531229409': '531229813',
              '531229607': '531229789', '067901108': '06849F108',
              '531229748': '530909100', '531229722': '530909308',
@@ -285,6 +336,12 @@ def quarter(date):
     return f'{date[:4]}Q{(int(date[5:7]) - 1) // 3 + 1}'
 
 
+def audit_name(data):
+    # Preserve the existing case-sensitive Akre audit and its public route.
+    return ('Akre-13F-source-audit' if data['institution'] == 'akre'
+            else data.get('title', ALL_MANAGERS[data['institution']][0]) + '-13f-source-audit')
+
+
 def security(data, row):
     return data['securities'].get(row['cusip'], {'ticker': '', 'name': row['issuer']})
 
@@ -292,14 +349,18 @@ def security(data, row):
 def label(data, row):
     s = security(data, row)
     name = f"{s['ticker']}（{s['name']}）" if s.get('ticker') else row['issuer']
-    if re.search(r'\b(?:ADR|ADS|AMERICAN DEPOSIT|DEPOSITARY SHARE)\b', row['security_class'], re.I):
+    if re.search(r'\b(?:ADR|ADS|AMERICAN DEPOSIT|DEPOSITARY SHARE|DEPOSITORY RECEIPT)\b', row['security_class'], re.I):
         name += ' [ADR/ADS]'
     elif re.search(r'(?:N ?Y|NEW YORK).*REG', row['security_class'], re.I):
         name += ' [纽约登记股]'
-    elif re.search(r'\b(?:ISHARES|SPDR|INVESCO|VANECK|PROSHARES|DIREXION|ETF)\b|EXCHANGE TRADED', row.get('issuer',''), re.I):
+    elif re.search(r'\b(?:ISHARES|SPDR|INVESCO|VANECK|PROSHARES|DIREXION|ETF|ETP)\b|EXCHANGE[\s-]+TRADED', row.get('issuer','')+' '+row.get('security_class',''), re.I):
         name += ' [ETF]'
     if re.search(r'\b(?:W EXP|WTS?|WARRANT)\b', row.get('security_class', ''), re.I):
         name += ' [权证]'
+    if re.search(r'\b(?:PREFERRED|PREF|PFD)\b', row.get('security_class', ''), re.I):
+        name += ' [优先股]'
+    if row.get('share_type') == 'PRN' or re.search(r'\b(?:BOND|NOTE)\b', row.get('security_class', ''), re.I):
+        name += ' [票据/债券]'
     return name + (f" {row['put_call']}" if row['put_call'] else '')
 
 
@@ -325,7 +386,7 @@ def exclusion_reason(data, row):
         return 'PUT/CALL标的名义值不能作为正股成本或净敞口'
     if row['share_type'] != 'SH':
         return '非股数工具'
-    if re.search(r'\b(?:W EXP|WTS?|WARRANT|PFD|PREF|NOTE|UNIT|RIGHTS?)\b', row.get('security_class', ''), re.I):
+    if re.search(r'\b(?:W EXP|WTS?|WARRANT|PFD|PREF|PREFERRED|NOTE|BOND|UNIT|RIGHTS?)\b', row.get('security_class', ''), re.I):
         return '认股权证、优先股或组合单位需独立核验'
     if special_disclosure(row):
         return '关联持股、上市分配或跨机构估值口径需单列核验'
@@ -367,6 +428,18 @@ def conversion(data, prev, curr):
 
 
 def uncertain_action(data, prev, curr, key):
+    boundary = next((event for event in data.get('noncomparable_intervals', [])
+                     if event['start'] == prev['date'] and event['end'] == curr['date']), None)
+    if boundary:
+        return boundary
+    # Unreviewed same-CUSIP class changes may be filing-label changes, not trades.
+    if any(x['cusip'] == key[0] and x['put_call'] == key[2]
+           for x in data.get('class_identity_issues', [])):
+        other = prev if key not in prev['rows'] else curr if key not in curr['rows'] else None
+        if other and any(k[0] == key[0] and k[2] == key[2] and k != key for k in other['rows']):
+            return {'label': '证券类别变化待核，不作交易方向判断',
+                    'reason': f'{key[0]}同CUSIP的证券类别变化未核实，不把类别间迁移当作买卖。',
+                    'source': curr['filings'][-1]['url']}
     return next((event for event in data.get('uncertain_corporate_actions', [])
                  if event['start'] == prev['date'] and event['end'] == curr['date']
                  and key[0] in event['cusips']), None)
@@ -468,6 +541,8 @@ def money(value):
 
 def price_cells(data, row, anchor_date):
     ticker = security(data, row).get('ticker', '')
+    if ticker == 'CTVA' and anchor_date < '2026-10-01' <= data['as_of']:
+        return ('分拆前口径', 'N/A', 'N/A', '季度后分派Vylor，需合并母子公司价值后比较；不当作拆股或价格收益')
     if not comparable(data, row):
         return ('单列工具/披露核验', 'N/A', 'N/A', '不直接用该申报隐含价判断可复制性')
     if not row['shares']:
@@ -501,14 +576,16 @@ def selected_keys(data, quarters):
         selected.update(k for k in q['rows'] if k[2])
     # Preserve the existing manually chosen research basket when present in evidence.
     watch = set(data.get('editorial', {}).get('watch', []))
+    normalized_watch = {ticker_alias(t) for t in watch}
     for q in quarters:
-        selected.update(k for k, row in q['rows'].items() if ticker_alias(security(data, row).get('ticker')) in {ticker_alias(t) for t in watch})
+        selected.update(k for k, row in q['rows'].items() if ticker_alias(security(data, row).get('ticker')) in normalized_watch)
     return selected
 
 
 def format_change(data, prev, curr, key):
-    if uncertain_action(data, prev, curr, key):
-        return '公司行动待核，不作交易方向判断'
+    action = uncertain_action(data, prev, curr, key)
+    if action:
+        return action.get('label', '公司行动待核，不作交易方向判断')
     diff, rate = change(data, prev, curr, key)
     exchange=conversion(data,prev,curr)
     if exchange and key==exchange['target']:
@@ -697,7 +774,7 @@ def render(data, quarters):
             '- 当前经营证据与资本开支、现金流、竞争变化是否支持原有研究问题。',
             '\n## 数据来源\n',
             f'- [[raw/SEC｜{data["title"]}：2022Q4至2026Q3持仓轨迹]]',
-            f'- [[sources/{data["title"]}-13f-source-audit]]',
+            f'- [[sources/{audit_name(data)}]]',
             f'- [SEC实时申报列表](https://data.sec.gov/submissions/CIK{data["cik"]:010d}.json)',
             '- 各季度SEC原文链接见上方金额审计表；原始值与标准化依据均保留在冻结快照中。']
     for ticker, quote in sorted(data.get('quotes', {}).items()):

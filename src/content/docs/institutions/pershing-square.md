@@ -51,7 +51,7 @@ Pershing 的机构哲学，可以压成一句话：`寻找高质量但暂时迷�
 - Q3新列ALC（ALCON AG，爱尔康）与ICE；NFLX增股17.82%；MSFT减34.51%、QSR减14.77%、V减12.22%、META减11.35%、MA减11.12%、BN减10.70%；HTZ本期不再列示。
 - HHH两个管理人记录合计27,852,064股，与Q2不变；UBER小幅减股0.17%。全报告总值与排除PS的辅助切片分别展示，后者不是PSH NAV或官方AUM。
 - 新列爱尔康Alcon与ICE，增持Netflix，减持微软、Restaurant Brands及多项既有仓位。披露总额显著增长主要受PS关联管理公司股份升值影响，不能误读为基金大幅净买入。
-- 长历史与全部在持证券：[13F趋势-Pershing](/investor-masters/institutions/13f-trends-pershing/)；横向页：[Q3 十家样本](/investor-masters/institutions/13f-trends-2026-q3/)。
+- 长历史与全部在持证券：[13F趋势-Pershing](/investor-masters/institutions/13f-trends-pershing/)；横向页：[Q3 23 家样本](/investor-masters/institutions/13f-trends-2026-q3/)。
 
 ### 近四个已披露季度前 10 大持仓
 

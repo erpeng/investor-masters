@@ -13,6 +13,42 @@ Sunbelt Rentals 在 2026Q1 13F 里代表的是工程、租赁和工业约束这�
 
 ## 公司点评
 
+<!-- 13f-2026q3-giverny:start -->
+### [Giverny Capital](/investor-masters/institutions/giverny-capital/)：2026Q3 公开持仓行为
+
+| 证券 | Q2股数 | Q3股数 | 调整后变化 | Q2权重 → Q3权重 | 前十变化 |
+|---|---:|---:|---|---|---|
+| SUNB（SUNBELT RENTALS HOLDINGS INC） | 246,369 | 275,861 | +11.97% | 0.73% → 0.69% | 未进入前十 |
+
+解读框架：比较每股价值增长、业务耐久性与资本机会成本。这是根据机构既有方法提出的研究问题，不是管理者对本次交易原因的公开解释。
+下一步验证：租赁需求、利用率与资本开支回报。
+报告日为2026-09-30；季度股数差不是实际交易记录，权重上涨也可能发生在减股时。当前价格过滤与来源审计见 [13F趋势-Giverny](/investor-masters/institutions/13f-trends-giverny/)。
+<!-- 13f-2026q3-giverny:end -->
+
+<!-- 13f-2026q3-ako:start -->
+### [AKO Capital](/investor-masters/institutions/ako-capital/)：2026Q3 公开持仓行为
+
+| 证券 | Q2股数 | Q3股数 | 调整后变化 | Q2权重 → Q3权重 | 前十变化 |
+|---|---:|---:|---|---|---|
+| SUNB（SUNBELT RENTALS HOLDINGS INC） | 6,074,817 | 6,813,015 | +12.15% | 10.59% → 15.81% | 仍在前十 |
+
+解读框架：检验质量、资本回报和估值纪律；增股只作为研究入口。这是根据机构既有方法提出的研究问题，不是管理者对本次交易原因的公开解释。
+下一步验证：设备出租利用率、租金、资本开支与美国需求。
+报告日为2026-09-30；季度股数差不是实际交易记录，权重上涨也可能发生在减股时。当前价格过滤与来源审计见 [13F趋势-AKO](/investor-masters/institutions/13f-trends-ako/)。
+<!-- 13f-2026q3-ako:end -->
+
+<!-- 13f-2026q3-dorsey:start -->
+### [Dorsey Asset Management](/investor-masters/institutions/dorsey-asset-management/)：2026Q3 公开持仓行为
+
+| 证券 | Q2股数 | Q3股数 | 调整后变化 | Q2权重 → Q3权重 | 前十变化 |
+|---|---:|---:|---|---|---|
+| SUNB（SUNBELT RENTALS HOLDINGS INC） | 1,150,578 | 0 | 不再列示 | 5.51% → 0.00% | 未进入前十 |
+
+解读框架：比较护城河、增长跑道及相邻持仓的机会成本。这是根据机构既有方法提出的研究问题，不是管理者对本次交易原因的公开解释。
+下一步验证：继续核对经营、资本配置和估值，区分原有核心与本季增量。
+报告日为2026-09-30；季度股数差不是实际交易记录，权重上涨也可能发生在减股时。当前价格过滤与来源审计见 [13F趋势-Dorsey](/investor-masters/institutions/13f-trends-dorsey/)。
+<!-- 13f-2026q3-dorsey:end -->
+
 ### [帕特·多尔西](/investor-masters/investors/pat-dorsey/)
 
 Dorsey 的 `SUNB` 是 2026Q1 最大的新仓之一。[13F趋势-Dorsey](/investor-masters/institutions/13f-trends-dorsey/) 显示，Dorsey 本季买入约 `2.20m` 股，`SUNB` 直接成为 `11.4%` 的第三大持仓。这说明 Dorsey 的质量投资并不是只买轻资产软件，也会把设备租赁网络读成一种可持续 moat。
@@ -33,6 +69,18 @@ AKO 在 2026Q2 把 `SUNB` 从约 `3.19m` 股增至 `6.07m` 股，股数增加约
 
 ## 相关页面
 
+<!-- 13f-2026q3-giverny-links:start -->
+- [Giverny Capital](/investor-masters/institutions/giverny-capital/)；[13F趋势-Giverny](/investor-masters/institutions/13f-trends-giverny/)；[13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
+<!-- 13f-2026q3-giverny-links:end -->
+
+<!-- 13f-2026q3-ako-links:start -->
+- [AKO Capital](/investor-masters/institutions/ako-capital/)；[13F趋势-AKO](/investor-masters/institutions/13f-trends-ako/)；[13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
+<!-- 13f-2026q3-ako-links:end -->
+
+<!-- 13f-2026q3-dorsey-links:start -->
+- [Dorsey Asset Management](/investor-masters/institutions/dorsey-asset-management/)；[13F趋势-Dorsey](/investor-masters/institutions/13f-trends-dorsey/)；[13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
+<!-- 13f-2026q3-dorsey-links:end -->
+
 - [13F趋势-Dorsey](/investor-masters/institutions/13f-trends-dorsey/)
 - [13F趋势-2026Q1](/investor-masters/institutions/13f-trends-2026-q1/)
 - [帕特·多尔西](/investor-masters/investors/pat-dorsey/)
@@ -40,5 +88,17 @@ AKO 在 2026Q2 把 `SUNB` 从约 `3.19m` 股增至 `6.07m` 股，股数增加约
 - [13F趋势-AKO](/investor-masters/institutions/13f-trends-ako/)
 
 ## 主要来源
+
+<!-- 13f-2026q3-giverny-sources:start -->
+- [SEC｜Giverny：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/giverny-13f-2026q3/)；[Giverny-13f-source-audit](/investor-masters/sources/giverny-13f-source-audit/)
+<!-- 13f-2026q3-giverny-sources:end -->
+
+<!-- 13f-2026q3-ako-sources:start -->
+- [SEC｜AKO：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/ako-13f-2026q3/)；[AKO-13f-source-audit](/investor-masters/sources/ako-13f-source-audit/)
+<!-- 13f-2026q3-ako-sources:end -->
+
+<!-- 13f-2026q3-dorsey-sources:start -->
+- [SEC｜Dorsey：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/dorsey-13f-2026q3/)；[Dorsey-13f-source-audit](/investor-masters/sources/dorsey-13f-source-audit/)
+<!-- 13f-2026q3-dorsey-sources:end -->
 
 - [SEC 13F filing detail - Q2 2026](https://www.sec.gov/Archives/edgar/data/1376879/000137687926000006/0001376879-26-000006-index.html)

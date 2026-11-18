@@ -1,5 +1,6 @@
 """13F route and provenance regressions using an isolated miniature vault."""
 import importlib.util
+from html.parser import HTMLParser
 import os
 from pathlib import Path
 import tempfile
@@ -15,7 +16,9 @@ with tempfile.TemporaryDirectory() as import_vault:
         spec.loader.exec_module(site)
 
 MANAGERS = ("Berkshire", "Himalaya", "HH", "Duquesne", "Appaloosa",
-            "Atreides", "Coatue", "Altimeter", "Fundsmith", "Pershing")
+            "Atreides", "Coatue", "Altimeter", "Fundsmith", "Pershing",
+            "Akre", "Dorsey", "AKO", "Giverny", "Oakmark", "Third Point", "Kensico",
+            "Maverick", "Baupost", "Baillie", "Greenlight", "Lone Pine", "Tudor")
 
 
 class Compile13FRoutesTests(unittest.TestCase):
@@ -62,7 +65,7 @@ class Compile13FRoutesTests(unittest.TestCase):
         with self.link_state():
             site.compile_institutions()
         for manager in MANAGERS:
-            route = f"institutions/13f-trends-{manager.lower()}"
+            route = f"institutions/13f-trends-{manager.lower().replace(' ', '-')}"
             self.assertEqual(links[f"institutions/13F趋势-{manager}"], route)
             text = (self.docs / f"{route}.md").read_text()
             self.assertIn("到 2026Q3", text.split("---", 2)[1])
@@ -82,7 +85,7 @@ class Compile13FRoutesTests(unittest.TestCase):
         with self.link_state():
             site.compile_institutions()
         for manager in MANAGERS[5:]:
-            self.assertIn("到 2027Q1", (self.docs / f"institutions/13f-trends-{manager.lower()}.md").read_text())
+            self.assertIn("到 2027Q1", (self.docs / f"institutions/13f-trends-{manager.lower().replace(' ', '-')}.md").read_text())
 
     def test_source_cards_do_not_renumber_existing_sources(self):
         for name in ("A-first.md", "Z-last.md"):
@@ -97,7 +100,7 @@ class Compile13FRoutesTests(unittest.TestCase):
         self.assertEqual(after["Z-last.md"], "sources/source-02")
         for manager in MANAGERS:
             name = f"SEC｜{manager}：2022Q4至2026Q3持仓轨迹.md"
-            self.assertEqual(after[name], f"sources/{manager.lower()}-13f-2026q3")
+            self.assertEqual(after[name], f"sources/{manager.lower().replace(' ', '-')}-13f-2026q3")
 
     def test_ordinary_sources_inserted_before_old_files_keep_every_route(self):
         for name in ("A-first.md", "M-new.md", "Z-last.md"):
@@ -126,21 +129,24 @@ class Compile13FRoutesTests(unittest.TestCase):
         for manager in MANAGERS:
             self.add_trend(manager)
             raw_name = self.add_source(manager)
-            (self.wiki / "sources" / f"{manager}-13f-source-audit.md").write_text(
+            audit_name = 'Akre-13F-source-audit' if manager == 'Akre' else f'{manager}-13f-source-audit'
+            (self.wiki / "sources" / f"{audit_name}.md").write_text(
                 f"# {manager}审计\n\n[[raw/{raw_name}]]\n\n"
                 f"[[institutions/13F趋势-{manager}]]\n", encoding="utf-8")
-        (self.wiki / "sources/Akre-13F-source-audit.md").write_text("# Akre审计\n\n保留旧审计。\n")
+        with (self.wiki / "sources/Akre-13F-source-audit.md").open('a') as out:
+            out.write("\n保留旧审计。\n")
         links, _ = site.build_link_maps()
         with self.link_state():
             site.compile_sources()
         for manager in MANAGERS:
-            slug = f"{manager.lower()}-13f-source-audit"
-            self.assertEqual(links[f"sources/{manager}-13f-source-audit"], f"sources/{slug}")
+            slug = f"{manager.lower().replace(' ', '-')}-13f-source-audit"
+            audit_name = 'Akre-13F-source-audit' if manager == 'Akre' else f'{manager}-13f-source-audit'
+            self.assertEqual(links[f"sources/{audit_name}"], f"sources/{slug}")
             text = (self.docs / "sources" / f"{slug}.md").read_text()
-            self.assertIn(f"/investor-masters/sources/{manager.lower()}-13f-2026q3", text)
-            self.assertIn(f"/investor-masters/institutions/13f-trends-{manager.lower()}", text)
+            self.assertIn(f"/investor-masters/sources/{manager.lower().replace(' ', '-')}-13f-2026q3", text)
+            self.assertIn(f"/investor-masters/institutions/13f-trends-{manager.lower().replace(' ', '-')}", text)
             self.assertNotIn("[[", text)
-            source = (self.docs / "sources" / f"{manager.lower()}-13f-2026q3.md").read_text()
+            source = (self.docs / "sources" / f"{manager.lower().replace(' ', '-')}-13f-2026q3.md").read_text()
             self.assertIn("https://www.sec.gov/example.xml", source)
             self.assertIn("核验信息完整保留", source)
         self.assertTrue((self.docs / "sources/akre-13f-source-audit.md").exists())
@@ -157,6 +163,36 @@ class Compile13FRoutesTests(unittest.TestCase):
         links, _ = site.build_link_maps()
         for name, slug in expected.items():
             self.assertEqual(links[f"companies/{name}"], f"companies/{slug}")
+
+    def test_large_tables_retain_every_row_and_quarter_column(self):
+        header='| 标的 | ' + ' | '.join(f'季度{i}' for i in range(15)) + ' |\n'
+        alignment='|---|'+'---:|'*15+'\n'
+        rows=['| 证券'+str(i)+' | '+' | '.join(str(i*100+j) for j in range(15))+' |\n' for i in range(707)]
+        source='## 普通证券\n\n'+header+alignment+''.join(rows)+'\n## PUT/CALL\n\n无。\n'
+        result=site.split_large_tables(source)
+        class Cells(HTMLParser):
+            def __init__(self):
+                super().__init__(); self.values=[]; self.active=False
+            def handle_starttag(self,tag,attrs):
+                if tag=='td':self.active=True;self.values.append('')
+            def handle_data(self,value):
+                if self.active:self.values[-1]+=value
+            def handle_endtag(self,tag):
+                if tag=='td':self.active=False
+        parser=Cells();parser.feed(result)
+        expected=[cell.strip() for row in rows for cell in row.strip().strip('|').split('|')]
+        self.assertEqual(parser.values,expected)
+        self.assertEqual(result.count('<thead>'),3)
+        self.assertIn('第 301—600 项',result)
+        self.assertIn('第 601—707 项',result)
+        self.assertTrue(result.endswith('## PUT/CALL\n\n无。\n'))
+        self.assertEqual(site.split_large_tables(result),result)
+        small=header+alignment+''.join(rows[:2])
+        self.assertEqual(site.split_large_tables(small),small)
+        fenced='```md\n'+source+'```\n'
+        self.assertEqual(site.split_large_tables(fenced),fenced)
+        markup=source.replace('证券0','[证券0](https://example.com)')
+        self.assertIn('[证券0](https://example.com)',site.split_large_tables(markup))
 
     def test_company_preserves_two_batches_and_research_questions(self):
         (self.wiki / "companies/index.md").write_text("# 公司\n")

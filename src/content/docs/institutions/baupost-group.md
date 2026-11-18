@@ -57,131 +57,105 @@ Ritholtz 访谈给出的 AI 参与方式，也符合这种机构逻辑：Baupost
 - [44年只有5年亏过！“安全边际之父”卡拉曼罕见对话，谈及错失Palantir百亿机会、如何参与AI以及当下投资的三个原则](/investor-masters/sources/source-11/)
 - [2万字｜传奇价值投资者赛斯·卡拉曼深度对话：他人被迫交易时，要有能力抓住机会已付费](/investor-masters/sources/source-09/)
 
-## 13F 持仓（近五个季度）
+## 13F 持仓（近四个季度）
 
 ### 怎么看这组披露
 
-13F 只覆盖美国公开股票多头及部分期权披露，且有季度滞后，不代表机构完整组合；`持仓总市值变化` 也只是这张 13F 表内的可见市值变化。
+13F 是季末公开证券多头及部分期权的滞后披露，不是完整资产组合。以下按 CUSIP、证券类别和 PUT/CALL 聚合重复管理人记录；期权与正股不混算。市值和权重变化不能替代股数变化。
 
 ### 13F 趋势雷达（最近一季横向）
 
-最近一季：`Q2 2026` vs `Q1 2026`。先看13F总市值变化，再看前十大、股数和机会容器迁移；Q2横向页将在其余机构披露齐备后生成。
+最近一季：`2026Q3` vs `2026Q2`；报告日 `2026-09-30`；申报日 `2026-11-13`；核验 `2026-11-17`。
 
-- 持仓总市值变化：从 `$5.12bn` 到 `$5.42bn`，增加 `$0.30bn`（+5.9%）。粗拆：主动变化约 `-$0.27bn`、价格变化约 `+$0.57bn`。
-- 新进前 10：GPC
-- 退出前 10：WTW
-- 权重上升：AMZN（+3.8 pct）, GPC（+3.1 pct）, GOOG（+2.3 pct）, ELV（+1.8 pct）
-- 权重下降：WCC（-3.5 pct）, WTW（-5.1 pct至清仓）, QSR（-2.6 pct）, UNP（-1.4 pct）
-- 显著加仓：GPC +89.0%、AMZN +20.0%、GOOG +16.2%、CME新进、NCLH +112.9%
-- 显著减仓：WTW/VAXX清仓、WCC -53.9%、QSR -16.4%、UNP -23.1%、EXP -40.5%、LBTYK -36.2%
-- 横向趋势页：[Q2 2026](/investor-masters/institutions/13f-trends-2026-q2/)
+- 申报证券行和从 `$5.416bn` 变为 `$5.046bn`（`-6.83%`）；聚合后 `21` 个证券类别，其中期权 `0` 个。非期权证券前五占其切片 `52.48%`、前十占 `77.00%`。
+- 非期权证券切片申报值 `$5.416bn` → `$5.046bn`；按上季隐含价格估算的股数项 `−$334.22m`，价格项 `−$35.78m`。这是两期持仓的机械分解，不是现金流、真实成交额或投资收益；首次上市、估值口径不同的证券另见趋势页边界。
+- Q3原始金额5,045,853按千美元校准为5,045,853,000美元，逐份保存金额倍率证据。
+- AMZN权重16.48%升至18.49%但股数不变，不计主动买入。
+- HONA本季首次列示；公司分拆于6月29日完成，不能据首次披露认定具体取得方式。
+- AMZN、ELV和QSR核心股数不变；增GPC、FERG、WCC、CME与AXTA，新列SITE和HONA。GOOG与UNP明显减股，TFX、NCLH、LBTYK不再列示。公开权益缩表不意味着核心全部减持。
+- 长历史与全部在持证券：[13F趋势-Baupost](/investor-masters/institutions/13f-trends-baupost/)；横向页：[Q3 23 家样本](/investor-masters/institutions/13f-trends-2026-q3/)。
 
-- 单机构长线趋势页：[13F趋势-Baupost](/investor-masters/institutions/13f-trends-baupost/)
+### 近四个已披露季度前 10 大持仓
 
-### 近五个已披露季度前 10 大持仓
+#### Q3 2026
 
-#### 2026Q2
+申报总值 `$5.046bn`；聚合后 `21` 个证券类别。
 
-季末 `2026-06-30`，申报 `2026-08-13`。13F 可见总额 `$5.42bn`，共 `23 条股权`，前十集中度 `74.9%`。
+| 证券及业务 | 股数／底层份额 | 季末申报市值 | 13F 占比 |
+|---|---:|---:|---:|
+| `AMZN` Amazon Com Inc（电商、物流、AWS 云和广告共同构成的平台公司，长期变量是基础设施外部化能力） | 3,743,854 | $932.78m | 18.49% |
+| `ELV` Elevance Health（医疗保险与健康服务企业，关注医疗成本率和会员结构） | 1,275,154 | $495.81m | 9.83% |
+| `QSR` Restaurant Brands International（经营连锁餐饮品牌与加盟体系，关注门店增长和经营改善） | 6,753,112 | $480.10m | 9.51% |
+| `GPC` Genuine Parts Company（汽车及工业零件分销商，关注售后需求、库存和利润率） | 3,097,978 | $389.54m | 7.72% |
+| `FERG` Ferguson Enterprises（建筑与维修产品分销商，关注终端需求、网点效率和现金回报） | 1,571,594 | $349.87m | 6.93% |
+| `GOOG` Alphabet Inc（Alphabet 的 C 类股，核心资产是 Google 搜索、YouTube、广告网络、Android 和 Google Cloud） | 949,931 | $323.68m | 6.41% |
+| `WCC` WESCO International（电气、通信和工业产品分销商，关注项目订单与营运资本） | 718,523 | $258.37m | 5.12% |
+| `V` Visa（经营支付网络，关注交易量、跨境业务和监管成本） | 701,355 | $252.02m | 4.99% |
+| `UNP` Union Pacific（北美铁路运输企业，关注货运量、服务效率和资本回报） | 795,395 | $216.45m | 4.29% |
+| `AON` Aon（保险与风险咨询企业，关注经纪收入、客户留存和资本配置） | 674,779 | $186.76m | 3.70% |
 
-| 排名 | Ticker / 公司全称 | 市值 | 股数 | 13F权重 | 上季排名 | 较上季股数 | 公司介绍 |
-|---:|---|---:|---:|---:|---:|---:|---|
-| 1 | `AMZN` / Amazon.com, Inc. | $892.3m | 3.74m | 16.5% | 1 | 3.12m -> 3.74m（+20.0%） | 电商、物流、AWS云和广告共同构成的平台现金流资产 |
-| 2 | `ELV` / Elevance Health, Inc. | $493.1m | 1.28m | 9.1% | 5 | 1.28m -> 1.28m（+0.0%） | 美国健康保险和医疗服务公司；权重上升不是主动加仓 |
-| 3 | `QSR` / Restaurant Brands International Inc. | $489.6m | 6.75m | 9.0% | 2 | 8.08m -> 6.75m（-16.4%） | 连锁餐饮品牌的特许经营平台 |
-| 4 | `GOOG` / Alphabet Inc. Class C | $484.7m | 1.37m | 8.9% | 6 | 1.18m -> 1.37m（+16.2%） | 搜索、YouTube、广告、Android和Google Cloud平台 |
-| 5 | `FERG` / Ferguson Enterprises Inc. | $344.3m | 1.45m | 6.4% | 7 | 1.44m -> 1.45m（+0.6%） | 北美管道、暖通和建筑产品分销商 |
-| 6 | `GPC` / Genuine Parts Company | $332.3m | 2.82m | 6.1% | 前十外（13） | 1.49m -> 2.82m（+89.0%） | 汽车和工业零部件分销商，核心看维修后市场和库存效率 |
-| 7 | `UNP` / Union Pacific Corporation | $322.4m | 1.19m | 5.9% | 4 | 1.54m -> 1.19m（-23.1%） | 美国西部铁路网络，核心看货运量、价格和运营效率 |
-| 8 | `V` / Visa Inc. Class A | $240.6m | 701.4k | 4.4% | 10 | 701.4k -> 701.4k（+0.0%） | 全球支付网络；权重变化来自价格和组合结构 |
-| 9 | `WCC` / WESCO International, Inc. | $229.0m | 662.9k | 4.2% | 3 | 1.44m -> 662.9k（-53.9%） | 电气、通信和工业供应链分销商 |
-| 10 | `AON` / Aon plc Class A | $227.9m | 687.0k | 4.2% | 9 | 769.0k -> 687.0k（-10.7%） | 保险经纪与风险咨询公司 |
+#### Q2 2026
 
-前十变动：`GPC` 进入，`WTW` 清仓退出。
+申报总值 `$5.416bn`；聚合后 `23` 个证券类别。
 
-#### 2026Q1
+| 证券及业务 | 股数／底层份额 | 季末申报市值 | 13F 占比 |
+|---|---:|---:|---:|
+| `AMZN` Amazon Com Inc（电商、物流、AWS 云和广告共同构成的平台公司，长期变量是基础设施外部化能力） | 3,743,854 | $892.31m | 16.48% |
+| `ELV` Elevance Health（医疗保险与健康服务企业，关注医疗成本率和会员结构） | 1,275,154 | $493.14m | 9.11% |
+| `QSR` Restaurant Brands International（经营连锁餐饮品牌与加盟体系，关注门店增长和经营改善） | 6,753,112 | $489.61m | 9.04% |
+| `GOOG` Alphabet Inc（Alphabet 的 C 类股，核心资产是 Google 搜索、YouTube、广告网络、Android 和 Google Cloud） | 1,371,931 | $484.74m | 8.95% |
+| `FERG` Ferguson Enterprises（建筑与维修产品分销商，关注终端需求、网点效率和现金回报） | 1,450,594 | $344.27m | 6.36% |
+| `GPC` Genuine Parts Company（汽车及工业零件分销商，关注售后需求、库存和利润率） | 2,816,178 | $332.25m | 6.13% |
+| `UNP` Union Pacific（北美铁路运输企业，关注货运量、服务效率和资本回报） | 1,185,395 | $322.43m | 5.95% |
+| `V` Visa（经营支付网络，关注交易量、跨境业务和监管成本） | 701,355 | $240.63m | 4.44% |
+| `WCC` WESCO International（电气、通信和工业产品分销商，关注项目订单与营运资本） | 662,881 | $228.98m | 4.23% |
+| `AON` Aon（保险与风险咨询企业，关注经纪收入、客户留存和资本配置） | 687,000 | $227.87m | 4.21% |
 
-季末 `2026-03-31`，申报 `2026-05-14`。13F 可见总额 `$5.12bn`，共 `22 条股权`，前十集中度 `73.9%`。
+#### Q1 2026
 
-| 排名 | Ticker / 公司全称 | 市值 | 股数 | 13F权重 | 上季排名 | 较上季股数 | 公司介绍 |
-|---:|---|---:|---:|---:|---:|---:|---|
-| 1 | `AMZN` / Amazon.com, Inc. | $649.5m | 3.12m | 12.7% | 2 | 2.12m -> 3.12m（+47.0%） | 电商、物流、AWS 云和广告共同构成的平台公司，长期变量是基础设施外部化能力 |
-| 2 | `QSR` / Restaurant Brands International Inc. | $597.2m | 8.08m | 11.7% | 1 | 8.08m -> 8.08m（+0.0%） | Restaurant Brands，汉堡王、Tim Hortons、Popeyes 等连锁餐饮品牌的特许经营平台 |
-| 3 | `WCC` / WESCO International, Inc. | $393.2m | 1.44m | 7.7% | 6 | 1.42m -> 1.44m（+1.3%） | WESCO，电气、通信和工业供应链分销商，价值来自专业渠道、库存和项目交付能力 |
-| 4 | `UNP` / Union Pacific Corporation | $373.9m | 1.54m | 7.3% | 5 | 1.63m -> 1.54m（-5.3%） | 联合太平洋，美国西部铁路网络，核心看货运量、价格、运营效率和基础设施稀缺性 |
-| 5 | `ELV` / Elevance Health, Inc. | $373.3m | 1.28m | 7.3% | 4 | 1.27m -> 1.28m（+0.5%） | Elevance Health，美国健康保险和医疗服务公司，核心看会员规模、医疗成本率和政府医保业务 |
-| 6 | `GOOG` / Alphabet Inc. Class C | $338.8m | 1.18m | 6.6% | 7 | 1.09m -> 1.18m（+8.6%） | Alphabet 的 C 类股，核心资产是 Google 搜索、YouTube、广告网络、Android 和 Google Cloud |
-| 7 | `FERG` / Ferguson Enterprises Inc. | $336.5m | 1.44m | 6.6% | 前十外（11） | 1.14m -> 1.44m（+26.9%） | Ferguson，北美管道、暖通和建筑产品分销商，价值来自专业渠道和碎片化供给整合 |
-| 8 | `WTW` / Willis Towers Watson Public Limited Company | $259.6m | 893.1k | 5.1% | 3 | 1.36m -> 893.1k（-34.2%） | Willis Towers Watson，保险经纪和人力资本咨询公司，收入来自风险中介和企业福利服务 |
-| 9 | `AON` / Aon plc Class A | $248.2m | 769.0k | 4.9% | 未持有 | 新建 | 保险经纪与风险咨询公司，靠客户关系、数据和再保险市场连接能力获得稳定现金流 |
-| 10 | `V` / Visa Inc. Class A | $212.0m | 701.4k | 4.1% | 未持有 | 新建 | Visa，全球支付网络，核心看交易量、跨境支付恢复和网络抽成能力 |
+申报总值 `$5.115bn`；聚合后 `22` 个证券类别。
 
-前十变动：`FERG` / `AON` / `V` 进入，`FIS` / `DG` / `LBTYK` 退出。
+| 证券及业务 | 股数／底层份额 | 季末申报市值 | 13F 占比 |
+|---|---:|---:|---:|
+| `AMZN` Amazon Com Inc（电商、物流、AWS 云和广告共同构成的平台公司，长期变量是基础设施外部化能力） | 3,118,754 | $649.54m | 12.70% |
+| `QSR` Restaurant Brands International（经营连锁餐饮品牌与加盟体系，关注门店增长和经营改善） | 8,080,112 | $597.21m | 11.67% |
+| `WCC` WESCO International（电气、通信和工业产品分销商，关注项目订单与营运资本） | 1,436,881 | $393.16m | 7.69% |
+| `UNP` Union Pacific（北美铁路运输企业，关注货运量、服务效率和资本回报） | 1,540,995 | $373.88m | 7.31% |
+| `ELV` Elevance Health（医疗保险与健康服务企业，关注医疗成本率和会员结构） | 1,275,154 | $373.30m | 7.30% |
+| `GOOG` Alphabet Inc（Alphabet 的 C 类股，核心资产是 Google 搜索、YouTube、广告网络、Android 和 Google Cloud） | 1,181,131 | $338.82m | 6.62% |
+| `FERG` Ferguson Enterprises（建筑与维修产品分销商，关注终端需求、网点效率和现金回报） | 1,442,411 | $336.46m | 6.58% |
+| `WTW` Willis Towers Watson（保险经纪与风险咨询企业，关注客户留存、佣金与效率） | 893,126 | $259.63m | 5.08% |
+| `AON` Aon（保险与风险咨询企业，关注经纪收入、客户留存和资本配置） | 769,000 | $248.22m | 4.85% |
+| `V` Visa（经营支付网络，关注交易量、跨境业务和监管成本） | 701,355 | $211.98m | 4.14% |
 
-#### 2025Q4
+#### Q4 2025
 
-季末 `2025-12-31`，申报 `2026-02-13`。13F 可见总额 `$5.28bn`，共 `21 条股权`，前十集中度 `72.4%`。
+申报总值 `$5.279bn`；聚合后 `22` 个证券类别。
 
-| 排名 | Ticker / 公司全称 | 市值 | 股数 | 13F权重 | 上季排名 | 较上季股数 | 公司介绍 |
-|---:|---|---:|---:|---:|---:|---:|---|
-| 1 | `QSR` / Restaurant Brands International Inc. | $551.3m | 8.08m | 10.4% | 1 | 8.25m -> 8.08m（-2.1%） | Restaurant Brands，汉堡王、Tim Hortons、Popeyes 等连锁餐饮品牌的特许经营平台 |
-| 2 | `AMZN` / Amazon.com, Inc. | $489.7m | 2.12m | 9.3% | 未持有 | 新建 | 电商、物流、AWS 云和广告共同构成的平台公司，长期变量是基础设施外部化能力 |
-| 3 | `WTW` / Willis Towers Watson Public Limited Company | $446.1m | 1.36m | 8.5% | 5 | 1.09m -> 1.36m（+24.7%） | Willis Towers Watson，保险经纪和人力资本咨询公司，收入来自风险中介和企业福利服务 |
-| 4 | `ELV` / Elevance Health, Inc. | $445.0m | 1.27m | 8.4% | 3 | 1.32m -> 1.27m（-3.8%） | Elevance Health，美国健康保险和医疗服务公司，核心看会员规模、医疗成本率和政府医保业务 |
-| 5 | `UNP` / Union Pacific Corporation | $376.4m | 1.63m | 7.1% | 6 | 1.50m -> 1.63m（+8.8%） | 联合太平洋，美国西部铁路网络，核心看货运量、价格、运营效率和基础设施稀缺性 |
-| 6 | `WCC` / WESCO International, Inc. | $347.1m | 1.42m | 6.6% | 7 | 1.50m -> 1.42m（-5.6%） | WESCO，电气、通信和工业供应链分销商，价值来自专业渠道、库存和项目交付能力 |
-| 7 | `GOOG` / Alphabet Inc. Class C | $341.2m | 1.09m | 6.5% | 2 | 1.86m -> 1.09m（-41.5%） | Alphabet 的 C 类股，核心资产是 Google 搜索、YouTube、广告网络、Android 和 Google Cloud |
-| 8 | `FIS` / Fidelity National Information Services, Inc. | $299.3m | 4.50m | 5.7% | 前十外（11） | 3.79m -> 4.50m（+18.8%） | 金融科技基础设施公司，为银行和商户提供支付、核心系统和交易处理服务 |
-| 9 | `DG` / Dollar General Corporation | $273.9m | 2.06m | 5.2% | 9 | 2.67m -> 2.06m（-22.7%） | Dollar General，美国折扣零售商，面向价格敏感人群，核心看同店销售和门店效率 |
-| 10 | `LBTYK` / Liberty Global Ltd. Class C | $253.7m | 22.97m | 4.8% | 8 | 26.73m -> 22.97m（-14.1%） | Liberty Global，有线宽带和通信资产平台，核心看欧洲网络资产价值和资本配置 |
+| 证券及业务 | 股数／底层份额 | 季末申报市值 | 13F 占比 |
+|---|---:|---:|---:|
+| `QSR` Restaurant Brands International（经营连锁餐饮品牌与加盟体系，关注门店增长和经营改善） | 8,080,112 | $551.33m | 10.44% |
+| `AMZN` Amazon Com Inc（电商、物流、AWS 云和广告共同构成的平台公司，长期变量是基础设施外部化能力） | 2,121,391 | $489.66m | 9.28% |
+| `WTW` Willis Towers Watson（保险经纪与风险咨询企业，关注客户留存、佣金与效率） | 1,357,601 | $446.11m | 8.45% |
+| `ELV` Elevance Health（医疗保险与健康服务企业，关注医疗成本率和会员结构） | 1,269,302 | $444.95m | 8.43% |
+| `UNP` Union Pacific（北美铁路运输企业，关注货运量、服务效率和资本回报） | 1,627,254 | $376.42m | 7.13% |
+| `WCC` WESCO International（电气、通信和工业产品分销商，关注项目订单与营运资本） | 1,418,831 | $347.10m | 6.58% |
+| `GOOG` Alphabet Inc（Alphabet 的 C 类股，核心资产是 Google 搜索、YouTube、广告网络、Android 和 Google Cloud） | 1,087,181 | $341.16m | 6.46% |
+| `FIS` Fidelity National Information Services（金融技术与银行软件企业，关注订阅、客户投入和盈利） | 4,503,801 | $299.32m | 5.67% |
+| `DG` Dollar General（折扣零售企业，关注客流、库存、损耗和门店回报） | 2,062,821 | $273.88m | 5.19% |
+| `FERG` Ferguson Enterprises（建筑与维修产品分销商，关注终端需求、网点效率和现金回报） | 1,137,035 | $253.14m | 4.80% |
 
-前十变动：`AMZN` / `FIS` 进入，`CRH` / `FERG` 退出。
+### 这四季的变化小结
 
-#### 2025Q3
-
-季末 `2025-09-30`，申报 `2025-11-13`。13F 可见总额 `$4.79bn`，共 `19 条股权、2 条可转债`，前十集中度 `77.4%`。
-
-| 排名 | Ticker / 公司全称 | 市值 | 股数 | 13F权重 | 上季排名 | 较上季股数 | 公司介绍 |
-|---:|---|---:|---:|---:|---:|---:|---|
-| 1 | `QSR` / Restaurant Brands International Inc. | $529.3m | 8.25m | 11.0% | 8 | 4.05m -> 8.25m（+103.8%） | Restaurant Brands，汉堡王、Tim Hortons、Popeyes 等连锁餐饮品牌的特许经营平台 |
-| 2 | `GOOG` / Alphabet Inc. Class C | $452.6m | 1.86m | 9.4% | 1 | 2.63m -> 1.86m（-29.5%） | Alphabet 的 C 类股，核心资产是 Google 搜索、YouTube、广告网络、Android 和 Google Cloud |
-| 3 | `ELV` / Elevance Health, Inc. | $426.2m | 1.32m | 8.9% | 10 | 616.0k -> 1.32m（+114.1%） | Elevance Health，美国健康保险和医疗服务公司，核心看会员规模、医疗成本率和政府医保业务 |
-| 4 | `CRH` / CRH plc | $405.7m | 3.38m | 8.5% | 4 | 3.83m -> 3.38m（-11.6%） | 建筑材料和基础设施材料公司，受益于道路、住宅和公共工程建设需求 |
-| 5 | `WTW` / Willis Towers Watson Public Limited Company | $376.2m | 1.09m | 7.9% | 3 | 1.31m -> 1.09m（-17.1%） | Willis Towers Watson，保险经纪和人力资本咨询公司，收入来自风险中介和企业福利服务 |
-| 6 | `UNP` / Union Pacific Corporation | $353.7m | 1.50m | 7.4% | 未持有 | 新建 | 联合太平洋，美国西部铁路网络，核心看货运量、价格、运营效率和基础设施稀缺性 |
-| 7 | `WCC` / WESCO International, Inc. | $317.9m | 1.50m | 6.6% | 2 | 2.21m -> 1.50m（-31.9%） | WESCO，电气、通信和工业供应链分销商，价值来自专业渠道、库存和项目交付能力 |
-| 8 | `LBTYK` / Liberty Global Ltd. Class C | $312.7m | 26.73m | 6.5% | 6 | 29.73m -> 26.73m（-10.1%） | Liberty Global，有线宽带和通信资产平台，核心看欧洲网络资产价值和资本配置 |
-| 9 | `DG` / Dollar General Corporation | $275.6m | 2.67m | 5.8% | 7 | 2.67m -> 2.67m（+0.0%） | Dollar General，美国折扣零售商，面向价格敏感人群，核心看同店销售和门店效率 |
-| 10 | `FERG` / Ferguson Enterprises Inc. | $259.5m | 1.16m | 5.4% | 9 | 1.13m -> 1.16m（+2.1%） | Ferguson，北美管道、暖通和建筑产品分销商，价值来自专业渠道和碎片化供给整合 |
-
-前十变动：`UNP` 进入，`FIS` 退出。
-
-#### 2025Q2
-
-季末 `2025-06-30`，申报 `2025-08-13`。13F 可见总额 `$4.13bn`，共 `20 条股权、1 条可转债`，前十集中度 `80.0%`。
-
-| 排名 | Ticker / 公司全称 | 市值 | 股数 | 13F权重 | 上季排名 | 较上季股数 | 公司介绍 |
-|---:|---|---:|---:|---:|---:|---:|---|
-| 1 | `GOOG` / Alphabet Inc. Class C | $467.2m | 2.63m | 11.3% | 3 | 2.08m -> 2.63m（+26.8%） | Alphabet 的 C 类股，核心资产是 Google 搜索、YouTube、广告网络、Android 和 Google Cloud |
-| 2 | `WCC` / WESCO International, Inc. | $408.8m | 2.21m | 9.9% | 4 | 2.01m -> 2.21m（+10.1%） | WESCO，电气、通信和工业供应链分销商，价值来自专业渠道、库存和项目交付能力 |
-| 3 | `WTW` / Willis Towers Watson Public Limited Company | $402.8m | 1.31m | 9.8% | 1 | 1.53m -> 1.31m（-13.9%） | Willis Towers Watson，保险经纪和人力资本咨询公司，收入来自风险中介和企业福利服务 |
-| 4 | `CRH` / CRH plc | $351.2m | 3.83m | 8.5% | 7 | 2.69m -> 3.83m（+42.0%） | 建筑材料和基础设施材料公司，受益于道路、住宅和公共工程建设需求 |
-| 5 | `FIS` / Fidelity National Information Services, Inc. | $308.5m | 3.79m | 7.5% | 5 | 3.49m -> 3.79m（+8.5%） | 金融科技基础设施公司，为银行和商户提供支付、核心系统和交易处理服务 |
-| 6 | `LBTYK` / Liberty Global Ltd. Class C | $305.0m | 29.73m | 7.4% | 2 | 29.73m -> 29.73m（+0.0%） | Liberty Global，有线宽带和通信资产平台，核心看欧洲网络资产价值和资本配置 |
-| 7 | `DG` / Dollar General Corporation | $305.0m | 2.67m | 7.4% | 9 | 2.10m -> 2.67m（+26.7%） | Dollar General，美国折扣零售商，面向价格敏感人群，核心看同店销售和门店效率 |
-| 8 | `QSR` / Restaurant Brands International Inc. | $268.4m | 4.05m | 6.5% | 6 | 3.89m -> 4.05m（+4.2%） | Restaurant Brands，汉堡王、Tim Hortons、Popeyes 等连锁餐饮品牌的特许经营平台 |
-| 9 | `FERG` / Ferguson Enterprises Inc. | $246.5m | 1.13m | 6.0% | 10 | 1.13m -> 1.13m（+0.0%） | Ferguson，北美管道、暖通和建筑产品分销商，价值来自专业渠道和碎片化供给整合 |
-| 10 | `ELV` / Elevance Health, Inc. | $239.6m | 616.0k | 5.8% | 前十外（12） | 246.0k -> 616.0k（+150.4%） | Elevance Health，美国健康保险和医疗服务公司，核心看会员规模、医疗成本率和政府医保业务 |
-
-前十变动：`ELV` 进入，`EXP` 退出。
+按深度价值、催化剂和跨资产机会成本读。优先研究新增仓位的现金流与估值问题，持续核对原有核心；13F不能显示现金、信用和非美资产。
 
 ### 数据来源
 
-- [SEC 13F Q2 2026 filing detail](https://www.sec.gov/Archives/edgar/data/1061768/000106176826000010/0001061768-26-000010-index.html)
-- [SEC 13F Q1 2026 filing detail](https://www.sec.gov/Archives/edgar/data/1061768/000106176826000007/0001061768-26-000007-index.html)
-- [SEC 13F Q4 2025 filing detail](https://www.sec.gov/Archives/edgar/data/1061768/000106176826000005/0001061768-26-000005-index.html)
-- [SEC 13F Q3 2025 filing detail](https://www.sec.gov/Archives/edgar/data/1061768/000106176825000007/0001061768-25-000007-index.html)
-- [SEC 13F Q2 2025 filing detail](https://www.sec.gov/Archives/edgar/data/1061768/000106176825000005/0001061768-25-000005-index.html)
+- [SEC 13F-HR · 2026-09-30 · 2026-11-13](https://www.sec.gov/Archives/edgar/data/1061768/000106176826000015/0001061768-26-000015-index.htm)
+- [SEC 13F-HR · 2026-06-30 · 2026-08-13](https://www.sec.gov/Archives/edgar/data/1061768/000106176826000010/0001061768-26-000010-index.htm)
+- [SEC 13F-HR · 2026-03-31 · 2026-05-14](https://www.sec.gov/Archives/edgar/data/1061768/000106176826000007/0001061768-26-000007-index.htm)
+- [SEC 13F-HR · 2025-12-31 · 2026-02-13](https://www.sec.gov/Archives/edgar/data/1061768/000106176826000005/0001061768-26-000005-index.htm)
+- [SEC｜Baupost：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/baupost-13f-2026q3/)；[Baupost-13f-source-audit](/investor-masters/sources/baupost-13f-source-audit/)。
 
 ## 机构传承
 

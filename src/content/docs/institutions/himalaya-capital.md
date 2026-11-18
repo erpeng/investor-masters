@@ -51,7 +51,7 @@ Himalaya 的机构哲学几乎可以直接压成四个词：`business owners / m
 - 非期权证券切片：按上季隐含价格估算的主动变化 `+$145.03m`，价格项 `−$66.52m`。这是两期持仓的机械分解，不是现金流、真实成交额或投资收益；首次上市、估值口径不同的证券另见趋势页边界。
 - PDD 增股 9.29%，TME 增股 124.93%；其余六个证券类别股数不变，组合仍为八个证券类别。
 - Alphabet A/C 分别列示，但属于同一家公司的两类股票；不得把它们当作两个独立行业观点。PDD 的增股与 H&H 同向，TME 则是这五家样本中 Himalaya 的独立增量。
-- 长历史与全部在持证券：[13F趋势-Himalaya](/investor-masters/institutions/13f-trends-himalaya/)；横向页：[Q3 首批五家](/investor-masters/institutions/13f-trends-2026-q3/)。
+- 长历史与全部在持证券：[13F趋势-Himalaya](/investor-masters/institutions/13f-trends-himalaya/)；横向页：[Q3 23 家样本](/investor-masters/institutions/13f-trends-2026-q3/)。
 
 ### 近四个已披露季度前 10 大持仓
 

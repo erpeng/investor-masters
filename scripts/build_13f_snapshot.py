@@ -22,8 +22,8 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 from generate_13f_trends import (
-    DEFAULT_VAULT, MANAGERS, ALL_MANAGERS, json_bytes, quarter, resolve_filings,
-    save_new, top,
+    DEFAULT_VAULT, MANAGERS, ALL_MANAGERS, BATCH3_CLASS_ALIASES, json_bytes, quarter, resolve_filings,
+    save_new, top, normalized_class,
 )
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -31,11 +31,41 @@ ANCHORS = {'023135106': 'AMZN', '594918104': 'MSFT', '02079K305': 'GOOGL',
            '02079K107': 'GOOG', '037833100': 'AAPL', '084670702': 'BRK-B',
            '30303M102': 'META', '060505104': 'BAC', '92826C839': 'V',
            '67066G104': 'NVDA', 'H1467J104': 'CB', '23331A109': 'DHI',
-           '169656105': 'CMG', '43300A203': 'HLT', '42806J700': 'HTZ', '71531U102': 'PS'}
+           '169656105': 'CMG', '43300A203': 'HLT', '42806J700': 'HTZ', '71531U102': 'PS',
+           '26154D100': 'DFH', '88579Y101': 'MMM'}
 ALIASES = {'BRK.B': 'BRK-B', 'BRK/B': 'BRK-B', 'BRK B': 'BRK-B',
-           'LEN.B': 'LEN-B', 'BF.B': 'BF-B', 'BF/B': 'BF-B'}
+           'LEN.B': 'LEN-B', 'BF.B': 'BF-B', 'BF/B': 'BF-B', 'HEI.A': 'HEI-A'}
 NO_COMPARABLE_QUOTE = {'BSP', 'SPCX'}
 PRICE_ADJUSTMENTS = {
+    ('WDC', '2025-02-24'): ('Sandisk distribution; Western Digital parent shares unchanged', 'https://www.sec.gov/Archives/edgar/data/106040/000010604025000012/wdc8-khardxspin.htm'),
+    ('LBTYK', '2024-11-13'): ('Sunrise distribution; Liberty Global parent shares unchanged', 'https://www.libertyglobal.com/investors/sunrise-spin-off/'),
+    ('J', '2024-09-30'): ('Amentum distribution; Jacobs parent shares unchanged', 'https://www.sec.gov/Archives/edgar/data/52988/000005298825000016/jec-20241227.htm'),
+    ('J', '2025-05-16'): ('Additional Amentum distribution; Jacobs parent shares unchanged', 'https://www.sec.gov/Archives/edgar/data/52988/000005298825000032/exhibit991-supplementalinf.htm'),
+    ('SPHR', '2023-04-21'): ('MSG Entertainment distribution; Sphere parent shares unchanged', 'https://www.sphereentertainmentco.com/sphere-entertainment-co-completes-spin-off-of-traditional-live-entertainment-businesses/'),
+    ('FBIN', '2022-12-15'): ('MasterBrand distribution; Fortune Brands parent shares unchanged', 'https://www.sec.gov/Archives/edgar/data/1519751/000119312522306146/d420098dex991.htm'),
+    ('CTVA', '2026-10-01'): ('Vylor distribution; Corteva parent shares unchanged; post-quarter price is not a standalone comparable return', 'https://www.sec.gov/Archives/edgar/data/1755672/000175567226000035/ctva-20260930.htm'),
+    ('APTV', '2026-04-01'): ('Versigent distribution; Aptiv parent shares unchanged',
+                           'https://www.sec.gov/Archives/edgar/data/1521332/000152133226000075/aptv-20260930.htm'),
+    ('REZI', '2026-08-04'): ('ADI Global distribution; Resideo parent shares unchanged',
+                           'https://www.sec.gov/Archives/edgar/data/2105139/000162828026073496/adig-20261003.htm'),
+    ('HON', '2026-06-29'): ('Honeywell Aerospace distribution; parent shares unchanged',
+                          'https://www.sec.gov/Archives/edgar/data/2089271/000208927126000021/hona-20260627.htm'),
+    ('DHR', '2023-10-02'): ('Veralto distribution; Danaher parent share count unchanged',
+                          'https://www.sec.gov/Archives/edgar/data/313616/000031361623000252/exhibit992.htm'),
+    ('ARMK', '2023-10-02'): ('Vestis distribution; Aramark parent share count unchanged',
+                           'https://www.sec.gov/Archives/edgar/data/1584509/000162828023033364/cik0-20230929.htm'),
+    ('BWA', '2023-07-05'): ('PHINIA distribution; BorgWarner parent share count unchanged',
+                          'https://www.sec.gov/Archives/edgar/data/908255/000110465923079180/tm2320751d1_8-k.htm'),
+    ('BDX', '2026-02-10'): ('Biosciences distribution and Waters combination; BD parent shares unchanged',
+                          'https://www.sec.gov/Archives/edgar/data/1000697/000119312526042819/d23927dex991.htm'),
+    ('ILMN', '2024-06-25'): ('GRAIL distribution; Illumina parent shares unchanged',
+                           'https://www.sec.gov/Archives/edgar/data/1110803/000119312524167025/d851030d8k.htm'),
+    ('LBTYA', '2024-11-13'): ('Sunrise distribution; Liberty Global parent shares unchanged',
+                            'https://www.libertyglobal.com/investors/sunrise-spin-off/'),
+    ('FWONK', '2023-07-20'): ('Atlanta Braves distribution; Formula One parent shares unchanged',
+                            'https://www.libertymedia.com/news/detail/503/liberty-media-corporation-announces-completion-of'),
+    ('BN', '2022-12-12'): ('Asset manager distribution; Brookfield parent shares unchanged',
+                         'https://www.sec.gov/Archives/edgar/data/1001085/000119312522302324/d435804d6k.htm'),
     ('HHH', '2024-08-01'): ('Seaport Entertainment spin-off; one SEG share per nine HHH shares, parent HHH shares unchanged',
                           'https://www.sec.gov/Archives/edgar/data/1981792/000110465924084903/tm2420480d1_8k.htm'),
     ('GE', '2023-01-04'): ('GE HealthCare spin-off; parent GE shares unchanged',
@@ -49,7 +79,29 @@ PRICE_ADJUSTMENTS = {
     ('SPGI', '2026-07-01'): ('Mobility Global pro-rata spin-off; parent SPGI shares unchanged',
                            'https://www.sec.gov/Archives/edgar/data/2090312/000209031226000014/mbgl-2026063010q.pdf'),
 }
+PRIMARY_SPLITS = [
+    {'ticker': 'MNST', 'date': '2026-08-11', 'ratio': 2, 'source': 'https://www.sec.gov/Archives/edgar/data/865752/000110465926123503/mnst-20260930x10q.htm'},
+    {'ticker': 'RYAAY', 'date': '2024-09-30', 'ratio': 2.5, 'source': 'https://investor.ryanair.com/wp-content/uploads/2024/10/Form-8937-Ryanair-ADR-Ratio-Change.pdf'},
+    {'ticker': 'NVO', 'date': '2023-09-20', 'ratio': 2,
+     'source': 'https://www.sec.gov/Archives/edgar/data/353278/000117184323005686/f6k_091323.htm'},
+    {'ticker': 'ORLY', 'date': '2025-06-10', 'ratio': 15,
+     'source': 'https://corporate.oreillyauto.com/wp-content/uploads/2025/07/2025-IRS-Form-8937.pdf'},
+    {'ticker': 'CPRT', 'date': '2023-08-22', 'ratio': 2,
+     'source': 'https://www.copart.com/content/us/en/press-releases/copart-announces-two-for-one-stock-split'},
+    {'ticker': 'BN', 'date': '2025-10-10', 'ratio': 1.5,
+     'source': 'https://bn.brookfield.com/sites/brookfield-bn-v2/files/BN-IR-Master/Brookfield-Security-History/brookfield-security-history-2025.pdf'},
+    {'ticker': 'NOW', 'date': '2025-12-18', 'ratio': 5,
+     'source': 'https://investor.servicenow.com/news/news-details/2025/ServiceNow-Shareholders-Approve-5-for-1-Stock-Split/default.aspx'},
+    {'ticker': 'NFLX', 'date': '2025-11-17', 'ratio': 10,
+     'source': 'https://ir.netflix.net/investor-news-and-events/financial-releases/press-release-details/2025/Netflix-Announces-Ten-For-One-Stock-Split/'},
+    {'ticker': 'UL', 'date': '2025-12-09', 'ratio': 8/9,
+     'source': 'https://www.unilever.com/files/unilever-plc-irs-form-8937-attachment.pdf'},
+]
 IDENTITY_ACTIONS = [
+    {'type': 'ads_conversion', 'ticker': 'TEVA', 'date': '2026-09-14',
+     'old_cusip': '881624209', 'new_cusip': 'M8769Q102', 'ratio': 1,
+     'source': 'https://ir.tevapharm.com/investor-resources/conversion-of-teva-adss-into-ordinary-shares/default.aspx',
+     'note': 'One NYSE ordinary share for each ADS. Preserve original class/CUSIP; do not infer sale and repurchase from the conversion.'},
     {'type': 'cusip_change', 'ticker': 'SOND', 'date': '2023-09-21', 'old_cusip': '83542D102',
      'new_cusip': '83542D300', 'ratio': .05,
      'source': 'https://www.nasdaqtrader.com/TraderNews.aspx?id=ECA2023-532',
@@ -108,12 +160,26 @@ IDENTITY_ACTIONS = [
      'new_cusip': '94352A104', 'ratio': 1, 'source': 'https://www.nasdaqtrader.com/TraderNews.aspx?id=ECA2026-560'},
 ]
 UNCERTAIN_ACTIONS = [{
+    'ticker': 'CNR', 'start': '2024-12-31', 'end': '2025-03-31',
+    'cusips': ['20854L108', '218937100', '03940R107'],
+    'reason': 'CONSOL与Arch合并为Core Natural Resources，包含续存证券更名及Arch按1.326换股；原证券分别保留，该季度相关差额不认定为现金买卖。',
+    'source': 'https://www.sec.gov/Archives/edgar/data/1710366/000119312525007135/d836647dex991.htm',
+}, {
+    'ticker': 'ADIG', 'start': '2026-06-30', 'end': '2026-09-30',
+    'cusips': ['001026103', '76118Y104'],
+    'reason': 'Resideo每两股分派一股ADI Global；季度内取得时点未知，母子公司变化单列未归因，不把分派当作新现金买入。',
+    'source': 'https://www.sec.gov/Archives/edgar/data/2105139/000162828026073496/adig-20261003.htm',
+}, {
     'ticker': 'AMC', 'start': '2023-06-30', 'end': '2023-09-30',
     'cusips': ['00165C104', '00165C302', '00165C203'],
     'reason': 'AMC本季同时并股、APE转换及诉讼和解派股；缺少完整逐账户转换路径，市值差单列未归因，不按简单并股推断买卖。',
     'source': 'https://investor.amctheatres.com/sec-filings/all-sec-filings/content/0001104659-23-090981/tm2323643d1_8k.htm',
 }]
 PRIMARY_ACTION_REVIEWS = [{
+    'ticker': 'REZI', 'start': '2026-06-30', 'end': '2026-09-30',
+    'source': 'https://www.sec.gov/Archives/edgar/data/2105139/000162828026073496/adig-20261003.htm',
+    'reason': 'ADI spin-off, not a parent stock split; related quarter is explicitly unattributed.',
+}, {
     'ticker': 'INIO', 'start': '2026-06-30', 'end': '2026-09-30',
     'source': 'https://www.sec.gov/Archives/edgar/data/2109150/000162828026067448/inio-20260930.htm',
     'reason': 'Q3 10-Q reports 750m weighted-average and September30 outstanding common shares; the conversion was June4 before Q2-end, with no Q3 split identified.',
@@ -258,6 +324,8 @@ def nominal_price(chart, date):
 def compare_unit(raw_price, reference):
     # A price gap cannot bridge three orders of magnitude. Reject inconsistent
     # anchors instead of choosing a manager-wide or schema-wide multiplier.
+    if not reference or reference <= 0 or raw_price <= 0:
+        return None
     matches = [m for m in (1, 1000) if abs(raw_price * m / reference - 1) <= .12]
     return matches[0] if len(matches) == 1 else None
 
@@ -325,6 +393,16 @@ def apply_charts(data, charts):
             else:
                 data['splits'].append(item)
     data.setdefault('audit', {})['excluded_price_adjustments'] = excluded
+    for event in PRIMARY_SPLITS:
+        if event['ticker'] not in symbols:
+            continue
+        existing = next((s for s in data['splits'] if s['ticker'] == event['ticker'] and s['date'] == event['date']), None)
+        if existing and abs(existing['ratio'] / event['ratio'] - 1) > .002:
+            raise ValueError('Primary split conflicts with quote history: ' + event['ticker'])
+        if existing:
+            existing.update(quote_reported_ratio=existing['ratio'], ratio=event['ratio'], primary_source=event['source'])
+        else:
+            data['splits'].append(dict(event, evidence_type='primary_corporate_action'))
     # Primary exchange notices supply a share factor even if Yahoo has no history.
     for action in IDENTITY_ACTIONS:
         if action['ratio'] == 1 or not ({action['old_cusip'], action['new_cusip']} & data['securities'].keys()):
@@ -388,6 +466,14 @@ def apply_quote_overrides(data, stage):
 def normalize(args):
     stage = Path(args.stage)
     datasets = {key: read_json(stage / f'{key}-fetched.json') for key in args.keys}
+    class_overrides = read_json(stage / 'class-overrides.json') if (stage / 'class-overrides.json').exists() else {}
+    for key, data in datasets.items():
+        data['scoped_class_alias_evidence'] = class_overrides.get(key, [])
+        for action in data['scoped_class_alias_evidence']:
+            for filing in data['filings']:
+                for row in filing['rows']:
+                    if all(row[field] == action[field] for field in ('cusip', 'put_call', 'share_type')):
+                        row['canonical_class'] = action['canonical_class']
     records = mapping_records()
     for override_path in (ROOT / 'scripts/data/13f-2026q3-security-overrides.json', stage / 'mapping-overrides.json'):
         if override_path.exists():
@@ -452,6 +538,21 @@ def normalize(args):
                     securities=securities, normalization_method=NORMALIZATION_METHOD,
                     editorial=metadata.get(key, {}), uncertain_corporate_actions=[
                         action for action in UNCERTAIN_ACTIONS if set(action['cusips']) & securities.keys()])
+        classes = {}
+        for filing in data['filings']:
+            for row in filing['rows']:
+                group = (row['cusip'], row['put_call'], row['share_type'])
+                classes.setdefault(group, set()).add(normalized_class(row))
+        data['class_identity_issues'] = [
+            {'cusip': c, 'put_call': pc, 'share_type': st, 'classes': sorted(variants)}
+            for (c, pc, st), variants in sorted(classes.items()) if len(variants) > 1]
+        if key == 'greenlight':
+            data['noncomparable_intervals'] = [{
+                'start': '2023-12-31', 'end': '2024-03-31',
+                'label': '申报主体切换，不作交易方向判断',
+                'reason': 'Greenlight转为DME申报；主体及纳入管理人范围变化，该区间仅展示两端持仓与市值差，不归因为主动交易或价格收益。',
+                'source': 'https://www.sec.gov/Archives/edgar/data/1489933/000117266124001504/0001172661-24-001504.txt',
+            }]
         apply_charts(data, charts)
         apply_quote_overrides(data, stage)
         periods = resolve_filings(data)
@@ -536,10 +637,21 @@ def freeze(args):
     prepared = []
     for key in args.keys:
         data = read_json(stage / f'{key}-normalized.json')
+        previous_watch = set(data.get('editorial', {}).get('watch', []))
         data['editorial'] = dict(data.get('editorial', {}), **metadata[key])
+        data['editorial']['watch'] = sorted(previous_watch | set(data['editorial'].get('watch', [])))
         data['corporate_actions'] = [action for action in IDENTITY_ACTIONS
                                     if action['old_cusip'] in data['securities'] or action['new_cusip'] in data['securities']]
         data['class_alias_evidence'] = [action for action in CLASS_ALIASES if action['cusip'] in data['securities']]
+        data['class_alias_evidence'].extend(data.get('scoped_class_alias_evidence', []))
+        for cusip, canonical in BATCH3_CLASS_ALIASES.items():
+            variants = sorted({r['security_class'] for f in data['filings'] for r in f['rows'] if r['cusip'] == cusip})
+            if len(variants) > 1:
+                data['class_alias_evidence'].append({
+                    'cusip': cusip, 'canonical_class': canonical, 'original_classes': variants,
+                    'sources': sorted({f['url'] for f in data['filings'] if any(r['cusip'] == cusip for r in f['rows'])}),
+                    'note': 'Same CUSIP identifies the same legal security; reviewed whitespace / class spelling variants only. PUT/CALL remains independent.',
+                })
         old = legacy_page(data, vault, stage)
         if old:
             prepared.append((target / 'legacy' / old.name, old.read_bytes()))
@@ -548,8 +660,12 @@ def freeze(args):
             raise ValueError(f'Incomplete quarter coverage: {key}')
         data['replay_evidence'] = {'builder_sha256': digest(Path(__file__).read_bytes()),
                                    'generator_sha256': digest((ROOT / 'scripts/generate_13f_trends.py').read_bytes()),
-                                   'identity_rules_version': '2026Q3-v2',
+                                   'identity_rules_version': '2026Q3-v3',
                                    'identity_rules': ['CUSIP + normalized class + PUT/CALL; original class retained',
+                                                      'Scoped class aliases require matching CUSIP, PUT/CALL and share type; unresolved classes remain separate',
+                                                      'Greenlight to DME 2024Q1 scope transition is not attributed to trades or price changes',
+                                                      'Teva ADS to ordinary share one-for-one conversion; preserve original CUSIPs',
+                                                      'Tudor 2022Q4 and 2023Q1 cover counts use exact-content exceptions verified against standalone XML',
                                                       'PDD/DBV/YPF/JD ADS text aliases; AAL/XLF text aliases',
                                                       'Wave Y95308105 to 94352A104 one-for-one redomestication',
                                                       'LRCX 512807108 to 512807306 ten-for-one split; class COM/COM NEW aliases',
@@ -586,6 +702,9 @@ def freeze(args):
             prepared.append((target / 'quote-evidence' / source.name, source.read_bytes()))
     if (stage / 'quote-overrides.json').exists():
         prepared.append((target / 'quote-overrides.json', (stage / 'quote-overrides.json').read_bytes()))
+    for name in ('class-overrides.json', 'mapping-overrides.json'):
+        if (stage / name).exists():
+            prepared.append((target / name, (stage / name).read_bytes()))
     manifest = {str(p.relative_to(target)): digest(content) for p, content in prepared}
     prepared.append((target / 'sha256.json', json_bytes(manifest)))
     for path, content in prepared:

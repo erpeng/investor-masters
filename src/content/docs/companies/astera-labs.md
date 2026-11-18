@@ -15,6 +15,18 @@ Astera Labs（`ALAB`）是一家成立于 `2017` 年的无晶圆厂连接芯片�
 
 ## 公司点评
 
+<!-- 13f-2026q3-maverick:start -->
+### [Maverick Capital](/investor-masters/institutions/maverick-capital/)：2026Q3 公开持仓行为
+
+| 证券 | Q2股数 | Q3股数 | 调整后变化 | Q2权重 → Q3权重 | 前十变化 |
+|---|---:|---:|---|---|---|
+| ALAB（Astera Labs, Inc.） | 1,067,215 | 3,029 | -99.72% | 4.55% → 0.01% | 退出前十，未必清仓 |
+
+解读框架：行业研究下的公司选择与经营差异。这是根据机构既有方法提出的研究问题，不是管理者对本次交易原因的公开解释。
+下一步验证：继续核对经营、资本配置和估值，区分原有核心与本季增量。
+报告日为2026-09-30；季度股数差不是实际交易记录，权重上涨也可能发生在减股时。当前价格过滤与来源审计见 [13F趋势-Maverick](/investor-masters/institutions/13f-trends-maverick/)。
+<!-- 13f-2026q3-maverick:end -->
+
 ### 独立研究
 
 **核心判断：`68/100`，置信度中低。** Astera 把“AI 机架越来越难连”变成了高毛利的芯片、模块、交换机和软件能力。真正需求来自加速器数量、协议复杂度和故障代价上升，而不是单纯押注铜缆。无晶圆厂模式、约 `76%` 毛利率和净现金资产负债表都很强；问题是它仍是采购订单驱动的硬件生意，没有最低采购量或独立软件订阅收入，每代平台都要重新赢得设计。
@@ -55,6 +67,10 @@ Atreides 在 Q2 大幅减股后，本季又增股 102.10%，因此应将旧段�
 
 ## 相关页面
 
+<!-- 13f-2026q3-maverick-links:start -->
+- [Maverick Capital](/investor-masters/institutions/maverick-capital/)；[13F趋势-Maverick](/investor-masters/institutions/13f-trends-maverick/)；[13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
+<!-- 13f-2026q3-maverick-links:end -->
+
 - [加文·贝克](/investor-masters/investors/gavin-baker/)
 - [Atreides Management](/investor-masters/institutions/atreides-management/)
 - [13F趋势-Atreides](/investor-masters/institutions/13f-trends-atreides/)
@@ -62,6 +78,10 @@ Atreides 在 Q2 大幅减股后，本季又增股 102.10%，因此应将旧段�
 - [物理瓶颈](/investor-masters/concepts/physical-bottlenecks/)
 
 ## 主要来源
+
+<!-- 13f-2026q3-maverick-sources:start -->
+- [SEC｜Maverick：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/maverick-13f-2026q3/)；[Maverick-13f-source-audit](/investor-masters/sources/maverick-13f-source-audit/)
+<!-- 13f-2026q3-maverick-sources:end -->
 
 - [Astera Labs 2025 Form 10-K](https://www.sec.gov/Archives/edgar/data/1736297/000173629726000010/alab-20251231.htm)
 - [Astera Labs 2026Q1 Form 10-Q](https://www.sec.gov/Archives/edgar/data/1736297/000173629726000020/alab-20260331.htm)

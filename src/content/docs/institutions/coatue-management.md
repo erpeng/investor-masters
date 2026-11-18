@@ -67,7 +67,7 @@ Coatue 值得单独读，是因为它不是普通“科技基金”。它把公�
 - SKHY为2026Q3新上市ADR，10份ADS代表1股普通股；首次列示不等于首次投资，不能与韩国普通股股数直接相加。
 - Cerebras减股53.56%，其上市及股份口径需另核；与SpaceX等特殊披露一并排除普通股票主榜。
 - 大幅增加微软和Meta，新列Salesforce、Shopify、ICE及支付网络，同时减少Alphabet、ASML、Eaton与Cerebras。科技内部发生重配，不能概括为整个AI产业链同步加仓。
-- 长历史与全部在持证券：[13F趋势-Coatue](/investor-masters/institutions/13f-trends-coatue/)；横向页：[Q3 十家样本](/investor-masters/institutions/13f-trends-2026-q3/)。
+- 长历史与全部在持证券：[13F趋势-Coatue](/investor-masters/institutions/13f-trends-coatue/)；横向页：[Q3 23 家样本](/investor-masters/institutions/13f-trends-2026-q3/)。
 
 ### 近四个已披露季度前 10 大持仓
 

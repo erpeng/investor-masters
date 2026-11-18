@@ -221,5 +221,233 @@
       "note": "Nasdaq confirms CUSIPG4124C117=GRABW warrants; ordinary shares are G4124C109/GRAB. Altimeter Q2/Q3 title is W EXP12/1/202,3,502,000 warrants unchanged; $0.027 is warrant implied value, not ordinary-share price anomaly."
     },
     "comparability_exclusion": "认股权证；按工具单列，不使用 GRAB 普通股行情或纳入普通股可复制排序"
+  },
+  "H82027105": {
+    "ticker": "SOPH",
+    "name": "SOPHiA GENETICS SA",
+    "description": "",
+    "mapping_status": "sec_issuer_and_ticker_confirmed",
+    "mapping_source": "https://www.sec.gov/files/company_tickers.json",
+    "mapping_evidence": {
+      "ticker_record": {
+        "cik_str": 1840706,
+        "ticker": "SOPH",
+        "title": "SOPHiA GENETICS SA"
+      },
+      "ticker_file_sha256": "29e8eee5a85a68e837628b0e9623870af68db41e5427a154d17fe3b1af0a1b9a",
+      "filing_source": "https://www.sec.gov/Archives/edgar/data/1112520/000111252026000022/0001112520-26-000022.txt",
+      "filing_issuer": "SOPHIA GENETICS SA",
+      "cusip": "H82027105",
+      "security_class": "ORDINARY SHARES"
+    }
+  },
+  "87318A101": {
+    "ticker": "TWFG",
+    "name": "TWFG, Inc.",
+    "description": "",
+    "mapping_status": "sec_issuer_and_ticker_confirmed",
+    "mapping_source": "https://www.sec.gov/files/company_tickers.json",
+    "mapping_evidence": {
+      "ticker_record": {
+        "cik_str": 2007596,
+        "ticker": "TWFG",
+        "title": "TWFG, Inc."
+      },
+      "ticker_file_sha256": "29e8eee5a85a68e837628b0e9623870af68db41e5427a154d17fe3b1af0a1b9a",
+      "filing_source": "https://www.sec.gov/Archives/edgar/data/1641864/000164186426000011/0001641864-26-000011.txt",
+      "filing_issuer": "TWFG INC",
+      "cusip": "87318A101",
+      "security_class": "COM CL A"
+    }
+  },
+  "G1151C101": {
+    "ticker": "ACN",
+    "name": "Accenture plc",
+    "description": "",
+    "mapping_status": "sec_issuer_and_ticker_confirmed",
+    "mapping_source": "https://www.sec.gov/files/company_tickers.json",
+    "mapping_evidence": {
+      "ticker_record": {
+        "cik_str": 1467373,
+        "ticker": "ACN",
+        "title": "Accenture plc"
+      },
+      "ticker_file_sha256": "29e8eee5a85a68e837628b0e9623870af68db41e5427a154d17fe3b1af0a1b9a",
+      "filing_source": "https://www.sec.gov/Archives/edgar/data/813917/000081391726000049/0000813917-26-000049.txt",
+      "filing_issuer": "ACCENTURE PLC IRELAND",
+      "cusip": "G1151C101",
+      "security_class": "SHS CLASS A"
+    }
+  },
+  "H2927K103": {
+    "ticker": "AMRZ",
+    "name": "Amrize Ltd",
+    "description": "",
+    "mapping_status": "sec_issuer_and_ticker_confirmed",
+    "mapping_source": "https://www.sec.gov/files/company_tickers.json",
+    "mapping_evidence": {
+      "ticker_record": {
+        "cik_str": 2035989,
+        "ticker": "AMRZ",
+        "title": "Amrize Ltd"
+      },
+      "ticker_file_sha256": "29e8eee5a85a68e837628b0e9623870af68db41e5427a154d17fe3b1af0a1b9a",
+      "filing_source": "https://www.sec.gov/Archives/edgar/data/813917/000081391726000049/0000813917-26-000049.txt",
+      "filing_issuer": "AMRIZE LTD",
+      "cusip": "H2927K103",
+      "security_class": "SHS"
+    }
+  },
+  "M2029K104": {
+    "ticker": "BIRK",
+    "name": "Birkenstock Holding plc",
+    "description": "",
+    "mapping_status": "sec_issuer_and_ticker_confirmed",
+    "mapping_source": "https://www.sec.gov/files/company_tickers.json",
+    "mapping_evidence": {
+      "ticker_record": {
+        "cik_str": 1977102,
+        "ticker": "BIRK",
+        "title": "Birkenstock Holding plc"
+      },
+      "ticker_file_sha256": "29e8eee5a85a68e837628b0e9623870af68db41e5427a154d17fe3b1af0a1b9a",
+      "filing_source": "https://www.sec.gov/Archives/edgar/data/813917/000081391726000049/0000813917-26-000049.txt",
+      "filing_issuer": "BIRKENSTOCK HOLDING PLC",
+      "cusip": "M2029K104",
+      "security_class": "COM SHS"
+    }
+  },
+  "N20944109": {
+    "ticker": "CNH",
+    "name": "CNH Industrial N.V.",
+    "description": "",
+    "mapping_status": "sec_issuer_and_ticker_confirmed",
+    "mapping_source": "https://www.sec.gov/files/company_tickers.json",
+    "mapping_evidence": {
+      "ticker_record": {
+        "cik_str": 1567094,
+        "ticker": "CNH",
+        "title": "CNH Industrial N.V."
+      },
+      "ticker_file_sha256": "29e8eee5a85a68e837628b0e9623870af68db41e5427a154d17fe3b1af0a1b9a",
+      "filing_source": "https://www.sec.gov/Archives/edgar/data/813917/000081391726000049/0000813917-26-000049.txt",
+      "filing_issuer": "CNH INDL N V",
+      "cusip": "N20944109",
+      "security_class": "SHS"
+    }
+  },
+  "G2717C106": {
+    "ticker": "CWK",
+    "name": "Cushman & Wakefield Ltd.",
+    "description": "",
+    "mapping_status": "sec_issuer_and_ticker_confirmed",
+    "mapping_source": "https://www.sec.gov/files/company_tickers.json",
+    "mapping_evidence": {
+      "ticker_record": {
+        "cik_str": 1628369,
+        "ticker": "CWK",
+        "title": "Cushman & Wakefield Ltd."
+      },
+      "ticker_file_sha256": "29e8eee5a85a68e837628b0e9623870af68db41e5427a154d17fe3b1af0a1b9a",
+      "filing_source": "https://www.sec.gov/Archives/edgar/data/813917/000081391726000049/0000813917-26-000049.txt",
+      "filing_issuer": "CUSHMAN AND WAKEFIELD LTD",
+      "cusip": "G2717C106",
+      "security_class": "COMMON SHARES"
+    }
+  },
+  "N30577105": {
+    "ticker": "ZGN",
+    "name": "Ermenegildo Zegna N.V.",
+    "description": "",
+    "mapping_status": "sec_issuer_and_ticker_confirmed",
+    "mapping_source": "https://www.sec.gov/files/company_tickers.json",
+    "mapping_evidence": {
+      "ticker_record": {
+        "cik_str": 1877787,
+        "ticker": "ZGN",
+        "title": "Ermenegildo Zegna N.V."
+      },
+      "ticker_file_sha256": "29e8eee5a85a68e837628b0e9623870af68db41e5427a154d17fe3b1af0a1b9a",
+      "filing_source": "https://www.sec.gov/Archives/edgar/data/813917/000081391726000049/0000813917-26-000049.txt",
+      "filing_issuer": "ERMENEGILDO ZEGNA N V",
+      "cusip": "N30577105",
+      "security_class": "ORD SHS"
+    }
+  },
+  "G4705A100": {
+    "ticker": "ICLR",
+    "name": "ICON PLC",
+    "description": "",
+    "mapping_status": "sec_issuer_and_ticker_confirmed",
+    "mapping_source": "https://www.sec.gov/files/company_tickers.json",
+    "mapping_evidence": {
+      "ticker_record": {
+        "cik_str": 1060955,
+        "ticker": "ICLR",
+        "title": "ICON PLC"
+      },
+      "ticker_file_sha256": "29e8eee5a85a68e837628b0e9623870af68db41e5427a154d17fe3b1af0a1b9a",
+      "filing_source": "https://www.sec.gov/Archives/edgar/data/813917/000081391726000049/0000813917-26-000049.txt",
+      "filing_issuer": "ICON PUB LTD CO",
+      "cusip": "G4705A100",
+      "security_class": "SHS"
+    }
+  },
+  "G51502105": {
+    "ticker": "JCI",
+    "name": "Johnson Controls International plc",
+    "description": "",
+    "mapping_status": "sec_issuer_and_ticker_confirmed",
+    "mapping_source": "https://www.sec.gov/files/company_tickers.json",
+    "mapping_evidence": {
+      "ticker_record": {
+        "cik_str": 833444,
+        "ticker": "JCI",
+        "title": "Johnson Controls International plc"
+      },
+      "ticker_file_sha256": "29e8eee5a85a68e837628b0e9623870af68db41e5427a154d17fe3b1af0a1b9a",
+      "filing_source": "https://www.sec.gov/Archives/edgar/data/813917/000081391726000049/0000813917-26-000049.txt",
+      "filing_issuer": "JOHNSON CONTROLS INTERNATION",
+      "cusip": "G51502105",
+      "security_class": "SHS"
+    }
+  },
+  "G87052109": {
+    "ticker": "TEL",
+    "name": "TE Connectivity plc",
+    "description": "",
+    "mapping_status": "sec_issuer_and_ticker_confirmed",
+    "mapping_source": "https://www.sec.gov/files/company_tickers.json",
+    "mapping_evidence": {
+      "ticker_record": {
+        "cik_str": 1385157,
+        "ticker": "TEL",
+        "title": "TE Connectivity plc"
+      },
+      "ticker_file_sha256": "29e8eee5a85a68e837628b0e9623870af68db41e5427a154d17fe3b1af0a1b9a",
+      "filing_source": "https://www.sec.gov/Archives/edgar/data/813917/000081391726000049/0000813917-26-000049.txt",
+      "filing_issuer": "TE CONNECTIVITY PLC",
+      "cusip": "G87052109",
+      "security_class": "ORD SHS"
+    }
+  },
+  "G96629103": {
+    "ticker": "WTW",
+    "name": "WILLIS TOWERS WATSON PLC",
+    "description": "",
+    "mapping_status": "sec_issuer_and_ticker_confirmed",
+    "mapping_source": "https://www.sec.gov/files/company_tickers.json",
+    "mapping_evidence": {
+      "ticker_record": {
+        "cik_str": 1140536,
+        "ticker": "WTW",
+        "title": "WILLIS TOWERS WATSON PLC"
+      },
+      "ticker_file_sha256": "29e8eee5a85a68e837628b0e9623870af68db41e5427a154d17fe3b1af0a1b9a",
+      "filing_source": "https://www.sec.gov/Archives/edgar/data/813917/000081391726000049/0000813917-26-000049.txt",
+      "filing_issuer": "WILLIS TOWERS WATSON PLC LTD",
+      "cusip": "G96629103",
+      "security_class": "SHS"
+    }
   }
 }

@@ -15,6 +15,18 @@ description: "读者反复回到伯克希尔，不是因为它只有一条投资
 
 ## 公司点评
 
+<!-- 13f-2026q3-giverny:start -->
+### [Giverny Capital](/investor-masters/institutions/giverny-capital/)：2026Q3 公开持仓行为
+
+| 证券 | Q2股数 | Q3股数 | 调整后变化 | Q2权重 → Q3权重 | 前十变化 |
+|---|---:|---:|---|---|---|
+| BRK-B（伯克希尔·哈撒韦） | 248,447 | 152,192 | -38.74% | 4.18% → 2.60% | 退出前十，未必清仓 |
+
+解读框架：比较每股价值增长、业务耐久性与资本机会成本。这是根据机构既有方法提出的研究问题，不是管理者对本次交易原因的公开解释。
+下一步验证：继续核对经营、资本配置和估值，区分原有核心与本季增量。
+报告日为2026-09-30；季度股数差不是实际交易记录，权重上涨也可能发生在减股时。当前价格过滤与来源审计见 [13F趋势-Giverny](/investor-masters/institutions/13f-trends-giverny/)。
+<!-- 13f-2026q3-giverny:end -->
+
 ### [段永平](/investor-masters/investors/duan-yongping/)
 > “至于说这个接班人的水平怎么样，老巴有犯错误的时候，但老巴找的人也不会说差到哪里去，它这个文化是不会变的，它们不会是一家投机的公司，你拿着伯克希尔哈撒韦，肯定比随便买一个共同基金要好。” ——来源：[“打孔机”只打了不到10个孔！段永平与方三文最新对话，详解“投资中如何真正算看懂”……](/investor-masters/sources/source-92/)
 
@@ -86,6 +98,10 @@ Himalaya 将 BRK.B 股数提高 `23.5%`，H&H 小幅提高 `0.9%`。前者是明
 
 ## 相关页面
 
+<!-- 13f-2026q3-giverny-links:start -->
+- [Giverny Capital](/investor-masters/institutions/giverny-capital/)；[13F趋势-Giverny](/investor-masters/institutions/13f-trends-giverny/)；[13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
+<!-- 13f-2026q3-giverny-links:end -->
+
 - [查克·阿克雷](/investor-masters/investors/chuck-akre/)
 - [Akre Capital Management](/investor-masters/institutions/akre-capital-management/)
 - [再投资跑道](/investor-masters/concepts/reinvestment-runway/)
@@ -104,6 +120,10 @@ Himalaya 将 BRK.B 股数提高 `23.5%`，H&H 小幅提高 `0.9%`。前者是明
 - [所有者收益](/investor-masters/concepts/owners-earnings/)
 
 ## 主要来源
+
+<!-- 13f-2026q3-giverny-sources:start -->
+- [SEC｜Giverny：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/giverny-13f-2026q3/)；[Giverny-13f-source-audit](/investor-masters/sources/giverny-13f-source-audit/)
+<!-- 13f-2026q3-giverny-sources:end -->
 
 - [Akre｜Chuck Akre：1988股东信](/investor-masters/sources/akre-1988/)
 - [Akre｜Chuck Akre：再投资究竟是什么](/investor-masters/sources/akre-2014/)

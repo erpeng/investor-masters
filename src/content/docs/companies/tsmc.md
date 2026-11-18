@@ -13,6 +13,66 @@ description: "台积电在这批资料里主要是“稀缺制造能力”的样
 
 ## 公司点评
 
+<!-- 13f-2026q3-tudor:start -->
+### [Tudor Investment Corporation](/investor-masters/institutions/tudor-investment-corporation/)：2026Q3 公开持仓行为
+
+| 证券 | Q2股数 | Q3股数 | 调整后变化 | Q2权重 → Q3权重 | 前十变化 |
+|---|---:|---:|---|---|---|
+| TSM（台积电） [ADR/ADS] | 1,369,304 | 1,548,131 | +13.06% | 0.91% → 0.92% | 进入前十 |
+
+解读框架：资产方向与工具组合观察，不推导净风险。这是根据机构既有方法提出的研究问题，不是管理者对本次交易原因的公开解释。
+下一步验证：先进制程、封装与资本开支回报。
+报告日为2026-09-30；季度股数差不是实际交易记录，权重上涨也可能发生在减股时。当前价格过滤与来源审计见 [13F趋势-Tudor](/investor-masters/institutions/13f-trends-tudor/)。
+<!-- 13f-2026q3-tudor:end -->
+
+<!-- 13f-2026q3-lone-pine:start -->
+### [Lone Pine Capital](/investor-masters/institutions/lone-pine-capital/)：2026Q3 公开持仓行为
+
+| 证券 | Q2股数 | Q3股数 | 调整后变化 | Q2权重 → Q3权重 | 前十变化 |
+|---|---:|---:|---|---|---|
+| TSM（台积电） [ADR/ADS] | 101,242 | 1,716,117 | +1595.06% | 0.30% → 5.11% | 进入前十 |
+
+解读框架：经营变化、新承接与持续性验证。这是根据机构既有方法提出的研究问题，不是管理者对本次交易原因的公开解释。
+下一步验证：先进制程、封装与资本回报。
+报告日为2026-09-30；季度股数差不是实际交易记录，权重上涨也可能发生在减股时。当前价格过滤与来源审计见 [13F趋势-Lone Pine](/investor-masters/institutions/13f-trends-lone-pine/)。
+<!-- 13f-2026q3-lone-pine:end -->
+
+<!-- 13f-2026q3-maverick:start -->
+### [Maverick Capital](/investor-masters/institutions/maverick-capital/)：2026Q3 公开持仓行为
+
+| 证券 | Q2股数 | Q3股数 | 调整后变化 | Q2权重 → Q3权重 | 前十变化 |
+|---|---:|---:|---|---|---|
+| TSM（台积电） [ADR/ADS] | 711,757 | 1,005,351 | +41.25% | 3.00% → 3.58% | 进入前十 |
+
+解读框架：行业研究下的公司选择与经营差异。这是根据机构既有方法提出的研究问题，不是管理者对本次交易原因的公开解释。
+下一步验证：先进制程、封装与资本开支回报。
+报告日为2026-09-30；季度股数差不是实际交易记录，权重上涨也可能发生在减股时。当前价格过滤与来源审计见 [13F趋势-Maverick](/investor-masters/institutions/13f-trends-maverick/)。
+<!-- 13f-2026q3-maverick:end -->
+
+<!-- 13f-2026q3-kensico:start -->
+### [Kensico Capital Management](/investor-masters/institutions/kensico-capital-management/)：2026Q3 公开持仓行为
+
+| 证券 | Q2股数 | Q3股数 | 调整后变化 | Q2权重 → Q3权重 | 前十变化 |
+|---|---:|---:|---|---|---|
+| TSM（台积电） [ADR/ADS] | 179,500 | 79,000 | -55.99% | 1.47% → 0.73% | 未进入前十 |
+
+解读框架：集中组合内部的新增承接与机会成本。这是根据机构既有方法提出的研究问题，不是管理者对本次交易原因的公开解释。
+下一步验证：继续核对经营、资本配置和估值，区分原有核心与本季增量。
+报告日为2026-09-30；季度股数差不是实际交易记录，权重上涨也可能发生在减股时。当前价格过滤与来源审计见 [13F趋势-Kensico](/investor-masters/institutions/13f-trends-kensico/)。
+<!-- 13f-2026q3-kensico:end -->
+
+<!-- 13f-2026q3-third-point:start -->
+### [Third Point](/investor-masters/institutions/third-point/)：2026Q3 公开持仓行为
+
+| 证券 | Q2股数 | Q3股数 | 调整后变化 | Q2权重 → Q3权重 | 前十变化 |
+|---|---:|---:|---|---|---|
+| TSM（台积电） [ADR/ADS] | 460,000 | 400,000 | -13.04% | 4.69% → 3.98% | 退出前十，未必清仓 |
+
+解读框架：事件、经营拐点和资本配置的条件性研究。这是根据机构既有方法提出的研究问题，不是管理者对本次交易原因的公开解释。
+下一步验证：继续核对经营、资本配置和估值，区分原有核心与本季增量。
+报告日为2026-09-30；季度股数差不是实际交易记录，权重上涨也可能发生在减股时。当前价格过滤与来源审计见 [13F趋势-Third Point](/investor-masters/institutions/13f-trends-third-point/)。
+<!-- 13f-2026q3-third-point:end -->
+
 ### [詹姆斯·安德森](/investor-masters/investors/james-anderson/)
 > “安德森：我可能会先从台湾地区说起。台积电做出来的事情确实非常了不起。但我们不太愿意把它简单解释成“地区整体趋势”的产物，它更像是一个高度特殊、难以复制的例外。” ——来源：[2.5万字｜柏基“传奇基金经理”安德森的罕见深访：伟大公司各有各的独特，平庸公司却都差不多……](/investor-masters/sources/source-03/)
 
@@ -67,6 +127,26 @@ Coatue 在 `2026Q1` 把 `TSM` 推到公开 13F 第一大仓：约 `9.28m` 股、
 
 ## 相关页面
 
+<!-- 13f-2026q3-tudor-links:start -->
+- [Tudor Investment Corporation](/investor-masters/institutions/tudor-investment-corporation/)；[13F趋势-Tudor](/investor-masters/institutions/13f-trends-tudor/)；[13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
+<!-- 13f-2026q3-tudor-links:end -->
+
+<!-- 13f-2026q3-lone-pine-links:start -->
+- [Lone Pine Capital](/investor-masters/institutions/lone-pine-capital/)；[13F趋势-Lone Pine](/investor-masters/institutions/13f-trends-lone-pine/)；[13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
+<!-- 13f-2026q3-lone-pine-links:end -->
+
+<!-- 13f-2026q3-maverick-links:start -->
+- [Maverick Capital](/investor-masters/institutions/maverick-capital/)；[13F趋势-Maverick](/investor-masters/institutions/13f-trends-maverick/)；[13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
+<!-- 13f-2026q3-maverick-links:end -->
+
+<!-- 13f-2026q3-kensico-links:start -->
+- [Kensico Capital Management](/investor-masters/institutions/kensico-capital-management/)；[13F趋势-Kensico](/investor-masters/institutions/13f-trends-kensico/)；[13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
+<!-- 13f-2026q3-kensico-links:end -->
+
+<!-- 13f-2026q3-third-point-links:start -->
+- [Third Point](/investor-masters/institutions/third-point/)；[13F趋势-Third Point](/investor-masters/institutions/13f-trends-third-point/)；[13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
+<!-- 13f-2026q3-third-point-links:end -->
+
 - [詹姆斯·安德森](/investor-masters/investors/james-anderson/)
 - [劳伦斯·伯恩斯](/investor-masters/investors/lawrence-burns/)
 - [大卫·泰珀](/investor-masters/investors/david-tepper/)
@@ -78,6 +158,26 @@ Coatue 在 `2026Q1` 把 `TSM` 推到公开 13F 第一大仓：约 `9.28m` 股、
 - [13F趋势-2026Q2](/investor-masters/institutions/13f-trends-2026-q2/)
 
 ## 主要来源
+
+<!-- 13f-2026q3-tudor-sources:start -->
+- [SEC｜Tudor：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/tudor-13f-2026q3/)；[Tudor-13f-source-audit](/investor-masters/sources/tudor-13f-source-audit/)
+<!-- 13f-2026q3-tudor-sources:end -->
+
+<!-- 13f-2026q3-lone-pine-sources:start -->
+- [SEC｜Lone Pine：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/lone-pine-13f-2026q3/)；[Lone Pine-13f-source-audit](/investor-masters/sources/lone-pine-13f-source-audit/)
+<!-- 13f-2026q3-lone-pine-sources:end -->
+
+<!-- 13f-2026q3-maverick-sources:start -->
+- [SEC｜Maverick：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/maverick-13f-2026q3/)；[Maverick-13f-source-audit](/investor-masters/sources/maverick-13f-source-audit/)
+<!-- 13f-2026q3-maverick-sources:end -->
+
+<!-- 13f-2026q3-kensico-sources:start -->
+- [SEC｜Kensico：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/kensico-13f-2026q3/)；[Kensico-13f-source-audit](/investor-masters/sources/kensico-13f-source-audit/)
+<!-- 13f-2026q3-kensico-sources:end -->
+
+<!-- 13f-2026q3-third-point-sources:start -->
+- [SEC｜Third Point：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/third-point-13f-2026q3/)；[Third Point-13f-source-audit](/investor-masters/sources/third-point-13f-source-audit/)
+<!-- 13f-2026q3-third-point-sources:end -->
 
 - [Coatue 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1135730/000091957426005478/0000919574-26-005478.txt)
 - [Coatue 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1135730/000091957426007862/0000919574-26-007862.txt)

@@ -13,6 +13,18 @@ Uber 在这批资料里最值得看的，已经不只是 Robotaxi 价值链里�
 
 ## 公司点评
 
+<!-- 13f-2026q3-dorsey:start -->
+### [Dorsey Asset Management](/investor-masters/institutions/dorsey-asset-management/)：2026Q3 公开持仓行为
+
+| 证券 | Q2股数 | Q3股数 | 调整后变化 | Q2权重 → Q3权重 | 前十变化 |
+|---|---:|---:|---|---|---|
+| UBER（优步） | 1,761,941 | 1,980,066 | +12.38% | 8.14% → 7.92% | 仍在前十 |
+
+解读框架：比较护城河、增长跑道及相邻持仓的机会成本。这是根据机构既有方法提出的研究问题，不是管理者对本次交易原因的公开解释。
+下一步验证：继续核对经营、资本配置和估值，区分原有核心与本季增量。
+报告日为2026-09-30；季度股数差不是实际交易记录，权重上涨也可能发生在减股时。当前价格过滤与来源审计见 [13F趋势-Dorsey](/investor-masters/institutions/13f-trends-dorsey/)。
+<!-- 13f-2026q3-dorsey:end -->
+
 ### [凯茜·伍德](/investor-masters/investors/cathie-wood/)
 > “另外，看 优步（Uber）以及其他公司试图‘挤进’这个赛道也很有意思。他们知道这件事很重要，但我们从一开始就一直在说，而且现在仍然相信：优步和其他平台更可能扮演‘获客入口’的角色，为特斯拉和 Waymo 导流。”
 >
@@ -65,6 +77,10 @@ Pershing 权重以包含 PS 关联主体股份的完整申报为分母；它不�
 
 ## 相关页面
 
+<!-- 13f-2026q3-dorsey-links:start -->
+- [Dorsey Asset Management](/investor-masters/institutions/dorsey-asset-management/)；[13F趋势-Dorsey](/investor-masters/institutions/13f-trends-dorsey/)；[13F趋势-2026Q3](/investor-masters/institutions/13f-trends-2026-q3/)
+<!-- 13f-2026q3-dorsey-links:end -->
+
 - [凯茜·伍德](/investor-masters/investors/cathie-wood/)
 - [大卫·泰珀](/investor-masters/investors/david-tepper/)
 - [帕特·多尔西](/investor-masters/investors/pat-dorsey/)
@@ -82,6 +98,10 @@ Pershing 权重以包含 PS 关联主体股份的完整申报为分母；它不�
 - [13F趋势-2026Q2](/investor-masters/institutions/13f-trends-2026-q2/)
 
 ## 主要来源
+
+<!-- 13f-2026q3-dorsey-sources:start -->
+- [SEC｜Dorsey：2022Q4至2026Q3持仓轨迹](/investor-masters/sources/dorsey-13f-2026q3/)；[Dorsey-13f-source-audit](/investor-masters/sources/dorsey-13f-source-audit/)
+<!-- 13f-2026q3-dorsey-sources:end -->
 
 - [Coatue 2026Q2 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1135730/000091957426005478/0000919574-26-005478.txt)
 - [Coatue 2026Q3 SEC 原始申报](https://www.sec.gov/Archives/edgar/data/1135730/000091957426007862/0000919574-26-007862.txt)
